@@ -1,21 +1,5 @@
 [
   {
-    "address": "221 VEROT SCHOOL RD",
-    "city": "LAFAYETTE",
-    "time": "02/19/2019 - 11:30 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.176,
-    "longitude": -92.00509
-  },
-  {
-    "address": "W GLORIA SWITCH RD & LA 93 HW",
-    "city": "LAFAYETTE",
-    "time": "02/19/2019 - 11:29 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2954852,
-    "longitude": -92.0263656
-  },
-  {
     "address": "3148 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "02/19/2019 - 10:51 AM",
