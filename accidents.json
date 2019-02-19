@@ -1,5 +1,21 @@
 [
   {
+    "address": "450 E FARREL RD",
+    "city": "LAFAYETTE",
+    "time": "02/19/2019 - 2:50 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14575,
+    "longitude": -92.04088
+  },
+  {
+    "address": "E GLORIA SWITCH RD & NE FRONTAGE RD",
+    "city": "LAFAYETTE",
+    "time": "02/19/2019 - 2:50 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2955,
+    "longitude": -92.02362
+  },
+  {
     "address": "113 W CONVENT ST",
     "city": "LAFAYETTE",
     "time": "02/19/2019 - 2:45 PM",
