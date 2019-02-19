@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & BENDEL RD",
+    "city": "LAFAYETTE",
+    "time": "02/19/2019 - 2:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19911,
+    "longitude": -92.01641
+  },
+  {
     "address": "W PINHOOK RD & JOMELA DR",
     "city": "LAFAYETTE",
     "time": "02/19/2019 - 2:20 PM",
@@ -38,13 +46,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.24441,
     "longitude": -92.04204
-  },
-  {
-    "address": "ALBERTSON PW & US 90 EAST HW",
-    "city": "BROUSSARD",
-    "time": "02/19/2019 - 12:26 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.14074,
-    "longitude": -91.94576
   }
 ]
