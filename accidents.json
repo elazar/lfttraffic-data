@@ -1,5 +1,13 @@
 [
   {
+    "address": "1522 CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "02/19/2019 - 2:51 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.23215,
+    "longitude": -91.98358
+  },
+  {
     "address": "450 E FARREL RD",
     "city": "LAFAYETTE",
     "time": "02/19/2019 - 2:50 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2955,
     "longitude": -92.02362
-  },
-  {
-    "address": "113 W CONVENT ST",
-    "city": "LAFAYETTE",
-    "time": "02/19/2019 - 2:45 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.22153,
-    "longitude": -92.01935
   },
   {
     "address": "2406 W CONGRESS ST",
