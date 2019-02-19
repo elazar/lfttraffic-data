@@ -1,0 +1,380 @@
+[
+  {
+    "main_road": "Ambassador Caffery",
+    "cross_road": "Congress",
+    "latitude": 30.19599,
+    "longitude": -92.07521,
+    "ptzid": "151"
+  },
+  {
+    "main_road": "Ambassador Caffery",
+    "cross_road": "Curran",
+    "latitude": 30.18842,
+    "longitude": -92.07508,
+    "ptzid": "210"
+  },
+  {
+    "main_road": "Ambassador Caffery",
+    "cross_road": "Eraste Landry",
+    "latitude": 30.21915,
+    "longitude": -92.07586,
+    "ptzid": "148"
+  },
+  {
+    "main_road": "Ambassador Caffery",
+    "cross_road": "Guilbeau",
+    "latitude": 30.20246,
+    "longitude": -92.07521,
+    "ptzid": "150"
+  },
+  {
+    "main_road": "Ambassador Caffery",
+    "cross_road": "I-10 WB Ramp",
+    "latitude": 30.2495,
+    "longitude": -92.06648,
+    "ptzid": "185"
+  },
+  {
+    "main_road": "Ambassador Caffery",
+    "cross_road": "Kaliste Saloom",
+    "latitude": 30.15648,
+    "longitude": -92.04843,
+    "ptzid": "113"
+  },
+  {
+    "main_road": "Ambassador Caffery",
+    "cross_road": "Ridge",
+    "latitude": 30.18132,
+    "longitude": -92.07497,
+    "ptzid": "152"
+  },
+  {
+    "main_road": "Ambassador Caffery",
+    "cross_road": "Robley",
+    "latitude": 30.17121,
+    "longitude": -92.06626,
+    "ptzid": "153"
+  },
+  {
+    "main_road": "Ambassador Caffery",
+    "cross_road": "Settlers Trace",
+    "latitude": 30.15976,
+    "longitude": -92.05229,
+    "ptzid": "213"
+  },
+  {
+    "main_road": "Ambassador Caffery",
+    "cross_road": "Verot School",
+    "latitude": 30.14579,
+    "longitude": -92.03244,
+    "ptzid": "188"
+  },
+  {
+    "main_road": "Ambassador Caffery",
+    "cross_road": "Willow",
+    "latitude": 30.2432,
+    "longitude": -92.06622,
+    "ptzid": "186"
+  },
+  {
+    "main_road": "Bertrand",
+    "cross_road": "Banks",
+    "latitude": 30.22712,
+    "longitude": -92.06077,
+    "ptzid": "66"
+  },
+  {
+    "main_road": "Bertrand",
+    "cross_road": "Congress",
+    "latitude": 30.21489,
+    "longitude": -92.04691,
+    "ptzid": "77"
+  },
+  {
+    "main_road": "Bertrand",
+    "cross_road": "Dulles Billeaud",
+    "latitude": 30.22232,
+    "longitude": -92.05219,
+    "ptzid": "191"
+  },
+  {
+    "main_road": "Evangeline Thruway",
+    "cross_road": "Albertson Pkwy",
+    "latitude": 30.14082,
+    "longitude": -91.94556,
+    "ptzid": "801"
+  },
+  {
+    "main_road": "Evangeline Thruway",
+    "cross_road": "Morgan",
+    "latitude": 30.15301,
+    "longitude": -91.95942,
+    "ptzid": "800"
+  },
+  {
+    "main_road": "Evangeline Thruway",
+    "cross_road": "Hwy 92",
+    "latitude": 30.09926,
+    "longitude": -91.94155,
+    "ptzid": "802"
+  },
+  {
+    "main_road": "Evangeline Thruway",
+    "cross_road": "Johnston (SB)",
+    "latitude": 30.22455,
+    "longitude": -92.01028,
+    "ptzid": "12"
+  },
+  {
+    "main_road": "Evangeline Thruway",
+    "cross_road": "Kaliste Saloom",
+    "latitude": 30.20077,
+    "longitude": -91.99944,
+    "ptzid": "170"
+  },
+  {
+    "main_road": "Evangeline Thruway",
+    "cross_road": "Louisiana",
+    "latitude": 30.22492,
+    "longitude": -92.00936,
+    "ptzid": "11"
+  },
+  {
+    "main_road": "Evangeline Thruway",
+    "cross_road": "Mudd (NB)",
+    "latitude": 30.23298,
+    "longitude": -92.01277,
+    "ptzid": "38"
+  },
+  {
+    "main_road": "Evangeline Thruway",
+    "cross_road": "Mudd (SB)",
+    "latitude": 30.23319,
+    "longitude": -92.01408,
+    "ptzid": "41"
+  },
+  {
+    "main_road": "Evangeline Thruway",
+    "cross_road": "Pinhook",
+    "latitude": 30.21769,
+    "longitude": -92.00487,
+    "ptzid": "33"
+  },
+  {
+    "main_road": "Evangeline Thruway",
+    "cross_road": "Simcoe (SB)",
+    "latitude": 30.23113,
+    "longitude": -92.0138,
+    "ptzid": "6"
+  },
+  {
+    "main_road": "Evangeline Thruway",
+    "cross_road": "Southpark",
+    "latitude": 30.17119,
+    "longitude": -91.98004,
+    "ptzid": "175"
+  },
+  {
+    "main_road": "Evangeline Thruway",
+    "cross_road": "University/Surrey",
+    "latitude": 30.20916,
+    "longitude": -91.99996,
+    "ptzid": "32"
+  },
+  {
+    "main_road": "Evangeline Thruway",
+    "cross_road": "Verot School",
+    "latitude": 30.18282,
+    "longitude": -91.98964,
+    "ptzid": "173"
+  },
+  {
+    "main_road": "Evangeline Thruway",
+    "cross_road": "Willow (NB)",
+    "latitude": 30.24453,
+    "longitude": -92.01176,
+    "ptzid": "39"
+  },
+  {
+    "main_road": "Evangeline Thruway",
+    "cross_road": "Willow (SB)",
+    "latitude": 30.24475,
+    "longitude": -92.01339,
+    "ptzid": "40"
+  },
+  {
+    "main_road": "Johnston",
+    "cross_road": "Ambassador Caffery",
+    "latitude": 30.17809,
+    "longitude": -92.07452,
+    "ptzid": "31"
+  },
+  {
+    "main_road": "Johnston",
+    "cross_road": "College",
+    "latitude": 30.20725,
+    "longitude": -92.0383,
+    "ptzid": "21"
+  },
+  {
+    "main_road": "Johnston",
+    "cross_road": "Duhon",
+    "latitude": 30.16624,
+    "longitude": -92.08315,
+    "ptzid": "199"
+  },
+  {
+    "main_road": "Johnston",
+    "cross_road": "Guilbeau/Camelia",
+    "latitude": 30.19369,
+    "longitude": -92.05864,
+    "ptzid": "28"
+  },
+  {
+    "main_road": "Johnston",
+    "cross_road": "Lewis",
+    "latitude": 30.21231,
+    "longitude": -92.02541,
+    "ptzid": "19"
+  },
+  {
+    "main_road": "Johnston",
+    "cross_road": "Ridge",
+    "latitude": 30.18134,
+    "longitude": -92.0713,
+    "ptzid": "30"
+  },
+  {
+    "main_road": "Johnston",
+    "cross_road": "University",
+    "latitude": 30.21728,
+    "longitude": -92.01908,
+    "ptzid": "17"
+  },
+  {
+    "main_road": "Johnston",
+    "cross_road": "Vital/Doucet",
+    "latitude": 30.20339,
+    "longitude": -92.04895,
+    "ptzid": "23"
+  },
+  {
+    "main_road": "Kaliste Saloom",
+    "cross_road": "Camelia",
+    "latitude": 30.16735,
+    "longitude": -92.03624,
+    "ptzid": "205"
+  },
+  {
+    "main_road": "Kaliste Saloom",
+    "cross_road": "Rue Louis XIV",
+    "latitude": 30.1729,
+    "longitude": -92.02974,
+    "ptzid": "115"
+  },
+  {
+    "main_road": "I-49",
+    "cross_road": "Gloria Switch",
+    "latitude": 30.29594,
+    "longitude": -92.02453,
+    "ptzid": "207"
+  },
+  {
+    "main_road": "Louisiana",
+    "cross_road": "Carmel",
+    "latitude": 30.23454,
+    "longitude": -92.00233,
+    "ptzid": "9"
+  },
+  {
+    "main_road": "Louisiana",
+    "cross_road": "Pont Des Mouton",
+    "latitude": 30.27237,
+    "longitude": -91.99255,
+    "ptzid": "202"
+  },
+  {
+    "main_road": "Louisiana",
+    "cross_road": "Willow",
+    "latitude": 30.24551,
+    "longitude": -92.00041,
+    "ptzid": "131"
+  },
+  {
+    "main_road": "Pinhook",
+    "cross_road": "Carmel",
+    "latitude": 30.23339,
+    "longitude": -91.99264,
+    "ptzid": "134"
+  },
+  {
+    "main_road": "Pinhook",
+    "cross_road": "Kaliste Saloom",
+    "latitude": 30.18859,
+    "longitude": -92.01412,
+    "ptzid": "79"
+  },
+  {
+    "main_road": "Pinhook",
+    "cross_road": "Southpark",
+    "latitude": 30.16063,
+    "longitude": -91.9911,
+    "ptzid": "174"
+  },
+  {
+    "main_road": "Pinhook",
+    "cross_road": "Surrey",
+    "latitude": 30.2236,
+    "longitude": -91.9982,
+    "ptzid": "45"
+  },
+  {
+    "main_road": "Pinhook",
+    "cross_road": "University",
+    "latitude": 30.21051,
+    "longitude": -92.00972,
+    "ptzid": "47"
+  },
+  {
+    "main_road": "Pinhook",
+    "cross_road": "Verot School",
+    "latitude": 30.17674,
+    "longitude": -92.00242,
+    "ptzid": "112"
+  },
+  {
+    "main_road": "University",
+    "cross_road": "I-10 WB",
+    "latitude": 30.25169,
+    "longitude": -92.03689,
+    "ptzid": "140"
+  },
+  {
+    "main_road": "University",
+    "cross_road": "Pont Des Mouton",
+    "latitude": 30.27591,
+    "longitude": -92.04944,
+    "ptzid": "204"
+  },
+  {
+    "main_road": "University",
+    "cross_road": "Willow",
+    "latitude": 30.24451,
+    "longitude": -92.03272,
+    "ptzid": "141"
+  },
+  {
+    "main_road": "Verot School",
+    "cross_road": "Camellia",
+    "latitude": 30.16045,
+    "longitude": -92.02277,
+    "ptzid": "206"
+  },
+  {
+    "main_road": "Willow",
+    "cross_road": "Teurlings",
+    "latitude": 30.24402,
+    "longitude": -91.98894,
+    "ptzid": "133"
+  }
+]
