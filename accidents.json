@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20428,
     "longitude": -92.01344
-  },
-  {
-    "address": "3420 NE EVANGELINE TW",
-    "city": "CARENCRO",
-    "time": "02/19/2019 - 1:45 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.30293,
-    "longitude": -92.02633
   }
 ]
