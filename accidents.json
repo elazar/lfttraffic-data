@@ -1,5 +1,13 @@
 [
   {
+    "address": "1408 CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "02/19/2019 - 5:08 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23252,
+    "longitude": -91.98661
+  },
+  {
     "address": "5410 LANDRY RD",
     "city": "LAFAYETTE",
     "time": "02/19/2019 - 3:50 PM",
