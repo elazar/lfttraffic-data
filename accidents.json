@@ -1,5 +1,13 @@
 [
   {
+    "address": "707 VETERANS DR",
+    "city": "CARENCRO",
+    "time": "02/20/2019 - 08:39 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.32234,
+    "longitude": -92.04228
+  },
+  {
     "address": "100 GUILBEAU RD",
     "city": "CARENCRO",
     "time": "02/20/2019 - 08:22 AM",
@@ -70,14 +78,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23489,
     "longitude": -92.11653
-  },
-  {
-    "address": "JOHNSTON ST & W UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "02/20/2019 - 07:48 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21729,
-    "longitude": -92.01902
   },
   {
     "address": "ST ETIENNE RD & E FAIRFIELD DR",
