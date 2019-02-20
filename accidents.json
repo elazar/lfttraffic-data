@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 OUACHITA DR",
+    "city": "LAFAYETTE",
+    "time": "02/20/2019 - 03:06 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1551,
+    "longitude": -92.09958
+  },
+  {
     "address": "1806 MILLS ST",
     "city": "LAFAYETTE",
     "time": "02/19/2019 - 11:36 PM",
