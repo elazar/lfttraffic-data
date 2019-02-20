@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24447,
     "longitude": -92.01187
-  },
-  {
-    "address": "4300 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "02/20/2019 - 11:54 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.19526,
-    "longitude": -92.05821
   }
 ]
