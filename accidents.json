@@ -1,5 +1,21 @@
 [
   {
+    "address": "415 N DOMINGUE AV",
+    "city": "LAFAYETTE",
+    "time": "02/20/2019 - 2:29 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.2040104,
+    "longitude": -92.0837849
+  },
+  {
+    "address": "W CONGRESS ST & CAJUNDOME BL",
+    "city": "LAFAYETTE",
+    "time": "02/20/2019 - 2:29 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.21871,
+    "longitude": -92.04139
+  },
+  {
     "address": "400 E UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "02/20/2019 - 2:25 PM",
