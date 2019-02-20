@@ -1,5 +1,13 @@
 [
   {
+    "address": "2315 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "02/20/2019 - 2:46 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.20898,
+    "longitude": -92.0305
+  },
+  {
     "address": "415 N DOMINGUE AV",
     "city": "LAFAYETTE",
     "time": "02/20/2019 - 2:29 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1886,
     "longitude": -92.0141
-  },
-  {
-    "address": "1700 N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "02/20/2019 - 2:00 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.25271,
-    "longitude": -92.03633
   },
   {
     "address": "KALISTE SALOOM RD & E BAYOU PW",
