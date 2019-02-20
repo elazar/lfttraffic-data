@@ -1,5 +1,13 @@
 [
   {
+    "address": "3607 N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "02/20/2019 - 09:16 AM",
+    "due_to": "Commercial Fire",
+    "latitude": 30.298,
+    "longitude": -92.04955
+  },
+  {
     "address": "251 E PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "02/20/2019 - 08:57 AM",
@@ -46,14 +54,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21056,
     "longitude": -92.00978
-  },
-  {
-    "address": "KALISTE SALOOM RD & E FARREL RD",
-    "city": "LAFAYETTE",
-    "time": "02/20/2019 - 07:56 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.15466,
-    "longitude": -92.05015
   },
   {
     "address": "ST ETIENNE RD & E FAIRFIELD DR",
