@@ -1,5 +1,21 @@
 [
   {
+    "address": "400 E UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "02/20/2019 - 2:25 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.21473,
+    "longitude": -92.01615
+  },
+  {
+    "address": "W PINHOOK RD & KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "02/20/2019 - 2:25 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1886,
+    "longitude": -92.0141
+  },
+  {
     "address": "1525 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "02/20/2019 - 2:00 PM",
@@ -14,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18289,
     "longitude": -92.01725
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & GUILBEAU RD",
-    "city": "LAFAYETTE",
-    "time": "02/20/2019 - 1:08 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20248,
-    "longitude": -92.07527
   }
 ]
