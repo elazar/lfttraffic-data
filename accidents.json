@@ -1,5 +1,13 @@
 [
   {
+    "address": "103 I10 EB EXIT LOOP HW",
+    "city": "LAFAYETTE",
+    "time": "02/20/2019 - 03:14 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "100 OUACHITA DR",
     "city": "LAFAYETTE",
     "time": "02/20/2019 - 03:06 AM",
