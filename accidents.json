@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "309 ST JULIEN AV",
+    "city": "LAFAYETTE",
+    "time": "02/20/2019 - 10:50 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21348,
+    "longitude": -92.02889
+  }
+]
