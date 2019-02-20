@@ -1,13 +1,5 @@
 [
   {
-    "address": "418 ALBERTSON PW",
-    "city": "BROUSSARD",
-    "time": "02/20/2019 - 5:22 PM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.13772,
-    "longitude": -91.98083
-  },
-  {
     "address": "110 BERCEGEAY RD",
     "city": "BROUSSARD",
     "time": "02/20/2019 - 5:21 PM",
@@ -30,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15578,
     "longitude": -92.0248
-  },
-  {
-    "address": "2700 NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "02/20/2019 - 5:16 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.2661,
-    "longitude": -92.0166
   },
   {
     "address": "NE EVANGELINE TW & I10 HW",
