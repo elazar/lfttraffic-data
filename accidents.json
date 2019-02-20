@@ -1,5 +1,21 @@
 [
   {
+    "address": "JOHNSTON ST & W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "02/20/2019 - 07:48 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21729,
+    "longitude": -92.01902
+  },
+  {
+    "address": "ST ETIENNE RD & E FAIRFIELD DR",
+    "city": "BROUSSARD",
+    "time": "02/20/2019 - 07:48 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.11647,
+    "longitude": -91.9483
+  },
+  {
     "address": "N UNIVERSITY AV & W PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "02/20/2019 - 07:42 AM",
