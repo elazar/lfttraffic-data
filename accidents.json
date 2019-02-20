@@ -1,5 +1,29 @@
 [
   {
+    "address": "E UNIVERSITY AV & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "02/20/2019 - 08:00 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21729,
+    "longitude": -92.01902
+  },
+  {
+    "address": "AMBASSADOR CAFFERY PW & W AVONDALE DR",
+    "city": "LAFAYETTE",
+    "time": "02/20/2019 - 07:59 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21629,
+    "longitude": -92.07585
+  },
+  {
+    "address": "1300 CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "02/20/2019 - 07:59 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.16933,
+    "longitude": -92.03905
+  },
+  {
     "address": "JOHNSTON ST & ARNOULD BL",
     "city": "LAFAYETTE",
     "time": "02/20/2019 - 07:57 AM",
