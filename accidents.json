@@ -1,5 +1,21 @@
 [
   {
+    "address": "300 VINCENT RD",
+    "city": "LAFAYETTE",
+    "time": "02/20/2019 - 07:29 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1421,
+    "longitude": -92.04504
+  },
+  {
+    "address": "300 AVENUE B",
+    "city": "YOUNGSVILLE",
+    "time": "02/20/2019 - 07:29 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.09606,
+    "longitude": -91.9938
+  },
+  {
     "address": "103 GILBERT ST",
     "city": "LAFAYETTE",
     "time": "02/20/2019 - 07:11 AM",
@@ -14,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.14526,
     "longitude": -91.95835
-  },
-  {
-    "address": "418 ALBERTSON PW",
-    "city": "BROUSSARD",
-    "time": "02/20/2019 - 06:23 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.13772,
-    "longitude": -91.98083
   }
 ]
