@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "I49 NORTHBOUND MM1 HW & E PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "02/20/2019 - 10:03 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.27266,
+    "longitude": -91.99991
+  }
+]
