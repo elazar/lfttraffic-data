@@ -6,21 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15098,
     "longitude": -92.02767
-  },
-  {
-    "address": "5539 CAMERON ST",
-    "city": "SCOTT",
-    "time": "02/21/2019 - 12:58 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23337,
-    "longitude": -92.08869
-  },
-  {
-    "address": "1407 SE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "02/21/2019 - 12:22 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21784,
-    "longitude": -92.00424
   }
 ]
