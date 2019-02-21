@@ -6,21 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18327,
     "longitude": -92.07545
-  },
-  {
-    "address": "W PINHOOK RD & E KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "02/21/2019 - 08:10 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1886,
-    "longitude": -92.0141
-  },
-  {
-    "address": "CAMELLIA BL & EASTLAND DR",
-    "city": "LAFAYETTE",
-    "time": "02/21/2019 - 07:27 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1918,
-    "longitude": -92.05643
   }
 ]
