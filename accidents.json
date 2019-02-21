@@ -46,13 +46,5 @@
     "due_to": "Vehicle Fire",
     "latitude": 30.15359,
     "longitude": -91.95889
-  },
-  {
-    "address": "1926 E MILTON AV",
-    "city": "LAFAYETTE",
-    "time": "02/21/2019 - 2:38 PM",
-    "due_to": "Trash Fire",
-    "latitude": 30.10898,
-    "longitude": -92.03595
   }
 ]
