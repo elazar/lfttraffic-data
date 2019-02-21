@@ -1,19 +1,19 @@
 [
   {
+    "address": "E PONT DES MOUTON RD & NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "02/21/2019 - 5:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27334,
+    "longitude": -92.01718
+  },
+  {
     "address": "307 MILTON ESTATES LN",
     "city": "LAFAYETTE",
     "time": "02/21/2019 - 5:28 PM",
     "due_to": "Trash Fire",
     "latitude": 30.08379,
     "longitude": -92.0567
-  },
-  {
-    "address": "321 HIBOU RD",
-    "city": "LAFAYETTE",
-    "time": "02/21/2019 - 5:11 PM",
-    "due_to": "Trash Fire",
-    "latitude": 30.31645,
-    "longitude": -92.10881
   },
   {
     "address": "VEROT SCHOOL RD & FAILLA RD",
