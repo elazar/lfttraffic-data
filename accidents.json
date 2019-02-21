@@ -2,8 +2,16 @@
   {
     "address": "201 JEFFREY DR",
     "city": "LAFAYETTE",
+    "time": "02/21/2019 - 01:14 AM",
+    "due_to": "Commercial Fire",
+    "latitude": 30.18714,
+    "longitude": -92.0599
+  },
+  {
+    "address": "201 JEFFREY DR",
+    "city": "LAFAYETTE",
     "time": "02/21/2019 - 01:13 AM",
-    "due_to": "Incoming Call",
+    "due_to": "Commercial Fire",
     "latitude": 30.18714,
     "longitude": -92.0599
   }
