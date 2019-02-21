@@ -38,13 +38,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.32914,
     "longitude": -92.04761
-  },
-  {
-    "address": "N UNIVERSITY AV & I10 HW",
-    "city": "LAFAYETTE",
-    "time": "02/21/2019 - 2:03 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24052,
-    "longitude": -92.03242
   }
 ]
