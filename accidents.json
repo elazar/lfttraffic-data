@@ -8,14 +8,6 @@
     "longitude": -92.07616
   },
   {
-    "address": "APOLLO RD & OLD SPANISH TL",
-    "city": "SCOTT",
-    "time": "02/21/2019 - 5:38 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.23238,
-    "longitude": -92.10741
-  },
-  {
     "address": "NW EVANGELINE TW & CASTILLE AV",
     "city": "LAFAYETTE",
     "time": "02/21/2019 - 5:34 PM",
@@ -54,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.30708,
     "longitude": -92.08307
-  },
-  {
-    "address": "1400 N BERTRAND DR",
-    "city": "LAFAYETTE",
-    "time": "02/21/2019 - 4:33 PM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.22402,
-    "longitude": -92.0514
   },
   {
     "address": "186 ANTIGUA DR",
