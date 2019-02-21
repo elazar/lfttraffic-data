@@ -1,5 +1,13 @@
 [
   {
+    "address": "E ST MARY BL & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "02/21/2019 - 3:36 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21449,
+    "longitude": -92.02175
+  },
+  {
     "address": "4105 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "02/21/2019 - 3:29 PM",
@@ -46,14 +54,6 @@
     "due_to": "Traffic Control",
     "latitude": 30.23215,
     "longitude": -91.98358
-  },
-  {
-    "address": "W WILLOW ST & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "02/21/2019 - 2:44 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.24324,
-    "longitude": -92.06626
   },
   {
     "address": "1926 E MILTON AV",
