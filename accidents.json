@@ -1,21 +1,5 @@
 [
   {
-    "address": "AMBASSADOR CAFFERY PW & S MORGAN AV",
-    "city": "BROUSSARD",
-    "time": "02/20/2019 - 8:35 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.13188,
-    "longitude": -91.96517
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & BONIN RD",
-    "city": "YOUNGSVILLE",
-    "time": "02/20/2019 - 8:23 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.13528,
-    "longitude": -92.00763
-  },
-  {
     "address": "MUDD AV & NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "02/20/2019 - 8:07 PM",
