@@ -1,5 +1,21 @@
 [
   {
+    "address": "W GLORIA SWITCH RD & LOUIS ARCENEAUX RD",
+    "city": "LAFAYETTE",
+    "time": "02/21/2019 - 07:07 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.296,
+    "longitude": -92.03198
+  },
+  {
+    "address": "AMENTH LN & LANDRY RD",
+    "city": "LAFAYETTE",
+    "time": "02/21/2019 - 07:07 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21171,
+    "longitude": -92.14815
+  },
+  {
     "address": "E UNIVERSITY AV & W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "02/21/2019 - 07:06 AM",
