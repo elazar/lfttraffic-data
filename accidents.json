@@ -1,5 +1,13 @@
 [
   {
+    "address": "NW EVANGELINE TW & CASTILLE AV",
+    "city": "LAFAYETTE",
+    "time": "02/21/2019 - 5:34 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.2488,
+    "longitude": -92.01297
+  },
+  {
     "address": "E PONT DES MOUTON RD & NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "02/21/2019 - 5:33 PM",
@@ -54,13 +62,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.1777,
     "longitude": -92.05684
-  },
-  {
-    "address": "4105 US 90 EAST HW",
-    "city": "BROUSSARD",
-    "time": "02/21/2019 - 3:29 PM",
-    "due_to": "Vehicle Fire",
-    "latitude": 30.15359,
-    "longitude": -91.95889
   }
 ]
