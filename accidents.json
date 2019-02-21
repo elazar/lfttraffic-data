@@ -1,5 +1,21 @@
 [
   {
+    "address": "VEROT SCHOOL RD & FAILLA RD",
+    "city": "LAFAYETTE",
+    "time": "02/21/2019 - 4:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15578,
+    "longitude": -92.0248
+  },
+  {
+    "address": "MAGNOLIA KNEE DR & SABINE DR",
+    "city": "LAFAYETTE",
+    "time": "02/21/2019 - 4:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.30708,
+    "longitude": -92.08307
+  },
+  {
     "address": "97 I10 EASTBOUND MM97 HW",
     "city": "LAFAYETTE",
     "time": "02/21/2019 - 4:41 PM",
