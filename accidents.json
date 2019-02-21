@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "02/21/2019 - 2:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24052,
+    "longitude": -92.03242
+  },
+  {
     "address": "SEVENTH ST & SW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "02/21/2019 - 1:51 PM",
