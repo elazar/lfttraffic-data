@@ -14,13 +14,5 @@
     "due_to": "Residential Fire",
     "latitude": 30.1945,
     "longitude": -92.05309
-  },
-  {
-    "address": "5600 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "02/21/2019 - 11:41 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1778133,
-    "longitude": -92.0751405
   }
 ]
