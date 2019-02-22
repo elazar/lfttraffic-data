@@ -1,5 +1,13 @@
 [
   {
+    "address": "400 HECTOR CONNOLY RD",
+    "city": "CARENCRO",
+    "time": "02/22/2019 - 08:19 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.32202,
+    "longitude": -92.02476
+  },
+  {
     "address": "N ARLINGTON DR & S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "02/22/2019 - 08:13 AM",
