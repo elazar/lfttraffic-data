@@ -1,5 +1,13 @@
 [
   {
+    "address": "207 GALBERT RD",
+    "city": "LAFAYETTE",
+    "time": "02/22/2019 - 4:22 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.22623,
+    "longitude": -92.07277
+  },
+  {
     "address": "N UNIVERSITY AV & W GLORIA SWITCH RD",
     "city": "CARENCRO",
     "time": "02/22/2019 - 4:01 PM",
@@ -46,6 +54,14 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23248,
     "longitude": -92.00878
+  },
+  {
+    "address": "101 I10 EASTBOUND MM101 HW",
+    "city": "LAFAYETTE",
+    "time": "02/22/2019 - 2:20 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.26255,
+    "longitude": -92.00867
   },
   {
     "address": "E PINHOOK RD & SW EVANGELINE TW",
