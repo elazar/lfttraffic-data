@@ -1,5 +1,13 @@
 [
   {
+    "address": "BERTRAND DR & THEATRE ST",
+    "city": "LAFAYETTE",
+    "time": "02/22/2019 - 08:11 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21243,
+    "longitude": -92.04526
+  },
+  {
     "address": "4710 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "02/22/2019 - 07:58 AM",
