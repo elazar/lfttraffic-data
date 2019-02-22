@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23302,
     "longitude": -92.03282
-  },
-  {
-    "address": "MARTIN LUTHER KING JR DR & PATTERSON ST",
-    "city": "LAFAYETTE",
-    "time": "02/21/2019 - 9:08 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.24889,
-    "longitude": -92.02044
   }
 ]
