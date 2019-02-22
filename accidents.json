@@ -1,5 +1,21 @@
 [
   {
+    "address": "GORDON ST & STEWART ST",
+    "city": "LAFAYETTE",
+    "time": "02/22/2019 - 08:22 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22025,
+    "longitude": -92.01509
+  },
+  {
+    "address": "AMBASSADOR CAFFERY PW & VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "02/22/2019 - 08:21 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.14589,
+    "longitude": -92.03252
+  },
+  {
     "address": "400 HECTOR CONNOLY RD",
     "city": "CARENCRO",
     "time": "02/22/2019 - 08:19 AM",
@@ -24,12 +40,12 @@
     "longitude": -92.04526
   },
   {
-    "address": "4710 JOHNSTON ST",
+    "address": "4776 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "02/22/2019 - 07:58 AM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.1861834,
-    "longitude": -92.0665031
+    "latitude": 30.1857443,
+    "longitude": -92.0669647
   },
   {
     "address": "600 CHURCH ST",
