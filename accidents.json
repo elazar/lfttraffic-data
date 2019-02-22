@@ -1,5 +1,13 @@
 [
   {
+    "address": "VINCENT RD & E BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "02/21/2019 - 7:38 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.13085,
+    "longitude": -92.05553
+  },
+  {
     "address": "5412 CAMERON ST",
     "city": "SCOTT",
     "time": "02/21/2019 - 7:37 PM",
