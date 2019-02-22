@@ -2,10 +2,18 @@
   {
     "address": "BRENTWOOD BL & KINGSTON DR",
     "city": "LAFAYETTE",
-    "time": "02/22/2019 - 12:41 AM",
-    "due_to": "Incoming Call",
+    "time": "02/22/2019 - 12:43 AM",
+    "due_to": "Residential Fire",
     "latitude": 30.1938,
     "longitude": -92.05386
+  },
+  {
+    "address": "KAREN DR & KINGSTON DR",
+    "city": "LAFAYETTE",
+    "time": "02/22/2019 - 12:42 AM",
+    "due_to": "Residential Fire",
+    "latitude": 30.1945,
+    "longitude": -92.05309
   },
   {
     "address": "5600 JOHNSTON ST",
