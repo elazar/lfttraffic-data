@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & W SECOND ST",
+    "city": "LAFAYETTE",
+    "time": "02/21/2019 - 9:12 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.22709,
+    "longitude": -92.01982
+  },
+  {
     "address": "101 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "02/21/2019 - 9:09 PM",
