@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 LA MAISON RD",
+    "city": "LAFAYETTE",
+    "time": "02/21/2019 - 10:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2036049,
+    "longitude": -92.1760058
+  },
+  {
     "address": "MARTIN ST & N WASHINGTON ST",
     "city": "LAFAYETTE",
     "time": "02/21/2019 - 10:05 PM",
