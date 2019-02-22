@@ -1,5 +1,13 @@
 [
   {
+    "address": "101 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "02/21/2019 - 9:09 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23302,
+    "longitude": -92.03282
+  },
+  {
     "address": "MARTIN LUTHER KING JR DR & PATTERSON ST",
     "city": "LAFAYETTE",
     "time": "02/21/2019 - 9:08 PM",
