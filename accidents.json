@@ -1,5 +1,13 @@
 [
   {
+    "address": "BERTRAND DR & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "02/22/2019 - 10:22 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20581,
+    "longitude": -92.04078
+  },
+  {
     "address": "709 DOUCET RD",
     "city": "LAFAYETTE",
     "time": "02/22/2019 - 10:20 AM",
