@@ -1,5 +1,13 @@
 [
   {
+    "address": "3909 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "02/22/2019 - 06:25 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27933,
+    "longitude": -92.00816
+  },
+  {
     "address": "W UNIVERSITY AV & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "02/22/2019 - 06:15 AM",
