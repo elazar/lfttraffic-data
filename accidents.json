@@ -1,5 +1,13 @@
 [
   {
+    "address": "N ARLINGTON DR & S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "02/22/2019 - 08:13 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20493,
+    "longitude": -92.0355
+  },
+  {
     "address": "BERTRAND DR & THEATRE ST",
     "city": "LAFAYETTE",
     "time": "02/22/2019 - 08:11 AM",
