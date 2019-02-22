@@ -1,5 +1,13 @@
 [
   {
+    "address": "BERTRAND DR & N COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "02/22/2019 - 05:51 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21211,
+    "longitude": -92.04493
+  },
+  {
     "address": "800 WAGON TRAIL RD",
     "city": "LAFAYETTE",
     "time": "02/22/2019 - 05:13 AM",
