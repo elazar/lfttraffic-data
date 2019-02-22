@@ -1,5 +1,13 @@
 [
   {
+    "address": "E PINHOOK RD & SW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "02/22/2019 - 12:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21749,
+    "longitude": -92.00495
+  },
+  {
     "address": "SW EVANGELINE TW & E PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "02/22/2019 - 12:16 PM",
@@ -54,13 +62,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19375,
     "longitude": -92.0586
-  },
-  {
-    "address": "709 DOUCET RD",
-    "city": "LAFAYETTE",
-    "time": "02/22/2019 - 10:20 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.19439,
-    "longitude": -92.03751
   }
 ]
