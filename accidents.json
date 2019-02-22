@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2214883,
     "longitude": -92.0372476
-  },
-  {
-    "address": "100 W ST MARY BL",
-    "city": "LAFAYETTE",
-    "time": "02/22/2019 - 10:02 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.2146852,
-    "longitude": -92.0217786
   }
 ]
