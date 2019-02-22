@@ -1,5 +1,13 @@
 [
   {
+    "address": "709 DOUCET RD",
+    "city": "LAFAYETTE",
+    "time": "02/22/2019 - 10:20 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.19439,
+    "longitude": -92.03751
+  },
+  {
     "address": "2300 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "02/22/2019 - 10:19 AM",
