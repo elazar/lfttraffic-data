@@ -1,27 +1,11 @@
 [
   {
-    "address": "ERASTE LANDRY RD & N BERTRAND DR",
-    "city": "LAFAYETTE",
-    "time": "02/22/2019 - 4:29 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.22469,
-    "longitude": -92.05245
-  },
-  {
     "address": "207 GALBERT RD",
     "city": "LAFAYETTE",
     "time": "02/22/2019 - 4:22 PM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.22623,
     "longitude": -92.07277
-  },
-  {
-    "address": "N UNIVERSITY AV & W GLORIA SWITCH RD",
-    "city": "CARENCRO",
-    "time": "02/22/2019 - 4:01 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.29785,
-    "longitude": -92.04941
   },
   {
     "address": "5100 AMBASSADOR CAFFERY PW",
