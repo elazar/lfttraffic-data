@@ -1,5 +1,13 @@
 [
   {
+    "address": "2300 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "02/22/2019 - 10:19 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2214883,
+    "longitude": -92.0372476
+  },
+  {
     "address": "1500 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "02/22/2019 - 10:02 AM",
