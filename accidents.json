@@ -22,13 +22,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.24889,
     "longitude": -92.02044
-  },
-  {
-    "address": "314 TOULOUSE DR",
-    "city": "LAFAYETTE",
-    "time": "02/21/2019 - 8:45 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20687,
-    "longitude": -92.06965
   }
 ]
