@@ -1,5 +1,13 @@
 [
   {
+    "address": "5801 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "02/22/2019 - 11:45 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.11038,
+    "longitude": -91.94201
+  },
+  {
     "address": "ERASTE LANDRY RD & S LONG ST",
     "city": "LAFAYETTE",
     "time": "02/22/2019 - 11:36 AM",
@@ -38,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23236,
     "longitude": -92.03238
-  },
-  {
-    "address": "W GLORIA SWITCH RD & N UNIVERSITY AV",
-    "city": "CARENCRO",
-    "time": "02/22/2019 - 11:03 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.29785,
-    "longitude": -92.04941
   },
   {
     "address": "2800 JOHNSTON ST",
