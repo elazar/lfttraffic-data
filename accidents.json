@@ -16,14 +16,6 @@
     "longitude": -92.01509
   },
   {
-    "address": "AMBASSADOR CAFFERY PW & VEROT SCHOOL RD",
-    "city": "LAFAYETTE",
-    "time": "02/22/2019 - 08:21 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.14589,
-    "longitude": -92.03252
-  },
-  {
     "address": "400 HECTOR CONNOLY RD",
     "city": "CARENCRO",
     "time": "02/22/2019 - 08:19 AM",
@@ -32,12 +24,12 @@
     "longitude": -92.02476
   },
   {
-    "address": "N ARLINGTON DR & S COLLEGE RD",
+    "address": "150 S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "02/22/2019 - 08:13 AM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.20493,
-    "longitude": -92.0355
+    "latitude": 30.205231,
+    "longitude": -92.0360962
   },
   {
     "address": "BERTRAND DR & THEATRE ST",
