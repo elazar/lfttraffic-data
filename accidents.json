@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & ST CHARLES ST",
+    "city": "CARENCRO",
+    "time": "02/22/2019 - 12:12 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.31912,
+    "longitude": -92.0495
+  },
+  {
     "address": "W CONGRESS ST & CORINNE ST",
     "city": "LAFAYETTE",
     "time": "02/22/2019 - 12:11 PM",
