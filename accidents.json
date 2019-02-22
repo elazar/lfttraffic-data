@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 CHURCH ST",
+    "city": "YOUNGSVILLE",
+    "time": "02/22/2019 - 3:21 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.09923,
+    "longitude": -91.99578
+  },
+  {
     "address": "W WILLOW ST & NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "02/22/2019 - 3:15 PM",
