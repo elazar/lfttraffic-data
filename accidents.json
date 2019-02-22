@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20687,
     "longitude": -92.06965
-  },
-  {
-    "address": "LOUISIANA AV & I10 HW",
-    "city": "LAFAYETTE",
-    "time": "02/21/2019 - 8:21 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.27944,
-    "longitude": -91.99217
   }
 ]
