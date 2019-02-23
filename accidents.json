@@ -1,19 +1,19 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & S MORGAN AV",
+    "city": "BROUSSARD",
+    "time": "02/22/2019 - 6:32 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13188,
+    "longitude": -91.96517
+  },
+  {
     "address": "1000 GAZETTE RD",
     "city": "LAFAYETTE",
     "time": "02/22/2019 - 6:27 PM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.2557849,
     "longitude": -92.1595282
-  },
-  {
-    "address": "CAMELLIA BL & JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "02/22/2019 - 6:11 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.19364,
-    "longitude": -92.0587
   },
   {
     "address": "AMBASSADOR CAFFERY PW & W BONAIRE DR",
