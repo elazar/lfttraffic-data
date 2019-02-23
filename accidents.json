@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "02/23/2019 - 08:22 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24052,
+    "longitude": -92.03242
+  },
+  {
     "address": "I49 SOUTHBOUND MM1 HW & W PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "02/23/2019 - 08:19 AM",
