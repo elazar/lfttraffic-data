@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "2600 E MILTON AV",
+    "city": "YOUNGSVILLE",
+    "time": "02/23/2019 - 01:32 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.10879,
+    "longitude": -92.0224
+  }
+]
