@@ -1,5 +1,13 @@
 [
   {
+    "address": "209 ST NAZAIRE RD",
+    "city": "BROUSSARD",
+    "time": "02/23/2019 - 2:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14158,
+    "longitude": -91.94058
+  },
+  {
     "address": "300 ST ANNE ST",
     "city": "CARENCRO",
     "time": "02/23/2019 - 1:57 PM",
@@ -22,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.29841,
     "longitude": -92.04849
-  },
-  {
-    "address": "200 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "02/23/2019 - 12:43 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.2422064,
-    "longitude": -92.0664188
   }
 ]
