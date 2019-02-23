@@ -1,5 +1,13 @@
 [
   {
+    "address": "3215 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "02/23/2019 - 3:08 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26617,
+    "longitude": -91.99363
+  },
+  {
     "address": "2223 DULLES DR",
     "city": "SCOTT",
     "time": "02/23/2019 - 3:04 PM",
