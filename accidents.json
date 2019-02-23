@@ -1,5 +1,13 @@
 [
   {
+    "address": "115 MCKINLEY ST",
+    "city": "LAFAYETTE",
+    "time": "02/23/2019 - 02:38 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21652,
+    "longitude": -92.01312
+  },
+  {
     "address": "3910 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "02/23/2019 - 02:00 AM",
