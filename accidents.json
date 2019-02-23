@@ -1,5 +1,13 @@
 [
   {
+    "address": "W WILLOW ST & PATTERSON ST",
+    "city": "LAFAYETTE",
+    "time": "02/23/2019 - 2:16 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.24518,
+    "longitude": -92.01841
+  },
+  {
     "address": "209 ST NAZAIRE RD",
     "city": "BROUSSARD",
     "time": "02/23/2019 - 2:14 PM",
