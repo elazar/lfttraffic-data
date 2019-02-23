@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 E VERMILION ST",
+    "city": "LAFAYETTE",
+    "time": "02/23/2019 - 3:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22388,
+    "longitude": -92.01695
+  },
+  {
     "address": "116 MORGANWOOD LN",
     "city": "LAFAYETTE",
     "time": "02/23/2019 - 2:40 PM",
@@ -14,14 +22,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.229,
     "longitude": -91.99533
-  },
-  {
-    "address": "202 SHINNECOCK HILLS DR",
-    "city": "LAFAYETTE",
-    "time": "02/23/2019 - 2:30 PM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.08491,
-    "longitude": -91.9516
   },
   {
     "address": "216 TOWN HOMES LP",
