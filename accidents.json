@@ -3,16 +3,8 @@
     "address": "1930 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "02/23/2019 - 11:26 AM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.18677,
     "longitude": -92.0132
-  },
-  {
-    "address": "N LARRIVIERE RD & YOUNG ST",
-    "city": "YOUNGSVILLE",
-    "time": "02/23/2019 - 09:41 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.10198,
-    "longitude": -91.97365
   }
 ]
