@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & N SOUTHPARK RD",
+    "city": "LAFAYETTE",
+    "time": "02/22/2019 - 10:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17164,
+    "longitude": -91.97994
+  },
+  {
     "address": "3600 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "02/22/2019 - 10:49 PM",
