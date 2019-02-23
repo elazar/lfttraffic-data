@@ -1,5 +1,13 @@
 [
   {
+    "address": "132 MARTIN LUTHER KING JR DR",
+    "city": "LAFAYETTE",
+    "time": "02/23/2019 - 2:35 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.25019,
+    "longitude": -92.03262
+  },
+  {
     "address": "202 SHINNECOCK HILLS DR",
     "city": "LAFAYETTE",
     "time": "02/23/2019 - 2:30 PM",
@@ -8,12 +16,12 @@
     "longitude": -91.9516
   },
   {
-    "address": "1500 N UNIVERSITY AV",
+    "address": "216 TOWN HOMES LP",
     "city": "LAFAYETTE",
     "time": "02/23/2019 - 2:17 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.24926,
-    "longitude": -92.03446
+    "latitude": 30.25129,
+    "longitude": -92.02938
   },
   {
     "address": "W WILLOW ST & PATTERSON ST",
