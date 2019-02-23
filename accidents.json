@@ -1,5 +1,13 @@
 [
   {
+    "address": "116 MORGANWOOD LN",
+    "city": "LAFAYETTE",
+    "time": "02/23/2019 - 2:40 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21429,
+    "longitude": -92.15288
+  },
+  {
     "address": "CLIFFORD RD & NOAH ST",
     "city": "LAFAYETTE",
     "time": "02/23/2019 - 2:37 PM",
