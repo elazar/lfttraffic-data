@@ -1,5 +1,13 @@
 [
   {
+    "address": "E PINHOOK RD & LILLY ST",
+    "city": "LAFAYETTE",
+    "time": "02/23/2019 - 3:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22223,
+    "longitude": -91.99961
+  },
+  {
     "address": "300 W GLORIA SWITCH RD",
     "city": "CARENCRO",
     "time": "02/23/2019 - 3:21 PM",
