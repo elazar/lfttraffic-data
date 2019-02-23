@@ -1,5 +1,13 @@
 [
   {
+    "address": "202 SHINNECOCK HILLS DR",
+    "city": "LAFAYETTE",
+    "time": "02/23/2019 - 2:30 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.08491,
+    "longitude": -91.9516
+  },
+  {
     "address": "1500 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "02/23/2019 - 2:17 PM",
