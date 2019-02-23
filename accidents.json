@@ -1,5 +1,13 @@
 [
   {
+    "address": "NW EVANGELINE TW & E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "02/22/2019 - 11:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23106,
+    "longitude": -92.01377
+  },
+  {
     "address": "100 CINDY DR",
     "city": "LAFAYETTE",
     "time": "02/22/2019 - 11:07 PM",
