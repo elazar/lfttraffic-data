@@ -1,5 +1,13 @@
 [
   {
+    "address": "103 I10 EASTBOUND MM103A HW",
+    "city": "LAFAYETTE",
+    "time": "02/23/2019 - 07:40 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "133 MANCHESTER CL",
     "city": "LAFAYETTE",
     "time": "02/23/2019 - 07:35 AM",
