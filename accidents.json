@@ -22,13 +22,5 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.10198,
     "longitude": -91.97365
-  },
-  {
-    "address": "N UNIVERSITY AV & I10 HW",
-    "city": "LAFAYETTE",
-    "time": "02/23/2019 - 08:22 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24052,
-    "longitude": -92.03242
   }
 ]
