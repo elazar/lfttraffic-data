@@ -1,5 +1,13 @@
 [
   {
+    "address": "I49 SOUTHBOUND MM1 HW & W PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "02/23/2019 - 08:19 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.27587,
+    "longitude": -92.04949
+  },
+  {
     "address": "MILLS ST & I10 HW",
     "city": "SCOTT",
     "time": "02/23/2019 - 08:17 AM",
