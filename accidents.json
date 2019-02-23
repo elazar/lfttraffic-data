@@ -46,5 +46,13 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.24518,
     "longitude": -92.01841
+  },
+  {
+    "address": "920 W GLORIA SWITCH RD",
+    "city": "CARENCRO",
+    "time": "02/23/2019 - 1:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29841,
+    "longitude": -92.04849
   }
 ]
