@@ -30,5 +30,13 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.16505,
     "longitude": -92.07455
+  },
+  {
+    "address": "CLIFFORD RD & NOAH ST",
+    "city": "LAFAYETTE",
+    "time": "02/23/2019 - 2:37 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.229,
+    "longitude": -91.99533
   }
 ]
