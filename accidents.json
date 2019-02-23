@@ -1,5 +1,13 @@
 [
   {
+    "address": "N LARRIVIERE RD & YOUNG ST",
+    "city": "YOUNGSVILLE",
+    "time": "02/23/2019 - 09:41 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.10198,
+    "longitude": -91.97365
+  },
+  {
     "address": "2214 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "02/23/2019 - 09:21 AM",
