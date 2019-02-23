@@ -1,5 +1,13 @@
 [
   {
+    "address": "LOUISIANA AV & SURREY ST",
+    "city": "LAFAYETTE",
+    "time": "02/23/2019 - 10:03 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.22823,
+    "longitude": -92.00461
+  },
+  {
     "address": "S FIELDSPAN RD & ALTHEA DR",
     "city": "LAFAYETTE",
     "time": "02/23/2019 - 09:59 AM",
