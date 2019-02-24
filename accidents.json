@@ -1,5 +1,13 @@
 [
   {
+    "address": "1000 W GLORIA SWITCH RD",
+    "city": "CARENCRO",
+    "time": "02/23/2019 - 7:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2979849,
+    "longitude": -92.0496433
+  },
+  {
     "address": "JOHNSTON ST & CAMELLIA BL",
     "city": "LAFAYETTE",
     "time": "02/23/2019 - 6:59 PM",
