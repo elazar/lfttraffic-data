@@ -38,13 +38,5 @@
     "due_to": "Vehicle Fire",
     "latitude": 30.13122,
     "longitude": -91.94281
-  },
-  {
-    "address": "900 DUGAS RD",
-    "city": "SCOTT",
-    "time": "02/24/2019 - 11:31 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2830951,
-    "longitude": -92.0768983
   }
 ]
