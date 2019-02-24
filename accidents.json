@@ -1,5 +1,13 @@
 [
   {
+    "address": "119 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "02/24/2019 - 12:34 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.24378,
+    "longitude": -92.0657
+  },
+  {
     "address": "101 MILLSTONE RD",
     "city": "BROUSSARD",
     "time": "02/24/2019 - 12:17 PM",
