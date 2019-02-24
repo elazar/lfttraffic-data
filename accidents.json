@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "02/24/2019 - 11:15 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.21493,
+    "longitude": -92.04696
+  },
+  {
     "address": "W CONGRESS ST & GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "02/24/2019 - 11:13 AM",
