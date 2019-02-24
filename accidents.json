@@ -1,5 +1,13 @@
 [
   {
+    "address": "E BROUSSARD RD & RUE DU MARCHE",
+    "city": "LAFAYETTE",
+    "time": "02/24/2019 - 2:49 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14586,
+    "longitude": -92.08488
+  },
+  {
     "address": "I49 NORTHBOUND MM1 HW & E PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "02/24/2019 - 2:47 PM",
