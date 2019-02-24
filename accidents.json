@@ -6,5 +6,13 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19364,
     "longitude": -92.0587
+  },
+  {
+    "address": "100 MARTIN LUTHER KING JR DR",
+    "city": "LAFAYETTE",
+    "time": "02/24/2019 - 01:55 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.2498087,
+    "longitude": -92.0347643
   }
 ]
