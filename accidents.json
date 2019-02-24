@@ -1,5 +1,13 @@
 [
   {
+    "address": "3500 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "02/23/2019 - 6:39 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.12042,
+    "longitude": -92.03403
+  },
+  {
     "address": "403 S BUCHANAN ST",
     "city": "LAFAYETTE",
     "time": "02/23/2019 - 6:03 PM",
