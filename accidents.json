@@ -14,21 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19637,
     "longitude": -92.01545
-  },
-  {
-    "address": "BOURQUE RD & JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "02/23/2019 - 10:21 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.13263,
-    "longitude": -92.10878
-  },
-  {
-    "address": "JOHNSTON ST & BOURQUE RD",
-    "city": "LAFAYETTE",
-    "time": "02/23/2019 - 10:12 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.13263,
-    "longitude": -92.10878
   }
 ]
