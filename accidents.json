@@ -14,13 +14,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.21125,
     "longitude": -92.07616
-  },
-  {
-    "address": "100 BLANCHE ST",
-    "city": "SCOTT",
-    "time": "02/24/2019 - 4:03 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23938,
-    "longitude": -92.0923
   }
 ]
