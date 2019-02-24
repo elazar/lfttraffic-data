@@ -1,5 +1,13 @@
 [
   {
+    "address": "1604 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "02/24/2019 - 01:55 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.25038,
+    "longitude": -92.03431
+  },
+  {
     "address": "212 ST DE PORRES ST",
     "city": "BROUSSARD",
     "time": "02/24/2019 - 01:04 AM",
