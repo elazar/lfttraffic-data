@@ -1,5 +1,13 @@
 [
   {
+    "address": "1000 SUNSET ST",
+    "city": "SCOTT",
+    "time": "02/24/2019 - 4:21 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2353034,
+    "longitude": -92.0984749
+  },
+  {
     "address": "CAMERON ST & WESTGATE RD",
     "city": "SCOTT",
     "time": "02/24/2019 - 4:17 PM",
