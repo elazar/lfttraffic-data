@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "02/23/2019 - 8:05 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2330564,
+    "longitude": -92.0126088
+  },
+  {
     "address": "1000 W GLORIA SWITCH RD",
     "city": "CARENCRO",
     "time": "02/23/2019 - 7:01 PM",
