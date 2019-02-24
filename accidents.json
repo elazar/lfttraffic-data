@@ -1,5 +1,13 @@
 [
   {
+    "address": "201 LOUCELLA ST",
+    "city": "SCOTT",
+    "time": "02/24/2019 - 4:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2408251,
+    "longitude": -92.093166
+  },
+  {
     "address": "2256 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "02/24/2019 - 4:11 PM",
