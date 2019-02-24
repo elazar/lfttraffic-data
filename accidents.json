@@ -1,5 +1,13 @@
 [
   {
+    "address": "323 JOY ST",
+    "city": "LAFAYETTE",
+    "time": "02/23/2019 - 8:43 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.24125,
+    "longitude": -91.99313
+  },
+  {
     "address": "1698 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "02/23/2019 - 8:20 PM",
