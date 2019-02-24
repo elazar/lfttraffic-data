@@ -8,14 +8,6 @@
     "longitude": -92.0496433
   },
   {
-    "address": "JOHNSTON ST & CAMELLIA BL",
-    "city": "LAFAYETTE",
-    "time": "02/23/2019 - 6:59 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19364,
-    "longitude": -92.0587
-  },
-  {
     "address": "619 MCKINLEY ST",
     "city": "LAFAYETTE",
     "time": "02/23/2019 - 6:52 PM",
@@ -30,13 +22,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.2037,
     "longitude": -92.03401
-  },
-  {
-    "address": "3500 VEROT SCHOOL RD",
-    "city": "LAFAYETTE",
-    "time": "02/23/2019 - 6:39 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.12042,
-    "longitude": -92.03403
   }
 ]
