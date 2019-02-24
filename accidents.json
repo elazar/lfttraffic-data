@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 BLANCHE ST",
+    "city": "SCOTT",
+    "time": "02/24/2019 - 4:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23938,
+    "longitude": -92.0923
+  },
+  {
     "address": "AYRESHIRE DR & ALONDA DR",
     "city": "LAFAYETTE",
     "time": "02/24/2019 - 4:00 PM",
