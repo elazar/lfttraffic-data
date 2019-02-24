@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "211 ST DE PORRES ST",
+    "city": "BROUSSARD",
+    "time": "02/24/2019 - 01:04 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.14326,
+    "longitude": -91.95785
+  }
+]
