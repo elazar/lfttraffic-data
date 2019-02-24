@@ -30,21 +30,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.2382971,
     "longitude": -92.0121861
-  },
-  {
-    "address": "700 N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "02/24/2019 - 1:27 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.2383864,
-    "longitude": -92.0322851
-  },
-  {
-    "address": "ERASTE LANDRY RD & FOREMAN DR",
-    "city": "LAFAYETTE",
-    "time": "02/24/2019 - 1:03 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.2195,
-    "longitude": -92.06465
   }
 ]
