@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & WESTGATE RD",
+    "city": "SCOTT",
+    "time": "02/24/2019 - 4:17 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.23274,
+    "longitude": -92.08691
+  },
+  {
     "address": "201 LOUCELLA ST",
     "city": "SCOTT",
     "time": "02/24/2019 - 4:15 PM",
