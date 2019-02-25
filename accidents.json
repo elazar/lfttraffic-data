@@ -1,5 +1,13 @@
 [
   {
+    "address": "3600 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "02/24/2019 - 7:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20359,
+    "longitude": -92.06274
+  },
+  {
     "address": "816 I10 SOUTH FRONTAGE RD",
     "city": "SCOTT",
     "time": "02/24/2019 - 7:34 PM",
