@@ -1,13 +1,5 @@
 [
   {
-    "address": "300 APOLLO RD",
-    "city": "SCOTT",
-    "time": "02/25/2019 - 10:26 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23944,
-    "longitude": -92.10725
-  },
-  {
     "address": "10206 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "02/25/2019 - 10:02 AM",
