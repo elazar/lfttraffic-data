@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2326,
     "longitude": -92.09333
-  },
-  {
-    "address": "CAMELLIA BL & JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "02/25/2019 - 07:11 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.19364,
-    "longitude": -92.0587
   }
 ]
