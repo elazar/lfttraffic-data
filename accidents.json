@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "115 NARROW WAY DR",
+    "city": "LAFAYETTE",
+    "time": "02/25/2019 - 09:46 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.1317052,
+    "longitude": -92.0289863
+  }
+]
