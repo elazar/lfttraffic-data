@@ -54,13 +54,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.19364,
     "longitude": -92.0587
-  },
-  {
-    "address": "STONYBROOK DR & DUGAS RD",
-    "city": "LAFAYETTE",
-    "time": "02/25/2019 - 06:48 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.28321,
-    "longitude": -92.06238
   }
 ]
