@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "103 BEECHWOOD DR",
+    "city": "LAFAYETTE",
+    "time": "02/24/2019 - 11:18 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.17885,
+    "longitude": -92.06482
+  }
+]
