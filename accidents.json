@@ -1,5 +1,13 @@
 [
   {
+    "address": "MARTIN LUTHER KING JR DR & HOLLYWOOD DR",
+    "city": "LAFAYETTE",
+    "time": "02/25/2019 - 09:00 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.24963,
+    "longitude": -92.03492
+  },
+  {
     "address": "US 90 EAST HW & YOUNG ST",
     "city": "BROUSSARD",
     "time": "02/25/2019 - 08:51 AM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.29385,
     "longitude": -92.02332
-  },
-  {
-    "address": "1245 S COLLEGE RD",
-    "city": "LAFAYETTE",
-    "time": "02/25/2019 - 07:45 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2002,
-    "longitude": -92.02432
   }
 ]
