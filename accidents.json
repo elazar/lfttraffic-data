@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & RENAUD DR",
+    "city": "LAFAYETTE",
+    "time": "02/25/2019 - 2:04 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25425,
+    "longitude": -92.03783
+  },
+  {
     "address": "1373 S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "02/25/2019 - 1:56 PM",
