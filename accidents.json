@@ -1,5 +1,13 @@
 [
   {
+    "address": "N PIERCE ST & W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "02/25/2019 - 9:20 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24519,
+    "longitude": -92.01775
+  },
+  {
     "address": "1905 NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "02/25/2019 - 9:02 PM",
