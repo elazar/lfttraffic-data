@@ -1,5 +1,13 @@
 [
   {
+    "address": "NW EVANGELINE TW & RAILROAD TRACKS",
+    "city": "LAFAYETTE",
+    "time": "02/26/2019 - 09:00 AM",
+    "due_to": "Hazard",
+    "latitude": 30.24204,
+    "longitude": -92.01316
+  },
+  {
     "address": "1900 SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "02/26/2019 - 08:21 AM",
