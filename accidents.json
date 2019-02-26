@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 I10 WESTBOUND MM100 HW",
+    "city": "LAFAYETTE",
+    "time": "02/25/2019 - 7:53 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "S COLLEGE RD & W BAYOU PW",
     "city": "LAFAYETTE",
     "time": "02/25/2019 - 7:12 PM",
