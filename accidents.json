@@ -1,5 +1,13 @@
 [
   {
+    "address": "GIRARD PARK DR & HOSPITAL DR",
+    "city": "LAFAYETTE",
+    "time": "02/26/2019 - 11:19 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20436,
+    "longitude": -92.02048
+  },
+  {
     "address": "2133 CAMERON ST",
     "city": "LAFAYETTE",
     "time": "02/26/2019 - 11:11 AM",
