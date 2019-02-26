@@ -2,6 +2,14 @@
   {
     "address": "729 BRENTWOOD BL",
     "city": "LAFAYETTE",
+    "time": "02/26/2019 - 10:52 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.18188,
+    "longitude": -92.03955
+  },
+  {
+    "address": "729 BRENTWOOD BL",
+    "city": "LAFAYETTE",
     "time": "02/26/2019 - 10:51 AM",
     "due_to": "Incoming Call",
     "latitude": 30.18188,
