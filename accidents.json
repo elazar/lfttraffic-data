@@ -1,5 +1,13 @@
 [
   {
+    "address": "1900 SE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "02/26/2019 - 08:21 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2007291,
+    "longitude": -91.9991167
+  },
+  {
     "address": "1700 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "02/26/2019 - 07:58 AM",
@@ -22,13 +30,5 @@
     "due_to": "Traffic Control",
     "latitude": 30.09923,
     "longitude": -91.99578
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & BONIN RD",
-    "city": "YOUNGSVILLE",
-    "time": "02/26/2019 - 07:02 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.13528,
-    "longitude": -92.00763
   }
 ]
