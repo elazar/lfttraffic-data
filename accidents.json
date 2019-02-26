@@ -1,5 +1,13 @@
 [
   {
+    "address": "S COLLEGE RD & W BAYOU PW",
+    "city": "LAFAYETTE",
+    "time": "02/25/2019 - 7:12 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19915,
+    "longitude": -92.02663
+  },
+  {
     "address": "BERTRAND DR & N COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "02/25/2019 - 7:06 PM",
