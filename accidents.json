@@ -1,5 +1,13 @@
 [
   {
+    "address": "102 I10 WESTBOUND MM102 HW",
+    "city": "LAFAYETTE",
+    "time": "02/26/2019 - 12:15 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "JEFFERSON ST & LAMAR ST",
     "city": "LAFAYETTE",
     "time": "02/26/2019 - 12:02 PM",
