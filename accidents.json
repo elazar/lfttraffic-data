@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "W WILLOW ST & PATTERSON ST",
+    "city": "LAFAYETTE",
+    "time": "02/26/2019 - 10:34 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24518,
+    "longitude": -92.01841
+  }
+]
