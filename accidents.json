@@ -1,5 +1,13 @@
 [
   {
+    "address": "E THIRD ST & N ORANGE ST",
+    "city": "LAFAYETTE",
+    "time": "02/25/2019 - 9:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23021,
+    "longitude": -92.01126
+  },
+  {
     "address": "1905 NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "02/25/2019 - 9:02 PM",
