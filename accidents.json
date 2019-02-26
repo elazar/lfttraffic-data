@@ -1,5 +1,13 @@
 [
   {
+    "address": "S RICHFIELD RD & CAMERON ST",
+    "city": "DUSON",
+    "time": "02/26/2019 - 3:00 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23496,
+    "longitude": -92.17607
+  },
+  {
     "address": "2900 E MILTON AVE",
     "city": "Lafayette",
     "time": "02/26/2019 - 2:54 PM",
