@@ -56,14 +56,6 @@
     "longitude": -92.07452
   },
   {
-    "address": "9500 CAMERON ST",
-    "city": "DUSON",
-    "time": "02/25/2019 - 6:15 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2350949,
-    "longitude": -92.1964353
-  },
-  {
     "address": "100 E BROUSSARD RD",
     "city": "LAFAYETTE",
     "time": "02/25/2019 - 6:05 PM",
@@ -86,14 +78,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.18327,
     "longitude": -92.07545
-  },
-  {
-    "address": "YOUNGSVILLE HW & AMBASSADOR CAFFERY PW",
-    "city": "BROUSSARD",
-    "time": "02/25/2019 - 5:56 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.13508,
-    "longitude": -91.99044
   },
   {
     "address": "S HUGH WALLIS RD & MARKET PL",
