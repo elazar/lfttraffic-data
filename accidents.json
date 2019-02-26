@@ -1,5 +1,21 @@
 [
   {
+    "address": "W UNIVERSITY AV & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "02/26/2019 - 3:29 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2261,
+    "longitude": -92.02828
+  },
+  {
+    "address": "1600 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "02/26/2019 - 3:29 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2133506,
+    "longitude": -92.0236088
+  },
+  {
     "address": "MOSS ST & MUDD AV",
     "city": "LAFAYETTE",
     "time": "02/26/2019 - 3:25 PM",
