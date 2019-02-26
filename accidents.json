@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "02/25/2019 - 8:19 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24052,
+    "longitude": -92.03242
+  },
+  {
     "address": "W CONGRESS ST & GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "02/25/2019 - 8:07 PM",
