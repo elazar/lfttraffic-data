@@ -14,5 +14,13 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.26255,
     "longitude": -92.00867
+  },
+  {
+    "address": "GIRARD PARK DR & HOSPITAL DR",
+    "city": "LAFAYETTE",
+    "time": "02/26/2019 - 11:19 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20436,
+    "longitude": -92.02048
   }
 ]
