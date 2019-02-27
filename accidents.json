@@ -1,5 +1,13 @@
 [
   {
+    "address": "900 CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "02/27/2019 - 09:20 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1780028,
+    "longitude": -92.0460148
+  },
+  {
     "address": "SE EVANGELINE TW & LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "02/27/2019 - 08:57 AM",
