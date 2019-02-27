@@ -1,13 +1,5 @@
 [
   {
-    "address": "900 CAMELLIA BL",
-    "city": "LAFAYETTE",
-    "time": "02/27/2019 - 09:20 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.1780028,
-    "longitude": -92.0460148
-  },
-  {
     "address": "SE EVANGELINE TW & LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "02/27/2019 - 08:57 AM",
@@ -22,14 +14,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.1886,
     "longitude": -92.0141
-  },
-  {
-    "address": "100 E WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "02/27/2019 - 08:44 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24402,
-    "longitude": -92.01048
   },
   {
     "address": "501 E ST",
