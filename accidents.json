@@ -1,5 +1,13 @@
 [
   {
+    "address": "3750 LANDRY RD",
+    "city": "LAFAYETTE",
+    "time": "02/27/2019 - 07:10 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.2120549,
+    "longitude": -92.1142282
+  },
+  {
     "address": "300 AVENUE B",
     "city": "YOUNGSVILLE",
     "time": "02/27/2019 - 07:04 AM",
