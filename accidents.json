@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 KIDDER RD",
+    "city": "LAFAYETTE",
+    "time": "02/27/2019 - 5:53 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.34683,
+    "longitude": -92.03013
+  },
+  {
     "address": "S LARRIVIERE RD & YOUNG ST",
     "city": "YOUNGSVILLE",
     "time": "02/27/2019 - 5:32 PM",
