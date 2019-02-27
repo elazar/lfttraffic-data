@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "100 LEON DR",
+    "city": "LAFAYETTE",
+    "time": "02/27/2019 - 02:30 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.19715,
+    "longitude": -92.0436
+  }
+]
