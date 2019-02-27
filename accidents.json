@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "800 HEIDE CL",
+    "city": "SCOTT",
+    "time": "02/27/2019 - 06:15 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.25801,
+    "longitude": -92.07723
+  }
+]
