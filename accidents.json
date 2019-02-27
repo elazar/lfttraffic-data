@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23359,
     "longitude": -91.99424
-  },
-  {
-    "address": "1500 MOSS ST",
-    "city": "LAFAYETTE",
-    "time": "02/26/2019 - 6:26 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.24545,
-    "longitude": -92.00572
   }
 ]
