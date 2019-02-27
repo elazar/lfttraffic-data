@@ -1,5 +1,13 @@
 [
   {
+    "address": "VEROT SCHOOL RD & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "02/26/2019 - 8:04 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.14589,
+    "longitude": -92.03252
+  },
+  {
     "address": "N AMBASSADOR CAFFERY PW & RENAUD DR",
     "city": "SCOTT",
     "time": "02/26/2019 - 6:50 PM",
