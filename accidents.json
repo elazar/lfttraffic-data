@@ -1,5 +1,13 @@
 [
   {
+    "address": "W UNIVERSITY AV & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "02/27/2019 - 10:55 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.21729,
+    "longitude": -92.01902
+  },
+  {
     "address": "2390 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "02/27/2019 - 10:47 AM",
