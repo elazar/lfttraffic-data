@@ -1,5 +1,13 @@
 [
   {
+    "address": "JEFFERSON BL & E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "02/26/2019 - 7:00 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.23058,
+    "longitude": -92.00783
+  },
+  {
     "address": "N AMBASSADOR CAFFERY PW & RENAUD DR",
     "city": "SCOTT",
     "time": "02/26/2019 - 6:50 PM",
