@@ -1,5 +1,13 @@
 [
   {
+    "address": "3013 CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "02/27/2019 - 5:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23217,
+    "longitude": -92.05172
+  },
+  {
     "address": "N UNIVERSITY AV & WINDMILL LN",
     "city": "LAFAYETTE",
     "time": "02/27/2019 - 5:22 PM",
