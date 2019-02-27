@@ -1,5 +1,13 @@
 [
   {
+    "address": "LA 93 HW & I10 HW",
+    "city": "SCOTT",
+    "time": "02/27/2019 - 2:50 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.23922,
+    "longitude": -92.10743
+  },
+  {
     "address": "FATIMA",
     "city": "Lafayette",
     "time": "02/27/2019 - 2:47 PM",
