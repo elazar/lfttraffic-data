@@ -1,9 +1,17 @@
 [
   {
+    "address": "304 VIVIAN DR",
+    "city": "LAFAYETTE",
+    "time": "02/27/2019 - 07:48 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1362,
+    "longitude": -92.0097
+  },
+  {
     "address": "225 MR CLIFF RD (W)",
     "city": "LAFAYETTE",
     "time": "02/27/2019 - 07:47 AM",
-    "due_to": "Incoming Call",
+    "due_to": "Fire Investigation",
     "latitude": 30.2428584,
     "longitude": -92.1439907
   },
