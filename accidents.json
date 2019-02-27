@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "120 E GLORIA SWITCH RD",
+    "city": "LAFAYETTE",
+    "time": "02/27/2019 - 02:04 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.29346,
+    "longitude": -92.02171
+  }
+]
