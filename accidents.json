@@ -1,5 +1,13 @@
 [
   {
+    "address": "DULLES DR & MORNING CALL BL",
+    "city": "LAFAYETTE",
+    "time": "02/27/2019 - 11:27 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.21053,
+    "longitude": -92.07986
+  },
+  {
     "address": "2390 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "02/27/2019 - 10:47 AM",
