@@ -1,27 +1,11 @@
 [
   {
-    "address": "DULLES DR & MORNING CALL BL",
-    "city": "LAFAYETTE",
-    "time": "02/27/2019 - 11:27 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.21053,
-    "longitude": -92.07986
-  },
-  {
     "address": "LOUISIANA AV & I10 HW",
     "city": "LAFAYETTE",
     "time": "02/27/2019 - 10:37 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.27944,
     "longitude": -91.99217
-  },
-  {
-    "address": "103 E MARTIAL AV",
-    "city": "LAFAYETTE",
-    "time": "02/27/2019 - 10:33 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.16418,
-    "longitude": -92.03861
   },
   {
     "address": "SE EVANGELINE TW & SURREY ST",
