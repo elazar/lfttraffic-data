@@ -1,5 +1,21 @@
 [
   {
+    "address": "JOHNSTON ST & AQUEDUCT DR",
+    "city": "LAFAYETTE",
+    "time": "02/27/2019 - 06:58 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14621,
+    "longitude": -92.09738
+  },
+  {
+    "address": "300 YOUNGSVILLE HW",
+    "city": "LAFAYETTE",
+    "time": "02/27/2019 - 06:57 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1561328,
+    "longitude": -91.9911749
+  },
+  {
     "address": "800 HEIDE CL",
     "city": "SCOTT",
     "time": "02/27/2019 - 06:15 AM",
