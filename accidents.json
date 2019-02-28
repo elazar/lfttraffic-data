@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 WESTGATE RD",
+    "city": "SCOTT",
+    "time": "02/28/2019 - 3:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23043,
+    "longitude": -92.08763
+  },
+  {
     "address": "ORCHARD PARK LN & TOLSON RD",
     "city": "LAFAYETTE",
     "time": "02/28/2019 - 3:23 PM",
