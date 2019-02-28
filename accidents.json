@@ -1,5 +1,21 @@
 [
   {
+    "address": "722 ROBLEY DR (NE)",
+    "city": "LAFAYETTE",
+    "time": "02/28/2019 - 09:24 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.1721713,
+    "longitude": -92.0652965
+  },
+  {
+    "address": "103 I10 WESTBOUND MM103A HW",
+    "city": "LAFAYETTE",
+    "time": "02/28/2019 - 09:23 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "E KALISTE SALOOM RD & STAYBRIDGE PL",
     "city": "LAFAYETTE",
     "time": "02/28/2019 - 09:04 AM",
