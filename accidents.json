@@ -1,11 +1,11 @@
 [
   {
-    "address": "97 I10 WESTBOUND MM97 HW",
+    "address": "97 I10 EASTBOUND MM97 HW",
     "city": "LAFAYETTE",
     "time": "02/28/2019 - 4:24 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.26255,
-    "longitude": -92.00867
+    "latitude": null,
+    "longitude": null
   },
   {
     "address": "4909 CAMERON ST",
