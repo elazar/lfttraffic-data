@@ -16,27 +16,11 @@
     "longitude": null
   },
   {
-    "address": "W CONGRESS ST & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "02/28/2019 - 4:05 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19597,
-    "longitude": -92.07523
-  },
-  {
     "address": "200 JEFFERSON ST",
     "city": "LAFAYETTE",
     "time": "02/28/2019 - 3:42 PM",
     "due_to": "Commercial Fire",
     "latitude": 30.22754,
     "longitude": -92.01609
-  },
-  {
-    "address": "3000 W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "02/28/2019 - 3:15 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20752,
-    "longitude": -92.05827
   }
 ]
