@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": null,
     "longitude": null
-  },
-  {
-    "address": "200 JEFFERSON ST",
-    "city": "LAFAYETTE",
-    "time": "02/28/2019 - 3:42 PM",
-    "due_to": "Commercial Fire",
-    "latitude": 30.22754,
-    "longitude": -92.01609
   }
 ]
