@@ -1,5 +1,13 @@
 [
   {
+    "address": "700 ROBLEY DR",
+    "city": "LAFAYETTE",
+    "time": "02/28/2019 - 10:01 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.17249,
+    "longitude": -92.06498
+  },
+  {
     "address": "1737 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "02/28/2019 - 08:53 AM",
