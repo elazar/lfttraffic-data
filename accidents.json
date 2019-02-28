@@ -1,19 +1,19 @@
 [
   {
+    "address": "3 I49 SOUTHBOUND MM3 HW",
+    "city": "CARENCRO",
+    "time": "02/28/2019 - 10:11 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.31396,
+    "longitude": -92.03118
+  },
+  {
     "address": "700 ROBLEY DR",
     "city": "LAFAYETTE",
     "time": "02/28/2019 - 10:01 AM",
     "due_to": "Fire Investigation",
     "latitude": 30.17249,
     "longitude": -92.06498
-  },
-  {
-    "address": "1737 N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "02/28/2019 - 08:53 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.25389,
-    "longitude": -92.03835
   },
   {
     "address": "300 RUE LOUIS XIV",
