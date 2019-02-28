@@ -1,5 +1,13 @@
 [
   {
+    "address": "1701 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "02/28/2019 - 07:16 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25216,
+    "longitude": -92.03842
+  },
+  {
     "address": "VETERANS DR & NW FRONTAGE RD",
     "city": "CARENCRO",
     "time": "02/28/2019 - 07:05 AM",
