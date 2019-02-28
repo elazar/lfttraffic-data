@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15324,
     "longitude": -91.93397
-  },
-  {
-    "address": "700 ROBLEY DR",
-    "city": "LAFAYETTE",
-    "time": "02/28/2019 - 10:01 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.17249,
-    "longitude": -92.06498
   }
 ]
