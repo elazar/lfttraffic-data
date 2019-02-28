@@ -1,5 +1,13 @@
 [
   {
+    "address": "WALKER RD & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "02/28/2019 - 08:27 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2359,
+    "longitude": -92.03241
+  },
+  {
     "address": "2840 VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "02/28/2019 - 08:26 AM",
