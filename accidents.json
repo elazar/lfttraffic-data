@@ -3,7 +3,7 @@
     "address": "WALKER RD & N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "02/28/2019 - 08:27 AM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.2359,
     "longitude": -92.03241
   },
@@ -22,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17015,
     "longitude": -92.02701
-  },
-  {
-    "address": "RUE SCHOLASTIQUE & MILLS ST",
-    "city": "LAFAYETTE",
-    "time": "02/28/2019 - 08:15 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.28691,
-    "longitude": -92.09136
   },
   {
     "address": "1019 ALBERTSON PW",
