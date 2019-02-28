@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 RUE LOUIS XIV",
+    "city": "LAFAYETTE",
+    "time": "02/28/2019 - 08:22 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17015,
+    "longitude": -92.02701
+  },
+  {
     "address": "RUE SCHOLASTIQUE & MILLS ST",
     "city": "LAFAYETTE",
     "time": "02/28/2019 - 08:15 AM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.13978,
     "longitude": -91.95466
-  },
-  {
-    "address": "232 ST DE PORRES ST",
-    "city": "BROUSSARD",
-    "time": "02/28/2019 - 08:06 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.14138,
-    "longitude": -91.95842
   },
   {
     "address": "W WILLOW ST & AMBASSADOR CAFFERY PW",
