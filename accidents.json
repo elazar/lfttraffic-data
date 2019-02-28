@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 BELLE FONTAINE DR",
+    "city": "LAFAYETTE",
+    "time": "02/28/2019 - 01:17 AM",
+    "due_to": "Commercial Fire",
+    "latitude": 30.18963,
+    "longitude": -92.06735
+  },
+  {
     "address": "505 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "02/28/2019 - 12:31 AM",
