@@ -86,13 +86,5 @@
     "due_to": "Residential Fire",
     "latitude": 30.14218,
     "longitude": -92.0329
-  },
-  {
-    "address": "VETERANS DR & NW FRONTAGE RD",
-    "city": "CARENCRO",
-    "time": "02/28/2019 - 07:05 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.32204,
-    "longitude": -92.03574
   }
 ]
