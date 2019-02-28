@@ -1,5 +1,13 @@
 [
   {
+    "address": "113 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "02/27/2019 - 6:38 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24454,
+    "longitude": -92.01508
+  },
+  {
     "address": "500 N WILDERNESS TL",
     "city": "LAFAYETTE",
     "time": "02/27/2019 - 6:21 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17533,
     "longitude": -92.00692
-  },
-  {
-    "address": "100 I10 EASTBOUND MM100 HW",
-    "city": "LAFAYETTE",
-    "time": "02/27/2019 - 6:01 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.26255,
-    "longitude": -92.00867
   },
   {
     "address": "S LARRIVIERE RD & YOUNG ST",
