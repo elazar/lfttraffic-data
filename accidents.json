@@ -1,5 +1,13 @@
 [
   {
+    "address": "HERBERT RD & SWEETBRIAR ST",
+    "city": "SCOTT",
+    "time": "02/28/2019 - 2:08 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.20381,
+    "longitude": -92.09804
+  },
+  {
     "address": "2727 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "02/28/2019 - 1:55 PM",
