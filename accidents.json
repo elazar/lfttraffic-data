@@ -1,5 +1,13 @@
 [
   {
+    "address": "812 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "02/27/2019 - 10:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23943,
+    "longitude": -92.03187
+  },
+  {
     "address": "1401 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "02/27/2019 - 8:34 PM",
