@@ -1,5 +1,13 @@
 [
   {
+    "address": "5525 CAMERON ST",
+    "city": "SCOTT",
+    "time": "02/28/2019 - 09:01 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23322,
+    "longitude": -92.08773
+  },
+  {
     "address": "1737 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "02/28/2019 - 08:53 AM",
@@ -11,7 +19,7 @@
     "address": "KALISTE SALOOM RD & W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "02/28/2019 - 08:44 AM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.1886,
     "longitude": -92.0141
   },
