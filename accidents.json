@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 AMELIA ST",
+    "city": "LAFAYETTE",
+    "time": "02/28/2019 - 11:02 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2188519,
+    "longitude": -92.019369
+  },
+  {
     "address": "700 ROBLEY DR",
     "city": "LAFAYETTE",
     "time": "02/28/2019 - 10:01 AM",
