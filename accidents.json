@@ -1,5 +1,13 @@
 [
   {
+    "address": "3000 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "02/28/2019 - 3:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20752,
+    "longitude": -92.05827
+  },
+  {
     "address": "DULLES DR & MARIE ANTOINETTE ST",
     "city": "LAFAYETTE",
     "time": "02/28/2019 - 3:06 PM",
