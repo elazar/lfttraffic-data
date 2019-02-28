@@ -1,5 +1,13 @@
 [
   {
+    "address": "LA FLAMME RD & BAYOU TORTUE RD",
+    "city": "LAFAYETTE",
+    "time": "02/28/2019 - 12:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15324,
+    "longitude": -91.93397
+  },
+  {
     "address": "CAMERON ST & AUSTRIA RD",
     "city": "DUSON",
     "time": "02/28/2019 - 11:10 AM",
