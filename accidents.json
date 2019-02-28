@@ -8,14 +8,6 @@
     "longitude": -92.07523
   },
   {
-    "address": "111 WOODROW ST",
-    "city": "LAFAYETTE",
-    "time": "02/28/2019 - 4:34 PM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.23141,
-    "longitude": -92.05637
-  },
-  {
     "address": "97 I10 EASTBOUND MM97 HW",
     "city": "LAFAYETTE",
     "time": "02/28/2019 - 4:24 PM",
@@ -46,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23043,
     "longitude": -92.08763
-  },
-  {
-    "address": "ORCHARD PARK LN & TOLSON RD",
-    "city": "LAFAYETTE",
-    "time": "02/28/2019 - 3:23 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.16068,
-    "longitude": -92.01455
   },
   {
     "address": "3000 W CONGRESS ST",
