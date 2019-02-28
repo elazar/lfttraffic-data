@@ -16,22 +16,6 @@
     "longitude": -92.00145
   },
   {
-    "address": "HERBERT RD & SWEETBRIAR ST",
-    "city": "SCOTT",
-    "time": "02/28/2019 - 2:08 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.20381,
-    "longitude": -92.09804
-  },
-  {
-    "address": "4500 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "02/28/2019 - 1:33 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.19141,
-    "longitude": -92.06196
-  },
-  {
     "address": "5713 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "02/28/2019 - 12:42 PM",
