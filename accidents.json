@@ -1,5 +1,13 @@
 [
   {
+    "address": "FEU FOLLET RD & VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "02/27/2019 - 6:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17533,
+    "longitude": -92.00692
+  },
+  {
     "address": "100 I10 EASTBOUND MM100 HW",
     "city": "LAFAYETTE",
     "time": "02/27/2019 - 6:01 PM",
@@ -86,14 +94,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.25235,
     "longitude": -92.00559
-  },
-  {
-    "address": "3924 VEROT SCHOOL RD",
-    "city": "YOUNGSVILLE",
-    "time": "02/27/2019 - 3:59 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.1073,
-    "longitude": -92.03327
   },
   {
     "address": "SE EVANGELINE TW & SURREY ST",
