@@ -1,5 +1,13 @@
 [
   {
+    "address": "SAMPSON AV & NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "02/28/2019 - 1:35 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23458,
+    "longitude": -92.01252
+  },
+  {
     "address": "93 I10 EASTBOUND MM93 HW",
     "city": "Lafayette",
     "time": "02/28/2019 - 1:33 PM",
