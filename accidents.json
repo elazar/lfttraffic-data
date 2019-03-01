@@ -1,5 +1,21 @@
 [
   {
+    "address": "1001 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "03/01/2019 - 4:10 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.23683,
+    "longitude": -92.01315
+  },
+  {
+    "address": "GUILBEAU RD & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "03/01/2019 - 4:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19375,
+    "longitude": -92.0586
+  },
+  {
     "address": "1815 ST MARY ST",
     "city": "SCOTT",
     "time": "03/01/2019 - 4:07 PM",
