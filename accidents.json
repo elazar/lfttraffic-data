@@ -1,19 +1,19 @@
 [
   {
+    "address": "W CONGRESS ST & BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "03/01/2019 - 09:41 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21493,
+    "longitude": -92.04696
+  },
+  {
     "address": "152 KEVIN DR",
     "city": "DUSON",
     "time": "03/01/2019 - 09:35 AM",
     "due_to": "Residential Fire",
     "latitude": 30.2445,
     "longitude": -92.18798
-  },
-  {
-    "address": "209 NOVA SCOTIA DR",
-    "city": "LAFAYETTE",
-    "time": "03/01/2019 - 09:27 AM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.27981,
-    "longitude": -92.01062
   },
   {
     "address": "302 GRAND POINTE BL",
