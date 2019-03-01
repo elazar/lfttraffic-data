@@ -1,5 +1,13 @@
 [
   {
+    "address": "1800 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "03/01/2019 - 11:34 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25424,
+    "longitude": -92.03722
+  },
+  {
     "address": "N ST ANTOINE ST & MADELINE AV",
     "city": "LAFAYETTE",
     "time": "03/01/2019 - 11:31 AM",
