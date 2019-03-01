@@ -1,5 +1,13 @@
 [
   {
+    "address": "WEBB ST & E PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "03/01/2019 - 10:21 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23718,
+    "longitude": -91.98992
+  },
+  {
     "address": "E PINHOOK RD & WEBB ST",
     "city": "LAFAYETTE",
     "time": "03/01/2019 - 10:17 AM",
