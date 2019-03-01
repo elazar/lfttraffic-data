@@ -30,13 +30,5 @@
     "due_to": "Residential Fire",
     "latitude": null,
     "longitude": null
-  },
-  {
-    "address": "3300 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "02/28/2019 - 10:08 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18135,
-    "longitude": -92.07515
   }
 ]
