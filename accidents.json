@@ -1,21 +1,5 @@
 [
   {
-    "address": "848 ST JOHN ST",
-    "city": "LAFAYETTE",
-    "time": "03/01/2019 - 12:18 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.22409,
-    "longitude": -92.02352
-  },
-  {
-    "address": "806 I10 SOUTH FRONTAGE RD",
-    "city": "SCOTT",
-    "time": "03/01/2019 - 12:12 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.24624,
-    "longitude": -92.09992
-  },
-  {
     "address": "152 KEVIN DR",
     "city": "DUSON",
     "time": "03/01/2019 - 09:35 AM",
