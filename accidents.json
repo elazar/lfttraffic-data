@@ -1,5 +1,13 @@
 [
   {
+    "address": "SE EVANGELINE TW & SURREY ST",
+    "city": "LAFAYETTE",
+    "time": "02/28/2019 - 6:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2091,
+    "longitude": -91.99986
+  },
+  {
     "address": "1100 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "02/28/2019 - 6:00 PM",
@@ -8,12 +16,12 @@
     "longitude": -92.0655654
   },
   {
-    "address": "1229 NW EVANGELINE TW",
+    "address": "1251 NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "02/28/2019 - 5:41 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.23958,
-    "longitude": -92.0157
+    "latitude": 30.2396898,
+    "longitude": -92.0131648
   },
   {
     "address": "E PINHOOK RD & SURREY ST",
