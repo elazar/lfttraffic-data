@@ -1,5 +1,21 @@
 [
   {
+    "address": "3222 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "03/01/2019 - 1:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18327,
+    "longitude": -92.07545
+  },
+  {
+    "address": "E BROUSSARD RD & KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "03/01/2019 - 1:27 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.13792,
+    "longitude": -92.06754
+  },
+  {
     "address": "152 KEVIN DR",
     "city": "DUSON",
     "time": "03/01/2019 - 09:35 AM",
