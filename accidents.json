@@ -2,6 +2,14 @@
   {
     "address": "AMBASSADOR CAFFERY PW & JOHNSTON ST",
     "city": "LAFAYETTE",
+    "time": "02/28/2019 - 6:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17808,
+    "longitude": -92.07452
+  },
+  {
+    "address": "AMBASSADOR CAFFERY PW & JOHNSTON ST",
+    "city": "LAFAYETTE",
     "time": "02/28/2019 - 6:51 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.17808,
