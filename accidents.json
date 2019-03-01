@@ -1,5 +1,29 @@
 [
   {
+    "address": "119 TUCKER DR",
+    "city": "LAFAYETTE",
+    "time": "03/01/2019 - 12:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17372,
+    "longitude": -92.07168
+  },
+  {
+    "address": "200 SW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "03/01/2019 - 12:19 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2276174,
+    "longitude": -92.0121366
+  },
+  {
+    "address": "848 ST JOHN ST",
+    "city": "LAFAYETTE",
+    "time": "03/01/2019 - 12:18 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.22409,
+    "longitude": -92.02352
+  },
+  {
     "address": "806 I10 SOUTH FRONTAGE RD",
     "city": "SCOTT",
     "time": "03/01/2019 - 12:12 PM",
