@@ -1,5 +1,13 @@
 [
   {
+    "address": "1701 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "02/28/2019 - 10:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25216,
+    "longitude": -92.03842
+  },
+  {
     "address": "S MORGAN AV & E FAIRFIELD DR",
     "city": "BROUSSARD",
     "time": "02/28/2019 - 10:26 PM",
