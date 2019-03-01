@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 I10 EASTBOUND MM100 HW",
+    "city": "LAFAYETTE",
+    "time": "03/01/2019 - 3:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "MOSS ST & CASTILLE AV",
     "city": "LAFAYETTE",
     "time": "03/01/2019 - 3:19 PM",
