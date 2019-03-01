@@ -3,16 +3,8 @@
     "address": "2810 BONIN RD",
     "city": "YOUNGSVILLE",
     "time": "03/01/2019 - 03:44 AM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Stalled Vehicle",
     "latitude": 30.10388,
     "longitude": -92.00776
-  },
-  {
-    "address": "RENA DR & JOHNSTON DR",
-    "city": "LAFAYETTE",
-    "time": "03/01/2019 - 01:40 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19435,
-    "longitude": -92.05813
   }
 ]
