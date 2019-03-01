@@ -1,5 +1,13 @@
 [
   {
+    "address": "518 S MAGNOLIA ST",
+    "city": "LAFAYETTE",
+    "time": "03/01/2019 - 3:54 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.22508,
+    "longitude": -92.0075
+  },
+  {
     "address": "DULLES DR & J B RD",
     "city": "SCOTT",
     "time": "03/01/2019 - 3:43 PM",
