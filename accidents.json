@@ -1,5 +1,13 @@
 [
   {
+    "address": "S COLLEGE RD & PASA PL",
+    "city": "LAFAYETTE",
+    "time": "03/01/2019 - 4:06 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.19969,
+    "longitude": -92.02771
+  },
+  {
     "address": "518 S MAGNOLIA ST",
     "city": "LAFAYETTE",
     "time": "03/01/2019 - 3:54 PM",
