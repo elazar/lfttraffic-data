@@ -1,5 +1,13 @@
 [
   {
+    "address": "700 ST CLAIR RD",
+    "city": "LAFAYETTE",
+    "time": "02/28/2019 - 7:48 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.3023092,
+    "longitude": -91.9605723
+  },
+  {
     "address": "BONIN RD & PALFREY PW",
     "city": "YOUNGSVILLE",
     "time": "02/28/2019 - 7:46 PM",
@@ -30,6 +38,14 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1805401,
     "longitude": -92.0748651
+  },
+  {
+    "address": "W CONGRESS ST & CAJUNDOME BL",
+    "city": "LAFAYETTE",
+    "time": "02/28/2019 - 6:50 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.21871,
+    "longitude": -92.04139
   },
   {
     "address": "1800 DULLES DR",
