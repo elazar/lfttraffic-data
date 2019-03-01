@@ -22,13 +22,5 @@
     "due_to": "Residential Fire",
     "latitude": 30.2445,
     "longitude": -92.18798
-  },
-  {
-    "address": "302 GRAND POINTE BL",
-    "city": "LAFAYETTE",
-    "time": "03/01/2019 - 09:24 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.14232,
-    "longitude": -92.06534
   }
 ]
