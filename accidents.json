@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "02/28/2019 - 6:51 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17808,
+    "longitude": -92.07452
+  },
+  {
     "address": "W CONGRESS ST & CAJUNDOME BL",
     "city": "LAFAYETTE",
     "time": "02/28/2019 - 6:50 PM",
@@ -40,12 +48,12 @@
     "longitude": -92.0840517
   },
   {
-    "address": "SE EVANGELINE TW & SURREY ST",
+    "address": "2101 SURREY ST",
     "city": "LAFAYETTE",
     "time": "02/28/2019 - 6:13 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.2091,
-    "longitude": -91.99986
+    "latitude": 30.2086838,
+    "longitude": -91.9989188
   },
   {
     "address": "1100 AMBASSADOR CAFFERY PW",
