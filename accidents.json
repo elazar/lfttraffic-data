@@ -1,5 +1,13 @@
 [
   {
+    "address": "244 GAYLE RD",
+    "city": "LAFAYETTE",
+    "time": "03/01/2019 - 02:45 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.31176,
+    "longitude": -92.08161
+  },
+  {
     "address": "RENA DR & JOHNSTON DR",
     "city": "LAFAYETTE",
     "time": "03/01/2019 - 01:40 AM",
