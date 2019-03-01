@@ -22,13 +22,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.14232,
     "longitude": -92.06534
-  },
-  {
-    "address": "NEWCASTLE DR & DAFNEY DR",
-    "city": "LAFAYETTE",
-    "time": "03/01/2019 - 08:37 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18787,
-    "longitude": -92.05921
   }
 ]
