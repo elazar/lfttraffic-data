@@ -1,5 +1,13 @@
 [
   {
+    "address": "W WILLOW ST & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "03/01/2019 - 5:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24324,
+    "longitude": -92.06626
+  },
+  {
     "address": "100 I10 EASTBOUND MM100 HW",
     "city": "LAFAYETTE",
     "time": "03/01/2019 - 4:40 PM",
