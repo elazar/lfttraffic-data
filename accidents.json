@@ -1,5 +1,13 @@
 [
   {
+    "address": "BERTRAND DR & ACOSTA DR",
+    "city": "LAFAYETTE",
+    "time": "03/01/2019 - 11:51 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21078,
+    "longitude": -92.04419
+  },
+  {
     "address": "IBERIA ST & RANDY RD",
     "city": "YOUNGSVILLE",
     "time": "03/01/2019 - 11:50 AM",
