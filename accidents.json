@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 I10 EB EXIT RAMP HW",
+    "city": "LAFAYETTE",
+    "time": "02/28/2019 - 9:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "817 FAIRMONT LN",
     "city": "LAFAYETTE",
     "time": "02/28/2019 - 9:20 PM",
