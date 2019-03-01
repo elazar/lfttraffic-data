@@ -1,5 +1,13 @@
 [
   {
+    "address": "2600 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "03/01/2019 - 1:32 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25598,
+    "longitude": -92.00498
+  },
+  {
     "address": "3222 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "03/01/2019 - 1:27 PM",
