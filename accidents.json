@@ -1,5 +1,13 @@
 [
   {
+    "address": "E SIMCOE ST & TWELFTH ST",
+    "city": "LAFAYETTE",
+    "time": "02/28/2019 - 11:54 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.2296,
+    "longitude": -91.99984
+  },
+  {
     "address": "ST LANDRY ST & W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "02/28/2019 - 11:48 PM",
