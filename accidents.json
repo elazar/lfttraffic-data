@@ -1,5 +1,13 @@
 [
   {
+    "address": "122 SURREY ST",
+    "city": "LAFAYETTE",
+    "time": "03/01/2019 - 10:28 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22985,
+    "longitude": -92.00727
+  },
+  {
     "address": "REINHARDT DR & BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "03/01/2019 - 10:28 AM",
