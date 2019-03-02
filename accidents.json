@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 SILVERBELL PW",
+    "city": "LAFAYETTE",
+    "time": "03/02/2019 - 05:25 AM",
+    "due_to": "Hazard",
+    "latitude": 30.1874467,
+    "longitude": -92.0154363
+  },
+  {
     "address": "1200 ROBLEY DR",
     "city": "LAFAYETTE",
     "time": "03/02/2019 - 04:18 AM",
