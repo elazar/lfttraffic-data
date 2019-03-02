@@ -46,21 +46,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1886,
     "longitude": -92.0141
-  },
-  {
-    "address": "I49 NORTHBOUND MM3 HW & E GLORIA SWITCH RD",
-    "city": "CARENCRO",
-    "time": "03/02/2019 - 1:15 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.29523,
-    "longitude": -92.01609
-  },
-  {
-    "address": "515 TOBY MOUTON RD",
-    "city": "DUSON",
-    "time": "03/02/2019 - 12:03 PM",
-    "due_to": "Residential Fire",
-    "latitude": 30.24108,
-    "longitude": -92.18575
   }
 ]
