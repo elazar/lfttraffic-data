@@ -1,5 +1,13 @@
 [
   {
+    "address": "W WILLOW ST & NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "03/02/2019 - 2:53 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24466,
+    "longitude": -92.01336
+  },
+  {
     "address": "W CONGRESS ST & BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "03/02/2019 - 2:45 PM",
@@ -22,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19597,
     "longitude": -92.07523
-  },
-  {
-    "address": "915 ST CHARLES ST",
-    "city": "LAFAYETTE",
-    "time": "03/02/2019 - 1:45 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22376,
-    "longitude": -92.00068
   }
 ]
