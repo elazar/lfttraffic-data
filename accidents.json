@@ -1,5 +1,13 @@
 [
   {
+    "address": "915 ST CHARLES ST",
+    "city": "LAFAYETTE",
+    "time": "03/02/2019 - 1:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22376,
+    "longitude": -92.00068
+  },
+  {
     "address": "2611 SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "03/02/2019 - 1:30 PM",
