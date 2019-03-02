@@ -1,5 +1,13 @@
 [
   {
+    "address": "916 LAFAYETTE ST",
+    "city": "LAFAYETTE",
+    "time": "03/01/2019 - 10:48 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22351,
+    "longitude": -92.0214
+  },
+  {
     "address": "3300 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "03/01/2019 - 9:51 PM",
