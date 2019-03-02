@@ -1,19 +1,19 @@
 [
   {
+    "address": "300 NEW HOPE RD",
+    "city": "LAFAYETTE",
+    "time": "03/01/2019 - 6:54 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1739932,
+    "longitude": -92.0946054
+  },
+  {
     "address": "VEROT SCHOOL RD & GREEN RD",
     "city": "LAFAYETTE",
     "time": "03/01/2019 - 6:51 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.16343,
     "longitude": -92.02118
-  },
-  {
-    "address": "121 E PONT DES MOUTON RD",
-    "city": "LAFAYETTE",
-    "time": "03/01/2019 - 6:38 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.27444,
-    "longitude": -92.01665
   },
   {
     "address": "5620 JOHNSTON ST",
