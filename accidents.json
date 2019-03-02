@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "W CONGRESS ST & N DOMINGUE AV",
+    "city": "LAFAYETTE",
+    "time": "03/02/2019 - 11:39 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.19586,
+    "longitude": -92.08353
+  }
+]
