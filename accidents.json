@@ -1,5 +1,13 @@
 [
   {
+    "address": "1602 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "03/02/2019 - 12:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24958,
+    "longitude": -92.03503
+  },
+  {
     "address": "515 TOBY MOUTON RD",
     "city": "DUSON",
     "time": "03/02/2019 - 12:03 PM",
