@@ -1,5 +1,13 @@
 [
   {
+    "address": "I49 NORTHBOUND MM3 HW & E GLORIA SWITCH RD",
+    "city": "CARENCRO",
+    "time": "03/02/2019 - 1:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29523,
+    "longitude": -92.01609
+  },
+  {
     "address": "JEFFERSON BL & N CHESTNUT ST",
     "city": "LAFAYETTE",
     "time": "03/02/2019 - 12:32 PM",
