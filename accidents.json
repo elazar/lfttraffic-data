@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1200 ROBLEY DR",
+    "city": "LAFAYETTE",
+    "time": "03/02/2019 - 04:18 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16505,
+    "longitude": -92.07455
+  }
+]
