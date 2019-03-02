@@ -1,5 +1,13 @@
 [
   {
+    "address": "601 BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "03/01/2019 - 6:55 PM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.21337,
+    "longitude": -92.04767
+  },
+  {
     "address": "300 NEW HOPE RD",
     "city": "LAFAYETTE",
     "time": "03/01/2019 - 6:54 PM",
