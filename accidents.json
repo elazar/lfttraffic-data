@@ -1,19 +1,19 @@
 [
   {
+    "address": "121 E PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "03/01/2019 - 6:38 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.27444,
+    "longitude": -92.01665
+  },
+  {
     "address": "5620 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "03/01/2019 - 6:17 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.1779,
     "longitude": -92.07559
-  },
-  {
-    "address": "W PINHOOK RD & SOUTHPARK RD",
-    "city": "LAFAYETTE",
-    "time": "03/01/2019 - 5:36 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.16071,
-    "longitude": -91.99107
   },
   {
     "address": "152 KEVIN DR",
