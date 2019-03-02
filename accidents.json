@@ -1,5 +1,13 @@
 [
   {
+    "address": "2300 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "03/02/2019 - 2:31 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2098885,
+    "longitude": -92.0318762
+  },
+  {
     "address": "GASLIGHT LN & CHEMIN METAIRIE",
     "city": "YOUNGSVILLE",
     "time": "03/02/2019 - 2:24 PM",
