@@ -1,5 +1,21 @@
 [
   {
+    "address": "2810 E MILTON AV",
+    "city": "YOUNGSVILLE",
+    "time": "03/02/2019 - 3:04 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1090851,
+    "longitude": -92.0172695
+  },
+  {
+    "address": "1601 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "03/02/2019 - 3:04 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.16459,
+    "longitude": -92.01994
+  },
+  {
     "address": "MALAPART RD & N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "03/02/2019 - 3:02 PM",
