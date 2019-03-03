@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "CAMERON ST & ERASTE LANDRY RD",
+    "city": "LAFAYETTE",
+    "time": "03/02/2019 - 11:36 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23242,
+    "longitude": -92.03921
+  }
+]
