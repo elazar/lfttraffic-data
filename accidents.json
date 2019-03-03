@@ -3,7 +3,7 @@
     "address": "309 BELL DOWNS DR",
     "city": "LAFAYETTE",
     "time": "03/03/2019 - 2:57 PM",
-    "due_to": "Residential Fire",
+    "due_to": "Commercial Fire",
     "latitude": 30.19874,
     "longitude": -92.0677
   },
@@ -16,12 +16,12 @@
     "longitude": -92.07797
   },
   {
-    "address": "100 DOUCET RD",
+    "address": "151 DOUCET RD",
     "city": "LAFAYETTE",
     "time": "03/03/2019 - 2:15 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.2031752,
-    "longitude": -92.048814
+    "latitude": 30.2023944,
+    "longitude": -92.0473671
   },
   {
     "address": "6191 JOHNSTON ST",
