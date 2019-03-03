@@ -1,5 +1,13 @@
 [
   {
+    "address": "W SIMCOE ST & S PIERCE ST",
+    "city": "LAFAYETTE",
+    "time": "03/02/2019 - 8:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23067,
+    "longitude": -92.01881
+  },
+  {
     "address": "NW EVANGELINE TW & E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "03/02/2019 - 7:41 PM",
