@@ -1,5 +1,13 @@
 [
   {
+    "address": "400 BROTHERS RD",
+    "city": "SCOTT",
+    "time": "03/03/2019 - 1:24 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.26511,
+    "longitude": -92.05459
+  },
+  {
     "address": "N UNIVERSITY AV & W GLORIA SWITCH RD",
     "city": "CARENCRO",
     "time": "03/03/2019 - 1:20 PM",
