@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "97 I10 WESTBOUND MM97 HW",
+    "city": "LAFAYETTE",
+    "time": "03/03/2019 - 02:54 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  }
+]
