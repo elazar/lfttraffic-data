@@ -1,5 +1,13 @@
 [
   {
+    "address": "MUDD AV & N STERLING ST",
+    "city": "LAFAYETTE",
+    "time": "03/03/2019 - 1:53 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23267,
+    "longitude": -92.01025
+  },
+  {
     "address": "400 BROTHERS RD",
     "city": "SCOTT",
     "time": "03/03/2019 - 1:24 PM",
