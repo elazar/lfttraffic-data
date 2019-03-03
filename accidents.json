@@ -1,5 +1,13 @@
 [
   {
+    "address": "CARMEL DR & E PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "03/03/2019 - 12:37 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2334,
+    "longitude": -91.9927
+  },
+  {
     "address": "OVEY ST & CLIFFORD RD",
     "city": "LAFAYETTE",
     "time": "03/03/2019 - 12:18 PM",
