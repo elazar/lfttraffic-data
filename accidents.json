@@ -1,5 +1,13 @@
 [
   {
+    "address": "LAFAYETTE ST & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "03/02/2019 - 8:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22695,
+    "longitude": -92.02078
+  },
+  {
     "address": "W SIMCOE ST & S PIERCE ST",
     "city": "LAFAYETTE",
     "time": "03/02/2019 - 8:19 PM",
