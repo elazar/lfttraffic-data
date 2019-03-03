@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "ST. ANNE CHURCH",
+    "city": "Lafayette",
+    "time": "03/03/2019 - 08:37 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.24677,
+    "longitude": -92.02959
+  }
+]
