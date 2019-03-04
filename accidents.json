@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAJUNDOME BL & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "03/04/2019 - 2:24 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.20919,
+    "longitude": -92.0338
+  },
+  {
     "address": "1019 JEFFERSON ST",
     "city": "LAFAYETTE",
     "time": "03/04/2019 - 2:19 PM",
