@@ -1,5 +1,13 @@
 [
   {
+    "address": "1011 JEFFERSON ST",
+    "city": "LAFAYETTE",
+    "time": "03/04/2019 - 12:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22063,
+    "longitude": -92.01744
+  },
+  {
     "address": "SE EVANGELINE TW & FOURTEENTH ST",
     "city": "LAFAYETTE",
     "time": "03/04/2019 - 11:49 AM",
