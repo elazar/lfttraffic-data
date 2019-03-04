@@ -1,5 +1,13 @@
 [
   {
+    "address": "N ST ANTOINE ST & W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "03/03/2019 - 10:24 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24558,
+    "longitude": -92.02342
+  },
+  {
     "address": "W CONGRESS ST & NORRIS RD",
     "city": "LAFAYETTE",
     "time": "03/03/2019 - 9:27 PM",
