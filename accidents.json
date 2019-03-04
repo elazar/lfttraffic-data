@@ -1,5 +1,13 @@
 [
   {
+    "address": "110 TUCKER DR",
+    "city": "LAFAYETTE",
+    "time": "03/04/2019 - 12:05 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17452,
+    "longitude": -92.07181
+  },
+  {
     "address": "1011 JEFFERSON ST",
     "city": "LAFAYETTE",
     "time": "03/04/2019 - 12:01 PM",
