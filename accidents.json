@@ -1,5 +1,13 @@
 [
   {
+    "address": "800 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "03/04/2019 - 3:12 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.2375875,
+    "longitude": -92.0075484
+  },
+  {
     "address": "100 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "03/04/2019 - 2:53 PM",
