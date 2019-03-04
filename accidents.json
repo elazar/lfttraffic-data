@@ -1,19 +1,11 @@
 [
   {
-    "address": "400 DUCOTE DR",
+    "address": "411 HUVAL ST",
     "city": "BROUSSARD",
     "time": "03/04/2019 - 3:40 PM",
     "due_to": "Residential Fire",
-    "latitude": 30.14609,
-    "longitude": -91.97031
-  },
-  {
-    "address": "DUCOTE DR & W BROUSSARD ST",
-    "city": "BROUSSARD",
-    "time": "03/04/2019 - 3:39 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.14593,
-    "longitude": -91.97001
+    "latitude": 30.1434171,
+    "longitude": -91.9687663
   },
   {
     "address": "W PINHOOK RD & INDUSTRIAL PW",
