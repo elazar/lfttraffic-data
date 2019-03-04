@@ -1,5 +1,13 @@
 [
   {
+    "address": "1203 DULLES DR",
+    "city": "LAFAYETTE",
+    "time": "03/04/2019 - 07:52 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.21058,
+    "longitude": -92.07098
+  },
+  {
     "address": "101 SETTLERS TRACE BL",
     "city": "LAFAYETTE",
     "time": "03/04/2019 - 07:41 AM",
