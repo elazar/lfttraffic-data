@@ -1,5 +1,13 @@
 [
   {
+    "address": "1108 SCOTT ST",
+    "city": "SCOTT",
+    "time": "03/04/2019 - 2:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23633,
+    "longitude": -92.09335
+  },
+  {
     "address": "7215 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "03/04/2019 - 2:29 PM",
