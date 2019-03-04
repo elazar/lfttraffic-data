@@ -1,5 +1,13 @@
 [
   {
+    "address": "700 I10 SOUTH FRONTAGE RD",
+    "city": "SCOTT",
+    "time": "03/04/2019 - 5:37 PM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.24443,
+    "longitude": -92.10608
+  },
+  {
     "address": "3142 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "03/04/2019 - 5:36 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16043,
     "longitude": -92.02256
-  },
-  {
-    "address": "1300 LOUISIANA AV",
-    "city": "LAFAYETTE",
-    "time": "03/04/2019 - 4:22 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23252,
-    "longitude": -92.0023
   },
   {
     "address": "411 DUCOTE DR",
