@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "03/03/2019 - 8:02 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.24052,
+    "longitude": -92.03242
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "03/03/2019 - 7:15 PM",
