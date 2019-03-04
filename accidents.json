@@ -1,5 +1,13 @@
 [
   {
+    "address": "3205 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "03/04/2019 - 12:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26515,
+    "longitude": -91.99301
+  },
+  {
     "address": "E BROUSSARD RD & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "03/04/2019 - 12:20 PM",
