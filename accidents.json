@@ -1,5 +1,21 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & TUCKER DR",
+    "city": "LAFAYETTE",
+    "time": "03/04/2019 - 12:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17501,
+    "longitude": -92.07082
+  },
+  {
+    "address": "YOUNGSVILLE HW & AMBASSADOR CAFFERY PW",
+    "city": "BROUSSARD",
+    "time": "03/04/2019 - 12:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13508,
+    "longitude": -91.99044
+  },
+  {
     "address": "3205 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "03/04/2019 - 12:22 PM",
