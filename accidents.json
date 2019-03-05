@@ -1,5 +1,13 @@
 [
   {
+    "address": "406 MALAPART RD",
+    "city": "LAFAYETTE",
+    "time": "03/05/2019 - 3:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29077,
+    "longitude": -92.06156
+  },
+  {
     "address": "US 90 EAST HW & YOUNG ST",
     "city": "BROUSSARD",
     "time": "03/05/2019 - 3:21 PM",
