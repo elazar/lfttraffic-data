@@ -1,5 +1,13 @@
 [
   {
+    "address": "LAFAYETTE ST & W SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "03/05/2019 - 10:51 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23054,
+    "longitude": -92.02082
+  },
+  {
     "address": "NW EVANGELINE TW & JEFFERSON BL",
     "city": "LAFAYETTE",
     "time": "03/05/2019 - 10:13 AM",
