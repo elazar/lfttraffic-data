@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "S MAGNOLIA ST & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "03/05/2019 - 2:40 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22571,
+    "longitude": -92.00791
+  }
+]
