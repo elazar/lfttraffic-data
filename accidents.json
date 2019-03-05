@@ -1,5 +1,21 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "03/04/2019 - 7:31 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15649,
+    "longitude": -92.04838
+  },
+  {
+    "address": "916 LAFAYETTE ST",
+    "city": "LAFAYETTE",
+    "time": "03/04/2019 - 7:31 PM",
+    "due_to": "Hazard",
+    "latitude": 30.22351,
+    "longitude": -92.0214
+  },
+  {
     "address": "155 EARLINE DR",
     "city": "SCOTT",
     "time": "03/04/2019 - 7:19 PM",
