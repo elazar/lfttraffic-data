@@ -1,5 +1,13 @@
 [
   {
+    "address": "MOSS ST & MUDD AV",
+    "city": "LAFAYETTE",
+    "time": "03/04/2019 - 6:28 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.23248,
+    "longitude": -92.00878
+  },
+  {
     "address": "123 ST NAZAIRE RD",
     "city": "BROUSSARD",
     "time": "03/04/2019 - 6:24 PM",
