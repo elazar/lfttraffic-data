@@ -1,5 +1,13 @@
 [
   {
+    "address": "205 JIMMIE ST",
+    "city": "LAFAYETTE",
+    "time": "03/05/2019 - 5:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22647,
+    "longitude": -92.05579
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & BROADMOOR BL",
     "city": "LAFAYETTE",
     "time": "03/05/2019 - 5:09 PM",
