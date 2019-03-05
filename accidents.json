@@ -1,5 +1,13 @@
 [
   {
+    "address": "BLUE BL & TERMINAL DR",
+    "city": "LAFAYETTE",
+    "time": "03/04/2019 - 6:46 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20844,
+    "longitude": -91.99327
+  },
+  {
     "address": "YOUNG ST & MARTEAU RD",
     "city": "LAFAYETTE",
     "time": "03/04/2019 - 6:41 PM",
