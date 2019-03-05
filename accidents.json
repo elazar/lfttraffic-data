@@ -1,5 +1,13 @@
 [
   {
+    "address": "104 I10 EASTBOUND MM104 HW",
+    "city": "LAFAYETTE",
+    "time": "03/05/2019 - 11:48 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "S COLLEGE RD & W BAYOU PW",
     "city": "LAFAYETTE",
     "time": "03/05/2019 - 11:45 AM",
