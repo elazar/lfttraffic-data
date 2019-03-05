@@ -1,5 +1,13 @@
 [
   {
+    "address": "2200 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "03/05/2019 - 4:08 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22189,
+    "longitude": -92.0369
+  },
+  {
     "address": "300 S BIENVILLE ST",
     "city": "LAFAYETTE",
     "time": "03/05/2019 - 4:00 PM",
