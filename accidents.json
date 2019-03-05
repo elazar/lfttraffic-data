@@ -1,5 +1,13 @@
 [
   {
+    "address": "4900 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "03/05/2019 - 06:35 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1958823,
+    "longitude": -92.0970903
+  },
+  {
     "address": "1104 S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "03/04/2019 - 10:48 AM",
