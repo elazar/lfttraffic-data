@@ -1,5 +1,13 @@
 [
   {
+    "address": "400 LEE AV",
+    "city": "LAFAYETTE",
+    "time": "03/04/2019 - 6:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22477,
+    "longitude": -92.01645
+  },
+  {
     "address": "MOSS ST & MUDD AV",
     "city": "LAFAYETTE",
     "time": "03/04/2019 - 6:28 PM",
