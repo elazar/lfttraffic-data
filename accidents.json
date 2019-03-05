@@ -1,5 +1,13 @@
 [
   {
+    "address": "1111 ROPER DR",
+    "city": "LAFAYETTE",
+    "time": "03/04/2019 - 8:18 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.26346,
+    "longitude": -92.06283
+  },
+  {
     "address": "323 PATTERSON ST",
     "city": "LAFAYETTE",
     "time": "03/04/2019 - 8:15 PM",
