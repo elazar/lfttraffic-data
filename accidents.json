@@ -1,5 +1,13 @@
 [
   {
+    "address": "ALBERTSON PW & S BERNARD RD",
+    "city": "BROUSSARD",
+    "time": "03/05/2019 - 12:21 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.15654,
+    "longitude": -91.97409
+  },
+  {
     "address": "104 I10 EASTBOUND MM104 HW",
     "city": "LAFAYETTE",
     "time": "03/05/2019 - 11:48 AM",
