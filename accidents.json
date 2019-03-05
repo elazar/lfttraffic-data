@@ -1,5 +1,13 @@
 [
   {
+    "address": "916 LAFAYETTE ST",
+    "city": "LAFAYETTE",
+    "time": "03/04/2019 - 7:39 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.22351,
+    "longitude": -92.0214
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "03/04/2019 - 7:31 PM",
@@ -11,7 +19,7 @@
     "address": "916 LAFAYETTE ST",
     "city": "LAFAYETTE",
     "time": "03/04/2019 - 7:31 PM",
-    "due_to": "Hazard",
+    "due_to": "Wire Hazard",
     "latitude": 30.22351,
     "longitude": -92.0214
   },
@@ -54,14 +62,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.10184,
     "longitude": -91.95675
-  },
-  {
-    "address": "MOSS ST & MUDD AV",
-    "city": "LAFAYETTE",
-    "time": "03/04/2019 - 6:28 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.23248,
-    "longitude": -92.00878
   },
   {
     "address": "100 KIDDER RD",
