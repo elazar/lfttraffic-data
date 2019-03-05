@@ -1,5 +1,13 @@
 [
   {
+    "address": "110 ARMENTOR ST",
+    "city": "LAFAYETTE",
+    "time": "03/04/2019 - 11:13 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.24418,
+    "longitude": -92.01033
+  },
+  {
     "address": "700 I10 SOUTH FRONTAGE RD",
     "city": "SCOTT",
     "time": "03/04/2019 - 11:01 PM",
