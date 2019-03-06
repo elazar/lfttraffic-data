@@ -1,13 +1,5 @@
 [
   {
-    "address": "1815 ST MARY ST",
-    "city": "SCOTT",
-    "time": "03/05/2019 - 7:07 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2441439,
-    "longitude": -92.1070949
-  },
-  {
     "address": "100 E BROUSSARD RD",
     "city": "LAFAYETTE",
     "time": "03/05/2019 - 6:45 PM",
@@ -38,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23163,
     "longitude": -92.00589
-  },
-  {
-    "address": "W FOCH ST & EIGHTH ST",
-    "city": "LAFAYETTE",
-    "time": "03/05/2019 - 5:52 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23109,
-    "longitude": -92.00453
   },
   {
     "address": "ST JULIEN AV & JOHNSTON ST",
