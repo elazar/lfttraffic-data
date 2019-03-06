@@ -1,5 +1,13 @@
 [
   {
+    "address": "103 I10 EASTBOUND MM103A HW",
+    "city": "LAFAYETTE",
+    "time": "03/06/2019 - 10:11 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "NW EVANGELINE TW & SAMPSON AV",
     "city": "LAFAYETTE",
     "time": "03/06/2019 - 09:28 AM",
