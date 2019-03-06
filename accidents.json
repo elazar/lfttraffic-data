@@ -1,5 +1,13 @@
 [
   {
+    "address": "ANDERSON RD & HOLLIER RD",
+    "city": "LAFAYETTE",
+    "time": "03/06/2019 - 11:33 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24049,
+    "longitude": -92.1506
+  },
+  {
     "address": "106 THIRTEENTH ST",
     "city": "LAFAYETTE",
     "time": "03/06/2019 - 11:09 AM",
