@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "92 E GILMAN RD",
+    "city": "LAFAYETTE",
+    "time": "03/06/2019 - 01:27 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2409573,
+    "longitude": -92.0164175
+  }
+]
