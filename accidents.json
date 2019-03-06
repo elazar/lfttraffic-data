@@ -1,5 +1,13 @@
 [
   {
+    "address": "LOUISIANA AV & E WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "03/05/2019 - 8:10 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.24552,
+    "longitude": -92.00037
+  },
+  {
     "address": "1701 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "03/05/2019 - 8:02 PM",
