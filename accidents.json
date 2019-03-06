@@ -1,5 +1,13 @@
 [
   {
+    "address": "234 W FOCH ST",
+    "city": "LAFAYETTE",
+    "time": "03/05/2019 - 6:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23163,
+    "longitude": -92.00589
+  },
+  {
     "address": "W FOCH ST & EIGHTH ST",
     "city": "LAFAYETTE",
     "time": "03/05/2019 - 5:52 PM",
