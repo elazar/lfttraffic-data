@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 E BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "03/05/2019 - 6:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1503691,
+    "longitude": -92.0936841
+  },
+  {
     "address": "1105 MOSS ST",
     "city": "LAFAYETTE",
     "time": "03/05/2019 - 6:33 PM",
