@@ -1,5 +1,13 @@
 [
   {
+    "address": "1525 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "03/06/2019 - 5:06 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24882,
+    "longitude": -92.03563
+  },
+  {
     "address": "4351 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "03/06/2019 - 4:13 PM",
