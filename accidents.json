@@ -1,5 +1,13 @@
 [
   {
+    "address": "3330 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "03/05/2019 - 8:29 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.20293,
+    "longitude": -92.05205
+  },
+  {
     "address": "2350 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "03/05/2019 - 8:19 PM",
