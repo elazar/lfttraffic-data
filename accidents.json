@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & LA 182 HW",
+    "city": "BROUSSARD",
+    "time": "03/06/2019 - 4:23 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14823,
+    "longitude": -91.96419
+  },
+  {
     "address": "JOHNSTON ST & GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "03/06/2019 - 4:13 PM",
