@@ -1,11 +1,11 @@
 [
   {
-    "address": "430 TIMBER CREEK DR (SE)",
+    "address": "201 BRUNSWICK PL",
     "city": "LAFAYETTE",
-    "time": "03/06/2019 - 12:56 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.20706,
-    "longitude": -92.07894
+    "time": "03/06/2019 - 12:58 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.19276,
+    "longitude": -92.08582
   },
   {
     "address": "0 FIRE DEPARTMENT",
@@ -22,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22571,
     "longitude": -92.06768
-  },
-  {
-    "address": "JOHNSTON ST & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "03/06/2019 - 12:38 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17808,
-    "longitude": -92.07452
   },
   {
     "address": "2300 S RICHFIELD RD",
