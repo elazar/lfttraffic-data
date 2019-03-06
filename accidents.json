@@ -1,5 +1,13 @@
 [
   {
+    "address": "209 RUFFIAN DR",
+    "city": "LAFAYETTE",
+    "time": "03/05/2019 - 8:44 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.30187,
+    "longitude": -92.07351
+  },
+  {
     "address": "3330 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "03/05/2019 - 8:29 PM",
