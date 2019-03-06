@@ -1,5 +1,13 @@
 [
   {
+    "address": "1600 SE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "03/05/2019 - 7:26 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2070321,
+    "longitude": -92.0006612
+  },
+  {
     "address": "100 E BROUSSARD RD",
     "city": "LAFAYETTE",
     "time": "03/05/2019 - 6:45 PM",
