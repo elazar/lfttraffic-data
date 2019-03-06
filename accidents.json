@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "116 JULIAN CL",
+    "city": "LAFAYETTE",
+    "time": "03/06/2019 - 04:35 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.269,
+    "longitude": -92.0044
+  }
+]
