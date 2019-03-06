@@ -1,5 +1,13 @@
 [
   {
+    "address": "302 HECTOR CONNOLY RD",
+    "city": "CARENCRO",
+    "time": "03/06/2019 - 12:05 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.32236,
+    "longitude": -92.02765
+  },
+  {
     "address": "401 HIDDEN WOOD DR",
     "city": "BROUSSARD",
     "time": "03/06/2019 - 11:45 AM",
