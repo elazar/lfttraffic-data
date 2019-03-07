@@ -1,5 +1,13 @@
 [
   {
+    "address": "4200 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "03/07/2019 - 07:48 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.15134,
+    "longitude": -91.95696
+  },
+  {
     "address": "2215 NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "03/07/2019 - 07:39 AM",
