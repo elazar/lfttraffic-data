@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "100 CONNIE CL",
+    "city": "LAFAYETTE",
+    "time": "03/07/2019 - 04:57 AM",
+    "due_to": "Vehicle Fire",
+    "latitude": 30.23022,
+    "longitude": -92.04953
+  }
+]
