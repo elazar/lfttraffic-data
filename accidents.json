@@ -1,5 +1,13 @@
 [
   {
+    "address": "S COLLEGE RD & GIRARD PARK DR",
+    "city": "LAFAYETTE",
+    "time": "03/07/2019 - 09:58 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19998,
+    "longitude": -92.02317
+  },
+  {
     "address": "LOUISIANA AV & I10 HW",
     "city": "LAFAYETTE",
     "time": "03/07/2019 - 09:44 AM",
