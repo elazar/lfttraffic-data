@@ -38,13 +38,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.1514983,
     "longitude": -91.9617429
-  },
-  {
-    "address": "4300 US 90 EAST HW",
-    "city": "BROUSSARD",
-    "time": "03/07/2019 - 08:02 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.1515382,
-    "longitude": -91.9549753
   }
 ]
