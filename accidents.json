@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & BENDEL RD",
+    "city": "LAFAYETTE",
+    "time": "03/07/2019 - 12:34 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.19911,
+    "longitude": -92.01641
+  },
+  {
     "address": "200 LAFAYETTE ST",
     "city": "YOUNGSVILLE",
     "time": "03/07/2019 - 12:30 PM",
