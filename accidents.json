@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "03/07/2019 - 4:07 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.15649,
+    "longitude": -92.04838
+  },
+  {
     "address": "100 FLORES CT",
     "city": "LAFAYETTE",
     "time": "03/07/2019 - 4:06 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20727,
     "longitude": -92.03836
-  },
-  {
-    "address": "1701 N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "03/07/2019 - 3:49 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.25216,
-    "longitude": -92.03842
   },
   {
     "address": "JOHNSTON ST & GLOUCHESTER RD",
