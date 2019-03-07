@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1400 BONIN RD",
+    "city": "LAFAYETTE",
+    "time": "03/07/2019 - 07:08 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1387993,
+    "longitude": -92.0078356
+  }
+]
