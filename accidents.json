@@ -1,5 +1,13 @@
 [
   {
+    "address": "DETENTE RD & TALON RD",
+    "city": "LAFAYETTE",
+    "time": "03/06/2019 - 6:06 PM",
+    "due_to": "Grass Fire",
+    "latitude": 30.05291,
+    "longitude": -92.00689
+  },
+  {
     "address": "333 E BROUSSARD RD",
     "city": "LAFAYETTE",
     "time": "03/06/2019 - 6:00 PM",
