@@ -1,5 +1,13 @@
 [
   {
+    "address": "1350 CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "03/07/2019 - 11:52 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1677159,
+    "longitude": -92.0372092
+  },
+  {
     "address": "2000 E BROUSSARD RD",
     "city": "LAFAYETTE",
     "time": "03/07/2019 - 11:52 AM",
