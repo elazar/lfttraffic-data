@@ -1,5 +1,13 @@
 [
   {
+    "address": "25 COURTYARD CL",
+    "city": "LAFAYETTE",
+    "time": "03/06/2019 - 7:18 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.1789,
+    "longitude": -92.02327
+  },
+  {
     "address": "W CONGRESS ST & W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "03/06/2019 - 7:14 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2466495,
     "longitude": -92.0297819
-  },
-  {
-    "address": "760 LA 1252 HW",
-    "city": "LAFAYETTE",
-    "time": "03/06/2019 - 5:54 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.35271,
-    "longitude": -92.00692
   },
   {
     "address": "2900 NE EVANGELINE TW",
