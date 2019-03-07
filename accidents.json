@@ -1,5 +1,13 @@
 [
   {
+    "address": "114 ELAINE DR",
+    "city": "LAFAYETTE",
+    "time": "03/07/2019 - 4:51 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29315,
+    "longitude": -92.05147
+  },
+  {
     "address": "W PINHOOK RD & SAGE GLENN LN",
     "city": "LAFAYETTE",
     "time": "03/07/2019 - 4:23 PM",
@@ -24,20 +32,12 @@
     "longitude": -92.00502
   },
   {
-    "address": "3924 NE EVANGELINE TW",
-    "city": "CARENCRO",
-    "time": "03/07/2019 - 4:14 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.32236,
-    "longitude": -92.03201
-  },
-  {
-    "address": "ST LANDRY ST & W UNIVERSITY AV",
+    "address": "615 W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "03/07/2019 - 4:13 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.22067,
-    "longitude": -92.02351
+    "latitude": 30.22032,
+    "longitude": -92.02353
   },
   {
     "address": "304 FLORES CT",
