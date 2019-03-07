@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "03/06/2019 - 7:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2261,
+    "longitude": -92.02828
+  },
+  {
     "address": "151 ST ANNE ST",
     "city": "LAFAYETTE",
     "time": "03/06/2019 - 7:12 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.35271,
     "longitude": -92.00692
-  },
-  {
-    "address": "1700 VEROT SCHOOL RD",
-    "city": "LAFAYETTE",
-    "time": "03/06/2019 - 5:35 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1633446,
-    "longitude": -92.0213764
   },
   {
     "address": "2900 NE EVANGELINE TW",
