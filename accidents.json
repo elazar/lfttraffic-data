@@ -2,6 +2,14 @@
   {
     "address": "LOUISIANA AV & I10 HW",
     "city": "LAFAYETTE",
+    "time": "03/07/2019 - 09:44 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27944,
+    "longitude": -91.99217
+  },
+  {
+    "address": "LOUISIANA AV & I10 HW",
+    "city": "LAFAYETTE",
     "time": "03/07/2019 - 09:40 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.27944,
