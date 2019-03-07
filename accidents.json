@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "03/06/2019 - 6:08 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20727,
+    "longitude": -92.03836
+  },
+  {
     "address": "DETENTE RD & TALON RD",
     "city": "LAFAYETTE",
     "time": "03/06/2019 - 6:06 PM",
