@@ -1,5 +1,13 @@
 [
   {
+    "address": "2000 E BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "03/07/2019 - 11:52 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.11798,
+    "longitude": -92.06234
+  },
+  {
     "address": "1726 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "03/07/2019 - 10:32 AM",
