@@ -1,5 +1,13 @@
 [
   {
+    "address": "102 I10 WESTBOUND MM102 HW",
+    "city": "LAFAYETTE",
+    "time": "03/07/2019 - 12:50 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "W PINHOOK RD & BENDEL RD",
     "city": "LAFAYETTE",
     "time": "03/07/2019 - 12:34 PM",
