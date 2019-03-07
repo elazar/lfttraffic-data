@@ -1,19 +1,11 @@
 [
   {
-    "address": "200 ST ANNE ST",
-    "city": "CARENCRO",
+    "address": "151 ST ANNE ST",
+    "city": "LAFAYETTE",
     "time": "03/06/2019 - 7:12 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.3152351,
-    "longitude": -92.0478995
-  },
-  {
-    "address": "333 E BROUSSARD RD",
-    "city": "LAFAYETTE",
-    "time": "03/06/2019 - 6:00 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.14695,
-    "longitude": -92.08624
+    "latitude": 30.2466495,
+    "longitude": -92.0297819
   },
   {
     "address": "760 LA 1252 HW",
