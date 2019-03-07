@@ -1,5 +1,13 @@
 [
   {
+    "address": "LA RUE FRANCE & W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "03/07/2019 - 08:44 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.19438,
+    "longitude": -92.01609
+  },
+  {
     "address": "100 W SECOND ST",
     "city": "BROUSSARD",
     "time": "03/07/2019 - 08:41 AM",
