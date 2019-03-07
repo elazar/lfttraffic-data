@@ -1,5 +1,13 @@
 [
   {
+    "address": "4600 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "03/07/2019 - 4:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15321,
+    "longitude": -92.04515
+  },
+  {
     "address": "S COLLEGE RD & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "03/07/2019 - 3:59 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.25216,
     "longitude": -92.03842
-  },
-  {
-    "address": "4105 US 90 EAST HW",
-    "city": "BROUSSARD",
-    "time": "03/07/2019 - 2:11 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15359,
-    "longitude": -91.95889
   },
   {
     "address": "JOHNSTON ST & GLOUCHESTER RD",
