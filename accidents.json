@@ -1,5 +1,13 @@
 [
   {
+    "address": "333 E BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "03/06/2019 - 6:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14695,
+    "longitude": -92.08624
+  },
+  {
     "address": "97 I10 WESTBOUND MM97 HW",
     "city": "LAFAYETTE",
     "time": "03/06/2019 - 5:58 PM",
