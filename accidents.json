@@ -1,5 +1,13 @@
 [
   {
+    "address": "118 DUKE ST",
+    "city": "BROUSSARD",
+    "time": "03/07/2019 - 2:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14383,
+    "longitude": -91.9618
+  },
+  {
     "address": "4105 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "03/07/2019 - 2:11 PM",
