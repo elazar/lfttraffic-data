@@ -1,5 +1,21 @@
 [
   {
+    "address": "4105 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "03/07/2019 - 2:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15359,
+    "longitude": -91.95889
+  },
+  {
+    "address": "2700 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "03/07/2019 - 2:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27638,
+    "longitude": -92.04917
+  },
+  {
     "address": "JOHNSTON ST & GLOUCHESTER RD",
     "city": "LAFAYETTE",
     "time": "03/07/2019 - 2:03 PM",
