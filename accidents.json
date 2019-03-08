@@ -1,26 +1,10 @@
 [
   {
-    "address": "1032 DUHON RD",
-    "city": "LAFAYETTE",
-    "time": "03/07/2019 - 7:43 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.16924,
-    "longitude": -92.11486
-  },
-  {
     "address": "1906 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "03/07/2019 - 7:18 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.216,
     "longitude": -92.07628
-  },
-  {
-    "address": "N PIERCE ST & LENA ST",
-    "city": "LAFAYETTE",
-    "time": "03/07/2019 - 4:20 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24293,
-    "longitude": -92.01861
   }
 ]
