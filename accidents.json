@@ -1,19 +1,19 @@
 [
   {
+    "address": "1100 CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "03/08/2019 - 1:56 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17383,
+    "longitude": -92.04166
+  },
+  {
     "address": "2235 S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "03/08/2019 - 1:55 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.1894,
     "longitude": -92.00027
-  },
-  {
-    "address": "CAMELLIA BL & SILVERSTONE RD",
-    "city": "LAFAYETTE",
-    "time": "03/08/2019 - 1:55 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17311,
-    "longitude": -92.04017
   },
   {
     "address": "DUHON RD & RUE DU BELIER",
