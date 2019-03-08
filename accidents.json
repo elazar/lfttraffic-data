@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "03/07/2019 - 7:17 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23236,
+    "longitude": -92.03238
+  },
+  {
     "address": "110 SUNNY OAK TL",
     "city": "LAFAYETTE",
     "time": "03/07/2019 - 6:50 PM",
