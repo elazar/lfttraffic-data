@@ -1,5 +1,13 @@
 [
   {
+    "address": "AUSTIN RD & PIAT RD",
+    "city": "LAFAYETTE",
+    "time": "03/08/2019 - 10:09 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.06559,
+    "longitude": -91.98215
+  },
+  {
     "address": "203 FEDERAL ST",
     "city": "LAFAYETTE",
     "time": "03/08/2019 - 09:58 AM",
