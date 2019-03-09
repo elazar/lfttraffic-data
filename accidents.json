@@ -1,5 +1,13 @@
 [
   {
+    "address": "W UNIVERSITY AV & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "03/09/2019 - 3:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2261,
+    "longitude": -92.02828
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & DULLES DR",
     "city": "LAFAYETTE",
     "time": "03/09/2019 - 2:54 PM",
