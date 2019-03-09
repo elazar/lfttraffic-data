@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "3011 NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "03/09/2019 - 10:28 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2843,
+    "longitude": -92.02272
+  }
+]
