@@ -38,13 +38,5 @@
     "due_to": "Road Hazard",
     "latitude": 30.31663,
     "longitude": -91.99704
-  },
-  {
-    "address": "1204 MOSS ST",
-    "city": "LAFAYETTE",
-    "time": "03/09/2019 - 12:05 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24176,
-    "longitude": -92.00646
   }
 ]
