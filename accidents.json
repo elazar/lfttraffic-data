@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "114 GUMBO RD",
+    "city": "LAFAYETTE",
+    "time": "03/09/2019 - 08:19 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.13594,
+    "longitude": -92.05602
+  }
+]
