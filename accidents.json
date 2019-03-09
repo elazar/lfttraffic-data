@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "03/09/2019 - 4:57 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2261,
+    "longitude": -92.02828
+  },
+  {
     "address": "100 KEELING DR",
     "city": "LAFAYETTE",
     "time": "03/09/2019 - 4:48 PM",
