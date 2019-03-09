@@ -1,5 +1,13 @@
 [
   {
+    "address": "1235 BEAU BASSIN RD",
+    "city": "CARENCRO",
+    "time": "03/09/2019 - 12:07 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.31663,
+    "longitude": -91.99704
+  },
+  {
     "address": "1204 MOSS ST",
     "city": "LAFAYETTE",
     "time": "03/09/2019 - 12:05 PM",
