@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.25216,
     "longitude": -92.03842
-  },
-  {
-    "address": "1235 BEAU BASSIN RD",
-    "city": "CARENCRO",
-    "time": "03/09/2019 - 12:07 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.31663,
-    "longitude": -91.99704
   }
 ]
