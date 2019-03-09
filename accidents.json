@@ -1,5 +1,13 @@
 [
   {
+    "address": "1235 BEAU BASSIN RD",
+    "city": "CARENCRO",
+    "time": "03/09/2019 - 12:22 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.31663,
+    "longitude": -91.99704
+  },
+  {
     "address": "6501 AMBASSADOR CAFFERY PW",
     "city": "BROUSSARD",
     "time": "03/09/2019 - 12:14 PM",
@@ -30,6 +38,14 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24176,
     "longitude": -92.00646
+  },
+  {
+    "address": "3225 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "03/09/2019 - 11:59 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2657,
+    "longitude": -91.99574
   },
   {
     "address": "W PINHOOK RD & KALISTE SALOOM RD",
