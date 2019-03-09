@@ -1,11 +1,19 @@
 [
   {
-    "address": "908 CARMEL DR",
+    "address": "AMBASSADOR CAFFERY PW & DULLES DR",
     "city": "LAFAYETTE",
-    "time": "03/09/2019 - 2:15 PM",
+    "time": "03/09/2019 - 2:55 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.23328,
-    "longitude": -91.99392
+    "latitude": 30.21053,
+    "longitude": -92.07567
+  },
+  {
+    "address": "AMBASSADOR CAFFERY PW & DULLES DR",
+    "city": "LAFAYETTE",
+    "time": "03/09/2019 - 2:54 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21053,
+    "longitude": -92.07567
   },
   {
     "address": "2216 AMBASSADOR CAFFERY PW",
