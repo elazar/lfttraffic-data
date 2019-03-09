@@ -1,5 +1,13 @@
 [
   {
+    "address": "SONNIER RD & NE FRONTAGE RD",
+    "city": "CARENCRO",
+    "time": "03/09/2019 - 12:09 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.3179,
+    "longitude": -92.03226
+  },
+  {
     "address": "1235 BEAU BASSIN RD",
     "city": "CARENCRO",
     "time": "03/09/2019 - 12:07 PM",
@@ -38,13 +46,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16064,
     "longitude": -92.08374
-  },
-  {
-    "address": "3600 KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "03/09/2019 - 11:12 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.14068,
-    "longitude": -92.06221
   }
 ]
