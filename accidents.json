@@ -1,5 +1,13 @@
 [
   {
+    "address": "6191 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "03/09/2019 - 11:40 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16064,
+    "longitude": -92.08374
+  },
+  {
     "address": "W MAIN ST & S MORGAN AV",
     "city": "BROUSSARD",
     "time": "03/09/2019 - 11:15 AM",
