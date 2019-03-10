@@ -1,5 +1,13 @@
 [
   {
+    "address": "404 NORMAN DR",
+    "city": "LAFAYETTE",
+    "time": "03/10/2019 - 4:14 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.25253,
+    "longitude": -91.99383
+  },
+  {
     "address": "5600 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "03/10/2019 - 3:38 PM",
