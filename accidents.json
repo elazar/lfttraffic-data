@@ -1,5 +1,13 @@
 [
   {
+    "address": "N LOOP ST & WALKER RD",
+    "city": "LAFAYETTE",
+    "time": "03/09/2019 - 7:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23568,
+    "longitude": -92.03446
+  },
+  {
     "address": "3721 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "03/09/2019 - 7:00 PM",
@@ -38,13 +46,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18327,
     "longitude": -92.07545
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & GUILBEAU RD",
-    "city": "LAFAYETTE",
-    "time": "03/09/2019 - 5:19 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.20248,
-    "longitude": -92.07527
   }
 ]
