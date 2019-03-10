@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & MONTEIGNE DR",
+    "city": "LAFAYETTE",
+    "time": "03/10/2019 - 2:04 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20972,
+    "longitude": -92.05292
+  },
+  {
     "address": "202 N AMBASSADOR CAFFERY PW",
     "city": "SCOTT",
     "time": "03/10/2019 - 1:57 PM",
