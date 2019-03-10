@@ -1,5 +1,21 @@
 [
   {
+    "address": "130 E BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "03/09/2019 - 7:04 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1491,
+    "longitude": -92.09252
+  },
+  {
+    "address": "2433 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "03/09/2019 - 7:04 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21255,
+    "longitude": -92.04901
+  },
+  {
     "address": "N LOOP ST & WALKER RD",
     "city": "LAFAYETTE",
     "time": "03/09/2019 - 7:02 PM",
