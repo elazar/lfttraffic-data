@@ -1,5 +1,13 @@
 [
   {
+    "address": "1600 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "03/09/2019 - 6:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2133506,
+    "longitude": -92.0236088
+  },
+  {
     "address": "CAMELLIA BL & VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "03/09/2019 - 6:15 PM",
