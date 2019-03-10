@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "103 I10 EASTBOUND MM103B HW",
+    "city": "LAFAYETTE",
+    "time": "03/10/2019 - 11:40 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  }
+]
