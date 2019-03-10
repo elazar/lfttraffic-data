@@ -1,5 +1,13 @@
 [
   {
+    "address": "130 E BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "03/09/2019 - 7:41 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1491,
+    "longitude": -92.09252
+  },
+  {
     "address": "100 MARTIN LUTHER KING JR DR",
     "city": "LAFAYETTE",
     "time": "03/09/2019 - 7:36 PM",
