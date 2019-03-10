@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "100 E MILTON AV",
+    "city": "LAFAYETTE",
+    "time": "03/10/2019 - 5:54 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.10463,
+    "longitude": -92.07296
+  }
+]
