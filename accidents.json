@@ -11,16 +11,8 @@
     "address": "400 BRETON DR",
     "city": "LAFAYETTE",
     "time": "03/10/2019 - 01:23 AM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Stalled Vehicle",
     "latitude": 30.13634,
     "longitude": -92.03815
-  },
-  {
-    "address": "133 KNOLLWOOD DR",
-    "city": "LAFAYETTE",
-    "time": "03/10/2019 - 01:17 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19916,
-    "longitude": -92.07107
   }
 ]
