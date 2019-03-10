@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "E CONVENT ST & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "03/10/2019 - 1:23 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22055,
+    "longitude": -92.01691
+  }
+]
