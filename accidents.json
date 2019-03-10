@@ -1,9 +1,17 @@
 [
   {
+    "address": "9 BNSF RAILROAD CG",
+    "city": "BROUSSARD",
+    "time": "03/10/2019 - 6:42 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.14824,
+    "longitude": -91.96501
+  },
+  {
     "address": "W BROUSSARD RD & TUSCANY VALLEY DR",
     "city": "LAFAYETTE",
     "time": "03/10/2019 - 6:16 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Road Hazard",
     "latitude": 30.16389,
     "longitude": -92.0996
   }
