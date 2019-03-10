@@ -1,5 +1,13 @@
 [
   {
+    "address": "KALISTE SALOOM RD & RAMBLEWOOD DR",
+    "city": "LAFAYETTE",
+    "time": "03/09/2019 - 8:57 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14377,
+    "longitude": -92.05931
+  },
+  {
     "address": "412 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "03/09/2019 - 8:41 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16838,
     "longitude": -92.06394
-  },
-  {
-    "address": "2602 KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "03/09/2019 - 8:04 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15613,
-    "longitude": -92.04956
   },
   {
     "address": "LAGNEAUX RD & W CONGRESS ST",
