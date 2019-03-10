@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "S BERNARD RD & US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "03/10/2019 - 5:46 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.16055,
+    "longitude": -91.97136
+  }
+]
