@@ -1,5 +1,13 @@
 [
   {
+    "address": "W BROUSSARD RD & TUSCANY VALLEY DR",
+    "city": "LAFAYETTE",
+    "time": "03/10/2019 - 6:16 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16389,
+    "longitude": -92.0996
+  },
+  {
     "address": "1522 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "03/10/2019 - 6:13 PM",
