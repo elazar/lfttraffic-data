@@ -3,7 +3,7 @@
     "address": "329 LEBESQUE RD",
     "city": "LAFAYETTE",
     "time": "03/09/2019 - 6:23 PM",
-    "due_to": "Residential Fire",
+    "due_to": "Vehicle Fire",
     "latitude": 30.27475,
     "longitude": -92.06068
   },
@@ -54,13 +54,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.20248,
     "longitude": -92.07527
-  },
-  {
-    "address": "W CONGRESS ST & W UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "03/09/2019 - 4:57 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2261,
-    "longitude": -92.02828
   }
 ]
