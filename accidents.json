@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMELLIA BL & VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "03/09/2019 - 6:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16043,
+    "longitude": -92.02256
+  },
+  {
     "address": "3222 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "03/09/2019 - 6:05 PM",
