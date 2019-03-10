@@ -1,5 +1,13 @@
 [
   {
+    "address": "241 DONLON AV",
+    "city": "LAFAYETTE",
+    "time": "03/10/2019 - 3:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23983,
+    "longitude": -92.01162
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & TARGET LP",
     "city": "LAFAYETTE",
     "time": "03/10/2019 - 3:38 PM",
