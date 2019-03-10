@@ -8,28 +8,12 @@
     "longitude": -92.07545
   },
   {
-    "address": "4 I49 NORTHBOUND MM4 HW",
-    "city": "LAFAYETTE",
-    "time": "03/09/2019 - 6:05 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.28006,
-    "longitude": -92.02024
-  },
-  {
     "address": "111 OLD CAMP RD",
     "city": "LAFAYETTE",
     "time": "03/09/2019 - 5:56 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.1549707,
     "longitude": -92.0460506
-  },
-  {
-    "address": "3700 NE EVANGELINE TW",
-    "city": "CARENCRO",
-    "time": "03/09/2019 - 5:55 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.3155221,
-    "longitude": -92.0313054
   },
   {
     "address": "100 ROBERT LEE CL",
