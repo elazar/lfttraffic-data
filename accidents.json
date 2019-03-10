@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.27247,
     "longitude": -92.00744
-  },
-  {
-    "address": "2700 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "03/10/2019 - 07:10 AM",
-    "due_to": "Hazardous Situation",
-    "latitude": 30.20029,
-    "longitude": -92.0775
   }
 ]
