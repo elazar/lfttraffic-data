@@ -1,5 +1,13 @@
 [
   {
+    "address": "245 IKE B ST",
+    "city": "LAFAYETTE",
+    "time": "03/09/2019 - 6:17 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23265,
+    "longitude": -92.02923
+  },
+  {
     "address": "1600 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "03/09/2019 - 6:15 PM",
