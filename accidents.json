@@ -1,5 +1,13 @@
 [
   {
+    "address": "1100 ALBERTSON PW",
+    "city": "BROUSSARD",
+    "time": "03/11/2019 - 10:47 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.14017,
+    "longitude": -91.95232
+  },
+  {
     "address": "5516 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "03/11/2019 - 10:35 AM",
