@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "03/11/2019 - 11:22 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22941,
+    "longitude": -92.06262
+  },
+  {
     "address": "1100 ALBERTSON PW",
     "city": "BROUSSARD",
     "time": "03/11/2019 - 10:47 AM",
