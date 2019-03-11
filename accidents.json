@@ -1,11 +1,19 @@
 [
   {
-    "address": "ARCHANGEL DR & PLANTERS RW",
+    "address": "121 ARCHANGEL DR",
+    "city": "LAFAYETTE",
+    "time": "03/11/2019 - 5:18 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.16122,
+    "longitude": -92.00702
+  },
+  {
+    "address": "121 ARCHANGEL DR",
     "city": "LAFAYETTE",
     "time": "03/11/2019 - 5:17 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.1617,
-    "longitude": -92.00719
+    "due_to": "Fire Investigation",
+    "latitude": 30.16122,
+    "longitude": -92.00702
   },
   {
     "address": "SE EVANGELINE TW & SIXTEENTH ST",
