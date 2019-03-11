@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & WESTGATE RD",
+    "city": "SCOTT",
+    "time": "03/11/2019 - 1:41 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23274,
+    "longitude": -92.08691
+  },
+  {
     "address": "2448 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "03/11/2019 - 1:39 PM",
