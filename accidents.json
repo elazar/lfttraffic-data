@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & ARNOULD BL",
+    "city": "LAFAYETTE",
+    "time": "03/11/2019 - 1:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20186,
+    "longitude": -92.05312
+  },
+  {
     "address": "VEROT SCHOOL RD & S BEADLE RD",
     "city": "LAFAYETTE",
     "time": "03/11/2019 - 1:18 PM",
