@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "W PINHOOK RD & BENDEL RD",
+    "city": "LAFAYETTE",
+    "time": "03/11/2019 - 2:12 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19911,
+    "longitude": -92.01641
+  }
+]
