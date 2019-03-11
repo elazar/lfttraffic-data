@@ -1,5 +1,13 @@
 [
   {
+    "address": "401 HUNTLEY AV",
+    "city": "LAFAYETTE",
+    "time": "03/11/2019 - 3:59 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.1846,
+    "longitude": -92.03333
+  },
+  {
     "address": "700 I10 SOUTH FRONTAGE RD",
     "city": "SCOTT",
     "time": "03/11/2019 - 3:58 PM",
