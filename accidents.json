@@ -1,5 +1,13 @@
 [
   {
+    "address": "721 LEBESQUE RD",
+    "city": "SCOTT",
+    "time": "03/10/2019 - 7:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27561,
+    "longitude": -92.06911
+  },
+  {
     "address": "4 I49 NORTHBOUND MM4 HW",
     "city": "LAFAYETTE",
     "time": "03/10/2019 - 6:59 PM",
