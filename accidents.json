@@ -1,5 +1,13 @@
 [
   {
+    "address": "3000 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "03/11/2019 - 2:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20752,
+    "longitude": -92.05827
+  },
+  {
     "address": "6142 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "03/11/2019 - 2:17 PM",
