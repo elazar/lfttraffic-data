@@ -1,5 +1,13 @@
 [
   {
+    "address": "5516 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "03/11/2019 - 10:35 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1976,
+    "longitude": -92.11749
+  },
+  {
     "address": "800 HOPKINS ST",
     "city": "LAFAYETTE",
     "time": "03/11/2019 - 10:20 AM",
