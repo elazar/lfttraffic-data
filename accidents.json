@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "03/11/2019 - 08:19 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2261,
+    "longitude": -92.02828
+  },
+  {
     "address": "2321 MILLS ST",
     "city": "LAFAYETTE",
     "time": "03/11/2019 - 08:06 AM",
