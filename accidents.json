@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22797,
     "longitude": -92.0284
-  },
-  {
-    "address": "700 GUILBEAU RD",
-    "city": "CARENCRO",
-    "time": "03/11/2019 - 3:15 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.32114,
-    "longitude": -92.03588
   }
 ]
