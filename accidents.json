@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1644772,
     "longitude": -92.0840513
-  },
-  {
-    "address": "1200 S COLLEGE RD",
-    "city": "LAFAYETTE",
-    "time": "03/11/2019 - 2:17 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.19859,
-    "longitude": -92.02572
   }
 ]
