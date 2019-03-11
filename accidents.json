@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "4 I49 NORTHBOUND MM4 HW",
+    "city": "LAFAYETTE",
+    "time": "03/10/2019 - 6:59 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.28006,
+    "longitude": -92.02024
+  }
+]
