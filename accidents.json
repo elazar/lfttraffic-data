@@ -1,5 +1,13 @@
 [
   {
+    "address": "2406 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "03/10/2019 - 9:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21415,
+    "longitude": -92.04865
+  },
+  {
     "address": "124 BAYWOOD AV",
     "city": "LAFAYETTE",
     "time": "03/10/2019 - 9:20 PM",
