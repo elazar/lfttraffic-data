@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "2207 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "03/11/2019 - 05:34 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.16382,
+    "longitude": -92.04001
+  }
+]
