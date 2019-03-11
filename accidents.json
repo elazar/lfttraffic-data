@@ -1,11 +1,19 @@
 [
   {
-    "address": "300 ARCENEAUX RD",
+    "address": "1306 RENAUD DR",
+    "city": "SCOTT",
+    "time": "03/11/2019 - 6:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25619,
+    "longitude": -92.07141
+  },
+  {
+    "address": "310 WALTER DR",
     "city": "CARENCRO",
     "time": "03/11/2019 - 5:49 PM",
     "due_to": "Trash Fire",
-    "latitude": 30.30983,
-    "longitude": -92.04101
+    "latitude": 30.3091,
+    "longitude": -92.04124
   },
   {
     "address": "FOURTEENTH ST & PLUM ST",
