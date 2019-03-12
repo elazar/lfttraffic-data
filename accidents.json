@@ -6,5 +6,13 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22745,
     "longitude": -92.02419
+  },
+  {
+    "address": "1800 DULLES DR",
+    "city": "LAFAYETTE",
+    "time": "03/11/2019 - 8:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2106849,
+    "longitude": -92.0840517
   }
 ]
