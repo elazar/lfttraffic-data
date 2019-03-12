@@ -1,5 +1,13 @@
 [
   {
+    "address": "104 I10 WESTBOUND MM104 HW",
+    "city": "LAFAYETTE",
+    "time": "03/12/2019 - 4:51 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "ABERDEEN DR & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "03/12/2019 - 4:45 PM",
