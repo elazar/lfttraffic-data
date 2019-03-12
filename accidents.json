@@ -1,5 +1,13 @@
 [
   {
+    "address": "705 WALKER RD",
+    "city": "LAFAYETTE",
+    "time": "03/12/2019 - 5:05 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.23552,
+    "longitude": -92.03777
+  },
+  {
     "address": "301 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "03/12/2019 - 4:54 PM",
