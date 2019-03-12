@@ -1,5 +1,13 @@
 [
   {
+    "address": "JEFFERSON ST & LEE AV",
+    "city": "LAFAYETTE",
+    "time": "03/12/2019 - 5:53 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22121,
+    "longitude": -92.01878
+  },
+  {
     "address": "W BROUSSARD RD & DUHON RD",
     "city": "LAFAYETTE",
     "time": "03/12/2019 - 5:47 PM",
