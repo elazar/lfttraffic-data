@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 ELLA ST",
+    "city": "LAFAYETTE",
+    "time": "03/12/2019 - 11:44 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.215747,
+    "longitude": -92.0515947
+  },
+  {
     "address": "US 90 EAST HW & ALBERTSON PW",
     "city": "BROUSSARD",
     "time": "03/12/2019 - 11:39 AM",
