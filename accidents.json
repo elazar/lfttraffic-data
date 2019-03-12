@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & MIMOSA PL",
+    "city": "LAFAYETTE",
+    "time": "03/12/2019 - 5:08 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19726,
+    "longitude": -92.05655
+  },
+  {
     "address": "705 WALKER RD",
     "city": "LAFAYETTE",
     "time": "03/12/2019 - 5:05 PM",
