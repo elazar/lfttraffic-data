@@ -8,14 +8,6 @@
     "longitude": -91.98831
   },
   {
-    "address": "101 ALABAMA RD",
-    "city": "LAFAYETTE",
-    "time": "03/12/2019 - 6:14 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.21864,
-    "longitude": -91.98831
-  },
-  {
     "address": "KALISTE SALOOM RD & RUE LOUIS XIV",
     "city": "LAFAYETTE",
     "time": "03/12/2019 - 6:08 PM",
@@ -70,14 +62,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1706127,
     "longitude": -91.9802303
-  },
-  {
-    "address": "700 KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "03/12/2019 - 4:45 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18127,
-    "longitude": -92.02024
   },
   {
     "address": "KALISTE SALOOM RD & S MEYERS DR",
