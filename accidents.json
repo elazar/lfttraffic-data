@@ -1,5 +1,13 @@
 [
   {
+    "address": "ZIM CL & CAMEL DR",
+    "city": "LAFAYETTE",
+    "time": "03/12/2019 - 2:39 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.22313,
+    "longitude": -91.99442
+  },
+  {
     "address": "231 ST NAZAIRE RD",
     "city": "BROUSSARD",
     "time": "03/12/2019 - 2:25 PM",
@@ -38,13 +46,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.25541,
     "longitude": -92.00349
-  },
-  {
-    "address": "501 STEWART ST",
-    "city": "LAFAYETTE",
-    "time": "03/12/2019 - 1:40 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21897,
-    "longitude": -92.01186
   }
 ]
