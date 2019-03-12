@@ -1,5 +1,13 @@
 [
   {
+    "address": "101 ALABAMA RD",
+    "city": "LAFAYETTE",
+    "time": "03/12/2019 - 6:14 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.21864,
+    "longitude": -91.98831
+  },
+  {
     "address": "KALISTE SALOOM RD & RUE LOUIS XIV",
     "city": "LAFAYETTE",
     "time": "03/12/2019 - 6:08 PM",
@@ -24,12 +32,12 @@
     "longitude": -92.01878
   },
   {
-    "address": "W BROUSSARD RD & DUHON RD",
+    "address": "1500 DUHON RD",
     "city": "LAFAYETTE",
     "time": "03/12/2019 - 5:47 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.1645,
-    "longitude": -92.09961
+    "latitude": 30.16883,
+    "longitude": -92.12947
   },
   {
     "address": "JOHNSTON ST & BRENTWOOD BL",
