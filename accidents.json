@@ -1,5 +1,13 @@
 [
   {
+    "address": "LEE AV & CAILLOUET PL",
+    "city": "LAFAYETTE",
+    "time": "03/12/2019 - 3:08 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21959,
+    "longitude": -92.01959
+  },
+  {
     "address": "411 ROW 3",
     "city": "LAFAYETTE",
     "time": "03/12/2019 - 3:04 PM",
