@@ -38,13 +38,5 @@
     "due_to": "Traffic Control",
     "latitude": 30.23215,
     "longitude": -91.98358
-  },
-  {
-    "address": "I10 EASTBOUND MM101 HW & N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "03/12/2019 - 2:01 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24052,
-    "longitude": -92.03242
   }
 ]
