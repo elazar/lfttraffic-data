@@ -1,19 +1,19 @@
 [
   {
+    "address": "4000 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "03/12/2019 - 07:01 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15286,
+    "longitude": -91.96153
+  },
+  {
     "address": "W CONGRESS ST & GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "03/12/2019 - 06:55 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.19826,
     "longitude": -92.07007
-  },
-  {
-    "address": "DULLES DR & WESTGATE RD",
-    "city": "LAFAYETTE",
-    "time": "03/12/2019 - 06:47 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.21055,
-    "longitude": -92.087
   },
   {
     "address": "3900 W CONGRESS ST",
