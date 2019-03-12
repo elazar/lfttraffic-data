@@ -8,14 +8,6 @@
     "longitude": -91.98358
   },
   {
-    "address": "151 ZIM CL",
-    "city": "LAFAYETTE",
-    "time": "03/12/2019 - 2:43 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.2225784,
-    "longitude": -91.9949069
-  },
-  {
     "address": "2600 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "03/12/2019 - 2:19 PM",
@@ -30,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24052,
     "longitude": -92.03242
-  },
-  {
-    "address": "300 E ALEXANDER ST",
-    "city": "LAFAYETTE",
-    "time": "03/12/2019 - 1:54 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.25541,
-    "longitude": -92.00349
   }
 ]
