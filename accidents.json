@@ -16,14 +16,6 @@
     "longitude": -92.02989
   },
   {
-    "address": "GIRARD PARK DR & HOSPITAL DR",
-    "city": "LAFAYETTE",
-    "time": "03/12/2019 - 6:04 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20436,
-    "longitude": -92.02048
-  },
-  {
     "address": "JEFFERSON ST & LEE AV",
     "city": "LAFAYETTE",
     "time": "03/12/2019 - 5:53 PM",
@@ -48,11 +40,11 @@
     "longitude": -92.09379
   },
   {
-    "address": "3100 US 90 EAST HW",
+    "address": "2631 SW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "03/12/2019 - 5:19 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.1706127,
-    "longitude": -91.9802303
+    "latitude": 30.1824731,
+    "longitude": -91.9900922
   }
 ]
