@@ -1,5 +1,13 @@
 [
   {
+    "address": "GUILBEAU RD & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "03/12/2019 - 1:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19826,
+    "longitude": -92.07007
+  },
+  {
     "address": "6906 AMBASSADOR CAFFERY PW",
     "city": "BROUSSARD",
     "time": "03/12/2019 - 1:20 PM",
