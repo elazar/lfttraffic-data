@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "800 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "03/11/2019 - 7:57 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22745,
+    "longitude": -92.02419
+  }
+]
