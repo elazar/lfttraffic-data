@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "6801 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "03/11/2019 - 9:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15001,
+    "longitude": -92.0935
+  }
+]
