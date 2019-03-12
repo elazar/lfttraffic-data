@@ -1,26 +1,10 @@
 [
   {
-    "address": "1904 ST MARY ST",
-    "city": "SCOTT",
-    "time": "03/12/2019 - 3:39 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.244338,
-    "longitude": -92.1068496
-  },
-  {
     "address": "LEE AV & CAILLOUET PL",
     "city": "LAFAYETTE",
     "time": "03/12/2019 - 3:08 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.21959,
     "longitude": -92.01959
-  },
-  {
-    "address": "NW EVANGELINE TW & MUDD AV",
-    "city": "LAFAYETTE",
-    "time": "03/12/2019 - 3:04 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.23312,
-    "longitude": -92.01407
   }
 ]
