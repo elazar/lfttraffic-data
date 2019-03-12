@@ -1,5 +1,13 @@
 [
   {
+    "address": "3900 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "03/12/2019 - 06:46 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19993,
+    "longitude": -92.06786
+  },
+  {
     "address": "100 YOUNGSVILLE HW",
     "city": "LAFAYETTE",
     "time": "03/12/2019 - 06:35 AM",
