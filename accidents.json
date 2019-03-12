@@ -1,5 +1,13 @@
 [
   {
+    "address": "DULLES DR & WESTGATE RD",
+    "city": "LAFAYETTE",
+    "time": "03/12/2019 - 06:47 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21055,
+    "longitude": -92.087
+  },
+  {
     "address": "3900 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "03/12/2019 - 06:46 AM",
