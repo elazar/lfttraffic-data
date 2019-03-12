@@ -1,5 +1,21 @@
 [
   {
+    "address": "ABERDEEN DR & KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "03/12/2019 - 4:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18061,
+    "longitude": -92.02028
+  },
+  {
+    "address": "2133 CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "03/12/2019 - 4:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23206,
+    "longitude": -92.04045
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & I10 HW",
     "city": "LAFAYETTE",
     "time": "03/12/2019 - 4:40 PM",
