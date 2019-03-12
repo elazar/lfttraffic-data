@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "03/12/2019 - 6:51 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21729,
+    "longitude": -92.01902
+  },
+  {
     "address": "KALISTE SALOOM RD & RUE LOUIS XIV",
     "city": "LAFAYETTE",
     "time": "03/12/2019 - 6:08 PM",
