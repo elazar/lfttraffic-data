@@ -1,5 +1,21 @@
 [
   {
+    "address": "I10 EASTBOUND MM101 HW & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "03/12/2019 - 2:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24052,
+    "longitude": -92.03242
+  },
+  {
+    "address": "E WILLOW ST & ARMENTOR ST",
+    "city": "LAFAYETTE",
+    "time": "03/12/2019 - 2:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24432,
+    "longitude": -92.01014
+  },
+  {
     "address": "300 E ALEXANDER ST",
     "city": "LAFAYETTE",
     "time": "03/12/2019 - 1:54 PM",
