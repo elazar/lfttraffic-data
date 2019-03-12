@@ -1,5 +1,13 @@
 [
   {
+    "address": "E KALISTE SALOOM RD & W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "03/12/2019 - 3:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1886,
+    "longitude": -92.0141
+  },
+  {
     "address": "97 I10 EASTBOUND MM97-5 HW",
     "city": "SCOTT",
     "time": "03/12/2019 - 2:49 PM",
