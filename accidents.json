@@ -1,5 +1,13 @@
 [
   {
+    "address": "3100 US 90 EAST HW",
+    "city": "LAFAYETTE",
+    "time": "03/12/2019 - 5:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1706127,
+    "longitude": -91.9802303
+  },
+  {
     "address": "JOHNSTON ST & MIMOSA PL",
     "city": "LAFAYETTE",
     "time": "03/12/2019 - 5:08 PM",
