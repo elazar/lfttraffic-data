@@ -1,5 +1,21 @@
 [
   {
+    "address": "HEYMANN BL & E ST MARY BL",
+    "city": "LAFAYETTE",
+    "time": "03/12/2019 - 11:38 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20803,
+    "longitude": -92.01319
+  },
+  {
+    "address": "BROOKSIDE DR & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "03/12/2019 - 11:38 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22188,
+    "longitude": -92.03632
+  },
+  {
     "address": "509 FLANDERS RIDGE DR",
     "city": "YOUNGSVILLE",
     "time": "03/12/2019 - 11:32 AM",
