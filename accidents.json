@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 I10 EASTBOUND MM100 HW",
+    "city": "LAFAYETTE",
+    "time": "03/11/2019 - 8:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "800 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "03/11/2019 - 7:57 PM",
