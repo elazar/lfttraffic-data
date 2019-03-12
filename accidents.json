@@ -40,14 +40,6 @@
     "longitude": -91.9802303
   },
   {
-    "address": "JOHNSTON ST & MIMOSA PL",
-    "city": "LAFAYETTE",
-    "time": "03/12/2019 - 5:08 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19726,
-    "longitude": -92.05655
-  },
-  {
     "address": "301 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "03/12/2019 - 4:54 PM",
@@ -62,14 +54,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18061,
     "longitude": -92.02028
-  },
-  {
-    "address": "1734 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "03/12/2019 - 4:19 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19275,
-    "longitude": -92.01639
   },
   {
     "address": "KALISTE SALOOM RD & S MEYERS DR",
