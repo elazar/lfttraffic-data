@@ -1,8 +1,16 @@
 [
   {
+    "address": "1522 CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "03/12/2019 - 2:45 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.23215,
+    "longitude": -91.98358
+  },
+  {
     "address": "151 ZIM CL",
     "city": "LAFAYETTE",
-    "time": "03/12/2019 - 2:43 PM",
+    "time": "03/12/2019 - 2:44 PM",
     "due_to": "Fire Investigation",
     "latitude": 30.2225784,
     "longitude": -91.9949069
@@ -16,20 +24,20 @@
     "longitude": -91.9949069
   },
   {
-    "address": "231 ST NAZAIRE RD",
-    "city": "BROUSSARD",
-    "time": "03/12/2019 - 2:25 PM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.1429,
-    "longitude": -91.93815
+    "address": "151 ZIM CL",
+    "city": "LAFAYETTE",
+    "time": "03/12/2019 - 2:43 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.2225784,
+    "longitude": -91.9949069
   },
   {
-    "address": "AMBASSADOR CAFFERY PW & KALISTE SALOOM RD",
+    "address": "2600 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "03/12/2019 - 2:19 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.15649,
-    "longitude": -92.04838
+    "latitude": 30.1560979,
+    "longitude": -92.0489475
   },
   {
     "address": "I10 EASTBOUND MM101 HW & N UNIVERSITY AV",
