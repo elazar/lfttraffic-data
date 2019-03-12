@@ -1,5 +1,13 @@
 [
   {
+    "address": "KALISTE SALOOM RD & RUE LOUIS XIV",
+    "city": "LAFAYETTE",
+    "time": "03/12/2019 - 6:08 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17285,
+    "longitude": -92.02989
+  },
+  {
     "address": "GIRARD PARK DR & HOSPITAL DR",
     "city": "LAFAYETTE",
     "time": "03/12/2019 - 6:04 PM",
