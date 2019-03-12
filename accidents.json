@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "03/12/2019 - 12:40 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23236,
+    "longitude": -92.03238
+  },
+  {
     "address": "100 N MICHAUD ST",
     "city": "CARENCRO",
     "time": "03/12/2019 - 12:39 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.215747,
     "longitude": -92.0515947
-  },
-  {
-    "address": "HEYMANN BL & E ST MARY BL",
-    "city": "LAFAYETTE",
-    "time": "03/12/2019 - 11:38 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20803,
-    "longitude": -92.01319
   },
   {
     "address": "BROOKSIDE DR & W CONGRESS ST",
