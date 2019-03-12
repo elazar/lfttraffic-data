@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 YOUNGSVILLE HW",
+    "city": "LAFAYETTE",
+    "time": "03/12/2019 - 06:35 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15991,
+    "longitude": -91.99149
+  },
+  {
     "address": "S COLLEGE RD & W BAYOU PW",
     "city": "LAFAYETTE",
     "time": "03/12/2019 - 06:24 AM",
