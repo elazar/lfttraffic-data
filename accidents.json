@@ -1,5 +1,13 @@
 [
   {
+    "address": "231 ST NAZAIRE RD",
+    "city": "BROUSSARD",
+    "time": "03/12/2019 - 2:25 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.1429,
+    "longitude": -91.93815
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "03/12/2019 - 2:19 PM",
@@ -38,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21897,
     "longitude": -92.01186
-  },
-  {
-    "address": "300 ELLA ST",
-    "city": "LAFAYETTE",
-    "time": "03/12/2019 - 11:44 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.215747,
-    "longitude": -92.0515947
   },
   {
     "address": "300 ABERDEEN DR",
