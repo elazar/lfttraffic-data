@@ -2,6 +2,14 @@
   {
     "address": "101 ALABAMA RD",
     "city": "LAFAYETTE",
+    "time": "03/12/2019 - 6:15 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.21864,
+    "longitude": -91.98831
+  },
+  {
+    "address": "101 ALABAMA RD",
+    "city": "LAFAYETTE",
     "time": "03/12/2019 - 6:14 PM",
     "due_to": "Incoming Call",
     "latitude": 30.21864,
