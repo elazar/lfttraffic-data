@@ -1,5 +1,13 @@
 [
   {
+    "address": "1 I49 SOUTHBOUND MM1 HW",
+    "city": "LAFAYETTE",
+    "time": "03/13/2019 - 06:48 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.28006,
+    "longitude": -92.02024
+  },
+  {
     "address": "SAVOY RD & GALLET RD",
     "city": "LAFAYETTE",
     "time": "03/13/2019 - 06:45 AM",
