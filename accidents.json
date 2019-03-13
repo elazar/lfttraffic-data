@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & MOUNT VERNON DR",
+    "city": "LAFAYETTE",
+    "time": "03/13/2019 - 12:38 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19138,
+    "longitude": -92.06103
+  },
+  {
     "address": "1930 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "03/13/2019 - 12:35 PM",
