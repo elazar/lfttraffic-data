@@ -1,5 +1,13 @@
 [
   {
+    "address": "E MILTON AV & CHEMIN METAIRIE",
+    "city": "YOUNGSVILLE",
+    "time": "03/13/2019 - 6:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.10919,
+    "longitude": -92.02391
+  },
+  {
     "address": "BNSF RAILROAD CG & N MORGAN AV",
     "city": "BROUSSARD",
     "time": "03/13/2019 - 6:12 PM",
