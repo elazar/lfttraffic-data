@@ -1,13 +1,5 @@
 [
   {
-    "address": "GUILLIOT RD & CHEMIN METAIRIE PW",
-    "city": "YOUNGSVILLE",
-    "time": "03/12/2019 - 9:31 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.09013,
-    "longitude": -92.00377
-  },
-  {
     "address": "W CONGRESS ST & MONTEIGNE DR",
     "city": "LAFAYETTE",
     "time": "03/12/2019 - 8:57 PM",
@@ -24,11 +16,11 @@
     "longitude": -92.0027
   },
   {
-    "address": "NW EVANGELINE TW & DONLON AV",
+    "address": "1500 NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "03/12/2019 - 8:16 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.24034,
-    "longitude": -92.01372
+    "latitude": 30.2451136,
+    "longitude": -92.0146249
   }
 ]
