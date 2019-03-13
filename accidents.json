@@ -1,5 +1,21 @@
 [
   {
+    "address": "107 ST NAZAIRE RD",
+    "city": "BROUSSARD",
+    "time": "03/12/2019 - 7:09 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14089,
+    "longitude": -91.9443
+  },
+  {
+    "address": "W UNIVERSITY AV & ST JOHN ST",
+    "city": "LAFAYETTE",
+    "time": "03/12/2019 - 7:09 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22067,
+    "longitude": -92.02351
+  },
+  {
     "address": "JOHNSTON ST & W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "03/12/2019 - 6:51 PM",
