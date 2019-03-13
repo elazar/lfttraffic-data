@@ -1,5 +1,13 @@
 [
   {
+    "address": "S MAGNOLIA ST & TENTH ST",
+    "city": "LAFAYETTE",
+    "time": "03/13/2019 - 04:07 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.22508,
+    "longitude": -92.00707
+  },
+  {
     "address": "100 I10 EASTBOUND MM100 HW",
     "city": "LAFAYETTE",
     "time": "03/13/2019 - 02:12 AM",
