@@ -1,5 +1,13 @@
 [
   {
+    "address": "132 RAYBURN ST",
+    "city": "LAFAYETTE",
+    "time": "03/12/2019 - 8:05 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.2163417,
+    "longitude": -92.0485243
+  },
+  {
     "address": "3900 VEROT SCHOOL RD",
     "city": "YOUNGSVILLE",
     "time": "03/12/2019 - 7:55 PM",
