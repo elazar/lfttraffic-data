@@ -1,5 +1,13 @@
 [
   {
+    "address": "LOUISIANA AV & MUDD AV",
+    "city": "LAFAYETTE",
+    "time": "03/12/2019 - 8:50 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23174,
+    "longitude": -92.0027
+  },
+  {
     "address": "NE EVANGELINE TW & E WILLOW ST",
     "city": "LAFAYETTE",
     "time": "03/12/2019 - 8:44 PM",
