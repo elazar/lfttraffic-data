@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 AVENUE B",
+    "city": "YOUNGSVILLE",
+    "time": "03/13/2019 - 07:11 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.09606,
+    "longitude": -91.9938
+  },
+  {
     "address": "101 I10 EASTBOUND MM101 HW",
     "city": "LAFAYETTE",
     "time": "03/13/2019 - 07:10 AM",
