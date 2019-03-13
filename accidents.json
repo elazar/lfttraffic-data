@@ -1,5 +1,13 @@
 [
   {
+    "address": "211 WESTGATE RD",
+    "city": "SCOTT",
+    "time": "03/13/2019 - 12:17 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23022,
+    "longitude": -92.08664
+  },
+  {
     "address": "0 POLICE DEPARTMENT",
     "city": "LAFAYETTE",
     "time": "03/13/2019 - 12:16 PM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19726,
     "longitude": -92.05655
-  },
-  {
-    "address": "BERTRAND DR & ERASTE LANDRY RD",
-    "city": "LAFAYETTE",
-    "time": "03/13/2019 - 11:13 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22405,
-    "longitude": -92.05469
   }
 ]
