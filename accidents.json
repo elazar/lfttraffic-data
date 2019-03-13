@@ -1,13 +1,5 @@
 [
   {
-    "address": "1404 CHEMIN METAIRIE",
-    "city": "YOUNGSVILLE",
-    "time": "03/13/2019 - 6:32 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.11341,
-    "longitude": -92.01605
-  },
-  {
     "address": "2910 E MILTON AV",
     "city": "YOUNGSVILLE",
     "time": "03/13/2019 - 6:27 PM",
@@ -46,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20286,
     "longitude": -92.06534
-  },
-  {
-    "address": "E KALISTE SALOOM RD & HUGH WALLIS RD",
-    "city": "LAFAYETTE",
-    "time": "03/13/2019 - 4:29 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20042,
-    "longitude": -92.00019
   },
   {
     "address": "E GLORIA SWITCH RD & NE FRONTAGE RD",
