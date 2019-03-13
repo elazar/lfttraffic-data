@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "114 RUE FERNAND",
+    "city": "LAFAYETTE",
+    "time": "03/13/2019 - 06:00 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.19297,
+    "longitude": -92.01751
+  }
+]
