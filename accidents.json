@@ -1,5 +1,13 @@
 [
   {
+    "address": "BNSF RAILROAD CG & N MORGAN AV",
+    "city": "BROUSSARD",
+    "time": "03/13/2019 - 6:12 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.15008,
+    "longitude": -91.96331
+  },
+  {
     "address": "W CONGRESS ST & BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "03/13/2019 - 5:55 PM",
