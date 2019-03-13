@@ -1,5 +1,13 @@
 [
   {
+    "address": "SURREY ST & CHAMPAGNE ST",
+    "city": "LAFAYETTE",
+    "time": "03/13/2019 - 4:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22306,
+    "longitude": -91.99746
+  },
+  {
     "address": "500 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "03/13/2019 - 4:16 PM",
