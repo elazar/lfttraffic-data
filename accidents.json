@@ -1,5 +1,21 @@
 [
   {
+    "address": "W PINHOOK RD & E UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "03/12/2019 - 7:41 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21056,
+    "longitude": -92.00978
+  },
+  {
+    "address": "3000 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "03/12/2019 - 7:41 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.20752,
+    "longitude": -92.05827
+  },
+  {
     "address": "RUE DU BELIER & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "03/12/2019 - 7:19 PM",
