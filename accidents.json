@@ -1,5 +1,21 @@
 [
   {
+    "address": "124 FINESSE RD",
+    "city": "LAFAYETTE",
+    "time": "03/13/2019 - 4:59 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.2989,
+    "longitude": -92.11276
+  },
+  {
+    "address": "AMBASSADOR CAFFERY PW & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "03/13/2019 - 4:59 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21504,
+    "longitude": -92.07579
+  },
+  {
     "address": "E KALISTE SALOOM RD & HUGH WALLIS RD",
     "city": "LAFAYETTE",
     "time": "03/13/2019 - 4:29 PM",
