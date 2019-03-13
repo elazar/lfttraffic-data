@@ -1,5 +1,13 @@
 [
   {
+    "address": "3600 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "03/13/2019 - 10:07 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.20201,
+    "longitude": -92.05356
+  },
+  {
     "address": "JOHNSTON ST & ARNOULD BL",
     "city": "LAFAYETTE",
     "time": "03/13/2019 - 09:30 AM",
