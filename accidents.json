@@ -1,5 +1,13 @@
 [
   {
+    "address": "5800 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "03/13/2019 - 06:39 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1719,
+    "longitude": -92.08096
+  },
+  {
     "address": "2000 NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "03/13/2019 - 06:36 AM",
