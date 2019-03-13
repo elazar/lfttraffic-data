@@ -1,5 +1,13 @@
 [
   {
+    "address": "1737 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "03/12/2019 - 9:50 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.25389,
+    "longitude": -92.03835
+  },
+  {
     "address": "W CONGRESS ST & MONTEIGNE DR",
     "city": "LAFAYETTE",
     "time": "03/12/2019 - 8:57 PM",
