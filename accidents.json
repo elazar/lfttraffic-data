@@ -1,5 +1,21 @@
 [
   {
+    "address": "E MAIN ST & ST ETIENNE RD",
+    "city": "BROUSSARD",
+    "time": "03/13/2019 - 5:38 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13374,
+    "longitude": -91.94571
+  },
+  {
+    "address": "W PINHOOK RD & VERMILION RIVER",
+    "city": "LAFAYETTE",
+    "time": "03/13/2019 - 5:38 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18556,
+    "longitude": -92.0104
+  },
+  {
     "address": "E KALISTE SALOOM RD & S HUGH WALLIS RD",
     "city": "LAFAYETTE",
     "time": "03/13/2019 - 5:36 PM",
@@ -54,14 +70,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19911,
     "longitude": -92.01641
-  },
-  {
-    "address": "SE EVANGELINE TW & E KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "03/13/2019 - 5:11 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20067,
-    "longitude": -91.99958
   },
   {
     "address": "JOHNSTON ST & W UNIVERSITY AV",
