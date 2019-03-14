@@ -1,5 +1,13 @@
 [
   {
+    "address": "113 CHAPLIN DR",
+    "city": "LAFAYETTE",
+    "time": "03/14/2019 - 5:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2129,
+    "longitude": -91.9927
+  },
+  {
     "address": "2426 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "03/14/2019 - 5:20 PM",
