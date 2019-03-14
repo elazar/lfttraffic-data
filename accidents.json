@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 BICKERTON DR",
+    "city": "LAFAYETTE",
+    "time": "03/14/2019 - 12:22 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.13528,
+    "longitude": -92.03569
+  },
+  {
     "address": "3810 NE EVANGELINE THWY",
     "city": "Lafayette",
     "time": "03/13/2019 - 11:45 PM",
