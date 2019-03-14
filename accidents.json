@@ -1,5 +1,13 @@
 [
   {
+    "address": "3810 NE EVANGELINE THWY",
+    "city": "Lafayette",
+    "time": "03/13/2019 - 11:45 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.31876,
+    "longitude": -92.03205
+  },
+  {
     "address": "US 90 EAST HW & AMBASSADOR CAFFERY PW",
     "city": "BROUSSARD",
     "time": "03/13/2019 - 10:55 PM",
