@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "ALBERT ST & AUBURN ST",
+    "city": "LAFAYETTE",
+    "time": "03/14/2019 - 04:36 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.31878,
+    "longitude": -92.06128
+  }
+]
