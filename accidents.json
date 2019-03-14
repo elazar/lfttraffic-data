@@ -1,5 +1,13 @@
 [
   {
+    "address": "2448 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "03/14/2019 - 2:54 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21267,
+    "longitude": -92.0506
+  },
+  {
     "address": "302 W MAIN ST",
     "city": "BROUSSARD",
     "time": "03/14/2019 - 2:52 PM",
