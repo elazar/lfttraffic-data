@@ -1,5 +1,13 @@
 [
   {
+    "address": "LOUISIANA AV & SURREY ST",
+    "city": "LAFAYETTE",
+    "time": "03/13/2019 - 9:33 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.22823,
+    "longitude": -92.00461
+  },
+  {
     "address": "2600 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "03/13/2019 - 9:28 PM",
