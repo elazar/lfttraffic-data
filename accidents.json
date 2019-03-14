@@ -30,13 +30,5 @@
     "due_to": "Road Hazard",
     "latitude": 30.25534,
     "longitude": -92.03844
-  },
-  {
-    "address": "1500 WESTGATE RD",
-    "city": "SCOTT",
-    "time": "03/14/2019 - 1:14 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2115369,
-    "longitude": -92.0871249
   }
 ]
