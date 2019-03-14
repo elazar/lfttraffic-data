@@ -1,5 +1,13 @@
 [
   {
+    "address": "312 W MAIN ST",
+    "city": "BROUSSARD",
+    "time": "03/14/2019 - 2:49 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.1486736,
+    "longitude": -91.9665882
+  },
+  {
     "address": "W PINHOOK RD & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "03/14/2019 - 2:33 PM",
@@ -14,14 +22,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.23362,
     "longitude": -92.0907
-  },
-  {
-    "address": "BOURQUE RD & MADI CL",
-    "city": "LAFAYETTE",
-    "time": "03/14/2019 - 2:28 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.13698,
-    "longitude": -92.12277
   },
   {
     "address": "W CONGRESS ST & W UNIVERSITY AV",
