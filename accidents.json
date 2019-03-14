@@ -1,5 +1,13 @@
 [
   {
+    "address": "S ST ANTOINE ST & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "03/14/2019 - 09:05 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22717,
+    "longitude": -92.02495
+  },
+  {
     "address": "E UNIVERSITY AV & GENERAL MOUTON AV",
     "city": "LAFAYETTE",
     "time": "03/14/2019 - 09:02 AM",
