@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "JEFFERSON BL & MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "03/14/2019 - 05:14 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.23005,
+    "longitude": -92.00918
+  }
+]
