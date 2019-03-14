@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 N DEMANADE BL",
+    "city": "LAFAYETTE",
+    "time": "03/13/2019 - 9:04 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.2028828,
+    "longitude": -92.0118757
+  },
+  {
     "address": "BONIN RD & LA NEUVILLE RD",
     "city": "LAFAYETTE",
     "time": "03/13/2019 - 9:03 PM",
