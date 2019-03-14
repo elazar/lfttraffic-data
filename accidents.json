@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21056,
     "longitude": -92.00978
-  },
-  {
-    "address": "400 JEFFERSON ST",
-    "city": "LAFAYETTE",
-    "time": "03/14/2019 - 07:13 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.22672,
-    "longitude": -92.01777
   }
 ]
