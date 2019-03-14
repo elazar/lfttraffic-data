@@ -1,5 +1,13 @@
 [
   {
+    "address": "JEFFERSON BL & MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "03/14/2019 - 08:00 AM",
+    "due_to": "Hazard",
+    "latitude": 30.23005,
+    "longitude": -92.00918
+  },
+  {
     "address": "2240 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "03/14/2019 - 07:56 AM",
