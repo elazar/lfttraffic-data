@@ -1,5 +1,13 @@
 [
   {
+    "address": "BOURQUE RD & MADI CL",
+    "city": "LAFAYETTE",
+    "time": "03/14/2019 - 2:28 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.13698,
+    "longitude": -92.12277
+  },
+  {
     "address": "W CONGRESS ST & W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "03/14/2019 - 2:18 PM",
