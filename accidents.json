@@ -2,6 +2,14 @@
   {
     "address": "BONIN RD & LA NEUVILLE RD",
     "city": "LAFAYETTE",
+    "time": "03/13/2019 - 9:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14488,
+    "longitude": -92.00774
+  },
+  {
+    "address": "BONIN RD & LA NEUVILLE RD",
+    "city": "LAFAYETTE",
     "time": "03/13/2019 - 8:55 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.14488,
