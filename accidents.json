@@ -1,5 +1,13 @@
 [
   {
+    "address": "700 WATERVIEW RD",
+    "city": "YOUNGSVILLE",
+    "time": "03/13/2019 - 7:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1071,
+    "longitude": -92.01105
+  },
+  {
     "address": "107 N DEMANADE BL",
     "city": "LAFAYETTE",
     "time": "03/13/2019 - 7:16 PM",
@@ -32,12 +40,12 @@
     "longitude": -92.01391
   },
   {
-    "address": "E KALISTE SALOOM RD & S HUGH WALLIS RD",
+    "address": "2000 SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "03/13/2019 - 5:36 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.19575,
-    "longitude": -92.00539
+    "latitude": 30.1999633,
+    "longitude": -91.9986928
   },
   {
     "address": "411 CRAWFORD ST",
