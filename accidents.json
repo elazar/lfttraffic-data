@@ -1,5 +1,13 @@
 [
   {
+    "address": "106 REID ST",
+    "city": "LAFAYETTE",
+    "time": "03/14/2019 - 11:52 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.21642,
+    "longitude": -92.0106
+  },
+  {
     "address": "200 DESTINATION POINTE LN",
     "city": "SCOTT",
     "time": "03/14/2019 - 11:33 AM",
