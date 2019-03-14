@@ -1,5 +1,13 @@
 [
   {
+    "address": "1500 WESTGATE RD",
+    "city": "SCOTT",
+    "time": "03/14/2019 - 1:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2115369,
+    "longitude": -92.0871249
+  },
+  {
     "address": "100 N AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "03/14/2019 - 12:47 PM",
