@@ -1,5 +1,13 @@
 [
   {
+    "address": "302 W MAIN ST",
+    "city": "BROUSSARD",
+    "time": "03/14/2019 - 2:52 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.14924,
+    "longitude": -91.96592
+  },
+  {
     "address": "MOSS ST & MUDD AV",
     "city": "LAFAYETTE",
     "time": "03/14/2019 - 2:51 PM",
@@ -16,35 +24,11 @@
     "longitude": -91.98358
   },
   {
-    "address": "312 W MAIN ST",
-    "city": "BROUSSARD",
-    "time": "03/14/2019 - 2:49 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.1486736,
-    "longitude": -91.9665882
-  },
-  {
     "address": "W PINHOOK RD & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "03/14/2019 - 2:33 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.1886,
     "longitude": -92.0141
-  },
-  {
-    "address": "CAMERON ST & BLUEBOY DR",
-    "city": "SCOTT",
-    "time": "03/14/2019 - 2:30 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.23362,
-    "longitude": -92.0907
-  },
-  {
-    "address": "W CONGRESS ST & W UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "03/14/2019 - 2:18 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2261,
-    "longitude": -92.02828
   }
 ]
