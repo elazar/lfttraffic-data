@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & STONE AV",
+    "city": "LAFAYETTE",
+    "time": "03/14/2019 - 2:09 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.25534,
+    "longitude": -92.03844
+  },
+  {
     "address": "1500 WESTGATE RD",
     "city": "SCOTT",
     "time": "03/14/2019 - 1:14 PM",
