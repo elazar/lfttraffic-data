@@ -27,17 +27,9 @@
     "address": "2426 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "03/14/2019 - 5:20 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.21379,
     "longitude": -92.04917
-  },
-  {
-    "address": "NW EVANGELINE TW & E SIMCOE ST",
-    "city": "LAFAYETTE",
-    "time": "03/14/2019 - 5:09 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.23106,
-    "longitude": -92.01377
   },
   {
     "address": "1373 S COLLEGE RD",
