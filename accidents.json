@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19378,
     "longitude": -92.01651
-  },
-  {
-    "address": "3600 W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "03/14/2019 - 11:16 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.20359,
-    "longitude": -92.06274
   }
 ]
