@@ -1,5 +1,13 @@
 [
   {
+    "address": "5725 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "03/15/2019 - 5:40 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17353,
+    "longitude": -92.07732
+  },
+  {
     "address": "E UNIVERSITY AV & W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "03/15/2019 - 5:38 PM",
@@ -110,13 +118,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.20151,
     "longitude": -92.05367
-  },
-  {
-    "address": "410 ERASTE LANDRY RD",
-    "city": "LAFAYETTE",
-    "time": "03/15/2019 - 3:59 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22995,
-    "longitude": -92.04422
   }
 ]
