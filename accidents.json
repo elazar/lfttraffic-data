@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "03/15/2019 - 3:37 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22688,
+    "longitude": -92.01891
+  },
+  {
     "address": "LA 93 HW & I10 HW",
     "city": "SCOTT",
     "time": "03/15/2019 - 3:30 PM",
