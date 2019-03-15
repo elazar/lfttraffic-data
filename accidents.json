@@ -1,5 +1,13 @@
 [
   {
+    "address": "307 MARGUERITE BL",
+    "city": "LAFAYETTE",
+    "time": "03/15/2019 - 5:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19854,
+    "longitude": -92.01977
+  },
+  {
     "address": "W PINHOOK RD & AUDUBON BL",
     "city": "LAFAYETTE",
     "time": "03/15/2019 - 5:07 PM",
@@ -54,14 +62,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.25447,
     "longitude": -91.99578
-  },
-  {
-    "address": "4506 N UNIVERSITY AV",
-    "city": "CARENCRO",
-    "time": "03/15/2019 - 4:31 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.31963,
-    "longitude": -92.04921
   },
   {
     "address": "FAILLA RD & LA NEUVILLE RD",
