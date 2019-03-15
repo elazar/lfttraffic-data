@@ -1,5 +1,13 @@
 [
   {
+    "address": "111 KELLOG AV",
+    "city": "LAFAYETTE",
+    "time": "03/15/2019 - 11:14 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.20026,
+    "longitude": -92.06971
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & BONIN RD",
     "city": "YOUNGSVILLE",
     "time": "03/15/2019 - 10:56 AM",
