@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & S RICHFIELD RD",
+    "city": "DUSON",
+    "time": "03/15/2019 - 2:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23496,
+    "longitude": -92.17607
+  },
+  {
     "address": "1815 ST MARY ST",
     "city": "SCOTT",
     "time": "03/15/2019 - 1:35 PM",
