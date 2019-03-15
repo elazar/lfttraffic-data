@@ -1,11 +1,19 @@
 [
   {
-    "address": "200 DESTINATION POINTE LN",
+    "address": "4600 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "03/15/2019 - 2:36 PM",
+    "due_to": "Dumpster Fire",
+    "latitude": 30.15321,
+    "longitude": -92.04515
+  },
+  {
+    "address": "400 LA 93 HW",
     "city": "SCOTT",
     "time": "03/15/2019 - 2:35 PM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.2512,
-    "longitude": -92.10951
+    "latitude": 30.2542602,
+    "longitude": -92.1079851
   },
   {
     "address": "CAMERON ST & S RICHFIELD RD",
