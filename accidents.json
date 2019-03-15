@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "03/15/2019 - 4:13 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2261,
+    "longitude": -92.02828
+  },
+  {
     "address": "JOHNSTON ST & ROSELAWN BL",
     "city": "LAFAYETTE",
     "time": "03/15/2019 - 4:11 PM",
@@ -62,14 +70,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2172581,
     "longitude": -92.0192461
-  },
-  {
-    "address": "3600 MOSS ST",
-    "city": "LAFAYETTE",
-    "time": "03/15/2019 - 3:08 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.269803,
-    "longitude": -92.0079638
   },
   {
     "address": "4600 AMBASSADOR CAFFERY PW",
