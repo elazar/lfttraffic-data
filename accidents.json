@@ -1,19 +1,19 @@
 [
   {
+    "address": "FAILLA RD & LA NEUVILLE RD",
+    "city": "LAFAYETTE",
+    "time": "03/15/2019 - 4:25 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14505,
+    "longitude": -92.01474
+  },
+  {
     "address": "N BUCHANAN ST & HOBSON ST",
     "city": "LAFAYETTE",
     "time": "03/15/2019 - 4:20 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.23397,
     "longitude": -92.01647
-  },
-  {
-    "address": "GOLDMAN ST & N BUCHANAN ST",
-    "city": "LAFAYETTE",
-    "time": "03/15/2019 - 4:19 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23596,
-    "longitude": -92.01648
   },
   {
     "address": "JOHNSTON ST & ROSELAWN BL",
