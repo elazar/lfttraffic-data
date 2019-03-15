@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & BRASHEAR ST",
+    "city": "LAFAYETTE",
+    "time": "03/14/2019 - 9:46 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21632,
+    "longitude": -92.01997
+  },
+  {
     "address": "932 E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "03/14/2019 - 9:01 PM",
