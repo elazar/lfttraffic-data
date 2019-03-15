@@ -1,5 +1,13 @@
 [
   {
+    "address": "E SIMCOE ST & EIGHTH ST",
+    "city": "LAFAYETTE",
+    "time": "03/14/2019 - 9:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23024,
+    "longitude": -92.00467
+  },
+  {
     "address": "W WILLOW ST & PATTERSON ST",
     "city": "LAFAYETTE",
     "time": "03/14/2019 - 7:27 PM",
