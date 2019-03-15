@@ -1,9 +1,17 @@
 [
   {
+    "address": "NE EVANGELINE TW & E GLORIA SWITCH RD",
+    "city": "LAFAYETTE",
+    "time": "03/15/2019 - 3:46 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2955,
+    "longitude": -92.02362
+  },
+  {
     "address": "LOUISIANA AV & ARDOIN MEMORIAL DR",
     "city": "LAFAYETTE",
     "time": "03/15/2019 - 3:45 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.27944,
     "longitude": -91.99217
   },
