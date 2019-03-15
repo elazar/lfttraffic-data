@@ -1,5 +1,13 @@
 [
   {
+    "address": "DULLES DR & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "03/15/2019 - 08:23 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21053,
+    "longitude": -92.07567
+  },
+  {
     "address": "600 CHURCH ST",
     "city": "YOUNGSVILLE",
     "time": "03/15/2019 - 07:23 AM",
