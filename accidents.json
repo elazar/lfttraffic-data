@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 GUILBEAU RD",
+    "city": "LAFAYETTE",
+    "time": "03/15/2019 - 10:14 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1952119,
+    "longitude": -92.0610875
+  },
+  {
     "address": "SW EVANGELINE TW & E PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "03/15/2019 - 10:04 AM",
