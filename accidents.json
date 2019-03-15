@@ -1,5 +1,13 @@
 [
   {
+    "address": "1815 ST MARY ST",
+    "city": "SCOTT",
+    "time": "03/15/2019 - 1:35 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2441439,
+    "longitude": -92.1070949
+  },
+  {
     "address": "LOUISIANA AV & E ALEXANDER ST",
     "city": "LAFAYETTE",
     "time": "03/15/2019 - 1:30 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19212,
     "longitude": -92.01615
-  },
-  {
-    "address": "JOHNSTON ST & MARIE ANTOINETTE ST",
-    "city": "LAFAYETTE",
-    "time": "03/15/2019 - 12:49 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20128,
-    "longitude": -92.05399
   },
   {
     "address": "604 ABERDEEN DR",
