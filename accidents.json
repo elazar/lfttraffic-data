@@ -1,19 +1,19 @@
 [
   {
+    "address": "103 DIEU DONNE DR",
+    "city": "LAFAYETTE",
+    "time": "03/15/2019 - 11:16 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.26144,
+    "longitude": -92.00492
+  },
+  {
     "address": "111 KELLOG AV",
     "city": "LAFAYETTE",
     "time": "03/15/2019 - 11:14 AM",
     "due_to": "Fire Investigation",
     "latitude": 30.20026,
     "longitude": -92.06971
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & BONIN RD",
-    "city": "YOUNGSVILLE",
-    "time": "03/15/2019 - 10:56 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.13528,
-    "longitude": -92.00763
   },
   {
     "address": "100 HECTOR CONNOLY RD",
