@@ -1,5 +1,21 @@
 [
   {
+    "address": "VENUS DR & E ALEXANDER ST",
+    "city": "LAFAYETTE",
+    "time": "03/15/2019 - 4:35 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.25467,
+    "longitude": -91.9955
+  },
+  {
+    "address": "650 E ALEXANDER ST",
+    "city": "LAFAYETTE",
+    "time": "03/15/2019 - 4:35 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25447,
+    "longitude": -91.99578
+  },
+  {
     "address": "4506 N UNIVERSITY AV",
     "city": "CARENCRO",
     "time": "03/15/2019 - 4:31 PM",
