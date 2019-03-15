@@ -70,13 +70,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22995,
     "longitude": -92.04422
-  },
-  {
-    "address": "400 LA 93 HW",
-    "city": "SCOTT",
-    "time": "03/15/2019 - 2:35 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.2542602,
-    "longitude": -92.1079851
   }
 ]
