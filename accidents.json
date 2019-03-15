@@ -1,5 +1,13 @@
 [
   {
+    "address": "500 MARTIN LUTHER KING JR DR",
+    "city": "LAFAYETTE",
+    "time": "03/14/2019 - 8:46 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2497056,
+    "longitude": -92.0272772
+  },
+  {
     "address": "W WILLOW ST & PATTERSON ST",
     "city": "LAFAYETTE",
     "time": "03/14/2019 - 7:27 PM",
