@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 LEBESQUE RD",
+    "city": "LAFAYETTE",
+    "time": "03/15/2019 - 06:30 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27652,
+    "longitude": -92.0536
+  },
+  {
     "address": "JOHNSTON ST & TARGET LP",
     "city": "LAFAYETTE",
     "time": "03/15/2019 - 06:09 AM",
