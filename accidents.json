@@ -1,5 +1,13 @@
 [
   {
+    "address": "FOREMAN DR & SUSAN ST",
+    "city": "LAFAYETTE",
+    "time": "03/15/2019 - 2:47 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21082,
+    "longitude": -92.05981
+  },
+  {
     "address": "3806 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "03/15/2019 - 2:47 PM",
