@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & APOLLO RD",
+    "city": "SCOTT",
+    "time": "03/15/2019 - 5:06 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23485,
+    "longitude": -92.10742
+  },
+  {
     "address": "103 I10 WESTBOUND MM103A HW",
     "city": "LAFAYETTE",
     "time": "03/15/2019 - 5:01 PM",
@@ -32,12 +40,12 @@
     "longitude": -92.05562
   },
   {
-    "address": "VENUS DR & E ALEXANDER ST",
+    "address": "650 E ALEXANDER ST",
     "city": "LAFAYETTE",
     "time": "03/15/2019 - 4:35 PM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.25467,
-    "longitude": -91.9955
+    "latitude": 30.25447,
+    "longitude": -91.99578
   },
   {
     "address": "4506 N UNIVERSITY AV",
