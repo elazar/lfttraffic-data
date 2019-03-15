@@ -1,5 +1,13 @@
 [
   {
+    "address": "104 I10 WESTBOUND MM104 HW",
+    "city": "LAFAYETTE",
+    "time": "03/15/2019 - 12:34 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "W PINHOOK RD & VERMILION RIVER",
     "city": "LAFAYETTE",
     "time": "03/15/2019 - 12:24 AM",
