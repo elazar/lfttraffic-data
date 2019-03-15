@@ -1,5 +1,13 @@
 [
   {
+    "address": "500 ST PATRICK ST",
+    "city": "LAFAYETTE",
+    "time": "03/14/2019 - 9:56 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2194,
+    "longitude": -92.03075
+  },
+  {
     "address": "JOHNSTON ST & BRASHEAR ST",
     "city": "LAFAYETTE",
     "time": "03/14/2019 - 9:46 PM",
