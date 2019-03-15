@@ -1,5 +1,13 @@
 [
   {
+    "address": "2517 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "03/14/2019 - 8:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15651,
+    "longitude": -92.04758
+  },
+  {
     "address": "W WILLOW ST & PATTERSON ST",
     "city": "LAFAYETTE",
     "time": "03/14/2019 - 7:27 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20178,
     "longitude": -92.02075
-  },
-  {
-    "address": "6772 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "03/14/2019 - 6:59 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1515492,
-    "longitude": -92.0933615
   },
   {
     "address": "W PINHOOK RD & KALISTE SALOOM RD",
