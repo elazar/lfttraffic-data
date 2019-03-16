@@ -1,5 +1,13 @@
 [
   {
+    "address": "110 E MARTIAL AV",
+    "city": "LAFAYETTE",
+    "time": "03/16/2019 - 3:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1623,
+    "longitude": -92.03853
+  },
+  {
     "address": "2300 HOFFPAUIR RD",
     "city": "LAFAYETTE",
     "time": "03/16/2019 - 2:33 PM",
