@@ -1,5 +1,13 @@
 [
   {
+    "address": "301 DOUCET RD (NE)",
+    "city": "LAFAYETTE",
+    "time": "03/16/2019 - 4:31 PM",
+    "due_to": "Vehicle Fire",
+    "latitude": 30.20032,
+    "longitude": -92.04365
+  },
+  {
     "address": "111 OLD CAMP RD",
     "city": "LAFAYETTE",
     "time": "03/16/2019 - 4:10 PM",
