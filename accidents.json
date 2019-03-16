@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 NORINE ST",
+    "city": "LAFAYETTE",
+    "time": "03/16/2019 - 11:55 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2324231,
+    "longitude": -92.0581937
+  },
+  {
     "address": "ST DE PORRES ST & ALBERTSON PW",
     "city": "BROUSSARD",
     "time": "03/16/2019 - 11:44 AM",
