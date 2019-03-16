@@ -1,27 +1,11 @@
 [
   {
-    "address": "1601 ERASTE LANDRY RD",
-    "city": "LAFAYETTE",
-    "time": "03/15/2019 - 11:58 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22118,
-    "longitude": -92.06246
-  },
-  {
     "address": "7 I49 SOUTHBOUND MM7 HW",
     "city": "LAFAYETTE",
     "time": "03/15/2019 - 11:25 PM",
     "due_to": "Vehicle Fire",
     "latitude": 30.28006,
     "longitude": -92.02024
-  },
-  {
-    "address": "4400 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "03/15/2019 - 11:20 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.15712,
-    "longitude": -92.05125
   },
   {
     "address": "101 I10 EB EXIT RAMP HW",
