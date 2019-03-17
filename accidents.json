@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "200 W MAIN",
+    "city": "Lafayette",
+    "time": "03/17/2019 - 12:09 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.2233149,
+    "longitude": -92.0199405
+  }
+]
