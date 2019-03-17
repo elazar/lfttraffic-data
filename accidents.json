@@ -1,5 +1,13 @@
 [
   {
+    "address": "MOSS ST & LITA DR",
+    "city": "LAFAYETTE",
+    "time": "03/17/2019 - 1:25 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.2652,
+    "longitude": -92.00814
+  },
+  {
     "address": "120 E GLORIA SWITCH RD",
     "city": "LAFAYETTE",
     "time": "03/17/2019 - 12:55 PM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19435,
     "longitude": -92.05813
-  },
-  {
-    "address": "LOUISIANA AV & E WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "03/17/2019 - 12:24 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24552,
-    "longitude": -92.00037
   }
 ]
