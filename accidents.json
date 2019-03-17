@@ -1,18 +1,18 @@
 [
   {
+    "address": "200 HECTOR CONNOLY RD",
+    "city": "CARENCRO",
+    "time": "03/17/2019 - 12:09 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.32242,
+    "longitude": -92.03036
+  },
+  {
     "address": "121 E VERMILION ST",
     "city": "LAFAYETTE",
     "time": "03/17/2019 - 12:00 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.22454,
     "longitude": -92.01807
-  },
-  {
-    "address": "323 JEFFERSON ST",
-    "city": "LAFAYETTE",
-    "time": "03/16/2019 - 11:59 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22652,
-    "longitude": -92.01711
   }
 ]
