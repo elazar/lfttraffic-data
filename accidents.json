@@ -1,5 +1,13 @@
 [
   {
+    "address": "RICHLAND AV & ARABELLA BL",
+    "city": "LAFAYETTE",
+    "time": "03/16/2019 - 10:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17288,
+    "longitude": -92.04261
+  },
+  {
     "address": "JOHNSTON ST & EDWIN ST",
     "city": "LAFAYETTE",
     "time": "03/16/2019 - 9:59 PM",
