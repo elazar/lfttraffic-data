@@ -1,5 +1,13 @@
 [
   {
+    "address": "109 CARRIE ST",
+    "city": "LAFAYETTE",
+    "time": "03/17/2019 - 12:15 AM",
+    "due_to": "Residential Fire",
+    "latitude": 30.15092,
+    "longitude": -92.07997
+  },
+  {
     "address": "CARRIE ST & BRUCE ST",
     "city": "LAFAYETTE",
     "time": "03/17/2019 - 12:14 AM",
