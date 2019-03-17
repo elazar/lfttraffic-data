@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20896,
     "longitude": -91.9972
-  },
-  {
-    "address": "E GLORIA SWITCH RD & NE FRONTAGE RD",
-    "city": "LAFAYETTE",
-    "time": "03/17/2019 - 07:45 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.2955,
-    "longitude": -92.02362
   }
 ]
