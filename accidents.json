@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & EDWIN ST",
+    "city": "LAFAYETTE",
+    "time": "03/16/2019 - 9:59 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21187,
+    "longitude": -92.02621
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & BONIN RD",
     "city": "YOUNGSVILLE",
     "time": "03/16/2019 - 9:07 PM",
