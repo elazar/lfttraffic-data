@@ -1,19 +1,19 @@
 [
   {
+    "address": "W CONGRESS ST & WESTWOOD DR",
+    "city": "LAFAYETTE",
+    "time": "03/18/2019 - 12:58 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.21093,
+    "longitude": -92.05128
+  },
+  {
     "address": "E UNIVERSITY AV & W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "03/18/2019 - 12:47 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.21056,
     "longitude": -92.00978
-  },
-  {
-    "address": "LOUISIANA AV & E WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "03/18/2019 - 12:42 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.24552,
-    "longitude": -92.00037
   },
   {
     "address": "CAMELLIA BL & STONEMONT RD",
