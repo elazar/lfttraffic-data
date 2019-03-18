@@ -1,5 +1,13 @@
 [
   {
+    "address": "BLANCHE ST & ALFRED ST",
+    "city": "SCOTT",
+    "time": "03/17/2019 - 9:08 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23952,
+    "longitude": -92.09398
+  },
+  {
     "address": "N ST ANTOINE ST & MARTIN LUTHER KING JR DR",
     "city": "LAFAYETTE",
     "time": "03/17/2019 - 7:56 PM",
