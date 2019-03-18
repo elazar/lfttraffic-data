@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "NW EVANGELINE TW & W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "03/18/2019 - 10:20 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24466,
+    "longitude": -92.01336
+  }
+]
