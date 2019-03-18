@@ -1,5 +1,13 @@
 [
   {
+    "address": "ST MARY ST & CAYRET ST",
+    "city": "SCOTT",
+    "time": "03/18/2019 - 07:39 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.23487,
+    "longitude": -92.09459
+  },
+  {
     "address": "LA 93 HW & I10 HW",
     "city": "SCOTT",
     "time": "03/18/2019 - 07:32 AM",
