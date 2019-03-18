@@ -1,5 +1,13 @@
 [
   {
+    "address": "1734 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "03/18/2019 - 2:49 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19275,
+    "longitude": -92.01639
+  },
+  {
     "address": "NW EVANGELINE TW & I10 HW",
     "city": "LAFAYETTE",
     "time": "03/18/2019 - 2:40 PM",
@@ -38,13 +46,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1768,
     "longitude": -92.07115
-  },
-  {
-    "address": "3200 LOUISIANA AV",
-    "city": "LAFAYETTE",
-    "time": "03/18/2019 - 1:57 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.2645725,
-    "longitude": -91.9925718
   }
 ]
