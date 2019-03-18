@@ -1,5 +1,21 @@
 [
   {
+    "address": "300 W BROUSSARD ST",
+    "city": "BROUSSARD",
+    "time": "03/18/2019 - 07:00 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1454831,
+    "longitude": -91.9666943
+  },
+  {
+    "address": "2224 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "03/18/2019 - 07:00 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25438,
+    "longitude": -92.01344
+  },
+  {
     "address": "100 I10 EASTBOUND MM100 HW",
     "city": "LAFAYETTE",
     "time": "03/18/2019 - 06:58 AM",
