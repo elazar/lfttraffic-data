@@ -1,5 +1,13 @@
 [
   {
+    "address": "601 TEE MA RD",
+    "city": "CARENCRO",
+    "time": "03/18/2019 - 12:20 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.31601,
+    "longitude": -92.04121
+  },
+  {
     "address": "210 E ST PETER ST",
     "city": "CARENCRO",
     "time": "03/18/2019 - 12:19 PM",
@@ -22,6 +30,14 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.13616,
     "longitude": -91.94591
+  },
+  {
+    "address": "116 RESERVE DR",
+    "city": "LAFAYETTE",
+    "time": "03/18/2019 - 11:49 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1713584,
+    "longitude": -92.0803977
   },
   {
     "address": "JOHNSTON ST & SEARS DR",
