@@ -1,18 +1,1 @@
-[
-  {
-    "address": "203 ENERGY PW",
-    "city": "LAFAYETTE",
-    "time": "03/18/2019 - 10:08 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1808,
-    "longitude": -92.0102
-  },
-  {
-    "address": "W UNIVERSITY AV & JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "03/18/2019 - 09:54 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21729,
-    "longitude": -92.01902
-  }
-]
+[]
