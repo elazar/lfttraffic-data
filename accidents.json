@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "N UNIVERSITY AV & ROSEWOOD AV",
+    "city": "LAFAYETTE",
+    "time": "03/18/2019 - 04:48 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24676,
+    "longitude": -92.03392
+  }
+]
