@@ -1,11 +1,11 @@
 [
   {
-    "address": "6800 JOHNSTON ST",
+    "address": "6900 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "03/18/2019 - 07:40 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15075,
-    "longitude": -92.09488
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.14493,
+    "longitude": -92.09982
   },
   {
     "address": "LA 93 HW & I10 HW",
