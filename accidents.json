@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 STERNBERG DR",
+    "city": "LAFAYETTE",
+    "time": "03/18/2019 - 6:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23533,
+    "longitude": -92.03579
+  },
+  {
     "address": "W CONGRESS ST & CAJUNDOME BL",
     "city": "LAFAYETTE",
     "time": "03/18/2019 - 6:26 PM",
