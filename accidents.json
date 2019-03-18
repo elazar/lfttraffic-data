@@ -1,11 +1,19 @@
 [
   {
-    "address": "617 VATICAN RD (SE)",
+    "address": "MALAPART RD & COMMON POINTES DR",
     "city": "LAFAYETTE",
-    "time": "03/17/2019 - 7:20 PM",
+    "time": "03/17/2019 - 7:21 PM",
     "due_to": "Incoming Call",
-    "latitude": 30.30885,
-    "longitude": -92.10611
+    "latitude": 30.29055,
+    "longitude": -92.08088
+  },
+  {
+    "address": "748 MALAPART RD",
+    "city": "LAFAYETTE",
+    "time": "03/17/2019 - 7:21 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.2906949,
+    "longitude": -92.0779935
   },
   {
     "address": "BENDEL RD & W PINHOOK RD",
