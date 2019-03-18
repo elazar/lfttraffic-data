@@ -30,13 +30,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.23922,
     "longitude": -92.10743
-  },
-  {
-    "address": "600 CHURCH ST",
-    "city": "YOUNGSVILLE",
-    "time": "03/18/2019 - 07:19 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.09923,
-    "longitude": -91.99578
   }
 ]
