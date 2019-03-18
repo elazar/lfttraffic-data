@@ -1,5 +1,21 @@
 [
   {
+    "address": "215 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "03/18/2019 - 3:34 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.24462,
+    "longitude": -92.01603
+  },
+  {
+    "address": "KALISTE SALOOM RD & S BEADLE RD",
+    "city": "LAFAYETTE",
+    "time": "03/18/2019 - 3:34 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18019,
+    "longitude": -92.02247
+  },
+  {
     "address": "E WILLOW ST & NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "03/18/2019 - 3:25 PM",
