@@ -1,5 +1,13 @@
 [
   {
+    "address": "W UNIVERSITY AV & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "03/18/2019 - 09:54 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21729,
+    "longitude": -92.01902
+  },
+  {
     "address": "231 ST NAZAIRE RD",
     "city": "BROUSSARD",
     "time": "03/18/2019 - 09:52 AM",
