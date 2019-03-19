@@ -1,5 +1,21 @@
 [
   {
+    "address": "6100 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "03/19/2019 - 3:23 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.10118,
+    "longitude": -91.94283
+  },
+  {
+    "address": "100 E KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "03/19/2019 - 3:23 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18852,
+    "longitude": -92.01347
+  },
+  {
     "address": "MUDD AV & NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "03/19/2019 - 3:18 PM",
