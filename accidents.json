@@ -1,5 +1,13 @@
 [
   {
+    "address": "6001 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "03/19/2019 - 4:12 PM",
+    "due_to": "Hazardous Situation",
+    "latitude": 30.16752,
+    "longitude": -92.08204
+  },
+  {
     "address": "2429 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "03/19/2019 - 4:08 PM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24448,
     "longitude": -92.03275
-  },
-  {
-    "address": "600 CHURCH ST",
-    "city": "YOUNGSVILLE",
-    "time": "03/19/2019 - 3:42 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.09923,
-    "longitude": -91.99578
   },
   {
     "address": "4547 JOHNSTON ST",
