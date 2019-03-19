@@ -1,5 +1,13 @@
 [
   {
+    "address": "E THIRD ST & E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "03/19/2019 - 10:12 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23076,
+    "longitude": -92.00987
+  },
+  {
     "address": "5700 CAMERON ST",
     "city": "SCOTT",
     "time": "03/19/2019 - 09:43 AM",
