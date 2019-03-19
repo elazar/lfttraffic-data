@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "3110 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "03/19/2019 - 6:35 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18943,
+    "longitude": -92.07565
+  }
+]
