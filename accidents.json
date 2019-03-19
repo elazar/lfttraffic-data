@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 JOUTEL RD",
+    "city": "LAFAYETTE",
+    "time": "03/19/2019 - 2:20 PM",
+    "due_to": "Grass Fire",
+    "latitude": 30.3642982,
+    "longitude": -92.0701451
+  },
+  {
     "address": "JOHNSTON ST & SW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "03/19/2019 - 2:19 PM",
