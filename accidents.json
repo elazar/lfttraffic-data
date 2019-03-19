@@ -70,13 +70,5 @@
     "due_to": "Hazardous Situation",
     "latitude": 30.161346,
     "longitude": -92.0540401
-  },
-  {
-    "address": "300 JOUTEL RD",
-    "city": "LAFAYETTE",
-    "time": "03/19/2019 - 2:20 PM",
-    "due_to": "Grass Fire",
-    "latitude": 30.3642982,
-    "longitude": -92.0701451
   }
 ]
