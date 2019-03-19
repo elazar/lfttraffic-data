@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "2100 DENAIS RD",
+    "city": "LAFAYETTE",
+    "time": "03/18/2019 - 8:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1249443,
+    "longitude": -92.1345634
+  }
+]
