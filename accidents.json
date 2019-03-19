@@ -1,5 +1,13 @@
 [
   {
+    "address": "ARCENEAUX RD & OLA ST",
+    "city": "CARENCRO",
+    "time": "03/19/2019 - 06:30 AM",
+    "due_to": "Vehicle Fire",
+    "latitude": 30.30954,
+    "longitude": -92.03743
+  },
+  {
     "address": "ARCENEAUX RD & KATE ST",
     "city": "CARENCRO",
     "time": "03/19/2019 - 06:28 AM",
