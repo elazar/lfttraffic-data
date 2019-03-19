@@ -24,28 +24,12 @@
     "longitude": -92.09397
   },
   {
-    "address": "2600 MOSS ST",
-    "city": "LAFAYETTE",
-    "time": "03/19/2019 - 2:50 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.25598,
-    "longitude": -92.00498
-  },
-  {
     "address": "2701 MOSS ST",
     "city": "LAFAYETTE",
     "time": "03/19/2019 - 2:48 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.25672,
     "longitude": -92.00638
-  },
-  {
-    "address": "MOSS ST & E PONT DES MOUTON RD",
-    "city": "LAFAYETTE",
-    "time": "03/19/2019 - 2:46 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.27304,
-    "longitude": -92.00812
   },
   {
     "address": "301 VEROT SCHOOL RD",
@@ -56,12 +40,12 @@
     "longitude": -92.00705
   },
   {
-    "address": "ERASTE LANDRY RD & CAMERON ST",
+    "address": "550 ERASTE LANDRY RD",
     "city": "LAFAYETTE",
     "time": "03/19/2019 - 2:42 PM",
     "due_to": "Trash Fire",
-    "latitude": 30.23242,
-    "longitude": -92.03921
+    "latitude": 30.22736,
+    "longitude": -92.04926
   },
   {
     "address": "BRENTWOOD BL & JOHNSTON ST",
