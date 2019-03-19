@@ -1,5 +1,13 @@
 [
   {
+    "address": "110 GUILBEAU RD",
+    "city": "LAFAYETTE",
+    "time": "03/19/2019 - 07:54 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19521,
+    "longitude": -92.0597
+  },
+  {
     "address": "600 CHURCH ST",
     "city": "YOUNGSVILLE",
     "time": "03/19/2019 - 07:15 AM",
