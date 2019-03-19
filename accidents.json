@@ -1,5 +1,13 @@
 [
   {
+    "address": "1100 W ST MARY BL",
+    "city": "LAFAYETTE",
+    "time": "03/19/2019 - 1:55 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.22166,
+    "longitude": -92.02921
+  },
+  {
     "address": "2015 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "03/19/2019 - 1:48 PM",
