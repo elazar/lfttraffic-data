@@ -8,19 +8,19 @@
     "longitude": -92.0199405
   },
   {
+    "address": "1734 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "03/19/2019 - 2:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19275,
+    "longitude": -92.01639
+  },
+  {
     "address": "1151 W ST MARY BL",
     "city": "LAFAYETTE",
     "time": "03/19/2019 - 1:55 PM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.2220823,
     "longitude": -92.0300338
-  },
-  {
-    "address": "CAMELLIA DR & MOUNT VERNON DR",
-    "city": "LAFAYETTE",
-    "time": "03/19/2019 - 10:37 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.18558,
-    "longitude": -92.05388
   }
 ]
