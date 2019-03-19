@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & E KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "03/19/2019 - 6:58 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.1886,
+    "longitude": -92.0141
+  },
+  {
     "address": "3110 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "03/19/2019 - 6:35 PM",
