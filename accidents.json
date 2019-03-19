@@ -38,21 +38,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.1087,
     "longitude": -92.05963
-  },
-  {
-    "address": "3550 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "03/19/2019 - 4:15 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.17527,
-    "longitude": -92.07228
-  },
-  {
-    "address": "4547 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "03/19/2019 - 3:41 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18997,
-    "longitude": -92.06176
   }
 ]
