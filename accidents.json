@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "03/19/2019 - 1:32 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23236,
+    "longitude": -92.03238
+  },
+  {
     "address": "S RICHFIELD RD & MOON CT",
     "city": "LAFAYETTE",
     "time": "03/19/2019 - 1:20 PM",
