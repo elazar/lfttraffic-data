@@ -1,5 +1,13 @@
 [
   {
+    "address": "2015 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "03/19/2019 - 1:48 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.21064,
+    "longitude": -92.02789
+  },
+  {
     "address": "N UNIVERSITY AV & CAMERON ST",
     "city": "LAFAYETTE",
     "time": "03/19/2019 - 1:32 PM",
