@@ -1,5 +1,13 @@
 [
   {
+    "address": "1500 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "03/19/2019 - 5:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24926,
+    "longitude": -92.03446
+  },
+  {
     "address": "1212 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "03/19/2019 - 4:57 PM",
