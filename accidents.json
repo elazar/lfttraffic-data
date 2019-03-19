@@ -1,5 +1,13 @@
 [
   {
+    "address": "2100 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "03/19/2019 - 5:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2433445,
+    "longitude": -92.0004367
+  },
+  {
     "address": "E MILTON AV & E BROUSSARD RD",
     "city": "LAFAYETTE",
     "time": "03/19/2019 - 5:25 PM",
