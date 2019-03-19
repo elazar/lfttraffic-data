@@ -1,5 +1,21 @@
 [
   {
+    "address": "RIVER RANCH BL & KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "03/19/2019 - 4:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1687,
+    "longitude": -92.03433
+  },
+  {
+    "address": "3550 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "03/19/2019 - 4:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17527,
+    "longitude": -92.07228
+  },
+  {
     "address": "6001 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "03/19/2019 - 4:12 PM",
