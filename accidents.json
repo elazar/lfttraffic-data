@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "400 LOIRE AV",
+    "city": "LAFAYETTE",
+    "time": "03/19/2019 - 12:39 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2937,
+    "longitude": -92.02716
+  }
+]
