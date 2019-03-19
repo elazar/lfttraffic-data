@@ -1,5 +1,13 @@
 [
   {
+    "address": "503 BERLIN ST",
+    "city": "LAFAYETTE",
+    "time": "03/18/2019 - 11:16 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20487,
+    "longitude": -92.10165
+  },
+  {
     "address": "600 E PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "03/18/2019 - 9:55 PM",
