@@ -1,5 +1,13 @@
 [
   {
+    "address": "102 I10 WESTBOUND MM102 HW",
+    "city": "LAFAYETTE",
+    "time": "03/19/2019 - 5:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "1700 SW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "03/19/2019 - 5:15 PM",
