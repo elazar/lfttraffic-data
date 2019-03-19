@@ -1,5 +1,13 @@
 [
   {
+    "address": "S COLLEGE RD & BENDEL RD",
+    "city": "LAFAYETTE",
+    "time": "03/19/2019 - 10:30 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20144,
+    "longitude": -92.01936
+  },
+  {
     "address": "RUE LOUIS XIV & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "03/19/2019 - 10:19 AM",
