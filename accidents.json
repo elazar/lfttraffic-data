@@ -1,5 +1,21 @@
 [
   {
+    "address": "209 GENDARME RD",
+    "city": "LAFAYETTE",
+    "time": "03/20/2019 - 4:31 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.35465,
+    "longitude": -92.05297
+  },
+  {
+    "address": "104 I10 EASTBOUND MM104 HW",
+    "city": "LAFAYETTE",
+    "time": "03/20/2019 - 4:31 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "E KALISTE SALOOM RD & W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "03/20/2019 - 4:25 PM",
