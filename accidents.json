@@ -16,14 +16,6 @@
     "longitude": -92.0248
   },
   {
-    "address": "4611 CAMERON ST",
-    "city": "SCOTT",
-    "time": "03/20/2019 - 5:21 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23364,
-    "longitude": -92.07502
-  },
-  {
     "address": "E ST PETER ST & N UNIVERSITY AV",
     "city": "CARENCRO",
     "time": "03/20/2019 - 5:19 PM",
@@ -56,14 +48,6 @@
     "longitude": -92.05066
   },
   {
-    "address": "104 I10 EASTBOUND MM104 HW",
-    "city": "LAFAYETTE",
-    "time": "03/20/2019 - 4:31 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.26255,
-    "longitude": -92.00867
-  },
-  {
     "address": "E KALISTE SALOOM RD & W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "03/20/2019 - 4:25 PM",
@@ -78,14 +62,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16717,
     "longitude": -92.03642
-  },
-  {
-    "address": "108 WINDMILL LN",
-    "city": "LAFAYETTE",
-    "time": "03/20/2019 - 4:07 PM",
-    "due_to": "Residential Fire",
-    "latitude": 30.24647,
-    "longitude": -92.03238
   },
   {
     "address": "SHADOW BLUFF DR & LOUISIANA AV",
