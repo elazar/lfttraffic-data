@@ -8,14 +8,6 @@
     "longitude": -92.00812
   },
   {
-    "address": "2100 DULLES DR",
-    "city": "SCOTT",
-    "time": "03/20/2019 - 5:03 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.2107149,
-    "longitude": -92.092265
-  },
-  {
     "address": "W PINHOOK RD & VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "03/20/2019 - 4:59 PM",
@@ -30,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15909,
     "longitude": -92.05066
-  },
-  {
-    "address": "209 GENDARME RD",
-    "city": "LAFAYETTE",
-    "time": "03/20/2019 - 4:31 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.35465,
-    "longitude": -92.05297
   },
   {
     "address": "104 I10 EASTBOUND MM104 HW",
