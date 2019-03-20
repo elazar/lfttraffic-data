@@ -1,5 +1,13 @@
 [
   {
+    "address": "KALISTE SALOOM RD & PECK BL",
+    "city": "LAFAYETTE",
+    "time": "03/20/2019 - 5:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14599,
+    "longitude": -92.05792
+  },
+  {
     "address": "VEROT SCHOOL RD & FAILLA RD",
     "city": "LAFAYETTE",
     "time": "03/20/2019 - 5:34 PM",
@@ -78,14 +86,6 @@
     "due_to": "Residential Fire",
     "latitude": 30.24647,
     "longitude": -92.03238
-  },
-  {
-    "address": "102 I10 EASTBOUND MM102 HW",
-    "city": "LAFAYETTE",
-    "time": "03/20/2019 - 3:27 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.26255,
-    "longitude": -92.00867
   },
   {
     "address": "SHADOW BLUFF DR & LOUISIANA AV",
