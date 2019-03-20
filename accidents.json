@@ -1,5 +1,13 @@
 [
   {
+    "address": "2678 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "03/20/2019 - 2:46 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20852,
+    "longitude": -92.03842
+  },
+  {
     "address": "302 W MAIN ST",
     "city": "BROUSSARD",
     "time": "03/20/2019 - 2:32 PM",
