@@ -3,7 +3,7 @@
     "address": "SHADOW BLUFF DR & LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "03/20/2019 - 11:02 AM",
-    "due_to": "Incoming Call",
+    "due_to": "Residential Fire",
     "latitude": 30.259,
     "longitude": -91.99872
   },
@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19826,
     "longitude": -92.07007
-  },
-  {
-    "address": "1000 CARMEL DR",
-    "city": "LAFAYETTE",
-    "time": "03/20/2019 - 09:28 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.233368,
-    "longitude": -91.9935579
   }
 ]
