@@ -1,11 +1,19 @@
 [
   {
-    "address": "3110 AMBASSADOR CAFFERY PW",
+    "address": "107 PILLETTE RD",
+    "city": "LAFAYETTE",
+    "time": "03/19/2019 - 7:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17307,
+    "longitude": -92.00864
+  },
+  {
+    "address": "3112 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "03/19/2019 - 6:35 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.18943,
-    "longitude": -92.07565
+    "latitude": 30.1890167,
+    "longitude": -92.0752414
   },
   {
     "address": "1700 SW EVANGELINE TW",
