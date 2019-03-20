@@ -1,5 +1,21 @@
 [
   {
+    "address": "JOHNSTON ST & CALDER ST",
+    "city": "LAFAYETTE",
+    "time": "03/20/2019 - 08:47 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21541,
+    "longitude": -92.02086
+  },
+  {
+    "address": "100 I10 EASTBOUND MM100 HW",
+    "city": "LAFAYETTE",
+    "time": "03/20/2019 - 08:47 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "TIDELAND RD & SOUTHPARK RD",
     "city": "LAFAYETTE",
     "time": "03/20/2019 - 08:40 AM",
