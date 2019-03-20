@@ -1,5 +1,13 @@
 [
   {
+    "address": "4611 CAMERON ST",
+    "city": "SCOTT",
+    "time": "03/20/2019 - 5:21 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23364,
+    "longitude": -92.07502
+  },
+  {
     "address": "E ST PETER ST & N UNIVERSITY AV",
     "city": "CARENCRO",
     "time": "03/20/2019 - 5:19 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1107,
     "longitude": -92.01351
-  },
-  {
-    "address": "MOSS ST & E PONT DES MOUTON RD",
-    "city": "LAFAYETTE",
-    "time": "03/20/2019 - 5:13 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.27304,
-    "longitude": -92.00812
   },
   {
     "address": "W PINHOOK RD & VEROT SCHOOL RD",
