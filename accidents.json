@@ -46,13 +46,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19637,
     "longitude": -92.01545
-  },
-  {
-    "address": "600 CHURCH ST",
-    "city": "YOUNGSVILLE",
-    "time": "03/20/2019 - 07:17 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.09923,
-    "longitude": -91.99578
   }
 ]
