@@ -1,5 +1,13 @@
 [
   {
+    "address": "S BERNARD RD & US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "03/20/2019 - 5:53 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16055,
+    "longitude": -91.97136
+  },
+  {
     "address": "121 E PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "03/20/2019 - 5:49 PM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.3177,
     "longitude": -92.04951
-  },
-  {
-    "address": "2901 E MILTON AV",
-    "city": "YOUNGSVILLE",
-    "time": "03/20/2019 - 5:17 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1107,
-    "longitude": -92.01351
   },
   {
     "address": "W PINHOOK RD & VEROT SCHOOL RD",
