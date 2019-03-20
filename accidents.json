@@ -1,5 +1,13 @@
 [
   {
+    "address": "110 WINDMILL LN",
+    "city": "LAFAYETTE",
+    "time": "03/20/2019 - 4:07 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.24643,
+    "longitude": -92.03213
+  },
+  {
     "address": "810 S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "03/20/2019 - 3:30 PM",
