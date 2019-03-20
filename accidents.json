@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & FRIER LN",
+    "city": "LAFAYETTE",
+    "time": "03/19/2019 - 9:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19435,
+    "longitude": -92.05813
+  },
+  {
     "address": "215 W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "03/19/2019 - 8:28 PM",
