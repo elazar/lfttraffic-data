@@ -1,5 +1,13 @@
 [
   {
+    "address": "2100 DULLES DR",
+    "city": "SCOTT",
+    "time": "03/20/2019 - 5:03 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2107149,
+    "longitude": -92.092265
+  },
+  {
     "address": "W PINHOOK RD & VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "03/20/2019 - 4:59 PM",
