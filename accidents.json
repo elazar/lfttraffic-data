@@ -1,5 +1,13 @@
 [
   {
+    "address": "3500 N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "03/20/2019 - 11:26 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2948184,
+    "longitude": -92.0494443
+  },
+  {
     "address": "SHADOW BLUFF DR & LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "03/20/2019 - 11:02 AM",
