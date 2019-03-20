@@ -1,5 +1,13 @@
 [
   {
+    "address": "3000 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "03/20/2019 - 11:44 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20752,
+    "longitude": -92.05827
+  },
+  {
     "address": "901 S HUGH WALLIS RD",
     "city": "LAFAYETTE",
     "time": "03/20/2019 - 11:42 AM",
