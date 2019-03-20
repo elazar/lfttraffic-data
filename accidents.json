@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "318 RAMBLEWOOD DR",
+    "city": "LAFAYETTE",
+    "time": "03/20/2019 - 02:25 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13896,
+    "longitude": -92.05056
+  }
+]
