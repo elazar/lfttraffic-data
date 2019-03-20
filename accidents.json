@@ -1,5 +1,13 @@
 [
   {
+    "address": "810 S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "03/20/2019 - 3:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20149,
+    "longitude": -92.03171
+  },
+  {
     "address": "102 I10 EASTBOUND MM102 HW",
     "city": "LAFAYETTE",
     "time": "03/20/2019 - 3:27 PM",
