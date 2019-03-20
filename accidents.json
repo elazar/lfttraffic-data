@@ -1,5 +1,13 @@
 [
   {
+    "address": "913 S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "03/20/2019 - 2:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20149,
+    "longitude": -92.02952
+  },
+  {
     "address": "W CONGRESS ST & LAFAYETTE ST",
     "city": "LAFAYETTE",
     "time": "03/20/2019 - 1:01 PM",
