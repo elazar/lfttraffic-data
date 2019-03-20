@@ -1,5 +1,13 @@
 [
   {
+    "address": "306 CREEKSIDE DR",
+    "city": "LAFAYETTE",
+    "time": "03/19/2019 - 8:18 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.12205,
+    "longitude": -92.05473
+  },
+  {
     "address": "810 S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "03/19/2019 - 8:02 PM",
