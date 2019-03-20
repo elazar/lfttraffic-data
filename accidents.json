@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 GENDARME RD",
+    "city": "LAFAYETTE",
+    "time": "03/20/2019 - 3:53 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.35978,
+    "longitude": -92.05518
+  },
+  {
     "address": "810 S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "03/20/2019 - 3:30 PM",
