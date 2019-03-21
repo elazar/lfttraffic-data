@@ -1,5 +1,13 @@
 [
   {
+    "address": "I10 WESTBOUND MM103A HW & NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "03/21/2019 - 07:43 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.24204,
+    "longitude": -92.01316
+  },
+  {
     "address": "9103 CAMERON ST",
     "city": "DUSON",
     "time": "03/21/2019 - 07:32 AM",
