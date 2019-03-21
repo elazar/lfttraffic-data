@@ -1,5 +1,13 @@
 [
   {
+    "address": "E BROUSSARD RD & E MILTON AV",
+    "city": "LAFAYETTE",
+    "time": "03/21/2019 - 2:38 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1087,
+    "longitude": -92.05963
+  },
+  {
     "address": "1472 S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "03/21/2019 - 2:36 PM",
