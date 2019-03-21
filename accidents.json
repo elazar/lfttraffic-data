@@ -1,5 +1,13 @@
 [
   {
+    "address": "3559 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "03/21/2019 - 2:21 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1768,
+    "longitude": -92.07115
+  },
+  {
     "address": "302 W MAIN ST",
     "city": "Lafayette",
     "time": "03/21/2019 - 2:20 PM",
