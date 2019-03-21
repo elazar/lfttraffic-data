@@ -1,5 +1,13 @@
 [
   {
+    "address": "SW EVANGELINE TW & E TAFT ST",
+    "city": "LAFAYETTE",
+    "time": "03/21/2019 - 08:27 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22053,
+    "longitude": -92.00816
+  },
+  {
     "address": "W PINHOOK RD & TRAVIS ST",
     "city": "LAFAYETTE",
     "time": "03/21/2019 - 08:26 AM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19457,
     "longitude": -92.14838
-  },
-  {
-    "address": "E BROUSSARD RD & JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "03/21/2019 - 08:11 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.15059,
-    "longitude": -92.09379
   },
   {
     "address": "I49 SOUTHBOUND MM4 HW & VETERANS DR",
