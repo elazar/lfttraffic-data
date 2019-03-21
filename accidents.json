@@ -1,5 +1,13 @@
 [
   {
+    "address": "ST LOUIS ST & MILLS ST",
+    "city": "SCOTT",
+    "time": "03/21/2019 - 3:37 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23894,
+    "longitude": -92.09136
+  },
+  {
     "address": "NW EVANGELINE TW & W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "03/21/2019 - 3:29 PM",
