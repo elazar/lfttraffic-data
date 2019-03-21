@@ -1,5 +1,13 @@
 [
   {
+    "address": "220 BURGESS DR",
+    "city": "BROUSSARD",
+    "time": "03/21/2019 - 07:31 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15961,
+    "longitude": -91.95999
+  },
+  {
     "address": "1522 CARMEL DR",
     "city": "LAFAYETTE",
     "time": "03/21/2019 - 07:19 AM",
