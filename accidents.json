@@ -1,5 +1,13 @@
 [
   {
+    "address": "W UNIVERSITY AV & W SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "03/21/2019 - 3:06 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22931,
+    "longitude": -92.03045
+  },
+  {
     "address": "3300 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "03/21/2019 - 2:55 PM",
