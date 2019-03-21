@@ -1,5 +1,13 @@
 [
   {
+    "address": "E FAIRFIELD DR & S MORGAN AV",
+    "city": "BROUSSARD",
+    "time": "03/21/2019 - 07:48 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.11646,
+    "longitude": -91.95656
+  },
+  {
     "address": "JOHNSTON ST & E ST MARY BL",
     "city": "LAFAYETTE",
     "time": "03/21/2019 - 07:46 AM",
