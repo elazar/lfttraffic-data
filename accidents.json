@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 GERALDINE DR",
+    "city": "LAFAYETTE",
+    "time": "03/20/2019 - 7:07 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1847,
+    "longitude": -92.05984
+  },
+  {
     "address": "306 HARRINGTON DR",
     "city": "LAFAYETTE",
     "time": "03/20/2019 - 6:39 PM",
