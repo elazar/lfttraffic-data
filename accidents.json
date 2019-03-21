@@ -1,11 +1,11 @@
 [
   {
-    "address": "213 AMELIA ST",
+    "address": "200 W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "03/21/2019 - 09:13 AM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.21721,
-    "longitude": -92.02013
+    "latitude": 30.2183,
+    "longitude": -92.01988
   },
   {
     "address": "NW EVANGELINE TW & W WILLOW ST",
@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22445,
     "longitude": -92.03174
-  },
-  {
-    "address": "ERASTE LANDRY RD & LUKE ST",
-    "city": "LAFAYETTE",
-    "time": "03/21/2019 - 08:16 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22233,
-    "longitude": -92.06178
   }
 ]
