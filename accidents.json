@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 FOREMAN DR",
+    "city": "LAFAYETTE",
+    "time": "03/21/2019 - 08:00 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21132,
+    "longitude": -92.06202
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & E AMEDEE DR",
     "city": "LAFAYETTE",
     "time": "03/21/2019 - 07:55 AM",
