@@ -1,5 +1,13 @@
 [
   {
+    "address": "I49 SOUTHBOUND MM4 HW & VETERANS DR",
+    "city": "LAFAYETTE",
+    "time": "03/21/2019 - 08:10 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.32188,
+    "longitude": -92.04333
+  },
+  {
     "address": "US 90 EAST HW & AMBASSADOR CAFFERY PW",
     "city": "BROUSSARD",
     "time": "03/21/2019 - 08:08 AM",
