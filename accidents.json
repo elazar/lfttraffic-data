@@ -1,5 +1,13 @@
 [
   {
+    "address": "405 W MAIN ST",
+    "city": "LAFAYETTE",
+    "time": "03/21/2019 - 09:51 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22277,
+    "longitude": -92.02187
+  },
+  {
     "address": "NW EVANGELINE TW & W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "03/21/2019 - 08:56 AM",
