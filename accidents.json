@@ -1,5 +1,13 @@
 [
   {
+    "address": "E PINHOOK RD & WEBB ST",
+    "city": "LAFAYETTE",
+    "time": "03/21/2019 - 2:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23718,
+    "longitude": -91.98992
+  },
+  {
     "address": "3559 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "03/21/2019 - 2:21 PM",
@@ -38,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23106,
     "longitude": -92.01377
-  },
-  {
-    "address": "5600 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "03/21/2019 - 1:19 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.1778133,
-    "longitude": -92.0751405
   },
   {
     "address": "NW EVANGELINE TW & W WILLOW ST",
