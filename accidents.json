@@ -1,5 +1,13 @@
 [
   {
+    "address": "3001 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "03/21/2019 - 12:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2623,
+    "longitude": -91.99535
+  },
+  {
     "address": "MADELINE AV & N BIENVILLE ST",
     "city": "LAFAYETTE",
     "time": "03/21/2019 - 12:02 PM",
