@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & TRAVIS ST",
+    "city": "LAFAYETTE",
+    "time": "03/21/2019 - 08:26 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20428,
+    "longitude": -92.01344
+  },
+  {
     "address": "W ST MARY BL & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "03/21/2019 - 08:25 AM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22233,
     "longitude": -92.06178
-  },
-  {
-    "address": "3547 NW EVANGELINE TW",
-    "city": "CARENCRO",
-    "time": "03/21/2019 - 08:16 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.30984,
-    "longitude": -92.03074
   },
   {
     "address": "6643 W CONGRESS ST",
