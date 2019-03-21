@@ -1,5 +1,13 @@
 [
   {
+    "address": "213 AMELIA ST",
+    "city": "LAFAYETTE",
+    "time": "03/21/2019 - 09:13 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21721,
+    "longitude": -92.02013
+  },
+  {
     "address": "NW EVANGELINE TW & W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "03/21/2019 - 08:56 AM",
