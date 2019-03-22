@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 E WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "03/22/2019 - 3:18 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.2453,
+    "longitude": -92.00136
+  },
+  {
     "address": "300 RUE DU BELIER",
     "city": "SCOTT",
     "time": "03/22/2019 - 2:55 PM",
