@@ -1,5 +1,13 @@
 [
   {
+    "address": "183 AUSTRIA RD",
+    "city": "DUSON",
+    "time": "03/22/2019 - 12:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2430947,
+    "longitude": -92.1929051
+  },
+  {
     "address": "SURREY ST & E PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "03/22/2019 - 12:36 PM",
@@ -22,13 +30,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.21311,
     "longitude": -92.02377
-  },
-  {
-    "address": "KALISTE SALOOM RD & W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "03/22/2019 - 11:48 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.1886,
-    "longitude": -92.0141
   }
 ]
