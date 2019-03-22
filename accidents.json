@@ -1,11 +1,11 @@
 [
   {
-    "address": "200 W WILLOW ST",
+    "address": "100 E WILLOW ST",
     "city": "LAFAYETTE",
     "time": "03/22/2019 - 08:45 AM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.24594,
-    "longitude": -92.0145
+    "latitude": 30.24402,
+    "longitude": -92.01048
   },
   {
     "address": "1500 NW EVANGELINE TW",
