@@ -62,13 +62,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.29296,
     "longitude": -92.0249
-  },
-  {
-    "address": "JOHNSTON ST & ALBERT ST",
-    "city": "LAFAYETTE",
-    "time": "03/22/2019 - 12:00 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.21311,
-    "longitude": -92.02377
   }
 ]
