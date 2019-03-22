@@ -1,5 +1,13 @@
 [
   {
+    "address": "423 DUCOTE DR",
+    "city": "BROUSSARD",
+    "time": "03/22/2019 - 4:44 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.14439,
+    "longitude": -91.97012
+  },
+  {
     "address": "5800 CAMERON ST",
     "city": "SCOTT",
     "time": "03/22/2019 - 4:43 PM",
