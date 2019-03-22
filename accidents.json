@@ -1,5 +1,13 @@
 [
   {
+    "address": "LA FLAMME RD & BAYOU TORTUE RD",
+    "city": "LAFAYETTE",
+    "time": "03/22/2019 - 5:07 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.15324,
+    "longitude": -91.93397
+  },
+  {
     "address": "SHENANDOAH DR & N GIROUARD RD",
     "city": "LAFAYETTE",
     "time": "03/22/2019 - 4:58 PM",
@@ -44,14 +52,6 @@
     "city": "DUSON",
     "time": "03/22/2019 - 12:53 PM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.24757,
-    "longitude": -92.14845
-  },
-  {
-    "address": "92 I10 EB EXIT RAMP HW",
-    "city": "DUSON",
-    "time": "03/22/2019 - 12:43 PM",
-    "due_to": "Vehicle Accident",
     "latitude": 30.24757,
     "longitude": -92.14845
   }
