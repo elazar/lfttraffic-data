@@ -1,5 +1,13 @@
 [
   {
+    "address": "LOUISIANA AV & S ORANGE ST",
+    "city": "LAFAYETTE",
+    "time": "03/22/2019 - 5:55 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22633,
+    "longitude": -92.00728
+  },
+  {
     "address": "LOUISIANA AV & E ALEXANDER ST",
     "city": "LAFAYETTE",
     "time": "03/22/2019 - 5:52 PM",
