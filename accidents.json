@@ -1,5 +1,13 @@
 [
   {
+    "address": "E BROUSSARD RD & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "03/21/2019 - 9:25 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15059,
+    "longitude": -92.09379
+  },
+  {
     "address": "100 AL ROMERO JR RD",
     "city": "LAFAYETTE",
     "time": "03/21/2019 - 9:02 PM",
