@@ -1,5 +1,21 @@
 [
   {
+    "address": "HECTOR CONNOLY RD & NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "03/22/2019 - 08:08 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.32261,
+    "longitude": -92.0325
+  },
+  {
+    "address": "951 VETERANS DR",
+    "city": "LAFAYETTE",
+    "time": "03/22/2019 - 08:08 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.3223046,
+    "longitude": -92.0361337
+  },
+  {
     "address": "SE EVANGELINE TW & E VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "03/22/2019 - 07:49 AM",
