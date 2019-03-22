@@ -30,21 +30,5 @@
     "due_to": "Road Hazard",
     "latitude": 30.25646,
     "longitude": -92.03884
-  },
-  {
-    "address": "100 E WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "03/22/2019 - 08:45 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24402,
-    "longitude": -92.01048
-  },
-  {
-    "address": "100 W WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "03/22/2019 - 08:30 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2451239,
-    "longitude": -92.0146282
   }
 ]
