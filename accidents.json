@@ -1,5 +1,13 @@
 [
   {
+    "address": "E CONVENT ST & LAMAR ST",
+    "city": "LAFAYETTE",
+    "time": "03/22/2019 - 2:42 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.21856,
+    "longitude": -92.01416
+  },
+  {
     "address": "TEURLINGS DR & MARCELLE DR",
     "city": "LAFAYETTE",
     "time": "03/22/2019 - 2:40 PM",
@@ -54,14 +62,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15001,
     "longitude": -92.0935
-  },
-  {
-    "address": "126 LEXINGTON DR",
-    "city": "DUSON",
-    "time": "03/22/2019 - 1:54 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.25184,
-    "longitude": -92.19508
   },
   {
     "address": "CAMELLIA BL & JOHNSTON ST",
