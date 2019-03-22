@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 RUE DU BELIER",
+    "city": "SCOTT",
+    "time": "03/22/2019 - 2:55 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2054256,
+    "longitude": -92.0923049
+  },
+  {
     "address": "E CONVENT ST & LAMAR ST",
     "city": "LAFAYETTE",
     "time": "03/22/2019 - 2:42 PM",
