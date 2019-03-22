@@ -1,5 +1,13 @@
 [
   {
+    "address": "98 I10 WESTBOUND MM98 HW",
+    "city": "SCOTT",
+    "time": "03/22/2019 - 6:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24727,
+    "longitude": -92.09751
+  },
+  {
     "address": "JOHNSTON ST & DUHON RD",
     "city": "LAFAYETTE",
     "time": "03/22/2019 - 6:04 PM",
