@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "GOLDEN GRAIN RD & S RICHFIELD RD",
+    "city": "LAFAYETTE",
+    "time": "03/22/2019 - 06:49 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.15923,
+    "longitude": -92.17568
+  }
+]
