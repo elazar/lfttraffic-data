@@ -1,5 +1,13 @@
 [
   {
+    "address": "LOUISIANA AV & WEBB ST",
+    "city": "LAFAYETTE",
+    "time": "03/23/2019 - 11:40 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23857,
+    "longitude": -92.00143
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "03/23/2019 - 10:24 AM",
