@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "580 ST ETIENNE RD",
+    "city": "BROUSSARD",
+    "time": "03/23/2019 - 05:38 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.12573,
+    "longitude": -91.94864
+  }
+]
