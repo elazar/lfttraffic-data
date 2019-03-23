@@ -1,5 +1,13 @@
 [
   {
+    "address": "900 E UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "03/22/2019 - 7:33 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.211,
+    "longitude": -92.01165
+  },
+  {
     "address": "NE EVANGELINE TW & E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "03/22/2019 - 7:15 PM",
