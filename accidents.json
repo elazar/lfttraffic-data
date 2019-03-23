@@ -8,28 +8,12 @@
     "longitude": -92.16326
   },
   {
-    "address": "W CONGRESS ST & CAJUNDOME BL",
-    "city": "LAFAYETTE",
-    "time": "03/23/2019 - 2:23 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.21871,
-    "longitude": -92.04139
-  },
-  {
     "address": "ALBERTSON PW & S BERNARD RD",
     "city": "BROUSSARD",
     "time": "03/23/2019 - 2:01 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.15654,
     "longitude": -91.97409
-  },
-  {
-    "address": "200 BAYOU TORTUE RD",
-    "city": "LAFAYETTE",
-    "time": "03/23/2019 - 1:49 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15344,
-    "longitude": -91.94076
   },
   {
     "address": "AMBASSADOR CAFFERY PW & W WILLOW ST",
