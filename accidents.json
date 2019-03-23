@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 I10 WESTBOUND MM100 HW",
+    "city": "LAFAYETTE",
+    "time": "03/23/2019 - 3:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "916 LAFAYETTE ST",
     "city": "LAFAYETTE",
     "time": "03/23/2019 - 3:09 PM",
