@@ -1,21 +1,5 @@
 [
   {
-    "address": "W PINHOOK RD & E KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "03/23/2019 - 11:22 AM",
-    "due_to": "Incoming Call",
-    "latitude": 30.1886,
-    "longitude": -92.0141
-  },
-  {
-    "address": "ST NAZAIRE RD & AURELIEN LP",
-    "city": "BROUSSARD",
-    "time": "03/23/2019 - 11:17 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.14036,
-    "longitude": -91.93694
-  },
-  {
     "address": "W WILLOW ST & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "03/23/2019 - 10:24 AM",
