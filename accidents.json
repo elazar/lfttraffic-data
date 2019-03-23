@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 BAYOU TORTUE RD",
+    "city": "LAFAYETTE",
+    "time": "03/23/2019 - 1:49 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15344,
+    "longitude": -91.94076
+  },
+  {
     "address": "E MILTON AV & HEARTLAND LN",
     "city": "LAFAYETTE",
     "time": "03/23/2019 - 1:44 PM",
