@@ -1,5 +1,13 @@
 [
   {
+    "address": "2678 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "03/23/2019 - 12:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20852,
+    "longitude": -92.03842
+  },
+  {
     "address": "BERTRAND DR & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "03/23/2019 - 12:27 PM",
@@ -46,14 +54,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17808,
     "longitude": -92.07452
-  },
-  {
-    "address": "2400 W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "03/23/2019 - 11:58 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21494,
-    "longitude": -92.04748
   },
   {
     "address": "120 E GLORIA SWITCH RD",
