@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "03/22/2019 - 9:16 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1174,
+    "longitude": -91.94361
+  },
+  {
     "address": "N ST ANTOINE ST & MARTIN LUTHER KING JR DR",
     "city": "LAFAYETTE",
     "time": "03/22/2019 - 9:04 PM",
@@ -14,13 +22,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.15608,
     "longitude": -92.04107
-  },
-  {
-    "address": "92 I10 EB EXIT RAMP HW",
-    "city": "DUSON",
-    "time": "03/22/2019 - 12:53 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.24757,
-    "longitude": -92.14845
   }
 ]
