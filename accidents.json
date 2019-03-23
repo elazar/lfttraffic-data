@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & RENAUD DR",
+    "city": "LAFAYETTE",
+    "time": "03/23/2019 - 03:20 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25425,
+    "longitude": -92.03783
+  },
+  {
     "address": "108 FRANCOIS RD",
     "city": "CARENCRO",
     "time": "03/23/2019 - 02:57 AM",
