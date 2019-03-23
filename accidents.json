@@ -1,5 +1,13 @@
 [
   {
+    "address": "BERTRAND DR & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "03/23/2019 - 12:27 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.20581,
+    "longitude": -92.04078
+  },
+  {
     "address": "211 MASTERS DR",
     "city": "BROUSSARD",
     "time": "03/23/2019 - 12:26 PM",
