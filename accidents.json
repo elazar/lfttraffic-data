@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.10031,
     "longitude": -91.98334
-  },
-  {
-    "address": "400 ST CLAIR RD",
-    "city": "LAFAYETTE",
-    "time": "03/24/2019 - 01:25 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.30309,
-    "longitude": -91.97153
   }
 ]
