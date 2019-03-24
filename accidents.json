@@ -1,5 +1,13 @@
 [
   {
+    "address": "400 ST CLAIR RD",
+    "city": "LAFAYETTE",
+    "time": "03/24/2019 - 01:25 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.30309,
+    "longitude": -91.97153
+  },
+  {
     "address": "207 N AMBASSADOR CAFFERY PW",
     "city": "SCOTT",
     "time": "03/24/2019 - 12:56 AM",
