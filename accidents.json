@@ -1,5 +1,13 @@
 [
   {
+    "address": "1555 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "03/24/2019 - 12:14 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.24279,
+    "longitude": -92.04542
+  },
+  {
     "address": "801 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "03/24/2019 - 11:52 AM",
