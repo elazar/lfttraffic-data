@@ -1,5 +1,13 @@
 [
   {
+    "address": "E MILTON AV & MIRAMAR BL",
+    "city": "LAFAYETTE",
+    "time": "03/24/2019 - 01:57 AM",
+    "due_to": "Hazardous Situation",
+    "latitude": 30.10921,
+    "longitude": -92.05082
+  },
+  {
     "address": "600 YOUNG ST",
     "city": "YOUNGSVILLE",
     "time": "03/24/2019 - 01:49 AM",
