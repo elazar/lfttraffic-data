@@ -8,12 +8,12 @@
     "longitude": -91.990419
   },
   {
-    "address": "103 CAMBERLY CL",
+    "address": "101 CAMBERLY CL",
     "city": "LAFAYETTE",
     "time": "03/24/2019 - 11:23 AM",
-    "due_to": "Incoming Call",
-    "latitude": 30.18302,
-    "longitude": -92.03176
+    "due_to": "Vehicle Fire",
+    "latitude": 30.18328,
+    "longitude": -92.03167
   },
   {
     "address": "INDUSTRIAL PW & MARKET PL",
@@ -22,13 +22,5 @@
     "due_to": "Grass Fire",
     "latitude": 30.18866,
     "longitude": -92.00476
-  },
-  {
-    "address": "WISE ST & MOULIN RD",
-    "city": "BROUSSARD",
-    "time": "03/24/2019 - 10:58 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.13255,
-    "longitude": -91.95993
   }
 ]
