@@ -3,17 +3,9 @@
     "address": "3607 W GLORIA SWITCH RD",
     "city": "LAFAYETTE",
     "time": "03/23/2019 - 7:38 PM",
-    "due_to": "Incoming Call",
+    "due_to": "Fire Investigation",
     "latitude": 30.2983706,
     "longitude": -92.1314642
-  },
-  {
-    "address": "127 SYLVIA ST",
-    "city": "SCOTT",
-    "time": "03/23/2019 - 7:25 PM",
-    "due_to": "Grass Fire",
-    "latitude": 30.22936,
-    "longitude": -92.08378
   },
   {
     "address": "E MILTON AV & FIELD CREST PW",
