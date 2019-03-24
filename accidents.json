@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "5803 CAMERON ST",
+    "city": "SCOTT",
+    "time": "03/24/2019 - 08:46 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.2334251,
+    "longitude": -92.0945463
+  }
+]
