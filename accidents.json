@@ -1,5 +1,13 @@
 [
   {
+    "address": "201 MEADOW FARM RD",
+    "city": "LAFAYETTE",
+    "time": "03/24/2019 - 2:06 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.1561931,
+    "longitude": -92.0443186
+  },
+  {
     "address": "2627 MILLS ST",
     "city": "LAFAYETTE",
     "time": "03/24/2019 - 1:54 PM",
