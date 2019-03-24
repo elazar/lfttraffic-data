@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & MADELINE AV",
+    "city": "LAFAYETTE",
+    "time": "03/24/2019 - 11:52 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23907,
+    "longitude": -92.03243
+  },
+  {
     "address": "100 CHURCH STREET",
     "city": "Lafayette",
     "time": "03/24/2019 - 11:49 AM",
