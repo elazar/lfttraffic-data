@@ -1,5 +1,13 @@
 [
   {
+    "address": "1422 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "03/23/2019 - 9:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21494,
+    "longitude": -92.02188
+  },
+  {
     "address": "600 E PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "03/23/2019 - 9:06 PM",
