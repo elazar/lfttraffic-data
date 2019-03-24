@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 RUE FERNAND (SE)",
+    "city": "LAFAYETTE",
+    "time": "03/24/2019 - 11:18 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.1925642,
+    "longitude": -92.0159953
+  },
+  {
     "address": "WISE ST & MOULIN RD",
     "city": "BROUSSARD",
     "time": "03/24/2019 - 10:58 AM",
