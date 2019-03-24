@@ -1,5 +1,13 @@
 [
   {
+    "address": "RENA DR & JOHNSTON DR",
+    "city": "LAFAYETTE",
+    "time": "03/24/2019 - 4:40 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19435,
+    "longitude": -92.05813
+  },
+  {
     "address": "APOLLO RD & DELHOMME AV",
     "city": "SCOTT",
     "time": "03/24/2019 - 4:28 PM",
