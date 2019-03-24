@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & W BUTCHER SWITCH RD",
+    "city": "LAFAYETTE",
+    "time": "03/24/2019 - 3:31 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.28786,
+    "longitude": -92.0501
+  },
+  {
     "address": "DESOTO RD & W GLORIA SWITCH RD",
     "city": "LAFAYETTE",
     "time": "03/24/2019 - 2:54 PM",
