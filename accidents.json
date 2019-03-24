@@ -1,19 +1,19 @@
 [
   {
+    "address": "103 E PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "03/24/2019 - 12:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21412,
+    "longitude": -92.00793
+  },
+  {
     "address": "NOVA SCOTIA DR & RIM RD",
     "city": "LAFAYETTE",
     "time": "03/24/2019 - 12:21 PM",
     "due_to": "Trash Fire",
     "latitude": 30.28003,
     "longitude": -92.00912
-  },
-  {
-    "address": "1555 W WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "03/24/2019 - 12:14 PM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.24279,
-    "longitude": -92.04542
   },
   {
     "address": "801 N UNIVERSITY AV",
