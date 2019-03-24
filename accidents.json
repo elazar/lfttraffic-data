@@ -1,5 +1,21 @@
 [
   {
+    "address": "5000 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "03/24/2019 - 1:37 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1469602,
+    "longitude": -92.0352907
+  },
+  {
+    "address": "AMBASSADOR CAFFERY PW & SETTLERS TRACE BL",
+    "city": "LAFAYETTE",
+    "time": "03/24/2019 - 1:37 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15969,
+    "longitude": -92.05229
+  },
+  {
     "address": "3002 VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "03/24/2019 - 1:11 PM",
