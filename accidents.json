@@ -1,5 +1,13 @@
 [
   {
+    "address": "1800 DULLES DR",
+    "city": "LAFAYETTE",
+    "time": "03/23/2019 - 8:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2106849,
+    "longitude": -92.0840517
+  },
+  {
     "address": "E WILLOW ST & NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "03/23/2019 - 7:45 PM",
