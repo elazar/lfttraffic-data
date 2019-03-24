@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMRON/ALFRED",
+    "city": "Lafayette",
+    "time": "03/24/2019 - 10:53 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.24218,
+    "longitude": -92.01466
+  },
+  {
     "address": "2600 MOSS ST",
     "city": "LAFAYETTE",
     "time": "03/24/2019 - 10:37 AM",
