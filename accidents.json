@@ -1,5 +1,13 @@
 [
   {
+    "address": "114 MCKINLEY ST",
+    "city": "LAFAYETTE",
+    "time": "03/24/2019 - 02:41 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21683,
+    "longitude": -92.01362
+  },
+  {
     "address": "1803 ERASTE LANDRY RD",
     "city": "LAFAYETTE",
     "time": "03/24/2019 - 02:38 AM",
