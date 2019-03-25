@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 E VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "03/25/2019 - 5:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1767847,
+    "longitude": -92.0018125
+  },
+  {
     "address": "SCHOOL ST & IBERIA ST",
     "city": "YOUNGSVILLE",
     "time": "03/25/2019 - 5:14 PM",
