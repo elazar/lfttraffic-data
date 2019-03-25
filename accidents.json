@@ -1,5 +1,13 @@
 [
   {
+    "address": "203 HAIG ST",
+    "city": "LAFAYETTE",
+    "time": "03/25/2019 - 4:41 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23359,
+    "longitude": -92.00097
+  },
+  {
     "address": "YOUNG ST & COUNTRY RUN DR",
     "city": "BROUSSARD",
     "time": "03/25/2019 - 3:46 PM",
