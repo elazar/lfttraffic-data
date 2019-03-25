@@ -22,21 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20727,
     "longitude": -92.03836
-  },
-  {
-    "address": "W PINHOOK RD & VERMILION RIVER",
-    "city": "LAFAYETTE",
-    "time": "03/25/2019 - 5:24 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18556,
-    "longitude": -92.0104
-  },
-  {
-    "address": "DOUCET RD & W BAYOU PW",
-    "city": "LAFAYETTE",
-    "time": "03/25/2019 - 5:07 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19275,
-    "longitude": -92.03705
   }
 ]
