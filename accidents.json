@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22454,
     "longitude": -92.01807
-  },
-  {
-    "address": "417 E SIMCOE ST",
-    "city": "LAFAYETTE",
-    "time": "03/25/2019 - 1:48 PM",
-    "due_to": "Grass Fire",
-    "latitude": 30.23125,
-    "longitude": -92.01239
   }
 ]
