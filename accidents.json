@@ -1,5 +1,13 @@
 [
   {
+    "address": "419 N BUCHANAN ST (SE)",
+    "city": "LAFAYETTE",
+    "time": "03/25/2019 - 1:48 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.23508,
+    "longitude": -92.01672
+  },
+  {
     "address": "200 ST NAZAIRE RD",
     "city": "BROUSSARD",
     "time": "03/25/2019 - 1:40 PM",
