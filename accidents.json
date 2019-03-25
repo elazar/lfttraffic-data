@@ -1,5 +1,21 @@
 [
   {
+    "address": "PATTERSON ST & MARTIN LUTHER KING JR DR",
+    "city": "LAFAYETTE",
+    "time": "03/24/2019 - 8:50 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.24889,
+    "longitude": -92.02044
+  },
+  {
+    "address": "4120 NE EVANGELINE TW",
+    "city": "CARENCRO",
+    "time": "03/24/2019 - 8:49 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.3296006,
+    "longitude": -92.0370776
+  },
+  {
     "address": "812 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "03/24/2019 - 8:49 PM",
