@@ -8,14 +8,6 @@
     "longitude": -92.03998
   },
   {
-    "address": "ROSEWOOD AV & ST ANDREW DR",
-    "city": "LAFAYETTE",
-    "time": "03/24/2019 - 10:29 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.24713,
-    "longitude": -92.0384
-  },
-  {
     "address": "401 IBERIA ST",
     "city": "YOUNGSVILLE",
     "time": "03/24/2019 - 10:12 PM",
@@ -30,14 +22,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.2433,
     "longitude": -92.03218
-  },
-  {
-    "address": "1101 N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "03/24/2019 - 9:45 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.2431581,
-    "longitude": -92.0326055
   },
   {
     "address": "AMBASSADOR CAFFERY PW & W CONGRESS ST",
