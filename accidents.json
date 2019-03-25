@@ -1,5 +1,13 @@
 [
   {
+    "address": "1633 ST MARY ST",
+    "city": "SCOTT",
+    "time": "03/24/2019 - 8:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24204,
+    "longitude": -92.10393
+  },
+  {
     "address": "RIDGEWOOD ST & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "03/24/2019 - 8:04 PM",
