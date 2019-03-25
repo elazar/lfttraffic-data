@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "3220 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "03/25/2019 - 09:18 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.29303,
+    "longitude": -92.02305
+  }
+]
