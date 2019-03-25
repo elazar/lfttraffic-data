@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "100 MARCON DR",
+    "city": "LAFAYETTE",
+    "time": "03/25/2019 - 09:29 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25973,
+    "longitude": -92.04171
+  }
+]
