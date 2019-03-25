@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 AVENUE B",
+    "city": "YOUNGSVILLE",
+    "time": "03/25/2019 - 07:21 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.09606,
+    "longitude": -91.9938
+  },
+  {
     "address": "600 CHURCH ST",
     "city": "YOUNGSVILLE",
     "time": "03/25/2019 - 07:18 AM",
