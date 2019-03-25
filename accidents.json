@@ -1,5 +1,13 @@
 [
   {
+    "address": "1100 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "03/24/2019 - 9:47 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.2433,
+    "longitude": -92.03218
+  },
+  {
     "address": "CLARA ST & N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "03/24/2019 - 9:45 PM",
