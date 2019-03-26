@@ -1,5 +1,13 @@
 [
   {
+    "address": "3000 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "03/26/2019 - 5:38 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.28307,
+    "longitude": -92.01992
+  },
+  {
     "address": "W UNIVERSITY AV & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "03/26/2019 - 5:33 PM",
