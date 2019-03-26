@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20233,
     "longitude": -92.0521
-  },
-  {
-    "address": "LOUISIANA AV & SURREY ST",
-    "city": "LAFAYETTE",
-    "time": "03/26/2019 - 11:15 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.22823,
-    "longitude": -92.00461
   }
 ]
