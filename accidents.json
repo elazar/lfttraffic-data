@@ -1,5 +1,21 @@
 [
   {
+    "address": "5620 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "03/26/2019 - 6:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1779,
+    "longitude": -92.07559
+  },
+  {
+    "address": "E ALEXANDER ST & MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "03/26/2019 - 6:01 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2556,
+    "longitude": -92.00554
+  },
+  {
     "address": "NE EVANGELINE TW & E PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "03/26/2019 - 5:59 PM",
@@ -70,14 +86,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.211,
     "longitude": -92.02798
-  },
-  {
-    "address": "E PINHOOK RD & SE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "03/26/2019 - 4:57 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21749,
-    "longitude": -92.00495
   },
   {
     "address": "337 ST CLAIR RD",
