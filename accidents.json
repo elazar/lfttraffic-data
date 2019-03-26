@@ -11,7 +11,7 @@
     "address": "812 E CONVENT ST",
     "city": "LAFAYETTE",
     "time": "03/26/2019 - 4:46 PM",
-    "due_to": "Fire Investigation",
+    "due_to": "Grass Fire",
     "latitude": 30.21603,
     "longitude": -92.01081
   },
@@ -100,14 +100,6 @@
     "city": "LAFAYETTE",
     "time": "03/26/2019 - 3:31 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.22514,
-    "longitude": -92.0302
-  },
-  {
-    "address": "W CONGRESS ST & JASMINE ST",
-    "city": "LAFAYETTE",
-    "time": "03/26/2019 - 3:00 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.22514,
     "longitude": -92.0302
   }
