@@ -1,5 +1,13 @@
 [
   {
+    "address": "YOUNGSVILLE HW & AMBASSADOR CAFFERY PW",
+    "city": "BROUSSARD",
+    "time": "03/25/2019 - 8:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13508,
+    "longitude": -91.99044
+  },
+  {
     "address": "BENDEL RD & S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "03/25/2019 - 8:10 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20447,
     "longitude": -92.04432
-  },
-  {
-    "address": "CARMEL DR & E PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "03/25/2019 - 7:11 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2334,
-    "longitude": -91.9927
   },
   {
     "address": "E PONT DES MOUTON RD & NE FRONTAGE RD",
