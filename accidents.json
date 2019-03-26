@@ -1,5 +1,13 @@
 [
   {
+    "address": "126 LEXINGTON DR",
+    "city": "DUSON",
+    "time": "03/25/2019 - 10:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25184,
+    "longitude": -92.19508
+  },
+  {
     "address": "JEFFREY DR & LANA DR",
     "city": "LAFAYETTE",
     "time": "03/25/2019 - 10:32 PM",
