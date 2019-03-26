@@ -1,5 +1,21 @@
 [
   {
+    "address": "104 COCHRANE ST",
+    "city": "LAFAYETTE",
+    "time": "03/25/2019 - 10:30 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.22649,
+    "longitude": -91.9964
+  },
+  {
+    "address": "COCHRANE ST & E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "03/25/2019 - 10:29 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.22677,
+    "longitude": -91.99581
+  },
+  {
     "address": "JOHNSTON ST & S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "03/25/2019 - 9:37 PM",
