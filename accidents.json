@@ -40,27 +40,11 @@
     "longitude": -91.96592
   },
   {
-    "address": "1522 CARMEL DR",
-    "city": "LAFAYETTE",
-    "time": "03/26/2019 - 07:20 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.23215,
-    "longitude": -91.98358
-  },
-  {
     "address": "600 CHURCH ST",
     "city": "YOUNGSVILLE",
     "time": "03/26/2019 - 07:19 AM",
     "due_to": "Traffic Control",
     "latitude": 30.09923,
     "longitude": -91.99578
-  },
-  {
-    "address": "300 AVENUE B",
-    "city": "YOUNGSVILLE",
-    "time": "03/26/2019 - 06:58 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.09606,
-    "longitude": -91.9938
   }
 ]
