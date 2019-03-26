@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 CHURCH ST",
+    "city": "YOUNGSVILLE",
+    "time": "03/26/2019 - 3:27 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.09923,
+    "longitude": -91.99578
+  },
+  {
     "address": "W CONGRESS ST & JASMINE ST",
     "city": "LAFAYETTE",
     "time": "03/26/2019 - 3:00 PM",
