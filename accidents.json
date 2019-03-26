@@ -1,5 +1,13 @@
 [
   {
+    "address": "JASMINE ST & OAKLAWN AV",
+    "city": "LAFAYETTE",
+    "time": "03/26/2019 - 5:55 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22655,
+    "longitude": -92.03115
+  },
+  {
     "address": "W ST MARY BL & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "03/26/2019 - 5:54 PM",
