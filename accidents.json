@@ -1,19 +1,19 @@
 [
   {
+    "address": "SOUTH FORK DR & FORTUNE RD",
+    "city": "YOUNGSVILLE",
+    "time": "03/26/2019 - 07:36 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.12382,
+    "longitude": -92.00103
+  },
+  {
     "address": "ALBERTSON PW & S MORGAN AV",
     "city": "BROUSSARD",
     "time": "03/26/2019 - 07:26 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.1383,
     "longitude": -91.96516
-  },
-  {
-    "address": "300 GEORGIA ST",
-    "city": "LAFAYETTE",
-    "time": "03/26/2019 - 07:25 AM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.2255544,
-    "longitude": -91.9988268
   },
   {
     "address": "S COLLEGE RD & MYRTLE ST",
