@@ -1,5 +1,13 @@
 [
   {
+    "address": "GIRARD PARK DR & HOSPITAL DR",
+    "city": "LAFAYETTE",
+    "time": "03/26/2019 - 09:05 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20436,
+    "longitude": -92.02048
+  },
+  {
     "address": "111 E MAIN ST",
     "city": "BROUSSARD",
     "time": "03/26/2019 - 08:59 AM",
