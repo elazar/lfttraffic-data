@@ -1,5 +1,13 @@
 [
   {
+    "address": "FOREMAN DR & ERASTE LANDRY RD",
+    "city": "LAFAYETTE",
+    "time": "03/26/2019 - 08:25 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2195,
+    "longitude": -92.06465
+  },
+  {
     "address": "DOUCET RD & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "03/26/2019 - 08:23 AM",
