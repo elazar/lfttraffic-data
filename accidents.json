@@ -1,5 +1,21 @@
 [
   {
+    "address": "2932 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "03/26/2019 - 4:46 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20512,
+    "longitude": -92.04297
+  },
+  {
+    "address": "812 E CONVENT ST",
+    "city": "LAFAYETTE",
+    "time": "03/26/2019 - 4:46 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.21603,
+    "longitude": -92.01081
+  },
+  {
     "address": "337 ST CLAIR RD",
     "city": "LAFAYETTE",
     "time": "03/26/2019 - 4:42 PM",
