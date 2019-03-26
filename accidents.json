@@ -40,28 +40,12 @@
     "longitude": -92.00495
   },
   {
-    "address": "2932 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "03/26/2019 - 4:46 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20512,
-    "longitude": -92.04297
-  },
-  {
     "address": "337 ST CLAIR RD",
     "city": "LAFAYETTE",
     "time": "03/26/2019 - 4:42 PM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.30508,
     "longitude": -91.97301
-  },
-  {
-    "address": "6800 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "03/26/2019 - 4:41 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.15075,
-    "longitude": -92.09488
   },
   {
     "address": "VEROT SCHOOL RD & VINCENT RD",
