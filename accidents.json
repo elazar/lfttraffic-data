@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & ST NAZAIRE RD",
+    "city": "BROUSSARD",
+    "time": "03/26/2019 - 1:23 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1406051,
+    "longitude": -91.9448999
+  },
+  {
     "address": "5801 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "03/26/2019 - 1:10 PM",
