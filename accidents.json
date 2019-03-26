@@ -8,28 +8,12 @@
     "longitude": -92.19508
   },
   {
-    "address": "JEFFREY DR & LANA DR",
-    "city": "LAFAYETTE",
-    "time": "03/25/2019 - 10:32 PM",
-    "due_to": "Commercial Fire",
-    "latitude": 30.18718,
-    "longitude": -92.06152
-  },
-  {
     "address": "104 COCHRANE ST",
     "city": "LAFAYETTE",
     "time": "03/25/2019 - 10:30 PM",
     "due_to": "Residential Fire",
     "latitude": 30.22649,
     "longitude": -91.9964
-  },
-  {
-    "address": "JOHNSTON ST & S COLLEGE RD",
-    "city": "LAFAYETTE",
-    "time": "03/25/2019 - 9:37 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.20727,
-    "longitude": -92.03836
   },
   {
     "address": "518 S PIERCE ST",
