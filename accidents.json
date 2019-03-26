@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & JASMINE ST",
+    "city": "LAFAYETTE",
+    "time": "03/26/2019 - 3:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22514,
+    "longitude": -92.0302
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & CURRAN LN",
     "city": "LAFAYETTE",
     "time": "03/26/2019 - 2:54 PM",
