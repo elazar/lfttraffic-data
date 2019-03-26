@@ -24,14 +24,6 @@
     "longitude": -91.99841
   },
   {
-    "address": "3044 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "03/26/2019 - 4:52 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17151,
-    "longitude": -91.99993
-  },
-  {
     "address": "2932 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "03/26/2019 - 4:46 PM",
@@ -94,14 +86,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21449,
     "longitude": -92.04816
-  },
-  {
-    "address": "W PINHOOK RD & S COLLEGE RD",
-    "city": "LAFAYETTE",
-    "time": "03/26/2019 - 4:02 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.20101,
-    "longitude": -92.01538
   },
   {
     "address": "CARMEL DR & CANAL ST",
