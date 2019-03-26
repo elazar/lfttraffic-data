@@ -1,5 +1,21 @@
 [
   {
+    "address": "W ST MARY BL & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "03/26/2019 - 5:54 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22445,
+    "longitude": -92.03174
+  },
+  {
+    "address": "1500 SURREY ST",
+    "city": "LAFAYETTE",
+    "time": "03/26/2019 - 5:54 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2191972,
+    "longitude": -91.992926
+  },
+  {
     "address": "3000 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "03/26/2019 - 5:38 PM",
