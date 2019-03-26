@@ -1,5 +1,21 @@
 [
   {
+    "address": "DUGAS RD & MILLS ST",
+    "city": "LAFAYETTE",
+    "time": "03/26/2019 - 5:58 PM",
+    "due_to": "Grass Fire",
+    "latitude": 30.21008,
+    "longitude": -92.04544
+  },
+  {
+    "address": "NE EVANGELINE TW & E PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "03/26/2019 - 5:57 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27334,
+    "longitude": -92.01718
+  },
+  {
     "address": "JASMINE ST & OAKLAWN AV",
     "city": "LAFAYETTE",
     "time": "03/26/2019 - 5:55 PM",
@@ -62,14 +78,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.30508,
     "longitude": -91.97301
-  },
-  {
-    "address": "VEROT SCHOOL RD & VINCENT RD",
-    "city": "LAFAYETTE",
-    "time": "03/26/2019 - 4:22 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.13809,
-    "longitude": -92.03254
   },
   {
     "address": "CARMEL DR & CANAL ST",
