@@ -62,13 +62,5 @@
     "due_to": "Vehicle Fire",
     "latitude": 30.15516,
     "longitude": -92.0934
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & LEMOINE DR",
-    "city": "LAFAYETTE",
-    "time": "03/26/2019 - 2:12 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2048,
-    "longitude": -92.07534
   }
 ]
