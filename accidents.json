@@ -1,5 +1,13 @@
 [
   {
+    "address": "E PINHOOK RD & SE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "03/26/2019 - 09:34 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21749,
+    "longitude": -92.00495
+  },
+  {
     "address": "GIRARD PARK DR & HOSPITAL DR",
     "city": "LAFAYETTE",
     "time": "03/26/2019 - 09:05 AM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2195,
     "longitude": -92.06465
-  },
-  {
-    "address": "DOUCET RD & JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "03/26/2019 - 08:23 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20341,
-    "longitude": -92.04888
   },
   {
     "address": "S COLLEGE RD & MYRTLE ST",
