@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & JASMINE ST",
+    "city": "LAFAYETTE",
+    "time": "03/26/2019 - 3:31 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22514,
+    "longitude": -92.0302
+  },
+  {
     "address": "600 CHURCH ST",
     "city": "YOUNGSVILLE",
     "time": "03/26/2019 - 3:27 PM",
