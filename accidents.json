@@ -1,5 +1,13 @@
 [
   {
+    "address": "212 GEORGIA ST",
+    "city": "LAFAYETTE",
+    "time": "03/26/2019 - 07:25 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.22585,
+    "longitude": -91.99931
+  },
+  {
     "address": "S COLLEGE RD & MYRTLE ST",
     "city": "LAFAYETTE",
     "time": "03/26/2019 - 07:22 AM",
