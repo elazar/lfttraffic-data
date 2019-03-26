@@ -1,5 +1,13 @@
 [
   {
+    "address": "CARMEL DR & CANAL ST",
+    "city": "LAFAYETTE",
+    "time": "03/26/2019 - 3:57 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.2325,
+    "longitude": -91.98533
+  },
+  {
     "address": "PEAK RUN & HILL RIDGE DR",
     "city": "YOUNGSVILLE",
     "time": "03/26/2019 - 3:50 PM",
