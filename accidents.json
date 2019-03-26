@@ -1,5 +1,13 @@
 [
   {
+    "address": "ALBERTSON PW & S MORGAN AV",
+    "city": "BROUSSARD",
+    "time": "03/26/2019 - 07:26 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1383,
+    "longitude": -91.96516
+  },
+  {
     "address": "212 GEORGIA ST",
     "city": "LAFAYETTE",
     "time": "03/26/2019 - 07:25 AM",
