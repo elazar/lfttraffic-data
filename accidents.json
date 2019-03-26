@@ -1,5 +1,21 @@
 [
   {
+    "address": "KALISTE SALOOM RD & N MEYERS DR",
+    "city": "LAFAYETTE",
+    "time": "03/26/2019 - 3:42 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15061,
+    "longitude": -92.05423
+  },
+  {
+    "address": "CARMEL DR & LAKE MARTIN RD",
+    "city": "LAFAYETTE",
+    "time": "03/26/2019 - 3:42 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.23332,
+    "longitude": -91.9785
+  },
+  {
     "address": "150 ALBARADO RD",
     "city": "LAFAYETTE",
     "time": "03/26/2019 - 3:33 PM",
