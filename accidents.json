@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & E LEWIS ST",
+    "city": "LAFAYETTE",
+    "time": "03/27/2019 - 11:44 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21228,
+    "longitude": -92.02543
+  },
+  {
     "address": "1559 MILLS ST",
     "city": "LAFAYETTE",
     "time": "03/27/2019 - 11:43 AM",
