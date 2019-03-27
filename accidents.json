@@ -1,5 +1,13 @@
 [
   {
+    "address": "JEFFERSON ST & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "03/27/2019 - 10:44 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2201,
+    "longitude": -92.0172
+  },
+  {
     "address": "4510 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "03/27/2019 - 10:41 AM",
