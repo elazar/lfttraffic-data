@@ -1,5 +1,13 @@
 [
   {
+    "address": "420 SETTLERS TRACE BL",
+    "city": "LAFAYETTE",
+    "time": "03/27/2019 - 10:11 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16527,
+    "longitude": -92.04522
+  },
+  {
     "address": "306 MALAPART RD",
     "city": "LAFAYETTE",
     "time": "03/27/2019 - 10:10 AM",
