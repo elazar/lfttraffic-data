@@ -1,5 +1,21 @@
 [
   {
+    "address": "ST LOUIS ST & ALFRED ST",
+    "city": "SCOTT",
+    "time": "03/27/2019 - 10:28 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.23891,
+    "longitude": -92.09396
+  },
+  {
+    "address": "1804 RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "03/27/2019 - 10:28 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.18161,
+    "longitude": -92.13875
+  },
+  {
     "address": "420 SETTLERS TRACE BL",
     "city": "LAFAYETTE",
     "time": "03/27/2019 - 10:11 AM",
