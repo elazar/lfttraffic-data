@@ -1,19 +1,19 @@
 [
   {
+    "address": "W BAYOU PW & S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "03/27/2019 - 6:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19915,
+    "longitude": -92.02663
+  },
+  {
     "address": "100 LOUVETEAU RD",
     "city": "LAFAYETTE",
     "time": "03/27/2019 - 5:47 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.3431549,
     "longitude": -92.0497969
-  },
-  {
-    "address": "US 90 EAST HW & ALBERTSON PW",
-    "city": "BROUSSARD",
-    "time": "03/27/2019 - 5:33 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.14074,
-    "longitude": -91.94576
   },
   {
     "address": "800 DUGAS RD",
