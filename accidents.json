@@ -1,5 +1,13 @@
 [
   {
+    "address": "139 TEURLINGS DR",
+    "city": "LAFAYETTE",
+    "time": "03/27/2019 - 2:42 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24034,
+    "longitude": -91.98984
+  },
+  {
     "address": "FATIMA",
     "city": "Lafayette",
     "time": "03/27/2019 - 2:30 PM",
