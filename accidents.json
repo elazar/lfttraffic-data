@@ -1,5 +1,13 @@
 [
   {
+    "address": "S DOMINGUE AV & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "03/26/2019 - 11:17 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.19586,
+    "longitude": -92.08353
+  },
+  {
     "address": "RIDGE RD & RUE DU BELIER",
     "city": "LAFAYETTE",
     "time": "03/26/2019 - 10:54 PM",
