@@ -1,5 +1,13 @@
 [
   {
+    "address": "GATEWAY DR & DUHON RD",
+    "city": "LAFAYETTE",
+    "time": "03/27/2019 - 07:29 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16698,
+    "longitude": -92.09666
+  },
+  {
     "address": "DUHON RD & GATEWAY DR",
     "city": "LAFAYETTE",
     "time": "03/27/2019 - 07:27 AM",
