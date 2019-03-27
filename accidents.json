@@ -1,5 +1,13 @@
 [
   {
+    "address": "1004 COOLIDGE ST",
+    "city": "LAFAYETTE",
+    "time": "03/27/2019 - 11:35 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20581,
+    "longitude": -92.01589
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & W SAUL DR",
     "city": "LAFAYETTE",
     "time": "03/27/2019 - 11:19 AM",
