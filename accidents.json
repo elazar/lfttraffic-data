@@ -1,5 +1,21 @@
 [
   {
+    "address": "J B RD & DULLES DR",
+    "city": "SCOTT",
+    "time": "03/27/2019 - 6:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21061,
+    "longitude": -92.09958
+  },
+  {
+    "address": "DULLES DR & J B RD",
+    "city": "SCOTT",
+    "time": "03/27/2019 - 6:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21061,
+    "longitude": -92.09958
+  },
+  {
     "address": "104 HUNTERS LN",
     "city": "LAFAYETTE",
     "time": "03/27/2019 - 6:06 PM",
@@ -14,13 +30,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.19915,
     "longitude": -92.02663
-  },
-  {
-    "address": "100 LOUVETEAU RD",
-    "city": "LAFAYETTE",
-    "time": "03/27/2019 - 5:47 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.3431549,
-    "longitude": -92.0497969
   }
 ]
