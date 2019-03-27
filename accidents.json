@@ -1,5 +1,13 @@
 [
   {
+    "address": "HAMMOND RD & S RICHTER DR",
+    "city": "LAFAYETTE",
+    "time": "03/27/2019 - 08:38 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25214,
+    "longitude": -92.02169
+  },
+  {
     "address": "2825 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "03/27/2019 - 08:32 AM",
