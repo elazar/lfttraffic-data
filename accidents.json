@@ -1,5 +1,13 @@
 [
   {
+    "address": "302 W MAIN ST",
+    "city": "BROUSSARD",
+    "time": "03/27/2019 - 2:23 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.14924,
+    "longitude": -91.96592
+  },
+  {
     "address": "4000 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "03/27/2019 - 2:16 PM",
