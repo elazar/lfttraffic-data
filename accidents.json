@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & BENDEL RD",
+    "city": "LAFAYETTE",
+    "time": "03/27/2019 - 11:36 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19911,
+    "longitude": -92.01641
+  },
+  {
     "address": "1004 COOLIDGE ST",
     "city": "LAFAYETTE",
     "time": "03/27/2019 - 11:35 AM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.2379,
     "longitude": -92.06484
-  },
-  {
-    "address": "KALISTE SALOOM RD & MEADOW FARM RD",
-    "city": "LAFAYETTE",
-    "time": "03/27/2019 - 11:17 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.15813,
-    "longitude": -92.04675
   },
   {
     "address": "JEFFERSON ST & JOHNSTON ST",
