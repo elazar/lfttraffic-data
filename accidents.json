@@ -1,5 +1,13 @@
 [
   {
+    "address": "2501 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "03/27/2019 - 5:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1501864,
+    "longitude": -92.0289695
+  },
+  {
     "address": "1600 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "03/27/2019 - 5:04 PM",
