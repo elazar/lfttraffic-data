@@ -1,5 +1,13 @@
 [
   {
+    "address": "VEROT SCHOOL RD & E FARREL RD",
+    "city": "LAFAYETTE",
+    "time": "03/27/2019 - 12:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14522,
+    "longitude": -92.03255
+  },
+  {
     "address": "JOHNSTON ST & W LEWIS ST",
     "city": "LAFAYETTE",
     "time": "03/27/2019 - 12:02 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21228,
     "longitude": -92.02543
-  },
-  {
-    "address": "1559 MILLS ST",
-    "city": "LAFAYETTE",
-    "time": "03/27/2019 - 11:43 AM",
-    "due_to": "Grass Fire",
-    "latitude": 30.2618029,
-    "longitude": -92.0912745
   },
   {
     "address": "W PINHOOK RD & BENDEL RD",
