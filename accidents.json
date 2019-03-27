@@ -1,5 +1,13 @@
 [
   {
+    "address": "104 HUNTERS LN",
+    "city": "LAFAYETTE",
+    "time": "03/27/2019 - 6:06 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.27449,
+    "longitude": -91.98178
+  },
+  {
     "address": "W BAYOU PW & S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "03/27/2019 - 6:02 PM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.3431549,
     "longitude": -92.0497969
-  },
-  {
-    "address": "800 DUGAS RD",
-    "city": "LAFAYETTE",
-    "time": "03/27/2019 - 4:52 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2833649,
-    "longitude": -92.0748711
   }
 ]
