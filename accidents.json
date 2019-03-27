@@ -1,5 +1,13 @@
 [
   {
+    "address": "0 FIRE DEPARTMENT",
+    "city": "LAFAYETTE",
+    "time": "03/27/2019 - 1:00 PM",
+    "due_to": "Grass Fire",
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "address": "JOHNSTON ST & OAKVIEW BL",
     "city": "LAFAYETTE",
     "time": "03/27/2019 - 12:18 PM",
