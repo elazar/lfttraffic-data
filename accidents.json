@@ -11,7 +11,7 @@
     "address": "AMBASSADOR CAFFERY PW & W SAUL DR",
     "city": "LAFAYETTE",
     "time": "03/27/2019 - 11:19 AM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.2379,
     "longitude": -92.06484
   },
@@ -38,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20727,
     "longitude": -92.03836
-  },
-  {
-    "address": "500 W WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "03/27/2019 - 10:39 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.24585,
-    "longitude": -92.02471
   },
   {
     "address": "100 I10 EASTBOUND MM100 HW",
