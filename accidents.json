@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & MARIE ANTOINETTE ST",
+    "city": "LAFAYETTE",
+    "time": "03/27/2019 - 1:16 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.20609,
+    "longitude": -92.05834
+  },
+  {
     "address": "0 FIRE DEPARTMENT",
     "city": "LAFAYETTE",
     "time": "03/27/2019 - 1:00 PM",
