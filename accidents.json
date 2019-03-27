@@ -1,5 +1,13 @@
 [
   {
+    "address": "3221 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "03/27/2019 - 12:12 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.266508,
+    "longitude": -91.99261
+  },
+  {
     "address": "VEROT SCHOOL RD & E FARREL RD",
     "city": "LAFAYETTE",
     "time": "03/27/2019 - 12:10 PM",
