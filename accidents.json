@@ -1,5 +1,13 @@
 [
   {
+    "address": "302 W MAIN ST",
+    "city": "BROUSSARD",
+    "time": "03/27/2019 - 07:07 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.14924,
+    "longitude": -91.96592
+  },
+  {
     "address": "LA NEUVILLE RD & BONIN RD",
     "city": "LAFAYETTE",
     "time": "03/27/2019 - 06:37 AM",
