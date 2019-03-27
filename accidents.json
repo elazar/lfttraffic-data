@@ -1,19 +1,11 @@
 [
   {
-    "address": "GATEWAY DR & DUHON RD",
-    "city": "LAFAYETTE",
-    "time": "03/27/2019 - 07:29 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.16698,
-    "longitude": -92.09666
-  },
-  {
-    "address": "DUHON RD & GATEWAY DR",
+    "address": "600 DUHON RD",
     "city": "LAFAYETTE",
     "time": "03/27/2019 - 07:27 AM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.16698,
-    "longitude": -92.09666
+    "latitude": 30.16729,
+    "longitude": -92.09992
   },
   {
     "address": "300 AVENUE B",
@@ -54,13 +46,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.14488,
     "longitude": -92.00774
-  },
-  {
-    "address": "200 AUSTRIA RD",
-    "city": "DUSON",
-    "time": "03/27/2019 - 06:33 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2430953,
-    "longitude": -92.1931749
   }
 ]
