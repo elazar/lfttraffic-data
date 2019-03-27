@@ -1,5 +1,13 @@
 [
   {
+    "address": "104 E KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "03/27/2019 - 6:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18915,
+    "longitude": -92.01316
+  },
+  {
     "address": "DULLES DR & J B RD",
     "city": "SCOTT",
     "time": "03/27/2019 - 6:30 PM",
@@ -16,11 +24,11 @@
     "longitude": -91.98178
   },
   {
-    "address": "W BAYOU PW & S COLLEGE RD",
+    "address": "1200 S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "03/27/2019 - 6:02 PM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.19915,
-    "longitude": -92.02663
+    "latitude": 30.19859,
+    "longitude": -92.02572
   }
 ]
