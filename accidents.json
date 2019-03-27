@@ -1,5 +1,13 @@
 [
   {
+    "address": "FATIMA",
+    "city": "Lafayette",
+    "time": "03/27/2019 - 2:30 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.33931,
+    "longitude": -92.07066
+  },
+  {
     "address": "225 BENDEL RD",
     "city": "LAFAYETTE",
     "time": "03/27/2019 - 2:28 PM",
