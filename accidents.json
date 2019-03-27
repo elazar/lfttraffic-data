@@ -1,5 +1,13 @@
 [
   {
+    "address": "E UNIVERSITY AV & HARDING ST",
+    "city": "LAFAYETTE",
+    "time": "03/27/2019 - 2:12 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21178,
+    "longitude": -92.01157
+  },
+  {
     "address": "KALISTE SALOOM RD & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "03/27/2019 - 2:06 PM",
