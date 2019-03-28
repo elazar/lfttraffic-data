@@ -1,5 +1,13 @@
 [
   {
+    "address": "HAMMOND RD & ANTELOPE CT",
+    "city": "LAFAYETTE",
+    "time": "03/28/2019 - 1:17 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.25202,
+    "longitude": -92.02082
+  },
+  {
     "address": "3142 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "03/28/2019 - 12:18 PM",
