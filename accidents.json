@@ -1,5 +1,13 @@
 [
   {
+    "address": "HECTOR CONNOLY RD & NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "03/28/2019 - 06:26 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.32261,
+    "longitude": -92.0325
+  },
+  {
     "address": "N UNIVERSITY AV & PREJEAN RD",
     "city": "CARENCRO",
     "time": "03/28/2019 - 06:18 AM",
