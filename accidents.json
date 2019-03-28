@@ -1,5 +1,13 @@
 [
   {
+    "address": "VINCENT RD & CLOVER LEAF DR",
+    "city": "LAFAYETTE",
+    "time": "03/28/2019 - 5:29 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13273,
+    "longitude": -92.0546
+  },
+  {
     "address": "RUE DU BELIER & RIDGE RD",
     "city": "LAFAYETTE",
     "time": "03/28/2019 - 5:16 PM",
@@ -56,12 +64,12 @@
     "longitude": -92.0526534
   },
   {
-    "address": "GUILBEAU RD & AMBASSADOR CAFFERY PW",
+    "address": "2600 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "03/28/2019 - 4:10 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.20248,
-    "longitude": -92.07527
+    "latitude": 30.2031518,
+    "longitude": -92.0754049
   },
   {
     "address": "RIDGE RD & POP CURLEY RD",
