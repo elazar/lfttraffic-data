@@ -78,13 +78,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23106,
     "longitude": -92.01377
-  },
-  {
-    "address": "RIDGE RD & POP CURLEY RD",
-    "city": "LAFAYETTE",
-    "time": "03/28/2019 - 2:55 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.18362,
-    "longitude": -92.16052
   }
 ]
