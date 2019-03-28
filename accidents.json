@@ -1,5 +1,21 @@
 [
   {
+    "address": "BENDEL RD & W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "03/28/2019 - 5:36 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19911,
+    "longitude": -92.01641
+  },
+  {
+    "address": "SE EVANGELINE TW & E PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "03/28/2019 - 5:36 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21749,
+    "longitude": -92.00495
+  },
+  {
     "address": "1700 SW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "03/28/2019 - 5:35 PM",
@@ -48,14 +64,6 @@
     "longitude": -92.03248
   },
   {
-    "address": "AMBASSADOR CAFFERY PW & S BERNARD RD",
-    "city": "BROUSSARD",
-    "time": "03/28/2019 - 5:02 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.13159,
-    "longitude": -91.96437
-  },
-  {
     "address": "798 E VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "03/28/2019 - 4:44 PM",
@@ -78,14 +86,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23106,
     "longitude": -92.01377
-  },
-  {
-    "address": "800 ERASTE LANDRY RD",
-    "city": "LAFAYETTE",
-    "time": "03/28/2019 - 4:12 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.2247381,
-    "longitude": -92.0526534
   },
   {
     "address": "2600 AMBASSADOR CAFFERY PW",
