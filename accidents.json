@@ -1,5 +1,13 @@
 [
   {
+    "address": "MYRTLE ST & S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "03/27/2019 - 7:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20499,
+    "longitude": -92.03557
+  },
+  {
     "address": "1001 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "03/27/2019 - 7:04 PM",
