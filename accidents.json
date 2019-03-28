@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & W PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "03/28/2019 - 10:58 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.27587,
+    "longitude": -92.04949
+  },
+  {
     "address": "100 W BLUEBIRD DR",
     "city": "LAFAYETTE",
     "time": "03/28/2019 - 10:52 AM",
