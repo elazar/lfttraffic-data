@@ -1,5 +1,13 @@
 [
   {
+    "address": "130 TUCKER DR",
+    "city": "LAFAYETTE",
+    "time": "03/28/2019 - 2:07 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.17498,
+    "longitude": -92.0735
+  },
+  {
     "address": "500 FOX RN",
     "city": "LAFAYETTE",
     "time": "03/28/2019 - 2:03 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21369,
     "longitude": -92.0296
-  },
-  {
-    "address": "JOHNSTON ST & CAMELLIA BL",
-    "city": "LAFAYETTE",
-    "time": "03/28/2019 - 1:37 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.19364,
-    "longitude": -92.0587
   },
   {
     "address": "3816 AMBASSADOR CAFFERY PW",
