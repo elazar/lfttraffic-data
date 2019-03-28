@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 ALTHEA DR",
+    "city": "LAFAYETTE",
+    "time": "03/28/2019 - 07:50 AM",
+    "due_to": "Hazard",
+    "latitude": 30.20721,
+    "longitude": -92.14229
+  },
+  {
     "address": "300 AVENUE B",
     "city": "YOUNGSVILLE",
     "time": "03/28/2019 - 07:23 AM",
@@ -30,14 +38,6 @@
     "due_to": "Traffic Control",
     "latitude": 30.14924,
     "longitude": -91.96592
-  },
-  {
-    "address": "106 BILLINGFORD DR",
-    "city": "LAFAYETTE",
-    "time": "03/28/2019 - 07:09 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15187,
-    "longitude": -92.01345
   },
   {
     "address": "300 NE EVANGELINE TW",
