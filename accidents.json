@@ -1,5 +1,13 @@
 [
   {
+    "address": "215 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "03/27/2019 - 9:05 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24462,
+    "longitude": -92.01603
+  },
+  {
     "address": "2433 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "03/27/2019 - 9:01 PM",
