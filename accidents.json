@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.14362,
     "longitude": -91.94369
-  },
-  {
-    "address": "1001 NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "03/27/2019 - 7:04 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.23683,
-    "longitude": -92.01315
   }
 ]
