@@ -23,7 +23,14 @@
     "latitude": 30.23106,
     "longitude": -92.01377
   },
-  null,
+  {
+    "address": "1600 N BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "03/28/2019 - 4:12 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.22855,
+    "longitude": -92.05174
+  },
   {
     "address": "GUILBEAU RD & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
