@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & TRAVIS ST",
+    "city": "LAFAYETTE",
+    "time": "03/28/2019 - 4:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20428,
+    "longitude": -92.01344
+  },
+  {
     "address": "NW EVANGELINE TW & E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "03/28/2019 - 4:29 PM",
