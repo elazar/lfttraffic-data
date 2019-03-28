@@ -1,5 +1,13 @@
 [
   {
+    "address": "2433 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "03/27/2019 - 9:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21255,
+    "longitude": -92.04901
+  },
+  {
     "address": "123 ST NAZAIRE RD",
     "city": "BROUSSARD",
     "time": "03/27/2019 - 8:43 PM",
