@@ -1,5 +1,13 @@
 [
   {
+    "address": "1418 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "03/28/2019 - 11:03 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21523,
+    "longitude": -92.02143
+  },
+  {
     "address": "N UNIVERSITY AV & W PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "03/28/2019 - 10:58 AM",
