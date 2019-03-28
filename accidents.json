@@ -32,12 +32,12 @@
     "longitude": -92.057
   },
   {
-    "address": "SE EVANGELINE TW & E VEROT SCHOOL RD",
+    "address": "798 E VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "03/28/2019 - 4:44 PM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.18268,
-    "longitude": -91.99006
+    "latitude": 30.1820571,
+    "longitude": -91.9904678
   },
   {
     "address": "W PINHOOK RD & TRAVIS ST",
@@ -70,14 +70,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20248,
     "longitude": -92.07527
-  },
-  {
-    "address": "1408 CARMEL DR",
-    "city": "LAFAYETTE",
-    "time": "03/28/2019 - 3:31 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23252,
-    "longitude": -91.98661
   },
   {
     "address": "RIDGE RD & POP CURLEY RD",
