@@ -6,21 +6,5 @@
     "due_to": "Traffic Control",
     "latitude": 30.14924,
     "longitude": -91.96592
-  },
-  {
-    "address": "106 HENRY ST",
-    "city": "LAFAYETTE",
-    "time": "03/28/2019 - 1:53 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21369,
-    "longitude": -92.0296
-  },
-  {
-    "address": "3816 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "03/28/2019 - 1:18 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1684863,
-    "longitude": -92.0631248
   }
 ]
