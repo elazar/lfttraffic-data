@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & PREJEAN RD",
+    "city": "CARENCRO",
+    "time": "03/28/2019 - 06:18 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.30943,
+    "longitude": -92.04946
+  },
+  {
     "address": "N UNIVERSITY AV & W PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "03/28/2019 - 06:17 AM",
