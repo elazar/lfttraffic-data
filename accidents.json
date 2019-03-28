@@ -1,5 +1,13 @@
 [
   {
+    "address": "1408 CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "03/28/2019 - 3:31 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23252,
+    "longitude": -91.98661
+  },
+  {
     "address": "RIDGE RD & POP CURLEY RD",
     "city": "LAFAYETTE",
     "time": "03/28/2019 - 2:55 PM",
