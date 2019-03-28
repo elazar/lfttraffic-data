@@ -78,13 +78,5 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.27587,
     "longitude": -92.04949
-  },
-  {
-    "address": "RIDGE RD & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "03/28/2019 - 06:31 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18135,
-    "longitude": -92.07501
   }
 ]
