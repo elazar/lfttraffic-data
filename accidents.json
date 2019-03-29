@@ -1,5 +1,21 @@
 [
   {
+    "address": "ACADIAN HILLS LN & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "03/29/2019 - 5:38 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.26148,
+    "longitude": -92.01855
+  },
+  {
+    "address": "9103 CAMERON ST",
+    "city": "DUSON",
+    "time": "03/29/2019 - 5:38 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.23486,
+    "longitude": -92.18484
+  },
+  {
     "address": "ALEMEDA ST & NW FRONTAGE RD",
     "city": "LAFAYETTE",
     "time": "03/29/2019 - 5:34 PM",
