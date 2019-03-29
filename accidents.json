@@ -1,5 +1,13 @@
 [
   {
+    "address": "302 W MAIN ST",
+    "city": "Lafayette",
+    "time": "03/29/2019 - 2:33 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.2230449,
+    "longitude": -92.0209788
+  },
+  {
     "address": "4040 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "03/29/2019 - 2:25 PM",
