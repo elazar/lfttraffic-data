@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & COLORADO RD",
+    "city": "LAFAYETTE",
+    "time": "03/29/2019 - 4:59 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.20264,
+    "longitude": -92.06358
+  },
+  {
     "address": "116 PELLERIN RD",
     "city": "SCOTT",
     "time": "03/29/2019 - 4:49 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18268,
     "longitude": -91.99006
-  },
-  {
-    "address": "3016 E MILTON AV",
-    "city": "YOUNGSVILLE",
-    "time": "03/29/2019 - 4:29 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.10909,
-    "longitude": -92.0116
   },
   {
     "address": "215 W WILLOW ST",
