@@ -1,21 +1,5 @@
 [
   {
-    "address": "173 S BEADLE RD",
-    "city": "LAFAYETTE",
-    "time": "03/29/2019 - 08:32 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17645,
-    "longitude": -92.01628
-  },
-  {
-    "address": "2903 US 90 EAST HW",
-    "city": "LAFAYETTE",
-    "time": "03/29/2019 - 07:47 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17661,
-    "longitude": -91.98362
-  },
-  {
     "address": "2830 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "03/29/2019 - 07:34 AM",
