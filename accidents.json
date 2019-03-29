@@ -1,5 +1,13 @@
 [
   {
+    "address": "1910 S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "03/28/2019 - 9:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19222,
+    "longitude": -92.00901
+  },
+  {
     "address": "2428 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "03/28/2019 - 9:17 PM",
