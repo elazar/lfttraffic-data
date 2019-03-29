@@ -1,5 +1,21 @@
 [
   {
+    "address": "920 W GLORIA SWITCH RD",
+    "city": "CARENCRO",
+    "time": "03/29/2019 - 5:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29841,
+    "longitude": -92.04849
+  },
+  {
+    "address": "300 RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "03/29/2019 - 5:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18186,
+    "longitude": -92.08133
+  },
+  {
     "address": "W CONGRESS ST & COLORADO RD",
     "city": "LAFAYETTE",
     "time": "03/29/2019 - 4:59 PM",
