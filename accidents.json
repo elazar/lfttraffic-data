@@ -24,12 +24,12 @@
     "longitude": -92.05889
   },
   {
-    "address": "KALISTE SALOOM RD & W PINHOOK RD",
+    "address": "1900 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "03/29/2019 - 2:20 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.1886,
-    "longitude": -92.0141
+    "latitude": 30.18851,
+    "longitude": -92.01417
   },
   {
     "address": "3201 LOUISIANA AV",
@@ -46,13 +46,5 @@
     "due_to": "Wire Hazard",
     "latitude": 30.3119,
     "longitude": -92.03851
-  },
-  {
-    "address": "2500 N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "03/29/2019 - 11:43 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.270984,
-    "longitude": -92.0466684
   }
 ]
