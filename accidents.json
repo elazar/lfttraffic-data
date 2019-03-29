@@ -1,9 +1,17 @@
 [
   {
+    "address": "CAMERON ST & SUNSET ST",
+    "city": "SCOTT",
+    "time": "03/29/2019 - 10:00 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23351,
+    "longitude": -92.09834
+  },
+  {
     "address": "YOUNGSVILLE HW & W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "03/29/2019 - 09:59 AM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.16071,
     "longitude": -91.99107
   },
