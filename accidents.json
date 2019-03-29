@@ -1,5 +1,13 @@
 [
   {
+    "address": "102 GARDEN GROVE DR",
+    "city": "LAFAYETTE",
+    "time": "03/28/2019 - 8:57 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.18891,
+    "longitude": -92.08447
+  },
+  {
     "address": "ELYSIAN FIELDS DR & LITTLETON CROSSING",
     "city": "LAFAYETTE",
     "time": "03/28/2019 - 8:07 PM",
