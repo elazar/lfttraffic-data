@@ -1,5 +1,13 @@
 [
   {
+    "address": "1700 BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "03/29/2019 - 3:34 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.22581,
+    "longitude": -92.05625
+  },
+  {
     "address": "5700 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "03/29/2019 - 3:28 PM",
