@@ -1,19 +1,19 @@
 [
   {
+    "address": "104 WILLIAM O STUTES ST",
+    "city": "LAFAYETTE",
+    "time": "03/29/2019 - 10:35 AM",
+    "due_to": "Dumpster Fire",
+    "latitude": 30.18521,
+    "longitude": -92.07681
+  },
+  {
     "address": "NW EVANGELINE TW & VETERANS DR",
     "city": "CARENCRO",
     "time": "03/29/2019 - 10:20 AM",
     "due_to": "Road Hazard",
     "latitude": 30.32204,
     "longitude": -92.03574
-  },
-  {
-    "address": "4 I49 SOUTHBOUND MM4 HW",
-    "city": "LAFAYETTE",
-    "time": "03/29/2019 - 10:18 AM",
-    "due_to": "Hazard",
-    "latitude": 30.28006,
-    "longitude": -92.02024
   },
   {
     "address": "ROBLEY DR & AMBASSADOR CAFFERY PW",
