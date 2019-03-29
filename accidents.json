@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "200 RENAUD DR",
+    "city": "LAFAYETTE",
+    "time": "03/29/2019 - 04:20 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.2543882,
+    "longitude": -92.0432365
+  }
+]
