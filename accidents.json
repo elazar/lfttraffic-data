@@ -16,14 +16,6 @@
     "longitude": -91.98362
   },
   {
-    "address": "300 AVENUE B",
-    "city": "YOUNGSVILLE",
-    "time": "03/29/2019 - 07:42 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.09606,
-    "longitude": -91.9938
-  },
-  {
     "address": "2830 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "03/29/2019 - 07:34 AM",
@@ -38,14 +30,6 @@
     "due_to": "Traffic Control",
     "latitude": 30.09923,
     "longitude": -91.99578
-  },
-  {
-    "address": "302 W MAIN ST",
-    "city": "BROUSSARD",
-    "time": "03/29/2019 - 07:11 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.14924,
-    "longitude": -91.96592
   },
   {
     "address": "200 RENAUD DR",
