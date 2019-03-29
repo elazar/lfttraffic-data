@@ -1,5 +1,21 @@
 [
   {
+    "address": "KALISTE SALOOM RD & W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "03/29/2019 - 2:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1886,
+    "longitude": -92.0141
+  },
+  {
+    "address": "3201 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "03/29/2019 - 2:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26447,
+    "longitude": -91.9931
+  },
+  {
     "address": "306 RAMPART ST",
     "city": "CARENCRO",
     "time": "03/29/2019 - 2:18 PM",
