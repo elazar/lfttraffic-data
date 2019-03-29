@@ -1,5 +1,13 @@
 [
   {
+    "address": "5700 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "03/29/2019 - 3:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1755,
+    "longitude": -92.07745
+  },
+  {
     "address": "600 CHURCH ST",
     "city": "YOUNGSVILLE",
     "time": "03/29/2019 - 2:54 PM",
@@ -30,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16486,
     "longitude": -92.05889
-  },
-  {
-    "address": "3201 LOUISIANA AV",
-    "city": "LAFAYETTE",
-    "time": "03/29/2019 - 2:19 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.26447,
-    "longitude": -91.9931
   }
 ]
