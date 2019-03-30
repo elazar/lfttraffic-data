@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1420 FORTUNE RD",
+    "city": "YOUNGSVILLE",
+    "time": "03/30/2019 - 02:27 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.12179,
+    "longitude": -91.99286
+  }
+]
