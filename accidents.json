@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22345,
     "longitude": -92.0221
-  },
-  {
-    "address": "WALLACE BROUSSARD RD & HECTOR CONNOLY RD",
-    "city": "CARENCRO",
-    "time": "03/30/2019 - 06:35 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.32238,
-    "longitude": -92.02496
   }
 ]
