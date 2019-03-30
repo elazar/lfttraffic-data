@@ -1,5 +1,13 @@
 [
   {
+    "address": "I10 WESTBOUND MM104 HW & MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "03/30/2019 - 10:48 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27897,
+    "longitude": -92.00778
+  },
+  {
     "address": "3747 MOSS ST",
     "city": "LAFAYETTE",
     "time": "03/30/2019 - 10:38 AM",
