@@ -1,5 +1,13 @@
 [
   {
+    "address": "1400 N BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "03/29/2019 - 8:36 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22402,
+    "longitude": -92.0514
+  },
+  {
     "address": "217 SHERWOOD DR",
     "city": "LAFAYETTE",
     "time": "03/29/2019 - 8:30 PM",
