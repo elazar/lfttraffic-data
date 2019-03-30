@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "NW EVANGELINE TW & E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "03/30/2019 - 06:29 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23106,
+    "longitude": -92.01377
+  }
+]
