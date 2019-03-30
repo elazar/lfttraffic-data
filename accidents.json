@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 HAROLYN PARK DR",
+    "city": "LAFAYETTE",
+    "time": "03/30/2019 - 4:43 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.19857,
+    "longitude": -92.0325
+  },
+  {
     "address": "VEROT SCHOOL RD & MILLCREEK RD",
     "city": "LAFAYETTE",
     "time": "03/30/2019 - 4:04 PM",
