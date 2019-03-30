@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 RUBY ST",
+    "city": "LAFAYETTE",
+    "time": "03/30/2019 - 10:51 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16223,
+    "longitude": -91.99737
+  },
+  {
     "address": "I10 WESTBOUND MM104 HW & MOSS ST",
     "city": "LAFAYETTE",
     "time": "03/30/2019 - 10:48 AM",
