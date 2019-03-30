@@ -1,5 +1,13 @@
 [
   {
+    "address": "N WASHINGTON ST & MADELINE AV",
+    "city": "LAFAYETTE",
+    "time": "03/30/2019 - 10:07 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23816,
+    "longitude": -92.02173
+  },
+  {
     "address": "310 YOUNGSVILLE HW",
     "city": "LAFAYETTE",
     "time": "03/30/2019 - 09:52 AM",
