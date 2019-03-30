@@ -1,5 +1,13 @@
 [
   {
+    "address": "401 W VERMILION ST",
+    "city": "LAFAYETTE",
+    "time": "03/30/2019 - 07:19 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22345,
+    "longitude": -92.0221
+  },
+  {
     "address": "WALLACE BROUSSARD RD & HECTOR CONNOLY RD",
     "city": "CARENCRO",
     "time": "03/30/2019 - 06:35 AM",
