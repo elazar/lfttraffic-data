@@ -1,5 +1,13 @@
 [
   {
+    "address": "PLAZA VILLAGE DR & PANDORA ST",
+    "city": "LAFAYETTE",
+    "time": "03/30/2019 - 1:56 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20283,
+    "longitude": -92.06703
+  },
+  {
     "address": "92 I10 EASTBOUND MM92 HW",
     "city": "Lafayette",
     "time": "03/30/2019 - 1:54 PM",
