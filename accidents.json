@@ -1,11 +1,27 @@
 [
   {
-    "address": "100 RUBY ST",
+    "address": "300 THORNTON ST",
+    "city": "LAFAYETTE",
+    "time": "03/30/2019 - 11:23 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24916,
+    "longitude": -92.03032
+  },
+  {
+    "address": "103 I10 WB EXIT RAMP HW",
+    "city": "LAFAYETTE",
+    "time": "03/30/2019 - 11:23 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
+    "address": "167 BONIN RD",
     "city": "LAFAYETTE",
     "time": "03/30/2019 - 10:51 AM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.16223,
-    "longitude": -91.99737
+    "latitude": 30.1627083,
+    "longitude": -91.9970406
   },
   {
     "address": "3747 MOSS ST",
