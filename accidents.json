@@ -1,5 +1,13 @@
 [
   {
+    "address": "3747 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "03/30/2019 - 10:38 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27253,
+    "longitude": -92.00878
+  },
+  {
     "address": "N WASHINGTON ST & MADELINE AV",
     "city": "LAFAYETTE",
     "time": "03/30/2019 - 10:07 AM",
