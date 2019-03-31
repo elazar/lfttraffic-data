@@ -1,11 +1,19 @@
 [
   {
-    "address": "AMBASSADOR CAFFERY PW & BERTRAND DR",
+    "address": "W UNIVERSITY AV & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "03/31/2019 - 2:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21729,
+    "longitude": -92.01902
+  },
+  {
+    "address": "1200 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "03/31/2019 - 2:38 PM",
     "due_to": "Stalled Vehicle",
-    "latitude": 30.22941,
-    "longitude": -92.06262
+    "latitude": 30.22548,
+    "longitude": -92.06972
   },
   {
     "address": "3200 AMBASSADOR CAFFERY PW",
