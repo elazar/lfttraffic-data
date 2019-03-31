@@ -1,5 +1,13 @@
 [
   {
+    "address": "1601 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "03/30/2019 - 10:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16459,
+    "longitude": -92.01994
+  },
+  {
     "address": "NW EVANGELINE TW & DONLON AV",
     "city": "LAFAYETTE",
     "time": "03/30/2019 - 10:03 PM",
