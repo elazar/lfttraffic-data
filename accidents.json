@@ -1,5 +1,13 @@
 [
   {
+    "address": "MCDONALD ST & MARIE ANTOINETTE ST",
+    "city": "LAFAYETTE",
+    "time": "03/30/2019 - 10:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21125,
+    "longitude": -92.06373
+  },
+  {
     "address": "3227 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "03/30/2019 - 10:15 PM",
