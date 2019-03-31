@@ -1,5 +1,13 @@
 [
   {
+    "address": "1001 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "03/31/2019 - 02:30 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23683,
+    "longitude": -92.01315
+  },
+  {
     "address": "W FARREL RD & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "03/30/2019 - 11:50 PM",
