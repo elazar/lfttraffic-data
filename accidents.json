@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 ARNOULD BL",
+    "city": "LAFAYETTE",
+    "time": "03/31/2019 - 12:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20307,
+    "longitude": -92.05334
+  },
+  {
     "address": "DIGBY AV & VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "03/31/2019 - 12:15 PM",
