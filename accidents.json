@@ -1,11 +1,19 @@
 [
   {
-    "address": "2428 W PINHOOK RD",
+    "address": "AMBASSADOR CAFFERY PW & RIDGE RD",
     "city": "LAFAYETTE",
-    "time": "03/31/2019 - 11:05 AM",
+    "time": "03/31/2019 - 11:11 AM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.17846,
-    "longitude": -92.00551
+    "latitude": 30.18135,
+    "longitude": -92.07501
+  },
+  {
+    "address": "3002 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "03/31/2019 - 11:11 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13775,
+    "longitude": -92.03312
   },
   {
     "address": "JOHNSTON ST & GUILBEAU RD",
