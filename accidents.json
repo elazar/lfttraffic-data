@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "3806 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "03/30/2019 - 7:12 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.17072,
+    "longitude": -92.06613
+  }
+]
