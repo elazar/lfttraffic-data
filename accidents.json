@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 ACORN DR",
+    "city": "LAFAYETTE",
+    "time": "03/30/2019 - 10:29 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.28194,
+    "longitude": -92.00188
+  },
+  {
     "address": "MCDONALD ST & MARIE ANTOINETTE ST",
     "city": "LAFAYETTE",
     "time": "03/30/2019 - 10:22 PM",
