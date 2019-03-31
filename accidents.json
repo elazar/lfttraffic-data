@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & GUILBEAU RD",
+    "city": "LAFAYETTE",
+    "time": "03/31/2019 - 09:51 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19375,
+    "longitude": -92.0586
+  },
+  {
     "address": "US 90 EAST HW & N SOUTHPARK RD",
     "city": "LAFAYETTE",
     "time": "03/31/2019 - 09:41 AM",
