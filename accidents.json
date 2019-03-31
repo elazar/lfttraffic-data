@@ -1,5 +1,13 @@
 [
   {
+    "address": "1408 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "03/30/2019 - 10:11 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.2459,
+    "longitude": -92.03998
+  },
+  {
     "address": "1601 VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "03/30/2019 - 10:10 PM",
