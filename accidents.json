@@ -1,5 +1,13 @@
 [
   {
+    "address": "403 S PIERCE ST",
+    "city": "LAFAYETTE",
+    "time": "03/31/2019 - 2:59 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23053,
+    "longitude": -92.01851
+  },
+  {
     "address": "W UNIVERSITY AV & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "03/31/2019 - 2:39 PM",
