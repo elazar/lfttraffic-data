@@ -1,5 +1,13 @@
 [
   {
+    "address": "DIGBY AV & VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "03/31/2019 - 12:15 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.15267,
+    "longitude": -92.02665
+  },
+  {
     "address": "2829 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "03/31/2019 - 12:00 PM",
