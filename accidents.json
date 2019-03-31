@@ -6,13 +6,5 @@
     "due_to": "Residential Fire",
     "latitude": 30.12372,
     "longitude": -92.03243
-  },
-  {
-    "address": "119 MAPLE GROVE LN",
-    "city": "LAFAYETTE",
-    "time": "03/31/2019 - 08:14 AM",
-    "due_to": "Incoming Call",
-    "latitude": 30.1204,
-    "longitude": -92.02963
   }
 ]
