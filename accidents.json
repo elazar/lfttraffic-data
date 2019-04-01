@@ -1,19 +1,19 @@
 [
   {
-    "address": "1512 LOUISIANA AV",
+    "address": "1121 MUDD AV",
     "city": "LAFAYETTE",
-    "time": "04/01/2019 - 5:19 PM",
-    "due_to": "Trash Fire",
-    "latitude": 30.23733,
-    "longitude": -92.00036
+    "time": "04/01/2019 - 5:21 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.23254,
+    "longitude": -92.00426
   },
   {
-    "address": "700 PANDORA ST",
+    "address": "1512 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "04/01/2019 - 5:17 PM",
     "due_to": "Fire Investigation",
-    "latitude": 30.20434,
-    "longitude": -92.06587
+    "latitude": 30.23733,
+    "longitude": -92.00036
   },
   {
     "address": "SYCAMORE DR & BIRCH DR",
