@@ -1,5 +1,13 @@
 [
   {
+    "address": "319 VERDUN ST",
+    "city": "LAFAYETTE",
+    "time": "04/01/2019 - 5:55 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23294,
+    "longitude": -92.00171
+  },
+  {
     "address": "SW EVANGELINE TW & E UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "04/01/2019 - 5:50 PM",
