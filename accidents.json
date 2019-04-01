@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "04/01/2019 - 12:25 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21493,
+    "longitude": -92.04696
+  },
+  {
     "address": "BERTRAND DR & ERASTE LANDRY RD",
     "city": "LAFAYETTE",
     "time": "04/01/2019 - 12:23 PM",
