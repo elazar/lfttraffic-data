@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & HOLLYWOOD DR",
+    "city": "LAFAYETTE",
+    "time": "04/01/2019 - 07:04 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.24945,
+    "longitude": -92.03517
+  },
+  {
     "address": "1001 LA 182 HW",
     "city": "BROUSSARD",
     "time": "04/01/2019 - 06:51 AM",
