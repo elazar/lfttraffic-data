@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 GREENHAVEN DR",
+    "city": "LAFAYETTE",
+    "time": "04/01/2019 - 08:14 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14342,
+    "longitude": -92.01894
+  },
+  {
     "address": "MEADOW LN & JACQUELINE ST",
     "city": "LAFAYETTE",
     "time": "04/01/2019 - 07:58 AM",
