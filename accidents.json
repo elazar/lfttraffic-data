@@ -1,5 +1,13 @@
 [
   {
+    "address": "YOUNG ST & S LARRIVIERE RD",
+    "city": "YOUNGSVILLE",
+    "time": "04/01/2019 - 05:55 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.10198,
+    "longitude": -91.97365
+  },
+  {
     "address": "SW EVANGELINE TW & E PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "04/01/2019 - 05:54 AM",
