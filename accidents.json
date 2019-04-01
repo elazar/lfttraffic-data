@@ -1,5 +1,13 @@
 [
   {
+    "address": "BERTRAND DR & ERASTE LANDRY RD",
+    "city": "LAFAYETTE",
+    "time": "04/01/2019 - 12:23 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22405,
+    "longitude": -92.05469
+  },
+  {
     "address": "1214 COOLIDGE ST",
     "city": "LAFAYETTE",
     "time": "04/01/2019 - 12:21 PM",
