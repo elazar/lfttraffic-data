@@ -1,5 +1,21 @@
 [
   {
+    "address": "SW EVANGELINE TW & E UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "04/01/2019 - 5:50 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.20908,
+    "longitude": -92.00007
+  },
+  {
+    "address": "E AMEDEE DR & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "04/01/2019 - 5:50 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2402,
+    "longitude": -92.06593
+  },
+  {
     "address": "207 CHADWICK DR",
     "city": "LAFAYETTE",
     "time": "04/01/2019 - 5:48 PM",
