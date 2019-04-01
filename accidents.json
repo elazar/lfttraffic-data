@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 GIRARD PARK CL",
+    "city": "LAFAYETTE",
+    "time": "04/01/2019 - 3:52 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.207894,
+    "longitude": -92.0208033
+  },
+  {
     "address": "JOHNSTON ST & CAJUNDOME BL",
     "city": "LAFAYETTE",
     "time": "04/01/2019 - 3:48 PM",
