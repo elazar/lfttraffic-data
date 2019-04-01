@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 CHURCH ST",
+    "city": "YOUNGSVILLE",
+    "time": "04/01/2019 - 07:26 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.09923,
+    "longitude": -91.99578
+  },
+  {
     "address": "302 W MAIN ST",
     "city": "BROUSSARD",
     "time": "04/01/2019 - 07:10 AM",
