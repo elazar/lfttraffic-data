@@ -1,5 +1,13 @@
 [
   {
+    "address": "4792 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/01/2019 - 2:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18619,
+    "longitude": -92.06709
+  },
+  {
     "address": "LOUISIANA AV & CARMEL DR",
     "city": "LAFAYETTE",
     "time": "04/01/2019 - 2:25 PM",
