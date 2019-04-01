@@ -1,5 +1,13 @@
 [
   {
+    "address": "440 HEIDE CL",
+    "city": "LAFAYETTE",
+    "time": "03/31/2019 - 8:18 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2645461,
+    "longitude": -92.0748849
+  },
+  {
     "address": "99 I10 EASTBOUND MM99 HW",
     "city": "SCOTT",
     "time": "03/31/2019 - 7:23 PM",
