@@ -1,5 +1,13 @@
 [
   {
+    "address": "114 CASCADE RD",
+    "city": "LAFAYETTE",
+    "time": "04/01/2019 - 6:05 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.1636319,
+    "longitude": -92.1984706
+  },
+  {
     "address": "6722 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "04/01/2019 - 6:02 PM",
