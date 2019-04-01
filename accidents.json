@@ -1,5 +1,13 @@
 [
   {
+    "address": "418 S MAGNOLIA ST",
+    "city": "LAFAYETTE",
+    "time": "04/01/2019 - 6:40 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.22572,
+    "longitude": -92.00835
+  },
+  {
     "address": "S MAGNOLIA ST & LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "04/01/2019 - 6:39 PM",
