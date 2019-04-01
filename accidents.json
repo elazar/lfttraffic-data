@@ -1,5 +1,13 @@
 [
   {
+    "address": "S RICHFIELD RD & RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "04/01/2019 - 2:47 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.18093,
+    "longitude": -92.17572
+  },
+  {
     "address": "100 GIRARD PARK DR",
     "city": "LAFAYETTE",
     "time": "04/01/2019 - 2:44 PM",
