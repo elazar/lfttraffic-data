@@ -1,5 +1,13 @@
 [
   {
+    "address": "302 W MAIN ST",
+    "city": "Lafayette",
+    "time": "04/01/2019 - 2:19 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.2230449,
+    "longitude": -92.0209788
+  },
+  {
     "address": "POLLY LN & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "04/01/2019 - 2:01 PM",
