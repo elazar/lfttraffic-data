@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "211 HAZEL ST",
+    "city": "LAFAYETTE",
+    "time": "04/01/2019 - 1:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22855,
+    "longitude": -92.0014
+  }
+]
