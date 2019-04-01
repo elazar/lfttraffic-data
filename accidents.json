@@ -1,5 +1,21 @@
 [
   {
+    "address": "BEAU BASSIN RD & BEAU BASSIN BRIDGE",
+    "city": "LAFAYETTE",
+    "time": "04/01/2019 - 11:37 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.32216,
+    "longitude": -91.99972
+  },
+  {
+    "address": "CAMELLIA BL & SILVERSTONE RD",
+    "city": "LAFAYETTE",
+    "time": "04/01/2019 - 11:36 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17311,
+    "longitude": -92.04017
+  },
+  {
     "address": "KALISTE SALOOM RD & E BROUSSARD RD",
     "city": "LAFAYETTE",
     "time": "04/01/2019 - 11:26 AM",
