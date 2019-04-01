@@ -1,5 +1,13 @@
 [
   {
+    "address": "700 PANDORA ST",
+    "city": "LAFAYETTE",
+    "time": "04/01/2019 - 5:17 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.20434,
+    "longitude": -92.06587
+  },
+  {
     "address": "SYCAMORE DR & BIRCH DR",
     "city": "LAFAYETTE",
     "time": "04/01/2019 - 5:11 PM",
