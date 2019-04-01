@@ -1,5 +1,21 @@
 [
   {
+    "address": "100 GIRARD PARK DR",
+    "city": "LAFAYETTE",
+    "time": "04/01/2019 - 2:44 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.2100534,
+    "longitude": -92.0163099
+  },
+  {
+    "address": "FATIMA",
+    "city": "Lafayette",
+    "time": "04/01/2019 - 2:43 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.33931,
+    "longitude": -92.07066
+  },
+  {
     "address": "N UNIVERSITY AV & WINDMILL LN",
     "city": "LAFAYETTE",
     "time": "04/01/2019 - 2:34 PM",
