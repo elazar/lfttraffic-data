@@ -1,5 +1,13 @@
 [
   {
+    "address": "2426 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "04/01/2019 - 8:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21379,
+    "longitude": -92.04917
+  },
+  {
     "address": "308 SIDNEY MARTIN RD",
     "city": "LAFAYETTE",
     "time": "04/01/2019 - 8:10 PM",
