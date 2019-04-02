@@ -1,5 +1,13 @@
 [
   {
+    "address": "311 GROSSIE DR",
+    "city": "LAFAYETTE",
+    "time": "04/02/2019 - 6:23 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.2374,
+    "longitude": -91.98218
+  },
+  {
     "address": "312 JEFFERSON BL",
     "city": "LAFAYETTE",
     "time": "04/02/2019 - 6:22 PM",
@@ -16,14 +24,6 @@
     "longitude": -92.04639
   },
   {
-    "address": "1701 N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "04/02/2019 - 5:17 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.25216,
-    "longitude": -92.03842
-  },
-  {
     "address": "W WILLOW ST & N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "04/02/2019 - 5:14 PM",
@@ -38,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17072,
     "longitude": -92.06613
-  },
-  {
-    "address": "2678 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "04/02/2019 - 5:06 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20852,
-    "longitude": -92.03842
   }
 ]
