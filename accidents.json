@@ -1,11 +1,11 @@
 [
   {
-    "address": "139 TEURLINGS DR",
-    "city": "LAFAYETTE",
-    "time": "04/02/2019 - 3:06 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24034,
-    "longitude": -91.98984
+    "address": "600 CHURCH ST",
+    "city": "YOUNGSVILLE",
+    "time": "04/02/2019 - 3:08 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.09923,
+    "longitude": -91.99578
   },
   {
     "address": "105 ST NAZAIRE RD",
@@ -30,21 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20215,
     "longitude": -92.01846
-  },
-  {
-    "address": "302 W MAIN ST",
-    "city": "Lafayette",
-    "time": "04/02/2019 - 2:25 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.2230449,
-    "longitude": -92.0209788
-  },
-  {
-    "address": "611 LAGNEAUX RD",
-    "city": "LAFAYETTE",
-    "time": "04/02/2019 - 2:15 PM",
-    "due_to": "Grass Fire",
-    "latitude": 30.17895,
-    "longitude": -92.12457
   }
 ]
