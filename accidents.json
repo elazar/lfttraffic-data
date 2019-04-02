@@ -1,5 +1,13 @@
 [
   {
+    "address": "MCKINLEY ST & E UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "04/02/2019 - 3:38 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21425,
+    "longitude": -92.01489
+  },
+  {
     "address": "600 CHURCH ST",
     "city": "YOUNGSVILLE",
     "time": "04/02/2019 - 3:08 PM",
