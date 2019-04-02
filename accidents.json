@@ -1,5 +1,13 @@
 [
   {
+    "address": "400 AUSTRIA RD",
+    "city": "DUSON",
+    "time": "04/02/2019 - 2:28 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.24242,
+    "longitude": -92.19316
+  },
+  {
     "address": "302 W MAIN ST",
     "city": "Lafayette",
     "time": "04/02/2019 - 2:25 PM",
