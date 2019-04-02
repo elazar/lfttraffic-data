@@ -2,6 +2,14 @@
   {
     "address": "W CONGRESS ST & CAJUNDOME BL",
     "city": "LAFAYETTE",
+    "time": "04/02/2019 - 1:41 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.21871,
+    "longitude": -92.04139
+  },
+  {
+    "address": "W CONGRESS ST & CAJUNDOME BL",
+    "city": "LAFAYETTE",
     "time": "04/02/2019 - 1:40 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.21871,
