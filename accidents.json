@@ -48,20 +48,12 @@
     "longitude": -91.99058
   },
   {
-    "address": "2100 E MILTON AV",
-    "city": "YOUNGSVILLE",
-    "time": "04/02/2019 - 07:40 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1091951,
-    "longitude": -92.0318337
-  },
-  {
-    "address": "4801 AMBASSADOR CAFFERY PW",
+    "address": "200 FREM BOUSTANY DR",
     "city": "LAFAYETTE",
     "time": "04/02/2019 - 07:32 AM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.15051,
-    "longitude": -92.03698
+    "latitude": 30.1500957,
+    "longitude": -92.0403912
   },
   {
     "address": "100 GUIDRY RD",
