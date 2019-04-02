@@ -54,13 +54,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.23236,
     "longitude": -92.03238
-  },
-  {
-    "address": "105 I10 EB ENTRANCE RAMP HW",
-    "city": "LAFAYETTE",
-    "time": "04/02/2019 - 4:59 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.26255,
-    "longitude": -92.00867
   }
 ]
