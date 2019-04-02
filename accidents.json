@@ -1,5 +1,13 @@
 [
   {
+    "address": "302 W MAIN ST",
+    "city": "Lafayette",
+    "time": "04/02/2019 - 2:25 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.2230449,
+    "longitude": -92.0209788
+  },
+  {
     "address": "312 ALMONASTER RD",
     "city": "YOUNGSVILLE",
     "time": "04/02/2019 - 2:22 PM",
