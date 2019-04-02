@@ -1,5 +1,13 @@
 [
   {
+    "address": "104 I10 EASTBOUND MM104 HW",
+    "city": "LAFAYETTE",
+    "time": "04/02/2019 - 09:16 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "JOHNSTON ST & CAMELLIA BL",
     "city": "LAFAYETTE",
     "time": "04/02/2019 - 09:10 AM",
