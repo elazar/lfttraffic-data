@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & SOUTHPARK RD",
+    "city": "LAFAYETTE",
+    "time": "04/02/2019 - 1:39 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.17092,
+    "longitude": -91.98031
+  },
+  {
     "address": "W CONGRESS ST & BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "04/02/2019 - 1:06 PM",
