@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "04/02/2019 - 07:50 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1933318,
+    "longitude": -92.0585573
+  },
+  {
     "address": "NW EVANGELINE TW & W PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "04/02/2019 - 07:47 AM",
@@ -38,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23351,
     "longitude": -91.9936
-  },
-  {
-    "address": "1522 CARMEL DR",
-    "city": "LAFAYETTE",
-    "time": "04/02/2019 - 07:23 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.23215,
-    "longitude": -91.98358
   },
   {
     "address": "3100 LOUISIANA AV",
