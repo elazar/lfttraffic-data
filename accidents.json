@@ -1,5 +1,21 @@
 [
   {
+    "address": "E KALISTE SALOOM RD & PHI DR",
+    "city": "LAFAYETTE",
+    "time": "04/02/2019 - 4:34 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20118,
+    "longitude": -91.99834
+  },
+  {
+    "address": "4800 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/02/2019 - 4:34 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18546,
+    "longitude": -92.06776
+  },
+  {
     "address": "900 W GLORIA SWITCH RD",
     "city": "CARENCRO",
     "time": "04/02/2019 - 4:23 PM",
