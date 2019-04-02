@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "04/02/2019 - 1:06 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21493,
+    "longitude": -92.04696
+  },
+  {
     "address": "3211 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "04/02/2019 - 12:58 PM",
@@ -8,12 +16,12 @@
     "longitude": -92.04954
   },
   {
-    "address": "AMBASSADOR CAFFERY PW & WALKER RD",
+    "address": "1900 BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "04/02/2019 - 12:47 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.21504,
-    "longitude": -92.07579
+    "latitude": 30.2274411,
+    "longitude": -92.0608212
   },
   {
     "address": "OLIVIER ST & S WASHINGTON ST",
