@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 POPE DR",
+    "city": "LAFAYETTE",
+    "time": "04/02/2019 - 6:04 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.31653,
+    "longitude": -92.0964
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & OLD CAMP RD",
     "city": "LAFAYETTE",
     "time": "04/02/2019 - 5:44 PM",
