@@ -70,13 +70,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.1500957,
     "longitude": -92.0403912
-  },
-  {
-    "address": "100 GUIDRY RD",
-    "city": "LAFAYETTE",
-    "time": "04/02/2019 - 07:23 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.1692416,
-    "longitude": -92.0817161
   }
 ]
