@@ -1,5 +1,13 @@
 [
   {
+    "address": "2678 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/02/2019 - 5:06 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20852,
+    "longitude": -92.03842
+  },
+  {
     "address": "CAMERON ST & N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "04/02/2019 - 5:05 PM",
