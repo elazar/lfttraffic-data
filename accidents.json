@@ -1,21 +1,5 @@
 [
   {
-    "address": "1815 ST MARY ST",
-    "city": "SCOTT",
-    "time": "04/02/2019 - 10:47 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2441439,
-    "longitude": -92.1070949
-  },
-  {
-    "address": "W WILLOW ST & NW EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "04/02/2019 - 10:19 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24466,
-    "longitude": -92.01336
-  },
-  {
     "address": "1928 DULLES DR",
     "city": "LAFAYETTE",
     "time": "04/02/2019 - 09:44 AM",
