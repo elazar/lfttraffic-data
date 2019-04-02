@@ -1,19 +1,19 @@
 [
   {
+    "address": "213 BURDIN RD",
+    "city": "LAFAYETTE",
+    "time": "04/02/2019 - 11:59 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.1434,
+    "longitude": -92.06381
+  },
+  {
     "address": "1320 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "04/02/2019 - 11:57 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.24703,
     "longitude": -92.0334
-  },
-  {
-    "address": "WILLOW VINE DR & IRONSIDE DR",
-    "city": "LAFAYETTE",
-    "time": "04/02/2019 - 11:57 AM",
-    "due_to": "Incoming Call",
-    "latitude": 30.14255,
-    "longitude": -92.06398
   },
   {
     "address": "100 RENA DR",
