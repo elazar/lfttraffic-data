@@ -1,5 +1,13 @@
 [
   {
+    "address": "312 JEFFERSON BL",
+    "city": "LAFAYETTE",
+    "time": "04/02/2019 - 6:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22825,
+    "longitude": -92.01202
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & OLD CAMP RD",
     "city": "LAFAYETTE",
     "time": "04/02/2019 - 5:44 PM",
