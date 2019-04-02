@@ -1,5 +1,13 @@
 [
   {
+    "address": "610 ST PATRICK ST",
+    "city": "LAFAYETTE",
+    "time": "04/01/2019 - 7:34 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22051,
+    "longitude": -92.03169
+  },
+  {
     "address": "200 CAMELLIA BL",
     "city": "LAFAYETTE",
     "time": "04/01/2019 - 6:45 PM",
