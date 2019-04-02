@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "100 RENA DR",
+    "city": "LAFAYETTE",
+    "time": "04/02/2019 - 11:55 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1940663,
+    "longitude": -92.0578068
+  }
+]
