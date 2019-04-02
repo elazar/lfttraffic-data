@@ -54,21 +54,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20118,
     "longitude": -91.99834
-  },
-  {
-    "address": "4800 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "04/02/2019 - 4:34 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18546,
-    "longitude": -92.06776
-  },
-  {
-    "address": "1251 COOLIDGE ST",
-    "city": "LAFAYETTE",
-    "time": "04/02/2019 - 2:34 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2017853,
-    "longitude": -92.0188554
   }
 ]
