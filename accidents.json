@@ -1,5 +1,21 @@
 [
   {
+    "address": "4801 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "04/02/2019 - 07:32 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.15051,
+    "longitude": -92.03698
+  },
+  {
+    "address": "CARMEL DR & HOLLY ST",
+    "city": "LAFAYETTE",
+    "time": "04/02/2019 - 07:32 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23351,
+    "longitude": -91.9936
+  },
+  {
     "address": "1522 CARMEL DR",
     "city": "LAFAYETTE",
     "time": "04/02/2019 - 07:23 AM",
