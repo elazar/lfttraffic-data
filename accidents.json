@@ -8,20 +8,12 @@
     "longitude": -92.00867
   },
   {
-    "address": "JOHNSTON ST & CAMELLIA BL",
-    "city": "LAFAYETTE",
-    "time": "04/02/2019 - 09:10 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.19364,
-    "longitude": -92.0587
-  },
-  {
-    "address": "5500 US 90 EAST HW",
+    "address": "6100 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "04/02/2019 - 09:10 AM",
     "due_to": "Road Hazard",
-    "latitude": 30.1202785,
-    "longitude": -91.943998
+    "latitude": 30.10118,
+    "longitude": -91.94283
   },
   {
     "address": "GUILLIOT RD & CHEMIN AGREABLE",
@@ -46,14 +38,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.17533,
     "longitude": -92.00692
-  },
-  {
-    "address": "97 I10 EASTBOUND MM97 HW",
-    "city": "LAFAYETTE",
-    "time": "04/02/2019 - 07:59 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": null,
-    "longitude": null
   },
   {
     "address": "NW EVANGELINE TW & W PONT DES MOUTON RD",
