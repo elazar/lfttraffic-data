@@ -1,5 +1,21 @@
 [
   {
+    "address": "3100 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "04/02/2019 - 07:23 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2619863,
+    "longitude": -91.9942893
+  },
+  {
+    "address": "JOHNSTON ST & GUIDRY RD",
+    "city": "LAFAYETTE",
+    "time": "04/02/2019 - 07:23 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.16948,
+    "longitude": -92.08178
+  },
+  {
     "address": "600 CHURCH ST",
     "city": "YOUNGSVILLE",
     "time": "04/02/2019 - 07:18 AM",
