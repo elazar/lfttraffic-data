@@ -1,43 +1,35 @@
 [
   {
-    "address": "CAMELLIA BL & STARLING LN",
+    "address": "COOLIDGE ST & S COLLEGE RD",
     "city": "LAFAYETTE",
-    "time": "04/03/2019 - 07:46 AM",
+    "time": "04/03/2019 - 1:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20144,
+    "longitude": -92.01936
+  },
+  {
+    "address": "3510 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "04/03/2019 - 1:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16106,
+    "longitude": -91.99252
+  },
+  {
+    "address": "W CONGRESS ST & BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "04/03/2019 - 12:41 PM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.16518,
-    "longitude": -92.03433
+    "latitude": 30.21493,
+    "longitude": -92.04696
   },
   {
-    "address": "2025 W PINHOOK RD",
+    "address": "W CONGRESS ST & CAJUNDOME BL",
     "city": "LAFAYETTE",
-    "time": "04/03/2019 - 07:37 AM",
+    "time": "04/03/2019 - 12:15 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.18633,
-    "longitude": -92.01111
-  },
-  {
-    "address": "600 CHURCH ST",
-    "city": "YOUNGSVILLE",
-    "time": "04/03/2019 - 07:19 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.09923,
-    "longitude": -91.99578
-  },
-  {
-    "address": "CAMERON ST & CEDAR CREST CT",
-    "city": "LAFAYETTE",
-    "time": "04/03/2019 - 07:17 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23225,
-    "longitude": -92.03002
-  },
-  {
-    "address": "302 W MAIN ST",
-    "city": "BROUSSARD",
-    "time": "04/03/2019 - 07:07 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.14924,
-    "longitude": -91.96592
+    "latitude": 30.21871,
+    "longitude": -92.04139
   },
   {
     "address": "803 ST PATRICK ST",
