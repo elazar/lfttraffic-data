@@ -1,5 +1,13 @@
 [
   {
+    "address": "2300 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "04/03/2019 - 12:39 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.26554,
+    "longitude": -92.04355
+  },
+  {
     "address": "1065 TERRACE HWY",
     "city": "Lafayette",
     "time": "04/02/2019 - 9:40 PM",
