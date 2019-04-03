@@ -1,5 +1,13 @@
 [
   {
+    "address": "SOUTHCITY PW & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/03/2019 - 4:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16605,
+    "longitude": -92.08306
+  },
+  {
     "address": "W PINHOOK RD & BENDEL RD",
     "city": "LAFAYETTE",
     "time": "04/03/2019 - 4:40 PM",
