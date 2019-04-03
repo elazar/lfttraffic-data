@@ -1,5 +1,13 @@
 [
   {
+    "address": "1200 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "04/03/2019 - 3:25 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.20286,
+    "longitude": -92.01454
+  },
+  {
     "address": "2910 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/03/2019 - 3:23 PM",
@@ -62,14 +70,6 @@
     "due_to": "Traffic Control",
     "latitude": 30.33931,
     "longitude": -92.07066
-  },
-  {
-    "address": "1401 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "04/03/2019 - 2:11 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19906,
-    "longitude": -92.01623
   },
   {
     "address": "803 ST PATRICK ST",
