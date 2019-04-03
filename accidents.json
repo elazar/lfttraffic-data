@@ -1,5 +1,13 @@
 [
   {
+    "address": "FATIMA",
+    "city": "Lafayette",
+    "time": "04/03/2019 - 2:49 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.33931,
+    "longitude": -92.07066
+  },
+  {
     "address": "E FARREL RD & FREM BOUSTANY DR",
     "city": "LAFAYETTE",
     "time": "04/03/2019 - 2:42 PM",
