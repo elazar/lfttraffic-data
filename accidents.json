@@ -1,5 +1,13 @@
 [
   {
+    "address": "2910 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "04/03/2019 - 3:23 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.19459,
+    "longitude": -92.07601
+  },
+  {
     "address": "W PINHOOK RD & SOUTHPARK RD",
     "city": "LAFAYETTE",
     "time": "04/03/2019 - 3:18 PM",
@@ -30,14 +38,6 @@
     "due_to": "Residential Fire",
     "latitude": 30.20406,
     "longitude": -92.05549
-  },
-  {
-    "address": "I49 NORTHBOUND MM3 HW & E GLORIA SWITCH RD",
-    "city": "CARENCRO",
-    "time": "04/03/2019 - 3:04 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.29523,
-    "longitude": -92.01609
   },
   {
     "address": "VEROT SCHOOL RD & S BEADLE RD",
