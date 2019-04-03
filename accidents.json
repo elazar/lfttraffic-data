@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.26255,
     "longitude": -92.00867
-  },
-  {
-    "address": "200 CAMELLIA BL",
-    "city": "LAFAYETTE",
-    "time": "04/02/2019 - 8:53 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.19,
-    "longitude": -92.05584
   }
 ]
