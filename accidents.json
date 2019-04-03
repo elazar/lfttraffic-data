@@ -40,14 +40,6 @@
     "longitude": -92.04921
   },
   {
-    "address": "205 ARNOULD BL",
-    "city": "LAFAYETTE",
-    "time": "04/03/2019 - 3:10 PM",
-    "due_to": "Residential Fire",
-    "latitude": 30.20406,
-    "longitude": -92.05549
-  },
-  {
     "address": "VEROT SCHOOL RD & S BEADLE RD",
     "city": "LAFAYETTE",
     "time": "04/03/2019 - 2:57 PM",
@@ -62,14 +54,6 @@
     "due_to": "Traffic Control",
     "latitude": 30.09923,
     "longitude": -91.99578
-  },
-  {
-    "address": "FATIMA",
-    "city": "Lafayette",
-    "time": "04/03/2019 - 2:49 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.33931,
-    "longitude": -92.07066
   },
   {
     "address": "803 ST PATRICK ST",
