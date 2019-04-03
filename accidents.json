@@ -1,5 +1,13 @@
 [
   {
+    "address": "RUE DU BELIER & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "04/03/2019 - 1:21 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.1958,
+    "longitude": -92.09203
+  },
+  {
     "address": "COOLIDGE ST & S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "04/03/2019 - 1:14 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16106,
     "longitude": -91.99252
-  },
-  {
-    "address": "W CONGRESS ST & BERTRAND DR",
-    "city": "LAFAYETTE",
-    "time": "04/03/2019 - 12:41 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.21493,
-    "longitude": -92.04696
   },
   {
     "address": "W CONGRESS ST & CAJUNDOME BL",
