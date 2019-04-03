@@ -1,5 +1,13 @@
 [
   {
+    "address": "302 W MAIN",
+    "city": "Lafayette",
+    "time": "04/03/2019 - 2:22 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.2230449,
+    "longitude": -92.0209788
+  },
+  {
     "address": "1521 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "04/03/2019 - 2:11 PM",
