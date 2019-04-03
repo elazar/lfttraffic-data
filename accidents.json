@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20233,
     "longitude": -92.0521
-  },
-  {
-    "address": "JOHNSTON ST & SEARS DR",
-    "city": "LAFAYETTE",
-    "time": "04/02/2019 - 8:11 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.17502,
-    "longitude": -92.07745
   }
 ]
