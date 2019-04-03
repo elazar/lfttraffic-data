@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & CEDAR CREST CT",
+    "city": "LAFAYETTE",
+    "time": "04/03/2019 - 07:17 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23225,
+    "longitude": -92.03002
+  },
+  {
     "address": "302 W MAIN ST",
     "city": "BROUSSARD",
     "time": "04/03/2019 - 07:07 AM",
