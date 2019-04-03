@@ -1,19 +1,19 @@
 [
   {
+    "address": "3 I49 SOUTHBOUND MM3 HW",
+    "city": "CARENCRO",
+    "time": "04/03/2019 - 3:30 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.31396,
+    "longitude": -92.03118
+  },
+  {
     "address": "1200 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "04/03/2019 - 3:25 PM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.20286,
     "longitude": -92.01454
-  },
-  {
-    "address": "2910 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "04/03/2019 - 3:23 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.19459,
-    "longitude": -92.07601
   },
   {
     "address": "W PINHOOK RD & SOUTHPARK RD",
