@@ -1,5 +1,13 @@
 [
   {
+    "address": "4506 N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "04/03/2019 - 3:16 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.31963,
+    "longitude": -92.04921
+  },
+  {
     "address": "205 ARNOULD BL",
     "city": "LAFAYETTE",
     "time": "04/03/2019 - 3:10 PM",
