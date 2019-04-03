@@ -1,5 +1,13 @@
 [
   {
+    "address": "302 W MAIN ST",
+    "city": "BROUSSARD",
+    "time": "04/03/2019 - 07:07 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.14924,
+    "longitude": -91.96592
+  },
+  {
     "address": "803 ST PATRICK ST",
     "city": "LAFAYETTE",
     "time": "04/03/2019 - 04:53 AM",
