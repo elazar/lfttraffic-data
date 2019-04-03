@@ -6,21 +6,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.19,
     "longitude": -92.05584
-  },
-  {
-    "address": "800 GUILLIOT RD",
-    "city": "YOUNGSVILLE",
-    "time": "04/02/2019 - 8:29 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.07682,
-    "longitude": -91.99072
-  },
-  {
-    "address": "3400 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "04/02/2019 - 8:17 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2025627,
-    "longitude": -92.051888
   }
 ]
