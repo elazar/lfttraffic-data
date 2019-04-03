@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 CHURCH ST",
+    "city": "YOUNGSVILLE",
+    "time": "04/03/2019 - 2:56 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.09923,
+    "longitude": -91.99578
+  },
+  {
     "address": "FATIMA",
     "city": "Lafayette",
     "time": "04/03/2019 - 2:49 PM",
