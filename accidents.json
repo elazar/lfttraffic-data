@@ -1,5 +1,13 @@
 [
   {
+    "address": "1822 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "04/03/2019 - 3:17 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18994,
+    "longitude": -92.01559
+  },
+  {
     "address": "4506 N UNIVERSITY AV",
     "city": "CARENCRO",
     "time": "04/03/2019 - 3:16 PM",
