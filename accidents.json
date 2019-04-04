@@ -1,6 +1,6 @@
 [
   {
-    "address": "8 I49 NORTHBOUND MM8 HW",
+    "address": "8 I49 SOUTHBOUND MM8 HW",
     "city": "LAFAYETTE",
     "time": "04/03/2019 - 7:07 PM",
     "due_to": "Vehicle Accident w/ Injuries",
@@ -14,14 +14,6 @@
     "due_to": "Grass Fire",
     "latitude": 30.29839,
     "longitude": -92.09444
-  },
-  {
-    "address": "701 WALKER RD",
-    "city": "LAFAYETTE",
-    "time": "04/03/2019 - 6:46 PM",
-    "due_to": "Residential Fire",
-    "latitude": 30.2355551,
-    "longitude": -92.0377567
   },
   {
     "address": "308 BERTRAND DR",
