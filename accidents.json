@@ -1,18 +1,10 @@
 [
   {
-    "address": "MALAPART RD & N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "04/04/2019 - 05:50 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.2905,
-    "longitude": -92.04991
-  },
-  {
-    "address": "N UNIVERSITY AV & MALAPART RD",
-    "city": "LAFAYETTE",
+    "address": "3303 N UNIVERSITY AV",
+    "city": "CARENCRO",
     "time": "04/04/2019 - 05:49 AM",
     "due_to": "Fire Investigation",
-    "latitude": 30.2905,
-    "longitude": -92.04991
+    "latitude": 30.2907311,
+    "longitude": -92.0500482
   }
 ]
