@@ -1,5 +1,13 @@
 [
   {
+    "address": "913 WEBB ST",
+    "city": "LAFAYETTE",
+    "time": "04/03/2019 - 9:37 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23793,
+    "longitude": -91.99143
+  },
+  {
     "address": "201 VETERANS DR",
     "city": "CARENCRO",
     "time": "04/03/2019 - 9:30 PM",
