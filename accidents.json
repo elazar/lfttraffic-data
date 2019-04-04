@@ -1,5 +1,13 @@
 [
   {
+    "address": "916 LAFAYETTE ST",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 4:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22351,
+    "longitude": -92.0214
+  },
+  {
     "address": "1512 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "04/04/2019 - 4:21 PM",
