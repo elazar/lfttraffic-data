@@ -1,5 +1,13 @@
 [
   {
+    "address": "14 BNSF RAILROAD CG",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 07:07 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2218,
+    "longitude": -92.00507
+  },
+  {
     "address": "CAMERON ST & ALFRED ST",
     "city": "SCOTT",
     "time": "04/04/2019 - 07:03 AM",
