@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "N UNIVERSITY AV & MALAPART RD",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 05:49 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.2905,
+    "longitude": -92.04991
+  }
+]
