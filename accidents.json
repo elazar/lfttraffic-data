@@ -1,5 +1,13 @@
 [
   {
+    "address": "1512 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 4:21 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23733,
+    "longitude": -92.00036
+  },
+  {
     "address": "117 REX ST",
     "city": "LAFAYETTE",
     "time": "04/04/2019 - 4:15 PM",
