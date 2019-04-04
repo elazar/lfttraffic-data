@@ -16,20 +16,12 @@
     "longitude": -92.01902
   },
   {
-    "address": "3100 US 90 EAST HW",
-    "city": "LAFAYETTE",
-    "time": "04/04/2019 - 5:03 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.1706127,
-    "longitude": -91.9802303
-  },
-  {
-    "address": "1602 N UNIVERSITY AV",
+    "address": "101 I10 EASTBOUND MM101 HW",
     "city": "LAFAYETTE",
     "time": "04/04/2019 - 5:00 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.24958,
-    "longitude": -92.03503
+    "latitude": 30.26255,
+    "longitude": -92.00867
   },
   {
     "address": "1401 SURREY ST",
