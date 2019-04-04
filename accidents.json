@@ -1,5 +1,13 @@
 [
   {
+    "address": "103 I10 WESTBOUND MM103A HW",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 07:25 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "100 I10 WB EXIT RAMP HW",
     "city": "LAFAYETTE",
     "time": "04/04/2019 - 07:24 AM",
