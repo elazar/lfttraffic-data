@@ -1,5 +1,13 @@
 [
   {
+    "address": "2315 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 2:44 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.15895,
+    "longitude": -92.0439
+  },
+  {
     "address": "1599 CARMEL DR",
     "city": "LAFAYETTE",
     "time": "04/04/2019 - 2:39 PM",
@@ -38,14 +46,6 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.32261,
     "longitude": -92.0325
-  },
-  {
-    "address": "302 W MAIN",
-    "city": "Lafayette",
-    "time": "04/04/2019 - 1:59 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.2230449,
-    "longitude": -92.0209788
   },
   {
     "address": "NW EVANGELINE TW & I10 HW",
