@@ -1,5 +1,13 @@
 [
   {
+    "address": "JEFFERSON BL & SW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 07:46 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22867,
+    "longitude": -92.01254
+  },
+  {
     "address": "100 FOREMAN DR",
     "city": "LAFAYETTE",
     "time": "04/04/2019 - 07:43 AM",
@@ -62,14 +70,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.0657949,
     "longitude": -92.0005091
-  },
-  {
-    "address": "100 ANDROCLES RD",
-    "city": "LAFAYETTE",
-    "time": "04/04/2019 - 07:23 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.30417,
-    "longitude": -92.08369
   },
   {
     "address": "600 CHURCH ST",
@@ -152,12 +152,12 @@
     "longitude": -92.0731976
   },
   {
-    "address": "NW EVANGELINE TW & E SECOND ST",
+    "address": "251 E SECOND ST",
     "city": "LAFAYETTE",
     "time": "04/04/2019 - 06:48 AM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.23033,
-    "longitude": -92.01343
+    "latitude": 30.2302723,
+    "longitude": -92.0139269
   },
   {
     "address": "LAFAYETTE ST & GRIFFIN RD",
