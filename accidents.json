@@ -1,5 +1,21 @@
 [
   {
+    "address": "4510 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 2:45 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.15447,
+    "longitude": -92.04831
+  },
+  {
+    "address": "200 PRODUCTION DR",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 2:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17998,
+    "longitude": -92.00605
+  },
+  {
     "address": "2315 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "04/04/2019 - 2:44 PM",
@@ -11,7 +27,7 @@
     "address": "1599 CARMEL DR",
     "city": "LAFAYETTE",
     "time": "04/04/2019 - 2:39 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.2322943,
     "longitude": -91.9824852
   },
