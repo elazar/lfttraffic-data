@@ -1,11 +1,11 @@
 [
   {
-    "address": "HEATHEROAK AV & APPLEOAK AV",
+    "address": "108 APPLEOAK AV",
     "city": "LAFAYETTE",
-    "time": "04/04/2019 - 09:17 AM",
-    "due_to": "Incoming Call",
-    "latitude": 30.19774,
-    "longitude": -92.08599
+    "time": "04/04/2019 - 09:19 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.1981049,
+    "longitude": -92.0852861
   },
   {
     "address": "211 NOBLEMEN LN",
@@ -46,14 +46,6 @@
     "due_to": "Wire Hazard",
     "latitude": 30.24931,
     "longitude": -92.03181
-  },
-  {
-    "address": "1500 N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "04/04/2019 - 07:51 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24926,
-    "longitude": -92.03446
   },
   {
     "address": "151 JEFFERSON BL",
