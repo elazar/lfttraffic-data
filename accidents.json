@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 08:06 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19597,
+    "longitude": -92.07523
+  },
+  {
     "address": "1500 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "04/04/2019 - 07:51 AM",
@@ -134,13 +142,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2322949,
     "longitude": -92.0731976
-  },
-  {
-    "address": "251 E SECOND ST",
-    "city": "LAFAYETTE",
-    "time": "04/04/2019 - 06:48 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2302723,
-    "longitude": -92.0139269
   }
 ]
