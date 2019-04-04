@@ -1,5 +1,13 @@
 [
   {
+    "address": "COOLIDGE ST & HOSPITAL DR",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 06:38 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20269,
+    "longitude": -92.01819
+  },
+  {
     "address": "SE EVANGELINE TW & SURREY ST",
     "city": "LAFAYETTE",
     "time": "04/04/2019 - 06:37 AM",
