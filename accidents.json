@@ -1,5 +1,21 @@
 [
   {
+    "address": "PANDORA ST & WINCHESTER DR",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 07:13 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20191,
+    "longitude": -92.06763
+  },
+  {
+    "address": "304 W MAIN ST,",
+    "city": "Lafayette",
+    "time": "04/04/2019 - 07:12 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.2230449,
+    "longitude": -92.0209932
+  },
+  {
     "address": "14 BNSF RAILROAD CG",
     "city": "LAFAYETTE",
     "time": "04/04/2019 - 07:07 AM",
