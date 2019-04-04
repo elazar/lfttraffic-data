@@ -1,5 +1,13 @@
 [
   {
+    "address": "HOLLYWOOD DR & COOPER DR",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 08:15 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.24931,
+    "longitude": -92.03181
+  },
+  {
     "address": "1008 S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "04/04/2019 - 08:06 AM",
@@ -126,13 +134,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.20214,
     "longitude": -92.06451
-  },
-  {
-    "address": "4500 CAMERON ST",
-    "city": "SCOTT",
-    "time": "04/04/2019 - 06:53 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2322949,
-    "longitude": -92.0731976
   }
 ]
