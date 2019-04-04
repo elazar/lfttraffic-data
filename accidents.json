@@ -1,5 +1,13 @@
 [
   {
+    "address": "119 DAVID ST",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 05:52 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.27817,
+    "longitude": -92.04567
+  },
+  {
     "address": "3303 N UNIVERSITY AV",
     "city": "CARENCRO",
     "time": "04/04/2019 - 05:49 AM",
