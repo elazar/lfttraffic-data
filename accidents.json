@@ -1,5 +1,13 @@
 [
   {
+    "address": "3100 US 90 EAST HW",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 5:03 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1706127,
+    "longitude": -91.9802303
+  },
+  {
     "address": "4003 N UNIVERSITY AV",
     "city": "CARENCRO",
     "time": "04/04/2019 - 5:00 PM",
@@ -70,13 +78,5 @@
     "due_to": "Traffic Control",
     "latitude": 30.22253,
     "longitude": -92.03485
-  },
-  {
-    "address": "US 90 EAST HW & N SOUTHPARK RD",
-    "city": "LAFAYETTE",
-    "time": "04/04/2019 - 07:33 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.17164,
-    "longitude": -91.97994
   }
 ]
