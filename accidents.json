@@ -38,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23733,
     "longitude": -92.00036
-  },
-  {
-    "address": "W CONGRESS ST & ST THOMAS ST",
-    "city": "LAFAYETTE",
-    "time": "04/04/2019 - 3:47 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.22253,
-    "longitude": -92.03485
   }
 ]
