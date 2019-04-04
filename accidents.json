@@ -1,5 +1,13 @@
 [
   {
+    "address": "DOUCET RD & DUCHARME LN",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 08:41 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19447,
+    "longitude": -92.03789
+  },
+  {
     "address": "BONIN RD & EDIE ANN DR",
     "city": "LAFAYETTE",
     "time": "04/04/2019 - 08:38 AM",
