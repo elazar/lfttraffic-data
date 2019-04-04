@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 STONE AV",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 3:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2552607,
+    "longitude": -92.0382117
+  },
+  {
     "address": "SETTLERS TRACE BL & BILTMORE WA",
     "city": "LAFAYETTE",
     "time": "04/04/2019 - 3:05 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20801,
     "longitude": -92.03642
-  },
-  {
-    "address": "1522 CARMEL DR",
-    "city": "LAFAYETTE",
-    "time": "04/04/2019 - 2:50 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.23215,
-    "longitude": -91.98358
   },
   {
     "address": "200 PRODUCTION DR",
