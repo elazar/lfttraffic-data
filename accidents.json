@@ -1,5 +1,13 @@
 [
   {
+    "address": "302 W MAIN",
+    "city": "Lafayette",
+    "time": "04/04/2019 - 1:59 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.2230449,
+    "longitude": -92.0209788
+  },
+  {
     "address": "312 W BROUSSARD RD",
     "city": "LAFAYETTE",
     "time": "04/04/2019 - 1:54 PM",
