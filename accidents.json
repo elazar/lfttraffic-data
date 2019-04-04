@@ -1,5 +1,13 @@
 [
   {
+    "address": "LAFAYETTE ST & GRIFFIN RD",
+    "city": "YOUNGSVILLE",
+    "time": "04/04/2019 - 06:21 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.10922,
+    "longitude": -91.99056
+  },
+  {
     "address": "1410 WESTGATE RD",
     "city": "SCOTT",
     "time": "04/04/2019 - 06:05 AM",
