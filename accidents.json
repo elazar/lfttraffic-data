@@ -1,5 +1,13 @@
 [
   {
+    "address": "400 BONIN RD",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 09:21 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16007,
+    "longitude": -92.0006
+  },
+  {
     "address": "NE EVANGELINE TW & E SECOND ST",
     "city": "LAFAYETTE",
     "time": "04/04/2019 - 09:20 AM",
