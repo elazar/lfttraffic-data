@@ -32,14 +32,6 @@
     "longitude": -92.02829
   },
   {
-    "address": "AMBASSADOR CAFFERY PW & W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "04/04/2019 - 08:06 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19597,
-    "longitude": -92.07523
-  },
-  {
     "address": "1500 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "04/04/2019 - 07:51 AM",
@@ -70,14 +62,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.17164,
     "longitude": -91.97994
-  },
-  {
-    "address": "3000 US 90 EAST HW",
-    "city": "LAFAYETTE",
-    "time": "04/04/2019 - 07:27 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2333,
-    "longitude": -92.05071
   },
   {
     "address": "3816 W CONGRESS ST",
