@@ -1,5 +1,13 @@
 [
   {
+    "address": "1401 SURREY ST",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 4:59 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22147,
+    "longitude": -91.99427
+  },
+  {
     "address": "101 FALLOW LN",
     "city": "BROUSSARD",
     "time": "04/04/2019 - 4:50 PM",
