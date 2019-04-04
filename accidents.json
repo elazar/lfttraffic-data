@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & ALFRED ST",
+    "city": "SCOTT",
+    "time": "04/04/2019 - 07:03 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23357,
+    "longitude": -92.09381
+  },
+  {
     "address": "3816 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "04/04/2019 - 07:01 AM",
