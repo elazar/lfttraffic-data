@@ -1,5 +1,13 @@
 [
   {
+    "address": "HECTOR CONNOLY RD & NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 2:01 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.32261,
+    "longitude": -92.0325
+  },
+  {
     "address": "302 W MAIN",
     "city": "Lafayette",
     "time": "04/04/2019 - 1:59 PM",
