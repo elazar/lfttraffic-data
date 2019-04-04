@@ -1,5 +1,21 @@
 [
   {
+    "address": "2112 ROBLEY DR (SW)",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 1:19 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.141741,
+    "longitude": -92.0805451
+  },
+  {
+    "address": "W PINHOOK RD & E KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 1:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1886,
+    "longitude": -92.0141
+  },
+  {
     "address": "US 90 EAST HW & N SOUTHPARK RD",
     "city": "LAFAYETTE",
     "time": "04/04/2019 - 07:33 AM",
