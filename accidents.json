@@ -1,5 +1,13 @@
 [
   {
+    "address": "1008 S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 08:06 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20005,
+    "longitude": -92.02829
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "04/04/2019 - 08:06 AM",
@@ -56,12 +64,12 @@
     "longitude": -91.97994
   },
   {
-    "address": "2727 SE EVANGELINE TW",
-    "city": "BROUSSARD",
+    "address": "3000 US 90 EAST HW",
+    "city": "LAFAYETTE",
     "time": "04/04/2019 - 07:27 AM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.18063,
-    "longitude": -91.98715
+    "latitude": 30.2333,
+    "longitude": -92.05071
   },
   {
     "address": "103 I10 WESTBOUND MM103A HW",
