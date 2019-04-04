@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & DUHON RD",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 06:08 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.16617,
+    "longitude": -92.08326
+  },
+  {
     "address": "1410 WESTGATE RD",
     "city": "SCOTT",
     "time": "04/04/2019 - 06:05 AM",
