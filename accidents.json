@@ -1,5 +1,13 @@
 [
   {
+    "address": "1410 WESTGATE RD",
+    "city": "SCOTT",
+    "time": "04/04/2019 - 06:05 AM",
+    "due_to": "Residential Fire",
+    "latitude": 30.21425,
+    "longitude": -92.08787
+  },
+  {
     "address": "I49 SOUTHBOUND MM4 HW & VETERANS DR",
     "city": "LAFAYETTE",
     "time": "04/04/2019 - 06:02 AM",
