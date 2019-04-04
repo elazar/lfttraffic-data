@@ -1,5 +1,13 @@
 [
   {
+    "address": "1920 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 6:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.168,
+    "longitude": -92.03614
+  },
+  {
     "address": "128 E BUTCHER SWITCH RD",
     "city": "LAFAYETTE",
     "time": "04/04/2019 - 6:00 PM",
