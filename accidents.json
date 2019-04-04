@@ -1,11 +1,27 @@
 [
   {
+    "address": "600 CHURCH ST",
+    "city": "YOUNGSVILLE",
+    "time": "04/04/2019 - 07:21 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.09923,
+    "longitude": -91.99578
+  },
+  {
     "address": "5533 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/04/2019 - 07:21 AM",
     "due_to": "Fire Alarm-Commercial",
     "latitude": 30.21504,
     "longitude": -92.07579
+  },
+  {
+    "address": "KALISTE SALOOM RD & E BAYOU PW",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 07:22 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18289,
+    "longitude": -92.01725
   },
   {
     "address": "300 AVENUE B",
