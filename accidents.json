@@ -80,14 +80,6 @@
     "longitude": -92.00867
   },
   {
-    "address": "100 I10 WB EXIT RAMP HW",
-    "city": "LAFAYETTE",
-    "time": "04/04/2019 - 07:24 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.26255,
-    "longitude": -92.00867
-  },
-  {
     "address": "400 CHEMIN AGREABLE",
     "city": "YOUNGSVILLE",
     "time": "04/04/2019 - 07:23 AM",
@@ -134,14 +126,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.20214,
     "longitude": -92.06451
-  },
-  {
-    "address": "200 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "04/04/2019 - 06:53 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2422064,
-    "longitude": -92.0664188
   },
   {
     "address": "4500 CAMERON ST",
