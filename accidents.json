@@ -1,5 +1,13 @@
 [
   {
+    "address": "1500 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 07:51 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24926,
+    "longitude": -92.03446
+  },
+  {
     "address": "402 GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "04/04/2019 - 07:50 AM",
