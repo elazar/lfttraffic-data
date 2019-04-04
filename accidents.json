@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & ST THOMAS ST",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 2:53 PM",
+    "due_to": "Hazardous Situation",
+    "latitude": 30.22253,
+    "longitude": -92.03485
+  },
+  {
     "address": "2605 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "04/04/2019 - 2:52 PM",
