@@ -1,5 +1,13 @@
 [
   {
+    "address": "W UNIVERSITY AV & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 5:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21729,
+    "longitude": -92.01902
+  },
+  {
     "address": "835 VATICAN RD",
     "city": "LAFAYETTE",
     "time": "04/04/2019 - 5:07 PM",
