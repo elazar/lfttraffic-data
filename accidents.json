@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & N SOUTHPARK RD",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 07:33 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.17164,
+    "longitude": -91.97994
+  },
+  {
     "address": "2727 SE EVANGELINE TW",
     "city": "BROUSSARD",
     "time": "04/04/2019 - 07:27 AM",
