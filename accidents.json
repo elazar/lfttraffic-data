@@ -1,5 +1,13 @@
 [
   {
+    "address": "E ST MARY BL & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 11:07 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21449,
+    "longitude": -92.02175
+  },
+  {
     "address": "3905 N UNIVERSITY AV",
     "city": "CARENCRO",
     "time": "04/04/2019 - 10:48 AM",
