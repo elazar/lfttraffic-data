@@ -1,5 +1,13 @@
 [
   {
+    "address": "I49 NORTHBOUND HW & I10 OVERPASS MM103 HW",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 11:33 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "E ST MARY BL & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "04/04/2019 - 11:07 AM",
