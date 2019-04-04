@@ -1,5 +1,13 @@
 [
   {
+    "address": "131 REX ST",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 4:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21153,
+    "longitude": -92.0211
+  },
+  {
     "address": "KALISTE SALOOM RD & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/04/2019 - 3:54 PM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20801,
     "longitude": -92.03642
-  },
-  {
-    "address": "1599 CARMEL DR",
-    "city": "LAFAYETTE",
-    "time": "04/04/2019 - 2:39 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.2322943,
-    "longitude": -91.9824852
   },
   {
     "address": "US 90 EAST HW & N SOUTHPARK RD",
