@@ -1,5 +1,13 @@
 [
   {
+    "address": "5395 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "04/05/2019 - 11:10 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.12591,
+    "longitude": -91.94344
+  },
+  {
     "address": "FOREMAN DR & MARIE ANTOINETTE ST",
     "city": "LAFAYETTE",
     "time": "04/05/2019 - 11:05 AM",
