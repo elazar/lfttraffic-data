@@ -1,5 +1,13 @@
 [
   {
+    "address": "RENAUD DR & ELMIRA RD",
+    "city": "SCOTT",
+    "time": "04/04/2019 - 8:58 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.25401,
+    "longitude": -92.07881
+  },
+  {
     "address": "YOUNG ST & S LARRIVIERE RD",
     "city": "YOUNGSVILLE",
     "time": "04/04/2019 - 8:35 PM",
