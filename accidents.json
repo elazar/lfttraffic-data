@@ -1,5 +1,13 @@
 [
   {
+    "address": "241 N PINE ST",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 8:34 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.25016,
+    "longitude": -92.00336
+  },
+  {
     "address": "W GLORIA SWITCH RD & HERNANDEZ RD",
     "city": "CARENCRO",
     "time": "04/04/2019 - 8:30 PM",
