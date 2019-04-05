@@ -1,5 +1,21 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & ROBLEY DR",
+    "city": "LAFAYETTE",
+    "time": "04/05/2019 - 1:55 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17117,
+    "longitude": -92.06617
+  },
+  {
+    "address": "207 JULIAN CL",
+    "city": "LAFAYETTE",
+    "time": "04/05/2019 - 1:55 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.268,
+    "longitude": -92.00363
+  },
+  {
     "address": "4200 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "04/05/2019 - 12:32 PM",
