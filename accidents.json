@@ -1,18 +1,18 @@
 [
   {
+    "address": "4220 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/05/2019 - 12:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19585,
+    "longitude": -92.05794
+  },
+  {
     "address": "322 HEYMANN BL",
     "city": "LAFAYETTE",
     "time": "04/05/2019 - 11:55 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.20506,
     "longitude": -92.01544
-  },
-  {
-    "address": "5395 US 90 EAST HW",
-    "city": "BROUSSARD",
-    "time": "04/05/2019 - 11:10 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.12591,
-    "longitude": -91.94344
   }
 ]
