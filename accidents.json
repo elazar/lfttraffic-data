@@ -1,5 +1,13 @@
 [
   {
+    "address": "TRAVIS ST & W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "04/05/2019 - 4:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20428,
+    "longitude": -92.01344
+  },
+  {
     "address": "1100 LA 93 HW",
     "city": "LAFAYETTE",
     "time": "04/05/2019 - 4:11 PM",
