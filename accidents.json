@@ -1,5 +1,13 @@
 [
   {
+    "address": "1225 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "04/05/2019 - 5:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17296,
+    "longitude": -92.02868
+  },
+  {
     "address": "N UNIVERSITY AV & RENAUD DR",
     "city": "LAFAYETTE",
     "time": "04/05/2019 - 5:22 PM",
