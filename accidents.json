@@ -1,5 +1,13 @@
 [
   {
+    "address": "FOREMAN DR & MARIE ANTOINETTE ST",
+    "city": "LAFAYETTE",
+    "time": "04/05/2019 - 11:05 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21581,
+    "longitude": -92.06442
+  },
+  {
     "address": "E ST MARY BL & HEBRARD BL",
     "city": "LAFAYETTE",
     "time": "04/05/2019 - 10:59 AM",
