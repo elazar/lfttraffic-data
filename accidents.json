@@ -1,5 +1,13 @@
 [
   {
+    "address": "251 CONRAD ST",
+    "city": "LAFAYETTE",
+    "time": "04/05/2019 - 07:43 AM",
+    "due_to": "Residential Fire",
+    "latitude": 30.2560977,
+    "longitude": -92.017753
+  },
+  {
     "address": "300 AVENUE B",
     "city": "YOUNGSVILLE",
     "time": "04/05/2019 - 07:23 AM",
