@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 W BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "04/05/2019 - 09:59 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1553129,
+    "longitude": -92.0993751
+  },
+  {
     "address": "102 I10 WESTBOUND MM102 HW",
     "city": "LAFAYETTE",
     "time": "04/05/2019 - 09:50 AM",
