@@ -1,5 +1,13 @@
 [
   {
+    "address": "MOSS ST & CARLTON DR",
+    "city": "LAFAYETTE",
+    "time": "04/05/2019 - 2:46 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24201,
+    "longitude": -92.00679
+  },
+  {
     "address": "W PINHOOK RD & SAGE GLENN LN",
     "city": "LAFAYETTE",
     "time": "04/05/2019 - 1:56 PM",
