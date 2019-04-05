@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "address": "I10 EASTBOUND MM102 HW & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "04/05/2019 - 09:50 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24052,
+    "longitude": -92.03242
+  },
+  {
+    "address": "4311 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "04/05/2019 - 09:49 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.28759,
+    "longitude": -92.00717
+  }
+]
