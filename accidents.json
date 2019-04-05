@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & EXCHANGE PL",
+    "city": "LAFAYETTE",
+    "time": "04/05/2019 - 10:25 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20232,
+    "longitude": -92.0146
+  },
+  {
     "address": "102 I10 WESTBOUND MM102 HW",
     "city": "LAFAYETTE",
     "time": "04/05/2019 - 09:50 AM",
