@@ -1,26 +1,10 @@
 [
   {
-    "address": "107 EDGEWATER DR",
-    "city": "BROUSSARD",
-    "time": "04/04/2019 - 11:02 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.14605,
-    "longitude": -91.97481
-  },
-  {
     "address": "JOHNSTON ST & BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "04/04/2019 - 11:01 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.20581,
     "longitude": -92.04078
-  },
-  {
-    "address": "100 HEBERT RD",
-    "city": "LAFAYETTE",
-    "time": "04/04/2019 - 10:49 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2357101,
-    "longitude": -92.0495551
   }
 ]
