@@ -1,18 +1,18 @@
 [
   {
+    "address": "2600 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "04/05/2019 - 4:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17778,
+    "longitude": -92.00343
+  },
+  {
     "address": "CAMERON ST & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/05/2019 - 4:41 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.23252,
     "longitude": -92.06264
-  },
-  {
-    "address": "93 I10 WB EXIT RAMP HW",
-    "city": "DUSON",
-    "time": "04/05/2019 - 3:31 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24757,
-    "longitude": -92.14845
   }
 ]
