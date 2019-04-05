@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "4607 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "04/05/2019 - 04:18 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.14632,
+    "longitude": -91.94584
+  }
+]
