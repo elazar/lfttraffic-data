@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "04/04/2019 - 11:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20581,
+    "longitude": -92.04078
+  },
+  {
     "address": "1800 DUHON RD",
     "city": "LAFAYETTE",
     "time": "04/04/2019 - 10:57 PM",
