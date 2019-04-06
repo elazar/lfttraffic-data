@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 BAYOU TORTUE RD",
+    "city": "LAFAYETTE",
+    "time": "04/06/2019 - 3:39 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1530963,
+    "longitude": -91.9230173
+  },
+  {
     "address": "210 DELORD ST",
     "city": "LAFAYETTE",
     "time": "04/06/2019 - 3:37 PM",
