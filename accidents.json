@@ -30,13 +30,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.26255,
     "longitude": -92.00867
-  },
-  {
-    "address": "1114 SE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "04/06/2019 - 4:44 PM",
-    "due_to": "Vehicle Fire",
-    "latitude": 30.22012,
-    "longitude": -92.00741
   }
 ]
