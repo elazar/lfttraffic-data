@@ -1,5 +1,13 @@
 [
   {
+    "address": "2900 W WILLOW ST",
+    "city": "SCOTT",
+    "time": "04/06/2019 - 4:01 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.24205,
+    "longitude": -92.08724
+  },
+  {
     "address": "LANDALL CL & W WILLOW ST",
     "city": "SCOTT",
     "time": "04/06/2019 - 3:59 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17641,
     "longitude": -92.07227
-  },
-  {
-    "address": "4311 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "04/06/2019 - 3:31 PM",
-    "due_to": "Hazardous Material",
-    "latitude": 30.19448,
-    "longitude": -92.0575
   },
   {
     "address": "440 HEIDE CL",
