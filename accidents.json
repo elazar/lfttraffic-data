@@ -1,5 +1,13 @@
 [
   {
+    "address": "210 DELORD ST",
+    "city": "LAFAYETTE",
+    "time": "04/06/2019 - 3:37 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.23289,
+    "longitude": -92.02616
+  },
+  {
     "address": "4311 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "04/06/2019 - 3:31 PM",
