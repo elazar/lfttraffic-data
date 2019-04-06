@@ -1,5 +1,13 @@
 [
   {
+    "address": "209 JEANETTE ST",
+    "city": "LAFAYETTE",
+    "time": "04/05/2019 - 7:34 PM",
+    "due_to": "Hazardous Situation",
+    "latitude": 30.22623,
+    "longitude": -92.05414
+  },
+  {
     "address": "BERTRAND DR & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "04/05/2019 - 7:17 PM",
