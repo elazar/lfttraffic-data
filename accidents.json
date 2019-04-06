@@ -1,5 +1,21 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & S MORGAN AV",
+    "city": "BROUSSARD",
+    "time": "04/06/2019 - 5:21 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13188,
+    "longitude": -91.96517
+  },
+  {
+    "address": "104 I10 EASTBOUND MM104 HW",
+    "city": "LAFAYETTE",
+    "time": "04/06/2019 - 5:21 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "1114 SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "04/06/2019 - 4:44 PM",
