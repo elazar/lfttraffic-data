@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 BRIGHTWOOD DR",
+    "city": "LAFAYETTE",
+    "time": "04/06/2019 - 11:50 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.14237,
+    "longitude": -92.06566
+  },
+  {
     "address": "N CHURCH ST & VETERANS DR",
     "city": "CARENCRO",
     "time": "04/06/2019 - 11:24 AM",
