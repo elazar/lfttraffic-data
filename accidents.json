@@ -8,14 +8,6 @@
     "longitude": -92.08724
   },
   {
-    "address": "LANDALL CL & W WILLOW ST",
-    "city": "SCOTT",
-    "time": "04/06/2019 - 3:59 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.2419,
-    "longitude": -92.08725
-  },
-  {
     "address": "3557 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/06/2019 - 3:47 PM",
@@ -30,14 +22,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.2645461,
     "longitude": -92.0748849
-  },
-  {
-    "address": "2428 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "04/06/2019 - 3:16 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17846,
-    "longitude": -92.00551
   },
   {
     "address": "208 CLAUSE LN",
