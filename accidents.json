@@ -1,27 +1,11 @@
 [
   {
-    "address": "JOHNSTON ST & TOWN CENTER PW",
-    "city": "LAFAYETTE",
-    "time": "04/05/2019 - 7:20 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.17148,
-    "longitude": -92.08108
-  },
-  {
     "address": "BERTRAND DR & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "04/05/2019 - 7:17 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.21493,
     "longitude": -92.04696
-  },
-  {
-    "address": "209 JEANETTE ST",
-    "city": "LAFAYETTE",
-    "time": "04/05/2019 - 6:50 PM",
-    "due_to": "Hazardous Situation",
-    "latitude": 30.22623,
-    "longitude": -92.05414
   },
   {
     "address": "N UNIVERSITY AV & RENAUD DR",
