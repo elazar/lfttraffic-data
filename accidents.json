@@ -1,5 +1,13 @@
 [
   {
+    "address": "BERTRAND DR & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "04/05/2019 - 7:17 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21493,
+    "longitude": -92.04696
+  },
+  {
     "address": "209 JEANETTE ST",
     "city": "LAFAYETTE",
     "time": "04/05/2019 - 6:50 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17159,
     "longitude": -92.06506
-  },
-  {
-    "address": "1225 KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "04/05/2019 - 5:26 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17296,
-    "longitude": -92.02868
   },
   {
     "address": "N UNIVERSITY AV & RENAUD DR",
