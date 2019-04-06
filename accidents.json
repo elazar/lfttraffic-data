@@ -1,5 +1,13 @@
 [
   {
+    "address": "4311 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/06/2019 - 3:31 PM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.19448,
+    "longitude": -92.0575
+  },
+  {
     "address": "440 HEIDE CL",
     "city": "LAFAYETTE",
     "time": "04/06/2019 - 3:29 PM",
