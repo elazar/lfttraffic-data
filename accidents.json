@@ -1,5 +1,13 @@
 [
   {
+    "address": "S RICHFIELD RD & CAMERON ST",
+    "city": "DUSON",
+    "time": "04/06/2019 - 02:40 AM",
+    "due_to": "Hazard",
+    "latitude": 30.23496,
+    "longitude": -92.17607
+  },
+  {
     "address": "101 I10 EASTBOUND MM101 HW",
     "city": "LAFAYETTE",
     "time": "04/06/2019 - 02:32 AM",
