@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.25413,
     "longitude": -92.10813
-  },
-  {
-    "address": "34 BNSF RAILROAD CG",
-    "city": "LAFAYETTE",
-    "time": "04/06/2019 - 2:15 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 40.50211,
-    "longitude": -86.95026
   }
 ]
