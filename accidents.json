@@ -1,5 +1,13 @@
 [
   {
+    "address": "225 CLARA ST",
+    "city": "LAFAYETTE",
+    "time": "04/06/2019 - 01:23 AM",
+    "due_to": "Hazardous Situation",
+    "latitude": 30.24879,
+    "longitude": -92.03033
+  },
+  {
     "address": "JOHNSTON ST & CAMELLIA BL",
     "city": "LAFAYETTE",
     "time": "04/05/2019 - 11:22 PM",
