@@ -14,13 +14,5 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 40.50211,
     "longitude": -86.95026
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & BERTRAND DR",
-    "city": "LAFAYETTE",
-    "time": "04/06/2019 - 2:06 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.22941,
-    "longitude": -92.06262
   }
 ]
