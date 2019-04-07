@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & ALFRED ST",
+    "city": "SCOTT",
+    "time": "04/07/2019 - 12:18 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.23357,
+    "longitude": -92.09381
+  },
+  {
     "address": "204 JENCI DR",
     "city": "BROUSSARD",
     "time": "04/07/2019 - 12:00 AM",
