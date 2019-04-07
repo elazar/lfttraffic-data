@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "address": "204 JENCI DR",
+    "city": "BROUSSARD",
+    "time": "04/07/2019 - 12:00 AM",
+    "due_to": "Residential Fire",
+    "latitude": 30.14198,
+    "longitude": -91.97068
+  },
+  {
+    "address": "110 RACCA RD",
+    "city": "LAFAYETTE",
+    "time": "04/06/2019 - 11:59 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.06776,
+    "longitude": -92.04099
+  }
+]
