@@ -1,26 +1,10 @@
 [
   {
-    "address": "97 I10 WESTBOUND MM97 HW",
-    "city": "LAFAYETTE",
-    "time": "04/07/2019 - 3:22 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.26255,
-    "longitude": -92.00867
-  },
-  {
     "address": "900 E BUTCHER SWITCH RD",
     "city": "LAFAYETTE",
     "time": "04/07/2019 - 3:22 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.28592,
     "longitude": -92.00058
-  },
-  {
-    "address": "812 CHURCH ST",
-    "city": "YOUNGSVILLE",
-    "time": "04/07/2019 - 2:39 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.09845,
-    "longitude": -92.00072
   }
 ]
