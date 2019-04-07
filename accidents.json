@@ -1,5 +1,21 @@
 [
   {
+    "address": "129 LIONS CLUB RD",
+    "city": "SCOTT",
+    "time": "04/07/2019 - 12:42 PM",
+    "due_to": "Commercial Fire",
+    "latitude": 30.2368482,
+    "longitude": -92.0986321
+  },
+  {
+    "address": "LOUISIANA AV & S MAGNOLIA ST",
+    "city": "LAFAYETTE",
+    "time": "04/07/2019 - 12:42 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.22571,
+    "longitude": -92.00791
+  },
+  {
     "address": "713 ARTHUR ST",
     "city": "LAFAYETTE",
     "time": "04/07/2019 - 12:21 PM",
