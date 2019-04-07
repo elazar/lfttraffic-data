@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "NE EVANGELINE TW & MICHAUD ST",
+    "city": "LAFAYETTE",
+    "time": "04/06/2019 - 7:01 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24728,
+    "longitude": -92.01241
+  }
+]
