@@ -1,11 +1,11 @@
 [
   {
-    "address": "200 VERSAILLES BL",
+    "address": "CAMERON ST & S FIELDSPAN RD",
     "city": "LAFAYETTE",
-    "time": "04/07/2019 - 11:09 AM",
-    "due_to": "Dumpster Fire",
-    "latitude": 30.2248147,
-    "longitude": -92.0252721
+    "time": "04/07/2019 - 11:28 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.23248,
+    "longitude": -92.05142
   },
   {
     "address": "AMBASSADOR CAFFERY PW & DULLES DR",
