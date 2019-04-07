@@ -1,18 +1,1 @@
-[
-  {
-    "address": "103 I10 WESTBOUND MM103A HW",
-    "city": "LAFAYETTE",
-    "time": "04/07/2019 - 11:49 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.26255,
-    "longitude": -92.00867
-  },
-  {
-    "address": "304 THELMA DR",
-    "city": "LAFAYETTE",
-    "time": "04/07/2019 - 11:10 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22981,
-    "longitude": -92.05137
-  }
-]
+[]
