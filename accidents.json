@@ -1,5 +1,13 @@
 [
   {
+    "address": "308 SILVERSTONE RD",
+    "city": "LAFAYETTE",
+    "time": "04/07/2019 - 1:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17335,
+    "longitude": -92.03839
+  },
+  {
     "address": "LOUISIANA AV & S MAGNOLIA ST",
     "city": "LAFAYETTE",
     "time": "04/07/2019 - 12:42 PM",
