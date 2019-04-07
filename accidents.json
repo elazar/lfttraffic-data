@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "3700 GOLDEN GRAIN RD",
+    "city": "LAFAYETTE",
+    "time": "04/07/2019 - 03:54 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.166579,
+    "longitude": -92.2597068
+  }
+]
