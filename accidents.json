@@ -1,5 +1,13 @@
 [
   {
+    "address": "W WILLOW ST & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "04/07/2019 - 6:48 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24448,
+    "longitude": -92.03275
+  },
+  {
     "address": "100 I10 WB EXIT RAMP HW",
     "city": "LAFAYETTE",
     "time": "04/07/2019 - 6:42 PM",
