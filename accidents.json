@@ -1,5 +1,13 @@
 [
   {
+    "address": "219 NOVA SCOTIA DR",
+    "city": "LAFAYETTE",
+    "time": "04/07/2019 - 11:22 AM",
+    "due_to": "Commercial Fire",
+    "latitude": 30.27987,
+    "longitude": -92.01185
+  },
+  {
     "address": "200 VERSAILLES BL",
     "city": "LAFAYETTE",
     "time": "04/07/2019 - 11:09 AM",
