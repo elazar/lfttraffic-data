@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 I10 EB ENTRANCE RAMP HW",
+    "city": "LAFAYETTE",
+    "time": "04/07/2019 - 12:39 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "318 S BIENVILLE ST",
     "city": "LAFAYETTE",
     "time": "04/07/2019 - 12:20 AM",
