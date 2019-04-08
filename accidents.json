@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 HANKS RD",
+    "city": "LAFAYETTE",
+    "time": "04/07/2019 - 8:54 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2322524,
+    "longitude": -92.1591865
+  },
+  {
     "address": "NE EVANGELINE TW & E GLORIA SWITCH RD",
     "city": "LAFAYETTE",
     "time": "04/07/2019 - 8:45 PM",
