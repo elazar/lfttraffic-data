@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24142,
     "longitude": -92.06551
-  },
-  {
-    "address": "W WILLOW ST & N PIERCE ST",
-    "city": "LAFAYETTE",
-    "time": "04/08/2019 - 10:21 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.24519,
-    "longitude": -92.01775
   }
 ]
