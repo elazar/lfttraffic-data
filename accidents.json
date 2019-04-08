@@ -1,5 +1,13 @@
 [
   {
+    "address": "1 I49 NORTHBOUND MM1 HW",
+    "city": "LAFAYETTE",
+    "time": "04/07/2019 - 8:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.28006,
+    "longitude": -92.02024
+  },
+  {
     "address": "E UNIVERSITY AV & HARDING ST",
     "city": "LAFAYETTE",
     "time": "04/07/2019 - 7:55 PM",
