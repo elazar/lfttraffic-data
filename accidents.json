@@ -1,5 +1,13 @@
 [
   {
+    "address": "603 AVENUE B",
+    "city": "YOUNGSVILLE",
+    "time": "04/08/2019 - 2:51 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.09519,
+    "longitude": -91.99765
+  },
+  {
     "address": "FATIMA",
     "city": "Lafayette",
     "time": "04/08/2019 - 2:44 PM",
