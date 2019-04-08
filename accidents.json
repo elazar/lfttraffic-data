@@ -1,5 +1,13 @@
 [
   {
+    "address": "E WILLOW ST & MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "04/08/2019 - 6:16 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24378,
+    "longitude": -92.00638
+  },
+  {
     "address": "YOUNGSVILLE HW & AMBASSADOR CAFFERY PW",
     "city": "BROUSSARD",
     "time": "04/08/2019 - 6:05 PM",
