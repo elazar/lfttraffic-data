@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & ST JULIEN AV",
+    "city": "LAFAYETTE",
+    "time": "04/08/2019 - 4:33 PM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.21151,
+    "longitude": -92.02691
+  },
+  {
     "address": "3620 NE EVANGELINE TW",
     "city": "CARENCRO",
     "time": "04/08/2019 - 4:27 PM",
