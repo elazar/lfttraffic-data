@@ -8,14 +8,6 @@
     "longitude": -92.02691
   },
   {
-    "address": "3620 NE EVANGELINE TW",
-    "city": "CARENCRO",
-    "time": "04/08/2019 - 4:27 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.31347,
-    "longitude": -92.02944
-  },
-  {
     "address": "7908 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "04/08/2019 - 4:22 PM",
@@ -54,13 +46,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.19911,
     "longitude": -92.01641
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & I10 HW",
-    "city": "LAFAYETTE",
-    "time": "04/08/2019 - 3:32 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.21504,
-    "longitude": -92.07579
   }
 ]
