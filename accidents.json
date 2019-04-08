@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "MALAPART RD & MILLS ST",
+    "city": "LAFAYETTE",
+    "time": "04/07/2019 - 11:36 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29057,
+    "longitude": -92.09139
+  }
+]
