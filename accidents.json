@@ -1,19 +1,19 @@
 [
   {
+    "address": "NW EVANGELINE TW & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "04/07/2019 - 7:29 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25326,
+    "longitude": -92.01457
+  },
+  {
     "address": "100 I10 WB EXIT RAMP HW",
     "city": "LAFAYETTE",
     "time": "04/07/2019 - 6:42 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.26255,
     "longitude": -92.00867
-  },
-  {
-    "address": "7713 LANDRY RD",
-    "city": "LAFAYETTE",
-    "time": "04/07/2019 - 6:36 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.21029,
-    "longitude": -92.22958
   },
   {
     "address": "100 WILDA ST",
