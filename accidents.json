@@ -1,19 +1,19 @@
 [
   {
+    "address": "S STERLING ST & FOURTEENTH ST",
+    "city": "LAFAYETTE",
+    "time": "04/08/2019 - 12:25 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.22574,
+    "longitude": -92.00505
+  },
+  {
     "address": "3831 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "04/08/2019 - 12:20 PM",
     "due_to": "Hazard",
     "latitude": 30.156369,
     "longitude": -91.965834
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & WESTMARK BL",
-    "city": "LAFAYETTE",
-    "time": "04/08/2019 - 11:37 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18444,
-    "longitude": -92.07499
   },
   {
     "address": "MOSS ST & DAIGLE ST",
