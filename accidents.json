@@ -1,5 +1,13 @@
 [
   {
+    "address": "3420 NE EVANGELINE TW",
+    "city": "CARENCRO",
+    "time": "04/09/2019 - 1:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.30293,
+    "longitude": -92.02633
+  },
+  {
     "address": "3 I49 NORTHBOUND MM3 HW",
     "city": "CARENCRO",
     "time": "04/09/2019 - 1:18 PM",
@@ -54,14 +62,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.170998,
     "longitude": -91.9996949
-  },
-  {
-    "address": "1521 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "04/09/2019 - 11:40 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19637,
-    "longitude": -92.01545
   },
   {
     "address": "E CONGRESS ST & JEFFERSON ST",
