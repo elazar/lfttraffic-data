@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "500 ELMWOOD DR",
+    "city": "LAFAYETTE",
+    "time": "04/09/2019 - 10:47 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17224,
+    "longitude": -92.06181
+  }
+]
