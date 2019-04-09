@@ -1,19 +1,19 @@
 [
   {
+    "address": "211 HOFFPAUIR RD",
+    "city": "LAFAYETTE",
+    "time": "04/09/2019 - 3:32 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19214,
+    "longitude": -92.24014
+  },
+  {
     "address": "1408 W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "04/09/2019 - 3:25 PM",
     "due_to": "Commercial Fire",
     "latitude": 30.2459,
     "longitude": -92.03998
-  },
-  {
-    "address": "400 AUSTRIA RD",
-    "city": "DUSON",
-    "time": "04/09/2019 - 3:13 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.24242,
-    "longitude": -92.19316
   },
   {
     "address": "603 AVENUE B",
