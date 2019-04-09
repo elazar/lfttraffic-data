@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "4423 RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "04/09/2019 - 10:28 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.18271,
+    "longitude": -92.22261
+  }
+]
