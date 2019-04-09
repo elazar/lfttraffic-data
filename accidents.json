@@ -3,7 +3,7 @@
     "address": "DETENTE RD & ROLLING MILL LN",
     "city": "YOUNGSVILLE",
     "time": "04/09/2019 - 4:37 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Stalled Vehicle",
     "latitude": 30.07973,
     "longitude": -92.0071
   },
@@ -70,14 +70,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.28209,
     "longitude": -92.01923
-  },
-  {
-    "address": "1522 CARMEL DR",
-    "city": "LAFAYETTE",
-    "time": "04/09/2019 - 3:04 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.23215,
-    "longitude": -91.98358
   },
   {
     "address": "E CONGRESS ST & JEFFERSON ST",
