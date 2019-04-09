@@ -1,5 +1,21 @@
 [
   {
+    "address": "101 CALCO BL",
+    "city": "LAFAYETTE",
+    "time": "04/09/2019 - 12:42 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.19847,
+    "longitude": -92.01621
+  },
+  {
+    "address": "3142 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "04/09/2019 - 12:42 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1873,
+    "longitude": -92.07797
+  },
+  {
     "address": "I10 WB EXIT RAMP HW & N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "04/09/2019 - 12:21 PM",
