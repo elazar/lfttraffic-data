@@ -1,5 +1,13 @@
 [
   {
+    "address": "1600 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "04/09/2019 - 07:18 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24998,
+    "longitude": -92.03515
+  },
+  {
     "address": "N UNIVERSITY AV & ST PIERRE ST",
     "city": "CARENCRO",
     "time": "04/09/2019 - 07:17 AM",
