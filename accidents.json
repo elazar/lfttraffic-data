@@ -1,5 +1,13 @@
 [
   {
+    "address": "302 W MAIN ST",
+    "city": "BROUSSARD",
+    "time": "04/09/2019 - 07:00 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.14924,
+    "longitude": -91.96592
+  },
+  {
     "address": "1521 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "04/09/2019 - 06:59 AM",
