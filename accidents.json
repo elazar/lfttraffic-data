@@ -16,14 +16,6 @@
     "longitude": -92.03118
   },
   {
-    "address": "103 I10 WESTBOUND MM103A HW",
-    "city": "LAFAYETTE",
-    "time": "04/09/2019 - 1:16 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.26255,
-    "longitude": -92.00867
-  },
-  {
     "address": "113 RUE VIANSA",
     "city": "LAFAYETTE",
     "time": "04/09/2019 - 12:55 PM",
@@ -38,14 +30,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.1810467,
     "longitude": -92.1775633
-  },
-  {
-    "address": "1400 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "04/09/2019 - 12:42 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.19885,
-    "longitude": -92.01684
   },
   {
     "address": "3100 W PINHOOK RD",
