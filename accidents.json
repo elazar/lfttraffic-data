@@ -1,5 +1,13 @@
 [
   {
+    "address": "W WILLOW ST & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "04/09/2019 - 3:56 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24448,
+    "longitude": -92.03275
+  },
+  {
     "address": "2900 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "04/09/2019 - 3:51 PM",
