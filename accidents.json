@@ -1,5 +1,13 @@
 [
   {
+    "address": "104 I10 WESTBOUND MM104 HW",
+    "city": "LAFAYETTE",
+    "time": "04/09/2019 - 2:02 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "3420 NE EVANGELINE TW",
     "city": "CARENCRO",
     "time": "04/09/2019 - 1:52 PM",
