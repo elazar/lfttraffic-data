@@ -1,5 +1,13 @@
 [
   {
+    "address": "NE EVANGELINE TW & E WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "04/09/2019 - 6:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24447,
+    "longitude": -92.01187
+  },
+  {
     "address": "200 PREJEAN RD",
     "city": "CARENCRO",
     "time": "04/09/2019 - 5:55 PM",
@@ -46,14 +54,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.28006,
     "longitude": -92.02024
-  },
-  {
-    "address": "BENDEL RD & W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "04/09/2019 - 3:59 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19911,
-    "longitude": -92.01641
   },
   {
     "address": "I49 NORTHBOUND MM1 HW & E PONT DES MOUTON RD",
