@@ -1,5 +1,13 @@
 [
   {
+    "address": "603 AVENUE B",
+    "city": "YOUNGSVILLE",
+    "time": "04/09/2019 - 3:06 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.09519,
+    "longitude": -91.99765
+  },
+  {
     "address": "1522 CARMEL DR",
     "city": "LAFAYETTE",
     "time": "04/09/2019 - 3:04 PM",
