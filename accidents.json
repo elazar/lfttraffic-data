@@ -1,5 +1,13 @@
 [
   {
+    "address": "1522 CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "04/09/2019 - 07:15 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.23215,
+    "longitude": -91.98358
+  },
+  {
     "address": "DOUCET RD & TACKABERRY RD",
     "city": "LAFAYETTE",
     "time": "04/09/2019 - 07:10 AM",
