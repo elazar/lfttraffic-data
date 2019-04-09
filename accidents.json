@@ -1,5 +1,13 @@
 [
   {
+    "address": "MILLS ST & W GLORIA SWITCH RD",
+    "city": "LAFAYETTE",
+    "time": "04/09/2019 - 2:05 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.29784,
+    "longitude": -92.09144
+  },
+  {
     "address": "104 I10 WESTBOUND MM104 HW",
     "city": "LAFAYETTE",
     "time": "04/09/2019 - 2:02 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.30293,
     "longitude": -92.02633
-  },
-  {
-    "address": "3 I49 NORTHBOUND MM3 HW",
-    "city": "CARENCRO",
-    "time": "04/09/2019 - 1:18 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.31396,
-    "longitude": -92.03118
   },
   {
     "address": "113 RUE VIANSA",
