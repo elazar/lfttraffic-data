@@ -1,5 +1,21 @@
 [
   {
+    "address": "210 E ST PETER",
+    "city": "Lafayette",
+    "time": "04/09/2019 - 5:14 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.31755,
+    "longitude": -92.04694
+  },
+  {
+    "address": "E WILLOW ST & E CEDAR ST",
+    "city": "LAFAYETTE",
+    "time": "04/09/2019 - 5:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2439,
+    "longitude": -92.00475
+  },
+  {
     "address": "W CONGRESS ST & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/09/2019 - 4:32 PM",
