@@ -1,5 +1,13 @@
 [
   {
+    "address": "801 ALBERTSON PW",
+    "city": "BROUSSARD",
+    "time": "04/09/2019 - 07:49 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13876,
+    "longitude": -91.96466
+  },
+  {
     "address": "W CONGRESS ST & GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "04/09/2019 - 07:46 AM",
@@ -38,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24998,
     "longitude": -92.03515
-  },
-  {
-    "address": "300 AVENUE B",
-    "city": "YOUNGSVILLE",
-    "time": "04/09/2019 - 07:17 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.09606,
-    "longitude": -91.9938
   },
   {
     "address": "600 CHURCH ST",
