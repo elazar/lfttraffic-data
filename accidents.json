@@ -1,11 +1,11 @@
 [
   {
-    "address": "PREJEAN RD & TOURNAMENT DR",
+    "address": "200 PREJEAN RD",
     "city": "CARENCRO",
     "time": "04/09/2019 - 5:55 PM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.30948,
-    "longitude": -92.05471
+    "latitude": 30.3095781,
+    "longitude": -92.0514909
   },
   {
     "address": "900 E UNIVERSITY AV",
@@ -30,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2439,
     "longitude": -92.00475
-  },
-  {
-    "address": "W CONGRESS ST & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "04/09/2019 - 4:32 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19597,
-    "longitude": -92.07523
   },
   {
     "address": "1521 W PINHOOK RD",
