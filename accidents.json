@@ -16,22 +16,6 @@
     "longitude": -92.0209788
   },
   {
-    "address": "113 RUE VIANSA",
-    "city": "LAFAYETTE",
-    "time": "04/09/2019 - 12:55 PM",
-    "due_to": "Residential Fire",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "address": "3100 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "04/09/2019 - 11:56 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.170998,
-    "longitude": -91.9996949
-  },
-  {
     "address": "E CONGRESS ST & JEFFERSON ST",
     "city": "LAFAYETTE",
     "time": "04/09/2019 - 11:13 AM",
