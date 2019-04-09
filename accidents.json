@@ -1,5 +1,21 @@
 [
   {
+    "address": "900 W BAYOU PW",
+    "city": "LAFAYETTE",
+    "time": "04/09/2019 - 4:20 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1915298,
+    "longitude": -92.0340873
+  },
+  {
+    "address": "1521 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "04/09/2019 - 4:20 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.19637,
+    "longitude": -92.01545
+  },
+  {
     "address": "2 I49 NORTHBOUND MM2 HW",
     "city": "LAFAYETTE",
     "time": "04/09/2019 - 4:12 PM",
