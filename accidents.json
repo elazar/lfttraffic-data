@@ -1,5 +1,21 @@
 [
   {
+    "address": "103 I10 EASTBOUND MM103A HW",
+    "city": "LAFAYETTE",
+    "time": "04/09/2019 - 07:43 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
+    "address": "W GLORIA SWITCH RD & NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "04/09/2019 - 07:43 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29564,
+    "longitude": -92.02676
+  },
+  {
     "address": "2 I49 SOUTHBOUND MM2 HW",
     "city": "LAFAYETTE",
     "time": "04/09/2019 - 07:25 AM",
