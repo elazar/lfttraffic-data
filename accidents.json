@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1512 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "04/09/2019 - 06:39 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23733,
+    "longitude": -92.00036
+  }
+]
