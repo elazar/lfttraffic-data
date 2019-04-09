@@ -24,28 +24,12 @@
     "longitude": -92.02024
   },
   {
-    "address": "1600 N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "04/09/2019 - 07:18 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24998,
-    "longitude": -92.03515
-  },
-  {
     "address": "600 CHURCH ST",
     "city": "YOUNGSVILLE",
     "time": "04/09/2019 - 07:16 AM",
     "due_to": "Traffic Control",
     "latitude": 30.09923,
     "longitude": -91.99578
-  },
-  {
-    "address": "DOUCET RD & TACKABERRY RD",
-    "city": "LAFAYETTE",
-    "time": "04/09/2019 - 07:10 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1947,
-    "longitude": -92.03816
   },
   {
     "address": "1521 W PINHOOK RD",
