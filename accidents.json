@@ -1,5 +1,13 @@
 [
   {
+    "address": "DOUCET RD & TACKABERRY RD",
+    "city": "LAFAYETTE",
+    "time": "04/09/2019 - 07:10 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1947,
+    "longitude": -92.03816
+  },
+  {
     "address": "302 W MAIN ST",
     "city": "BROUSSARD",
     "time": "04/09/2019 - 07:00 AM",
