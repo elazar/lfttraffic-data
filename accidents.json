@@ -1,5 +1,13 @@
 [
   {
+    "address": "4 I49 SOUTHBOUND MM4 HW",
+    "city": "LAFAYETTE",
+    "time": "04/09/2019 - 07:25 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.28006,
+    "longitude": -92.02024
+  },
+  {
     "address": "1600 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "04/09/2019 - 07:18 AM",
