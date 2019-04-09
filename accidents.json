@@ -1,5 +1,13 @@
 [
   {
+    "address": "103 I10 WESTBOUND MM103A HW",
+    "city": "LAFAYETTE",
+    "time": "04/09/2019 - 1:16 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "SW EVANGELINE TW & E PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "04/09/2019 - 1:03 PM",
@@ -40,12 +48,12 @@
     "longitude": -92.0708897
   },
   {
-    "address": "JOHNSTON ST & CAMELLIA BL",
+    "address": "4600 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "04/09/2019 - 12:46 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.19364,
-    "longitude": -92.0587
+    "latitude": 30.1882389,
+    "longitude": -92.0644162
   },
   {
     "address": "101 CALCO BL",
