@@ -1,5 +1,13 @@
 [
   {
+    "address": "KALISTE SALOOM RD & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "04/09/2019 - 07:50 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15649,
+    "longitude": -92.04838
+  },
+  {
     "address": "801 ALBERTSON PW",
     "city": "BROUSSARD",
     "time": "04/09/2019 - 07:49 AM",
@@ -54,14 +62,6 @@
     "due_to": "Traffic Control",
     "latitude": 30.09923,
     "longitude": -91.99578
-  },
-  {
-    "address": "1522 CARMEL DR",
-    "city": "LAFAYETTE",
-    "time": "04/09/2019 - 07:15 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.23215,
-    "longitude": -91.98358
   },
   {
     "address": "DOUCET RD & TACKABERRY RD",
