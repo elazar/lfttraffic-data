@@ -1,5 +1,13 @@
 [
   {
+    "address": "2605 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/10/2019 - 3:42 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20801,
+    "longitude": -92.03642
+  },
+  {
     "address": "NE EVANGELINE TW & E WILLOW ST",
     "city": "LAFAYETTE",
     "time": "04/10/2019 - 3:41 PM",
@@ -11,7 +19,7 @@
     "address": "5 PEGASUS BL",
     "city": "YOUNGSVILLE",
     "time": "04/10/2019 - 3:40 PM",
-    "due_to": "Incoming Call",
+    "due_to": "Fire Investigation",
     "latitude": 30.11616,
     "longitude": -92.00573
   },
