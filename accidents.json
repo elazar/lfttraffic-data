@@ -1,13 +1,5 @@
 [
   {
-    "address": "755 J L DR",
-    "city": "SCOTT",
-    "time": "04/10/2019 - 5:44 PM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.23885,
-    "longitude": -92.10212
-  },
-  {
     "address": "100 E KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "04/10/2019 - 5:32 PM",
@@ -38,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19438,
     "longitude": -92.01609
-  },
-  {
-    "address": "1909 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "04/10/2019 - 5:03 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21133,
-    "longitude": -92.02622
   },
   {
     "address": "AMBASSADOR CAFFERY PW & W WILLOW ST",
