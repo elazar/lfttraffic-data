@@ -7,14 +7,7 @@
     "latitude": 30.20001,
     "longitude": -92.02808
   },
-  {
-    "address": "3019 NW EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "04/10/2019 - 12:58 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2857,
-    "longitude": -92.02271
-  },
+  null,
   {
     "address": "2814 E MILTON AV",
     "city": "YOUNGSVILLE",
@@ -54,13 +47,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.26447,
     "longitude": -91.9931
-  },
-  {
-    "address": "W UNIVERSITY AV & LAFAYETTE ST",
-    "city": "LAFAYETTE",
-    "time": "04/10/2019 - 12:04 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21925,
-    "longitude": -92.02156
   }
 ]
