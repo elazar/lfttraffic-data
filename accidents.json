@@ -1,5 +1,13 @@
 [
   {
+    "address": "MARTEAU RD & E FAIRFIELD DR",
+    "city": "BROUSSARD",
+    "time": "04/09/2019 - 8:30 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.11646,
+    "longitude": -91.95665
+  },
+  {
     "address": "304 W MONROE ST",
     "city": "BROUSSARD",
     "time": "04/09/2019 - 8:19 PM",
@@ -14,14 +22,6 @@
     "due_to": "Fire Investigation",
     "latitude": 30.29385,
     "longitude": -92.02332
-  },
-  {
-    "address": "SIXTH ST & SE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "04/09/2019 - 7:57 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22063,
-    "longitude": -92.00718
   },
   {
     "address": "AMBASSADOR CAFFERY PW & DULLES DR",
