@@ -1,21 +1,5 @@
 [
   {
-    "address": "MARTEAU RD & E FAIRFIELD DR",
-    "city": "BROUSSARD",
-    "time": "04/09/2019 - 8:30 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.11646,
-    "longitude": -91.95665
-  },
-  {
-    "address": "3230 NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "04/09/2019 - 8:08 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.29385,
-    "longitude": -92.02332
-  },
-  {
     "address": "900 E UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "04/09/2019 - 5:38 PM",
