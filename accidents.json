@@ -1,12 +1,5 @@
 [
-  {
-    "address": "200 TERMINAL DR",
-    "city": "LAFAYETTE",
-    "time": "04/10/2019 - 3:43 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20814,
-    "longitude": -91.99326
-  },
+  null,
   {
     "address": "2605 JOHNSTON ST",
     "city": "LAFAYETTE",
@@ -23,7 +16,14 @@
     "latitude": 30.24447,
     "longitude": -92.01187
   },
-  null,
+  {
+    "address": "5 PEGASUS BL",
+    "city": "YOUNGSVILLE",
+    "time": "04/10/2019 - 3:40 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.11616,
+    "longitude": -92.00573
+  },
   {
     "address": "600 CHURCH ST",
     "city": "YOUNGSVILLE",
