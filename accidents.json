@@ -1,5 +1,12 @@
 [
-  null,
+  {
+    "address": "W UNIVERSITY AV & LAFAYETTE ST",
+    "city": "LAFAYETTE",
+    "time": "04/10/2019 - 12:04 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21925,
+    "longitude": -92.02156
+  },
   {
     "address": "JOHNSTON ST & W UNIVERSITY AV",
     "city": "LAFAYETTE",
