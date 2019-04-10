@@ -1,5 +1,13 @@
 [
   {
+    "address": "RICHARDSON AV & S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "04/10/2019 - 1:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20001,
+    "longitude": -92.02808
+  },
+  {
     "address": "3019 NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "04/10/2019 - 12:58 PM",
