@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "04/10/2019 - 12:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18186,
+    "longitude": -92.08133
+  },
+  {
     "address": "5727 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "04/10/2019 - 12:31 PM",
