@@ -1,5 +1,21 @@
 [
   {
+    "address": "N UNIVERSITY AV & JACK ST",
+    "city": "CARENCRO",
+    "time": "04/10/2019 - 6:17 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.32014,
+    "longitude": -92.04952
+  },
+  {
+    "address": "W WILLOW ST & NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "04/10/2019 - 6:16 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24481,
+    "longitude": -92.01456
+  },
+  {
     "address": "300 ACADIAN HILLS LN",
     "city": "LAFAYETTE",
     "time": "04/10/2019 - 6:10 PM",
@@ -22,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23129,
     "longitude": -92.01402
-  },
-  {
-    "address": "108 MERCHANTS BL",
-    "city": "LAFAYETTE",
-    "time": "04/10/2019 - 5:55 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17243,
-    "longitude": -92.00422
   },
   {
     "address": "200 W GLORIA SWITCH RD",
