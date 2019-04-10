@@ -15,28 +15,6 @@
     "latitude": 30.19885,
     "longitude": -92.01684
   },
-  {
-    "address": "120 E GLORIA SWITCH RD",
-    "city": "LAFAYETTE",
-    "time": "04/10/2019 - 1:48 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.29346,
-    "longitude": -92.02171
-  },
-  {
-    "address": "1809 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "04/10/2019 - 1:41 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.19232,
-    "longitude": -92.01526
-  },
-  {
-    "address": "CHEMIN AGREABLE & GUILLIOT RD",
-    "city": "LAFAYETTE",
-    "time": "04/10/2019 - 1:35 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.06828,
-    "longitude": -91.99061
-  }
+  null,
+  null
 ]
