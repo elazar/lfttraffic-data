@@ -1,5 +1,13 @@
 [
   {
+    "address": "1521 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "04/10/2019 - 07:02 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.19637,
+    "longitude": -92.01545
+  },
+  {
     "address": "603 AVENUE B",
     "city": "YOUNGSVILLE",
     "time": "04/10/2019 - 06:52 AM",
