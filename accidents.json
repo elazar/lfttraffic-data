@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & CURRAN LN",
+    "city": "LAFAYETTE",
+    "time": "04/10/2019 - 07:56 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18845,
+    "longitude": -92.07506
+  },
+  {
     "address": "BOURQUE RD & TOPPING RD",
     "city": "LAFAYETTE",
     "time": "04/10/2019 - 07:47 AM",
@@ -22,13 +30,5 @@
     "due_to": "Traffic Control",
     "latitude": 30.19637,
     "longitude": -92.01545
-  },
-  {
-    "address": "603 AVENUE B",
-    "city": "YOUNGSVILLE",
-    "time": "04/10/2019 - 06:52 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.09519,
-    "longitude": -91.99765
   }
 ]
