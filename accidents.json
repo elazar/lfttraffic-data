@@ -1,5 +1,21 @@
 [
   {
+    "address": "W WILLOW ST & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "04/10/2019 - 3:11 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.24448,
+    "longitude": -92.03275
+  },
+  {
+    "address": "CAMERON ST & JENKINS RD",
+    "city": "SCOTT",
+    "time": "04/10/2019 - 3:11 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23489,
+    "longitude": -92.11653
+  },
+  {
     "address": "US 90 EAST HW & SOUTHPARK RD",
     "city": "LAFAYETTE",
     "time": "04/10/2019 - 2:46 PM",
