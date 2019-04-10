@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "04/10/2019 - 10:39 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19364,
+    "longitude": -92.0587
+  },
+  {
     "address": "S AUDUBON BL & W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "04/10/2019 - 10:19 AM",
