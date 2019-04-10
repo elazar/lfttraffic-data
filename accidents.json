@@ -1,5 +1,13 @@
 [
   {
+    "address": "E BROUSSARD RD & VINCENT RD",
+    "city": "LAFAYETTE",
+    "time": "04/10/2019 - 08:16 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13085,
+    "longitude": -92.05553
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & CURRAN LN",
     "city": "LAFAYETTE",
     "time": "04/10/2019 - 07:56 AM",
