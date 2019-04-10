@@ -1,5 +1,13 @@
 [
   {
+    "address": "GOLDMAN ST & N STERLING ST",
+    "city": "LAFAYETTE",
+    "time": "04/09/2019 - 8:58 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.23545,
+    "longitude": -92.00972
+  },
+  {
     "address": "900 E UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "04/09/2019 - 5:38 PM",
