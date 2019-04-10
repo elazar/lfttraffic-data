@@ -23,7 +23,14 @@
     "latitude": 30.20801,
     "longitude": -92.03642
   },
-  null,
+  {
+    "address": "NE EVANGELINE TW & E WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "04/10/2019 - 3:41 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.24447,
+    "longitude": -92.01187
+  },
   {
     "address": "5 PEGASUS BL",
     "city": "YOUNGSVILLE",
