@@ -1,5 +1,13 @@
 [
   {
+    "address": "SE EVANGELINE TW & E PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "04/10/2019 - 12:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21749,
+    "longitude": -92.00495
+  },
+  {
     "address": "3201 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "04/10/2019 - 12:18 PM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21729,
     "longitude": -92.01902
-  },
-  {
-    "address": "3015 VEROT SCHOOL RD",
-    "city": "LAFAYETTE",
-    "time": "04/10/2019 - 11:42 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.13727,
-    "longitude": -92.03207
   },
   {
     "address": "4809 AMBASSADOR CAFFERY PW",
