@@ -46,13 +46,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2857,
     "longitude": -92.02271
-  },
-  {
-    "address": "3201 LOUISIANA AV",
-    "city": "LAFAYETTE",
-    "time": "04/10/2019 - 12:18 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.26447,
-    "longitude": -91.9931
   }
 ]
