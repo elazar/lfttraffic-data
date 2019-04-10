@@ -1,19 +1,19 @@
 [
   {
+    "address": "SOUTH MORGAN @ AMBASSADOR CAFFERY",
+    "city": "Lafayette",
+    "time": "04/09/2019 - 10:55 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.13188,
+    "longitude": -91.96517
+  },
+  {
     "address": "900 E UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "04/09/2019 - 10:44 PM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.211,
     "longitude": -92.01165
-  },
-  {
-    "address": "S MORGAN AV & AMBASSADOR CAFFERY PW",
-    "city": "BROUSSARD",
-    "time": "04/09/2019 - 9:46 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.13188,
-    "longitude": -91.96517
   },
   {
     "address": "900 E UNIVERSITY AV",
