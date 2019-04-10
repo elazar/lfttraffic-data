@@ -1,5 +1,13 @@
 [
   {
+    "address": "755 J L DR",
+    "city": "SCOTT",
+    "time": "04/10/2019 - 5:44 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.23885,
+    "longitude": -92.10212
+  },
+  {
     "address": "100 E KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "04/10/2019 - 5:32 PM",
@@ -46,22 +54,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24324,
     "longitude": -92.06626
-  },
-  {
-    "address": "SE EVANGELINE TW & SURREY ST",
-    "city": "LAFAYETTE",
-    "time": "04/10/2019 - 4:51 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2091,
-    "longitude": -91.99986
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & FREM BOUSTANY DR",
-    "city": "LAFAYETTE",
-    "time": "04/10/2019 - 4:39 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.15011,
-    "longitude": -92.0406
   },
   {
     "address": "S COLLEGE RD & W BAYOU PW",
