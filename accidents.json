@@ -1,5 +1,13 @@
 [
   {
+    "address": "220 WESTPOINTE CL",
+    "city": "LAFAYETTE",
+    "time": "04/10/2019 - 12:36 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2046364,
+    "longitude": -92.0854251
+  },
+  {
     "address": "ALCIDE DOMINIQUE DR & N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "04/10/2019 - 12:35 PM",
