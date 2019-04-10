@@ -1,5 +1,13 @@
 [
   {
+    "address": "GUILBEAU RD & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "04/10/2019 - 1:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19826,
+    "longitude": -92.07007
+  },
+  {
     "address": "3721 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/10/2019 - 1:17 PM",
@@ -7,8 +15,22 @@
     "latitude": 30.17357,
     "longitude": -92.0672
   },
-  null,
-  null,
+  {
+    "address": "RICHARDSON AV & S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "04/10/2019 - 1:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20001,
+    "longitude": -92.02808
+  },
+  {
+    "address": "3019 NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "04/10/2019 - 12:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2857,
+    "longitude": -92.02271
+  },
   {
     "address": "2814 E MILTON AV",
     "city": "YOUNGSVILLE",
