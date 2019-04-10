@@ -23,7 +23,14 @@
     "latitude": 30.21749,
     "longitude": -92.00495
   },
-  null,
+  {
+    "address": "2605 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/10/2019 - 3:42 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20801,
+    "longitude": -92.03642
+  },
   {
     "address": "5 PEGASUS BL",
     "city": "YOUNGSVILLE",
