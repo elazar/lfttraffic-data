@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "04/10/2019 - 12:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21729,
+    "longitude": -92.01902
+  },
+  {
     "address": "W CONGRESS ST & BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "04/10/2019 - 11:53 AM",
