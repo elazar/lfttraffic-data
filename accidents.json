@@ -1,5 +1,13 @@
 [
   {
+    "address": "E VEROT SCHOOL RD & SE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "04/10/2019 - 4:18 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.1828,
+    "longitude": -91.98983
+  },
+  {
     "address": "200 TERMINAL DR",
     "city": "LAFAYETTE",
     "time": "04/10/2019 - 3:43 PM",
