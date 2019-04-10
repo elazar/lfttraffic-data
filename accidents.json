@@ -1,5 +1,21 @@
 [
   {
+    "address": "320 DEVALCOURT ST",
+    "city": "LAFAYETTE",
+    "time": "04/10/2019 - 2:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21678,
+    "longitude": -92.0549
+  },
+  {
+    "address": "1400 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "04/10/2019 - 2:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19885,
+    "longitude": -92.01684
+  },
+  {
     "address": "120 E GLORIA SWITCH RD",
     "city": "LAFAYETTE",
     "time": "04/10/2019 - 1:48 PM",
