@@ -1,27 +1,11 @@
 [
   {
-    "address": "400 OAKLAWN AV",
-    "city": "LAFAYETTE",
-    "time": "04/10/2019 - 8:50 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2275758,
-    "longitude": -92.0294571
-  },
-  {
     "address": "121 E VERMILION ST",
     "city": "LAFAYETTE",
     "time": "04/10/2019 - 8:44 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.22454,
     "longitude": -92.01807
-  },
-  {
-    "address": "1904 ST MARY ST",
-    "city": "SCOTT",
-    "time": "04/10/2019 - 8:41 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.244338,
-    "longitude": -92.1068496
   },
   {
     "address": "605 LAFAYETTE ST",
