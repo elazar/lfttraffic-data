@@ -1,5 +1,13 @@
 [
   {
+    "address": "4600 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "04/11/2019 - 4:56 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.15321,
+    "longitude": -92.04515
+  },
+  {
     "address": "BENDEL RD & W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "04/11/2019 - 4:31 PM",
@@ -22,14 +30,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.17092,
     "longitude": -91.98031
-  },
-  {
-    "address": "2331 MOSS ST",
-    "city": "LAFAYETTE",
-    "time": "04/11/2019 - 4:17 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.25391,
-    "longitude": -92.00553
   },
   {
     "address": "NE EVANGELINE TW & E SIMCOE ST",
