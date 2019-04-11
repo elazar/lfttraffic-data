@@ -1,19 +1,11 @@
 [
   {
-    "address": "YOUNGSVILLE HW & W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "04/11/2019 - 3:25 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.16071,
-    "longitude": -91.99107
-  },
-  {
-    "address": "W PINHOOK RD & SOUTHPARK RD",
+    "address": "100 YOUNGSVILLE HW",
     "city": "LAFAYETTE",
     "time": "04/11/2019 - 3:23 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.16071,
-    "longitude": -91.99107
+    "latitude": 30.15991,
+    "longitude": -91.99149
   },
   {
     "address": "DESTINATION POINTE LN & LA 93 HW",
