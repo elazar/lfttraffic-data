@@ -22,5 +22,13 @@
     "due_to": "Fire Alarm-Commercial",
     "latitude": 30.31601,
     "longitude": -92.04121
+  },
+  {
+    "address": "1200 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "04/11/2019 - 10:23 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2266227,
+    "longitude": -92.0276243
   }
 ]
