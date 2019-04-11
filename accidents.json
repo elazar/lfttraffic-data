@@ -1,5 +1,13 @@
 [
   {
+    "address": "2331 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "04/11/2019 - 4:17 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25391,
+    "longitude": -92.00553
+  },
+  {
     "address": "NE EVANGELINE TW & E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "04/11/2019 - 4:16 PM",
