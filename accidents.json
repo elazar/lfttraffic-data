@@ -1,26 +1,10 @@
 [
   {
-    "address": "109 KENTUCKY LN",
-    "city": "LAFAYETTE",
-    "time": "04/10/2019 - 7:18 PM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.27747,
-    "longitude": -92.05846
-  },
-  {
     "address": "CAMERON ST & S A ST",
     "city": "DUSON",
     "time": "04/10/2019 - 6:42 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.23496,
     "longitude": -92.19307
-  },
-  {
-    "address": "200 W GLORIA SWITCH RD",
-    "city": "CARENCRO",
-    "time": "04/10/2019 - 5:54 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2959347,
-    "longitude": -92.0281711
   }
 ]
