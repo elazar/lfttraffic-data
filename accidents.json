@@ -16,12 +16,12 @@
     "longitude": -92.03204
   },
   {
-    "address": "NE EVANGELINE TW & JEFFERSON BL",
+    "address": "100 SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "04/11/2019 - 3:42 PM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.22903,
-    "longitude": -92.01168
+    "latitude": 30.2287745,
+    "longitude": -92.0117144
   },
   {
     "address": "215 SW EVANGELINE TW",
@@ -54,14 +54,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2405298,
     "longitude": -92.0069378
-  },
-  {
-    "address": "S COLLEGE RD & W BAYOU PW",
-    "city": "LAFAYETTE",
-    "time": "04/11/2019 - 3:08 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19915,
-    "longitude": -92.02663
   },
   {
     "address": "4700 JOHNSTON ST",
