@@ -1,19 +1,11 @@
 [
   {
-    "address": "711 CAMERON ST",
+    "address": "7011 CAMERON ST",
     "city": "LAFAYETTE",
     "time": "04/11/2019 - 5:18 PM",
     "due_to": "Residential Fire",
-    "latitude": 30.2317151,
-    "longitude": -92.0235867
-  },
-  {
-    "address": "CAMERON ST & S ANDRES RD",
-    "city": "LAFAYETTE",
-    "time": "04/11/2019 - 5:17 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.23492,
-    "longitude": -92.12526
+    "latitude": 30.23425,
+    "longitude": -92.12636
   },
   {
     "address": "NE EVANGELINE TW & BELLOT ST",
