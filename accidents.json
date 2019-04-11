@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 E BAYOU PW",
+    "city": "LAFAYETTE",
+    "time": "04/11/2019 - 3:05 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.183092,
+    "longitude": -92.0172729
+  },
+  {
     "address": "4700 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "04/11/2019 - 2:50 PM",
