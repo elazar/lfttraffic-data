@@ -1,5 +1,13 @@
 [
   {
+    "address": "2802 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/11/2019 - 09:04 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20681,
+    "longitude": -92.03991
+  },
+  {
     "address": "255 RIDGE RD",
     "city": "LAFAYETTE",
     "time": "04/11/2019 - 08:58 AM",
