@@ -1,5 +1,13 @@
 [
   {
+    "address": "1522 CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "04/11/2019 - 2:49 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.23215,
+    "longitude": -91.98358
+  },
+  {
     "address": "3016 E MILTON AV",
     "city": "YOUNGSVILLE",
     "time": "04/11/2019 - 2:45 PM",
