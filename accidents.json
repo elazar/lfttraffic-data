@@ -1,5 +1,13 @@
 [
   {
+    "address": "102 I10 EASTBOUND MM102 HW",
+    "city": "LAFAYETTE",
+    "time": "04/11/2019 - 12:16 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "NW EVANGELINE TW & W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "04/11/2019 - 12:10 PM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22289,
     "longitude": -92.02033
-  },
-  {
-    "address": "1200 W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "04/11/2019 - 10:23 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2266227,
-    "longitude": -92.0276243
   }
 ]
