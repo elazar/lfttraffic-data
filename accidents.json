@@ -1,5 +1,13 @@
 [
   {
+    "address": "PICARD RD & E MILTON AV",
+    "city": "LAFAYETTE",
+    "time": "04/11/2019 - 2:36 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.10527,
+    "longitude": -92.07346
+  },
+  {
     "address": "1849 BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "04/11/2019 - 2:30 PM",
