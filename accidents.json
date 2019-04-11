@@ -8,14 +8,6 @@
     "longitude": -92.13055
   },
   {
-    "address": "1923 VEROT SCHOOL RD",
-    "city": "LAFAYETTE",
-    "time": "04/11/2019 - 07:55 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15879,
-    "longitude": -92.02276
-  },
-  {
     "address": "LEONIE ST & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "04/11/2019 - 07:52 AM",
@@ -46,13 +38,5 @@
     "due_to": "Traffic Control",
     "latitude": 30.09923,
     "longitude": -91.99578
-  },
-  {
-    "address": "603 AVENUE B",
-    "city": "YOUNGSVILLE",
-    "time": "04/11/2019 - 06:48 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.09519,
-    "longitude": -91.99765
   }
 ]
