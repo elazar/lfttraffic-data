@@ -24,14 +24,6 @@
     "longitude": -91.98031
   },
   {
-    "address": "ST MARY ST & APOLLO RD",
-    "city": "SCOTT",
-    "time": "04/11/2019 - 4:20 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24428,
-    "longitude": -92.10699
-  },
-  {
     "address": "2331 MOSS ST",
     "city": "LAFAYETTE",
     "time": "04/11/2019 - 4:17 PM",
@@ -70,14 +62,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22731,
     "longitude": -92.01155
-  },
-  {
-    "address": "100 YOUNGSVILLE HW",
-    "city": "LAFAYETTE",
-    "time": "04/11/2019 - 3:23 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15991,
-    "longitude": -91.99149
   },
   {
     "address": "4700 JOHNSTON ST",
