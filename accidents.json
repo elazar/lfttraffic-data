@@ -1,5 +1,13 @@
 [
   {
+    "address": "255 RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "04/11/2019 - 08:58 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18116,
+    "longitude": -92.08284
+  },
+  {
     "address": "JOHNSTON ST & S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "04/11/2019 - 08:57 AM",
