@@ -1,5 +1,13 @@
 [
   {
+    "address": "121 E VERMILION ST",
+    "city": "LAFAYETTE",
+    "time": "04/10/2019 - 8:44 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22454,
+    "longitude": -92.01807
+  },
+  {
     "address": "1904 ST MARY ST",
     "city": "SCOTT",
     "time": "04/10/2019 - 8:41 PM",
