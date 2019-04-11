@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "04/11/2019 - 12:44 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21729,
+    "longitude": -92.01902
+  },
+  {
     "address": "4400 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/11/2019 - 12:40 PM",
