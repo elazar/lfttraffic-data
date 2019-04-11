@@ -1,5 +1,13 @@
 [
   {
+    "address": "3100 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/11/2019 - 2:29 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2044019,
+    "longitude": -92.0451826
+  },
+  {
     "address": "US 90 EAST HW & N MORGAN AV",
     "city": "BROUSSARD",
     "time": "04/11/2019 - 2:23 PM",
