@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 RUE DE CANNE",
+    "city": "BROUSSARD",
+    "time": "04/11/2019 - 11:10 AM",
+    "due_to": "Trash Fire",
+    "latitude": 30.1166204,
+    "longitude": -91.9626251
+  },
+  {
     "address": "800 S BUCHANAN ST",
     "city": "LAFAYETTE",
     "time": "04/11/2019 - 11:05 AM",
