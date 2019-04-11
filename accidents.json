@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & LA 182 HW",
+    "city": "BROUSSARD",
+    "time": "04/11/2019 - 08:19 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.14823,
+    "longitude": -91.96419
+  },
+  {
     "address": "RIDGE RD & LAGNEAUX RD",
     "city": "LAFAYETTE",
     "time": "04/11/2019 - 07:56 AM",
