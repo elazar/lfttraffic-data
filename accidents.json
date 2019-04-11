@@ -24,14 +24,6 @@
     "longitude": -91.99149
   },
   {
-    "address": "DESTINATION POINTE LN & LA 93 HW",
-    "city": "SCOTT",
-    "time": "04/11/2019 - 3:22 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.25107,
-    "longitude": -92.10813
-  },
-  {
     "address": "600 CHURCH ST",
     "city": "YOUNGSVILLE",
     "time": "04/11/2019 - 3:22 PM",
@@ -62,14 +54,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1863897,
     "longitude": -92.0663044
-  },
-  {
-    "address": "603 AVENUE B",
-    "city": "YOUNGSVILLE",
-    "time": "04/11/2019 - 2:40 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.09519,
-    "longitude": -91.99765
   },
   {
     "address": "100 OLD MAURICE RD",
