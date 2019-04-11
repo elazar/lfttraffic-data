@@ -40,14 +40,6 @@
     "longitude": -92.07501
   },
   {
-    "address": "PICARD RD & E MILTON AV",
-    "city": "LAFAYETTE",
-    "time": "04/11/2019 - 2:36 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.10527,
-    "longitude": -92.07346
-  },
-  {
     "address": "3100 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "04/11/2019 - 2:29 PM",
@@ -78,22 +70,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.22754,
     "longitude": -92.02923
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & TUCKER DR",
-    "city": "LAFAYETTE",
-    "time": "04/11/2019 - 2:09 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17501,
-    "longitude": -92.07082
-  },
-  {
-    "address": "JOHNSTON ST & CAMELLIA BL",
-    "city": "LAFAYETTE",
-    "time": "04/11/2019 - 1:39 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19364,
-    "longitude": -92.0587
   },
   {
     "address": "ANDERSON RD & BAB RD",
