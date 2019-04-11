@@ -1,5 +1,13 @@
 [
   {
+    "address": "N DOMINGUE AV & DULLES DR",
+    "city": "LAFAYETTE",
+    "time": "04/11/2019 - 12:31 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21055,
+    "longitude": -92.08376
+  },
+  {
     "address": "500 SONNIER RD",
     "city": "CARENCRO",
     "time": "04/11/2019 - 12:24 PM",
