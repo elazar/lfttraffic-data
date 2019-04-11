@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "605 LAFAYETTE ST",
+    "city": "YOUNGSVILLE",
+    "time": "04/10/2019 - 8:37 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.106063,
+    "longitude": -91.9907049
+  }
+]
