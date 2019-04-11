@@ -1,5 +1,13 @@
 [
   {
+    "address": "DESTINATION POINTE LN & LA 93 HW",
+    "city": "SCOTT",
+    "time": "04/11/2019 - 3:43 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.25107,
+    "longitude": -92.10813
+  },
+  {
     "address": "NE EVANGELINE TW & JEFFERSON BL",
     "city": "LAFAYETTE",
     "time": "04/11/2019 - 3:42 PM",
@@ -62,14 +70,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1863897,
     "longitude": -92.0663044
-  },
-  {
-    "address": "1522 CARMEL DR",
-    "city": "LAFAYETTE",
-    "time": "04/11/2019 - 2:49 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.23215,
-    "longitude": -91.98358
   },
   {
     "address": "603 AVENUE B",
