@@ -1,18 +1,34 @@
 [
   {
-    "address": "JEFFERSON ST & W CYPRESS ST",
-    "city": "LAFAYETTE",
-    "time": "04/11/2019 - 9:42 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.22736,
-    "longitude": -92.01581
+    "address": "300 JENCI DR",
+    "city": "BROUSSARD",
+    "time": "04/12/2019 - 07:50 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1421,
+    "longitude": -91.97128
   },
   {
-    "address": "7011 CAMERON ST",
+    "address": "600 CHURCH ST",
+    "city": "YOUNGSVILLE",
+    "time": "04/12/2019 - 07:15 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.09923,
+    "longitude": -91.99578
+  },
+  {
+    "address": "DULLES DR & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
-    "time": "04/11/2019 - 5:18 PM",
-    "due_to": "Residential Fire",
-    "latitude": 30.23425,
-    "longitude": -92.12636
+    "time": "04/12/2019 - 07:03 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21053,
+    "longitude": -92.07567
+  },
+  {
+    "address": "603 AVENUE B",
+    "city": "YOUNGSVILLE",
+    "time": "04/12/2019 - 06:53 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.09519,
+    "longitude": -91.99765
   }
 ]
