@@ -1,5 +1,21 @@
 [
   {
+    "address": "5700 CAMERON ST",
+    "city": "SCOTT",
+    "time": "04/12/2019 - 1:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2337177,
+    "longitude": -92.093022
+  },
+  {
+    "address": "5600 CAMERON ST",
+    "city": "SCOTT",
+    "time": "04/12/2019 - 1:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2337686,
+    "longitude": -92.0900429
+  },
+  {
     "address": "305 BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "04/12/2019 - 1:17 PM",
