@@ -1,5 +1,13 @@
 [
   {
+    "address": "5801 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/12/2019 - 3:51 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1716,
+    "longitude": -92.08055
+  },
+  {
     "address": "LA 93 HW & I10 HW",
     "city": "SCOTT",
     "time": "04/12/2019 - 3:49 PM",
