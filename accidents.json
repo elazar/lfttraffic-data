@@ -1,5 +1,13 @@
 [
   {
+    "address": "1300 S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "04/12/2019 - 09:52 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.1999006,
+    "longitude": -92.022976
+  },
+  {
     "address": "E MAIN ST & ALBERTSON PW",
     "city": "BROUSSARD",
     "time": "04/12/2019 - 09:50 AM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21831,
     "longitude": -92.04931
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & ERASTE LANDRY RD",
-    "city": "LAFAYETTE",
-    "time": "04/12/2019 - 09:27 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21912,
-    "longitude": -92.07587
   }
 ]
