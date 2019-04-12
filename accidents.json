@@ -1,5 +1,13 @@
 [
   {
+    "address": "LENA ST & N PIERCE ST",
+    "city": "LAFAYETTE",
+    "time": "04/12/2019 - 4:42 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.24293,
+    "longitude": -92.01861
+  },
+  {
     "address": "200 N AMBASSADOR CAFFERY PW",
     "city": "SCOTT",
     "time": "04/12/2019 - 4:33 PM",
