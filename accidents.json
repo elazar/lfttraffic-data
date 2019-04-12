@@ -1,5 +1,13 @@
 [
   {
+    "address": "2213 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "04/12/2019 - 6:14 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.16339,
+    "longitude": -92.04069
+  },
+  {
     "address": "600 PATTERSON ST",
     "city": "LAFAYETTE",
     "time": "04/12/2019 - 5:46 PM",
@@ -30,13 +38,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.22783,
     "longitude": -92.01208
-  },
-  {
-    "address": "1300 W GLORIA SWITCH RD",
-    "city": "CARENCRO",
-    "time": "04/12/2019 - 4:53 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.29823,
-    "longitude": -92.05883
   }
 ]
