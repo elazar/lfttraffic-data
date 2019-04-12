@@ -1,5 +1,13 @@
 [
   {
+    "address": "1522 CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "04/12/2019 - 3:02 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.23215,
+    "longitude": -91.98358
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & I10 HW",
     "city": "LAFAYETTE",
     "time": "04/12/2019 - 3:00 PM",
@@ -8,12 +16,12 @@
     "longitude": -92.07579
   },
   {
-    "address": "121 E PONT DES MOUTON RD",
+    "address": "2801 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "04/12/2019 - 3:00 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.27444,
-    "longitude": -92.01665
+    "latitude": 30.2739565,
+    "longitude": -92.0206357
   },
   {
     "address": "603 AVENUE B",
@@ -62,13 +70,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24324,
     "longitude": -92.06626
-  },
-  {
-    "address": "418 E PONT DES MOUTON RD",
-    "city": "LAFAYETTE",
-    "time": "04/12/2019 - 1:56 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.27226,
-    "longitude": -92.01083
   }
 ]
