@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 N AMBASSADOR CAFFERY PW",
+    "city": "SCOTT",
+    "time": "04/12/2019 - 4:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2502727,
+    "longitude": -92.0661651
+  },
+  {
     "address": "I49 NORTHBOUND HW & I10 OVERPASS MM103 HW",
     "city": "LAFAYETTE",
     "time": "04/12/2019 - 4:20 PM",
