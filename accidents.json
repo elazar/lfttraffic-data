@@ -1,5 +1,13 @@
 [
   {
+    "address": "LEE AV & W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "04/12/2019 - 12:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21849,
+    "longitude": -92.02057
+  },
+  {
     "address": "410 N MICHAUD ST",
     "city": "CARENCRO",
     "time": "04/12/2019 - 12:10 PM",
