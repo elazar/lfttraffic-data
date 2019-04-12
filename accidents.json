@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 WINDROW DR",
+    "city": "BROUSSARD",
+    "time": "04/11/2019 - 8:57 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.12152,
+    "longitude": -91.96872
+  },
+  {
     "address": "7011 CAMERON ST",
     "city": "LAFAYETTE",
     "time": "04/11/2019 - 5:18 PM",
