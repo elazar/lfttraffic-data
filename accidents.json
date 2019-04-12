@@ -1,5 +1,13 @@
 [
   {
+    "address": "305 BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "04/12/2019 - 1:17 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20837,
+    "longitude": -92.04289
+  },
+  {
     "address": "139 N RICHTER DR",
     "city": "LAFAYETTE",
     "time": "04/12/2019 - 1:14 PM",
