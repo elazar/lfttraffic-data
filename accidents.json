@@ -1,5 +1,13 @@
 [
   {
+    "address": "4200 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "04/12/2019 - 3:46 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.16113,
+    "longitude": -92.05625
+  },
+  {
     "address": "GUILBEAU RD & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "04/12/2019 - 3:39 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16601,
     "longitude": -92.08401
-  },
-  {
-    "address": "105 I10 WESTBOUND MM105 HW",
-    "city": "LAFAYETTE",
-    "time": "04/12/2019 - 3:33 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.26255,
-    "longitude": -92.00867
   },
   {
     "address": "ST DE PORRES ST & ALLEY I",
