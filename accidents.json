@@ -54,13 +54,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17527,
     "longitude": -92.07228
-  },
-  {
-    "address": "4200 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "04/12/2019 - 3:46 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.16113,
-    "longitude": -92.05625
   }
 ]
