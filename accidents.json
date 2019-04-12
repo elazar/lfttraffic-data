@@ -1,5 +1,13 @@
 [
   {
+    "address": "105 I10 WESTBOUND MM105 HW",
+    "city": "LAFAYETTE",
+    "time": "04/12/2019 - 3:33 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "I49 SOUTHBOUND MM4 HW & VETERANS DR",
     "city": "LAFAYETTE",
     "time": "04/12/2019 - 3:25 PM",
@@ -54,13 +62,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2739565,
     "longitude": -92.0206357
-  },
-  {
-    "address": "603 AVENUE B",
-    "city": "YOUNGSVILLE",
-    "time": "04/12/2019 - 2:50 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.09519,
-    "longitude": -91.99765
   }
 ]
