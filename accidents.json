@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & PORTLAND AV",
+    "city": "LAFAYETTE",
+    "time": "04/12/2019 - 4:44 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.25638,
+    "longitude": -92.03899
+  },
+  {
     "address": "106 LENA ST",
     "city": "LAFAYETTE",
     "time": "04/12/2019 - 4:42 PM",
