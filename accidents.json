@@ -1,5 +1,21 @@
 [
   {
+    "address": "NE EVANGELINE TW & E SECOND ST",
+    "city": "LAFAYETTE",
+    "time": "04/12/2019 - 5:03 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23052,
+    "longitude": -92.01296
+  },
+  {
+    "address": "SW EVANGELINE TW & FIFTH ST",
+    "city": "LAFAYETTE",
+    "time": "04/12/2019 - 5:03 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.22783,
+    "longitude": -92.01208
+  },
+  {
     "address": "100 I10 EB EXIT RAMP HW",
     "city": "LAFAYETTE",
     "time": "04/12/2019 - 4:58 PM",
