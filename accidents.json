@@ -1,5 +1,13 @@
 [
   {
+    "address": "1300 W GLORIA SWITCH RD",
+    "city": "CARENCRO",
+    "time": "04/12/2019 - 4:53 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29823,
+    "longitude": -92.05883
+  },
+  {
     "address": "106 LENA ST",
     "city": "LAFAYETTE",
     "time": "04/12/2019 - 4:42 PM",
