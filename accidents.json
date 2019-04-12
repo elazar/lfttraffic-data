@@ -1,5 +1,13 @@
 [
   {
+    "address": "6130 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/12/2019 - 3:34 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16601,
+    "longitude": -92.08401
+  },
+  {
     "address": "105 I10 WESTBOUND MM105 HW",
     "city": "LAFAYETTE",
     "time": "04/12/2019 - 3:33 PM",
