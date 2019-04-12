@@ -1,5 +1,13 @@
 [
   {
+    "address": "E MAIN ST & ALBERTSON PW",
+    "city": "BROUSSARD",
+    "time": "04/12/2019 - 09:50 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14074,
+    "longitude": -91.94631
+  },
+  {
     "address": "BERTRAND DR & DEVALCOURT ST",
     "city": "LAFAYETTE",
     "time": "04/12/2019 - 09:39 AM",
