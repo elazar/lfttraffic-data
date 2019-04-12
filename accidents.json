@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "04/12/2019 - 10:06 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1766641,
+    "longitude": -92.0052088
+  },
+  {
     "address": "100 93 HW",
     "city": "Lafayette",
     "time": "04/12/2019 - 09:58 AM",
@@ -14,14 +22,6 @@
     "due_to": "Traffic Control",
     "latitude": 30.1999006,
     "longitude": -92.022976
-  },
-  {
-    "address": "E MAIN ST & ALBERTSON PW",
-    "city": "BROUSSARD",
-    "time": "04/12/2019 - 09:50 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.14074,
-    "longitude": -91.94631
   },
   {
     "address": "BERTRAND DR & DEVALCOURT ST",
