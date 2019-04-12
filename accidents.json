@@ -1,5 +1,13 @@
 [
   {
+    "address": "E ST MARY BL & REX ST",
+    "city": "LAFAYETTE",
+    "time": "04/12/2019 - 10:57 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21335,
+    "longitude": -92.02023
+  },
+  {
     "address": "500 SETTLERS TRACE BL",
     "city": "LAFAYETTE",
     "time": "04/12/2019 - 10:43 AM",
