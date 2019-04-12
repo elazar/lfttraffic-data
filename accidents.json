@@ -1,5 +1,21 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "04/12/2019 - 11:18 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15649,
+    "longitude": -92.04838
+  },
+  {
+    "address": "KALISTE SALOOM RD & CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "04/12/2019 - 11:18 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16717,
+    "longitude": -92.03642
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "04/12/2019 - 11:10 AM",
