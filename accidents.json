@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "04/12/2019 - 2:41 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24052,
+    "longitude": -92.03242
+  },
+  {
     "address": "200 COMMONWEALTH DR",
     "city": "CARENCRO",
     "time": "04/12/2019 - 2:39 PM",
