@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 93 HW",
+    "city": "Lafayette",
+    "time": "04/12/2019 - 09:58 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.2348501,
+    "longitude": -92.1072851
+  },
+  {
     "address": "1300 S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "04/12/2019 - 09:52 AM",
