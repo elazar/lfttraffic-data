@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & BROADMOOR BL",
+    "city": "LAFAYETTE",
+    "time": "04/12/2019 - 12:48 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18179,
+    "longitude": -92.07081
+  },
+  {
     "address": "ST CHARLES ST & N ST JOHN ST",
     "city": "CARENCRO",
     "time": "04/12/2019 - 12:27 PM",
