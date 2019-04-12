@@ -14,21 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22717,
     "longitude": -92.03134
-  },
-  {
-    "address": "200 VEROT SCHOOL RD",
-    "city": "LAFAYETTE",
-    "time": "04/12/2019 - 10:06 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1766641,
-    "longitude": -92.0052088
-  },
-  {
-    "address": "BERTRAND DR & DEVALCOURT ST",
-    "city": "LAFAYETTE",
-    "time": "04/12/2019 - 09:39 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21831,
-    "longitude": -92.04931
   }
 ]
