@@ -24,14 +24,6 @@
     "longitude": -92.08055
   },
   {
-    "address": "LA 93 HW & I10 HW",
-    "city": "SCOTT",
-    "time": "04/12/2019 - 3:49 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23922,
-    "longitude": -92.10743
-  },
-  {
     "address": "4200 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/12/2019 - 3:46 PM",
@@ -46,5 +38,13 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16601,
     "longitude": -92.08401
+  },
+  {
+    "address": "2801 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "04/12/2019 - 3:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2739565,
+    "longitude": -92.0206357
   }
 ]
