@@ -1,19 +1,19 @@
 [
   {
+    "address": "100 PEREZ DR",
+    "city": "SCOTT",
+    "time": "04/11/2019 - 7:12 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.2330849,
+    "longitude": -92.0984001
+  },
+  {
     "address": "1331 JEFFERSON ST",
     "city": "LAFAYETTE",
     "time": "04/11/2019 - 7:09 PM",
     "due_to": "Fire Investigation",
     "latitude": 30.21851,
     "longitude": -92.01451
-  },
-  {
-    "address": "201 ST NAZAIRE RD",
-    "city": "BROUSSARD",
-    "time": "04/11/2019 - 6:48 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.14148,
-    "longitude": -91.94173
   },
   {
     "address": "CAMERON ST & APOLLO RD",
