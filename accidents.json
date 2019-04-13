@@ -8,14 +8,6 @@
     "longitude": null
   },
   {
-    "address": "HECTOR CONNOLY RD & NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "04/13/2019 - 3:07 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.32261,
-    "longitude": -92.0325
-  },
-  {
     "address": "105 I10 WESTBOUND MM105 HW",
     "city": "LAFAYETTE",
     "time": "04/13/2019 - 3:04 PM",
@@ -38,14 +30,6 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.13528,
     "longitude": -92.00763
-  },
-  {
-    "address": "100 SOUTHPARK RD",
-    "city": "LAFAYETTE",
-    "time": "04/13/2019 - 2:44 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.17065,
-    "longitude": -91.98147
   },
   {
     "address": "W PINHOOK RD & VEROT SCHOOL RD",
