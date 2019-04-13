@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 LA 93 HW",
+    "city": "SCOTT",
+    "time": "04/13/2019 - 09:00 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.2348501,
+    "longitude": -92.1072851
+  },
+  {
     "address": "DULLES DR & WESTGATE RD",
     "city": "LAFAYETTE",
     "time": "04/13/2019 - 08:44 AM",
