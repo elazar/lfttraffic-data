@@ -1,5 +1,13 @@
 [
   {
+    "address": "2822 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "04/13/2019 - 6:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19661,
+    "longitude": -92.0758
+  },
+  {
     "address": "WAGON TRAIL RD & BILLEAUX RD",
     "city": "LAFAYETTE",
     "time": "04/13/2019 - 5:34 PM",
@@ -14,14 +22,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.2541581,
     "longitude": -92.0753251
-  },
-  {
-    "address": "US 90 EAST HW & LA 182 HW",
-    "city": "BROUSSARD",
-    "time": "04/13/2019 - 5:18 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.14823,
-    "longitude": -91.96419
   },
   {
     "address": "1200 GENDARME RD",
