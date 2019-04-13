@@ -1,13 +1,5 @@
 [
   {
-    "address": "N UNIVERSITY AV & W GLORIA SWITCH RD",
-    "city": "CARENCRO",
-    "time": "04/13/2019 - 4:16 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.29785,
-    "longitude": -92.04941
-  },
-  {
     "address": "CAMERON ST & MADISON ST",
     "city": "LAFAYETTE",
     "time": "04/13/2019 - 4:08 PM",
@@ -22,14 +14,6 @@
     "due_to": "Wire Hazard",
     "latitude": 30.353372,
     "longitude": -92.0829649
-  },
-  {
-    "address": "6100 US 90 EAST HW",
-    "city": "BROUSSARD",
-    "time": "04/13/2019 - 3:59 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.10118,
-    "longitude": -91.94283
   },
   {
     "address": "128 HUGH WALLIS RD",
