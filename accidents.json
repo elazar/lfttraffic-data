@@ -1,5 +1,13 @@
 [
   {
+    "address": "GALLET RD & SAVOY RD",
+    "city": "LAFAYETTE",
+    "time": "04/13/2019 - 5:02 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.09466,
+    "longitude": -92.05115
+  },
+  {
     "address": "5000 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "04/13/2019 - 5:00 PM",
@@ -38,14 +46,6 @@
     "due_to": "Wire Hazard",
     "latitude": 30.353372,
     "longitude": -92.0829649
-  },
-  {
-    "address": "W PINHOOK RD & KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "04/13/2019 - 3:48 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1886,
-    "longitude": -92.0141
   },
   {
     "address": "BOSSIER ST & N ST ANTOINE ST",
