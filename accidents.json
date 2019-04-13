@@ -1,5 +1,13 @@
 [
   {
+    "address": "1500 LA NEUVILLE RD",
+    "city": "LAFAYETTE",
+    "time": "04/13/2019 - 6:50 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.14309,
+    "longitude": -92.02429
+  },
+  {
     "address": "2600 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "04/13/2019 - 6:33 PM",
