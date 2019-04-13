@@ -1,5 +1,13 @@
 [
   {
+    "address": "1734 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "04/12/2019 - 9:25 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19275,
+    "longitude": -92.01639
+  },
+  {
     "address": "100 I10 EASTBOUND MM100 HW",
     "city": "LAFAYETTE",
     "time": "04/12/2019 - 9:10 PM",
