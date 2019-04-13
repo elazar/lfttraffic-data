@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 KAREN DR",
+    "city": "LAFAYETTE",
+    "time": "04/13/2019 - 07:23 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1970176,
+    "longitude": -92.0564351
+  },
+  {
     "address": "3141 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "04/13/2019 - 07:11 AM",
