@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 ROOSEVELT ST",
+    "city": "LAFAYETTE",
+    "time": "04/13/2019 - 3:28 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.21587,
+    "longitude": -92.01277
+  },
+  {
     "address": "LA 182 HW & US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "04/13/2019 - 3:27 PM",
