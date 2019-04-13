@@ -24,14 +24,6 @@
     "longitude": -91.94135
   },
   {
-    "address": "ALBERTSON PW & S MORGAN AV",
-    "city": "BROUSSARD",
-    "time": "04/13/2019 - 2:45 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.1383,
-    "longitude": -91.96516
-  },
-  {
     "address": "AMBASSADOR CAFFERY PW & BONIN RD",
     "city": "YOUNGSVILLE",
     "time": "04/13/2019 - 2:44 PM",
@@ -46,14 +38,6 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.17065,
     "longitude": -91.98147
-  },
-  {
-    "address": "614 ST PATRICK ST",
-    "city": "LAFAYETTE",
-    "time": "04/13/2019 - 2:42 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.22065,
-    "longitude": -92.03173
   },
   {
     "address": "DUHON RD & W BROUSSARD RD",
