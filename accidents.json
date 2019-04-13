@@ -1,5 +1,13 @@
 [
   {
+    "address": "421 MARIGOLD LP",
+    "city": "LAFAYETTE",
+    "time": "04/13/2019 - 1:49 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.23901,
+    "longitude": -92.03881
+  },
+  {
     "address": "3125 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "04/13/2019 - 1:32 PM",
@@ -38,14 +46,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.23102,
     "longitude": -92.01311
-  },
-  {
-    "address": "2901 E MILTON AV",
-    "city": "YOUNGSVILLE",
-    "time": "04/13/2019 - 12:55 PM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.1107,
-    "longitude": -92.01351
   },
   {
     "address": "JOHNSTON ST & GOUDCHAUX DR",
