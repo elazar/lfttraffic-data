@@ -1,5 +1,13 @@
 [
   {
+    "address": "WAGON TRAIL RD & BILLEAUX RD",
+    "city": "LAFAYETTE",
+    "time": "04/13/2019 - 5:34 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.32784,
+    "longitude": -92.09756
+  },
+  {
     "address": "1350 RENAUD DR",
     "city": "SCOTT",
     "time": "04/13/2019 - 5:28 PM",
