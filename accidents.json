@@ -1,5 +1,13 @@
 [
   {
+    "address": "2600 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "04/13/2019 - 6:33 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2511037,
+    "longitude": -91.9996486
+  },
+  {
     "address": "I49 NORTHBOUND MM3 HW & E GLORIA SWITCH RD",
     "city": "CARENCRO",
     "time": "04/13/2019 - 6:22 PM",
