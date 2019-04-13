@@ -1,5 +1,13 @@
 [
   {
+    "address": "CARMEL DR & E PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "04/13/2019 - 3:32 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.2334,
+    "longitude": -91.9927
+  },
+  {
     "address": "MADELINE AV & N ST ANTOINE ST",
     "city": "LAFAYETTE",
     "time": "04/13/2019 - 3:29 PM",
