@@ -54,13 +54,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.3179,
     "longitude": -92.03226
-  },
-  {
-    "address": "205 LEON ST",
-    "city": "BROUSSARD",
-    "time": "04/13/2019 - 1:54 PM",
-    "due_to": "Hazardous Material",
-    "latitude": 30.14071,
-    "longitude": -91.95682
   }
 ]
