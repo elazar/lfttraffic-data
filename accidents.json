@@ -1,5 +1,13 @@
 [
   {
+    "address": "PLEASANT VIEW DR & N SUWANEE RD",
+    "city": "LAFAYETTE",
+    "time": "04/13/2019 - 2:08 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.15239,
+    "longitude": -92.07477
+  },
+  {
     "address": "113 AUBURN DR",
     "city": "CARENCRO",
     "time": "04/13/2019 - 2:03 PM",
