@@ -16,14 +16,6 @@
     "longitude": -92.05066
   },
   {
-    "address": "CAMERON ST & MADISON ST",
-    "city": "LAFAYETTE",
-    "time": "04/13/2019 - 4:08 PM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.23289,
-    "longitude": -92.01988
-  },
-  {
     "address": "1200 GENDARME RD",
     "city": "LAFAYETTE",
     "time": "04/13/2019 - 4:03 PM",
@@ -62,13 +54,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.13528,
     "longitude": -92.00763
-  },
-  {
-    "address": "SONNIER RD & NE FRONTAGE RD",
-    "city": "CARENCRO",
-    "time": "04/13/2019 - 3:23 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.3179,
-    "longitude": -92.03226
   }
 ]
