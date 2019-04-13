@@ -1,5 +1,13 @@
 [
   {
+    "address": "725 WESTGATE RD",
+    "city": "SCOTT",
+    "time": "04/12/2019 - 8:31 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22348,
+    "longitude": -92.08653
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "04/12/2019 - 8:20 PM",
