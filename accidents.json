@@ -1,5 +1,13 @@
 [
   {
+    "address": "1350 RENAUD DR",
+    "city": "SCOTT",
+    "time": "04/13/2019 - 5:28 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2541581,
+    "longitude": -92.0753251
+  },
+  {
     "address": "US 90 EAST HW & LA 182 HW",
     "city": "BROUSSARD",
     "time": "04/13/2019 - 5:18 PM",
