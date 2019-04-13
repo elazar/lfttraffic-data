@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 I10 EASTBOUND MM100 HW",
+    "city": "LAFAYETTE",
+    "time": "04/12/2019 - 9:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "2428 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "04/12/2019 - 9:03 PM",
