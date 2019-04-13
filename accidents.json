@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21729,
     "longitude": -92.01902
-  },
-  {
-    "address": "99 I10 EASTBOUND MM99 HW",
-    "city": "SCOTT",
-    "time": "04/12/2019 - 9:10 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.24727,
-    "longitude": -92.09751
   }
 ]
