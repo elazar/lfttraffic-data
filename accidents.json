@@ -1,5 +1,21 @@
 [
   {
+    "address": "614 ST PATRICK ST",
+    "city": "LAFAYETTE",
+    "time": "04/13/2019 - 2:42 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.22065,
+    "longitude": -92.03173
+  },
+  {
+    "address": "DUHON RD & W BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "04/13/2019 - 2:42 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.16693,
+    "longitude": -92.09962
+  },
+  {
     "address": "W PINHOOK RD & VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "04/13/2019 - 2:40 PM",
