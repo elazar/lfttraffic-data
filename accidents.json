@@ -1,5 +1,13 @@
 [
   {
+    "address": "S COLLEGE RD & W BAYOU PW",
+    "city": "LAFAYETTE",
+    "time": "04/12/2019 - 8:47 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.19915,
+    "longitude": -92.02663
+  },
+  {
     "address": "725 WESTGATE RD",
     "city": "SCOTT",
     "time": "04/12/2019 - 8:31 PM",
