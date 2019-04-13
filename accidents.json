@@ -1,19 +1,11 @@
 [
   {
-    "address": "E BROUSSARD RD & KALISTE SALOOM RD",
+    "address": "BOSSIER ST & N ST ANTOINE ST",
     "city": "LAFAYETTE",
-    "time": "04/13/2019 - 3:41 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.13792,
-    "longitude": -92.06754
-  },
-  {
-    "address": "N UNIVERSITY AV & W PONT DES MOUTON RD",
-    "city": "LAFAYETTE",
-    "time": "04/13/2019 - 3:41 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.27587,
-    "longitude": -92.04949
+    "time": "04/13/2019 - 3:42 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.24381,
+    "longitude": -92.02363
   },
   {
     "address": "MADELINE AV & N ST ANTOINE ST",
