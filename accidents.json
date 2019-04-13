@@ -1,5 +1,13 @@
 [
   {
+    "address": "721 W BUTCHER SWITCH RD",
+    "city": "CARENCRO",
+    "time": "04/13/2019 - 4:26 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.28706,
+    "longitude": -92.04099
+  },
+  {
     "address": "4313 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/13/2019 - 4:26 PM",
@@ -54,14 +62,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.13528,
     "longitude": -92.00763
-  },
-  {
-    "address": "200 ROOSEVELT ST",
-    "city": "LAFAYETTE",
-    "time": "04/13/2019 - 3:28 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.21587,
-    "longitude": -92.01277
   },
   {
     "address": "SONNIER RD & NE FRONTAGE RD",
