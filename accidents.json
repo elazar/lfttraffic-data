@@ -1,5 +1,21 @@
 [
   {
+    "address": "W PINHOOK RD & VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "04/13/2019 - 2:40 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.17673,
+    "longitude": -92.00239
+  },
+  {
+    "address": "LANDRY RD & HENNING RD",
+    "city": "SCOTT",
+    "time": "04/13/2019 - 2:40 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21193,
+    "longitude": -92.10868
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & S BERNARD RD",
     "city": "BROUSSARD",
     "time": "04/13/2019 - 2:38 PM",
@@ -32,12 +48,12 @@
     "longitude": -92.07477
   },
   {
-    "address": "113 AUBURN DR",
+    "address": "115 AUBURN DR",
     "city": "CARENCRO",
     "time": "04/13/2019 - 2:03 PM",
     "due_to": "Fire Investigation",
     "latitude": 30.31857,
-    "longitude": -92.05383
+    "longitude": -92.05405
   },
   {
     "address": "205 LEON ST",
