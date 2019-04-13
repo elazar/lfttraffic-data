@@ -24,6 +24,14 @@
     "longitude": -92.00763
   },
   {
+    "address": "100 SOUTHPARK RD",
+    "city": "LAFAYETTE",
+    "time": "04/13/2019 - 2:44 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.17065,
+    "longitude": -91.98147
+  },
+  {
     "address": "614 ST PATRICK ST",
     "city": "LAFAYETTE",
     "time": "04/13/2019 - 2:42 PM",
