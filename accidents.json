@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "04/12/2019 - 9:36 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21729,
+    "longitude": -92.01902
+  },
+  {
     "address": "241 DONLON AV",
     "city": "LAFAYETTE",
     "time": "04/12/2019 - 9:28 PM",
