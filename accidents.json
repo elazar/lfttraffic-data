@@ -1,5 +1,13 @@
 [
   {
+    "address": "SURREY ST & BORMAN DR",
+    "city": "LAFAYETTE",
+    "time": "04/13/2019 - 12:40 PM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.20972,
+    "longitude": -91.99564
+  },
+  {
     "address": "800 MILLS ST",
     "city": "SCOTT",
     "time": "04/13/2019 - 12:39 PM",
