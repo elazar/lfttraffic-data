@@ -1,5 +1,13 @@
 [
   {
+    "address": "LA 182 HW & US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "04/13/2019 - 3:27 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.14823,
+    "longitude": -91.96419
+  },
+  {
     "address": "SONNIER RD & NE FRONTAGE RD",
     "city": "CARENCRO",
     "time": "04/13/2019 - 3:23 PM",
