@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & W GLORIA SWITCH RD",
+    "city": "CARENCRO",
+    "time": "04/13/2019 - 4:16 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.29785,
+    "longitude": -92.04941
+  },
+  {
     "address": "CAMERON ST & MADISON ST",
     "city": "LAFAYETTE",
     "time": "04/13/2019 - 4:08 PM",
@@ -38,6 +46,14 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1886,
     "longitude": -92.0141
+  },
+  {
+    "address": "BOSSIER ST & N ST ANTOINE ST",
+    "city": "LAFAYETTE",
+    "time": "04/13/2019 - 3:42 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.24381,
+    "longitude": -92.02363
   },
   {
     "address": "AMBASSADOR CAFFERY PW & BONIN RD",
