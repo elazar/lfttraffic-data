@@ -8,14 +8,6 @@
     "longitude": -92.0325
   },
   {
-    "address": "LA NEUVILLE RD & YOUNGSVILLE HW",
-    "city": "BROUSSARD",
-    "time": "04/13/2019 - 3:07 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.14488,
-    "longitude": -91.99167
-  },
-  {
     "address": "105 I10 WESTBOUND MM105 HW",
     "city": "LAFAYETTE",
     "time": "04/13/2019 - 3:04 PM",
@@ -30,14 +22,6 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.18268,
     "longitude": -91.99006
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & YOUNGSVILLE HW",
-    "city": "BROUSSARD",
-    "time": "04/13/2019 - 2:55 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.13508,
-    "longitude": -91.99044
   },
   {
     "address": "AMBASSADOR CAFFERY PW & BONIN RD",
@@ -78,22 +62,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.21193,
     "longitude": -92.10868
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & S BERNARD RD",
-    "city": "BROUSSARD",
-    "time": "04/13/2019 - 2:38 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.13159,
-    "longitude": -91.96437
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & FREM BOUSTANY DR",
-    "city": "LAFAYETTE",
-    "time": "04/13/2019 - 2:32 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.15011,
-    "longitude": -92.0406
   },
   {
     "address": "PLEASANT VIEW DR & N SUWANEE RD",
