@@ -1,5 +1,13 @@
 [
   {
+    "address": "BONIN RD & CREST CL",
+    "city": "YOUNGSVILLE",
+    "time": "04/13/2019 - 4:38 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.11253,
+    "longitude": -92.00735
+  },
+  {
     "address": "3142 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/13/2019 - 4:33 PM",
@@ -30,14 +38,6 @@
     "due_to": "Wire Hazard",
     "latitude": 30.353372,
     "longitude": -92.0829649
-  },
-  {
-    "address": "128 HUGH WALLIS RD",
-    "city": "LAFAYETTE",
-    "time": "04/13/2019 - 3:53 PM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.2056,
-    "longitude": -92.00347
   },
   {
     "address": "W PINHOOK RD & KALISTE SALOOM RD",
