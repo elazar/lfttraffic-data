@@ -1,5 +1,21 @@
 [
   {
+    "address": "6025 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "04/13/2019 - 2:45 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.10399,
+    "longitude": -91.94135
+  },
+  {
+    "address": "ALBERTSON PW & S MORGAN AV",
+    "city": "BROUSSARD",
+    "time": "04/13/2019 - 2:45 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.1383,
+    "longitude": -91.96516
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & BONIN RD",
     "city": "YOUNGSVILLE",
     "time": "04/13/2019 - 2:44 PM",
