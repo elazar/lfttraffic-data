@@ -1,5 +1,13 @@
 [
   {
+    "address": "HECTOR CONNOLY RD & NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "04/13/2019 - 3:07 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.32261,
+    "longitude": -92.0325
+  },
+  {
     "address": "LA NEUVILLE RD & YOUNGSVILLE HW",
     "city": "BROUSSARD",
     "time": "04/13/2019 - 3:07 PM",
@@ -30,14 +38,6 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.13508,
     "longitude": -91.99044
-  },
-  {
-    "address": "6025 US 90 EAST HW",
-    "city": "BROUSSARD",
-    "time": "04/13/2019 - 2:45 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.10399,
-    "longitude": -91.94135
   },
   {
     "address": "AMBASSADOR CAFFERY PW & BONIN RD",
