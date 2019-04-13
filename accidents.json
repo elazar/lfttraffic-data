@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & MADISON ST",
+    "city": "LAFAYETTE",
+    "time": "04/13/2019 - 4:08 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.23289,
+    "longitude": -92.01988
+  },
+  {
     "address": "1200 GENDARME RD",
     "city": "LAFAYETTE",
     "time": "04/13/2019 - 4:03 PM",
