@@ -1,5 +1,13 @@
 [
   {
+    "address": "LA NEUVILLE RD & YOUNGSVILLE HW",
+    "city": "BROUSSARD",
+    "time": "04/13/2019 - 3:07 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.14488,
+    "longitude": -91.99167
+  },
+  {
     "address": "105 I10 WESTBOUND MM105 HW",
     "city": "LAFAYETTE",
     "time": "04/13/2019 - 3:04 PM",
@@ -86,14 +94,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.15011,
     "longitude": -92.0406
-  },
-  {
-    "address": "PARKLANE RD & FIREFLY LN",
-    "city": "LAFAYETTE",
-    "time": "04/13/2019 - 2:10 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.30068,
-    "longitude": -92.00647
   },
   {
     "address": "PLEASANT VIEW DR & N SUWANEE RD",
