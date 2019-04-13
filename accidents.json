@@ -22,13 +22,5 @@
     "due_to": "Road Hazard",
     "latitude": 30.2541581,
     "longitude": -92.0753251
-  },
-  {
-    "address": "1200 GENDARME RD",
-    "city": "LAFAYETTE",
-    "time": "04/13/2019 - 4:03 PM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.353372,
-    "longitude": -92.0829649
   }
 ]
