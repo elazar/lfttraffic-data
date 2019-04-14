@@ -1,5 +1,13 @@
 [
   {
+    "address": "1225 CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "04/14/2019 - 6:36 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23385,
+    "longitude": -91.99115
+  },
+  {
     "address": "730 I10 SOUTH FRONTAGE RD",
     "city": "SCOTT",
     "time": "04/14/2019 - 6:26 PM",
