@@ -1,5 +1,13 @@
 [
   {
+    "address": "ARTHUR ST & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "04/14/2019 - 11:19 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.24039,
+    "longitude": -92.03242
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & TUCKER DR",
     "city": "LAFAYETTE",
     "time": "04/14/2019 - 11:17 AM",
