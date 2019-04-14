@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "MILLS ST & W WILLOW ST",
+    "city": "SCOTT",
+    "time": "04/14/2019 - 10:30 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24194,
+    "longitude": -92.09134
+  }
+]
