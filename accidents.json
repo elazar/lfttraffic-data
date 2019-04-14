@@ -1,5 +1,13 @@
 [
   {
+    "address": "4900 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/14/2019 - 4:16 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1849298,
+    "longitude": -92.0677979
+  },
+  {
     "address": "BERTRAND DR & DUGAS RD",
     "city": "LAFAYETTE",
     "time": "04/14/2019 - 4:12 PM",
