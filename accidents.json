@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1000 RENAUD DR",
+    "city": "LAFAYETTE",
+    "time": "04/14/2019 - 12:28 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.2542249,
+    "longitude": -92.0609938
+  }
+]
