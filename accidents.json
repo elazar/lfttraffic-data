@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "121 CASE LN",
+    "city": "LAFAYETTE",
+    "time": "04/14/2019 - 2:54 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20681,
+    "longitude": -92.07228
+  }
+]
