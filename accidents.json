@@ -6,13 +6,5 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.30943,
     "longitude": -92.04946
-  },
-  {
-    "address": "200 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "04/14/2019 - 09:20 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.22542,
-    "longitude": -92.01384
   }
 ]
