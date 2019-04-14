@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "04/14/2019 - 02:56 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19364,
+    "longitude": -92.0587
+  },
+  {
     "address": "LEE AV & GARFIELD ST",
     "city": "LAFAYETTE",
     "time": "04/14/2019 - 02:06 AM",
