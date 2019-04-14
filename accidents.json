@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 MADELINE AV",
+    "city": "LAFAYETTE",
+    "time": "04/13/2019 - 7:37 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.2383137,
+    "longitude": -92.0218588
+  },
+  {
     "address": "3123 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "04/13/2019 - 7:21 PM",
