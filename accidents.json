@@ -1,5 +1,13 @@
 [
   {
+    "address": "BNSF RAILROAD CG & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/14/2019 - 11:00 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.20293,
+    "longitude": -92.05048
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & TUCKER DR",
     "city": "LAFAYETTE",
     "time": "04/14/2019 - 10:51 AM",
