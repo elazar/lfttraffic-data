@@ -1,5 +1,13 @@
 [
   {
+    "address": "GUILBEAU RD & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "04/14/2019 - 4:40 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.20248,
+    "longitude": -92.07527
+  },
+  {
     "address": "4900 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "04/14/2019 - 4:16 PM",
