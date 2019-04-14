@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1705 LA 1252 HW",
+    "city": "LAFAYETTE",
+    "time": "04/13/2019 - 8:30 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.35329,
+    "longitude": -91.9752
+  }
+]
