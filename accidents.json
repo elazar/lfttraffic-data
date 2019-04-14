@@ -1,5 +1,13 @@
 [
   {
+    "address": "400 E UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "04/13/2019 - 10:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21473,
+    "longitude": -92.01615
+  },
+  {
     "address": "HECTOR CONNOLY RD & MOSS ST",
     "city": "LAFAYETTE",
     "time": "04/13/2019 - 10:11 PM",
