@@ -1,5 +1,13 @@
 [
   {
+    "address": "BERTRAND DR & DUGAS RD",
+    "city": "LAFAYETTE",
+    "time": "04/14/2019 - 4:12 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21097,
+    "longitude": -92.04431
+  },
+  {
     "address": "NE EVANGELINE TW & MUDD AV",
     "city": "LAFAYETTE",
     "time": "04/14/2019 - 3:51 PM",
