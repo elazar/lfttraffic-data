@@ -22,13 +22,5 @@
     "due_to": "Residential Fire",
     "latitude": 30.31857,
     "longitude": -92.0527
-  },
-  {
-    "address": "100 E SHAMROCK DR",
-    "city": "LAFAYETTE",
-    "time": "04/14/2019 - 11:12 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.17881,
-    "longitude": -92.01603
   }
 ]
