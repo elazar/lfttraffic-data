@@ -30,13 +30,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.2961556,
     "longitude": -92.0318366
-  },
-  {
-    "address": "100 RENNES DR",
-    "city": "LAFAYETTE",
-    "time": "04/14/2019 - 2:54 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2065151,
-    "longitude": -92.0723495
   }
 ]
