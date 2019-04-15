@@ -16,19 +16,11 @@
     "longitude": -92.0018335
   },
   {
-    "address": "W PINHOOK RD & BENDEL RD",
+    "address": "1320 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "04/15/2019 - 09:04 AM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.19911,
-    "longitude": -92.01641
-  },
-  {
-    "address": "433 JEFFERSON ST",
-    "city": "LAFAYETTE",
-    "time": "04/15/2019 - 09:01 AM",
-    "due_to": "Commercial Fire",
-    "latitude": 30.22562,
-    "longitude": -92.01777
+    "latitude": 30.20052,
+    "longitude": -92.0158237
   }
 ]
