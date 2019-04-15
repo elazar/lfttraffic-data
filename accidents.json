@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "E ALEXANDER ST & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "04/15/2019 - 08:21 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.25511,
+    "longitude": -91.99944
+  }
+]
