@@ -1,19 +1,19 @@
 [
   {
+    "address": "S COLLEGE RD & E KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "04/15/2019 - 2:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19352,
+    "longitude": -92.00971
+  },
+  {
     "address": "4851 VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "04/15/2019 - 2:17 PM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.0745825,
     "longitude": -92.0322751
-  },
-  {
-    "address": "401 YOUNGSVILLE HW",
-    "city": "LAFAYETTE",
-    "time": "04/15/2019 - 2:08 PM",
-    "due_to": "Grass Fire",
-    "latitude": 30.15378,
-    "longitude": -91.99087
   },
   {
     "address": "AMBASSADOR CAFFERY PW & DOVER BL",
