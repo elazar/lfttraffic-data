@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 FORTUNE RD",
+    "city": "LAFAYETTE",
+    "time": "04/15/2019 - 3:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1235851,
+    "longitude": -92.032269
+  },
+  {
     "address": "100 DILLARD DR",
     "city": "LAFAYETTE",
     "time": "04/15/2019 - 3:14 PM",
@@ -38,14 +46,6 @@
     "due_to": "Traffic Control",
     "latitude": 30.33931,
     "longitude": -92.07066
-  },
-  {
-    "address": "S COLLEGE RD & E KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "04/15/2019 - 2:19 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19352,
-    "longitude": -92.00971
   },
   {
     "address": "4851 VEROT SCHOOL RD",
