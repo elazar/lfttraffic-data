@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & WOODVALE AV",
+    "city": "LAFAYETTE",
+    "time": "04/14/2019 - 11:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20233,
+    "longitude": -92.0521
+  },
+  {
     "address": "US 90 EAST HW & KOL DR",
     "city": "BROUSSARD",
     "time": "04/14/2019 - 10:14 PM",
