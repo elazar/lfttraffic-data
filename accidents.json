@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21053,
     "longitude": -92.07567
-  },
-  {
-    "address": "GUILBEAU RD & GREGG ST",
-    "city": "CARENCRO",
-    "time": "04/15/2019 - 10:12 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.31938,
-    "longitude": -92.03667
   }
 ]
