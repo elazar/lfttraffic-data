@@ -1,5 +1,13 @@
 [
   {
+    "address": "1100 CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "04/15/2019 - 6:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17383,
+    "longitude": -92.04166
+  },
+  {
     "address": "CARMEL DR & GROSSIE DR",
     "city": "LAFAYETTE",
     "time": "04/15/2019 - 5:47 PM",
