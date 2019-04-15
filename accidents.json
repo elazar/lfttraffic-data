@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 BANISTER CT",
+    "city": "LAFAYETTE",
+    "time": "04/15/2019 - 12:19 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.2731458,
+    "longitude": -92.0292249
+  },
+  {
     "address": "100 MEAUX BL",
     "city": "LAFAYETTE",
     "time": "04/15/2019 - 11:45 AM",
