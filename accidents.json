@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.29575,
     "longitude": -92.02314
-  },
-  {
-    "address": "I10 EASTBOUND MM101 HW & N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "04/15/2019 - 10:46 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.24052,
-    "longitude": -92.03242
   }
 ]
