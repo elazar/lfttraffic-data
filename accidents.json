@@ -1,5 +1,13 @@
 [
   {
+    "address": "1900 CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "04/15/2019 - 3:07 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2331,
+    "longitude": -92.03593
+  },
+  {
     "address": "99 I10 WESTBOUND MM99 HW",
     "city": "SCOTT",
     "time": "04/15/2019 - 2:47 PM",
@@ -14,14 +22,6 @@
     "due_to": "Traffic Control",
     "latitude": 30.33931,
     "longitude": -92.07066
-  },
-  {
-    "address": "302 W MAIN ST",
-    "city": "Lafayette",
-    "time": "04/15/2019 - 2:21 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.2230449,
-    "longitude": -92.0209788
   },
   {
     "address": "S COLLEGE RD & E KALISTE SALOOM RD",
