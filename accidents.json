@@ -1,11 +1,19 @@
 [
   {
-    "address": "DOWNING ST & COVENTRY ST",
+    "address": "3000 W CONGRESS ST",
     "city": "LAFAYETTE",
-    "time": "04/15/2019 - 3:22 PM",
+    "time": "04/15/2019 - 3:23 PM",
+    "due_to": "Vehicle Fire",
+    "latitude": 30.20752,
+    "longitude": -92.05827
+  },
+  {
+    "address": "W CONGRESS ST & ARNOULD BL",
+    "city": "LAFAYETTE",
+    "time": "04/15/2019 - 3:23 PM",
     "due_to": "Incoming Call",
-    "latitude": 30.20121,
-    "longitude": -92.06224
+    "latitude": 30.20667,
+    "longitude": -92.05748
   },
   {
     "address": "105 PATRIOT AV",
