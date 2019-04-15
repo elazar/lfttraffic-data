@@ -1,26 +1,10 @@
 [
   {
-    "address": "222 JET RANGER X DR",
-    "city": "LAFAYETTE",
-    "time": "04/15/2019 - 12:36 PM",
-    "due_to": "Fire",
-    "latitude": 30.2037784,
-    "longitude": -91.9953623
-  },
-  {
     "address": "3810 NE EVANGELINE TW",
     "city": "CARENCRO",
     "time": "04/15/2019 - 12:27 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.31876,
     "longitude": -92.03205
-  },
-  {
-    "address": "100 MEAUX BL",
-    "city": "LAFAYETTE",
-    "time": "04/15/2019 - 11:45 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.2069339,
-    "longitude": -92.0391877
   }
 ]
