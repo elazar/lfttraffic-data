@@ -1,5 +1,13 @@
 [
   {
+    "address": "LANGLINAIS RD & VIAULET RD",
+    "city": "LAFAYETTE",
+    "time": "04/15/2019 - 3:21 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.07276,
+    "longitude": -91.95539
+  },
+  {
     "address": "100 FORTUNE RD",
     "city": "LAFAYETTE",
     "time": "04/15/2019 - 3:19 PM",
