@@ -1,5 +1,13 @@
 [
   {
+    "address": "2600 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/15/2019 - 03:43 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.20918,
+    "longitude": -92.03679
+  },
+  {
     "address": "JOHNSTON ST & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/15/2019 - 03:35 AM",
