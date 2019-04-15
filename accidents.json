@@ -1,5 +1,13 @@
 [
   {
+    "address": "114 EDNA ST",
+    "city": "LAFAYETTE",
+    "time": "04/15/2019 - 4:12 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.23485,
+    "longitude": -91.99384
+  },
+  {
     "address": "KALISTE SALOOM RD & MEADOW FARM RD",
     "city": "LAFAYETTE",
     "time": "04/15/2019 - 4:06 PM",
@@ -62,13 +70,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.2331,
     "longitude": -92.03593
-  },
-  {
-    "address": "99 I10 WESTBOUND MM99 HW",
-    "city": "SCOTT",
-    "time": "04/15/2019 - 2:47 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.24727,
-    "longitude": -92.09751
   }
 ]
