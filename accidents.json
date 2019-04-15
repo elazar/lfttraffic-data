@@ -1,5 +1,13 @@
 [
   {
+    "address": "JEFFERSON ST & MCKINLEY ST",
+    "city": "LAFAYETTE",
+    "time": "04/14/2019 - 7:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21716,
+    "longitude": -92.01305
+  },
+  {
     "address": "RIDGE RD & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/14/2019 - 5:32 PM",
