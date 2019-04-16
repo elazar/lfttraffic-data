@@ -1,11 +1,19 @@
 [
   {
-    "address": "JOHNSTON ST & CAMELLIA BL",
+    "address": "JOHNSTON ST & GUILBEAU RD",
+    "city": "LAFAYETTE",
+    "time": "04/16/2019 - 1:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19375,
+    "longitude": -92.0586
+  },
+  {
+    "address": "4404 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "04/16/2019 - 1:01 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.19364,
-    "longitude": -92.0587
+    "latitude": 30.1935726,
+    "longitude": -92.0589765
   },
   {
     "address": "2002 NW EVANGELINE TW",
