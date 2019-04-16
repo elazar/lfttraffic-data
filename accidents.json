@@ -1,5 +1,13 @@
 [
   {
+    "address": "FORTUNE RD & GARDEN GATE",
+    "city": "LAFAYETTE",
+    "time": "04/16/2019 - 5:05 PM",
+    "due_to": "Vehicle Fire",
+    "latitude": 30.12373,
+    "longitude": -92.0278
+  },
+  {
     "address": "1815 ST MARY ST",
     "city": "SCOTT",
     "time": "04/16/2019 - 4:55 PM",
