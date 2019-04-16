@@ -1,5 +1,13 @@
 [
   {
+    "address": "BERTRAND DR & ERASTE LANDRY RD",
+    "city": "LAFAYETTE",
+    "time": "04/15/2019 - 7:04 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22405,
+    "longitude": -92.05469
+  },
+  {
     "address": "1100 CAMELLIA BL",
     "city": "LAFAYETTE",
     "time": "04/15/2019 - 6:33 PM",
