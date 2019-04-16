@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & ALFRED ST",
+    "city": "SCOTT",
+    "time": "04/16/2019 - 08:57 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23357,
+    "longitude": -92.09381
+  },
+  {
     "address": "NW EVANGELINE TW & MUDD AV",
     "city": "LAFAYETTE",
     "time": "04/16/2019 - 08:53 AM",
