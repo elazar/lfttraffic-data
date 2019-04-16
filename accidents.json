@@ -1,5 +1,13 @@
 [
   {
+    "address": "1700 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "04/16/2019 - 1:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24612,
+    "longitude": -92.01083
+  },
+  {
     "address": "JOHNSTON ST & GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "04/16/2019 - 1:02 PM",
@@ -22,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2506543,
     "longitude": -92.014111
-  },
-  {
-    "address": "107 DARREL ST",
-    "city": "LAFAYETTE",
-    "time": "04/16/2019 - 11:28 AM",
-    "due_to": "Residential Fire",
-    "latitude": 30.25551,
-    "longitude": -92.01123
   }
 ]
