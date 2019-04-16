@@ -1,5 +1,13 @@
 [
   {
+    "address": "LOUISIANA AV & LAUREL ST",
+    "city": "LAFAYETTE",
+    "time": "04/16/2019 - 2:51 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22894,
+    "longitude": -92.00384
+  },
+  {
     "address": "1522 CARMEL DR",
     "city": "LAFAYETTE",
     "time": "04/16/2019 - 2:48 PM",
