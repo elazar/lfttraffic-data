@@ -1,12 +1,5 @@
 [
-  {
-    "address": "1700 NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "04/16/2019 - 1:03 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24612,
-    "longitude": -92.01083
-  },
+  null,
   {
     "address": "JOHNSTON ST & GUILBEAU RD",
     "city": "LAFAYETTE",
@@ -23,12 +16,5 @@
     "latitude": 30.1935726,
     "longitude": -92.0589765
   },
-  {
-    "address": "2002 NW EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "04/16/2019 - 12:20 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2506543,
-    "longitude": -92.014111
-  }
+  null
 ]
