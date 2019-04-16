@@ -1,5 +1,13 @@
 [
   {
+    "address": "1522 CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "04/16/2019 - 2:48 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.23215,
+    "longitude": -91.98358
+  },
+  {
     "address": "N COLLEGE RD & BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "04/16/2019 - 2:33 PM",
