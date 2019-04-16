@@ -1,5 +1,13 @@
 [
   {
+    "address": "403 ELSHADDAI DR",
+    "city": "LAFAYETTE",
+    "time": "04/16/2019 - 2:15 PM",
+    "due_to": "Explosion",
+    "latitude": 30.14016,
+    "longitude": -92.04855
+  },
+  {
     "address": "MICMAC LN & DUHON RD",
     "city": "LAFAYETTE",
     "time": "04/16/2019 - 2:11 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24612,
     "longitude": -92.01083
-  },
-  {
-    "address": "JOHNSTON ST & GUILBEAU RD",
-    "city": "LAFAYETTE",
-    "time": "04/16/2019 - 1:02 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19375,
-    "longitude": -92.0586
   },
   {
     "address": "4404 JOHNSTON ST",
