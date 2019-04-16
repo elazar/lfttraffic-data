@@ -1,5 +1,21 @@
 [
   {
+    "address": "404 GIRARD PARK DR",
+    "city": "LAFAYETTE",
+    "time": "04/15/2019 - 9:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20668,
+    "longitude": -92.01887
+  },
+  {
+    "address": "AMBASSADOR CAFFERY PW & VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "04/15/2019 - 9:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14589,
+    "longitude": -92.03252
+  },
+  {
     "address": "E GLORIA SWITCH RD & NE FRONTAGE RD",
     "city": "LAFAYETTE",
     "time": "04/15/2019 - 9:02 PM",
