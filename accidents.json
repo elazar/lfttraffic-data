@@ -1,5 +1,13 @@
 [
   {
+    "address": "S COLLEGE RD & W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "04/16/2019 - 09:33 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.20101,
+    "longitude": -92.01538
+  },
+  {
     "address": "CAMERON ST & ALFRED ST",
     "city": "SCOTT",
     "time": "04/16/2019 - 08:57 AM",
