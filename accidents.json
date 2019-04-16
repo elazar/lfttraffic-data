@@ -1,5 +1,13 @@
 [
   {
+    "address": "805 ALBERTSON PW",
+    "city": "BROUSSARD",
+    "time": "04/16/2019 - 5:17 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13878,
+    "longitude": -91.96321
+  },
+  {
     "address": "FORTUNE RD & GARDEN GATE",
     "city": "LAFAYETTE",
     "time": "04/16/2019 - 5:05 PM",
