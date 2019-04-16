@@ -1,5 +1,13 @@
 [
   {
+    "address": "102 DALE ST",
+    "city": "LAFAYETTE",
+    "time": "04/16/2019 - 11:28 AM",
+    "due_to": "Residential Fire",
+    "latitude": 30.25559,
+    "longitude": -92.0121149
+  },
+  {
     "address": "4010 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/16/2019 - 11:24 AM",
