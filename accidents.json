@@ -1,5 +1,13 @@
 [
   {
+    "address": "SUWANEE RD & GREEN MEADOW RD",
+    "city": "LAFAYETTE",
+    "time": "04/16/2019 - 3:30 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.15,
+    "longitude": -92.07667
+  },
+  {
     "address": "SE EVANGELINE TW & S MAGNOLIA ST",
     "city": "LAFAYETTE",
     "time": "04/16/2019 - 3:20 PM",
@@ -22,13 +30,5 @@
     "due_to": "Traffic Control",
     "latitude": 30.23215,
     "longitude": -91.98358
-  },
-  {
-    "address": "403 ELSHADDAI DR",
-    "city": "LAFAYETTE",
-    "time": "04/16/2019 - 2:15 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.14016,
-    "longitude": -92.04855
   }
 ]
