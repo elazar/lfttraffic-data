@@ -1,5 +1,13 @@
 [
   {
+    "address": "302 W MAIN",
+    "city": "Lafayette",
+    "time": "04/16/2019 - 2:23 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.2230449,
+    "longitude": -92.0209788
+  },
+  {
     "address": "403 ELSHADDAI DR",
     "city": "LAFAYETTE",
     "time": "04/16/2019 - 2:15 PM",
@@ -22,13 +30,5 @@
     "due_to": "Grass Fire",
     "latitude": 30.1017251,
     "longitude": -91.9475195
-  },
-  {
-    "address": "1700 NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "04/16/2019 - 1:03 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24612,
-    "longitude": -92.01083
   }
 ]
