@@ -1,11 +1,11 @@
 [
   {
-    "address": "102 DALE ST",
+    "address": "107 DARREL ST",
     "city": "LAFAYETTE",
     "time": "04/16/2019 - 11:28 AM",
     "due_to": "Residential Fire",
-    "latitude": 30.25559,
-    "longitude": -92.0121149
+    "latitude": 30.25551,
+    "longitude": -92.01123
   },
   {
     "address": "4010 AMBASSADOR CAFFERY PW",
@@ -14,14 +14,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16521,
     "longitude": -92.0601
-  },
-  {
-    "address": "CAMELLIA BL & ACADEMY RD",
-    "city": "LAFAYETTE",
-    "time": "04/16/2019 - 11:07 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18427,
-    "longitude": -92.05154
   },
   {
     "address": "1400 CAMELLIA BL",
