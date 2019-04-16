@@ -1,5 +1,13 @@
 [
   {
+    "address": "SETTLERS TRACE BL & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "04/16/2019 - 5:56 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.15969,
+    "longitude": -92.05229
+  },
+  {
     "address": "711 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "04/16/2019 - 5:51 PM",
@@ -38,13 +46,5 @@
     "due_to": "Vehicle Fire",
     "latitude": 30.12373,
     "longitude": -92.0278
-  },
-  {
-    "address": "405 BONAIRE DR",
-    "city": "LAFAYETTE",
-    "time": "04/16/2019 - 4:44 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1918,
-    "longitude": -92.07224
   }
 ]
