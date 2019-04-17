@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 SAVOY RD",
+    "city": "YOUNGSVILLE",
+    "time": "04/17/2019 - 07:36 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.09496,
+    "longitude": -92.0039
+  },
+  {
     "address": "302 W MAIN ST",
     "city": "BROUSSARD",
     "time": "04/17/2019 - 07:06 AM",
