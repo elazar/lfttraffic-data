@@ -16,20 +16,20 @@
     "longitude": -92.03718
   },
   {
-    "address": "VETERANS DR & NW FRONTAGE RD",
-    "city": "CARENCRO",
-    "time": "04/17/2019 - 1:35 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.32204,
-    "longitude": -92.03574
-  },
-  {
     "address": "E SIMCOE ST & NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "04/17/2019 - 1:25 PM",
     "due_to": "Traffic Control",
     "latitude": 30.23102,
     "longitude": -92.01311
+  },
+  {
+    "address": "4313 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "04/17/2019 - 1:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15909,
+    "longitude": -92.05066
   },
   {
     "address": "W PINHOOK RD & AYMAR RD",
