@@ -1,5 +1,13 @@
 [
   {
+    "address": "W UNIVERSITY AV & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "04/17/2019 - 11:28 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2261,
+    "longitude": -92.02828
+  },
+  {
     "address": "NE EVANGELINE TW & MUDD AV",
     "city": "LAFAYETTE",
     "time": "04/17/2019 - 11:17 AM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16717,
     "longitude": -92.03642
-  },
-  {
-    "address": "1101 S COLLEGE RD",
-    "city": "LAFAYETTE",
-    "time": "04/17/2019 - 10:44 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20031,
-    "longitude": -92.02744
   },
   {
     "address": "3225 LOUISIANA AV",
