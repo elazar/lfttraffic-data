@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "04/17/2019 - 5:06 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24052,
+    "longitude": -92.03242
+  },
+  {
     "address": "JOHNSTON ST & S WESTMARK BL",
     "city": "LAFAYETTE",
     "time": "04/17/2019 - 4:53 PM",
