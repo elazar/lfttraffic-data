@@ -1,5 +1,13 @@
 [
   {
+    "address": "E KALISTE SALOOM RD & W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "04/17/2019 - 3:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1886,
+    "longitude": -92.0141
+  },
+  {
     "address": "215 LOUL ST",
     "city": "BROUSSARD",
     "time": "04/17/2019 - 3:42 PM",
@@ -22,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.13159,
     "longitude": -91.96437
-  },
-  {
-    "address": "300 DETENTE RD",
-    "city": "YOUNGSVILLE",
-    "time": "04/17/2019 - 2:09 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.0893456,
-    "longitude": -92.0056344
   }
 ]
