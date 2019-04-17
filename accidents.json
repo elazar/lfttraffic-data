@@ -1,5 +1,13 @@
 [
   {
+    "address": "S COLLEGE RD & ACADIAN DR",
+    "city": "LAFAYETTE",
+    "time": "04/17/2019 - 2:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20631,
+    "longitude": -92.03718
+  },
+  {
     "address": "VETERANS DR & NW FRONTAGE RD",
     "city": "CARENCRO",
     "time": "04/17/2019 - 1:35 PM",
