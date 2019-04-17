@@ -1,19 +1,19 @@
 [
   {
-    "address": "N GIROUARD RD & US 90 EAST HW",
-    "city": "BROUSSARD",
-    "time": "04/17/2019 - 10:15 AM",
+    "address": "KALISTE SALOOM RD & CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "04/17/2019 - 10:23 AM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.14877,
-    "longitude": -91.94905
+    "latitude": 30.16717,
+    "longitude": -92.03642
   },
   {
-    "address": "4751 US 90 EAST HW",
+    "address": "100 N GIROUARD RD",
     "city": "BROUSSARD",
     "time": "04/17/2019 - 10:13 AM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.1419118,
-    "longitude": -91.9450378
+    "latitude": 30.1489695,
+    "longitude": -91.9485858
   },
   {
     "address": "110 GATEAU RD",
