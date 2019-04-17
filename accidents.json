@@ -1,5 +1,13 @@
 [
   {
+    "address": "GENDARME RD & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "04/17/2019 - 08:30 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.35603,
+    "longitude": -92.05156
+  },
+  {
     "address": "JOHNSTON ST & VITAL ST",
     "city": "LAFAYETTE",
     "time": "04/17/2019 - 08:24 AM",
