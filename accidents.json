@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1900 SAVOY RD",
+    "city": "LAFAYETTE",
+    "time": "04/17/2019 - 03:13 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.0947448,
+    "longitude": -92.0513829
+  }
+]
