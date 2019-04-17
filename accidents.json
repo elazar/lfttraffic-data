@@ -1,5 +1,13 @@
 [
   {
+    "address": "FATIMA",
+    "city": "Lafayette",
+    "time": "04/17/2019 - 2:45 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.33931,
+    "longitude": -92.07066
+  },
+  {
     "address": "4400 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "04/17/2019 - 2:38 PM",
