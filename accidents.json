@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "860 RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "04/17/2019 - 07:59 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.18176,
+    "longitude": -92.11404
+  }
+]
