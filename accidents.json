@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 LA 93 HW",
+    "city": "SCOTT",
+    "time": "04/17/2019 - 1:43 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2348501,
+    "longitude": -92.1072851
+  },
+  {
     "address": "VETERANS DR & NW FRONTAGE RD",
     "city": "CARENCRO",
     "time": "04/17/2019 - 1:35 PM",
