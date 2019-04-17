@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "VEROT SCHOOL RD & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "04/16/2019 - 10:44 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.14589,
+    "longitude": -92.03252
+  }
+]
