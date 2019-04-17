@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2657,
     "longitude": -91.99574
-  },
-  {
-    "address": "100 N GIROUARD RD",
-    "city": "BROUSSARD",
-    "time": "04/17/2019 - 10:13 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.1489695,
-    "longitude": -91.9485858
   }
 ]
