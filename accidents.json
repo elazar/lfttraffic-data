@@ -1,5 +1,13 @@
 [
   {
+    "address": "1101 S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "04/17/2019 - 10:44 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20031,
+    "longitude": -92.02744
+  },
+  {
     "address": "3225 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "04/17/2019 - 10:36 AM",
