@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & VITAL ST",
+    "city": "LAFAYETTE",
+    "time": "04/17/2019 - 08:24 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20341,
+    "longitude": -92.04888
+  },
+  {
     "address": "217 DUCLOS ST",
     "city": "LAFAYETTE",
     "time": "04/17/2019 - 08:22 AM",
