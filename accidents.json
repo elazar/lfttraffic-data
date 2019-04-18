@@ -1,5 +1,21 @@
 [
   {
+    "address": "3142 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "04/18/2019 - 12:35 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1873,
+    "longitude": -92.07797
+  },
+  {
+    "address": "721 W BUTCHER SWITCH RD",
+    "city": "CARENCRO",
+    "time": "04/18/2019 - 12:34 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.28706,
+    "longitude": -92.04099
+  },
+  {
     "address": "JOHNSTON ST & PALMS BL",
     "city": "LAFAYETTE",
     "time": "04/18/2019 - 12:23 PM",
