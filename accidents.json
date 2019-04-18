@@ -1,5 +1,13 @@
 [
   {
+    "address": "5405 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/18/2019 - 10:35 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18114,
+    "longitude": -92.07128
+  },
+  {
     "address": "MOSS ST & NOVA SCOTIA DR",
     "city": "LAFAYETTE",
     "time": "04/18/2019 - 10:06 AM",
