@@ -1,5 +1,13 @@
 [
   {
+    "address": "LA RUE FRANCE & W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "04/18/2019 - 6:33 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.19438,
+    "longitude": -92.01609
+  },
+  {
     "address": "1100 WESTGATE RD",
     "city": "SCOTT",
     "time": "04/18/2019 - 6:32 PM",
