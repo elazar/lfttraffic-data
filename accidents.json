@@ -1,11 +1,11 @@
 [
   {
-    "address": "95 I10 EASTBOUND MM95 HW",
+    "address": "95 I10 WESTBOUND MM95 HW",
     "city": "LAFAYETTE",
     "time": "04/18/2019 - 11:32 AM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": null,
-    "longitude": null
+    "latitude": 30.26255,
+    "longitude": -92.00867
   },
   {
     "address": "5725 JOHNSTON ST",
