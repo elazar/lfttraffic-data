@@ -1,5 +1,13 @@
 [
   {
+    "address": "SE EVANGELINE TW & THIRTEENTH ST",
+    "city": "LAFAYETTE",
+    "time": "04/18/2019 - 2:27 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.22169,
+    "longitude": -92.00775
+  },
+  {
     "address": "GENERAL MOUTON AV & PLANTATION RD",
     "city": "LAFAYETTE",
     "time": "04/18/2019 - 2:18 PM",
@@ -14,14 +22,6 @@
     "due_to": "Residential Fire",
     "latitude": 30.16056,
     "longitude": -92.00983
-  },
-  {
-    "address": "609 S COLLEGE RD",
-    "city": "LAFAYETTE",
-    "time": "04/18/2019 - 2:00 PM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.20322,
-    "longitude": -92.03238
   },
   {
     "address": "1551 JOHNSTON ST",
