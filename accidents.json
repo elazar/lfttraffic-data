@@ -1,5 +1,13 @@
 [
   {
+    "address": "101 I10 WESTBOUND MM101 HW",
+    "city": "LAFAYETTE",
+    "time": "04/18/2019 - 10:40 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "5405 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "04/18/2019 - 10:35 AM",
