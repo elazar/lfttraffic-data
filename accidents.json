@@ -1,18 +1,18 @@
 [
   {
+    "address": "SE EVANGELINE TW & E VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "04/18/2019 - 08:41 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.18291,
+    "longitude": -91.98959
+  },
+  {
     "address": "NW EVANGELINE TW & BELLOT ST",
     "city": "LAFAYETTE",
     "time": "04/18/2019 - 08:33 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.23646,
     "longitude": -92.01352
-  },
-  {
-    "address": "W CONGRESS ST & RUE DU BELIER",
-    "city": "LAFAYETTE",
-    "time": "04/18/2019 - 07:23 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.1958,
-    "longitude": -92.09203
   }
 ]
