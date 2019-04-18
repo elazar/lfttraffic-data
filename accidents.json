@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "126 S ST ANTOINE ST",
+    "city": "LAFAYETTE",
+    "time": "04/17/2019 - 9:56 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.23357,
+    "longitude": -92.02515
+  }
+]
