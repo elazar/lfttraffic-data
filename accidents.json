@@ -1,5 +1,21 @@
 [
   {
+    "address": "101 I10 EASTBOUND MM101 HW",
+    "city": "LAFAYETTE",
+    "time": "04/18/2019 - 1:17 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
+    "address": "100 AUGUST DR",
+    "city": "LAFAYETTE",
+    "time": "04/18/2019 - 1:17 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21095,
+    "longitude": -92.06891
+  },
+  {
     "address": "3910 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/18/2019 - 1:16 PM",
