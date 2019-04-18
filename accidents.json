@@ -1,5 +1,13 @@
 [
   {
+    "address": "1001 W ST MARY BL",
+    "city": "LAFAYETTE",
+    "time": "04/18/2019 - 1:34 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2204431,
+    "longitude": -92.0287504
+  },
+  {
     "address": "101 I10 EASTBOUND MM101 HW",
     "city": "LAFAYETTE",
     "time": "04/18/2019 - 1:17 PM",
