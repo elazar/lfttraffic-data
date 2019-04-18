@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & W PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "04/18/2019 - 12:46 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.27587,
+    "longitude": -92.04949
+  },
+  {
     "address": "3142 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/18/2019 - 12:35 PM",
