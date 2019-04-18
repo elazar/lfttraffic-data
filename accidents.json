@@ -1,5 +1,21 @@
 [
   {
+    "address": "2252 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "04/18/2019 - 1:46 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.21139,
+    "longitude": -92.07586
+  },
+  {
+    "address": "PREJEAN RD & TOURNAMENT DR",
+    "city": "CARENCRO",
+    "time": "04/18/2019 - 1:46 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.30948,
+    "longitude": -92.05471
+  },
+  {
     "address": "103 WATERSIDE DR",
     "city": "LAFAYETTE",
     "time": "04/18/2019 - 1:45 PM",
