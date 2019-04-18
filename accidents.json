@@ -1,5 +1,13 @@
 [
   {
+    "address": "103 WATERSIDE DR",
+    "city": "LAFAYETTE",
+    "time": "04/18/2019 - 1:45 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.1623,
+    "longitude": -92.0635
+  },
+  {
     "address": "SW EVANGELINE TW & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "04/18/2019 - 1:41 PM",
