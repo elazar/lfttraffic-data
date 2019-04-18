@@ -1,5 +1,13 @@
 [
   {
+    "address": "400 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "04/18/2019 - 1:39 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2453146,
+    "longitude": -92.0184001
+  },
+  {
     "address": "1001 W ST MARY BL",
     "city": "LAFAYETTE",
     "time": "04/18/2019 - 1:34 PM",
