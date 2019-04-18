@@ -1,5 +1,21 @@
 [
   {
+    "address": "800 CAMBRIDGE DR",
+    "city": "LAFAYETTE",
+    "time": "04/18/2019 - 6:37 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.182252,
+    "longitude": -92.0477695
+  },
+  {
+    "address": "306 MACHINE LOOP (SE)",
+    "city": "SCOTT",
+    "time": "04/18/2019 - 6:37 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.23921,
+    "longitude": -92.10447
+  },
+  {
     "address": "1005 WESTGATE RD",
     "city": "SCOTT",
     "time": "04/18/2019 - 6:32 PM",
