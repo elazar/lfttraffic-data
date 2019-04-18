@@ -8,14 +8,6 @@
     "longitude": -92.03238
   },
   {
-    "address": "RIDGE RD & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "04/18/2019 - 3:01 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.18135,
-    "longitude": -92.07501
-  },
-  {
     "address": "1900 RENAUD DR",
     "city": "LAFAYETTE",
     "time": "04/18/2019 - 2:59 PM",
@@ -30,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.27334,
     "longitude": -92.01718
-  },
-  {
-    "address": "1228 CAMELLIA BL",
-    "city": "LAFAYETTE",
-    "time": "04/18/2019 - 2:38 PM",
-    "due_to": "Commercial Fire",
-    "latitude": 30.17121,
-    "longitude": -92.04004
   },
   {
     "address": "AL PEARSON RD & LORANGER DR",
