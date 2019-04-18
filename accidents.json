@@ -1,19 +1,11 @@
 [
   {
-    "address": "LA RUE FRANCE & W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "04/18/2019 - 6:33 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.19438,
-    "longitude": -92.01609
-  },
-  {
-    "address": "1100 WESTGATE RD",
+    "address": "1005 WESTGATE RD",
     "city": "SCOTT",
     "time": "04/18/2019 - 6:32 PM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.219275,
-    "longitude": -92.0871249
+    "latitude": 30.2203,
+    "longitude": -92.08426
   },
   {
     "address": "WESTGATE RD & ERASTE LANDRY RD",
