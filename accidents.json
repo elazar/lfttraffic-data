@@ -1,5 +1,13 @@
 [
   {
+    "address": "1551 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/18/2019 - 1:54 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2133478,
+    "longitude": -92.0230455
+  },
+  {
     "address": "400 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "04/18/2019 - 1:50 PM",
@@ -54,14 +62,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.26255,
     "longitude": -92.00867
-  },
-  {
-    "address": "2700 CHEMIN METAIRIE PKY",
-    "city": "Lafayette",
-    "time": "04/18/2019 - 1:12 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.0867194,
-    "longitude": -91.996558
   },
   {
     "address": "1441 SE EVANGELINE TW",
