@@ -1,5 +1,13 @@
 [
   {
+    "address": "1515 E UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "04/18/2019 - 09:42 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.20908,
+    "longitude": -92.00101
+  },
+  {
     "address": "1600 CHEMIN METAIRIE PW",
     "city": "YOUNGSVILLE",
     "time": "04/18/2019 - 09:39 AM",
