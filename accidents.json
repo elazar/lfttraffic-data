@@ -1,5 +1,13 @@
 [
   {
+    "address": "GUILBEAU RD & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "04/18/2019 - 5:21 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19826,
+    "longitude": -92.07007
+  },
+  {
     "address": "W CONGRESS ST & GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "04/18/2019 - 5:18 PM",
