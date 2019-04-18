@@ -1,5 +1,13 @@
 [
   {
+    "address": "903 DELHOMME AV",
+    "city": "SCOTT",
+    "time": "04/18/2019 - 6:40 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.23553,
+    "longitude": -92.1019
+  },
+  {
     "address": "800 CAMBRIDGE DR",
     "city": "LAFAYETTE",
     "time": "04/18/2019 - 6:37 PM",
