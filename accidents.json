@@ -1,5 +1,13 @@
 [
   {
+    "address": "500 PECAN GROVE RD",
+    "city": "LAFAYETTE",
+    "time": "04/18/2019 - 11:45 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23975,
+    "longitude": -92.07176
+  },
+  {
     "address": "3201 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "04/18/2019 - 11:45 AM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21053,
     "longitude": -92.07567
-  },
-  {
-    "address": "95 I10 WESTBOUND MM95 HW",
-    "city": "LAFAYETTE",
-    "time": "04/18/2019 - 11:32 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.26255,
-    "longitude": -92.00867
   },
   {
     "address": "5725 JOHNSTON ST",
