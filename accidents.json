@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & N EOLA RD",
+    "city": "BROUSSARD",
+    "time": "04/19/2019 - 2:15 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.15231,
+    "longitude": -91.95731
+  },
+  {
     "address": "SW EVANGELINE TW & LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "04/19/2019 - 2:09 PM",
