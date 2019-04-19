@@ -1,5 +1,13 @@
 [
   {
+    "address": "1103 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "04/19/2019 - 4:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20304,
+    "longitude": -92.01383
+  },
+  {
     "address": "317 GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "04/19/2019 - 4:42 PM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.1824,
     "longitude": -92.07019
-  },
-  {
-    "address": "1100 NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "04/19/2019 - 3:53 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2373526,
-    "longitude": -92.0126752
   },
   {
     "address": "3144 AMBASSADOR CAFFERY PW",
