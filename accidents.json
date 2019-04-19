@@ -1,5 +1,13 @@
 [
   {
+    "address": "101 I10 EASTBOUND MM101 HW",
+    "city": "LAFAYETTE",
+    "time": "04/19/2019 - 4:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "1 LA DELTA RAILROAD CG",
     "city": "LAFAYETTE",
     "time": "04/19/2019 - 4:49 PM",
