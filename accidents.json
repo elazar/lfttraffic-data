@@ -1,5 +1,13 @@
 [
   {
+    "address": "4105 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "04/18/2019 - 7:11 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.15359,
+    "longitude": -91.95889
+  },
+  {
     "address": "905 DELHOMME AV",
     "city": "SCOTT",
     "time": "04/18/2019 - 6:46 PM",
