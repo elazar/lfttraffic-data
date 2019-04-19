@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "5217 N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "04/19/2019 - 1:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.33107,
+    "longitude": -92.04882
+  }
+]
