@@ -1,5 +1,13 @@
 [
   {
+    "address": "5725 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/19/2019 - 6:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17353,
+    "longitude": -92.07732
+  },
+  {
     "address": "119 TUCKER DR",
     "city": "LAFAYETTE",
     "time": "04/19/2019 - 6:08 PM",
@@ -22,13 +30,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.24482,
     "longitude": -92.01663
-  },
-  {
-    "address": "JOHNSTON ST & S WESTMARK BL",
-    "city": "LAFAYETTE",
-    "time": "04/19/2019 - 3:55 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.1824,
-    "longitude": -92.07019
   }
 ]
