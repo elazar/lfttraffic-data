@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "address": "VEROT SCHOOL RD & S BEADLE RD",
+    "city": "LAFAYETTE",
+    "time": "04/19/2019 - 11:49 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17349,
+    "longitude": -92.0144
+  },
+  {
+    "address": "VEROT SCHOOL RD & S BEADLE RD",
+    "city": "LAFAYETTE",
+    "time": "04/19/2019 - 11:49 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17349,
+    "longitude": -92.0144
+  }
+]
