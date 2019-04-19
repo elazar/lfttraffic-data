@@ -24,14 +24,6 @@
     "longitude": -92.01383
   },
   {
-    "address": "317 GUILBEAU RD",
-    "city": "LAFAYETTE",
-    "time": "04/19/2019 - 4:42 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19478,
-    "longitude": -92.06642
-  },
-  {
     "address": "AMBASSADOR CAFFERY PW & SETTLERS TRACE BL",
     "city": "LAFAYETTE",
     "time": "04/19/2019 - 4:26 PM",
@@ -54,13 +46,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.1824,
     "longitude": -92.07019
-  },
-  {
-    "address": "3144 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "04/19/2019 - 3:09 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.18753,
-    "longitude": -92.07554
   }
 ]
