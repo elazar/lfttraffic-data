@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 TERMINAL DR",
+    "city": "LAFAYETTE",
+    "time": "04/19/2019 - 8:50 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20814,
+    "longitude": -91.99326
+  },
+  {
     "address": "1009 GALLET RD",
     "city": "LAFAYETTE",
     "time": "04/19/2019 - 8:29 PM",
