@@ -1,5 +1,13 @@
 [
   {
+    "address": "BERTRAND DR & N COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "04/20/2019 - 03:10 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21211,
+    "longitude": -92.04493
+  },
+  {
     "address": "500 E PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "04/20/2019 - 01:50 AM",
