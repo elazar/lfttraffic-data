@@ -1,5 +1,13 @@
 [
   {
+    "address": "KALISTE SALOOM RD & CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "04/20/2019 - 4:29 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.16717,
+    "longitude": -92.03642
+  },
+  {
     "address": "BERTRAND DR & ERASTE LANDRY RD",
     "city": "LAFAYETTE",
     "time": "04/20/2019 - 4:25 PM",
