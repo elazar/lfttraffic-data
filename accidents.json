@@ -1,5 +1,13 @@
 [
   {
+    "address": "PREJEAN RD & N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "04/20/2019 - 11:39 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.30943,
+    "longitude": -92.04946
+  },
+  {
     "address": "155 MIMOSA PL",
     "city": "LAFAYETTE",
     "time": "04/20/2019 - 11:29 AM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22966,
     "longitude": -92.01009
-  },
-  {
-    "address": "NW EVANGELINE TW & W PONT DES MOUTON RD",
-    "city": "LAFAYETTE",
-    "time": "04/20/2019 - 11:17 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.27349,
-    "longitude": -92.02058
   },
   {
     "address": "US 90 EAST HW & AMBASSADOR CAFFERY PW",
