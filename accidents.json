@@ -1,5 +1,13 @@
 [
   {
+    "address": "FOREMAN DR & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/20/2019 - 3:05 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20233,
+    "longitude": -92.0521
+  },
+  {
     "address": "110 OHARA DR",
     "city": "LAFAYETTE",
     "time": "04/20/2019 - 2:59 PM",
@@ -16,12 +24,12 @@
     "longitude": -92.05229
   },
   {
-    "address": "JACK ST & ARTHUR ST",
+    "address": "800 JACK ST",
     "city": "LAFAYETTE",
     "time": "04/20/2019 - 2:37 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.24022,
-    "longitude": -92.02891
+    "latitude": 30.2387704,
+    "longitude": -92.0287751
   },
   {
     "address": "320 VINCENT RD",
