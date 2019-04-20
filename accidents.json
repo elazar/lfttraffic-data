@@ -1,17 +1,9 @@
 [
   {
-    "address": "308 HEATHEROAK AV",
-    "city": "LAFAYETTE",
-    "time": "04/20/2019 - 4:20 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.19817,
-    "longitude": -92.0865
-  },
-  {
     "address": "116 RESERVE DR",
     "city": "LAFAYETTE",
     "time": "04/20/2019 - 4:20 PM",
-    "due_to": "Incoming Call",
+    "due_to": "Fire Investigation",
     "latitude": 30.1713584,
     "longitude": -92.0803977
   },
