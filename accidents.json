@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "2400 S RICHFIELD RD",
+    "city": "LAFAYETTE",
+    "time": "04/20/2019 - 12:38 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.18043,
+    "longitude": -92.17611
+  }
+]
