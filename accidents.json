@@ -1,5 +1,13 @@
 [
   {
+    "address": "511 RUE DES ETOILES",
+    "city": "LAFAYETTE",
+    "time": "04/20/2019 - 11:23 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.33479,
+    "longitude": -92.02684
+  },
+  {
     "address": "3205 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "04/20/2019 - 11:21 AM",
