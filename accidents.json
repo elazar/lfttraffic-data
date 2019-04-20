@@ -1,5 +1,13 @@
 [
   {
+    "address": "201 MEADOW FARM RD",
+    "city": "LAFAYETTE",
+    "time": "04/20/2019 - 12:31 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1561931,
+    "longitude": -92.0443186
+  },
+  {
     "address": "MARTIN LUTHER KING JR DR & FOOTE ST",
     "city": "LAFAYETTE",
     "time": "04/20/2019 - 12:29 PM",
