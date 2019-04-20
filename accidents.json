@@ -1,5 +1,13 @@
 [
   {
+    "address": "2200 CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "04/20/2019 - 4:11 PM",
+    "due_to": "Hazard",
+    "latitude": 30.2393843,
+    "longitude": -91.9660958
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & ROBLEY DR",
     "city": "LAFAYETTE",
     "time": "04/20/2019 - 3:50 PM",
