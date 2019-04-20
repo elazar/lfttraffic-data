@@ -1,5 +1,21 @@
 [
   {
+    "address": "102 I10 EASTBOUND MM102 HW",
+    "city": "LAFAYETTE",
+    "time": "04/20/2019 - 2:21 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
+    "address": "320 VINCENT RD",
+    "city": "LAFAYETTE",
+    "time": "04/20/2019 - 2:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1369535,
+    "longitude": -92.0433586
+  },
+  {
     "address": "3814 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/20/2019 - 2:19 PM",
