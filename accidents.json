@@ -1,5 +1,13 @@
 [
   {
+    "address": "5700 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/20/2019 - 5:04 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1755,
+    "longitude": -92.07745
+  },
+  {
     "address": "CAMERON ST & JENKINS RD",
     "city": "SCOTT",
     "time": "04/20/2019 - 4:57 PM",
