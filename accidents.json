@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "3802 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "04/20/2019 - 01:50 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27313,
+    "longitude": -92.0077
+  }
+]
