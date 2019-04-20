@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "04/20/2019 - 2:40 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19364,
+    "longitude": -92.0587
+  },
+  {
     "address": "JACK ST & ARTHUR ST",
     "city": "LAFAYETTE",
     "time": "04/20/2019 - 2:37 PM",
