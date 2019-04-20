@@ -1,5 +1,13 @@
 [
   {
+    "address": "102 I10 WESTBOUND MM102 HW",
+    "city": "LAFAYETTE",
+    "time": "04/20/2019 - 10:20 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "100 I10 WB EXIT RAMP HW",
     "city": "LAFAYETTE",
     "time": "04/20/2019 - 08:57 AM",
