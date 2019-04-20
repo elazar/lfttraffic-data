@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & ALFRED ST",
+    "city": "SCOTT",
+    "time": "04/20/2019 - 4:57 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.23357,
+    "longitude": -92.09381
+  },
+  {
     "address": "CAMERON ST & JENKINS RD",
     "city": "SCOTT",
     "time": "04/20/2019 - 4:57 PM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2499,
     "longitude": -92.02787
-  },
-  {
-    "address": "116 RESERVE DR",
-    "city": "LAFAYETTE",
-    "time": "04/20/2019 - 4:20 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.1713584,
-    "longitude": -92.0803977
   },
   {
     "address": "N UNIVERSITY AV & I10 HW",
