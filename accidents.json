@@ -1,5 +1,13 @@
 [
   {
+    "address": "102 I10 EASTBOUND MM102 HW",
+    "city": "LAFAYETTE",
+    "time": "04/20/2019 - 4:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "JOHNSTON ST & BRENTWOOD BL",
     "city": "LAFAYETTE",
     "time": "04/20/2019 - 4:14 PM",
