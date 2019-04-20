@@ -1,5 +1,13 @@
 [
   {
+    "address": "JACK ST & ARTHUR ST",
+    "city": "LAFAYETTE",
+    "time": "04/20/2019 - 2:37 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24022,
+    "longitude": -92.02891
+  },
+  {
     "address": "320 VINCENT RD",
     "city": "LAFAYETTE",
     "time": "04/20/2019 - 2:20 PM",
