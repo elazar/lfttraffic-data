@@ -1,5 +1,13 @@
 [
   {
+    "address": "BERTRAND DR & ERASTE LANDRY RD",
+    "city": "LAFAYETTE",
+    "time": "04/20/2019 - 4:25 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22405,
+    "longitude": -92.05469
+  },
+  {
     "address": "116 RESERVE DR",
     "city": "LAFAYETTE",
     "time": "04/20/2019 - 4:20 PM",
@@ -8,12 +16,12 @@
     "longitude": -92.0803977
   },
   {
-    "address": "102 I10 EASTBOUND MM102 HW",
+    "address": "N UNIVERSITY AV & I10 HW",
     "city": "LAFAYETTE",
-    "time": "04/20/2019 - 4:19 PM",
+    "time": "04/20/2019 - 4:15 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.26255,
-    "longitude": -92.00867
+    "latitude": 30.24052,
+    "longitude": -92.03242
   },
   {
     "address": "JOHNSTON ST & BRENTWOOD BL",
