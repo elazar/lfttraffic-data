@@ -1,19 +1,19 @@
 [
   {
+    "address": "SW EVANGELINE TW & JEFFERSON BL",
+    "city": "LAFAYETTE",
+    "time": "04/20/2019 - 1:21 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22867,
+    "longitude": -92.01254
+  },
+  {
     "address": "3800 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/20/2019 - 12:54 PM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.17073,
     "longitude": -92.06616
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & W GOVERNOR MIRO DR",
-    "city": "LAFAYETTE",
-    "time": "04/20/2019 - 12:46 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19007,
-    "longitude": -92.07509
   },
   {
     "address": "W CONGRESS ST & TRAVAILLEUR RD",
