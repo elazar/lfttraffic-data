@@ -1,5 +1,13 @@
 [
   {
+    "address": "DULLES DR & RUE DU BELIER",
+    "city": "SCOTT",
+    "time": "04/21/2019 - 12:20 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.21058,
+    "longitude": -92.09218
+  },
+  {
     "address": "515 CATHEDRAL ST",
     "city": "LAFAYETTE",
     "time": "04/21/2019 - 12:17 PM",
