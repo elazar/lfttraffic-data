@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1330 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "04/20/2019 - 11:36 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.24545,
+    "longitude": -92.03838
+  }
+]
