@@ -1,5 +1,21 @@
 [
   {
+    "address": "US 90 EAST HW & ALBERTSON PW",
+    "city": "BROUSSARD",
+    "time": "04/21/2019 - 4:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14074,
+    "longitude": -91.94576
+  },
+  {
+    "address": "4900 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "04/21/2019 - 4:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1402468,
+    "longitude": -91.9458652
+  },
+  {
     "address": "6400 LANDRY RD",
     "city": "LAFAYETTE",
     "time": "04/21/2019 - 4:07 PM",
