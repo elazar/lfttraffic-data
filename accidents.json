@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "515 CATHEDRAL ST",
+    "city": "LAFAYETTE",
+    "time": "04/21/2019 - 12:17 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.2225,
+    "longitude": -92.02378
+  }
+]
