@@ -1,5 +1,21 @@
 [
   {
+    "address": "VEROT SCHOOL RD & PILLETTE RD",
+    "city": "LAFAYETTE",
+    "time": "04/20/2019 - 7:18 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.17367,
+    "longitude": -92.00951
+  },
+  {
+    "address": "1804 RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "04/20/2019 - 7:18 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.18161,
+    "longitude": -92.13875
+  },
+  {
     "address": "N A ST & THIRD ST",
     "city": "DUSON",
     "time": "04/20/2019 - 6:36 PM",
