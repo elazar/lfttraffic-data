@@ -1,5 +1,21 @@
 [
   {
+    "address": "930 EVANGELINE DR",
+    "city": "LAFAYETTE",
+    "time": "04/20/2019 - 8:26 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.2335,
+    "longitude": -92.03085
+  },
+  {
+    "address": "1404 CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "04/20/2019 - 8:25 PM",
+    "due_to": "Hazardous Situation",
+    "latitude": 30.23253,
+    "longitude": -91.98666
+  },
+  {
     "address": "210 BRIDLE WAY",
     "city": "CARENCRO",
     "time": "04/20/2019 - 7:31 PM",
@@ -14,13 +30,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.17367,
     "longitude": -92.00951
-  },
-  {
-    "address": "100 N A ST",
-    "city": "DUSON",
-    "time": "04/20/2019 - 6:36 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23547,
-    "longitude": -92.1842951
   }
 ]
