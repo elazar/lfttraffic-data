@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 E VERMILION ST",
+    "city": "LAFAYETTE",
+    "time": "04/21/2019 - 03:00 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22389,
+    "longitude": -92.01754
+  },
+  {
     "address": "DEBONNAIRE RD & CAMERON ST",
     "city": "SCOTT",
     "time": "04/21/2019 - 02:54 AM",
