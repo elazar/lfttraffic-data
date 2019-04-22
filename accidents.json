@@ -1,5 +1,21 @@
 [
   {
+    "address": "CAROLYN DR & VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "04/22/2019 - 5:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16765,
+    "longitude": -92.01987
+  },
+  {
+    "address": "VEROT SCHOOL RD & CAROLYN DR",
+    "city": "LAFAYETTE",
+    "time": "04/22/2019 - 5:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16765,
+    "longitude": -92.01987
+  },
+  {
     "address": "5900 CAMERON ST",
     "city": "SCOTT",
     "time": "04/22/2019 - 5:41 PM",
@@ -30,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.26255,
     "longitude": -92.00867
-  },
-  {
-    "address": "208 SHADOW SPRINGS DR",
-    "city": "LAFAYETTE",
-    "time": "04/22/2019 - 5:29 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.14342,
-    "longitude": -92.06994
   },
   {
     "address": "801 PANDORA ST",
