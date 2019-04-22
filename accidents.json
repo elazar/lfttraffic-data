@@ -1,5 +1,13 @@
 [
   {
+    "address": "1106 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "04/22/2019 - 5:40 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2405598,
+    "longitude": -92.0069318
+  },
+  {
     "address": "132 MARTIN LUTHER KING JR DR",
     "city": "LAFAYETTE",
     "time": "04/22/2019 - 5:37 PM",
