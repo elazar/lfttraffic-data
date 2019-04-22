@@ -1,5 +1,13 @@
 [
   {
+    "address": "461 HEYMANN BL",
+    "city": "LAFAYETTE",
+    "time": "04/22/2019 - 2:36 PM",
+    "due_to": "Vehicle Fire",
+    "latitude": 30.20148,
+    "longitude": -92.01557
+  },
+  {
     "address": "W UNIVERSITY AV & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "04/22/2019 - 2:31 PM",
