@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "N UNIVERSITY AV & WOODRICH LN",
+    "city": "LAFAYETTE",
+    "time": "04/21/2019 - 8:41 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.27023,
+    "longitude": -92.04643
+  }
+]
