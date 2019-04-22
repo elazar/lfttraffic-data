@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "04/22/2019 - 07:59 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20727,
+    "longitude": -92.03836
+  },
+  {
     "address": "COOLIDGE ST & S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "04/22/2019 - 07:58 AM",
