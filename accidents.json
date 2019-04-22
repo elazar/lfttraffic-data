@@ -39,7 +39,14 @@
     "latitude": 30.17252,
     "longitude": -92.068
   },
-  null,
+  {
+    "address": "3222 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "04/22/2019 - 2:40 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18327,
+    "longitude": -92.07545
+  },
   {
     "address": "3205 LOUISIANA AV",
     "city": "LAFAYETTE",
