@@ -1,19 +1,19 @@
 [
   {
+    "address": "3205 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "04/22/2019 - 2:37 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26515,
+    "longitude": -91.99301
+  },
+  {
     "address": "461 HEYMANN BL",
     "city": "LAFAYETTE",
     "time": "04/22/2019 - 2:36 PM",
     "due_to": "Vehicle Fire",
     "latitude": 30.20148,
     "longitude": -92.01557
-  },
-  {
-    "address": "W UNIVERSITY AV & JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "04/22/2019 - 2:31 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.21729,
-    "longitude": -92.01902
   },
   {
     "address": "3559 AMBASSADOR CAFFERY PW",
