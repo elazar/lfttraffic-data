@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "GOLDENROD DR & HIGH MEADOWS BL",
+    "city": "LAFAYETTE",
+    "time": "04/22/2019 - 07:03 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2818,
+    "longitude": -92.01785
+  }
+]
