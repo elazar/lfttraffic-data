@@ -24,14 +24,6 @@
     "longitude": -92.06882
   },
   {
-    "address": "LA NEUVILLE RD & YOUNGSVILLE HW",
-    "city": "BROUSSARD",
-    "time": "04/22/2019 - 3:00 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.14488,
-    "longitude": -91.99167
-  },
-  {
     "address": "LOUISIANA AV & MUDD AV",
     "city": "LAFAYETTE",
     "time": "04/22/2019 - 2:55 PM",
@@ -70,13 +62,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1768,
     "longitude": -92.07115
-  },
-  {
-    "address": "900 E SIMCOE ST",
-    "city": "LAFAYETTE",
-    "time": "04/22/2019 - 1:14 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2301,
-    "longitude": -92.00648
   }
 ]
