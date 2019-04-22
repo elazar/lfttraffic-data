@@ -1,5 +1,13 @@
 [
   {
+    "address": "1700 RUE DU BELIER",
+    "city": "LAFAYETTE",
+    "time": "04/22/2019 - 1:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16719,
+    "longitude": -92.0914349
+  },
+  {
     "address": "3 I49 SOUTHBOUND MM3 HW",
     "city": "CARENCRO",
     "time": "04/22/2019 - 1:19 PM",
