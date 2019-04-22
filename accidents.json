@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "CASTILLE AV & NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "04/21/2019 - 11:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2488,
+    "longitude": -92.01297
+  }
+]
