@@ -1,5 +1,21 @@
 [
   {
+    "address": "2305 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "04/22/2019 - 3:06 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21013,
+    "longitude": -92.07512
+  },
+  {
+    "address": "1220 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "04/22/2019 - 3:05 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.22576,
+    "longitude": -92.06882
+  },
+  {
     "address": "LA NEUVILLE RD & YOUNGSVILLE HW",
     "city": "BROUSSARD",
     "time": "04/22/2019 - 3:00 PM",
