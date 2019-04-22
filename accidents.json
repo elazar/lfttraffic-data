@@ -1,5 +1,13 @@
 [
   {
+    "address": "900 E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "04/22/2019 - 1:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2301,
+    "longitude": -92.00648
+  },
+  {
     "address": "MOSSY OAKS AV & W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "04/22/2019 - 12:57 PM",
