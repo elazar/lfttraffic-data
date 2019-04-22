@@ -32,14 +32,6 @@
     "longitude": -92.0027
   },
   {
-    "address": "3726 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "04/22/2019 - 2:46 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17252,
-    "longitude": -92.068
-  },
-  {
     "address": "3205 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "04/22/2019 - 2:37 PM",
@@ -54,13 +46,5 @@
     "due_to": "Vehicle Fire",
     "latitude": 30.20148,
     "longitude": -92.01557
-  },
-  {
-    "address": "3559 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "04/22/2019 - 2:29 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1768,
-    "longitude": -92.07115
   }
 ]
