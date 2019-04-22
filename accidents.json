@@ -1,5 +1,13 @@
 [
   {
+    "address": "W UNIVERSITY AV & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/22/2019 - 2:31 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21729,
+    "longitude": -92.01902
+  },
+  {
     "address": "3559 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/22/2019 - 2:29 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16717,
     "longitude": -92.03642
-  },
-  {
-    "address": "3142 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "04/22/2019 - 1:58 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1873,
-    "longitude": -92.07797
   },
   {
     "address": "600 S BEAU PRE RD",
