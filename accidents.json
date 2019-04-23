@@ -1,5 +1,13 @@
 [
   {
+    "address": "DULLES DR & WESTGATE RD",
+    "city": "LAFAYETTE",
+    "time": "04/23/2019 - 3:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21055,
+    "longitude": -92.087
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & BONIN RD",
     "city": "YOUNGSVILLE",
     "time": "04/23/2019 - 3:43 PM",
