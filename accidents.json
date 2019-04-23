@@ -8,7 +8,7 @@
     "longitude": -92.05707
   },
   {
-    "address": "100 BRENTWOOD CL",
+    "address": "100 BRENTWOOD BL",
     "city": "LAFAYETTE",
     "time": "04/23/2019 - 2:29 PM",
     "due_to": "Vehicle Accident",
@@ -46,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1970482,
     "longitude": -92.0564727
-  },
-  {
-    "address": "105 I10 EASTBOUND MM105 HW",
-    "city": "LAFAYETTE",
-    "time": "04/23/2019 - 1:24 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.26255,
-    "longitude": -92.00867
   },
   {
     "address": "E PINHOOK RD & SURREY ST",
