@@ -1,5 +1,13 @@
 [
   {
+    "address": "E ST MARY BL & HEBRARD BL",
+    "city": "LAFAYETTE",
+    "time": "04/23/2019 - 07:29 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21293,
+    "longitude": -92.01968
+  },
+  {
     "address": "600 CHURCH ST",
     "city": "YOUNGSVILLE",
     "time": "04/23/2019 - 07:17 AM",
