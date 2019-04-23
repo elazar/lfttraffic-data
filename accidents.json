@@ -1,5 +1,13 @@
 [
   {
+    "address": "2851 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/23/2019 - 4:53 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20607,
+    "longitude": -92.04006
+  },
+  {
     "address": "212 CROUCHET ST",
     "city": "CARENCRO",
     "time": "04/23/2019 - 4:34 PM",
