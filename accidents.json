@@ -1,5 +1,13 @@
 [
   {
+    "address": "99 I10 EASTBOUND MM99 HW",
+    "city": "SCOTT",
+    "time": "04/23/2019 - 2:04 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.24727,
+    "longitude": -92.09751
+  },
+  {
     "address": "100 I10 EASTBOUND MM100 HW",
     "city": "LAFAYETTE",
     "time": "04/23/2019 - 2:02 PM",
