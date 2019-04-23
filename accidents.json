@@ -1,5 +1,13 @@
 [
   {
+    "address": "E PINHOOK RD & SURREY ST",
+    "city": "LAFAYETTE",
+    "time": "04/23/2019 - 1:07 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.2236,
+    "longitude": -91.99821
+  },
+  {
     "address": "NW EVANGELINE TW & E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "04/23/2019 - 1:02 PM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.22438,
     "longitude": -92.01447
-  },
-  {
-    "address": "NW EVANGELINE TW & I10 HW",
-    "city": "LAFAYETTE",
-    "time": "04/23/2019 - 12:40 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.25326,
-    "longitude": -92.01457
   }
 ]
