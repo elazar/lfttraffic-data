@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "100 WESTBERRY CL",
+    "city": "LAFAYETTE",
+    "time": "04/23/2019 - 04:48 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.17534,
+    "longitude": -92.03544
+  }
+]
