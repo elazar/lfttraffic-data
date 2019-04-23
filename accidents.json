@@ -1,5 +1,13 @@
 [
   {
+    "address": "W GILMAN RD & N ST ANTOINE ST",
+    "city": "LAFAYETTE",
+    "time": "04/23/2019 - 09:02 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24202,
+    "longitude": -92.02408
+  },
+  {
     "address": "216 EIGHTH ST",
     "city": "LAFAYETTE",
     "time": "04/23/2019 - 08:57 AM",
