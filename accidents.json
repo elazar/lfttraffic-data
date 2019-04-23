@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "500 W GLORIA SWITCH RD",
+    "city": "CARENCRO",
+    "time": "04/22/2019 - 9:36 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2979701,
+    "longitude": -92.0371928
+  }
+]
