@@ -1,5 +1,21 @@
 [
   {
+    "address": "JOHNSTON ST & GARFIELD ST",
+    "city": "LAFAYETTE",
+    "time": "04/23/2019 - 12:49 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.22438,
+    "longitude": -92.01447
+  },
+  {
+    "address": "NW EVANGELINE TW & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "04/23/2019 - 12:40 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25326,
+    "longitude": -92.01457
+  },
+  {
     "address": "1001 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "04/23/2019 - 12:24 PM",
