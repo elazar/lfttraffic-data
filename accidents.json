@@ -1,5 +1,13 @@
 [
   {
+    "address": "DIGBY AV & W BLUEBIRD DR",
+    "city": "LAFAYETTE",
+    "time": "04/23/2019 - 2:47 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15636,
+    "longitude": -92.03107
+  },
+  {
     "address": "600 CHURCH ST",
     "city": "YOUNGSVILLE",
     "time": "04/23/2019 - 2:45 PM",
