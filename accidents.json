@@ -1,5 +1,13 @@
 [
   {
+    "address": "150 LEONARD DR",
+    "city": "LAFAYETTE",
+    "time": "04/22/2019 - 8:39 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.2983213,
+    "longitude": -91.9985905
+  },
+  {
     "address": "1004 BONIN RD",
     "city": "LAFAYETTE",
     "time": "04/22/2019 - 8:10 PM",
