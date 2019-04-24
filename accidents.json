@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 CHURCH ST",
+    "city": "YOUNGSVILLE",
+    "time": "04/24/2019 - 07:19 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.09923,
+    "longitude": -91.99578
+  },
+  {
     "address": "PLATEAU RD & VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "04/24/2019 - 07:10 AM",
