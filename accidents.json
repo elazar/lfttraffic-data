@@ -1,5 +1,13 @@
 [
   {
+    "address": "LAGNEAUX RD & RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "04/24/2019 - 3:12 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.18129,
+    "longitude": -92.12491
+  },
+  {
     "address": "DULLES DR & BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "04/24/2019 - 3:00 PM",
@@ -62,13 +70,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.20638,
     "longitude": -92.01417
-  },
-  {
-    "address": "3810 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "04/24/2019 - 2:08 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.16896,
-    "longitude": -92.06457
   }
 ]
