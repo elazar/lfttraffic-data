@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 N COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "04/24/2019 - 11:50 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20896,
+    "longitude": -92.04023
+  },
+  {
     "address": "2700 NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "04/24/2019 - 11:44 AM",
