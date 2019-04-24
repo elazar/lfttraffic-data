@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2431581,
     "longitude": -92.0326055
-  },
-  {
-    "address": "1007 W WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "04/24/2019 - 11:19 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.2455336,
-    "longitude": -92.0279729
   }
 ]
