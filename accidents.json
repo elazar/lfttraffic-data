@@ -1,5 +1,13 @@
 [
   {
+    "address": "DULLES DR & BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "04/24/2019 - 3:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22233,
+    "longitude": -92.05213
+  },
+  {
     "address": "S COLLEGE RD & MARKET PL",
     "city": "LAFAYETTE",
     "time": "04/24/2019 - 2:58 PM",
