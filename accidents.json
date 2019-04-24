@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "04/24/2019 - 4:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1933318,
+    "longitude": -92.0585573
+  },
+  {
     "address": "1200 NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "04/24/2019 - 4:13 PM",
@@ -22,14 +30,6 @@
     "due_to": "Trash Fire",
     "latitude": 30.21217,
     "longitude": -92.10733
-  },
-  {
-    "address": "1800 NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "04/24/2019 - 3:59 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24592,
-    "longitude": -92.01176
   },
   {
     "address": "245 DES JACQUES RD",
