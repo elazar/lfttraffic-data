@@ -1,5 +1,13 @@
 [
   {
+    "address": "4510 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "04/23/2019 - 8:06 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.15447,
+    "longitude": -92.04831
+  },
+  {
     "address": "100 HECTOR CONNOLY RD",
     "city": "CARENCRO",
     "time": "04/23/2019 - 7:46 PM",
@@ -30,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.14377,
     "longitude": -92.05931
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & VERMILION RIVER",
-    "city": "LAFAYETTE",
-    "time": "04/23/2019 - 6:19 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.21504,
-    "longitude": -92.07579
   }
 ]
