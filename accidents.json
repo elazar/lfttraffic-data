@@ -1,5 +1,13 @@
 [
   {
+    "address": "3000 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "04/24/2019 - 09:58 AM",
+    "due_to": "Hazard",
+    "latitude": 30.28307,
+    "longitude": -92.01992
+  },
+  {
     "address": "1200 ROBLEY DR",
     "city": "LAFAYETTE",
     "time": "04/24/2019 - 09:57 AM",
