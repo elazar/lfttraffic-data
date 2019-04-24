@@ -1,5 +1,13 @@
 [
   {
+    "address": "4930 W CONGRESS ST (NE)",
+    "city": "LAFAYETTE",
+    "time": "04/24/2019 - 4:02 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.19697,
+    "longitude": -92.09873
+  },
+  {
     "address": "1800 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "04/24/2019 - 3:59 PM",
@@ -46,13 +54,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.19008,
     "longitude": -92.00386
-  },
-  {
-    "address": "603 AVENUE B",
-    "city": "YOUNGSVILLE",
-    "time": "04/24/2019 - 2:40 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.09519,
-    "longitude": -91.99765
   }
 ]
