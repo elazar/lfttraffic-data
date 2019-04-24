@@ -1,5 +1,13 @@
 [
   {
+    "address": "2320 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "04/24/2019 - 4:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16116,
+    "longitude": -92.0449
+  },
+  {
     "address": "100 CAMELLIA BL",
     "city": "LAFAYETTE",
     "time": "04/24/2019 - 4:15 PM",
@@ -16,28 +24,12 @@
     "longitude": -92.00867
   },
   {
-    "address": "127 FREMONT DR",
-    "city": "SCOTT",
-    "time": "04/24/2019 - 4:02 PM",
-    "due_to": "Trash Fire",
-    "latitude": 30.21217,
-    "longitude": -92.10733
-  },
-  {
     "address": "245 DES JACQUES RD",
     "city": "LAFAYETTE",
     "time": "04/24/2019 - 3:46 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.22437,
     "longitude": -92.08067
-  },
-  {
-    "address": "NW EVANGELINE TW & W WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "04/24/2019 - 3:16 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24481,
-    "longitude": -92.01456
   },
   {
     "address": "S COLLEGE RD & MARKET PL",
