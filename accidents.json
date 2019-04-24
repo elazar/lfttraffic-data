@@ -1,5 +1,13 @@
 [
   {
+    "address": "215 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "04/24/2019 - 3:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24462,
+    "longitude": -92.01603
+  },
+  {
     "address": "3400 NE EVANGELINE TW",
     "city": "CARENCRO",
     "time": "04/24/2019 - 3:23 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.19008,
     "longitude": -92.00386
-  },
-  {
-    "address": "GIRARD PARK CL & GIRARD PARK DR",
-    "city": "LAFAYETTE",
-    "time": "04/24/2019 - 2:45 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.20299,
-    "longitude": -92.02241
   },
   {
     "address": "603 AVENUE B",
