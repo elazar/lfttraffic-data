@@ -16,14 +16,6 @@
     "longitude": -92.07527
   },
   {
-    "address": "S HUGH WALLIS RD & E VEROT SCHOOL RD",
-    "city": "LAFAYETTE",
-    "time": "04/24/2019 - 07:47 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1817,
-    "longitude": -91.99094
-  },
-  {
     "address": "2200 NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "04/24/2019 - 07:34 AM",
@@ -38,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16505,
     "longitude": -92.07455
-  },
-  {
-    "address": "600 CHURCH ST",
-    "city": "YOUNGSVILLE",
-    "time": "04/24/2019 - 07:19 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.09923,
-    "longitude": -91.99578
   }
 ]
