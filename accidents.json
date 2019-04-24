@@ -1,19 +1,19 @@
 [
   {
+    "address": "2901 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/24/2019 - 11:57 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20569,
+    "longitude": -92.04069
+  },
+  {
     "address": "200 N COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "04/24/2019 - 11:50 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.20896,
     "longitude": -92.04023
-  },
-  {
-    "address": "2700 NW EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "04/24/2019 - 11:44 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.2658968,
-    "longitude": -92.0173097
   },
   {
     "address": "1101 N UNIVERSITY AV",
