@@ -1,18 +1,18 @@
 [
   {
+    "address": "200 HOLLOW GREEN DR",
+    "city": "LAFAYETTE",
+    "time": "04/24/2019 - 05:58 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.14467,
+    "longitude": -92.024
+  },
+  {
     "address": "102 HANSON BROOK DR",
     "city": "LAFAYETTE",
     "time": "04/24/2019 - 05:35 AM",
     "due_to": "Fire Alarm-Residential",
     "latitude": 30.14631,
     "longitude": -91.97663
-  },
-  {
-    "address": "CAMERON ST & APOLLO RD",
-    "city": "SCOTT",
-    "time": "04/24/2019 - 04:50 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.23485,
-    "longitude": -92.10742
   }
 ]
