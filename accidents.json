@@ -1,5 +1,13 @@
 [
   {
+    "address": "ST JOHN ST & W SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "04/24/2019 - 10:30 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.23055,
+    "longitude": -92.02287
+  },
+  {
     "address": "E ST MARY BL & W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "04/24/2019 - 10:12 AM",
