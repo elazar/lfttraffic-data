@@ -1,5 +1,13 @@
 [
   {
+    "address": "103 I10 EASTBOUND MM103A HW",
+    "city": "LAFAYETTE",
+    "time": "04/24/2019 - 4:06 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "127 FREMONT DR",
     "city": "SCOTT",
     "time": "04/24/2019 - 4:02 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22437,
     "longitude": -92.08067
-  },
-  {
-    "address": "215 W WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "04/24/2019 - 3:39 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24462,
-    "longitude": -92.01603
   },
   {
     "address": "3400 NE EVANGELINE TW",
