@@ -1,5 +1,13 @@
 [
   {
+    "address": "309 RUSTBURG DR",
+    "city": "LAFAYETTE",
+    "time": "04/24/2019 - 5:40 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.13619,
+    "longitude": -92.03375
+  },
+  {
     "address": "100 CLUB BL",
     "city": "LAFAYETTE",
     "time": "04/24/2019 - 5:26 PM",
