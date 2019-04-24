@@ -1,5 +1,13 @@
 [
   {
+    "address": "2418 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "04/23/2019 - 8:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18028,
+    "longitude": -92.00483
+  },
+  {
     "address": "201 STAMP ST",
     "city": "LAFAYETTE",
     "time": "04/23/2019 - 8:20 PM",
@@ -30,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24612,
     "longitude": -92.01083
-  },
-  {
-    "address": "KALISTE SALOOM RD & RAMBLEWOOD DR",
-    "city": "LAFAYETTE",
-    "time": "04/23/2019 - 6:54 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.14377,
-    "longitude": -92.05931
   }
 ]
