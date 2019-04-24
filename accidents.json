@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1201 E BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "04/23/2019 - 11:58 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.13502,
+    "longitude": -92.0588
+  }
+]
