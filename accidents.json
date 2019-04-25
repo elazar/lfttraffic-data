@@ -1,5 +1,21 @@
 [
   {
+    "address": "ST CHARLES ST & JEFFERSON BL",
+    "city": "LAFAYETTE",
+    "time": "04/25/2019 - 12:44 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.22448,
+    "longitude": -92.00205
+  },
+  {
+    "address": "620 JEFFERSON BL",
+    "city": "LAFAYETTE",
+    "time": "04/25/2019 - 12:44 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.22975,
+    "longitude": -92.00941
+  },
+  {
     "address": "1616 YOUNGSVILLE HW",
     "city": "BROUSSARD",
     "time": "04/25/2019 - 12:29 PM",
