@@ -1,5 +1,13 @@
 [
   {
+    "address": "S BUCHANAN ST & W GARFIELD ST",
+    "city": "LAFAYETTE",
+    "time": "04/25/2019 - 12:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22702,
+    "longitude": -92.01795
+  },
+  {
     "address": "6600 AMBASSADOR CAFFERY PW",
     "city": "BROUSSARD",
     "time": "04/25/2019 - 11:55 AM",
