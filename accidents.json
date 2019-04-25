@@ -1,5 +1,13 @@
 [
   {
+    "address": "1200 ROBLEY DR",
+    "city": "LAFAYETTE",
+    "time": "04/24/2019 - 11:29 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.16505,
+    "longitude": -92.07455
+  },
+  {
     "address": "WINCHESTER DR & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "04/24/2019 - 10:33 PM",
