@@ -1,5 +1,13 @@
 [
   {
+    "address": "505 BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "04/25/2019 - 1:06 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21058,
+    "longitude": -92.04611
+  },
+  {
     "address": "5000 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "04/25/2019 - 1:02 PM",
@@ -54,13 +62,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.13449,
     "longitude": -91.99169
-  },
-  {
-    "address": "LOUISIANA AV & E WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "04/25/2019 - 12:21 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.24552,
-    "longitude": -92.00037
   }
 ]
