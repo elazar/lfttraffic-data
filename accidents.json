@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 VINCENT RD",
+    "city": "LAFAYETTE",
+    "time": "04/25/2019 - 5:40 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1382149,
+    "longitude": -92.0328217
+  },
+  {
     "address": "E VEROT SCHOOL RD & SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "04/25/2019 - 5:23 PM",
