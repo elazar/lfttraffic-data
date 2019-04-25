@@ -1,5 +1,13 @@
 [
   {
+    "address": "5000 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/25/2019 - 1:02 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.1836724,
+    "longitude": -92.0690815
+  },
+  {
     "address": "100 SWEETLAND AV",
     "city": "BROUSSARD",
     "time": "04/25/2019 - 1:01 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22214,
     "longitude": -92.00904
-  },
-  {
-    "address": "100 ST CHARLES ST",
-    "city": "LAFAYETTE",
-    "time": "04/25/2019 - 12:47 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.2297275,
-    "longitude": -92.0093087
   },
   {
     "address": "ST CHARLES ST & JEFFERSON BL",
