@@ -1,5 +1,13 @@
 [
   {
+    "address": "E VEROT SCHOOL RD & SE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "04/25/2019 - 5:23 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.18268,
+    "longitude": -91.99006
+  },
+  {
     "address": "2100 DULLES DR",
     "city": "SCOTT",
     "time": "04/25/2019 - 5:17 PM",
