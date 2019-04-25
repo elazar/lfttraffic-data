@@ -1,5 +1,13 @@
 [
   {
+    "address": "W WILLOW ST & N ST ANTOINE ST",
+    "city": "LAFAYETTE",
+    "time": "04/25/2019 - 5:08 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24558,
+    "longitude": -92.02342
+  },
+  {
     "address": "2720 W WILLOW ST",
     "city": "SCOTT",
     "time": "04/25/2019 - 5:04 PM",
