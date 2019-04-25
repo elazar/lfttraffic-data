@@ -1,5 +1,13 @@
 [
   {
+    "address": "YOUNGSVILLE HW & ALBERTSON PW",
+    "city": "BROUSSARD",
+    "time": "04/25/2019 - 6:39 PM",
+    "due_to": "Hazard",
+    "latitude": 30.14488,
+    "longitude": -91.99167
+  },
+  {
     "address": "1114 SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "04/25/2019 - 6:38 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.16823,
     "longitude": -92.14148
-  },
-  {
-    "address": "3142 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "04/25/2019 - 6:06 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1873,
-    "longitude": -92.07797
   },
   {
     "address": "JOHNSTON ST & E BROUSSARD RD",
