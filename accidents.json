@@ -1,5 +1,13 @@
 [
   {
+    "address": "1106 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "04/25/2019 - 2:07 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2405598,
+    "longitude": -92.0069318
+  },
+  {
     "address": "AUBURN AV & WILSON ST",
     "city": "LAFAYETTE",
     "time": "04/25/2019 - 1:58 PM",
