@@ -14,13 +14,5 @@
     "due_to": "Fire Alarm-Residential",
     "latitude": 30.2248,
     "longitude": -92.08841
-  },
-  {
-    "address": "2400 LA 93 HW",
-    "city": "LAFAYETTE",
-    "time": "04/24/2019 - 6:17 PM",
-    "due_to": "Hazardous Material",
-    "latitude": 30.2983932,
-    "longitude": -92.116625
   }
 ]
