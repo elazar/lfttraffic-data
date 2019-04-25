@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1400 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "04/25/2019 - 04:10 AM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.24845,
+    "longitude": -92.0343
+  }
+]
