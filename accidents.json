@@ -24,12 +24,12 @@
     "longitude": -91.99765
   },
   {
-    "address": "49 BNSF RAILROAD CG",
-    "city": "SCOTT",
+    "address": "149 RENDEZVOUS RD",
+    "city": "LAFAYETTE",
     "time": "04/25/2019 - 2:28 PM",
     "due_to": "Road Hazard",
-    "latitude": null,
-    "longitude": null
+    "latitude": 30.2350841,
+    "longitude": -92.1336823
   },
   {
     "address": "AUBURN AV & WILSON ST",
