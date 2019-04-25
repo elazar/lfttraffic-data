@@ -1,5 +1,13 @@
 [
   {
+    "address": "W SIMCOE ST & W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "04/24/2019 - 9:04 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22931,
+    "longitude": -92.03045
+  },
+  {
     "address": "703 ASTER DR",
     "city": "LAFAYETTE",
     "time": "04/24/2019 - 9:00 PM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.19512,
     "longitude": -92.09561
-  },
-  {
-    "address": "4350 US 90 EAST HW",
-    "city": "BROUSSARD",
-    "time": "04/24/2019 - 8:28 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.1499,
-    "longitude": -91.95177
   },
   {
     "address": "223 HARVEST POINTE CL",
