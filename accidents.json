@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23312,
     "longitude": -92.0191
-  },
-  {
-    "address": "E ST MARY BL & W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "04/25/2019 - 07:54 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.20703,
-    "longitude": -92.01181
   }
 ]
