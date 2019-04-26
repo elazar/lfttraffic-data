@@ -1,5 +1,13 @@
 [
   {
+    "address": "500 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "04/26/2019 - 5:04 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23893,
+    "longitude": -92.06643
+  },
+  {
     "address": "GUILLIOT RD & ALMONASTER RD",
     "city": "YOUNGSVILLE",
     "time": "04/26/2019 - 5:03 PM",
@@ -62,14 +70,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23664,
     "longitude": -92.01284
-  },
-  {
-    "address": "1016 SW EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "04/26/2019 - 4:11 PM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.22071,
-    "longitude": -92.00969
   },
   {
     "address": "3700 AMBASSADOR CAFFERY PW",
