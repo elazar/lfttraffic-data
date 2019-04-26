@@ -54,21 +54,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.26255,
     "longitude": -92.00867
-  },
-  {
-    "address": "YOUNGSVILLE HW & W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "04/26/2019 - 4:22 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.16071,
-    "longitude": -91.99107
-  },
-  {
-    "address": "GALBERT RD & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "04/26/2019 - 4:20 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22133,
-    "longitude": -92.07434
   }
 ]
