@@ -1,5 +1,13 @@
 [
   {
+    "address": "I49 NORTHBOUND HW & I10 OVERPASS MM103 HW",
+    "city": "LAFAYETTE",
+    "time": "04/26/2019 - 4:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "YOUNGSVILLE HW & W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "04/26/2019 - 4:22 PM",
@@ -46,14 +54,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17256,
     "longitude": -92.06915
-  },
-  {
-    "address": "ERASTE LANDRY RD & FOREMAN DR",
-    "city": "LAFAYETTE",
-    "time": "04/26/2019 - 2:40 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2195,
-    "longitude": -92.06465
   },
   {
     "address": "4232 AMBASSADOR CAFFERY PW",
