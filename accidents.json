@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "200 E KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "04/26/2019 - 05:57 AM",
+    "due_to": "Vehicle Fire",
+    "latitude": 30.1920367,
+    "longitude": -92.0112173
+  }
+]
