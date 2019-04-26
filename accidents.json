@@ -1,19 +1,19 @@
 [
   {
+    "address": "201 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "04/26/2019 - 11:53 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.18669,
+    "longitude": -92.01468
+  },
+  {
     "address": "W CONGRESS ST & BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "04/26/2019 - 11:21 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.21493,
     "longitude": -92.04696
-  },
-  {
-    "address": "4 I49 NORTHBOUND MM4 HW",
-    "city": "LAFAYETTE",
-    "time": "04/26/2019 - 11:19 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.28006,
-    "longitude": -92.02024
   },
   {
     "address": "1211 W PINHOOK RD",
