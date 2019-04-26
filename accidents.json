@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & DOUCET RD",
+    "city": "LAFAYETTE",
+    "time": "04/26/2019 - 2:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20341,
+    "longitude": -92.04888
+  },
+  {
     "address": "2863 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/26/2019 - 2:06 PM",
