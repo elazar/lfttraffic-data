@@ -1,5 +1,13 @@
 [
   {
+    "address": "HILDA ST & CORA ST",
+    "city": "LAFAYETTE",
+    "time": "04/26/2019 - 2:44 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24787,
+    "longitude": -92.02663
+  },
+  {
     "address": "ERASTE LANDRY RD & FOREMAN DR",
     "city": "LAFAYETTE",
     "time": "04/26/2019 - 2:41 PM",
@@ -30,14 +38,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.23206,
     "longitude": -92.08709
-  },
-  {
-    "address": "JOHNSTON ST & DOUCET RD",
-    "city": "LAFAYETTE",
-    "time": "04/26/2019 - 2:20 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20341,
-    "longitude": -92.04888
   },
   {
     "address": "2863 AMBASSADOR CAFFERY PW",
