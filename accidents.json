@@ -1,5 +1,13 @@
 [
   {
+    "address": "800 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/26/2019 - 6:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2212008,
+    "longitude": -92.0166616
+  },
+  {
     "address": "400 DOUCET RD",
     "city": "LAFAYETTE",
     "time": "04/26/2019 - 6:21 PM",
@@ -19,7 +27,7 @@
     "address": "6136 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "04/26/2019 - 5:48 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
+    "due_to": "Vehicle Accident",
     "latitude": 30.1657,
     "longitude": -92.08478
   },
