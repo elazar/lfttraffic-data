@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 SECOND ST",
+    "city": "DUSON",
+    "time": "04/26/2019 - 02:24 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23643,
+    "longitude": -92.18244
+  },
+  {
     "address": "W GARFIELD ST & S BUCHANAN ST",
     "city": "LAFAYETTE",
     "time": "04/25/2019 - 7:50 PM",
