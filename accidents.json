@@ -1,5 +1,13 @@
 [
   {
+    "address": "105 I10 WB EXIT RAMP HW",
+    "city": "LAFAYETTE",
+    "time": "04/26/2019 - 1:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "6 I49 SOUTHBOUND MM6 HW",
     "city": "LAFAYETTE",
     "time": "04/26/2019 - 1:15 PM",
