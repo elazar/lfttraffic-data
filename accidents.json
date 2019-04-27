@@ -1,5 +1,13 @@
 [
   {
+    "address": "MOSS ST & MUDD AV",
+    "city": "LAFAYETTE",
+    "time": "04/27/2019 - 4:23 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23248,
+    "longitude": -92.00878
+  },
+  {
     "address": "ARCENEAUX RD & WALTER DR",
     "city": "CARENCRO",
     "time": "04/27/2019 - 4:06 PM",
