@@ -1,5 +1,13 @@
 [
   {
+    "address": "W SIMCOE ST & S PIERCE ST",
+    "city": "LAFAYETTE",
+    "time": "04/26/2019 - 11:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23067,
+    "longitude": -92.01881
+  },
+  {
     "address": "RENA DR & JOHNSTON DR",
     "city": "LAFAYETTE",
     "time": "04/26/2019 - 11:04 PM",
