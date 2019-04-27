@@ -1,18 +1,18 @@
 [
   {
+    "address": "JOHNSTON ST & ARNOULD BL",
+    "city": "LAFAYETTE",
+    "time": "04/27/2019 - 12:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20186,
+    "longitude": -92.05312
+  },
+  {
     "address": "100 LA 1252 HW",
     "city": "LAFAYETTE",
     "time": "04/27/2019 - 11:36 AM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.3364068,
     "longitude": -92.038255
-  },
-  {
-    "address": "LA NEUVILLE RD & YOUNGSVILLE HW",
-    "city": "BROUSSARD",
-    "time": "04/27/2019 - 11:25 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.14488,
-    "longitude": -91.99167
   }
 ]
