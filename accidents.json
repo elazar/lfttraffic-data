@@ -1,5 +1,13 @@
 [
   {
+    "address": "E ALEXANDER ST & MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "04/27/2019 - 07:16 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.2556,
+    "longitude": -92.00554
+  },
+  {
     "address": "E WILLOW ST & MOSS ST",
     "city": "LAFAYETTE",
     "time": "04/27/2019 - 07:15 AM",
