@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1100 BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "04/27/2019 - 09:02 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.21946,
+    "longitude": -92.04853
+  }
+]
