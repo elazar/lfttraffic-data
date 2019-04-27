@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "100 GUIDRY RD",
+    "city": "LAFAYETTE",
+    "time": "04/27/2019 - 05:37 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1692416,
+    "longitude": -92.0817161
+  }
+]
