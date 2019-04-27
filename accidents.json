@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1900 DULLES DR",
+    "city": "SCOTT",
+    "time": "04/27/2019 - 01:07 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21102,
+    "longitude": -92.08756
+  }
+]
