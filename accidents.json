@@ -1,5 +1,21 @@
 [
   {
+    "address": "E PINHOOK RD & CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "04/27/2019 - 07:19 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.2334,
+    "longitude": -91.9927
+  },
+  {
+    "address": "2600 MOSS ST (SE)",
+    "city": "LAFAYETTE",
+    "time": "04/27/2019 - 07:19 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.25598,
+    "longitude": -92.00498
+  },
+  {
     "address": "LOUISIANA AV & I10 HW",
     "city": "LAFAYETTE",
     "time": "04/27/2019 - 07:18 AM",
@@ -22,14 +38,6 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.2556,
     "longitude": -92.00554
-  },
-  {
-    "address": "E WILLOW ST & MOSS ST",
-    "city": "LAFAYETTE",
-    "time": "04/27/2019 - 07:15 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.24378,
-    "longitude": -92.00638
   },
   {
     "address": "SE EVANGELINE TW & LOUISIANA AV",
