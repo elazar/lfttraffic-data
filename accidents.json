@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "VITAL ST & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "04/26/2019 - 11:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20881,
+    "longitude": -92.05431
+  }
+]
