@@ -1,5 +1,13 @@
 [
   {
+    "address": "W THIRD ST & S PIERCE ST",
+    "city": "LAFAYETTE",
+    "time": "04/27/2019 - 1:38 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22778,
+    "longitude": -92.01879
+  },
+  {
     "address": "1700 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "04/27/2019 - 1:30 PM",
