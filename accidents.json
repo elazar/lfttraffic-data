@@ -1,29 +1,5 @@
 [
   {
-    "address": "E PINHOOK RD & CARMEL DR",
-    "city": "LAFAYETTE",
-    "time": "04/27/2019 - 07:19 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.2334,
-    "longitude": -91.9927
-  },
-  {
-    "address": "LOUISIANA AV & I10 HW",
-    "city": "LAFAYETTE",
-    "time": "04/27/2019 - 07:18 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.27944,
-    "longitude": -91.99217
-  },
-  {
-    "address": "E ALEXANDER ST & MOSS ST",
-    "city": "LAFAYETTE",
-    "time": "04/27/2019 - 07:16 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.2556,
-    "longitude": -92.00554
-  },
-  {
     "address": "BNSF RAILROAD CG & E SECOND ST",
     "city": "LAFAYETTE",
     "time": "04/27/2019 - 07:14 AM",
