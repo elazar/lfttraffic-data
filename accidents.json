@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23069,
     "longitude": -92.00911
-  },
-  {
-    "address": "N UNIVERSITY AV & DUGAS RD",
-    "city": "LAFAYETTE",
-    "time": "04/28/2019 - 5:01 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.28322,
-    "longitude": -92.05039
   }
 ]
