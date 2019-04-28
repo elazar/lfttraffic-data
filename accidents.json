@@ -1,5 +1,21 @@
 [
   {
+    "address": "850 HEART D FARM RD",
+    "city": "BROUSSARD",
+    "time": "04/28/2019 - 12:42 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.1307869,
+    "longitude": -91.981896
+  },
+  {
+    "address": "3323 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "04/28/2019 - 12:42 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18095,
+    "longitude": -92.07482
+  },
+  {
     "address": "1400 DULLES DR",
     "city": "LAFAYETTE",
     "time": "04/28/2019 - 12:37 PM",
