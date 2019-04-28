@@ -1,5 +1,13 @@
 [
   {
+    "address": "302 WEST MAIN",
+    "city": "Lafayette",
+    "time": "04/28/2019 - 11:56 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.2230449,
+    "longitude": -92.0209788
+  },
+  {
     "address": "3011 NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "04/28/2019 - 11:40 AM",
