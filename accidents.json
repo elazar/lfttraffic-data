@@ -1,5 +1,13 @@
 [
   {
+    "address": "922 LA MAISON RD",
+    "city": "LAFAYETTE",
+    "time": "04/27/2019 - 9:13 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.20387,
+    "longitude": -92.20234
+  },
+  {
     "address": "1600 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "04/27/2019 - 8:15 PM",
