@@ -1,5 +1,13 @@
 [
   {
+    "address": "S BUCHANAN ST & W GARFIELD ST",
+    "city": "LAFAYETTE",
+    "time": "04/28/2019 - 4:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22702,
+    "longitude": -92.01795
+  },
+  {
     "address": "5700 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "04/28/2019 - 3:27 PM",
