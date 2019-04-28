@@ -1,5 +1,13 @@
 [
   {
+    "address": "201 JEFFERSON ST",
+    "city": "LAFAYETTE",
+    "time": "04/28/2019 - 2:08 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22704,
+    "longitude": -92.01583
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "04/28/2019 - 1:52 PM",
