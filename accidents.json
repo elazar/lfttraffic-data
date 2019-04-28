@@ -1,5 +1,13 @@
 [
   {
+    "address": "SILKWOOD ST & W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "04/28/2019 - 12:27 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23038,
+    "longitude": -92.03118
+  },
+  {
     "address": "1600 SW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "04/27/2019 - 11:57 PM",
