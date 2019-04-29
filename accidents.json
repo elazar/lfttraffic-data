@@ -1,5 +1,21 @@
 [
   {
+    "address": "W SIMCOE ST & S PIERCE ST",
+    "city": "LAFAYETTE",
+    "time": "04/29/2019 - 11:59 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.23067,
+    "longitude": -92.01881
+  },
+  {
+    "address": "MOSS ST & CASTILLE AV",
+    "city": "LAFAYETTE",
+    "time": "04/29/2019 - 11:59 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.24822,
+    "longitude": -92.00593
+  },
+  {
     "address": "4607 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "04/29/2019 - 11:56 AM",
