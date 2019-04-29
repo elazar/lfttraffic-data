@@ -1,9 +1,17 @@
 [
   {
+    "address": "LOUISIANA AV & MUDD AV",
+    "city": "LAFAYETTE",
+    "time": "04/29/2019 - 2:56 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23174,
+    "longitude": -92.0027
+  },
+  {
     "address": "1404 CARMEL DR",
     "city": "LAFAYETTE",
     "time": "04/29/2019 - 2:55 PM",
-    "due_to": "Incoming Call",
+    "due_to": "Commercial Fire",
     "latitude": 30.23253,
     "longitude": -91.98666
   },
@@ -54,13 +62,5 @@
     "due_to": "Residential Fire",
     "latitude": 30.24864,
     "longitude": -92.02289
-  },
-  {
-    "address": "W CONGRESS ST & CAJUNDOME BL",
-    "city": "LAFAYETTE",
-    "time": "04/29/2019 - 1:19 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21871,
-    "longitude": -92.04139
   }
 ]
