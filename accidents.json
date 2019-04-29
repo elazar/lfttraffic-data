@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23487,
     "longitude": -92.09459
-  },
-  {
-    "address": "100 LE VIOLON RD",
-    "city": "LAFAYETTE",
-    "time": "04/29/2019 - 07:52 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.19874,
-    "longitude": -92.10719
   }
 ]
