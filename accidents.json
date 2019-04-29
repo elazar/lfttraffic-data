@@ -1,19 +1,19 @@
 [
   {
+    "address": "215 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "04/29/2019 - 2:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24462,
+    "longitude": -92.01603
+  },
+  {
     "address": "3747 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/29/2019 - 2:00 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.17254,
     "longitude": -92.06583
-  },
-  {
-    "address": "800 JANVIER RD",
-    "city": "LAFAYETTE",
-    "time": "04/29/2019 - 1:58 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.2793684,
-    "longitude": -92.1337528
   },
   {
     "address": "152 E GLORIA SWITCH RD",
