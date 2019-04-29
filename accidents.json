@@ -1,5 +1,13 @@
 [
   {
+    "address": "ST CHARLES ST & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "04/29/2019 - 10:35 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.22448,
+    "longitude": -92.00205
+  },
+  {
     "address": "JOHNSTON ST & MILDRED ST",
     "city": "LAFAYETTE",
     "time": "04/29/2019 - 10:32 AM",
