@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "110 LOLLY DR",
+    "city": "LAFAYETTE",
+    "time": "04/29/2019 - 01:10 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.26205,
+    "longitude": -92.00366
+  }
+]
