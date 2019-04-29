@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & ERASTE LANDRY RD",
+    "city": "LAFAYETTE",
+    "time": "04/29/2019 - 3:48 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23242,
+    "longitude": -92.03921
+  },
+  {
     "address": "600 CHURCH ST",
     "city": "YOUNGSVILLE",
     "time": "04/29/2019 - 3:36 PM",
