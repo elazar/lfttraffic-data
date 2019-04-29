@@ -1,5 +1,13 @@
 [
   {
+    "address": "RIDGE RD & LAGNEAUX RD",
+    "city": "LAFAYETTE",
+    "time": "04/29/2019 - 5:56 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1404,
+    "longitude": -92.13055
+  },
+  {
     "address": "3500 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "04/29/2019 - 5:46 PM",
