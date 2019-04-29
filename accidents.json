@@ -1,5 +1,13 @@
 [
   {
+    "address": "221 JEFFERSON ST",
+    "city": "LAFAYETTE",
+    "time": "04/29/2019 - 11:19 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22686,
+    "longitude": -92.01628
+  },
+  {
     "address": "W CONGRESS ST & W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "04/29/2019 - 11:03 AM",
