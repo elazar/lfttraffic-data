@@ -1,19 +1,19 @@
 [
   {
+    "address": "2400 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "04/29/2019 - 07:42 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26776,
+    "longitude": -92.04408
+  },
+  {
     "address": "CARMEL DR & IMMACULATA CL",
     "city": "LAFAYETTE",
     "time": "04/29/2019 - 07:38 AM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.23251,
     "longitude": -91.98545
-  },
-  {
-    "address": "100 SABINE DR",
-    "city": "LAFAYETTE",
-    "time": "04/29/2019 - 07:33 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.30946,
-    "longitude": -92.08336
   },
   {
     "address": "3700 N UNIVERSITY AV",
