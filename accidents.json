@@ -1,5 +1,13 @@
 [
   {
+    "address": "LOUISIANA AV & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "04/29/2019 - 5:01 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.27944,
+    "longitude": -91.99217
+  },
+  {
     "address": "3000 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "04/29/2019 - 4:45 PM",
@@ -14,14 +22,6 @@
     "due_to": "Fire Alarm-Residential",
     "latitude": 30.10536,
     "longitude": -91.95397
-  },
-  {
-    "address": "W WILLOW ST & N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "04/29/2019 - 4:21 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24448,
-    "longitude": -92.03275
   },
   {
     "address": "W PINHOOK RD & S COLLEGE RD",
