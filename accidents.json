@@ -1,5 +1,13 @@
 [
   {
+    "address": "104 GUILLIOT RD",
+    "city": "YOUNGSVILLE",
+    "time": "04/29/2019 - 11:50 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.09497,
+    "longitude": -91.99081
+  },
+  {
     "address": "221 JEFFERSON ST",
     "city": "LAFAYETTE",
     "time": "04/29/2019 - 11:19 AM",
