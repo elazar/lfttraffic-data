@@ -1,5 +1,13 @@
 [
   {
+    "address": "208 S PIERCE ST",
+    "city": "LAFAYETTE",
+    "time": "04/29/2019 - 02:29 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23288,
+    "longitude": -92.01932
+  },
+  {
     "address": "100 I10 WB EXIT RAMP HW",
     "city": "LAFAYETTE",
     "time": "04/29/2019 - 01:43 AM",
