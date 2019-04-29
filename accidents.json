@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "220 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "04/29/2019 - 06:36 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24651,
+    "longitude": -92.01593
+  }
+]
