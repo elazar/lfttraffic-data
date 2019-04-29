@@ -1,11 +1,11 @@
 [
   {
-    "address": "0 POLICE DEPARTMENT",
+    "address": "816 MARTIN LUTHER KING JR DR",
     "city": "LAFAYETTE",
     "time": "04/29/2019 - 2:06 PM",
     "due_to": "Residential Fire",
-    "latitude": null,
-    "longitude": null
+    "latitude": 30.24864,
+    "longitude": -92.02289
   },
   {
     "address": "MARTIN LUTHER KING JR DR & FITZGERALD ST",
