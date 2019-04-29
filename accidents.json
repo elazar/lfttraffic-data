@@ -1,5 +1,13 @@
 [
   {
+    "address": "N PIERCE ST & W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "04/29/2019 - 3:35 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24519,
+    "longitude": -92.01775
+  },
+  {
     "address": "CAMELLIA BL & SETTLERS TRACE BL",
     "city": "LAFAYETTE",
     "time": "04/29/2019 - 3:20 PM",
