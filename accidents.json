@@ -1,5 +1,13 @@
 [
   {
+    "address": "W WILLOW ST & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "04/29/2019 - 4:21 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24448,
+    "longitude": -92.03275
+  },
+  {
     "address": "W PINHOOK RD & S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "04/29/2019 - 4:14 PM",
