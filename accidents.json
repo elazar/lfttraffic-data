@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23683,
     "longitude": -92.01315
-  },
-  {
-    "address": "JANVIER RD & W GLORIA SWITCH RD",
-    "city": "LAFAYETTE",
-    "time": "04/28/2019 - 8:49 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.29858,
-    "longitude": -92.13382
   }
 ]
