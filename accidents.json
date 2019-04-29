@@ -14,21 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2261,
     "longitude": -92.02828
-  },
-  {
-    "address": "HECTOR CONNOLY RD & NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "04/29/2019 - 10:59 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.32261,
-    "longitude": -92.0325
-  },
-  {
-    "address": "JOHNSTON ST & MILDRED ST",
-    "city": "LAFAYETTE",
-    "time": "04/29/2019 - 10:32 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21323,
-    "longitude": -92.02354
   }
 ]
