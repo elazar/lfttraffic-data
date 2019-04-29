@@ -2,18 +2,18 @@
   {
     "address": "816 MARTIN LUTHER KING JR DR",
     "city": "LAFAYETTE",
-    "time": "04/29/2019 - 2:06 PM",
-    "due_to": "Residential Fire",
+    "time": "04/29/2019 - 2:09 PM",
+    "due_to": "Commercial Fire",
     "latitude": 30.24864,
     "longitude": -92.02289
   },
   {
-    "address": "MARTIN LUTHER KING JR DR & FITZGERALD ST",
+    "address": "816 MARTIN LUTHER KING JR DR",
     "city": "LAFAYETTE",
-    "time": "04/29/2019 - 2:05 PM",
+    "time": "04/29/2019 - 2:06 PM",
     "due_to": "Residential Fire",
-    "latitude": 30.24948,
-    "longitude": -92.02398
+    "latitude": 30.24864,
+    "longitude": -92.02289
   },
   {
     "address": "215 W WILLOW ST",
