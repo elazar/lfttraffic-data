@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 CHURCH ST",
+    "city": "YOUNGSVILLE",
+    "time": "04/29/2019 - 3:36 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.09923,
+    "longitude": -91.99578
+  },
+  {
     "address": "N PIERCE ST & W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "04/29/2019 - 3:35 PM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23174,
     "longitude": -92.0027
-  },
-  {
-    "address": "1404 CARMEL DR",
-    "city": "LAFAYETTE",
-    "time": "04/29/2019 - 2:55 PM",
-    "due_to": "Commercial Fire",
-    "latitude": 30.23253,
-    "longitude": -91.98666
   },
   {
     "address": "201 JEFFREY DR",
