@@ -1,13 +1,5 @@
 [
   {
-    "address": "110 BERNAY CT",
-    "city": "YOUNGSVILLE",
-    "time": "04/30/2019 - 09:44 AM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.09962,
-    "longitude": -91.99056
-  },
-  {
     "address": "FIRST ST & CHURCH ST",
     "city": "YOUNGSVILLE",
     "time": "04/30/2019 - 09:30 AM",
@@ -22,13 +14,5 @@
     "due_to": "Fire Alarm-Commercial",
     "latitude": 30.16505,
     "longitude": -92.07455
-  },
-  {
-    "address": "1521 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "04/30/2019 - 09:03 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19637,
-    "longitude": -92.01545
   }
 ]
