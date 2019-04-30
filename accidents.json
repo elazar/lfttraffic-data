@@ -1,5 +1,13 @@
 [
   {
+    "address": "2331 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "04/30/2019 - 4:46 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25391,
+    "longitude": -92.00553
+  },
+  {
     "address": "MARTIN LUTHER KING JR DR & NW FRONTAGE RD",
     "city": "LAFAYETTE",
     "time": "04/30/2019 - 4:22 PM",
