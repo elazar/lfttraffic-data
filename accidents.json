@@ -56,14 +56,6 @@
     "longitude": -92.00905
   },
   {
-    "address": "1522 CARMEL DR",
-    "city": "LAFAYETTE",
-    "time": "04/30/2019 - 2:59 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.23215,
-    "longitude": -91.98358
-  },
-  {
     "address": "603 AVENUE B",
     "city": "YOUNGSVILLE",
     "time": "04/30/2019 - 2:49 PM",
@@ -78,14 +70,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.23042,
     "longitude": -92.01339
-  },
-  {
-    "address": "JOHNSTON ST & FRIER LN",
-    "city": "LAFAYETTE",
-    "time": "04/30/2019 - 2:37 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.19435,
-    "longitude": -92.05813
   },
   {
     "address": "1501 AMBASSADOR CAFFERY PW",
