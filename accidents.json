@@ -1,5 +1,13 @@
 [
   {
+    "address": "2444 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "04/30/2019 - 6:49 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21306,
+    "longitude": -92.05018
+  },
+  {
     "address": "1701 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "04/30/2019 - 6:25 PM",
