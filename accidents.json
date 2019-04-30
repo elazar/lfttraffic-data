@@ -1,11 +1,11 @@
 [
   {
-    "address": "NW EVANGELINE TW & JEFFERSON BL",
+    "address": "100 SW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "04/30/2019 - 2:46 PM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.22867,
-    "longitude": -92.01254
+    "latitude": 30.2284549,
+    "longitude": -92.0125945
   },
   {
     "address": "NE EVANGELINE TW & E SECOND ST",
@@ -14,14 +14,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.23052,
     "longitude": -92.01296
-  },
-  {
-    "address": "1700 CHEMIN METAIRIE PW",
-    "city": "YOUNGSVILLE",
-    "time": "04/30/2019 - 2:44 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.1066618,
-    "longitude": -92.0158249
   },
   {
     "address": "FATIMA",
