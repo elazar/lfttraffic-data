@@ -1,5 +1,21 @@
 [
   {
+    "address": "NE EVANGELINE TW & E SECOND ST",
+    "city": "LAFAYETTE",
+    "time": "04/30/2019 - 2:45 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.23052,
+    "longitude": -92.01296
+  },
+  {
+    "address": "1700 CHEMIN METAIRIE PW",
+    "city": "YOUNGSVILLE",
+    "time": "04/30/2019 - 2:44 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1066618,
+    "longitude": -92.0158249
+  },
+  {
     "address": "FATIMA",
     "city": "Lafayette",
     "time": "04/30/2019 - 2:44 PM",
@@ -30,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22057,
     "longitude": -92.07516
-  },
-  {
-    "address": "312 ALMONASTER RD",
-    "city": "YOUNGSVILLE",
-    "time": "04/30/2019 - 2:28 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.0875,
-    "longitude": -91.96849
   },
   {
     "address": "910 ALFRED ST",
