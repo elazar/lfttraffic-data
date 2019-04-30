@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & W PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "04/30/2019 - 11:17 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.27587,
+    "longitude": -92.04949
+  },
+  {
     "address": "1200 S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "04/30/2019 - 11:13 AM",
