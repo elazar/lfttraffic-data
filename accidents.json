@@ -1,5 +1,21 @@
 [
   {
+    "address": "9103 CAMERON ST",
+    "city": "DUSON",
+    "time": "04/30/2019 - 3:30 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.23486,
+    "longitude": -92.18484
+  },
+  {
+    "address": "JOHNSTON ST & DOUCET RD",
+    "city": "LAFAYETTE",
+    "time": "04/30/2019 - 3:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20341,
+    "longitude": -92.04888
+  },
+  {
     "address": "HECTOR CONNOLY RD & NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "04/30/2019 - 3:27 PM",
