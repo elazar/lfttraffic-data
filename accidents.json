@@ -1,5 +1,13 @@
 [
   {
+    "address": "1800 DENAIS RD",
+    "city": "LAFAYETTE",
+    "time": "04/29/2019 - 11:59 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13072,
+    "longitude": -92.13532
+  },
+  {
     "address": "1011 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "04/29/2019 - 11:16 PM",
