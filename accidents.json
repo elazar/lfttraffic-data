@@ -14,13 +14,5 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.18888,
     "longitude": -92.06358
-  },
-  {
-    "address": "W WILLOW ST & CORA ST",
-    "city": "LAFAYETTE",
-    "time": "04/30/2019 - 1:49 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.24574,
-    "longitude": -92.02712
   }
 ]
