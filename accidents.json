@@ -1,5 +1,13 @@
 [
   {
+    "address": "1200 S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "04/30/2019 - 11:13 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.19859,
+    "longitude": -92.02572
+  },
+  {
     "address": "3546 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/30/2019 - 11:09 AM",
