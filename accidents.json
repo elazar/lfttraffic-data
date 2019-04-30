@@ -1,5 +1,13 @@
 [
   {
+    "address": "1308 BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "04/30/2019 - 10:28 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2219,
+    "longitude": -92.05016
+  },
+  {
     "address": "2390 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "04/30/2019 - 10:25 AM",
