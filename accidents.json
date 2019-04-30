@@ -1,5 +1,13 @@
 [
   {
+    "address": "LOUISIANA AV & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "04/30/2019 - 12:53 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.27944,
+    "longitude": -91.99217
+  },
+  {
     "address": "1000 ST MARY ST",
     "city": "SCOTT",
     "time": "04/30/2019 - 12:48 PM",
