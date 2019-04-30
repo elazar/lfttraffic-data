@@ -1,11 +1,11 @@
 [
   {
-    "address": "2331 MOSS ST",
+    "address": "1215 MOSS ST",
     "city": "LAFAYETTE",
     "time": "04/30/2019 - 4:46 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.25391,
-    "longitude": -92.00553
+    "latitude": 30.24215,
+    "longitude": -92.00705
   },
   {
     "address": "MARTIN LUTHER KING JR DR & NW FRONTAGE RD",
@@ -30,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.144805,
     "longitude": -92.0324151
-  },
-  {
-    "address": "92 I10 EASTBOUND MM92 HW",
-    "city": "Lafayette",
-    "time": "04/30/2019 - 4:06 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": null,
-    "longitude": null
   },
   {
     "address": "VEROT SCHOOL RD & MATHEWS BL",
