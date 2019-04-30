@@ -1,11 +1,11 @@
 [
   {
-    "address": "LOUISIANA AV & SW EVANGELINE TW",
+    "address": "200 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "04/30/2019 - 3:14 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.22457,
-    "longitude": -92.01033
+    "latitude": 30.22479,
+    "longitude": -92.00905
   },
   {
     "address": "1522 CARMEL DR",
@@ -62,14 +62,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22057,
     "longitude": -92.07516
-  },
-  {
-    "address": "910 ALFRED ST",
-    "city": "SCOTT",
-    "time": "04/30/2019 - 2:23 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23436,
-    "longitude": -92.09415
   },
   {
     "address": "MOSS ST & E WILLOW ST",
