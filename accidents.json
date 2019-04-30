@@ -1,5 +1,13 @@
 [
   {
+    "address": "33 BNSF RAILROAD CG",
+    "city": "LAFAYETTE",
+    "time": "04/30/2019 - 1:16 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 40.50211,
+    "longitude": -86.95026
+  },
+  {
     "address": "1500 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "04/30/2019 - 1:14 PM",
