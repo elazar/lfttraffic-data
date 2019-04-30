@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2723049,
     "longitude": -92.0574951
-  },
-  {
-    "address": "FIRST ST & CHURCH ST",
-    "city": "YOUNGSVILLE",
-    "time": "04/30/2019 - 09:30 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.09824,
-    "longitude": -91.99169
   }
 ]
