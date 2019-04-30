@@ -1,19 +1,19 @@
 [
   {
+    "address": "1500 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/30/2019 - 1:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21457,
+    "longitude": -92.02214
+  },
+  {
     "address": "620 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "04/30/2019 - 1:07 PM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.2077,
     "longitude": -92.01208
-  },
-  {
-    "address": "1000 ST MARY ST",
-    "city": "SCOTT",
-    "time": "04/30/2019 - 12:48 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23537,
-    "longitude": -92.09448
   },
   {
     "address": "3500 AMBASSADOR CAFFERY PW",
