@@ -1,5 +1,13 @@
 [
   {
+    "address": "1301 W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "05/01/2019 - 10:03 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2246,
+    "longitude": -92.028
+  },
+  {
     "address": "ARDOIN MEMORIAL DR & STIRLING CENTER DR",
     "city": "LAFAYETTE",
     "time": "05/01/2019 - 09:51 AM",
