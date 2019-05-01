@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18738,
     "longitude": -92.01261
-  },
-  {
-    "address": "305 MONTREAL DR",
-    "city": "LAFAYETTE",
-    "time": "05/01/2019 - 11:16 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.28184,
-    "longitude": -92.01221
   }
 ]
