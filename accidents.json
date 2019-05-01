@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & BONIN RD",
+    "city": "YOUNGSVILLE",
+    "time": "05/01/2019 - 5:18 PM",
+    "due_to": "Vehicle Fire",
+    "latitude": 30.13528,
+    "longitude": -92.00763
+  },
+  {
     "address": "BERTRAND DR & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "05/01/2019 - 5:13 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.2040156,
     "longitude": -92.015743
-  },
-  {
-    "address": "7 I49 NORTHBOUND MM7 HW",
-    "city": "LAFAYETTE",
-    "time": "05/01/2019 - 4:37 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.28006,
-    "longitude": -92.02024
   },
   {
     "address": "1700 KALISTE SALOOM RD",
