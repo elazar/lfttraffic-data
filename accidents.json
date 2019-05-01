@@ -1,5 +1,13 @@
 [
   {
+    "address": "305 MONTREAL DR",
+    "city": "LAFAYETTE",
+    "time": "05/01/2019 - 11:16 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.28184,
+    "longitude": -92.01221
+  },
+  {
     "address": "1815 ST MARY ST",
     "city": "SCOTT",
     "time": "05/01/2019 - 10:51 AM",
