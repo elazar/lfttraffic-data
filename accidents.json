@@ -1,18 +1,26 @@
 [
   {
+    "address": "SW EVANGELINE TW & VERMILION RIVER",
+    "city": "LAFAYETTE",
+    "time": "05/01/2019 - 09:50 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.22012,
+    "longitude": -92.00793
+  },
+  {
+    "address": "KALISTE SALOOM RD & FEU FOLLET RD",
+    "city": "LAFAYETTE",
+    "time": "05/01/2019 - 09:50 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18289,
+    "longitude": -92.01725
+  },
+  {
     "address": "ERASTE LANDRY RD & TRAHAN ST",
     "city": "LAFAYETTE",
     "time": "05/01/2019 - 09:37 AM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.23065,
     "longitude": -92.04149
-  },
-  {
-    "address": "1100 S FIELDSPAN RD",
-    "city": "LAFAYETTE",
-    "time": "05/01/2019 - 09:25 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2241,
-    "longitude": -92.14263
   }
 ]
