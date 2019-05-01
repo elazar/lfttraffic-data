@@ -1,5 +1,13 @@
 [
   {
+    "address": "DULLES DR & LUKE ST",
+    "city": "LAFAYETTE",
+    "time": "05/01/2019 - 12:23 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21822,
+    "longitude": -92.05791
+  },
+  {
     "address": "3126 MILLS ST",
     "city": "LAFAYETTE",
     "time": "05/01/2019 - 12:10 PM",
