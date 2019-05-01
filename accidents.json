@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20852,
     "longitude": -92.04029
-  },
-  {
-    "address": "DULLES DR & LUKE ST",
-    "city": "LAFAYETTE",
-    "time": "05/01/2019 - 12:23 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.21822,
-    "longitude": -92.05791
   }
 ]
