@@ -1,5 +1,13 @@
 [
   {
+    "address": "107 GRANITE CREEK BD",
+    "city": "LAFAYETTE",
+    "time": "05/01/2019 - 2:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13404,
+    "longitude": -92.04471
+  },
+  {
     "address": "603 MARTEAU RD",
     "city": "BROUSSARD",
     "time": "05/01/2019 - 1:50 PM",
