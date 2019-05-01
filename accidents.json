@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "WEBB ST & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "04/30/2019 - 10:53 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23857,
+    "longitude": -92.00143
+  }
+]
