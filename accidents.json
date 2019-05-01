@@ -1,5 +1,13 @@
 [
   {
+    "address": "143 AMBROISE ST",
+    "city": "LAFAYETTE",
+    "time": "05/01/2019 - 1:38 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2413,
+    "longitude": -92.01572
+  },
+  {
     "address": "1300 SW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "05/01/2019 - 1:22 PM",
