@@ -1,5 +1,13 @@
 [
   {
+    "address": "3500 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "05/01/2019 - 12:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1774019,
+    "longitude": -92.0739576
+  },
+  {
     "address": "DULLES DR & LUKE ST",
     "city": "LAFAYETTE",
     "time": "05/01/2019 - 12:23 PM",
