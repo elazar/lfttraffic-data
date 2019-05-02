@@ -1,5 +1,13 @@
 [
   {
+    "address": "400 N PIERCE ST",
+    "city": "LAFAYETTE",
+    "time": "05/01/2019 - 9:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23623,
+    "longitude": -92.01954
+  },
+  {
     "address": "615 W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "05/01/2019 - 8:59 PM",
