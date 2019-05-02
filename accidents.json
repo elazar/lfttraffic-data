@@ -1,5 +1,13 @@
 [
   {
+    "address": "103 SENIOR ST",
+    "city": "LAFAYETTE",
+    "time": "05/02/2019 - 5:29 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20934,
+    "longitude": -92.05783
+  },
+  {
     "address": "626 VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "05/02/2019 - 5:23 PM",
