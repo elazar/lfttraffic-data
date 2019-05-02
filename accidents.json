@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "208 BRAQUET RD",
+    "city": "LAFAYETTE",
+    "time": "05/02/2019 - 06:40 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.33872,
+    "longitude": -92.05772
+  }
+]
