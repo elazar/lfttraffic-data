@@ -1,19 +1,19 @@
 [
   {
+    "address": "4017 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "05/02/2019 - 1:51 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19752,
+    "longitude": -92.0557
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & LA NEUVILLE RD",
     "city": "LAFAYETTE",
     "time": "05/02/2019 - 1:50 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.14065,
     "longitude": -92.02448
-  },
-  {
-    "address": "925 VETERANS DR",
-    "city": "CARENCRO",
-    "time": "05/02/2019 - 1:46 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.32249,
-    "longitude": -92.03625
   },
   {
     "address": "MOSS ST & MATTHIEU ST",
