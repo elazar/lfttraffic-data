@@ -3,7 +3,7 @@
     "address": "100 HEBERT RD",
     "city": "LAFAYETTE",
     "time": "05/01/2019 - 7:14 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.2357101,
     "longitude": -92.0495551
   },
@@ -28,14 +28,6 @@
     "city": "SCOTT",
     "time": "05/01/2019 - 6:35 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.24727,
-    "longitude": -92.09751
-  },
-  {
-    "address": "98 I10 EASTBOUND MM98 HW",
-    "city": "SCOTT",
-    "time": "05/01/2019 - 6:33 PM",
-    "due_to": "Stalled Vehicle",
     "latitude": 30.24727,
     "longitude": -92.09751
   },
