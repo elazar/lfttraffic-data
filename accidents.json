@@ -1,19 +1,19 @@
 [
   {
+    "address": "MOSS ST & MATTHIEU ST",
+    "city": "LAFAYETTE",
+    "time": "05/02/2019 - 1:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27897,
+    "longitude": -92.00778
+  },
+  {
     "address": "JOHNSTON ST & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/02/2019 - 1:42 PM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.17808,
     "longitude": -92.07452
-  },
-  {
-    "address": "MOSS ST & MATTHIEU ST",
-    "city": "LAFAYETTE",
-    "time": "05/02/2019 - 1:42 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.27897,
-    "longitude": -92.00778
   },
   {
     "address": "603 AVENUE B",
