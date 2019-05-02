@@ -24,12 +24,12 @@
     "longitude": -92.03416
   },
   {
-    "address": "315 JOHNSTON ST",
+    "address": "251 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "05/02/2019 - 6:01 PM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.22379,
-    "longitude": -92.01454
+    "latitude": 30.2245213,
+    "longitude": -92.0139721
   },
   {
     "address": "AMBASSADOR CAFFERY PW & WILBOURN BL",
@@ -54,13 +54,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20934,
     "longitude": -92.05783
-  },
-  {
-    "address": "LOUISIANA AV & HAIG ST",
-    "city": "LAFAYETTE",
-    "time": "05/02/2019 - 5:22 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23358,
-    "longitude": -92.00241
   }
 ]
