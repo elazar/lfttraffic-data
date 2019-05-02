@@ -1,5 +1,13 @@
 [
   {
+    "address": "626 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "05/02/2019 - 5:23 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17397,
+    "longitude": -92.01441
+  },
+  {
     "address": "LOUISIANA AV & HAIG ST",
     "city": "LAFAYETTE",
     "time": "05/02/2019 - 5:22 PM",
@@ -38,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22488,
     "longitude": -92.00947
-  },
-  {
-    "address": "NE EVANGELINE TW & E WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "05/02/2019 - 4:14 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24447,
-    "longitude": -92.01187
   },
   {
     "address": "N UNIVERSITY AV & W PONT DES MOUTON RD",
