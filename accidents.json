@@ -1,5 +1,13 @@
 [
   {
+    "address": "HAIG ST & TWELFTH ST",
+    "city": "LAFAYETTE",
+    "time": "05/02/2019 - 10:27 AM",
+    "due_to": "Trash Fire",
+    "latitude": 30.23318,
+    "longitude": -91.99915
+  },
+  {
     "address": "APOLLO RD & SPECIALTY LN",
     "city": "SCOTT",
     "time": "05/02/2019 - 10:25 AM",
