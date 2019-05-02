@@ -1,5 +1,13 @@
 [
   {
+    "address": "S COLLEGE RD & BENDEL RD",
+    "city": "LAFAYETTE",
+    "time": "05/02/2019 - 3:07 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20144,
+    "longitude": -92.01936
+  },
+  {
     "address": "1522 CARMEL DR",
     "city": "LAFAYETTE",
     "time": "05/02/2019 - 2:47 PM",
