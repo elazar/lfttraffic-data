@@ -1,5 +1,13 @@
 [
   {
+    "address": "LOUVETEAU RD & BRAQUET RD",
+    "city": "LAFAYETTE",
+    "time": "05/02/2019 - 1:47 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.34299,
+    "longitude": -92.05807
+  },
+  {
     "address": "925 VETERANS DR",
     "city": "CARENCRO",
     "time": "05/02/2019 - 1:46 PM",
