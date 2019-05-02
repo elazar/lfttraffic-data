@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "APOLLO RD & SPECIALTY LN",
+    "city": "SCOTT",
+    "time": "05/02/2019 - 10:25 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2376,
+    "longitude": -92.10743
+  }
+]
