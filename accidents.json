@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & WILBOURN BL",
+    "city": "LAFAYETTE",
+    "time": "05/02/2019 - 5:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20832,
+    "longitude": -92.07549
+  },
+  {
     "address": "400 CHOPIN ST",
     "city": "LAFAYETTE",
     "time": "05/02/2019 - 5:49 PM",
@@ -22,14 +30,6 @@
     "due_to": "Hazardous Material",
     "latitude": 30.23501,
     "longitude": -92.0125
-  },
-  {
-    "address": "312 APOLLO RD",
-    "city": "SCOTT",
-    "time": "05/02/2019 - 5:32 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.240002,
-    "longitude": -92.1072951
   },
   {
     "address": "103 SENIOR ST",
