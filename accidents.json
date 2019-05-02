@@ -1,5 +1,13 @@
 [
   {
+    "address": "CHOPIN ST & NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "05/02/2019 - 5:38 PM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.23501,
+    "longitude": -92.0125
+  },
+  {
     "address": "312 APOLLO RD",
     "city": "SCOTT",
     "time": "05/02/2019 - 5:32 PM",
