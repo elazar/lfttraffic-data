@@ -1,5 +1,13 @@
 [
   {
+    "address": "LEGGETT DR & E EDITH RD",
+    "city": "LAFAYETTE",
+    "time": "05/02/2019 - 2:41 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.10866,
+    "longitude": -92.07156
+  },
+  {
     "address": "ST NAZAIRE RD & LA 96 HW",
     "city": "BROUSSARD",
     "time": "05/02/2019 - 1:57 PM",
