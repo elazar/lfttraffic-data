@@ -1,5 +1,13 @@
 [
   {
+    "address": "1400 E MILTON AV",
+    "city": "LAFAYETTE",
+    "time": "05/02/2019 - 08:21 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.10864,
+    "longitude": -92.04715
+  },
+  {
     "address": "W PINHOOK RD & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "05/02/2019 - 08:12 AM",
