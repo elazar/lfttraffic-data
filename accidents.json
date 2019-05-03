@@ -1,5 +1,13 @@
 [
   {
+    "address": "201 MACON RD",
+    "city": "LAFAYETTE",
+    "time": "05/03/2019 - 4:12 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23062,
+    "longitude": -92.05005
+  },
+  {
     "address": "TEURLINGS DR & CARMEL DR",
     "city": "LAFAYETTE",
     "time": "05/03/2019 - 4:00 PM",
