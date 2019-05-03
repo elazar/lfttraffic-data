@@ -1,5 +1,13 @@
 [
   {
+    "address": "E ST MARY BL & HARDING ST",
+    "city": "LAFAYETTE",
+    "time": "05/03/2019 - 12:23 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20893,
+    "longitude": -92.0144
+  },
+  {
     "address": "NE EVANGELINE TW & GREIG ST",
     "city": "LAFAYETTE",
     "time": "05/03/2019 - 12:21 PM",
