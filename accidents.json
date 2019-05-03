@@ -1,5 +1,21 @@
 [
   {
+    "address": "ERASTE LANDRY RD & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "05/03/2019 - 12:50 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21912,
+    "longitude": -92.07587
+  },
+  {
+    "address": "MOSS ST & CASTILLE AV",
+    "city": "LAFAYETTE",
+    "time": "05/03/2019 - 12:50 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24822,
+    "longitude": -92.00593
+  },
+  {
     "address": "454 HEYMANN BL",
     "city": "LAFAYETTE",
     "time": "05/03/2019 - 12:48 PM",
@@ -54,14 +70,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18845,
     "longitude": -92.07506
-  },
-  {
-    "address": "4003 N UNIVERSITY AV",
-    "city": "CARENCRO",
-    "time": "05/03/2019 - 12:10 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.3096534,
-    "longitude": -92.0495949
   },
   {
     "address": "100 AMBASSADOR CAFFERY PW",
