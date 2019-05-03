@@ -1,5 +1,13 @@
 [
   {
+    "address": "1214 COOLIDGE ST",
+    "city": "LAFAYETTE",
+    "time": "05/03/2019 - 3:16 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2025101,
+    "longitude": -92.0186946
+  },
+  {
     "address": "97 I10 EASTBOUND MM97 HW",
     "city": "LAFAYETTE",
     "time": "05/03/2019 - 3:15 PM",
