@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 CHURCH ST",
+    "city": "YOUNGSVILLE",
+    "time": "05/03/2019 - 3:43 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.09923,
+    "longitude": -91.99578
+  },
+  {
     "address": "GUILBEAU RD & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/03/2019 - 3:42 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.14488,
     "longitude": -91.99167
-  },
-  {
-    "address": "96 I10 EASTBOUND MM96 HW",
-    "city": "LAFAYETTE",
-    "time": "05/03/2019 - 3:15 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": null,
-    "longitude": null
   },
   {
     "address": "3816 AMBASSADOR CAFFERY PW",
