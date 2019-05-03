@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & SETTLERS TRACE BL",
+    "city": "LAFAYETTE",
+    "time": "05/03/2019 - 1:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15969,
+    "longitude": -92.05229
+  },
+  {
     "address": "LOUISIANA AV & ATLANTA DR",
     "city": "LAFAYETTE",
     "time": "05/03/2019 - 1:00 PM",
@@ -38,22 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22749,
     "longitude": -92.00191
-  },
-  {
-    "address": "N BERTRAND DR & ERASTE LANDRY RD",
-    "city": "LAFAYETTE",
-    "time": "05/03/2019 - 12:33 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22469,
-    "longitude": -92.05245
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & ERASTE LANDRY RD",
-    "city": "LAFAYETTE",
-    "time": "05/03/2019 - 12:27 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21912,
-    "longitude": -92.07587
   },
   {
     "address": "1941 MOSS ST",
