@@ -1,5 +1,13 @@
 [
   {
+    "address": "5825 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "05/03/2019 - 07:57 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1707149,
+    "longitude": -92.0811067
+  },
+  {
     "address": "600 CHURCH ST",
     "city": "YOUNGSVILLE",
     "time": "05/03/2019 - 07:15 AM",
