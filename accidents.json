@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & VETERANS DR",
+    "city": "CARENCRO",
+    "time": "05/03/2019 - 11:45 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.32335,
+    "longitude": -92.04954
+  },
+  {
     "address": "W PONT DES MOUTON RD & NW FRONTAGE RD",
     "city": "LAFAYETTE",
     "time": "05/03/2019 - 11:26 AM",
