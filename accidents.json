@@ -1,5 +1,13 @@
 [
   {
+    "address": "3555 N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "05/03/2019 - 11:58 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29754,
+    "longitude": -92.04984
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "05/03/2019 - 11:51 AM",
