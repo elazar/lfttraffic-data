@@ -1,5 +1,13 @@
 [
   {
+    "address": "111 TUCKER DR",
+    "city": "LAFAYETTE",
+    "time": "05/03/2019 - 1:25 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1745589,
+    "longitude": -92.071057
+  },
+  {
     "address": "W CONGRESS ST & FOREMAN DR",
     "city": "LAFAYETTE",
     "time": "05/03/2019 - 1:23 PM",
