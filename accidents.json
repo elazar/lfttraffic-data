@@ -1,5 +1,13 @@
 [
   {
+    "address": "LOUISIANA AV & ATLANTA DR",
+    "city": "LAFAYETTE",
+    "time": "05/03/2019 - 1:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24097,
+    "longitude": -92.00097
+  },
+  {
     "address": "ERASTE LANDRY RD & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/03/2019 - 12:50 PM",
@@ -46,14 +54,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21912,
     "longitude": -92.07587
-  },
-  {
-    "address": "NE EVANGELINE TW & GREIG ST",
-    "city": "LAFAYETTE",
-    "time": "05/03/2019 - 12:21 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23199,
-    "longitude": -92.01294
   },
   {
     "address": "100 W BLUEBIRD DR",
