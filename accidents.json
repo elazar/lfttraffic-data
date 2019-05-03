@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.31735,
     "longitude": -92.02449
-  },
-  {
-    "address": "E MAIN ST & E SECOND ST",
-    "city": "BROUSSARD",
-    "time": "05/03/2019 - 03:05 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.14495,
-    "longitude": -91.95486
   }
 ]
