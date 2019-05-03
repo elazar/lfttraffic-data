@@ -1,11 +1,19 @@
 [
   {
-    "address": "DECON RD & CHEMIN AGREABLE",
+    "address": "LA DELTA RAILROAD CG & N BUCHANAN ST",
+    "city": "LAFAYETTE",
+    "time": "05/03/2019 - 5:08 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23608,
+    "longitude": -92.01648
+  },
+  {
+    "address": "4700 DECON RD",
     "city": "LAFAYETTE",
     "time": "05/03/2019 - 4:52 PM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.06564,
-    "longitude": -92.02385
+    "latitude": 30.0774972,
+    "longitude": -92.0240192
   },
   {
     "address": "AMBASSADOR CAFFERY PW & KALISTE SALOOM RD",
@@ -30,5 +38,13 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19632,
     "longitude": -92.057
+  },
+  {
+    "address": "217 VERDUN ST",
+    "city": "LAFAYETTE",
+    "time": "05/03/2019 - 3:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23152,
+    "longitude": -92.00193
   }
 ]
