@@ -56,28 +56,12 @@
     "longitude": -92.07587
   },
   {
-    "address": "E ST MARY BL & HARDING ST",
-    "city": "LAFAYETTE",
-    "time": "05/03/2019 - 12:23 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20893,
-    "longitude": -92.0144
-  },
-  {
     "address": "NE EVANGELINE TW & GREIG ST",
     "city": "LAFAYETTE",
     "time": "05/03/2019 - 12:21 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.23199,
     "longitude": -92.01294
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & CURRAN LN",
-    "city": "LAFAYETTE",
-    "time": "05/03/2019 - 12:17 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18845,
-    "longitude": -92.07506
   },
   {
     "address": "100 W BLUEBIRD DR",
