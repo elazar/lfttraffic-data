@@ -1,5 +1,13 @@
 [
   {
+    "address": "107 CHESTER ST",
+    "city": "LAFAYETTE",
+    "time": "05/03/2019 - 06:59 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24671,
+    "longitude": -92.00514
+  },
+  {
     "address": "603 AVENUE B",
     "city": "YOUNGSVILLE",
     "time": "05/03/2019 - 06:50 AM",
