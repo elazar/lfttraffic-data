@@ -1,5 +1,21 @@
 [
   {
+    "address": "LA NEUVILLE RD & YOUNGSVILLE HW",
+    "city": "BROUSSARD",
+    "time": "05/03/2019 - 3:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14488,
+    "longitude": -91.99167
+  },
+  {
+    "address": "217 VERDUN ST",
+    "city": "LAFAYETTE",
+    "time": "05/03/2019 - 3:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23152,
+    "longitude": -92.00193
+  },
+  {
     "address": "96 I10 EASTBOUND MM96 HW",
     "city": "LAFAYETTE",
     "time": "05/03/2019 - 3:15 PM",
