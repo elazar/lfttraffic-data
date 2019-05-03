@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & MARJORIE BL",
+    "city": "LAFAYETTE",
+    "time": "05/03/2019 - 5:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19772,
+    "longitude": -92.01648
+  },
+  {
     "address": "LA DELTA RAILROAD CG & N BUCHANAN ST",
     "city": "LAFAYETTE",
     "time": "05/03/2019 - 5:08 PM",
