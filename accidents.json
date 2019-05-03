@@ -1,5 +1,13 @@
 [
   {
+    "address": "VEROT SCHOOL RD & RUE LOUIS XIV",
+    "city": "LAFAYETTE",
+    "time": "05/03/2019 - 06:26 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.16538,
+    "longitude": -92.02055
+  },
+  {
     "address": "3726 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/03/2019 - 06:24 AM",
