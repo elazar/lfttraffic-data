@@ -16,28 +16,12 @@
     "longitude": -92.00239
   },
   {
-    "address": "3555 N UNIVERSITY AV",
-    "city": "CARENCRO",
-    "time": "05/03/2019 - 11:58 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.29754,
-    "longitude": -92.04984
-  },
-  {
     "address": "AMBASSADOR CAFFERY PW & W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "05/03/2019 - 11:51 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.24324,
     "longitude": -92.06626
-  },
-  {
-    "address": "W PONT DES MOUTON RD & NW FRONTAGE RD",
-    "city": "LAFAYETTE",
-    "time": "05/03/2019 - 11:26 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.27349,
-    "longitude": -92.02058
   },
   {
     "address": "100 W BLUEBIRD DR",
