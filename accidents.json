@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24324,
     "longitude": -92.06626
-  },
-  {
-    "address": "GOLDEN GRAIN RD & BURBANK RD",
-    "city": "LAFAYETTE",
-    "time": "05/04/2019 - 08:29 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.16169,
-    "longitude": -92.239
   }
 ]
