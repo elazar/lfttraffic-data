@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "05/03/2019 - 9:52 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.2306741,
+    "longitude": -92.0104145
+  },
+  {
     "address": "4000 S RICHFIELD RD",
     "city": "LAFAYETTE",
     "time": "05/03/2019 - 9:11 PM",
