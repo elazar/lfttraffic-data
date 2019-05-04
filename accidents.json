@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 GARFIELD ST",
+    "city": "LAFAYETTE",
+    "time": "05/04/2019 - 02:12 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22555,
+    "longitude": -92.01673
+  },
+  {
     "address": "200 LAJAUNIE RD",
     "city": "LAFAYETTE",
     "time": "05/04/2019 - 12:26 AM",
