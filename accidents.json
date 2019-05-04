@@ -1,5 +1,13 @@
 [
   {
+    "address": "106 KILCHRIST RD",
+    "city": "LAFAYETTE",
+    "time": "05/04/2019 - 10:54 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.3517973,
+    "longitude": -92.0824358
+  },
+  {
     "address": "351 HEBERT RD",
     "city": "LAFAYETTE",
     "time": "05/04/2019 - 09:55 AM",
