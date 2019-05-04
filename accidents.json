@@ -1,5 +1,13 @@
 [
   {
+    "address": "ERASTE LANDRY RD & CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "05/04/2019 - 12:25 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23242,
+    "longitude": -92.03921
+  },
+  {
     "address": "1401 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "05/04/2019 - 11:45 AM",
