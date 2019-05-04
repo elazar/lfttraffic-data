@@ -1,5 +1,13 @@
 [
   {
+    "address": "BLUE ROSE LN & CRESTLAWN DR",
+    "city": "LAFAYETTE",
+    "time": "05/04/2019 - 07:28 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.15703,
+    "longitude": -92.0785
+  },
+  {
     "address": "4700 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "05/04/2019 - 07:22 AM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Fire",
     "latitude": 30.2849202,
     "longitude": -91.9716453
-  },
-  {
-    "address": "4151 VEROT SCHOOL RD",
-    "city": "LAFAYETTE",
-    "time": "05/04/2019 - 06:29 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.09979,
-    "longitude": -92.0323051
   }
 ]
