@@ -1,5 +1,13 @@
 [
   {
+    "address": "114 EDNA ST",
+    "city": "LAFAYETTE",
+    "time": "05/04/2019 - 02:22 AM",
+    "due_to": "Hazardous Situation",
+    "latitude": 30.23485,
+    "longitude": -91.99384
+  },
+  {
     "address": "NW EVANGELINE TW & I10 HW",
     "city": "LAFAYETTE",
     "time": "05/04/2019 - 02:20 AM",
