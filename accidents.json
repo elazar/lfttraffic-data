@@ -1,11 +1,11 @@
 [
   {
-    "address": "132 DES JACQUES RD (SE)",
-    "city": "SCOTT",
+    "address": "204 DUBLIN CL",
+    "city": "LAFAYETTE",
     "time": "05/04/2019 - 1:51 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.22176,
-    "longitude": -92.08434
+    "due_to": "Fire Investigation",
+    "latitude": 30.21197,
+    "longitude": -92.0739
   },
   {
     "address": "AMBASSADOR CAFFERY PW & JOHNSTON ST",
@@ -22,13 +22,5 @@
     "due_to": "Residential Fire",
     "latitude": 30.20283,
     "longitude": -92.01193
-  },
-  {
-    "address": "ERASTE LANDRY RD & CAMERON ST",
-    "city": "LAFAYETTE",
-    "time": "05/04/2019 - 12:25 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.23242,
-    "longitude": -92.03921
   }
 ]
