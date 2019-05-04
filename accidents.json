@@ -8,14 +8,6 @@
     "longitude": -92.06626
   },
   {
-    "address": "2801 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "05/04/2019 - 09:02 AM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.20624,
-    "longitude": -92.03877
-  },
-  {
     "address": "1206 ALBERTSON PW",
     "city": "BROUSSARD",
     "time": "05/04/2019 - 08:39 AM",
@@ -30,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16169,
     "longitude": -92.239
-  },
-  {
-    "address": "705 BONIN RD",
-    "city": "LAFAYETTE",
-    "time": "05/04/2019 - 08:16 AM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.15287,
-    "longitude": -92.00329
   }
 ]
