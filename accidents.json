@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & ST NAZAIRE RD",
+    "city": "BROUSSARD",
+    "time": "05/04/2019 - 12:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1406051,
+    "longitude": -91.9448999
+  },
+  {
     "address": "ERASTE LANDRY RD & CAMERON ST",
     "city": "LAFAYETTE",
     "time": "05/04/2019 - 12:25 PM",
