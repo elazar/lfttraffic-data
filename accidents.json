@@ -1,5 +1,13 @@
 [
   {
+    "address": "214 BAYOU DES GLAISES RD",
+    "city": "BROUSSARD",
+    "time": "05/04/2019 - 2:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.11572,
+    "longitude": -91.96565
+  },
+  {
     "address": "211 E GLORIA SWITCH RD",
     "city": "CARENCRO",
     "time": "05/04/2019 - 2:08 PM",
