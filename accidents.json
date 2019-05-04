@@ -6,13 +6,5 @@
     "due_to": "Vehicle Fire",
     "latitude": 30.21988,
     "longitude": -92.06392
-  },
-  {
-    "address": "199 MIRE HW",
-    "city": "DUSON",
-    "time": "05/04/2019 - 04:21 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": null,
-    "longitude": null
   }
 ]
