@@ -1,5 +1,21 @@
 [
   {
+    "address": "100 I10 WESTBOUND MM100 HW",
+    "city": "LAFAYETTE",
+    "time": "05/03/2019 - 10:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
+    "address": "W CONGRESS ST & W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "05/03/2019 - 10:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2261,
+    "longitude": -92.02828
+  },
+  {
     "address": "W PONT DES MOUTON RD & NW FRONTAGE RD",
     "city": "LAFAYETTE",
     "time": "05/03/2019 - 10:22 PM",
