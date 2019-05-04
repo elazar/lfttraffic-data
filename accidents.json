@@ -1,5 +1,13 @@
 [
   {
+    "address": "2801 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "05/04/2019 - 08:00 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.20624,
+    "longitude": -92.03877
+  },
+  {
     "address": "BLUE ROSE LN & CRESTLAWN DR",
     "city": "LAFAYETTE",
     "time": "05/04/2019 - 07:28 AM",
