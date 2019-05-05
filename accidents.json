@@ -1,5 +1,13 @@
 [
   {
+    "address": "CARMEL DR & LONGBRIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "05/05/2019 - 12:55 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.23992,
+    "longitude": -91.96491
+  },
+  {
     "address": "521 W MAIN ST",
     "city": "BROUSSARD",
     "time": "05/05/2019 - 12:34 AM",
