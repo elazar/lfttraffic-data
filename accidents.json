@@ -1,5 +1,13 @@
 [
   {
+    "address": "629 GOLDEN GRAIN RD",
+    "city": "LAFAYETTE",
+    "time": "05/05/2019 - 4:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15906,
+    "longitude": -92.15807
+  },
+  {
     "address": "224 COLORADO RD",
     "city": "LAFAYETTE",
     "time": "05/05/2019 - 3:42 PM",
