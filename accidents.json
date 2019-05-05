@@ -1,5 +1,13 @@
 [
   {
+    "address": "28 BNSF RAILROAD CG",
+    "city": "LAFAYETTE",
+    "time": "05/05/2019 - 6:07 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 40.50211,
+    "longitude": -86.95026
+  },
+  {
     "address": "SE EVANGELINE TW & TWELFTH ST",
     "city": "LAFAYETTE",
     "time": "05/05/2019 - 6:06 PM",
