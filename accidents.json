@@ -1,5 +1,13 @@
 [
   {
+    "address": "1500 CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "05/05/2019 - 09:08 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16425,
+    "longitude": -92.03408
+  },
+  {
     "address": "ALBERTSON PW & US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "05/05/2019 - 08:29 AM",
