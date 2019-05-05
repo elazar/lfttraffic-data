@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 SW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "05/04/2019 - 9:35 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.2276174,
+    "longitude": -92.0121366
+  },
+  {
     "address": "300 SURREY ST",
     "city": "LAFAYETTE",
     "time": "05/04/2019 - 9:29 PM",
