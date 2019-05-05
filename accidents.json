@@ -1,5 +1,13 @@
 [
   {
+    "address": "301 MALAPART RD",
+    "city": "LAFAYETTE",
+    "time": "05/05/2019 - 10:57 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29006,
+    "longitude": -92.05641
+  },
+  {
     "address": "5801 CAMERON ST",
     "city": "SCOTT",
     "time": "05/05/2019 - 10:52 AM",
