@@ -1,5 +1,13 @@
 [
   {
+    "address": "224 COLORADO RD",
+    "city": "LAFAYETTE",
+    "time": "05/05/2019 - 3:42 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18536,
+    "longitude": -92.1167
+  },
+  {
     "address": "2751 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "05/05/2019 - 3:35 PM",
