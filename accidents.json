@@ -1,5 +1,13 @@
 [
   {
+    "address": "111 EDIE ANN DR",
+    "city": "LAFAYETTE",
+    "time": "05/06/2019 - 05:41 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.15863,
+    "longitude": -92.00149
+  },
+  {
     "address": "CARMEL DR & ST MARGARITE ST",
     "city": "LAFAYETTE",
     "time": "05/05/2019 - 11:13 PM",
