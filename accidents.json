@@ -1,5 +1,13 @@
 [
   {
+    "address": "314 FABIOLA AV",
+    "city": "LAFAYETTE",
+    "time": "05/06/2019 - 5:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16865,
+    "longitude": -92.01277
+  },
+  {
     "address": "ST JULIEN AV & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "05/06/2019 - 4:58 PM",
