@@ -1,5 +1,13 @@
 [
   {
+    "address": "NW EVANGELINE TW & HOBSON ST",
+    "city": "LAFAYETTE",
+    "time": "05/06/2019 - 07:10 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23394,
+    "longitude": -92.01394
+  },
+  {
     "address": "300 AVENUE B",
     "city": "YOUNGSVILLE",
     "time": "05/06/2019 - 07:02 AM",
