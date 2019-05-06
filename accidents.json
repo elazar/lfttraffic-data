@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "address": "3520 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "05/06/2019 - 12:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17657,
+    "longitude": -92.07386
+  },
+  {
+    "address": "1610 ST MARY ST",
+    "city": "SCOTT",
+    "time": "05/06/2019 - 12:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2426,
+    "longitude": -92.10141
+  }
+]
