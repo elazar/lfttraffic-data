@@ -1,5 +1,13 @@
 [
   {
+    "address": "1800 E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "05/05/2019 - 9:07 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.22739,
+    "longitude": -91.99694
+  },
+  {
     "address": "804 MARTIN LUTHER KING JR DR",
     "city": "LAFAYETTE",
     "time": "05/05/2019 - 8:27 PM",
