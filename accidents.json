@@ -1,18 +1,18 @@
 [
   {
+    "address": "SW EVANGELINE TW & E KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "05/06/2019 - 4:29 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20067,
+    "longitude": -91.99958
+  },
+  {
     "address": "225 S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "05/06/2019 - 4:11 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.2045407,
     "longitude": -92.0348137
-  },
-  {
-    "address": "W WILLOW ST & N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "05/06/2019 - 4:02 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24448,
-    "longitude": -92.03275
   }
 ]
