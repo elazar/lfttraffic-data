@@ -1,5 +1,13 @@
 [
   {
+    "address": "427 JOAN ST",
+    "city": "LAFAYETTE",
+    "time": "05/05/2019 - 7:16 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23776,
+    "longitude": -92.03034
+  },
+  {
     "address": "SE EVANGELINE TW & TWELFTH ST",
     "city": "LAFAYETTE",
     "time": "05/05/2019 - 6:06 PM",
