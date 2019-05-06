@@ -1,17 +1,9 @@
 [
   {
-    "address": "AMBASSADOR CAFFERY PW & W WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "05/06/2019 - 09:12 AM",
-    "due_to": "Incoming Call",
-    "latitude": 30.24324,
-    "longitude": -92.06626
-  },
-  {
     "address": "3142 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/06/2019 - 09:01 AM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.1873,
     "longitude": -92.07797
   }
