@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "205 DESPAIN ST",
+    "city": "LAFAYETTE",
+    "time": "05/06/2019 - 06:31 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.20327,
+    "longitude": -92.09884
+  }
+]
