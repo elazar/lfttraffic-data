@@ -1,19 +1,19 @@
 [
   {
+    "address": "225 S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "05/06/2019 - 4:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2045407,
+    "longitude": -92.0348137
+  },
+  {
     "address": "W WILLOW ST & N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "05/06/2019 - 4:02 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.24448,
     "longitude": -92.03275
-  },
-  {
-    "address": "103 I10 EB ENTRANCE RAMP 103 HW",
-    "city": "LAFAYETTE",
-    "time": "05/06/2019 - 3:36 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.26255,
-    "longitude": -92.00867
   },
   {
     "address": "600 CHURCH ST",
