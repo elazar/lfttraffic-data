@@ -1,13 +1,5 @@
 [
   {
-    "address": "W CONGRESS ST & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "05/07/2019 - 2:37 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.19597,
-    "longitude": -92.07523
-  },
-  {
     "address": "JOHNSTON ST & W BRENTWOOD BL",
     "city": "LAFAYETTE",
     "time": "05/07/2019 - 2:36 PM",
@@ -22,6 +14,14 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19661,
     "longitude": -92.0758
+  },
+  {
+    "address": "300 RAYMOND ST",
+    "city": "LAFAYETTE",
+    "time": "05/07/2019 - 2:16 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14922,
+    "longitude": -92.08135
   },
   {
     "address": "AMBASSADOR CAFFERY PW & WESTMARK BL",
