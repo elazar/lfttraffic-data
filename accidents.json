@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & KENTWOOD DR",
+    "city": "CARENCRO",
+    "time": "05/07/2019 - 5:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.30298,
+    "longitude": -92.04943
+  },
+  {
     "address": "DULLES DR & WESTGATE RD",
     "city": "LAFAYETTE",
     "time": "05/07/2019 - 5:16 PM",
