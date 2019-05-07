@@ -1,5 +1,13 @@
 [
   {
+    "address": "MOSS ST & MUDD AV",
+    "city": "LAFAYETTE",
+    "time": "05/07/2019 - 09:53 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23248,
+    "longitude": -92.00878
+  },
+  {
     "address": "401 IBERIA ST",
     "city": "YOUNGSVILLE",
     "time": "05/07/2019 - 09:40 AM",
