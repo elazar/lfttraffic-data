@@ -1,5 +1,29 @@
 [
   {
+    "address": "ALLEY NO 2 & CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "05/06/2019 - 9:38 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.23244,
+    "longitude": -92.04675
+  },
+  {
+    "address": "I10 EASTBOUND MM101 HW & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "05/06/2019 - 9:38 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.24052,
+    "longitude": -92.03242
+  },
+  {
+    "address": "1700 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "05/06/2019 - 9:38 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.25271,
+    "longitude": -92.03633
+  },
+  {
     "address": "I10 EB ENTRANCE RAMP HW & AUSTRIA RD",
     "city": "DUSON",
     "time": "05/06/2019 - 8:21 PM",
