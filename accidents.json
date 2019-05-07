@@ -2,6 +2,14 @@
   {
     "address": "207 WESTCHESTER DR",
     "city": "LAFAYETTE",
+    "time": "05/07/2019 - 4:31 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20495,
+    "longitude": -92.06159
+  },
+  {
+    "address": "207 WESTCHESTER DR",
+    "city": "LAFAYETTE",
     "time": "05/07/2019 - 4:29 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.20495,
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19212,
     "longitude": -92.01615
-  },
-  {
-    "address": "W PINHOOK RD & YOUNGSVILLE HW",
-    "city": "LAFAYETTE",
-    "time": "05/07/2019 - 4:09 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.16071,
-    "longitude": -91.99107
   },
   {
     "address": "2000 S COLLEGE RD",
