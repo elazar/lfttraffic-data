@@ -1,5 +1,13 @@
 [
   {
+    "address": "1815 ST MARY ST",
+    "city": "SCOTT",
+    "time": "05/07/2019 - 07:48 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2441439,
+    "longitude": -92.1070949
+  },
+  {
     "address": "300 AVENUE B",
     "city": "YOUNGSVILLE",
     "time": "05/07/2019 - 07:23 AM",
@@ -22,14 +30,6 @@
     "due_to": "Traffic Control",
     "latitude": 30.23215,
     "longitude": -91.98358
-  },
-  {
-    "address": "W WILLOW ST & CORA ST",
-    "city": "LAFAYETTE",
-    "time": "05/07/2019 - 06:56 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24574,
-    "longitude": -92.02712
   },
   {
     "address": "603 AVENUE B",
