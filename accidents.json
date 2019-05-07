@@ -1,5 +1,13 @@
 [
   {
+    "address": "1200 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "05/07/2019 - 5:12 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2382971,
+    "longitude": -92.0121861
+  },
+  {
     "address": "W CONGRESS ST & GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "05/07/2019 - 5:04 PM",
