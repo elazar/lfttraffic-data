@@ -1,5 +1,13 @@
 [
   {
+    "address": "1315 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "05/07/2019 - 3:57 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24341,
+    "longitude": -92.00696
+  },
+  {
     "address": "DELHOMME AV & APOLLO RD",
     "city": "SCOTT",
     "time": "05/07/2019 - 3:34 PM",
@@ -54,14 +62,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2438934,
     "longitude": -92.006205
-  },
-  {
-    "address": "603 AVENUE B",
-    "city": "YOUNGSVILLE",
-    "time": "05/07/2019 - 2:45 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.09519,
-    "longitude": -91.99765
   },
   {
     "address": "JOHNSTON ST & W BRENTWOOD BL",
