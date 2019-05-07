@@ -1,5 +1,13 @@
 [
   {
+    "address": "222 JET RANGER X DR",
+    "city": "LAFAYETTE",
+    "time": "05/07/2019 - 09:12 AM",
+    "due_to": "Fire",
+    "latitude": 30.2037784,
+    "longitude": -91.9953623
+  },
+  {
     "address": "N UNIVERSITY AV & PREJEAN RD",
     "city": "CARENCRO",
     "time": "05/07/2019 - 08:08 AM",
