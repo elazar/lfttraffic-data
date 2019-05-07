@@ -1,11 +1,11 @@
 [
   {
-    "address": "6100 US 90 EAST HW",
-    "city": "BROUSSARD",
-    "time": "05/07/2019 - 1:55 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.10118,
-    "longitude": -91.94283
+    "address": "AMBASSADOR CAFFERY PW & WESTMARK BL",
+    "city": "LAFAYETTE",
+    "time": "05/07/2019 - 2:04 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18444,
+    "longitude": -92.07499
   },
   {
     "address": "200 W GLORIA SWITCH RD",
@@ -14,14 +14,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2959347,
     "longitude": -92.0281711
-  },
-  {
-    "address": "600 DULA ST",
-    "city": "LAFAYETTE",
-    "time": "05/07/2019 - 1:11 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.09797,
-    "longitude": -91.98028
   },
   {
     "address": "W PINHOOK RD & KALISTE SALOOM RD",
