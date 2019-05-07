@@ -1,5 +1,13 @@
 [
   {
+    "address": "ARTISAN RD & DOUG DR",
+    "city": "LAFAYETTE",
+    "time": "05/07/2019 - 12:35 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15991,
+    "longitude": -92.01847
+  },
+  {
     "address": "320 DEVALCOURT ST",
     "city": "LAFAYETTE",
     "time": "05/07/2019 - 12:09 PM",
