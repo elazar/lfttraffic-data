@@ -1,5 +1,13 @@
 [
   {
+    "address": "2000 S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "05/07/2019 - 4:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1915268,
+    "longitude": -92.0075808
+  },
+  {
     "address": "KALISTE SALOOM RD & RIVER RANCH BL",
     "city": "LAFAYETTE",
     "time": "05/07/2019 - 4:01 PM",
