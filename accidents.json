@@ -1,5 +1,21 @@
 [
   {
+    "address": "W CONGRESS ST & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "05/07/2019 - 2:37 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.19597,
+    "longitude": -92.07523
+  },
+  {
+    "address": "JOHNSTON ST & W BRENTWOOD BL",
+    "city": "LAFAYETTE",
+    "time": "05/07/2019 - 2:36 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19632,
+    "longitude": -92.057
+  },
+  {
     "address": "2822 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/07/2019 - 2:36 PM",
