@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.25806,
     "longitude": -92.08085
-  },
-  {
-    "address": "SE EVANGELINE TW & E PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "05/07/2019 - 10:52 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.21749,
-    "longitude": -92.00495
   }
 ]
