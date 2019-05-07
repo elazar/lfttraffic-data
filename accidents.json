@@ -1,5 +1,13 @@
 [
   {
+    "address": "1000 E WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "05/07/2019 - 1:01 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.24412,
+    "longitude": -91.99575
+  },
+  {
     "address": "W PINHOOK RD & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "05/07/2019 - 12:59 PM",
