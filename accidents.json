@@ -11,7 +11,7 @@
     "address": "W CONGRESS ST & HUGGINS RD",
     "city": "LAFAYETTE",
     "time": "05/07/2019 - 5:33 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.19582,
     "longitude": -92.0889
   },
@@ -46,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2382971,
     "longitude": -92.0121861
-  },
-  {
-    "address": "W CONGRESS ST & GUILBEAU RD",
-    "city": "LAFAYETTE",
-    "time": "05/07/2019 - 5:04 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19826,
-    "longitude": -92.07007
   },
   {
     "address": "5700 JOHNSTON ST",
