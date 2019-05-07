@@ -1,5 +1,13 @@
 [
   {
+    "address": "207 WESTCHESTER DR",
+    "city": "LAFAYETTE",
+    "time": "05/07/2019 - 4:29 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20495,
+    "longitude": -92.06159
+  },
+  {
     "address": "1800 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "05/07/2019 - 4:25 PM",
@@ -62,14 +70,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.24324,
     "longitude": -92.06626
-  },
-  {
-    "address": "MADELINE AV & ORCHID DR",
-    "city": "LAFAYETTE",
-    "time": "05/07/2019 - 3:02 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23853,
-    "longitude": -92.03941
   },
   {
     "address": "1400 MOSS ST",
