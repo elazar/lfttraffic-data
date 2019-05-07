@@ -1,5 +1,13 @@
 [
   {
+    "address": "W WILLOW ST & CORA ST",
+    "city": "LAFAYETTE",
+    "time": "05/07/2019 - 06:56 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24574,
+    "longitude": -92.02712
+  },
+  {
     "address": "603 AVENUE B",
     "city": "YOUNGSVILLE",
     "time": "05/07/2019 - 06:45 AM",
