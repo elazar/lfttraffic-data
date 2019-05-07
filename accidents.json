@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 N COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "05/07/2019 - 11:52 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20896,
+    "longitude": -92.04023
+  },
+  {
     "address": "2702 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "05/07/2019 - 11:18 AM",
