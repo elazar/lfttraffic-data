@@ -1,5 +1,13 @@
 [
   {
+    "address": "6100 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "05/07/2019 - 1:55 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.10118,
+    "longitude": -91.94283
+  },
+  {
     "address": "5000 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "05/07/2019 - 1:49 PM",
