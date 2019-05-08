@@ -1,5 +1,13 @@
 [
   {
+    "address": "110 CENTRAL ST",
+    "city": "LAFAYETTE",
+    "time": "05/08/2019 - 08:15 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.22576,
+    "longitude": -92.01981
+  },
+  {
     "address": "216 DUHON RD",
     "city": "LAFAYETTE",
     "time": "05/08/2019 - 08:10 AM",
