@@ -1,11 +1,19 @@
 [
   {
-    "address": "114 COUNTRY LN",
+    "address": "W UNIVERSITY AV & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "05/08/2019 - 5:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2261,
+    "longitude": -92.02828
+  },
+  {
+    "address": "114 COMFORT LN",
     "city": "LAFAYETTE",
     "time": "05/08/2019 - 4:49 PM",
     "due_to": "Road Hazard",
-    "latitude": 30.14809,
-    "longitude": -92.01778
+    "latitude": 30.27271,
+    "longitude": -92.01344
   },
   {
     "address": "JOHNSTON ST & ST JULIEN AV",
