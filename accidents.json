@@ -1,5 +1,13 @@
 [
   {
+    "address": "W ST MARY BL & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "05/09/2019 - 1:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22445,
+    "longitude": -92.03174
+  },
+  {
     "address": "302 CREEKSIDE DR",
     "city": "LAFAYETTE",
     "time": "05/09/2019 - 12:53 PM",
