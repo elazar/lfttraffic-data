@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "05/09/2019 - 3:40 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.24052,
+    "longitude": -92.03242
+  },
+  {
     "address": "102 I10 EASTBOUND MM102 HW",
     "city": "LAFAYETTE",
     "time": "05/09/2019 - 3:39 PM",
