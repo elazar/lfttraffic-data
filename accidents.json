@@ -1,5 +1,21 @@
 [
   {
+    "address": "101 SETTLERS TRACE BL",
+    "city": "LAFAYETTE",
+    "time": "05/09/2019 - 3:21 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17095,
+    "longitude": -92.03489
+  },
+  {
+    "address": "3600 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "05/09/2019 - 3:21 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1604434,
+    "longitude": -91.9711444
+  },
+  {
     "address": "US 90 EAST HW & NOLAN RD",
     "city": "BROUSSARD",
     "time": "05/09/2019 - 3:19 PM",
