@@ -1,19 +1,27 @@
 [
   {
+    "address": "100 E VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "05/09/2019 - 07:51 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1767847,
+    "longitude": -92.0018125
+  },
+  {
+    "address": "2500 SE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "05/09/2019 - 07:45 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.19114,
+    "longitude": -91.9916
+  },
+  {
     "address": "600 CHURCH ST",
     "city": "YOUNGSVILLE",
     "time": "05/09/2019 - 07:19 AM",
     "due_to": "Traffic Control",
     "latitude": 30.09923,
     "longitude": -91.99578
-  },
-  {
-    "address": "300 AVENUE B",
-    "city": "YOUNGSVILLE",
-    "time": "05/09/2019 - 07:02 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.09606,
-    "longitude": -91.9938
   },
   {
     "address": "603 AVENUE B",
