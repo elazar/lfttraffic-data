@@ -78,13 +78,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.1665239,
     "longitude": -92.0832582
-  },
-  {
-    "address": "102 I10 EASTBOUND MM102 HW",
-    "city": "LAFAYETTE",
-    "time": "05/09/2019 - 2:37 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.26255,
-    "longitude": -92.00867
   }
 ]
