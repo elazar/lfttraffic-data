@@ -1,5 +1,13 @@
 [
   {
+    "address": "932 E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "05/09/2019 - 4:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23006,
+    "longitude": -92.00535
+  },
+  {
     "address": "US 90 EAST HW & AMBASSADOR CAFFERY PW",
     "city": "BROUSSARD",
     "time": "05/09/2019 - 4:38 PM",
