@@ -1,21 +1,5 @@
 [
   {
-    "address": "N UNIVERSITY AV & DISETTE RD",
-    "city": "LAFAYETTE",
-    "time": "05/09/2019 - 5:33 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.34741,
-    "longitude": -92.04969
-  },
-  {
-    "address": "CAMERON ST & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "05/09/2019 - 5:32 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.23252,
-    "longitude": -92.06264
-  },
-  {
     "address": "800 YOUNG ST",
     "city": "YOUNGSVILLE",
     "time": "05/09/2019 - 5:15 PM",
