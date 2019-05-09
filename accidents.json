@@ -1,5 +1,13 @@
 [
   {
+    "address": "DOUCET RD & S RIDGEWAY DR",
+    "city": "LAFAYETTE",
+    "time": "05/09/2019 - 3:16 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19749,
+    "longitude": -92.04155
+  },
+  {
     "address": "MCKINLEY ST & TULANE AV",
     "city": "LAFAYETTE",
     "time": "05/09/2019 - 3:12 PM",
