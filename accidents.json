@@ -23,14 +23,7 @@
     "latitude": 30.1727504,
     "longitude": -91.9787417
   },
-  {
-    "address": "US 90 EAST HW & N SOUTHPARK RD",
-    "city": "LAFAYETTE",
-    "time": "05/09/2019 - 3:38 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17164,
-    "longitude": -91.97994
-  },
+  null,
   {
     "address": "600 CHURCH ST",
     "city": "YOUNGSVILLE",
@@ -78,6 +71,14 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.1665239,
     "longitude": -92.0832582
+  },
+  {
+    "address": "1522 CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "05/09/2019 - 2:48 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.23215,
+    "longitude": -91.98358
   },
   {
     "address": "102 I10 EASTBOUND MM102 HW",
