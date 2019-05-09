@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 WILSHIRE LN",
+    "city": "LAFAYETTE",
+    "time": "05/09/2019 - 2:49 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.24584,
+    "longitude": -92.033
+  },
+  {
     "address": "1522 CARMEL DR",
     "city": "LAFAYETTE",
     "time": "05/09/2019 - 2:48 PM",
