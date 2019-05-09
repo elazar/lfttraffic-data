@@ -1,5 +1,13 @@
 [
   {
+    "address": "DULLES DR & BON VIE DR",
+    "city": "LAFAYETTE",
+    "time": "05/09/2019 - 1:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21053,
+    "longitude": -92.08063
+  },
+  {
     "address": "100 RENA ST",
     "city": "DUSON",
     "time": "05/09/2019 - 1:19 PM",
