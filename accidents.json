@@ -1,5 +1,13 @@
 [
   {
+    "address": "35 BNSF RAILROAD CG",
+    "city": "LAFAYETTE",
+    "time": "05/09/2019 - 3:52 PM",
+    "due_to": "Traffic Control",
+    "latitude": 40.50211,
+    "longitude": -86.95026
+  },
+  {
     "address": "N UNIVERSITY AV & I10 HW",
     "city": "LAFAYETTE",
     "time": "05/09/2019 - 3:40 PM",
