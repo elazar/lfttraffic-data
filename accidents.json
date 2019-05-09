@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 JACKSON ST",
+    "city": "LAFAYETTE",
+    "time": "05/09/2019 - 2:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2232501,
+    "longitude": -92.0168508
+  },
+  {
     "address": "N UNIVERSITY AV & MIDWAY ST",
     "city": "LAFAYETTE",
     "time": "05/09/2019 - 2:27 PM",
@@ -46,13 +54,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22445,
     "longitude": -92.03174
-  },
-  {
-    "address": "4 I49 SOUTHBOUND MM4 HW",
-    "city": "LAFAYETTE",
-    "time": "05/09/2019 - 12:36 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.28006,
-    "longitude": -92.02024
   }
 ]
