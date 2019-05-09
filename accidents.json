@@ -1,5 +1,21 @@
 [
   {
+    "address": "TULANE AV & HOOVER ST",
+    "city": "LAFAYETTE",
+    "time": "05/09/2019 - 1:59 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20966,
+    "longitude": -92.011
+  },
+  {
+    "address": "W UNIVERSITY AV & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "05/09/2019 - 1:59 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2261,
+    "longitude": -92.02828
+  },
+  {
     "address": "I49 SOUTHBOUND MM3 HW & W GLORIA SWITCH RD",
     "city": "CARENCRO",
     "time": "05/09/2019 - 1:55 PM",
