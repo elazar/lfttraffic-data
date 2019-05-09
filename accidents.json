@@ -1,5 +1,13 @@
 [
   {
+    "address": "BONIN RD & LA NEUVILLE RD",
+    "city": "LAFAYETTE",
+    "time": "05/09/2019 - 4:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14488,
+    "longitude": -92.00774
+  },
+  {
     "address": "N UNIVERSITY AV & I10 HW",
     "city": "LAFAYETTE",
     "time": "05/09/2019 - 3:40 PM",
