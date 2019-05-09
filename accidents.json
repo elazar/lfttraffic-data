@@ -1,5 +1,29 @@
 [
   {
+    "address": "102 I10 EASTBOUND MM102 HW",
+    "city": "LAFAYETTE",
+    "time": "05/09/2019 - 3:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
+    "address": "101 N SOUTHPARK RD",
+    "city": "BROUSSARD",
+    "time": "05/09/2019 - 3:38 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.1727504,
+    "longitude": -91.9787417
+  },
+  {
+    "address": "US 90 EAST HW & N SOUTHPARK RD",
+    "city": "LAFAYETTE",
+    "time": "05/09/2019 - 3:38 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17164,
+    "longitude": -91.97994
+  },
+  {
     "address": "600 CHURCH ST",
     "city": "YOUNGSVILLE",
     "time": "05/09/2019 - 3:28 PM",
