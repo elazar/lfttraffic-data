@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 RENA ST",
+    "city": "DUSON",
+    "time": "05/09/2019 - 1:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24095,
+    "longitude": -92.17732
+  },
+  {
     "address": "SW EVANGELINE TW & E KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "05/09/2019 - 1:16 PM",
