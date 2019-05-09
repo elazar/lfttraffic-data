@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 DUHON RD",
+    "city": "LAFAYETTE",
+    "time": "05/09/2019 - 3:10 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.1665239,
+    "longitude": -92.0832582
+  },
+  {
     "address": "100 WILSHIRE LN",
     "city": "LAFAYETTE",
     "time": "05/09/2019 - 2:49 PM",
