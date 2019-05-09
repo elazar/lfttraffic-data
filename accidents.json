@@ -1,5 +1,13 @@
 [
   {
+    "address": "102 I10 EASTBOUND MM102 HW",
+    "city": "LAFAYETTE",
+    "time": "05/09/2019 - 2:37 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "100 JACKSON ST",
     "city": "LAFAYETTE",
     "time": "05/09/2019 - 2:28 PM",
@@ -22,14 +30,6 @@
     "due_to": "Wire Hazard",
     "latitude": 30.09586,
     "longitude": -91.99571
-  },
-  {
-    "address": "DULLES DR & BON VIE DR",
-    "city": "LAFAYETTE",
-    "time": "05/09/2019 - 1:45 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21053,
-    "longitude": -92.08063
   },
   {
     "address": "100 RENA ST",
