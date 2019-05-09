@@ -70,13 +70,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.26255,
     "longitude": -92.00867
-  },
-  {
-    "address": "AVENUE B & FOURTH ST",
-    "city": "YOUNGSVILLE",
-    "time": "05/09/2019 - 2:24 PM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.09586,
-    "longitude": -91.99571
   }
 ]
