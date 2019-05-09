@@ -1,5 +1,13 @@
 [
   {
+    "address": "BOURQUE RD & LAGNEAUX RD",
+    "city": "LAFAYETTE",
+    "time": "05/09/2019 - 3:55 PM",
+    "due_to": "Grass Fire",
+    "latitude": 30.13784,
+    "longitude": -92.13227
+  },
+  {
     "address": "35 BNSF RAILROAD CG",
     "city": "LAFAYETTE",
     "time": "05/09/2019 - 3:52 PM",
