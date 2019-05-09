@@ -1,5 +1,13 @@
 [
   {
+    "address": "PATTERSON ST & MARTIN LUTHER KING JR DR",
+    "city": "LAFAYETTE",
+    "time": "05/09/2019 - 4:25 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.24889,
+    "longitude": -92.02044
+  },
+  {
     "address": "BONIN RD & LA NEUVILLE RD",
     "city": "LAFAYETTE",
     "time": "05/09/2019 - 4:24 PM",
