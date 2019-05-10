@@ -1,11 +1,19 @@
 [
   {
-    "address": "S MORGAN AV & E MAIN ST",
-    "city": "BROUSSARD",
-    "time": "05/10/2019 - 11:12 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.14806,
-    "longitude": -91.96406
+    "address": "100 CLAY RD",
+    "city": "SCOTT",
+    "time": "05/10/2019 - 11:15 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.2392881,
+    "longitude": -92.0710749
+  },
+  {
+    "address": "4530 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "05/10/2019 - 11:15 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.2937,
+    "longitude": -92.0067
   },
   {
     "address": "104 THRASHER DR",
