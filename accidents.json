@@ -30,13 +30,5 @@
     "due_to": "Residential Fire",
     "latitude": 30.23772,
     "longitude": -91.94997
-  },
-  {
-    "address": "1800 MILLS ST",
-    "city": "LAFAYETTE",
-    "time": "05/10/2019 - 12:18 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.26535,
-    "longitude": -92.0898
   }
 ]
