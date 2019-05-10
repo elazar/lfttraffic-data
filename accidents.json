@@ -1,11 +1,19 @@
 [
   {
-    "address": "CAMELLIA BL & SETTLERS TRACE BL",
+    "address": "E MILTON AV & GALLET RD",
     "city": "LAFAYETTE",
-    "time": "05/10/2019 - 06:07 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.16963,
-    "longitude": -92.039
+    "time": "05/10/2019 - 06:08 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1092,
+    "longitude": -92.05566
+  },
+  {
+    "address": "100 E SECOND ST",
+    "city": "LAFAYETTE",
+    "time": "05/10/2019 - 06:08 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2294839,
+    "longitude": -92.0151046
   },
   {
     "address": "GUILLIOT RD & NICOLE DR",
