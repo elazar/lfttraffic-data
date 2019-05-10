@@ -1,5 +1,13 @@
 [
   {
+    "address": "2435 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "05/10/2019 - 12:36 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21203,
+    "longitude": -92.04969
+  },
+  {
     "address": "MILLS ST & ULINOR RD",
     "city": "LAFAYETTE",
     "time": "05/10/2019 - 12:18 PM",
