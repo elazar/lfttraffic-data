@@ -1,5 +1,13 @@
 [
   {
+    "address": "5525 CAMERON ST",
+    "city": "SCOTT",
+    "time": "05/10/2019 - 1:55 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23322,
+    "longitude": -92.08773
+  },
+  {
     "address": "CAMELLIA BL & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "05/10/2019 - 1:52 PM",
