@@ -1,5 +1,13 @@
 [
   {
+    "address": "E PINHOOK RD & CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "05/10/2019 - 06:40 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.2334,
+    "longitude": -91.9927
+  },
+  {
     "address": "100 E SECOND ST",
     "city": "LAFAYETTE",
     "time": "05/10/2019 - 06:08 AM",
