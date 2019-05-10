@@ -1,5 +1,13 @@
 [
   {
+    "address": "103 I10 EB EXIT RAMP HW",
+    "city": "LAFAYETTE",
+    "time": "05/10/2019 - 06:48 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "CAMELLIA BL & SETTLERS TRACE BL",
     "city": "LAFAYETTE",
     "time": "05/10/2019 - 06:46 AM",
@@ -14,14 +22,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.2179,
     "longitude": -92.0104
-  },
-  {
-    "address": "E PINHOOK RD & CARMEL DR",
-    "city": "LAFAYETTE",
-    "time": "05/10/2019 - 06:40 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.2334,
-    "longitude": -91.9927
   },
   {
     "address": "100 E SECOND ST",
