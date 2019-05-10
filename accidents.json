@@ -1,5 +1,21 @@
 [
   {
+    "address": "220 OKLAHOMA ST",
+    "city": "LAFAYETTE",
+    "time": "05/10/2019 - 07:15 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.24068,
+    "longitude": -91.9982
+  },
+  {
+    "address": "AMBASSADOR CAFFERY PW & ROBLEY DR",
+    "city": "LAFAYETTE",
+    "time": "05/10/2019 - 07:15 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17117,
+    "longitude": -92.06617
+  },
+  {
     "address": "GUILBEAU RD & N DOMINGUE AV",
     "city": "LAFAYETTE",
     "time": "05/10/2019 - 07:08 AM",
