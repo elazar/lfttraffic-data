@@ -11,7 +11,7 @@
     "address": "916 LAFAYETTE ST",
     "city": "LAFAYETTE",
     "time": "05/10/2019 - 08:53 AM",
-    "due_to": "Fire Investigation",
+    "due_to": "Hazardous Material",
     "latitude": 30.22351,
     "longitude": -92.0214
   },
@@ -22,22 +22,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.24279,
     "longitude": -92.01348
-  },
-  {
-    "address": "400 NW EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "05/10/2019 - 08:01 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2312,
-    "longitude": -92.01377
-  },
-  {
-    "address": "951 GARFIELD ST",
-    "city": "LAFAYETTE",
-    "time": "05/10/2019 - 07:53 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2189042,
-    "longitude": -92.0101686
   },
   {
     "address": "GUILBEAU RD & N DOMINGUE AV",
