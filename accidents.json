@@ -1,5 +1,13 @@
 [
   {
+    "address": "BERTRAND DR & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "05/10/2019 - 08:49 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.21493,
+    "longitude": -92.04696
+  },
+  {
     "address": "ALEMEDA ST & NW FRONTAGE RD",
     "city": "LAFAYETTE",
     "time": "05/10/2019 - 08:46 AM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.30954,
     "longitude": -92.03743
-  },
-  {
-    "address": "1610 N WILDERNESS TL",
-    "city": "LAFAYETTE",
-    "time": "05/10/2019 - 08:14 AM",
-    "due_to": "Residential Fire",
-    "latitude": 30.32808,
-    "longitude": -91.98914
   },
   {
     "address": "400 NW EVANGELINE TW",
