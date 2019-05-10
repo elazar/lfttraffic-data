@@ -1,5 +1,13 @@
 [
   {
+    "address": "821 E ALEXANDER ST",
+    "city": "LAFAYETTE",
+    "time": "05/10/2019 - 6:31 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25468,
+    "longitude": -91.99324
+  },
+  {
     "address": "1000 S STERLING ST",
     "city": "LAFAYETTE",
     "time": "05/10/2019 - 5:56 PM",
