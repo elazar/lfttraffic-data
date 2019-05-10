@@ -1,19 +1,11 @@
 [
   {
-    "address": "215 ANNA ST",
-    "city": "SCOTT",
-    "time": "05/10/2019 - 12:55 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.22806,
-    "longitude": -92.09072
-  },
-  {
-    "address": "810 SEAFOOD LN",
+    "address": "808 SEAFOOD LN",
     "city": "LAFAYETTE",
     "time": "05/10/2019 - 12:52 PM",
     "due_to": "Residential Fire",
-    "latitude": 30.2383635,
-    "longitude": -91.9486275
+    "latitude": 30.23772,
+    "longitude": -91.94997
   },
   {
     "address": "1800 MILLS ST",
