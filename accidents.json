@@ -1,19 +1,27 @@
 [
   {
+    "address": "JOHNSTON ST & E ST MARY BL",
+    "city": "LAFAYETTE",
+    "time": "05/10/2019 - 05:51 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.21449,
+    "longitude": -92.02175
+  },
+  {
+    "address": "SETTLERS TRACE BL & CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "05/10/2019 - 05:51 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.16963,
+    "longitude": -92.039
+  },
+  {
     "address": "GUILLIOT RD & NICOLE DR",
     "city": "YOUNGSVILLE",
     "time": "05/10/2019 - 05:48 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.08928,
     "longitude": -91.99057
-  },
-  {
-    "address": "GUILLIOT RD & CHEMIN METAIRIE PW",
-    "city": "YOUNGSVILLE",
-    "time": "05/10/2019 - 05:47 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.09013,
-    "longitude": -92.00377
   },
   {
     "address": "310 LASER LN",
