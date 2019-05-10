@@ -3,17 +3,9 @@
     "address": "104 THRASHER DR",
     "city": "SCOTT",
     "time": "05/10/2019 - 11:06 AM",
-    "due_to": "Fire Alarm-Residential",
+    "due_to": "Residential Fire",
     "latitude": 30.21436,
     "longitude": -92.09713
-  },
-  {
-    "address": "THRASHER DR & GOLD RUSH DR",
-    "city": "SCOTT",
-    "time": "05/10/2019 - 11:06 AM",
-    "due_to": "Incoming Call",
-    "latitude": 30.21361,
-    "longitude": -92.09752
   },
   {
     "address": "2863 AMBASSADOR CAFFERY PW",
