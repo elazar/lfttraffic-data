@@ -16,14 +16,6 @@
     "longitude": -92.01348
   },
   {
-    "address": "17 BNSF RAILROAD CG",
-    "city": "LAFAYETTE",
-    "time": "05/10/2019 - 08:27 AM",
-    "due_to": "Hazard",
-    "latitude": 40.50211,
-    "longitude": -86.95026
-  },
-  {
     "address": "ARCENEAUX RD & OLA ST",
     "city": "CARENCRO",
     "time": "05/10/2019 - 08:15 AM",
@@ -46,14 +38,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.2189042,
     "longitude": -92.0101686
-  },
-  {
-    "address": "1614 N WILDERNESS TL",
-    "city": "LAFAYETTE",
-    "time": "05/10/2019 - 07:53 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.3283,
-    "longitude": -91.9887
   },
   {
     "address": "GUILBEAU RD & N DOMINGUE AV",
