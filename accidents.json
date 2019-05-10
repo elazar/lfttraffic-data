@@ -1,5 +1,13 @@
 [
   {
+    "address": "2010 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "05/10/2019 - 06:31 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.16682,
+    "longitude": -92.03788
+  },
+  {
     "address": "100 E SECOND ST",
     "city": "LAFAYETTE",
     "time": "05/10/2019 - 06:08 AM",
