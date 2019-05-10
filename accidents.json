@@ -1,5 +1,13 @@
 [
   {
+    "address": "MADELINE AV & N ST ANTOINE ST",
+    "city": "LAFAYETTE",
+    "time": "05/10/2019 - 1:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23817,
+    "longitude": -92.02493
+  },
+  {
     "address": "808 SEAFOOD LN",
     "city": "LAFAYETTE",
     "time": "05/10/2019 - 12:52 PM",
