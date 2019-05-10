@@ -1,5 +1,13 @@
 [
   {
+    "address": "1122 W ST MARY BL",
+    "city": "LAFAYETTE",
+    "time": "05/10/2019 - 09:24 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2222354,
+    "longitude": -92.0297798
+  },
+  {
     "address": "W CONGRESS ST & CAJUNDOME BL",
     "city": "LAFAYETTE",
     "time": "05/10/2019 - 08:59 AM",
