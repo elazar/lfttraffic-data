@@ -1,5 +1,13 @@
 [
   {
+    "address": "107 GEORGETOWN LP",
+    "city": "SCOTT",
+    "time": "05/09/2019 - 10:18 PM",
+    "due_to": "Hazard",
+    "latitude": 30.21081,
+    "longitude": -92.09856
+  },
+  {
     "address": "401 ENA ST",
     "city": "LAFAYETTE",
     "time": "05/09/2019 - 10:16 PM",
