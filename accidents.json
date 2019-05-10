@@ -1,5 +1,21 @@
 [
   {
+    "address": "E TAFT ST & E VERMILION ST",
+    "city": "LAFAYETTE",
+    "time": "05/10/2019 - 07:53 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21904,
+    "longitude": -92.00965
+  },
+  {
+    "address": "1614 N WILDERNESS TL",
+    "city": "LAFAYETTE",
+    "time": "05/10/2019 - 07:53 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.3283,
+    "longitude": -91.9887
+  },
+  {
     "address": "NW FRONTAGE RD & DONLON AV",
     "city": "LAFAYETTE",
     "time": "05/10/2019 - 07:51 AM",
