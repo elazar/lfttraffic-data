@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.13757,
     "longitude": -92.15865
-  },
-  {
-    "address": "100 CLAY RD",
-    "city": "SCOTT",
-    "time": "05/10/2019 - 11:15 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.2392881,
-    "longitude": -92.0710749
   }
 ]
