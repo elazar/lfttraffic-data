@@ -2,6 +2,14 @@
   {
     "address": "CAJUNDOME BL & REINHARDT DR",
     "city": "LAFAYETTE",
+    "time": "05/10/2019 - 07:38 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21601,
+    "longitude": -92.03922
+  },
+  {
+    "address": "CAJUNDOME BL & REINHARDT DR",
+    "city": "LAFAYETTE",
     "time": "05/10/2019 - 07:36 AM",
     "due_to": "Vehicle Fire",
     "latitude": 30.21601,
