@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "05/10/2019 - 09:46 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21493,
+    "longitude": -92.04696
+  },
+  {
     "address": "204 REDOAK CL",
     "city": "LAFAYETTE",
     "time": "05/10/2019 - 09:46 AM",
@@ -22,14 +30,6 @@
     "due_to": "Fire Alarm-Commercial",
     "latitude": 30.18095,
     "longitude": -92.07482
-  },
-  {
-    "address": "95 I10 EASTBOUND MM95 HW",
-    "city": "LAFAYETTE",
-    "time": "05/10/2019 - 09:29 AM",
-    "due_to": "Vehicle Fire",
-    "latitude": null,
-    "longitude": null
   },
   {
     "address": "3822 AMBASSADOR CAFFERY PW",
