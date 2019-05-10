@@ -1,5 +1,13 @@
 [
   {
+    "address": "2000 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "05/10/2019 - 06:21 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2149789,
+    "longitude": -92.0759388
+  },
+  {
     "address": "100 E SECOND ST",
     "city": "LAFAYETTE",
     "time": "05/10/2019 - 06:08 AM",
