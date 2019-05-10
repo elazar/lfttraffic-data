@@ -1,5 +1,13 @@
 [
   {
+    "address": "101 JEFFERSON ,",
+    "city": "Lafayette",
+    "time": "05/10/2019 - 2:14 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.22672,
+    "longitude": -92.01491
+  },
+  {
     "address": "104 I10 EASTBOUND MM104 HW",
     "city": "LAFAYETTE",
     "time": "05/10/2019 - 2:13 PM",
