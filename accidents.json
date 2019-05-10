@@ -1,5 +1,13 @@
 [
   {
+    "address": "1000 S STERLING ST",
+    "city": "LAFAYETTE",
+    "time": "05/10/2019 - 5:56 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22356,
+    "longitude": -92.00247
+  },
+  {
     "address": "SPRING FARM RD & CRESCENT RANCH BL",
     "city": "LAFAYETTE",
     "time": "05/10/2019 - 5:41 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19961,
     "longitude": -92.01618
-  },
-  {
-    "address": "400 W WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "05/10/2019 - 4:22 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2453146,
-    "longitude": -92.0184001
   },
   {
     "address": "104 I10 EASTBOUND MM104 HW",
