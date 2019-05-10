@@ -1,11 +1,19 @@
 [
   {
-    "address": "2500 NW EVANGELINE TW",
+    "address": "100 ARNAUDVILLE RD",
+    "city": "LAFAYETTE",
+    "time": "05/10/2019 - 10:42 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.35663,
+    "longitude": -91.99757
+  },
+  {
+    "address": "2717 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "05/10/2019 - 10:37 AM",
     "due_to": "Stalled Vehicle",
-    "latitude": 30.2564018,
-    "longitude": -92.0157303
+    "latitude": 30.267274,
+    "longitude": -92.0172088
   },
   {
     "address": "MOSS ST & HIDDEN RIDGE DR",
@@ -38,14 +46,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.18426,
     "longitude": -92.04329
-  },
-  {
-    "address": "W CONGRESS ST & BERTRAND DR",
-    "city": "LAFAYETTE",
-    "time": "05/10/2019 - 09:46 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21493,
-    "longitude": -92.04696
   },
   {
     "address": "ALEMEDA ST & NW FRONTAGE RD",
