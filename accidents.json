@@ -1,5 +1,13 @@
 [
   {
+    "address": "WILTURNER RD & SELLERS RD",
+    "city": "LAFAYETTE",
+    "time": "05/10/2019 - 12:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13757,
+    "longitude": -92.15865
+  },
+  {
     "address": "MONTEIGNE DR & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "05/10/2019 - 11:57 AM",
