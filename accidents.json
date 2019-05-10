@@ -1,5 +1,13 @@
 [
   {
+    "address": "1400 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "05/10/2019 - 2:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19885,
+    "longitude": -92.01684
+  },
+  {
     "address": "3900 NE EVANGELINE TW",
     "city": "CARENCRO",
     "time": "05/10/2019 - 2:49 PM",
@@ -8,28 +16,12 @@
     "longitude": -92.03222
   },
   {
-    "address": "2900 W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "05/10/2019 - 2:48 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2073014,
-    "longitude": -92.0567827
-  },
-  {
     "address": "3313 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "05/10/2019 - 2:37 PM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.16522,
     "longitude": -91.99724
-  },
-  {
-    "address": "92 I10 EASTBOUND MM92 HW",
-    "city": "Lafayette",
-    "time": "05/10/2019 - 2:18 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": null,
-    "longitude": null
   },
   {
     "address": "104 I10 EASTBOUND MM104 HW",
