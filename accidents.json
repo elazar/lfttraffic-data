@@ -1,5 +1,13 @@
 [
   {
+    "address": "S MORGAN AV & E MAIN ST",
+    "city": "BROUSSARD",
+    "time": "05/10/2019 - 11:12 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.14806,
+    "longitude": -91.96406
+  },
+  {
     "address": "104 THRASHER DR",
     "city": "SCOTT",
     "time": "05/10/2019 - 11:06 AM",
