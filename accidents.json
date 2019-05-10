@@ -1,19 +1,19 @@
 [
   {
+    "address": "BRAMBER DR & BRETON DR",
+    "city": "LAFAYETTE",
+    "time": "05/10/2019 - 07:09 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.13659,
+    "longitude": -92.03955
+  },
+  {
     "address": "GUILBEAU RD & N DOMINGUE AV",
     "city": "LAFAYETTE",
     "time": "05/10/2019 - 07:08 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.20263,
     "longitude": -92.08363
-  },
-  {
-    "address": "W CONGRESS ST & S DOMINGUE AV",
-    "city": "LAFAYETTE",
-    "time": "05/10/2019 - 07:07 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.19586,
-    "longitude": -92.08353
   },
   {
     "address": "AMBASSADOR CAFFERY PW & WALKER RD",
