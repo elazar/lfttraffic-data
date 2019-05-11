@@ -1,5 +1,13 @@
 [
   {
+    "address": "101 I10 WESTBOUND MM101 HW",
+    "city": "LAFAYETTE",
+    "time": "05/11/2019 - 08:27 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "ST JOHN ST & CAMERON ST",
     "city": "LAFAYETTE",
     "time": "05/11/2019 - 08:10 AM",
