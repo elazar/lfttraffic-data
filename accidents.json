@@ -1,5 +1,13 @@
 [
   {
+    "address": "LAGNEAUX RD & NORRIS RD",
+    "city": "LAFAYETTE",
+    "time": "05/11/2019 - 4:04 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19217,
+    "longitude": -92.125
+  },
+  {
     "address": "CLIFFORD RD & NANCY LN",
     "city": "LAFAYETTE",
     "time": "05/11/2019 - 3:58 PM",
