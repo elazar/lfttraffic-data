@@ -1,5 +1,13 @@
 [
   {
+    "address": "CLIFFORD RD & NANCY LN",
+    "city": "LAFAYETTE",
+    "time": "05/11/2019 - 3:58 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.22915,
+    "longitude": -91.99651
+  },
+  {
     "address": "4630 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/11/2019 - 3:50 PM",
