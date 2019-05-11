@@ -14,21 +14,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.32044,
     "longitude": -92.04009
-  },
-  {
-    "address": "102 N CHURCH ST",
-    "city": "CARENCRO",
-    "time": "05/11/2019 - 5:04 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.31704,
-    "longitude": -92.04551
-  },
-  {
-    "address": "HEART D FARM RD & S BERNARD RD",
-    "city": "BROUSSARD",
-    "time": "05/11/2019 - 4:58 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.13068,
-    "longitude": -91.96917
   }
 ]
