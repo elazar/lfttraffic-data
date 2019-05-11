@@ -16,14 +16,6 @@
     "longitude": -92.05871
   },
   {
-    "address": "LOUISIANA AV & CENTER ST",
-    "city": "LAFAYETTE",
-    "time": "05/11/2019 - 5:47 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.24028,
-    "longitude": -92.00108
-  },
-  {
     "address": "115 DEREK PLAZA DR",
     "city": "CARENCRO",
     "time": "05/11/2019 - 5:26 PM",
@@ -56,12 +48,12 @@
     "longitude": -91.96917
   },
   {
-    "address": "2390 W CONGRESS ST",
+    "address": "551 BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "05/11/2019 - 4:52 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.21551,
-    "longitude": -92.04635
+    "latitude": 30.21397,
+    "longitude": -92.0464918
   },
   {
     "address": "235 HIBOU RD",
