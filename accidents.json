@@ -1,5 +1,21 @@
 [
   {
+    "address": "VEROT SCHOOL RD & MILLCREEK RD",
+    "city": "LAFAYETTE",
+    "time": "05/11/2019 - 01:14 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13109,
+    "longitude": -92.03248
+  },
+  {
+    "address": "W GARFIELD ST & JEFFERSON ST",
+    "city": "LAFAYETTE",
+    "time": "05/11/2019 - 01:14 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2266,
+    "longitude": -92.01743
+  },
+  {
     "address": "102 SPRING CYPRESS DR",
     "city": "BROUSSARD",
     "time": "05/11/2019 - 01:00 AM",
