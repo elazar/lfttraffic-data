@@ -1,5 +1,21 @@
 [
   {
+    "address": "W CONGRESS ST & BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "05/11/2019 - 4:48 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.21493,
+    "longitude": -92.04696
+  },
+  {
+    "address": "3500 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "05/11/2019 - 4:48 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1774019,
+    "longitude": -92.0739576
+  },
+  {
     "address": "NE EVANGELINE TW & E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "05/11/2019 - 4:45 PM",
@@ -62,5 +78,13 @@
     "due_to": "Fire Alarm-Commercial",
     "latitude": 30.1532294,
     "longitude": -92.0446335
+  },
+  {
+    "address": "AMBASSADOR CAFFERY PW & DULLES DR",
+    "city": "LAFAYETTE",
+    "time": "05/11/2019 - 2:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21053,
+    "longitude": -92.07567
   }
 ]
