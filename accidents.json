@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2266,
     "longitude": -92.01743
-  },
-  {
-    "address": "102 SPRING CYPRESS DR",
-    "city": "BROUSSARD",
-    "time": "05/11/2019 - 01:00 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.11396,
-    "longitude": -91.97092
   }
 ]
