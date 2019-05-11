@@ -1,5 +1,13 @@
 [
   {
+    "address": "115 DEREK PLAZA DR",
+    "city": "CARENCRO",
+    "time": "05/11/2019 - 5:26 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.32044,
+    "longitude": -92.04009
+  },
+  {
     "address": "102 N CHURCH ST",
     "city": "CARENCRO",
     "time": "05/11/2019 - 5:04 PM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21551,
     "longitude": -92.04635
-  },
-  {
-    "address": "1200 E BUTCHER SWITCH RD",
-    "city": "LAFAYETTE",
-    "time": "05/11/2019 - 4:50 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.28538,
-    "longitude": -91.99282
   },
   {
     "address": "AMBASSADOR CAFFERY PW & CREEK FARM RD",
