@@ -1,5 +1,13 @@
 [
   {
+    "address": "ST JOHN ST & CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "05/11/2019 - 08:10 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23185,
+    "longitude": -92.02287
+  },
+  {
     "address": "329 W PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "05/11/2019 - 06:28 AM",
