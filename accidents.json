@@ -1,5 +1,13 @@
 [
   {
+    "address": "1100 CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "05/11/2019 - 5:59 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17383,
+    "longitude": -92.04166
+  },
+  {
     "address": "MARIE ANTOINETTE ST & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "05/11/2019 - 5:53 PM",
