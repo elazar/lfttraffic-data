@@ -1,5 +1,13 @@
 [
   {
+    "address": "GUILBEAU RD & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "05/11/2019 - 1:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19375,
+    "longitude": -92.0586
+  },
+  {
     "address": "VEROT SCHOOL RD & ARTISAN RD",
     "city": "LAFAYETTE",
     "time": "05/11/2019 - 1:32 PM",
