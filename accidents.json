@@ -80,14 +80,6 @@
     "longitude": -92.11277
   },
   {
-    "address": "US 90 EAST HW & CELEBRITY DR",
-    "city": "BROUSSARD",
-    "time": "05/11/2019 - 4:38 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.14492,
-    "longitude": -91.94632
-  },
-  {
     "address": "NW EVANGELINE TW & CHALMETTE DR",
     "city": "LAFAYETTE",
     "time": "05/11/2019 - 4:32 PM",
@@ -110,13 +102,5 @@
     "due_to": "Fire Alarm-Commercial",
     "latitude": 30.1532294,
     "longitude": -92.0446335
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & DULLES DR",
-    "city": "LAFAYETTE",
-    "time": "05/11/2019 - 2:20 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21053,
-    "longitude": -92.07567
   }
 ]
