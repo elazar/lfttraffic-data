@@ -1,5 +1,13 @@
 [
   {
+    "address": "1840 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "05/12/2019 - 2:59 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.24455,
+    "longitude": -92.05728
+  },
+  {
     "address": "1300 RUE DU BELIER",
     "city": "LAFAYETTE",
     "time": "05/12/2019 - 2:32 PM",
