@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1666,
     "longitude": -92.07122
-  },
-  {
-    "address": "3 I49 NORTHBOUND MM3 HW",
-    "city": "CARENCRO",
-    "time": "05/11/2019 - 8:20 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.31396,
-    "longitude": -92.03118
   }
 ]
