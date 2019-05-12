@@ -8,27 +8,11 @@
     "longitude": -92.00773
   },
   {
-    "address": "E GLORIA SWITCH RD & MOSS ST",
-    "city": "LAFAYETTE",
-    "time": "05/11/2019 - 7:46 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2948,
-    "longitude": -92.00732
-  },
-  {
     "address": "AMBASSADOR CAFFERY PW & DULLES DR",
     "city": "LAFAYETTE",
     "time": "05/11/2019 - 7:45 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.21053,
     "longitude": -92.07567
-  },
-  {
-    "address": "200 ROBLEY DR",
-    "city": "LAFAYETTE",
-    "time": "05/11/2019 - 6:20 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.1775649,
-    "longitude": -92.0594489
   }
 ]
