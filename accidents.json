@@ -1,21 +1,5 @@
 [
   {
-    "address": "206 AUBURN DR",
-    "city": "CARENCRO",
-    "time": "05/12/2019 - 3:29 PM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.31896,
-    "longitude": -92.0575
-  },
-  {
-    "address": "1100 BONIN RD",
-    "city": "LAFAYETTE",
-    "time": "05/12/2019 - 3:05 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1447252,
-    "longitude": -92.0078649
-  },
-  {
     "address": "1840 W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "05/12/2019 - 2:59 PM",
