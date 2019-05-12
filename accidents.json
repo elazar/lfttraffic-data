@@ -1,5 +1,13 @@
 [
   {
+    "address": "MALAPART RD & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "05/12/2019 - 01:33 AM",
+    "due_to": "Hazard",
+    "latitude": 30.2905,
+    "longitude": -92.04991
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "05/12/2019 - 01:25 AM",
