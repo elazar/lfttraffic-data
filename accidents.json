@@ -1,5 +1,13 @@
 [
   {
+    "address": "99 I10 EASTBOUND MM99 HW",
+    "city": "SCOTT",
+    "time": "05/12/2019 - 04:45 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24727,
+    "longitude": -92.09751
+  },
+  {
     "address": "111 KEELING DR",
     "city": "LAFAYETTE",
     "time": "05/12/2019 - 04:44 AM",
@@ -22,13 +30,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.22133,
     "longitude": -92.07434
-  },
-  {
-    "address": "DULLES DR & BERTRAND DR",
-    "city": "LAFAYETTE",
-    "time": "05/12/2019 - 12:09 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.22233,
-    "longitude": -92.05213
   }
 ]
