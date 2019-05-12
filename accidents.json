@@ -1,5 +1,13 @@
 [
   {
+    "address": "SURREY ST & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "05/11/2019 - 11:07 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22823,
+    "longitude": -92.00461
+  },
+  {
     "address": "W WILLOW ST & N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "05/11/2019 - 9:26 PM",
