@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "05/12/2019 - 12:35 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20581,
+    "longitude": -92.04078
+  },
+  {
     "address": "2517 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "05/12/2019 - 12:10 PM",
