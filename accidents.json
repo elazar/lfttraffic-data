@@ -1,5 +1,13 @@
 [
   {
+    "address": "1320 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "05/11/2019 - 9:25 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.24703,
+    "longitude": -92.0334
+  },
+  {
     "address": "600 AUSTRIA RD",
     "city": "DUSON",
     "time": "05/11/2019 - 9:04 PM",
