@@ -1,5 +1,29 @@
 [
   {
+    "address": "W WILLOW ST & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "05/11/2019 - 9:26 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.24448,
+    "longitude": -92.03275
+  },
+  {
+    "address": "BERTRAND DR & DULLES DR",
+    "city": "LAFAYETTE",
+    "time": "05/11/2019 - 9:26 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.22233,
+    "longitude": -92.05213
+  },
+  {
+    "address": "W WILLOW ST & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "05/11/2019 - 9:26 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.24448,
+    "longitude": -92.03275
+  },
+  {
     "address": "1320 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "05/11/2019 - 9:25 PM",
