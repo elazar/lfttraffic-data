@@ -1,5 +1,13 @@
 [
   {
+    "address": "257 AUSTRIA RD",
+    "city": "DUSON",
+    "time": "05/11/2019 - 9:04 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24198,
+    "longitude": -92.19254
+  },
+  {
     "address": "5900 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "05/11/2019 - 8:57 PM",
@@ -30,13 +38,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.31396,
     "longitude": -92.03118
-  },
-  {
-    "address": "KALISTE SALOOM RD & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "05/11/2019 - 8:17 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15649,
-    "longitude": -92.04838
   }
 ]
