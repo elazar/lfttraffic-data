@@ -1,5 +1,13 @@
 [
   {
+    "address": "500 SETTLERS TRACE BL",
+    "city": "LAFAYETTE",
+    "time": "05/12/2019 - 6:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16372,
+    "longitude": -92.04764
+  },
+  {
     "address": "215 W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "05/12/2019 - 6:40 PM",
