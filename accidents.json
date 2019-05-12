@@ -1,5 +1,13 @@
 [
   {
+    "address": "DULLES DR & BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "05/11/2019 - 8:51 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.22233,
+    "longitude": -92.05213
+  },
+  {
     "address": "GREYFORD DR & ROBLEY DR",
     "city": "LAFAYETTE",
     "time": "05/11/2019 - 8:48 PM",
