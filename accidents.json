@@ -1,13 +1,5 @@
 [
   {
-    "address": "AMBASSADOR CAFFERY PW & WESTMARK BL",
-    "city": "LAFAYETTE",
-    "time": "05/12/2019 - 8:40 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.18444,
-    "longitude": -92.07499
-  },
-  {
     "address": "3222 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/12/2019 - 8:40 PM",
@@ -30,13 +22,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.22306,
     "longitude": -91.99746
-  },
-  {
-    "address": "6801 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "05/12/2019 - 7:21 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15001,
-    "longitude": -92.0935
   }
 ]
