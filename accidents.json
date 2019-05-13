@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & GUILBEAU RD",
+    "city": "LAFAYETTE",
+    "time": "05/13/2019 - 3:47 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19375,
+    "longitude": -92.0586
+  },
+  {
     "address": "6920 AMBASSADOR CAFFERY PW",
     "city": "BROUSSARD",
     "time": "05/13/2019 - 3:34 PM",
@@ -22,13 +30,5 @@
     "due_to": "Traffic Control",
     "latitude": 30.09519,
     "longitude": -91.99765
-  },
-  {
-    "address": "1522 CARMEL DR",
-    "city": "LAFAYETTE",
-    "time": "05/13/2019 - 2:52 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.23215,
-    "longitude": -91.98358
   }
 ]
