@@ -1,5 +1,13 @@
 [
   {
+    "address": "6801 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "05/12/2019 - 7:21 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15001,
+    "longitude": -92.0935
+  },
+  {
     "address": "531 ARTHUR ST",
     "city": "LAFAYETTE",
     "time": "05/12/2019 - 6:59 PM",
