@@ -1,5 +1,13 @@
 [
   {
+    "address": "JEFFERSON ST & VINE ST",
+    "city": "LAFAYETTE",
+    "time": "05/13/2019 - 4:40 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22703,
+    "longitude": -92.01662
+  },
+  {
     "address": "JOHNSTON ST & MONTROSE AV",
     "city": "LAFAYETTE",
     "time": "05/13/2019 - 4:38 PM",
