@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 ESPASIE DR",
+    "city": "LAFAYETTE",
+    "time": "05/13/2019 - 07:04 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.10373,
+    "longitude": -92.0767
+  },
+  {
     "address": "1145 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "05/13/2019 - 06:54 AM",
