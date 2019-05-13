@@ -1,5 +1,13 @@
 [
   {
+    "address": "S COLLEGE RD & W BAYOU PW",
+    "city": "LAFAYETTE",
+    "time": "05/13/2019 - 12:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19915,
+    "longitude": -92.02663
+  },
+  {
     "address": "3142 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/13/2019 - 11:57 AM",
