@@ -1,5 +1,13 @@
 [
   {
+    "address": "LOUISIANA AV & E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "05/12/2019 - 10:17 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23002,
+    "longitude": -92.00303
+  },
+  {
     "address": "1911 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "05/12/2019 - 10:15 PM",
