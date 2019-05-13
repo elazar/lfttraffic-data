@@ -1,5 +1,13 @@
 [
   {
+    "address": "S COLLEGE RD & CLEM DR",
+    "city": "LAFAYETTE",
+    "time": "05/13/2019 - 2:57 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.20241,
+    "longitude": -92.03168
+  },
+  {
     "address": "1522 CARMEL DR",
     "city": "LAFAYETTE",
     "time": "05/13/2019 - 2:52 PM",
