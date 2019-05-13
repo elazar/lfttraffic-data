@@ -1,11 +1,11 @@
 [
   {
-    "address": "JEFFERSON ST & VINE ST",
+    "address": "214 JEFFERSON ST",
     "city": "LAFAYETTE",
     "time": "05/13/2019 - 4:40 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.22703,
-    "longitude": -92.01662
+    "latitude": 30.22744,
+    "longitude": -92.01634
   },
   {
     "address": "JOHNSTON ST & MONTROSE AV",
@@ -46,14 +46,6 @@
     "due_to": "Hazard",
     "latitude": 30.24723,
     "longitude": -91.98856
-  },
-  {
-    "address": "JOHNSTON ST & GUILBEAU RD",
-    "city": "LAFAYETTE",
-    "time": "05/13/2019 - 3:47 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19375,
-    "longitude": -92.0586
   },
   {
     "address": "2702 JOHNSTON ST",
