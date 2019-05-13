@@ -1,5 +1,13 @@
 [
   {
+    "address": "DULLES DR & FOREMAN DR",
+    "city": "LAFAYETTE",
+    "time": "05/13/2019 - 2:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21446,
+    "longitude": -92.06318
+  },
+  {
     "address": "231 W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "05/13/2019 - 2:29 PM",
