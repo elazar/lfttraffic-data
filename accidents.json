@@ -30,13 +30,5 @@
     "due_to": "Residential Fire",
     "latitude": 30.11113,
     "longitude": -92.03508
-  },
-  {
-    "address": "FATIMA",
-    "city": "Lafayette",
-    "time": "05/13/2019 - 2:43 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.33931,
-    "longitude": -92.07066
   }
 ]
