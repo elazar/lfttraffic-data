@@ -1,5 +1,13 @@
 [
   {
+    "address": "101 OXBOW DR",
+    "city": "LAFAYETTE",
+    "time": "05/12/2019 - 9:57 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25274,
+    "longitude": -92.02078
+  },
+  {
     "address": "3222 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/12/2019 - 8:40 PM",
