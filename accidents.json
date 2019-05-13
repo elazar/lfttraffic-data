@@ -1,5 +1,13 @@
 [
   {
+    "address": "1500 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "05/13/2019 - 4:52 PM",
+    "due_to": "Hazard",
+    "latitude": 30.2347552,
+    "longitude": -92.0021193
+  },
+  {
     "address": "ELENORE ST & N WASHINGTON ST",
     "city": "LAFAYETTE",
     "time": "05/13/2019 - 4:48 PM",
