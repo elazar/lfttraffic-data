@@ -1,29 +1,5 @@
 [
   {
-    "address": "AMBASSADOR CAFFERY PW & S MORGAN AV",
-    "city": "BROUSSARD",
-    "time": "05/12/2019 - 10:27 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.13188,
-    "longitude": -91.96517
-  },
-  {
-    "address": "750 E SIMCOE ST",
-    "city": "LAFAYETTE",
-    "time": "05/12/2019 - 10:17 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2304851,
-    "longitude": -92.0083143
-  },
-  {
-    "address": "1911 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "05/12/2019 - 10:15 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18788,
-    "longitude": -92.01263
-  },
-  {
     "address": "101 OXBOW DR",
     "city": "LAFAYETTE",
     "time": "05/12/2019 - 9:57 PM",
