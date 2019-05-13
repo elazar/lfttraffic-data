@@ -1,5 +1,13 @@
 [
   {
+    "address": "SURREY ST & CHAMPAGNE ST",
+    "city": "LAFAYETTE",
+    "time": "05/12/2019 - 8:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22306,
+    "longitude": -91.99746
+  },
+  {
     "address": "E SIMCOE ST & EIGHTH ST",
     "city": "LAFAYETTE",
     "time": "05/12/2019 - 8:42 PM",
