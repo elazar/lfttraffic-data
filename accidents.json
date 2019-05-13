@@ -1,5 +1,13 @@
 [
   {
+    "address": "531 ARTHUR ST",
+    "city": "LAFAYETTE",
+    "time": "05/12/2019 - 6:59 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23982,
+    "longitude": -92.02736
+  },
+  {
     "address": "500 SETTLERS TRACE BL",
     "city": "LAFAYETTE",
     "time": "05/12/2019 - 6:58 PM",
