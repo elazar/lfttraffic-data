@@ -1,5 +1,13 @@
 [
   {
+    "address": "SURREY ST & CHAMPAGNE ST",
+    "city": "LAFAYETTE",
+    "time": "05/12/2019 - 7:50 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22306,
+    "longitude": -91.99746
+  },
+  {
     "address": "500 SCOTSDALE ST",
     "city": "LAFAYETTE",
     "time": "05/12/2019 - 7:35 PM",
