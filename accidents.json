@@ -1,5 +1,13 @@
 [
   {
+    "address": "S MAGNOLIA ST & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "05/12/2019 - 10:43 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.22571,
+    "longitude": -92.00791
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & S MORGAN AV",
     "city": "BROUSSARD",
     "time": "05/12/2019 - 10:27 PM",
@@ -30,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.25274,
     "longitude": -92.02078
-  },
-  {
-    "address": "3222 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "05/12/2019 - 8:40 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.18327,
-    "longitude": -92.07545
   }
 ]
