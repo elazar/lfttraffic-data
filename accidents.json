@@ -1,5 +1,13 @@
 [
   {
+    "address": "FATIMA",
+    "city": "Lafayette",
+    "time": "05/13/2019 - 2:43 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.33931,
+    "longitude": -92.07066
+  },
+  {
     "address": "1404 CARMEL DR",
     "city": "LAFAYETTE",
     "time": "05/13/2019 - 2:41 PM",
