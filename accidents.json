@@ -1,5 +1,13 @@
 [
   {
+    "address": "405 LA 93 HW",
+    "city": "SCOTT",
+    "time": "05/13/2019 - 11:27 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.25475,
+    "longitude": -92.11009
+  },
+  {
     "address": "W GILMAN RD & N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "05/13/2019 - 10:07 AM",
