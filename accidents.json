@@ -32,14 +32,6 @@
     "longitude": -92.01634
   },
   {
-    "address": "JOHNSTON ST & MONTROSE AV",
-    "city": "LAFAYETTE",
-    "time": "05/13/2019 - 4:38 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.20093,
-    "longitude": -92.05439
-  },
-  {
     "address": "AMBASSADOR CAFFERY PW & W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "05/13/2019 - 4:10 PM",
@@ -70,13 +62,5 @@
     "due_to": "Hazard",
     "latitude": 30.24723,
     "longitude": -91.98856
-  },
-  {
-    "address": "2702 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "05/13/2019 - 3:29 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.2071001,
-    "longitude": -92.0389179
   }
 ]
