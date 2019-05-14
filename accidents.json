@@ -1,5 +1,13 @@
 [
   {
+    "address": "616 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "05/14/2019 - 3:28 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.20804,
+    "longitude": -92.01179
+  },
+  {
     "address": "600 CHURCH ST",
     "city": "YOUNGSVILLE",
     "time": "05/14/2019 - 3:23 PM",
@@ -22,14 +30,6 @@
     "due_to": "Traffic Control",
     "latitude": 30.23215,
     "longitude": -91.98358
-  },
-  {
-    "address": "2315 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "05/14/2019 - 2:43 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.20898,
-    "longitude": -92.0305
   },
   {
     "address": "603 AVENUE B",
