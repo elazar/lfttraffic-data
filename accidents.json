@@ -1,5 +1,13 @@
 [
   {
+    "address": "104 ROSWELL CROSSING",
+    "city": "LAFAYETTE",
+    "time": "05/14/2019 - 4:46 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17118,
+    "longitude": -92.04189
+  },
+  {
     "address": "2427 VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "05/14/2019 - 4:26 PM",
@@ -62,14 +70,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.13809,
     "longitude": -92.03254
-  },
-  {
-    "address": "616 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "05/14/2019 - 3:28 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.20804,
-    "longitude": -92.01179
   },
   {
     "address": "813 YOUNG ST",
