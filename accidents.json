@@ -1,5 +1,21 @@
 [
   {
+    "address": "3010 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "05/14/2019 - 12:03 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.15022,
+    "longitude": -92.05502
+  },
+  {
+    "address": "US 90 EAST HW & SOUTHPARK RD",
+    "city": "LAFAYETTE",
+    "time": "05/14/2019 - 12:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17092,
+    "longitude": -91.98031
+  },
+  {
     "address": "JOHNSTON ST & W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "05/14/2019 - 11:30 AM",
