@@ -1,11 +1,11 @@
 [
   {
-    "address": "152 S BEADLE RD (NE)",
+    "address": "307 VIEUX ORLEANS CL",
     "city": "LAFAYETTE",
-    "time": "05/14/2019 - 4:14 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.17697,
-    "longitude": -92.01988
+    "time": "05/14/2019 - 4:16 PM",
+    "due_to": "Commercial Fire",
+    "latitude": 30.16801,
+    "longitude": -92.00733
   },
   {
     "address": "215 W WILLOW ST",
@@ -70,14 +70,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.20804,
     "longitude": -92.01179
-  },
-  {
-    "address": "600 CHURCH ST",
-    "city": "YOUNGSVILLE",
-    "time": "05/14/2019 - 3:23 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.09923,
-    "longitude": -91.99578
   },
   {
     "address": "813 YOUNG ST",
