@@ -16,28 +16,12 @@
     "longitude": -91.98161
   },
   {
-    "address": "3600 KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "05/14/2019 - 5:45 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.14068,
-    "longitude": -92.06221
-  },
-  {
     "address": "AMBASSADOR CAFFERY PW & RIDGE RD",
     "city": "LAFAYETTE",
     "time": "05/14/2019 - 5:01 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.18135,
     "longitude": -92.07501
-  },
-  {
-    "address": "3220 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "05/14/2019 - 4:59 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18468,
-    "longitude": -92.07547
   },
   {
     "address": "104 ROSWELL CROSSING",
