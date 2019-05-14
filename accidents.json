@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "address": "1309 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "05/14/2019 - 12:02 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.20025,
+    "longitude": -92.01483
+  },
+  {
+    "address": "JOMELA DR & W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "05/14/2019 - 12:02 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.19961,
+    "longitude": -92.01618
+  }
+]
