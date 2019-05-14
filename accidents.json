@@ -1,5 +1,13 @@
 [
   {
+    "address": "155 MIMOSA PL",
+    "city": "LAFAYETTE",
+    "time": "05/14/2019 - 1:07 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20055,
+    "longitude": -92.06043
+  },
+  {
     "address": "W PINHOOK RD & JOMELA DR",
     "city": "LAFAYETTE",
     "time": "05/14/2019 - 1:06 PM",
