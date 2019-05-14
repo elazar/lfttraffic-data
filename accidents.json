@@ -1,19 +1,19 @@
 [
   {
+    "address": "4600 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "05/14/2019 - 11:03 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15321,
+    "longitude": -92.04515
+  },
+  {
     "address": "W GLORIA SWITCH RD & NW FRONTAGE RD",
     "city": "LAFAYETTE",
     "time": "05/14/2019 - 10:49 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.29564,
     "longitude": -92.02676
-  },
-  {
-    "address": "116 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "05/14/2019 - 10:36 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24346,
-    "longitude": -92.06673
   },
   {
     "address": "W PINHOOK RD & KALISTE SALOOM RD",
