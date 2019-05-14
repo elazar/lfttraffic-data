@@ -1,13 +1,5 @@
 [
   {
-    "address": "112 AZALEA ST",
-    "city": "LAFAYETTE",
-    "time": "05/14/2019 - 4:29 PM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.22114,
-    "longitude": -92.02521
-  },
-  {
     "address": "2427 VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "05/14/2019 - 4:26 PM",
@@ -32,12 +24,12 @@
     "longitude": -92.0009227
   },
   {
-    "address": "307 VIEUX ORLEANS CL",
+    "address": "305 VIEUX ORLEANS CL",
     "city": "LAFAYETTE",
     "time": "05/14/2019 - 4:16 PM",
     "due_to": "Commercial Fire",
-    "latitude": 30.16801,
-    "longitude": -92.00733
+    "latitude": 30.16773,
+    "longitude": -92.00747
   },
   {
     "address": "215 W WILLOW ST",
@@ -64,12 +56,12 @@
     "longitude": -92.01447
   },
   {
-    "address": "107 MANCHAC RD",
+    "address": "106 MANCHAC RD",
     "city": "LAFAYETTE",
     "time": "05/14/2019 - 3:39 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.35027,
-    "longitude": -92.03678
+    "latitude": 30.35044,
+    "longitude": -92.03734
   },
   {
     "address": "VEROT SCHOOL RD & POINTS OF VIEW PW",
