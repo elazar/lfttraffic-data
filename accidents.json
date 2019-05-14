@@ -1,5 +1,13 @@
 [
   {
+    "address": "112 AZALEA ST",
+    "city": "LAFAYETTE",
+    "time": "05/14/2019 - 09:41 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.22114,
+    "longitude": -92.02521
+  },
+  {
     "address": "S COLLEGE RD & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "05/14/2019 - 09:18 AM",
@@ -14,13 +22,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.196,
     "longitude": -92.10823
-  },
-  {
-    "address": "W PINHOOK RD & S COLLEGE RD",
-    "city": "LAFAYETTE",
-    "time": "05/14/2019 - 08:59 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20101,
-    "longitude": -92.01538
   }
 ]
