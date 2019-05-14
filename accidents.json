@@ -1,5 +1,21 @@
 [
   {
+    "address": "W WILLOW ST & NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "05/14/2019 - 12:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24481,
+    "longitude": -92.01456
+  },
+  {
+    "address": "813 YOUNG ST",
+    "city": "YOUNGSVILLE",
+    "time": "05/14/2019 - 12:11 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.1024,
+    "longitude": -91.97686
+  },
+  {
     "address": "2600 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "05/14/2019 - 12:10 PM",
