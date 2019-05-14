@@ -23,14 +23,7 @@
     "latitude": 30.17778,
     "longitude": -92.00343
   },
-  {
-    "address": "WYMAN RD & LA 93 HW",
-    "city": "LAFAYETTE",
-    "time": "05/14/2019 - 12:03 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.27603,
-    "longitude": -92.11231
-  },
+  null,
   {
     "address": "3010 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
