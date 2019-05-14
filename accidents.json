@@ -1,5 +1,13 @@
 [
   {
+    "address": "VIEUX ORLEANS CL & PILLETTE RD",
+    "city": "LAFAYETTE",
+    "time": "05/14/2019 - 4:17 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.16835,
+    "longitude": -92.00662
+  },
+  {
     "address": "307 VIEUX ORLEANS CL",
     "city": "LAFAYETTE",
     "time": "05/14/2019 - 4:16 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20264,
     "longitude": -92.06358
-  },
-  {
-    "address": "4600 N UNIVERSITY AV",
-    "city": "CARENCRO",
-    "time": "05/14/2019 - 3:54 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.3202728,
-    "longitude": -92.0493638
   },
   {
     "address": "CARLTON DR & MOSS ST",
