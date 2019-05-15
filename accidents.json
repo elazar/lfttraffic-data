@@ -1,5 +1,13 @@
 [
   {
+    "address": "JEFFERSON ST & E TAFT ST",
+    "city": "LAFAYETTE",
+    "time": "05/15/2019 - 4:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21595,
+    "longitude": -92.01131
+  },
+  {
     "address": "W BAYOU PW & S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "05/15/2019 - 4:34 PM",
@@ -46,14 +54,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.25216,
     "longitude": -92.03842
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & BONIN RD",
-    "city": "YOUNGSVILLE",
-    "time": "05/15/2019 - 2:33 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.13528,
-    "longitude": -92.00763
   },
   {
     "address": "100 POYDRAS ST",
