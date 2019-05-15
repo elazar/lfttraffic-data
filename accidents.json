@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 NATHALIE ST",
+    "city": "LAFAYETTE",
+    "time": "05/15/2019 - 2:43 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.2218089,
+    "longitude": -92.0254425
+  },
+  {
     "address": "N UNIVERSITY AV & ABRAHAM DR",
     "city": "LAFAYETTE",
     "time": "05/15/2019 - 2:42 PM",
