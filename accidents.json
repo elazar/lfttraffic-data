@@ -1,5 +1,13 @@
 [
   {
+    "address": "NELLROSE ST & CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "05/15/2019 - 5:50 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.23215,
+    "longitude": -92.06989
+  },
+  {
     "address": "RUE DU BELIER & DULLES DR",
     "city": "SCOTT",
     "time": "05/15/2019 - 5:30 PM",
