@@ -1,5 +1,13 @@
 [
   {
+    "address": "233 RUE DU BELIER",
+    "city": "SCOTT",
+    "time": "05/15/2019 - 5:06 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.2068365,
+    "longitude": -92.0922949
+  },
+  {
     "address": "JEFFERSON ST & E TAFT ST",
     "city": "LAFAYETTE",
     "time": "05/15/2019 - 4:39 PM",
