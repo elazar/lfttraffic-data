@@ -1,5 +1,13 @@
 [
   {
+    "address": "306 RUBRIA ST",
+    "city": "LAFAYETTE",
+    "time": "05/15/2019 - 4:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24669,
+    "longitude": -92.02722
+  },
+  {
     "address": "3001 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "05/15/2019 - 4:13 PM",
