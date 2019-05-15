@@ -1,5 +1,13 @@
 [
   {
+    "address": "MEDICAL PARK DR & YOUNGSVILLE HW",
+    "city": "LAFAYETTE",
+    "time": "05/15/2019 - 09:43 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15714,
+    "longitude": -91.99103
+  },
+  {
     "address": "RUE LOUIS XIV & VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "05/15/2019 - 09:35 AM",
