@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & ABRAHAM DR",
+    "city": "LAFAYETTE",
+    "time": "05/15/2019 - 2:42 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24052,
+    "longitude": -92.03242
+  },
+  {
     "address": "E UNIVERSITY AV & GENERAL GARDNER AV",
     "city": "LAFAYETTE",
     "time": "05/15/2019 - 2:41 PM",
