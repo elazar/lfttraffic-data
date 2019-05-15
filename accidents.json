@@ -1,5 +1,37 @@
 [
   {
+    "address": "E PINHOOK RD & SURREY ST",
+    "city": "LAFAYETTE",
+    "time": "05/15/2019 - 1:38 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2236,
+    "longitude": -91.99821
+  },
+  {
+    "address": "4415 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "05/15/2019 - 1:38 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15808,
+    "longitude": -92.04919
+  },
+  {
+    "address": "103 I10 EASTBOUND MM103A HW",
+    "city": "LAFAYETTE",
+    "time": "05/15/2019 - 1:38 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
+    "address": "2901 E MILTON AV",
+    "city": "YOUNGSVILLE",
+    "time": "05/15/2019 - 1:38 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.1107,
+    "longitude": -92.01351
+  },
+  {
     "address": "CAMERON ST & APOLLO RD",
     "city": "SCOTT",
     "time": "05/15/2019 - 1:37 PM",
