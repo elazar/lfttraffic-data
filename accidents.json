@@ -1,5 +1,21 @@
 [
   {
+    "address": "603 AVENUE B",
+    "city": "YOUNGSVILLE",
+    "time": "05/15/2019 - 2:34 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.09519,
+    "longitude": -91.99765
+  },
+  {
+    "address": "AMBASSADOR CAFFERY PW & BONIN RD",
+    "city": "YOUNGSVILLE",
+    "time": "05/15/2019 - 2:33 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.13528,
+    "longitude": -92.00763
+  },
+  {
     "address": "US 90 EAST HW & LA 182 HW",
     "city": "BROUSSARD",
     "time": "05/15/2019 - 2:31 PM",
