@@ -16,28 +16,12 @@
     "longitude": -91.99578
   },
   {
-    "address": "5700 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "05/15/2019 - 3:05 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1755,
-    "longitude": -92.07745
-  },
-  {
     "address": "1701 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "05/15/2019 - 2:55 PM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.25216,
     "longitude": -92.03842
-  },
-  {
-    "address": "N UNIVERSITY AV & I10 HW",
-    "city": "LAFAYETTE",
-    "time": "05/15/2019 - 2:55 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.24052,
-    "longitude": -92.03242
   },
   {
     "address": "1522 CARMEL DR",
