@@ -38,21 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24669,
     "longitude": -92.02722
-  },
-  {
-    "address": "3001 LOUISIANA AV",
-    "city": "LAFAYETTE",
-    "time": "05/15/2019 - 4:13 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2623,
-    "longitude": -91.99535
-  },
-  {
-    "address": "1701 N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "05/15/2019 - 2:55 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.25216,
-    "longitude": -92.03842
   }
 ]
