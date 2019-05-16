@@ -1,5 +1,13 @@
 [
   {
+    "address": "NW EVANGELINE TW & BELLOT ST",
+    "city": "LAFAYETTE",
+    "time": "05/16/2019 - 4:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23646,
+    "longitude": -92.01352
+  },
+  {
     "address": "203 GUSTAVE ST",
     "city": "BROUSSARD",
     "time": "05/16/2019 - 4:09 PM",
