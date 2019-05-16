@@ -1,5 +1,21 @@
 [
   {
+    "address": "201 MEADOW FARM RD",
+    "city": "LAFAYETTE",
+    "time": "05/16/2019 - 6:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1561931,
+    "longitude": -92.0443186
+  },
+  {
+    "address": "4511 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "05/16/2019 - 6:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1561189,
+    "longitude": -92.0476979
+  },
+  {
     "address": "1601 VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "05/16/2019 - 5:46 PM",
