@@ -1,5 +1,13 @@
 [
   {
+    "address": "400 RUE SCHOLASTIQUE",
+    "city": "LAFAYETTE",
+    "time": "05/16/2019 - 2:53 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.28848,
+    "longitude": -92.09653
+  },
+  {
     "address": "1522 CARMEL DR",
     "city": "LAFAYETTE",
     "time": "05/16/2019 - 2:52 PM",
@@ -30,14 +38,6 @@
     "due_to": "Traffic Control",
     "latitude": 30.09519,
     "longitude": -91.99765
-  },
-  {
-    "address": "100 LONGPOINTE RD",
-    "city": "LAFAYETTE",
-    "time": "05/16/2019 - 2:32 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1,
-    "longitude": -92.03214
   },
   {
     "address": "BAYOU TORTUE RD & W GREENHILL CL",
