@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 E SECOND ST",
+    "city": "LAFAYETTE",
+    "time": "05/16/2019 - 1:21 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23024,
+    "longitude": -92.01315
+  },
+  {
     "address": "KALISTE SALOOM RD & CAMELLIA BL",
     "city": "LAFAYETTE",
     "time": "05/16/2019 - 1:15 PM",
