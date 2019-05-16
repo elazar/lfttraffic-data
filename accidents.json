@@ -1,5 +1,13 @@
 [
   {
+    "address": "N MORGAN AV & E FIRST ST",
+    "city": "BROUSSARD",
+    "time": "05/16/2019 - 10:16 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.1508,
+    "longitude": -91.96249
+  },
+  {
     "address": "W RAILROAD ST & N MORGAN AV",
     "city": "BROUSSARD",
     "time": "05/16/2019 - 10:11 AM",
