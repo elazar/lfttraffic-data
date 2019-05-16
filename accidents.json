@@ -32,27 +32,11 @@
     "longitude": -92.0305579
   },
   {
-    "address": "AMBASSADOR CAFFERY PW & W WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "05/16/2019 - 3:39 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24324,
-    "longitude": -92.06626
-  },
-  {
     "address": "W WILLOW ST & N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "05/16/2019 - 3:37 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.24448,
     "longitude": -92.03275
-  },
-  {
-    "address": "301 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "05/16/2019 - 2:56 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24142,
-    "longitude": -92.06551
   }
 ]
