@@ -1,5 +1,13 @@
 [
   {
+    "address": "3221 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "05/16/2019 - 5:04 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.266508,
+    "longitude": -91.99261
+  },
+  {
     "address": "500 RIDGE RD",
     "city": "LAFAYETTE",
     "time": "05/16/2019 - 4:47 PM",
