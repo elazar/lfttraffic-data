@@ -1,5 +1,13 @@
 [
   {
+    "address": "301 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "05/16/2019 - 2:56 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24142,
+    "longitude": -92.06551
+  },
+  {
     "address": "400 RUE SCHOLASTIQUE",
     "city": "LAFAYETTE",
     "time": "05/16/2019 - 2:53 PM",
