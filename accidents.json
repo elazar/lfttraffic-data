@@ -1,5 +1,13 @@
 [
   {
+    "address": "W RAILROAD ST & N MORGAN AV",
+    "city": "BROUSSARD",
+    "time": "05/16/2019 - 10:11 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15008,
+    "longitude": -91.96331
+  },
+  {
     "address": "US 90 EAST HW & LA 182 HW",
     "city": "BROUSSARD",
     "time": "05/16/2019 - 09:47 AM",
