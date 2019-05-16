@@ -1,5 +1,13 @@
 [
   {
+    "address": "603 AVENUE B",
+    "city": "YOUNGSVILLE",
+    "time": "05/16/2019 - 06:50 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.09519,
+    "longitude": -91.99765
+  },
+  {
     "address": "I49 NORTHBOUND HW & I10 OVERPASS MM103 HW",
     "city": "LAFAYETTE",
     "time": "05/16/2019 - 06:45 AM",
