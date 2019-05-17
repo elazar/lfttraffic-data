@@ -1,5 +1,13 @@
 [
   {
+    "address": "3211 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "05/17/2019 - 2:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26475,
+    "longitude": -91.99379
+  },
+  {
     "address": "I10 WESTBOUND MM102 HW & N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "05/17/2019 - 2:09 PM",
