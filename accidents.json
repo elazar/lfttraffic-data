@@ -1,5 +1,13 @@
 [
   {
+    "address": "NW EVANGELINE TW & W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "05/17/2019 - 5:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24481,
+    "longitude": -92.01456
+  },
+  {
     "address": "GENERAL MOUTON AV & W TAFT ST",
     "city": "LAFAYETTE",
     "time": "05/17/2019 - 5:14 PM",
@@ -30,6 +38,14 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24822,
     "longitude": -92.00593
+  },
+  {
+    "address": "4408 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "05/17/2019 - 3:48 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15764,
+    "longitude": -92.05034
   },
   {
     "address": "200 DOUCET RD",
