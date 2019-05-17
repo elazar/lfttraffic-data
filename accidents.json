@@ -1,5 +1,13 @@
 [
   {
+    "address": "1300 E PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "05/17/2019 - 6:05 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27138,
+    "longitude": -91.99379
+  },
+  {
     "address": "W BAYOU PW & S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "05/17/2019 - 6:01 PM",
