@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "05/17/2019 - 3:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17808,
+    "longitude": -92.07452
+  },
+  {
     "address": "N UNIVERSITY AV & I10 HW",
     "city": "LAFAYETTE",
     "time": "05/17/2019 - 3:37 PM",
@@ -70,13 +78,5 @@
     "due_to": "Traffic Control",
     "latitude": 30.09519,
     "longitude": -91.99765
-  },
-  {
-    "address": "312 ALMONASTER RD",
-    "city": "YOUNGSVILLE",
-    "time": "05/17/2019 - 2:26 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.0875,
-    "longitude": -91.96849
   }
 ]
