@@ -78,13 +78,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.0875,
     "longitude": -91.96849
-  },
-  {
-    "address": "2901 E MILTON AV",
-    "city": "YOUNGSVILLE",
-    "time": "05/17/2019 - 12:27 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.1107,
-    "longitude": -92.01351
   }
 ]
