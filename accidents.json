@@ -1,5 +1,13 @@
 [
   {
+    "address": "4400 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "05/16/2019 - 9:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19409,
+    "longitude": -92.05855
+  },
+  {
     "address": "1200 GOLDEN GRAIN RD",
     "city": "LAFAYETTE",
     "time": "05/16/2019 - 8:58 PM",
