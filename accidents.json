@@ -1,5 +1,13 @@
 [
   {
+    "address": "1508 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "05/17/2019 - 6:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19689,
+    "longitude": -92.01675
+  },
+  {
     "address": "KALISTE SALOOM RD & RIVER RANCH BL",
     "city": "LAFAYETTE",
     "time": "05/17/2019 - 6:13 PM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.08142,
     "longitude": -91.99061
-  },
-  {
-    "address": "YOUNGSVILLE HW & NECTAR HAVEN",
-    "city": "LAFAYETTE",
-    "time": "05/17/2019 - 5:52 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1491,
-    "longitude": -91.98862
   },
   {
     "address": "418 MAGNOLIA KNEE DR",
