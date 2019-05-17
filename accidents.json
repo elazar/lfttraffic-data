@@ -1,5 +1,13 @@
 [
   {
+    "address": "400 S PIERCE ST",
+    "city": "LAFAYETTE",
+    "time": "05/16/2019 - 7:48 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2305088,
+    "longitude": -92.0189559
+  },
+  {
     "address": "3205 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "05/16/2019 - 7:45 PM",
