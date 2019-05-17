@@ -1,5 +1,13 @@
 [
   {
+    "address": "1522 CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "05/17/2019 - 07:26 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.23215,
+    "longitude": -91.98358
+  },
+  {
     "address": "600 CHURCH ST",
     "city": "YOUNGSVILLE",
     "time": "05/17/2019 - 07:17 AM",
@@ -22,13 +30,5 @@
     "due_to": "Traffic Control",
     "latitude": 30.09519,
     "longitude": -91.99765
-  },
-  {
-    "address": "800 NW EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "05/17/2019 - 06:45 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23506,
-    "longitude": -92.01358
   }
 ]
