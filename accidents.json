@@ -8,27 +8,11 @@
     "longitude": -92.0699277
   },
   {
-    "address": "W CONVENT ST & ST JOHN ST",
-    "city": "LAFAYETTE",
-    "time": "05/17/2019 - 09:36 AM",
-    "due_to": "Hazardous Material",
-    "latitude": 30.22171,
-    "longitude": -92.02285
-  },
-  {
     "address": "200 FEU FOLLET RD",
     "city": "LAFAYETTE",
     "time": "05/17/2019 - 09:27 AM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.18077,
     "longitude": -92.01613
-  },
-  {
-    "address": "900 MILLS ST",
-    "city": "SCOTT",
-    "time": "05/17/2019 - 07:58 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2501003,
-    "longitude": -92.0909651
   }
 ]
