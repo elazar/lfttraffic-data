@@ -1,5 +1,13 @@
 [
   {
+    "address": "S COLLEGE RD & W BAYOU PW",
+    "city": "LAFAYETTE",
+    "time": "05/17/2019 - 3:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19915,
+    "longitude": -92.02663
+  },
+  {
     "address": "3226 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/17/2019 - 3:28 PM",
@@ -62,14 +70,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.0875,
     "longitude": -91.96849
-  },
-  {
-    "address": "1750 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "05/17/2019 - 2:04 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2126138,
-    "longitude": -92.0250663
   },
   {
     "address": "2901 E MILTON AV",
