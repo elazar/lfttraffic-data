@@ -1,5 +1,21 @@
 [
   {
+    "address": "CAMELLIA BL & KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "05/17/2019 - 2:29 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16717,
+    "longitude": -92.03642
+  },
+  {
+    "address": "1700 W ST MARY BL",
+    "city": "LAFAYETTE",
+    "time": "05/17/2019 - 2:29 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.22538,
+    "longitude": -92.03216
+  },
+  {
     "address": "312 ALMONASTER RD",
     "city": "YOUNGSVILLE",
     "time": "05/17/2019 - 2:26 PM",
