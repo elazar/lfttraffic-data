@@ -1,5 +1,13 @@
 [
   {
+    "address": "1200 GOLDEN GRAIN RD",
+    "city": "LAFAYETTE",
+    "time": "05/16/2019 - 8:58 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1593649,
+    "longitude": -92.177174
+  },
+  {
     "address": "MUDD AV & LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "05/16/2019 - 8:39 PM",
