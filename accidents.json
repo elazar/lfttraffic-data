@@ -1,9 +1,17 @@
 [
   {
+    "address": "2490 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "05/17/2019 - 6:39 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21184,
+    "longitude": -92.05174
+  },
+  {
     "address": "213 NORINE ST",
     "city": "LAFAYETTE",
     "time": "05/17/2019 - 6:37 PM",
-    "due_to": "Incoming Call",
+    "due_to": "Residential Fire",
     "latitude": 30.22977,
     "longitude": -92.0586
   },
@@ -46,13 +54,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.30927,
     "longitude": -92.08288
-  },
-  {
-    "address": "1700 N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "05/17/2019 - 5:35 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.25271,
-    "longitude": -92.03633
   }
 ]
