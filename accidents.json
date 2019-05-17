@@ -1,5 +1,13 @@
 [
   {
+    "address": "900 E BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "05/17/2019 - 09:37 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1390533,
+    "longitude": -92.0699277
+  },
+  {
     "address": "W CONVENT ST & ST JOHN ST",
     "city": "LAFAYETTE",
     "time": "05/17/2019 - 09:36 AM",
