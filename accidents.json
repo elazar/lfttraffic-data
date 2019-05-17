@@ -32,28 +32,12 @@
     "longitude": -92.05987
   },
   {
-    "address": "3600 NW EVANGELINE TW",
-    "city": "CARENCRO",
-    "time": "05/17/2019 - 1:37 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.3107346,
-    "longitude": -92.0307598
-  },
-  {
     "address": "W WILLOW ST & N PIERCE ST",
     "city": "LAFAYETTE",
     "time": "05/17/2019 - 1:09 PM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.24519,
     "longitude": -92.01775
-  },
-  {
-    "address": "100 TARGET LP",
-    "city": "LAFAYETTE",
-    "time": "05/17/2019 - 12:52 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.1796994,
-    "longitude": -92.075185
   },
   {
     "address": "2901 E MILTON AV",
