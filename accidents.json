@@ -1,5 +1,13 @@
 [
   {
+    "address": "1515 E UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "05/17/2019 - 12:12 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.20908,
+    "longitude": -92.00101
+  },
+  {
     "address": "E PINHOOK RD & GUIDRY ST",
     "city": "LAFAYETTE",
     "time": "05/16/2019 - 7:28 PM",
