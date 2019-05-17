@@ -1,5 +1,13 @@
 [
   {
+    "address": "501 STEWART ST",
+    "city": "LAFAYETTE",
+    "time": "05/17/2019 - 4:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21897,
+    "longitude": -92.01186
+  },
+  {
     "address": "MOSS ST & MATTHIEU ST",
     "city": "LAFAYETTE",
     "time": "05/17/2019 - 3:53 PM",
