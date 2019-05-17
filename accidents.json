@@ -54,13 +54,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.25271,
     "longitude": -92.03633
-  },
-  {
-    "address": "605 FIFTH ST",
-    "city": "DUSON",
-    "time": "05/17/2019 - 4:23 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.2392,
-    "longitude": -92.17941
   }
 ]
