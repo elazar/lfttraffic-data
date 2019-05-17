@@ -1,5 +1,13 @@
 [
   {
+    "address": "1700 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "05/17/2019 - 5:35 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25271,
+    "longitude": -92.03633
+  },
+  {
     "address": "MOSS ST & CLAUDIA DR",
     "city": "LAFAYETTE",
     "time": "05/17/2019 - 5:27 PM",
@@ -46,14 +54,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24822,
     "longitude": -92.00593
-  },
-  {
-    "address": "4408 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "05/17/2019 - 3:48 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15764,
-    "longitude": -92.05034
   },
   {
     "address": "112 COBB RD",
