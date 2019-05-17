@@ -1,5 +1,21 @@
 [
   {
+    "address": "GORDON ST & E UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "05/17/2019 - 07:50 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21625,
+    "longitude": -92.0176
+  },
+  {
+    "address": "139 E BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "05/17/2019 - 07:50 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.14979,
+    "longitude": -92.09131
+  },
+  {
     "address": "105 ST NAZAIRE RD",
     "city": "BROUSSARD",
     "time": "05/17/2019 - 07:48 AM",
