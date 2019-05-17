@@ -1,5 +1,13 @@
 [
   {
+    "address": "227 HELLEN ST",
+    "city": "LAFAYETTE",
+    "time": "05/17/2019 - 01:57 AM",
+    "due_to": "Hazardous Situation",
+    "latitude": 30.2371,
+    "longitude": -92.02647
+  },
+  {
     "address": "3900 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "05/17/2019 - 12:52 AM",
