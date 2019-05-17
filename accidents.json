@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "05/17/2019 - 1:44 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23236,
+    "longitude": -92.03238
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "05/17/2019 - 1:40 PM",
