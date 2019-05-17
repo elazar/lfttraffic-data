@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 THOROUGHBRED DR",
+    "city": "CARENCRO",
+    "time": "05/16/2019 - 7:01 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.3056853,
+    "longitude": -92.0219385
+  },
+  {
     "address": "3535 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/16/2019 - 6:56 PM",
