@@ -8,14 +8,6 @@
     "longitude": -92.06941
   },
   {
-    "address": "SOUTHCITY PW & ROBLEY DR",
-    "city": "LAFAYETTE",
-    "time": "05/17/2019 - 6:45 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.16161,
-    "longitude": -92.07584
-  },
-  {
     "address": "2490 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "05/17/2019 - 6:39 PM",
@@ -38,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1687,
     "longitude": -92.03433
-  },
-  {
-    "address": "1300 E PONT DES MOUTON RD",
-    "city": "LAFAYETTE",
-    "time": "05/17/2019 - 6:05 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.27138,
-    "longitude": -91.99379
   },
   {
     "address": "418 MAGNOLIA KNEE DR",
