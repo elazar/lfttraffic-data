@@ -1,5 +1,13 @@
 [
   {
+    "address": "W WILLOW ST & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "05/16/2019 - 7:15 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.24448,
+    "longitude": -92.03275
+  },
+  {
     "address": "3535 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/16/2019 - 6:56 PM",
