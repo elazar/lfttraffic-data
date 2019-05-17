@@ -1,5 +1,13 @@
 [
   {
+    "address": "3205 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "05/16/2019 - 7:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26515,
+    "longitude": -91.99301
+  },
+  {
     "address": "E PINHOOK RD & GUIDRY ST",
     "city": "LAFAYETTE",
     "time": "05/16/2019 - 7:28 PM",
