@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "05/18/2019 - 4:13 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.23236,
+    "longitude": -92.03238
+  },
+  {
     "address": "4000 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/18/2019 - 3:51 PM",
