@@ -1,19 +1,19 @@
 [
   {
+    "address": "SURREY ST & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "05/18/2019 - 1:40 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22823,
+    "longitude": -92.00461
+  },
+  {
     "address": "N UNIVERSITY AV & DUGAS RD",
     "city": "LAFAYETTE",
     "time": "05/18/2019 - 1:29 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.28322,
     "longitude": -92.05039
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & VEROT SCHOOL RD",
-    "city": "LAFAYETTE",
-    "time": "05/18/2019 - 1:21 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.14589,
-    "longitude": -92.03252
   },
   {
     "address": "W PINHOOK RD & E UNIVERSITY AV",
