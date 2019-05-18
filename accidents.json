@@ -1,19 +1,19 @@
 [
   {
+    "address": "304 LOIRE AV",
+    "city": "LAFAYETTE",
+    "time": "05/17/2019 - 8:20 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.29418,
+    "longitude": -92.02764
+  },
+  {
     "address": "1373 S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "05/17/2019 - 8:19 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.20178,
     "longitude": -92.02075
-  },
-  {
-    "address": "MONTPELLIER BL & LOIRE AV",
-    "city": "LAFAYETTE",
-    "time": "05/17/2019 - 8:19 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.29441,
-    "longitude": -92.02804
   },
   {
     "address": "W BAYOU PW & ROSELAWN BL",
