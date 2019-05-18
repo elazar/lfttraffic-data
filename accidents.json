@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1873,
     "longitude": -92.07797
-  },
-  {
-    "address": "2500 CAMERON ST",
-    "city": "LAFAYETTE",
-    "time": "05/18/2019 - 11:07 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.23273,
-    "longitude": -92.04711
   }
 ]
