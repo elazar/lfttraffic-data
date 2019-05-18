@@ -22,21 +22,5 @@
     "due_to": "Residential Fire",
     "latitude": 30.22977,
     "longitude": -92.0586
-  },
-  {
-    "address": "1508 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "05/17/2019 - 6:27 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19689,
-    "longitude": -92.01675
-  },
-  {
-    "address": "418 MAGNOLIA KNEE DR",
-    "city": "LAFAYETTE",
-    "time": "05/17/2019 - 5:49 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.30927,
-    "longitude": -92.08288
   }
 ]
