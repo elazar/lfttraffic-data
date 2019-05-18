@@ -1,5 +1,13 @@
 [
   {
+    "address": "ST CHARLES ST & TWELFTH ST",
+    "city": "LAFAYETTE",
+    "time": "05/18/2019 - 04:07 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.22448,
+    "longitude": -92.00205
+  },
+  {
     "address": "300 W GLORIA SWITCH RD",
     "city": "CARENCRO",
     "time": "05/18/2019 - 03:20 AM",
