@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & CAJUNDOME BL",
+    "city": "LAFAYETTE",
+    "time": "05/18/2019 - 12:38 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21871,
+    "longitude": -92.04139
+  },
+  {
     "address": "3142 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/18/2019 - 12:25 PM",
@@ -8,28 +16,12 @@
     "longitude": -92.07797
   },
   {
-    "address": "LOUISIANA AV & CARMEL DR",
-    "city": "LAFAYETTE",
-    "time": "05/18/2019 - 12:21 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.23457,
-    "longitude": -92.00231
-  },
-  {
     "address": "3808 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/18/2019 - 11:49 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.16972,
     "longitude": -92.0652
-  },
-  {
-    "address": "AUSTRIA RD & I10 MM93 HW",
-    "city": "DUSON",
-    "time": "05/18/2019 - 11:35 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.24221,
-    "longitude": -92.19304
   },
   {
     "address": "2500 CAMERON ST",
