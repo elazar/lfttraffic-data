@@ -1,5 +1,13 @@
 [
   {
+    "address": "400 GRIFFIN RD",
+    "city": "YOUNGSVILLE",
+    "time": "05/18/2019 - 11:32 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1093722,
+    "longitude": -91.9869913
+  },
+  {
     "address": "2600 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "05/18/2019 - 11:29 AM",
