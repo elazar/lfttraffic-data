@@ -1,5 +1,13 @@
 [
   {
+    "address": "1622 GUILLIOT RD",
+    "city": "LAFAYETTE",
+    "time": "05/19/2019 - 07:56 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.05477,
+    "longitude": -91.9918
+  },
+  {
     "address": "158 JOHN WAYNE DR",
     "city": "LAFAYETTE",
     "time": "05/19/2019 - 07:54 AM",
