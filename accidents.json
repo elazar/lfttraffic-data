@@ -1,5 +1,13 @@
 [
   {
+    "address": "801 W ALEXANDER ST",
+    "city": "LAFAYETTE",
+    "time": "05/19/2019 - 6:45 PM",
+    "due_to": "Hazard",
+    "latitude": 30.25574,
+    "longitude": -92.0122
+  },
+  {
     "address": "100 PENNINGTON DR",
     "city": "LAFAYETTE",
     "time": "05/19/2019 - 6:34 PM",
