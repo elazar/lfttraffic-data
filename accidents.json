@@ -8,14 +8,6 @@
     "longitude": -92.06754
   },
   {
-    "address": "PANDORA ST & PLAZA VILLAGE DR",
-    "city": "LAFAYETTE",
-    "time": "05/19/2019 - 08:57 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.20283,
-    "longitude": -92.06703
-  },
-  {
     "address": "110 THEO ST",
     "city": "LAFAYETTE",
     "time": "05/19/2019 - 08:14 AM",
@@ -38,13 +30,5 @@
     "due_to": "Road Hazard",
     "latitude": 30.300904,
     "longitude": -92.0094865
-  },
-  {
-    "address": "LEISURE LN & MARIE ANTOINETTE ST",
-    "city": "LAFAYETTE",
-    "time": "05/19/2019 - 07:27 AM",
-    "due_to": "Hazardous Material",
-    "latitude": 30.21268,
-    "longitude": -92.06418
   }
 ]
