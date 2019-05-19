@@ -1,5 +1,21 @@
 [
   {
+    "address": "1600 CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "05/19/2019 - 07:20 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2324948,
+    "longitude": -92.0325255
+  },
+  {
+    "address": "152 S BEADLE RD (NE)",
+    "city": "LAFAYETTE",
+    "time": "05/19/2019 - 07:20 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.17697,
+    "longitude": -92.01988
+  },
+  {
     "address": "CAMERON ST & N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "05/19/2019 - 07:18 AM",
@@ -30,14 +46,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.3598312,
     "longitude": -92.0391797
-  },
-  {
-    "address": "113 GARDEN OAKS AV",
-    "city": "YOUNGSVILLE",
-    "time": "05/19/2019 - 07:14 AM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": null,
-    "longitude": null
   },
   {
     "address": "BEAU BASSIN BRIDGE & N WILDERNESS TL",
