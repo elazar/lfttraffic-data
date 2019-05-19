@@ -1,27 +1,11 @@
 [
   {
-    "address": "206 BUFFALO RN",
-    "city": "LAFAYETTE",
-    "time": "05/19/2019 - 11:30 AM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.13406,
-    "longitude": -92.08054
-  },
-  {
     "address": "SE EVANGELINE TW & E PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "05/19/2019 - 11:26 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.21749,
     "longitude": -92.00495
-  },
-  {
-    "address": "SE EVANGELINE TW & LOUISIANA AV",
-    "city": "LAFAYETTE",
-    "time": "05/19/2019 - 11:22 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22488,
-    "longitude": -92.00947
   },
   {
     "address": "SE EVANGELINE TW & LOUISIANA AV",
