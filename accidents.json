@@ -1,5 +1,13 @@
 [
   {
+    "address": "110 THEO ST",
+    "city": "LAFAYETTE",
+    "time": "05/19/2019 - 08:14 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19547,
+    "longitude": -92.00218
+  },
+  {
     "address": "1300 S BERNARD RD",
     "city": "BROUSSARD",
     "time": "05/19/2019 - 08:11 AM",
@@ -102,14 +110,6 @@
     "due_to": "Hazardous Material",
     "latitude": 30.21268,
     "longitude": -92.06418
-  },
-  {
-    "address": "1600 CAMERON ST",
-    "city": "LAFAYETTE",
-    "time": "05/19/2019 - 07:20 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2324948,
-    "longitude": -92.0325255
   },
   {
     "address": "CAMERON ST & N UNIVERSITY AV",
