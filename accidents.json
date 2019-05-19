@@ -1,13 +1,5 @@
 [
   {
-    "address": "1400 ST JOHN ST",
-    "city": "LAFAYETTE",
-    "time": "05/19/2019 - 08:36 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.2181976,
-    "longitude": -92.0248865
-  },
-  {
     "address": "110 THEO ST",
     "city": "LAFAYETTE",
     "time": "05/19/2019 - 08:14 AM",
@@ -30,14 +22,6 @@
     "due_to": "Fire Investigation",
     "latitude": 30.23115,
     "longitude": -92.00799
-  },
-  {
-    "address": "158 JOHN WAYNE DR",
-    "city": "LAFAYETTE",
-    "time": "05/19/2019 - 07:54 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.17577,
-    "longitude": -92.02298
   },
   {
     "address": "5000 MOSS ST",
