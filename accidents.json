@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 CENTER ST",
+    "city": "LAFAYETTE",
+    "time": "05/19/2019 - 07:40 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2399947,
+    "longitude": -92.0000288
+  },
+  {
     "address": "LOUISIANA AV & SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "05/19/2019 - 07:39 AM",
@@ -30,14 +38,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.14301,
     "longitude": -92.0795
-  },
-  {
-    "address": "103 BEGNAUD DR",
-    "city": "LAFAYETTE",
-    "time": "05/19/2019 - 07:29 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.24536,
-    "longitude": -91.99588
   },
   {
     "address": "LEISURE LN & MARIE ANTOINETTE ST",
