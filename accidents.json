@@ -1,5 +1,13 @@
 [
   {
+    "address": "4117 N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "05/19/2019 - 09:55 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.31337,
+    "longitude": -92.05022
+  },
+  {
     "address": "SE EVANGELINE TW & SURREY ST",
     "city": "LAFAYETTE",
     "time": "05/19/2019 - 09:52 AM",
