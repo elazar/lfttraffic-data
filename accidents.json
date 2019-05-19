@@ -1,19 +1,19 @@
 [
   {
+    "address": "UNIVERSITY/JOHNSTON,",
+    "city": "Lafayette",
+    "time": "05/19/2019 - 08:20 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.20293,
+    "longitude": -92.05048
+  },
+  {
     "address": "110 THEO ST",
     "city": "LAFAYETTE",
     "time": "05/19/2019 - 08:14 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.19547,
     "longitude": -92.00218
-  },
-  {
-    "address": "1300 S BERNARD RD",
-    "city": "BROUSSARD",
-    "time": "05/19/2019 - 08:11 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.1515044,
-    "longitude": -91.9780123
   },
   {
     "address": "315 RUE DU BELIER",
