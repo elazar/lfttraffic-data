@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & S DOMINGUE AV",
+    "city": "LAFAYETTE",
+    "time": "05/19/2019 - 12:26 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.19586,
+    "longitude": -92.08353
+  },
+  {
     "address": "207 ACORN DR",
     "city": "LAFAYETTE",
     "time": "05/19/2019 - 12:18 PM",
