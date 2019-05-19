@@ -1,5 +1,13 @@
 [
   {
+    "address": "5520 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "05/19/2019 - 08:10 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.31529,
+    "longitude": -92.00548
+  },
+  {
     "address": "315 RUE DU BELIER",
     "city": "SCOTT",
     "time": "05/19/2019 - 08:05 AM",
