@@ -1,5 +1,13 @@
 [
   {
+    "address": "SURREY ST & SE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "05/19/2019 - 12:03 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.2091,
+    "longitude": -91.99986
+  },
+  {
     "address": "NW EVANGELINE TW & SAMPSON AV",
     "city": "LAFAYETTE",
     "time": "05/19/2019 - 11:58 AM",
