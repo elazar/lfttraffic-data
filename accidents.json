@@ -1,11 +1,11 @@
 [
   {
-    "address": "E SIMCOE ST & PARK AV",
+    "address": "113 PARK AV",
     "city": "LAFAYETTE",
     "time": "05/19/2019 - 07:56 AM",
-    "due_to": "Incoming Call",
-    "latitude": 30.23058,
-    "longitude": -92.00783
+    "due_to": "Fire Investigation",
+    "latitude": 30.23115,
+    "longitude": -92.00799
   },
   {
     "address": "1622 GUILLIOT RD",
@@ -102,14 +102,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.23236,
     "longitude": -92.03238
-  },
-  {
-    "address": "300 BRASSEAUX RD",
-    "city": "LAFAYETTE",
-    "time": "05/19/2019 - 07:15 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.3598312,
-    "longitude": -92.0391797
   },
   {
     "address": "1200 BEAU BASSIN RD",
