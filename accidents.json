@@ -1,5 +1,13 @@
 [
   {
+    "address": "3924 NE EVANGELINE TW",
+    "city": "CARENCRO",
+    "time": "05/19/2019 - 08:25 AM",
+    "due_to": "Commercial Fire",
+    "latitude": 30.32236,
+    "longitude": -92.03201
+  },
+  {
     "address": "110 THEO ST",
     "city": "LAFAYETTE",
     "time": "05/19/2019 - 08:14 AM",
@@ -94,14 +102,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.3161844,
     "longitude": -91.9960369
-  },
-  {
-    "address": "5101 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "05/19/2019 - 07:09 AM",
-    "due_to": "Commercial Fire",
-    "latitude": 30.1460345,
-    "longitude": -92.0326581
   },
   {
     "address": "131 HEBERT RD",
