@@ -7,13 +7,12 @@
     "latitude": 30.13068,
     "longitude": -91.93486
   },
-  null,
   {
-    "address": "3310 AMBASSADOR CAFFERY PW",
+    "address": "301 W CONGRESS ST",
     "city": "LAFAYETTE",
-    "time": "05/19/2019 - 2:02 PM",
+    "time": "05/19/2019 - 2:26 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.18117,
-    "longitude": -92.07512
+    "latitude": 30.22645,
+    "longitude": -92.01961
   }
 ]
