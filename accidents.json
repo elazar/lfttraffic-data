@@ -1,5 +1,21 @@
 [
   {
+    "address": "818 OLD SPANISH TR",
+    "city": "Lafayette",
+    "time": "05/19/2019 - 07:45 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23243,
+    "longitude": -92.09866
+  },
+  {
+    "address": "505 BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "05/19/2019 - 07:45 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21058,
+    "longitude": -92.04611
+  },
+  {
     "address": "5000 MOSS ST",
     "city": "LAFAYETTE",
     "time": "05/19/2019 - 07:38 AM",
