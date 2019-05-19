@@ -1,5 +1,13 @@
 [
   {
+    "address": "ROGER RD & HEIDE CL",
+    "city": "LAFAYETTE",
+    "time": "05/19/2019 - 12:59 PM",
+    "due_to": "Hazard",
+    "latitude": 30.26845,
+    "longitude": -92.08278
+  },
+  {
     "address": "NW EVANGELINE TW & GOLDMAN ST",
     "city": "LAFAYETTE",
     "time": "05/19/2019 - 11:55 AM",
