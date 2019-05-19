@@ -1,5 +1,13 @@
 [
   {
+    "address": "158 JOHN WAYNE DR",
+    "city": "LAFAYETTE",
+    "time": "05/19/2019 - 07:54 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.17577,
+    "longitude": -92.02298
+  },
+  {
     "address": "W UNIVERSITY AV & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "05/19/2019 - 07:53 AM",
@@ -88,12 +96,12 @@
     "longitude": -92.0391797
   },
   {
-    "address": "BEAU BASSIN BRIDGE & N WILDERNESS TL",
+    "address": "1200 BEAU BASSIN RD",
     "city": "LAFAYETTE",
     "time": "05/19/2019 - 07:13 AM",
     "due_to": "Road Hazard",
-    "latitude": 30.30944,
-    "longitude": -91.98912
+    "latitude": 30.3161844,
+    "longitude": -91.9960369
   },
   {
     "address": "5101 AMBASSADOR CAFFERY PW",
