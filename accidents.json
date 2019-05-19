@@ -1,5 +1,21 @@
 [
   {
+    "address": "CARMEL DR & CANAL ST",
+    "city": "LAFAYETTE",
+    "time": "05/19/2019 - 07:15 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2325,
+    "longitude": -91.98533
+  },
+  {
+    "address": "300 BRASSEAUX RD",
+    "city": "LAFAYETTE",
+    "time": "05/19/2019 - 07:15 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.3598312,
+    "longitude": -92.0391797
+  },
+  {
     "address": "113 GARDEN OAKS AV",
     "city": "YOUNGSVILLE",
     "time": "05/19/2019 - 07:14 AM",
