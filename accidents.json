@@ -1,5 +1,21 @@
 [
   {
+    "address": "W PINHOOK RD & E ST MARY BL",
+    "city": "LAFAYETTE",
+    "time": "05/19/2019 - 09:39 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.20703,
+    "longitude": -92.01181
+  },
+  {
+    "address": "SE EVANGELINE TW & SURREY ST",
+    "city": "LAFAYETTE",
+    "time": "05/19/2019 - 09:39 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.2091,
+    "longitude": -91.99986
+  },
+  {
     "address": "E BROUSSARD RD & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "05/19/2019 - 09:23 AM",
