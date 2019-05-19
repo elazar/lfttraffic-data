@@ -1,5 +1,21 @@
 [
   {
+    "address": "SE EVANGELINE TW & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "05/19/2019 - 07:37 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.22488,
+    "longitude": -92.00947
+  },
+  {
+    "address": "E BROUSSARD RD & ROBLEY DR",
+    "city": "LAFAYETTE",
+    "time": "05/19/2019 - 07:37 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.14301,
+    "longitude": -92.0795
+  },
+  {
     "address": "103 BEGNAUD DR",
     "city": "LAFAYETTE",
     "time": "05/19/2019 - 07:29 AM",
