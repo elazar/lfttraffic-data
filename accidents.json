@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21029,
     "longitude": -92.07578
-  },
-  {
-    "address": "ST NAZAIRE RD & LA 96 HW",
-    "city": "BROUSSARD",
-    "time": "05/19/2019 - 2:39 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.13068,
-    "longitude": -91.93486
   }
 ]
