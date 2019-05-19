@@ -1,5 +1,13 @@
 [
   {
+    "address": "1400 ST JOHN ST",
+    "city": "LAFAYETTE",
+    "time": "05/19/2019 - 08:36 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.2181976,
+    "longitude": -92.0248865
+  },
+  {
     "address": "3924 NE EVANGELINE TW",
     "city": "CARENCRO",
     "time": "05/19/2019 - 08:25 AM",
