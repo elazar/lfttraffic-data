@@ -1,13 +1,5 @@
 [
   {
-    "address": "5000 MOSS ST",
-    "city": "LAFAYETTE",
-    "time": "05/19/2019 - 09:02 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.300904,
-    "longitude": -92.0094865
-  },
-  {
     "address": "55 BNSF RAILROAD CG",
     "city": "DUSON",
     "time": "05/19/2019 - 09:01 AM",
@@ -48,14 +40,6 @@
     "longitude": -91.99424
   },
   {
-    "address": "113 PARK AV",
-    "city": "LAFAYETTE",
-    "time": "05/19/2019 - 07:56 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.23115,
-    "longitude": -92.00799
-  },
-  {
     "address": "5000 MOSS ST",
     "city": "LAFAYETTE",
     "time": "05/19/2019 - 07:38 AM",
@@ -78,13 +62,5 @@
     "due_to": "Hazardous Material",
     "latitude": 30.21268,
     "longitude": -92.06418
-  },
-  {
-    "address": "1200 BEAU BASSIN RD",
-    "city": "LAFAYETTE",
-    "time": "05/19/2019 - 07:13 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.3161844,
-    "longitude": -91.9960369
   }
 ]
