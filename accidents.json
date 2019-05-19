@@ -1,5 +1,13 @@
 [
   {
+    "address": "SE EVANGELINE TW & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "05/19/2019 - 08:30 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.22488,
+    "longitude": -92.00947
+  },
+  {
     "address": "3924 NE EVANGELINE TW",
     "city": "CARENCRO",
     "time": "05/19/2019 - 08:25 AM",
