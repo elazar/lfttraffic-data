@@ -1,5 +1,13 @@
 [
   {
+    "address": "SW EVANGELINE TW & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "05/19/2019 - 09:16 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.22457,
+    "longitude": -92.01033
+  },
+  {
     "address": "55 BNSF RAILROAD CG",
     "city": "DUSON",
     "time": "05/19/2019 - 09:01 AM",
