@@ -1,5 +1,13 @@
 [
   {
+    "address": "210 GUILBEAU RD",
+    "city": "LAFAYETTE",
+    "time": "05/19/2019 - 3:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19564,
+    "longitude": -92.06181
+  },
+  {
     "address": "3600 NE EVANGELINE TW",
     "city": "CARENCRO",
     "time": "05/19/2019 - 3:15 PM",
