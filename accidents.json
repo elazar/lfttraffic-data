@@ -1,5 +1,13 @@
 [
   {
+    "address": "5000 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "05/19/2019 - 07:38 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.300904,
+    "longitude": -92.0094865
+  },
+  {
     "address": "SE EVANGELINE TW & LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "05/19/2019 - 07:37 AM",
