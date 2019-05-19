@@ -1,5 +1,13 @@
 [
   {
+    "address": "3600 NE EVANGELINE TW",
+    "city": "CARENCRO",
+    "time": "05/19/2019 - 3:15 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.31035,
+    "longitude": -92.02953
+  },
+  {
     "address": "217 LA RUE FRANCE",
     "city": "LAFAYETTE",
     "time": "05/19/2019 - 3:05 PM",
