@@ -1,18 +1,26 @@
 [
   {
+    "address": "SW EVANGELINE TW & E KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "05/19/2019 - 1:11 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.20067,
+    "longitude": -91.99958
+  },
+  {
+    "address": "101 MARIE ANTOINETTE ST",
+    "city": "LAFAYETTE",
+    "time": "05/19/2019 - 1:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20157,
+    "longitude": -92.05461
+  },
+  {
     "address": "ROGER RD & HEIDE CL",
     "city": "LAFAYETTE",
     "time": "05/19/2019 - 12:59 PM",
     "due_to": "Hazard",
     "latitude": 30.26845,
     "longitude": -92.08278
-  },
-  {
-    "address": "NW EVANGELINE TW & GOLDMAN ST",
-    "city": "LAFAYETTE",
-    "time": "05/19/2019 - 11:55 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23562,
-    "longitude": -92.01367
   }
 ]
