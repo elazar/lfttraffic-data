@@ -1,11 +1,19 @@
 [
   {
-    "address": "CARMEL DR & CANAL ST",
+    "address": "W PINHOOK RD & BENDEL RD",
+    "city": "LAFAYETTE",
+    "time": "05/19/2019 - 07:17 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.19911,
+    "longitude": -92.01641
+  },
+  {
+    "address": "1700 CARMEL DR",
     "city": "LAFAYETTE",
     "time": "05/19/2019 - 07:15 AM",
     "due_to": "Road Hazard",
-    "latitude": 30.2325,
-    "longitude": -91.98533
+    "latitude": 30.23384,
+    "longitude": -91.9772
   },
   {
     "address": "300 BRASSEAUX RD",
