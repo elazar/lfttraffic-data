@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "05/20/2019 - 1:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17808,
+    "longitude": -92.07452
+  },
+  {
     "address": "5900 CAMERON ST",
     "city": "SCOTT",
     "time": "05/20/2019 - 1:35 PM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15909,
     "longitude": -92.05066
-  },
-  {
-    "address": "RIDGE RD & RICELAND RD",
-    "city": "LAFAYETTE",
-    "time": "05/20/2019 - 12:32 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.20362,
-    "longitude": -92.20955
   },
   {
     "address": "100 I10 EB EXIT RAMP HW",
