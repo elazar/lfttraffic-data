@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & FREM BOUSTANY DR",
+    "city": "LAFAYETTE",
+    "time": "05/20/2019 - 12:20 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.15011,
+    "longitude": -92.0406
+  },
+  {
     "address": "4742 LANDRY RD",
     "city": "LAFAYETTE",
     "time": "05/20/2019 - 12:10 PM",
@@ -14,14 +22,6 @@
     "due_to": "Fire Investigation",
     "latitude": 30.28396,
     "longitude": -92.00813
-  },
-  {
-    "address": "3211 LOUISIANA AV",
-    "city": "LAFAYETTE",
-    "time": "05/20/2019 - 11:59 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.26475,
-    "longitude": -91.99379
   },
   {
     "address": "VEROT SCHOOL RD & AYMAR RD",
