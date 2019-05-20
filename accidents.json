@@ -1,5 +1,13 @@
 [
   {
+    "address": "1500 S MORGAN AV",
+    "city": "BROUSSARD",
+    "time": "05/19/2019 - 9:56 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.11968,
+    "longitude": -91.96563
+  },
+  {
     "address": "SW EVANGELINE TW & SEVENTH ST",
     "city": "LAFAYETTE",
     "time": "05/19/2019 - 9:25 PM",
