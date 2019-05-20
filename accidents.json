@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "I10 EASTBOUND MM99-5 HW & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "05/20/2019 - 01:07 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.2440622,
+    "longitude": -92.0661226
+  }
+]
