@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "05/20/2019 - 09:47 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23426,
+    "longitude": -92.00198
+  },
+  {
     "address": "GALBERT RD & CAMERON ST",
     "city": "LAFAYETTE",
     "time": "05/20/2019 - 09:46 AM",
