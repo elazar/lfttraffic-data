@@ -1,5 +1,13 @@
 [
   {
+    "address": "3211 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "05/20/2019 - 11:59 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26475,
+    "longitude": -91.99379
+  },
+  {
     "address": "VEROT SCHOOL RD & AYMAR RD",
     "city": "LAFAYETTE",
     "time": "05/20/2019 - 11:56 AM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2331951,
     "longitude": -91.9922087
-  },
-  {
-    "address": "NE EVANGELINE TW & E SIMCOE ST",
-    "city": "LAFAYETTE",
-    "time": "05/20/2019 - 10:50 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23102,
-    "longitude": -92.01311
   },
   {
     "address": "N UNIVERSITY AV & I10 HW",
