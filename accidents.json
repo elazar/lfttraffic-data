@@ -1,5 +1,13 @@
 [
   {
+    "address": "4011 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "05/20/2019 - 08:40 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.28139,
+    "longitude": -92.008
+  },
+  {
     "address": "BERTRAND DR & N COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "05/20/2019 - 08:32 AM",
@@ -54,14 +62,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.27334,
     "longitude": -92.01718
-  },
-  {
-    "address": "GUIDRY RD & JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "05/20/2019 - 07:44 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.16948,
-    "longitude": -92.08178
   },
   {
     "address": "CAMERON ST & ALFRED ST",
