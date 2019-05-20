@@ -32,14 +32,6 @@
     "longitude": -91.99765
   },
   {
-    "address": "FATIMA",
-    "city": "Lafayette",
-    "time": "05/20/2019 - 2:42 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.33931,
-    "longitude": -92.07066
-  },
-  {
     "address": "CAMELLIA BL & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "05/20/2019 - 2:38 PM",
@@ -54,14 +46,6 @@
     "due_to": "Traffic Control",
     "latitude": 30.09923,
     "longitude": -91.99578
-  },
-  {
-    "address": "4313 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "05/20/2019 - 12:47 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15909,
-    "longitude": -92.05066
   },
   {
     "address": "100 I10 EB EXIT RAMP HW",
