@@ -1,5 +1,13 @@
 [
   {
+    "address": "RENAUD DR & LA 93 HW",
+    "city": "SCOTT",
+    "time": "05/20/2019 - 08:57 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25413,
+    "longitude": -92.10813
+  },
+  {
     "address": "S RICHFIELD RD & LANDRY RD",
     "city": "LAFAYETTE",
     "time": "05/20/2019 - 08:53 AM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19636,
     "longitude": -92.09204
-  },
-  {
-    "address": "4011 MOSS ST",
-    "city": "LAFAYETTE",
-    "time": "05/20/2019 - 08:40 AM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.28139,
-    "longitude": -92.008
   },
   {
     "address": "1401 W PINHOOK RD",
