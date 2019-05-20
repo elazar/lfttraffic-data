@@ -24,14 +24,6 @@
     "longitude": -92.03642
   },
   {
-    "address": "1400 SW EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "05/20/2019 - 4:56 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21721,
-    "longitude": -92.00492
-  },
-  {
     "address": "600 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "05/20/2019 - 4:48 PM",
@@ -62,14 +54,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20076,
     "longitude": -92.02897
-  },
-  {
-    "address": "4400 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "05/20/2019 - 3:51 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15712,
-    "longitude": -92.05125
   },
   {
     "address": "100 I10 EB EXIT RAMP HW",
