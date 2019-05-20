@@ -32,20 +32,20 @@
     "longitude": -92.03642
   },
   {
+    "address": "1400 SE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "05/20/2019 - 4:56 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21721,
+    "longitude": -92.00492
+  },
+  {
     "address": "600 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "05/20/2019 - 4:48 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.2330564,
     "longitude": -92.0126088
-  },
-  {
-    "address": "W PINHOOK RD & AUDUBON BL",
-    "city": "LAFAYETTE",
-    "time": "05/20/2019 - 4:46 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.20302,
-    "longitude": -92.01418
   },
   {
     "address": "KALISTE SALOOM RD & W PINHOOK RD",
