@@ -1,5 +1,13 @@
 [
   {
+    "address": "GUIDRY RD & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "05/20/2019 - 07:44 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16948,
+    "longitude": -92.08178
+  },
+  {
     "address": "300 AVENUE B",
     "city": "YOUNGSVILLE",
     "time": "05/20/2019 - 07:31 AM",
