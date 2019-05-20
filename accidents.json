@@ -1,5 +1,13 @@
 [
   {
+    "address": "S COLLEGE RD & BACQUE CRESCENT DR",
+    "city": "LAFAYETTE",
+    "time": "05/20/2019 - 4:12 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20076,
+    "longitude": -92.02897
+  },
+  {
     "address": "4800 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "05/20/2019 - 4:11 PM",
@@ -54,14 +62,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22053,
     "longitude": -92.00816
-  },
-  {
-    "address": "600 CHURCH ST",
-    "city": "YOUNGSVILLE",
-    "time": "05/20/2019 - 2:33 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.09923,
-    "longitude": -91.99578
   },
   {
     "address": "100 I10 EB EXIT RAMP HW",
