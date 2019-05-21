@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 W LEWIS ST",
+    "city": "LAFAYETTE",
+    "time": "05/21/2019 - 11:18 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.2125139,
+    "longitude": -92.0254631
+  },
+  {
     "address": "W PINHOOK RD & BENDEL RD",
     "city": "LAFAYETTE",
     "time": "05/21/2019 - 11:17 AM",
