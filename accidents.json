@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "3900 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "05/21/2019 - 01:38 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.16746,
+    "longitude": -92.06228
+  }
+]
