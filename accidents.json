@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & AMBASSADOR CAFFERY PW",
+    "city": "BROUSSARD",
+    "time": "05/21/2019 - 12:08 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1174,
+    "longitude": -91.94361
+  },
+  {
     "address": "400 RUE SCHOLASTIQUE",
     "city": "LAFAYETTE",
     "time": "05/21/2019 - 12:07 PM",
