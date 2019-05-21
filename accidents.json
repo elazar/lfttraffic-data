@@ -24,14 +24,6 @@
     "longitude": -92.09203
   },
   {
-    "address": "400 E KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "05/21/2019 - 11:38 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19344,
-    "longitude": -92.00775
-  },
-  {
     "address": "1200 DELHOMME AV",
     "city": "SCOTT",
     "time": "05/21/2019 - 11:35 AM",
@@ -46,13 +38,5 @@
     "due_to": "Fire Investigation",
     "latitude": 30.23586,
     "longitude": -92.11311
-  },
-  {
-    "address": "W PINHOOK RD & BENDEL RD",
-    "city": "LAFAYETTE",
-    "time": "05/21/2019 - 11:17 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19911,
-    "longitude": -92.01641
   }
 ]
