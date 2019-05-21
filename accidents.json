@@ -14,21 +14,5 @@
     "due_to": "Traffic Control",
     "latitude": 30.09519,
     "longitude": -91.99765
-  },
-  {
-    "address": "100 TIMBERLAND RIDGE BL",
-    "city": "LAFAYETTE",
-    "time": "05/21/2019 - 2:44 PM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.31443,
-    "longitude": -92.00839
-  },
-  {
-    "address": "4630 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "05/21/2019 - 1:57 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1532294,
-    "longitude": -92.0446335
   }
 ]
