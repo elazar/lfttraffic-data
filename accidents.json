@@ -1,26 +1,10 @@
 [
   {
-    "address": "CAMERON ST & ADRIENNE ST",
-    "city": "LAFAYETTE",
-    "time": "05/21/2019 - 08:56 AM",
-    "due_to": "Hazardous Situation",
-    "latitude": 30.23243,
-    "longitude": -92.03463
-  },
-  {
     "address": "MOSS ST & E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "05/21/2019 - 08:40 AM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.23069,
     "longitude": -92.00911
-  },
-  {
-    "address": "1511 DULLES DR",
-    "city": "LAFAYETTE",
-    "time": "05/21/2019 - 07:50 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21047,
-    "longitude": -92.07758
   }
 ]
