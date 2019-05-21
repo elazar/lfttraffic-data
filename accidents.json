@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "2712 HOFFPAUIR RD",
+    "city": "LAFAYETTE",
+    "time": "05/21/2019 - 06:10 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14624,
+    "longitude": -92.22932
+  }
+]
