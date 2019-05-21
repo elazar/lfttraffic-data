@@ -1,5 +1,13 @@
 [
   {
+    "address": "519 S PIERCE ST",
+    "city": "LAFAYETTE",
+    "time": "05/21/2019 - 4:12 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.22866,
+    "longitude": -92.01832
+  },
+  {
     "address": "CAMELLIA BL & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "05/21/2019 - 4:08 PM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1561931,
     "longitude": -92.0443186
-  },
-  {
-    "address": "W CONGRESS ST & THEATRE ST",
-    "city": "LAFAYETTE",
-    "time": "05/21/2019 - 3:04 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20264,
-    "longitude": -92.06358
   },
   {
     "address": "1522 CARMEL DR",
