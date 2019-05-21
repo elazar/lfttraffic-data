@@ -1,5 +1,13 @@
 [
   {
+    "address": "400 E KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "05/21/2019 - 11:38 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19344,
+    "longitude": -92.00775
+  },
+  {
     "address": "1200 DELHOMME AV",
     "city": "SCOTT",
     "time": "05/21/2019 - 11:35 AM",
