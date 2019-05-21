@@ -1,5 +1,13 @@
 [
   {
+    "address": "311 HARRINGTON DR",
+    "city": "LAFAYETTE",
+    "time": "05/20/2019 - 7:30 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.25266,
+    "longitude": -92.02802
+  },
+  {
     "address": "100 I10 EB EXIT RAMP HW",
     "city": "LAFAYETTE",
     "time": "05/20/2019 - 01:07 AM",
