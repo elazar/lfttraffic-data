@@ -30,21 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15059,
     "longitude": -92.09379
-  },
-  {
-    "address": "237 W WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "05/21/2019 - 3:55 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24444,
-    "longitude": -92.0168
-  },
-  {
-    "address": "4419 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "05/21/2019 - 3:51 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1574,
-    "longitude": -92.04845
   }
 ]
