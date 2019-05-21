@@ -54,13 +54,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1561931,
     "longitude": -92.0443186
-  },
-  {
-    "address": "1522 CARMEL DR",
-    "city": "LAFAYETTE",
-    "time": "05/21/2019 - 2:48 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.23215,
-    "longitude": -91.98358
   }
 ]
