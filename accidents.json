@@ -1,5 +1,13 @@
 [
   {
+    "address": "FATIMA",
+    "city": "Lafayette",
+    "time": "05/22/2019 - 11:56 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.33931,
+    "longitude": -92.07066
+  },
+  {
     "address": "100 ARNOULD BL",
     "city": "LAFAYETTE",
     "time": "05/22/2019 - 11:50 AM",
