@@ -1,5 +1,13 @@
 [
   {
+    "address": "5233 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "05/22/2019 - 08:21 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18189,
+    "longitude": -92.07023
+  },
+  {
     "address": "2240 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/22/2019 - 07:53 AM",
