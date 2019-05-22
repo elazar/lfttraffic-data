@@ -1,5 +1,13 @@
 [
   {
+    "address": "1801 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "05/22/2019 - 08:33 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.19294,
+    "longitude": -92.0145
+  },
+  {
     "address": "5233 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "05/22/2019 - 08:21 AM",
@@ -22,14 +30,6 @@
     "due_to": "Traffic Control",
     "latitude": 30.13651,
     "longitude": -91.9368
-  },
-  {
-    "address": "201 CHURCH ST",
-    "city": "YOUNGSVILLE",
-    "time": "05/22/2019 - 07:41 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.09752,
-    "longitude": -91.9907
   },
   {
     "address": "600 CHURCH ST",
