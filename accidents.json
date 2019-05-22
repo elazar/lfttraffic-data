@@ -1,5 +1,13 @@
 [
   {
+    "address": "399 FOURTH ST",
+    "city": "YOUNGSVILLE",
+    "time": "05/22/2019 - 6:58 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.09425,
+    "longitude": -91.99557
+  },
+  {
     "address": "1000 ALBERTSON PW",
     "city": "BROUSSARD",
     "time": "05/22/2019 - 6:49 PM",
