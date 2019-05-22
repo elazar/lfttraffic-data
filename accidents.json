@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 NORA BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "05/21/2019 - 11:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.09695,
+    "longitude": -92.06708
+  },
+  {
     "address": "ST ETIENNE RD & LA 182 HW",
     "city": "BROUSSARD",
     "time": "05/21/2019 - 11:15 PM",
