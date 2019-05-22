@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15969,
     "longitude": -92.05229
-  },
-  {
-    "address": "402 PRINCETON WOODS LP",
-    "city": "LAFAYETTE",
-    "time": "05/22/2019 - 12:30 PM",
-    "due_to": "Hazardous Material",
-    "latitude": 30.1753,
-    "longitude": -92.04824
   }
 ]
