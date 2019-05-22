@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1740 E PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "05/22/2019 - 10:10 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22748,
+    "longitude": -91.99355
+  }
+]
