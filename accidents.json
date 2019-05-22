@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & E UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "05/22/2019 - 2:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21056,
+    "longitude": -92.00978
+  },
+  {
     "address": "LAGNEAUX RD & BREAUX RD",
     "city": "LAFAYETTE",
     "time": "05/22/2019 - 2:14 PM",
