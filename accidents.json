@@ -1,5 +1,13 @@
 [
   {
+    "address": "201 SETTLERS TRACE BL",
+    "city": "LAFAYETTE",
+    "time": "05/23/2019 - 4:59 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16995,
+    "longitude": -92.03679
+  },
+  {
     "address": "3125 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "05/23/2019 - 4:55 PM",
@@ -54,13 +62,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18738,
     "longitude": -92.01261
-  },
-  {
-    "address": "133 W LEWIS ST",
-    "city": "LAFAYETTE",
-    "time": "05/23/2019 - 3:42 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21311,
-    "longitude": -92.02646
   }
 ]
