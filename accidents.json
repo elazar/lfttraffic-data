@@ -1,5 +1,13 @@
 [
   {
+    "address": "1505 DULLES DR",
+    "city": "LAFAYETTE",
+    "time": "05/23/2019 - 4:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21025,
+    "longitude": -92.07645
+  },
+  {
     "address": "W PINHOOK RD & JAMES COMEAUX RD",
     "city": "LAFAYETTE",
     "time": "05/23/2019 - 3:48 PM",
