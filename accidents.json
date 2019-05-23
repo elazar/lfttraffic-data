@@ -1,5 +1,13 @@
 [
   {
+    "address": "133 W LEWIS ST",
+    "city": "LAFAYETTE",
+    "time": "05/23/2019 - 3:42 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21311,
+    "longitude": -92.02646
+  },
+  {
     "address": "600 CHURCH ST",
     "city": "YOUNGSVILLE",
     "time": "05/23/2019 - 3:38 PM",
@@ -38,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19826,
     "longitude": -92.07007
-  },
-  {
-    "address": "1522 CARMEL DR",
-    "city": "LAFAYETTE",
-    "time": "05/23/2019 - 2:53 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.23215,
-    "longitude": -91.98358
   },
   {
     "address": "JOHNSTON ST & S COLLEGE RD",
