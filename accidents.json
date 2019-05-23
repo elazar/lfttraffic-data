@@ -1,5 +1,13 @@
 [
   {
+    "address": "4311 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "05/23/2019 - 3:54 PM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.19448,
+    "longitude": -92.0575
+  },
+  {
     "address": "W PINHOOK RD & JAMES COMEAUX RD",
     "city": "LAFAYETTE",
     "time": "05/23/2019 - 3:48 PM",
@@ -54,14 +62,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19826,
     "longitude": -92.07007
-  },
-  {
-    "address": "JOHNSTON ST & S COLLEGE RD",
-    "city": "LAFAYETTE",
-    "time": "05/23/2019 - 2:52 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20727,
-    "longitude": -92.03836
   },
   {
     "address": "603 AVENUE B",
