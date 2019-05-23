@@ -1,5 +1,13 @@
 [
   {
+    "address": "FOURNIER ST & DUNAND ST",
+    "city": "LAFAYETTE",
+    "time": "05/23/2019 - 06:56 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25024,
+    "longitude": -92.00096
+  },
+  {
     "address": "603 AVENUE B",
     "city": "YOUNGSVILLE",
     "time": "05/23/2019 - 06:46 AM",
