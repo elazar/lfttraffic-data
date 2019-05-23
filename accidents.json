@@ -1,5 +1,13 @@
 [
   {
+    "address": "603 AVENUE B",
+    "city": "YOUNGSVILLE",
+    "time": "05/23/2019 - 2:44 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.09519,
+    "longitude": -91.99765
+  },
+  {
     "address": "400 RUE SCHOLASTIQUE",
     "city": "LAFAYETTE",
     "time": "05/23/2019 - 2:42 PM",
