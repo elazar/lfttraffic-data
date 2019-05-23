@@ -1,19 +1,19 @@
 [
   {
+    "address": "MUDD AV & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "05/23/2019 - 3:12 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23174,
+    "longitude": -92.0027
+  },
+  {
     "address": "W CONGRESS ST & GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "05/23/2019 - 3:10 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.19826,
     "longitude": -92.07007
-  },
-  {
-    "address": "4350 US 90 EAST HW",
-    "city": "BROUSSARD",
-    "time": "05/23/2019 - 2:58 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1499,
-    "longitude": -91.95177
   },
   {
     "address": "251 N PINE ST",
