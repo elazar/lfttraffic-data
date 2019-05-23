@@ -1,5 +1,13 @@
 [
   {
+    "address": "5405 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "05/23/2019 - 12:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18114,
+    "longitude": -92.07128
+  },
+  {
     "address": "CARMEL DR & MARNE ST",
     "city": "LAFAYETTE",
     "time": "05/23/2019 - 12:24 PM",
