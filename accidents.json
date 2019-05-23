@@ -1,5 +1,21 @@
 [
   {
+    "address": "CARMEL DR & MARNE ST",
+    "city": "LAFAYETTE",
+    "time": "05/23/2019 - 12:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23429,
+    "longitude": -92.00006
+  },
+  {
+    "address": "ERASTE LANDRY RD & CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "05/23/2019 - 12:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23242,
+    "longitude": -92.03921
+  },
+  {
     "address": "LOUISIANA AV & E PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "05/23/2019 - 11:31 AM",
