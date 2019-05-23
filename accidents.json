@@ -48,27 +48,11 @@
     "longitude": -92.09653
   },
   {
-    "address": "326 APOLLO RD",
-    "city": "SCOTT",
-    "time": "05/23/2019 - 2:40 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2401551,
-    "longitude": -92.1072951
-  },
-  {
     "address": "109 FOXGLEN CT",
     "city": "LAFAYETTE",
     "time": "05/23/2019 - 2:34 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.16716,
     "longitude": -92.06472
-  },
-  {
-    "address": "DULLES DR & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "05/23/2019 - 1:49 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21053,
-    "longitude": -92.07567
   }
 ]
