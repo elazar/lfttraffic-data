@@ -1,5 +1,13 @@
 [
   {
+    "address": "0 US 90 EAST HW",
+    "city": "Lafayette",
+    "time": "05/23/2019 - 4:36 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.17354,
+    "longitude": -91.98255
+  },
+  {
     "address": "S BERNARD RD & US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "05/23/2019 - 4:33 PM",
