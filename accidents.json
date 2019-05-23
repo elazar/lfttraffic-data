@@ -1,5 +1,13 @@
 [
   {
+    "address": "4350 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "05/23/2019 - 2:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1499,
+    "longitude": -91.95177
+  },
+  {
     "address": "230 CHESTER ST",
     "city": "LAFAYETTE",
     "time": "05/23/2019 - 2:54 PM",
