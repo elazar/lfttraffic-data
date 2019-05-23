@@ -1,5 +1,13 @@
 [
   {
+    "address": "S BERNARD RD & US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "05/23/2019 - 4:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16055,
+    "longitude": -91.97136
+  },
+  {
     "address": "W PINHOOK RD & E KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "05/23/2019 - 4:16 PM",
