@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.27233,
     "longitude": -91.99249
-  },
-  {
-    "address": "301 DUNAND ST",
-    "city": "LAFAYETTE",
-    "time": "05/23/2019 - 10:10 AM",
-    "due_to": "Fire",
-    "latitude": 30.25231,
-    "longitude": -92.00238
   }
 ]
