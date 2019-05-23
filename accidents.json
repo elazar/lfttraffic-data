@@ -1,19 +1,19 @@
 [
   {
+    "address": "DUHON RD & W BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "05/23/2019 - 5:47 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.16693,
+    "longitude": -92.09962
+  },
+  {
     "address": "1502 ST MARY ST",
     "city": "SCOTT",
     "time": "05/23/2019 - 5:17 PM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.24259,
     "longitude": -92.09902
-  },
-  {
-    "address": "4700 MOSS ST",
-    "city": "CARENCRO",
-    "time": "05/23/2019 - 5:16 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.2970422,
-    "longitude": -92.0071818
   },
   {
     "address": "S COLLEGE RD & W BAYOU PW",
