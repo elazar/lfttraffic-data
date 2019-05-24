@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "address": "JOHNSTON ST & E MAIN ST",
+    "city": "LAFAYETTE",
+    "time": "05/24/2019 - 11:49 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22197,
+    "longitude": -92.01601
+  },
+  {
+    "address": "418 ALBERTSON PW",
+    "city": "BROUSSARD",
+    "time": "05/24/2019 - 11:49 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13772,
+    "longitude": -91.98083
+  }
+]
