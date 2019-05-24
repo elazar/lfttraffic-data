@@ -1,5 +1,13 @@
 [
   {
+    "address": "2490 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "05/23/2019 - 7:42 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21184,
+    "longitude": -92.05174
+  },
+  {
     "address": "610 ST ETIENNE RD",
     "city": "BROUSSARD",
     "time": "05/23/2019 - 7:24 PM",
