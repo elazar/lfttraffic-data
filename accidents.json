@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "101 LACOBIE ST",
+    "city": "LAFAYETTE",
+    "time": "05/24/2019 - 3:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24217,
+    "longitude": -92.00849
+  }
+]
