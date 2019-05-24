@@ -1,5 +1,13 @@
 [
   {
+    "address": "1900 DULLES DR",
+    "city": "SCOTT",
+    "time": "05/24/2019 - 3:25 PM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.21102,
+    "longitude": -92.08756
+  },
+  {
     "address": "101 LACOBIE ST",
     "city": "LAFAYETTE",
     "time": "05/24/2019 - 3:24 PM",
