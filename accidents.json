@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "316 W MAIN ST",
+    "city": "LAFAYETTE",
+    "time": "05/24/2019 - 04:32 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22344,
+    "longitude": -92.02135
+  }
+]
