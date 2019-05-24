@@ -1,5 +1,13 @@
 [
   {
+    "address": "610 ST ETIENNE RD",
+    "city": "BROUSSARD",
+    "time": "05/23/2019 - 7:24 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.12177,
+    "longitude": -91.94836
+  },
+  {
     "address": "101 PARKGATE BL",
     "city": "LAFAYETTE",
     "time": "05/23/2019 - 7:19 PM",
