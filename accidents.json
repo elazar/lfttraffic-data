@@ -1,5 +1,13 @@
 [
   {
+    "address": "APOLLO RD & DELHOMME AV",
+    "city": "SCOTT",
+    "time": "05/24/2019 - 12:24 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23599,
+    "longitude": -92.10743
+  },
+  {
     "address": "CAMELLIA BL & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "05/24/2019 - 12:16 PM",
