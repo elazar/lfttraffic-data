@@ -1,5 +1,13 @@
 [
   {
+    "address": "1214 COOLIDGE ST (VERIZON)",
+    "city": "LAFAYETTE",
+    "time": "05/24/2019 - 11:00 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.2025101,
+    "longitude": -92.0186946
+  },
+  {
     "address": "500 JEFFERSON BL",
     "city": "LAFAYETTE",
     "time": "05/24/2019 - 08:29 AM",
