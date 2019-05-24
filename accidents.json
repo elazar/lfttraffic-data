@@ -1,5 +1,13 @@
 [
   {
+    "address": "301 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "05/24/2019 - 6:31 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24142,
+    "longitude": -92.06551
+  },
+  {
     "address": "108 SAGEBRUSH DR",
     "city": "SCOTT",
     "time": "05/24/2019 - 6:18 PM",
