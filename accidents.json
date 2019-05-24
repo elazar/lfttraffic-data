@@ -1,5 +1,13 @@
 [
   {
+    "address": "1512 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "05/23/2019 - 8:50 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.23733,
+    "longitude": -92.00036
+  },
+  {
     "address": "W UNIVERSITY AV & ST LANDRY ST",
     "city": "LAFAYETTE",
     "time": "05/23/2019 - 8:41 PM",
