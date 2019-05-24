@@ -1,5 +1,13 @@
 [
   {
+    "address": "900 EDISON ST",
+    "city": "LAFAYETTE",
+    "time": "05/24/2019 - 08:48 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.2397447,
+    "longitude": -92.0315663
+  },
+  {
     "address": "S ORANGE ST & JEFFERSON BL",
     "city": "LAFAYETTE",
     "time": "05/24/2019 - 08:29 AM",
