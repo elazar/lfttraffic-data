@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & GLOUCHESTER RD",
+    "city": "LAFAYETTE",
+    "time": "05/24/2019 - 09:13 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1883,
+    "longitude": -92.06416
+  },
+  {
     "address": "S ORANGE ST & JEFFERSON BL",
     "city": "LAFAYETTE",
     "time": "05/24/2019 - 08:29 AM",
