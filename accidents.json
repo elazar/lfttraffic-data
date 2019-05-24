@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 GRAND AV",
+    "city": "LAFAYETTE",
+    "time": "05/24/2019 - 1:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1861724,
+    "longitude": -92.065671
+  },
+  {
     "address": "ALBERTSON PW & RAILROAD TRACKS (BNSF)",
     "city": "BROUSSARD",
     "time": "05/24/2019 - 1:15 PM",
