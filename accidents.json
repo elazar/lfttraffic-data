@@ -1,5 +1,13 @@
 [
   {
+    "address": "310 E MAIN ST",
+    "city": "BROUSSARD",
+    "time": "05/24/2019 - 09:42 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14706,
+    "longitude": -91.96151
+  },
+  {
     "address": "JOHNSTON ST & GLOUCHESTER RD",
     "city": "LAFAYETTE",
     "time": "05/24/2019 - 09:13 AM",
