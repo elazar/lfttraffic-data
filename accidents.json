@@ -1,5 +1,13 @@
 [
   {
+    "address": "2600 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "05/25/2019 - 12:40 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.25598,
+    "longitude": -92.00498
+  },
+  {
     "address": "805 VETERANS DR",
     "city": "CARENCRO",
     "time": "05/25/2019 - 12:11 PM",
