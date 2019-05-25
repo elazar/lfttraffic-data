@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 INEZ LN",
+    "city": "LAFAYETTE",
+    "time": "05/24/2019 - 7:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18613,
+    "longitude": -92.07547
+  },
+  {
     "address": "635 RUE SCHOLASTIQUE",
     "city": "LAFAYETTE",
     "time": "05/24/2019 - 7:20 PM",
