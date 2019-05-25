@@ -1,5 +1,13 @@
 [
   {
+    "address": "173 CHAMPAGNE ST",
+    "city": "LAFAYETTE",
+    "time": "05/25/2019 - 1:02 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.22375,
+    "longitude": -91.99648
+  },
+  {
     "address": "3500 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/25/2019 - 12:51 PM",
