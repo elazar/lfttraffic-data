@@ -1,19 +1,19 @@
 [
   {
+    "address": "WAINWRIGHT RD & ANDERSON RD",
+    "city": "LAFAYETTE",
+    "time": "05/25/2019 - 1:55 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.24046,
+    "longitude": -92.15355
+  },
+  {
     "address": "NE EVANGELINE TW & E GLORIA SWITCH RD",
     "city": "LAFAYETTE",
     "time": "05/25/2019 - 1:37 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.2955,
     "longitude": -92.02362
-  },
-  {
-    "address": "3500 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "05/25/2019 - 12:51 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.1774019,
-    "longitude": -92.0739576
   },
   {
     "address": "805 VETERANS DR",
