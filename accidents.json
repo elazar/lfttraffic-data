@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "CAMELLIA BL & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "05/24/2019 - 11:37 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19364,
+    "longitude": -92.0587
+  }
+]
