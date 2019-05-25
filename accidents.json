@@ -1,5 +1,13 @@
 [
   {
+    "address": "1400 ST JOHN ST",
+    "city": "LAFAYETTE",
+    "time": "05/25/2019 - 2:01 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.2181976,
+    "longitude": -92.0248865
+  },
+  {
     "address": "WAINWRIGHT RD & ANDERSON RD",
     "city": "LAFAYETTE",
     "time": "05/25/2019 - 1:55 PM",
