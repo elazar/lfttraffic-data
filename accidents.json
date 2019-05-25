@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "101 BELGIUM ST",
+    "city": "LAFAYETTE",
+    "time": "05/25/2019 - 12:45 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20556,
+    "longitude": -92.10239
+  }
+]
