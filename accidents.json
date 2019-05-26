@@ -1,5 +1,21 @@
 [
   {
+    "address": "SW EVANGELINE TW & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "05/26/2019 - 12:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22457,
+    "longitude": -92.01033
+  },
+  {
+    "address": "101 MARIE ANTOINETTE ST",
+    "city": "LAFAYETTE",
+    "time": "05/26/2019 - 12:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20157,
+    "longitude": -92.05461
+  },
+  {
     "address": "1300 RUE DU BELIER",
     "city": "LAFAYETTE",
     "time": "05/26/2019 - 11:20 AM",
