@@ -1,5 +1,13 @@
 [
   {
+    "address": "111 KEELING DR",
+    "city": "LAFAYETTE",
+    "time": "05/26/2019 - 1:59 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.24121,
+    "longitude": -92.03354
+  },
+  {
     "address": "W CONGRESS ST & FOREMAN DR",
     "city": "LAFAYETTE",
     "time": "05/26/2019 - 11:09 AM",
