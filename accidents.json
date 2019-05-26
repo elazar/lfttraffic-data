@@ -1,5 +1,13 @@
 [
   {
+    "address": "GENERAL MOUTON AV & E UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "05/26/2019 - 11:36 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.20823,
+    "longitude": -92.00517
+  },
+  {
     "address": "1300 RUE DU BELIER",
     "city": "LAFAYETTE",
     "time": "05/26/2019 - 11:20 AM",
