@@ -1,5 +1,13 @@
 [
   {
+    "address": "RIDGE RD & RUE DU BELIER",
+    "city": "LAFAYETTE",
+    "time": "05/26/2019 - 11:20 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19636,
+    "longitude": -92.09204
+  },
+  {
     "address": "4900 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "05/26/2019 - 11:16 AM",
