@@ -1,19 +1,11 @@
 [
   {
-    "address": "LODGE DR & OLE COLONY RD",
+    "address": "200 LODGE DR",
     "city": "LAFAYETTE",
     "time": "05/26/2019 - 12:02 PM",
     "due_to": "Incoming Call",
-    "latitude": 30.21471,
-    "longitude": -92.07801
-  },
-  {
-    "address": "GENERAL MOUTON AV & E UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "05/26/2019 - 11:36 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.20823,
-    "longitude": -92.00517
+    "latitude": 30.21518,
+    "longitude": -92.07778
   },
   {
     "address": "1300 RUE DU BELIER",
