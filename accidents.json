@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "05/27/2019 - 3:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23236,
+    "longitude": -92.03238
+  },
+  {
     "address": "2017 W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "05/27/2019 - 3:02 PM",
