@@ -24,27 +24,11 @@
     "longitude": -91.98922
   },
   {
-    "address": "540 ST CLAIR RD",
-    "city": "LAFAYETTE",
-    "time": "05/26/2019 - 7:40 PM",
-    "due_to": "Trash Fire",
-    "latitude": 30.3022523,
-    "longitude": -91.9639146
-  },
-  {
     "address": "2700 NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "05/26/2019 - 7:12 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.2658968,
     "longitude": -92.0173097
-  },
-  {
-    "address": "1412 E BAYOU PW",
-    "city": "LAFAYETTE",
-    "time": "05/26/2019 - 3:12 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.1767,
-    "longitude": -92.03595
   }
 ]
