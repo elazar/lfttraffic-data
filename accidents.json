@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "CAMELLIA BL & E BLUEBIRD DR",
+    "city": "LAFAYETTE",
+    "time": "05/26/2019 - 10:48 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.16147,
+    "longitude": -92.0263
+  }
+]
