@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "address": "1001 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "05/27/2019 - 12:27 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23683,
+    "longitude": -92.01315
+  },
+  {
+    "address": "1001 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "05/27/2019 - 12:27 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23683,
+    "longitude": -92.01315
+  }
+]
