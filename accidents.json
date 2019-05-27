@@ -1,5 +1,13 @@
 [
   {
+    "address": "2017 W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "05/27/2019 - 3:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23144,
+    "longitude": -92.03292
+  },
+  {
     "address": "1114 SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "05/27/2019 - 1:44 PM",
