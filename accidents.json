@@ -1,5 +1,13 @@
 [
   {
+    "address": "1321 E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "05/27/2019 - 01:03 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22994,
+    "longitude": -92.00091
+  },
+  {
     "address": "1001 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "05/27/2019 - 12:27 AM",
