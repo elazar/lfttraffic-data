@@ -1,26 +1,10 @@
 [
   {
-    "address": "173 S BEADLE RD",
-    "city": "LAFAYETTE",
-    "time": "05/27/2019 - 02:04 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.17645,
-    "longitude": -92.01628
-  },
-  {
     "address": "1321 E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "05/27/2019 - 01:03 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.22994,
     "longitude": -92.00091
-  },
-  {
-    "address": "1001 NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "05/27/2019 - 12:27 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23683,
-    "longitude": -92.01315
   }
 ]
