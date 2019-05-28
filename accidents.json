@@ -1,5 +1,13 @@
 [
   {
+    "address": "223 BRADFORD DR",
+    "city": "CARENCRO",
+    "time": "05/28/2019 - 12:53 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.31787,
+    "longitude": -92.05913
+  },
+  {
     "address": "2707 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "05/28/2019 - 12:50 PM",
@@ -46,13 +54,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.23093,
     "longitude": -92.01187
-  },
-  {
-    "address": "533 BERTRAND DR",
-    "city": "LAFAYETTE",
-    "time": "05/28/2019 - 12:18 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21379,
-    "longitude": -92.04637
   }
 ]
