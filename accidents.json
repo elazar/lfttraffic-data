@@ -1,9 +1,17 @@
 [
   {
+    "address": "DICKENS ST & MERCURY ST",
+    "city": "LAFAYETTE",
+    "time": "05/28/2019 - 12:13 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.20821,
+    "longitude": -92.01008
+  },
+  {
     "address": "CEDAR CREST CT & SILKWOOD ST",
     "city": "LAFAYETTE",
     "time": "05/28/2019 - 12:12 PM",
-    "due_to": "Incoming Call",
+    "due_to": "Fire Investigation",
     "latitude": 30.23122,
     "longitude": -92.02952
   },
