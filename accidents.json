@@ -1,5 +1,13 @@
 [
   {
+    "address": "201 N DOMINGUE AV",
+    "city": "LAFAYETTE",
+    "time": "05/28/2019 - 08:08 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19807,
+    "longitude": -92.08409
+  },
+  {
     "address": "100 W PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "05/28/2019 - 07:55 AM",
@@ -16,27 +24,11 @@
     "longitude": -92.01689
   },
   {
-    "address": "SW EVANGELINE TW & E UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "05/28/2019 - 07:43 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.20908,
-    "longitude": -92.00007
-  },
-  {
     "address": "5525 CAMERON ST",
     "city": "SCOTT",
     "time": "05/28/2019 - 07:35 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.23322,
     "longitude": -92.08773
-  },
-  {
-    "address": "SE EVANGELINE TW & E VEROT SCHOOL RD",
-    "city": "LAFAYETTE",
-    "time": "05/28/2019 - 07:28 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18268,
-    "longitude": -91.99006
   }
 ]
