@@ -1,5 +1,21 @@
 [
   {
+    "address": "5233 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "05/28/2019 - 2:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18189,
+    "longitude": -92.07023
+  },
+  {
+    "address": "2844 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "05/28/2019 - 2:09 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14183,
+    "longitude": -92.03298
+  },
+  {
     "address": "6209 CAMERON ST",
     "city": "SCOTT",
     "time": "05/28/2019 - 2:03 PM",
