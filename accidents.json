@@ -1,11 +1,19 @@
 [
   {
-    "address": "1522 CAMEL",
-    "city": "Lafayette",
-    "time": "05/28/2019 - 07:18 AM",
+    "address": "1522 CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "05/28/2019 - 07:19 AM",
     "due_to": "Traffic Control",
     "latitude": 30.23215,
     "longitude": -91.98358
+  },
+  {
+    "address": "S COLLEGE RD & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "05/28/2019 - 07:19 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20727,
+    "longitude": -92.03836
   },
   {
     "address": "2900 W WILLOW ST",
