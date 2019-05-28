@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 MUDD AV",
+    "city": "LAFAYETTE",
+    "time": "05/28/2019 - 12:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2333065,
+    "longitude": -92.0171975
+  },
+  {
     "address": "400 E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "05/28/2019 - 12:32 PM",
