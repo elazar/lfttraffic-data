@@ -1,5 +1,13 @@
 [
   {
+    "address": "151 CHAMPAGNE ST",
+    "city": "LAFAYETTE",
+    "time": "05/27/2019 - 11:25 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.22441,
+    "longitude": -91.99585
+  },
+  {
     "address": "100 RIVER WOODS DR",
     "city": "LAFAYETTE",
     "time": "05/27/2019 - 10:35 PM",
