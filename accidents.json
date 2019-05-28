@@ -1,5 +1,13 @@
 [
   {
+    "address": "533 BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "05/28/2019 - 12:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21379,
+    "longitude": -92.04637
+  },
+  {
     "address": "111 MERCURY ST",
     "city": "LAFAYETTE",
     "time": "05/28/2019 - 12:17 PM",
