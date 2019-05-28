@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "104 RIVER WOODS DR",
+    "city": "LAFAYETTE",
+    "time": "05/28/2019 - 06:08 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.12099,
+    "longitude": -92.06096
+  }
+]
