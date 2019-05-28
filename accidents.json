@@ -1,5 +1,13 @@
 [
   {
+    "address": "838 COOLIDGE ST",
+    "city": "LAFAYETTE",
+    "time": "05/28/2019 - 6:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20737,
+    "longitude": -92.01485
+  },
+  {
     "address": "811 ALBERTSON PW",
     "city": "BROUSSARD",
     "time": "05/28/2019 - 5:59 PM",
