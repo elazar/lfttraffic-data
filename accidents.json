@@ -22,13 +22,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.24324,
     "longitude": -92.06626
-  },
-  {
-    "address": "I49 NORTHBOUND HW & I10 OVERPASS MM103 HW",
-    "city": "LAFAYETTE",
-    "time": "05/29/2019 - 11:12 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.26255,
-    "longitude": -92.00867
   }
 ]
