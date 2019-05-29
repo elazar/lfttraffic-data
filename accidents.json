@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "I10 EASTBOUND MM105 HW & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "05/29/2019 - 04:15 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.27944,
+    "longitude": -91.99217
+  }
+]
