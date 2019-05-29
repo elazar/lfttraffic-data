@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "100 ALONDA DR",
+    "city": "LAFAYETTE",
+    "time": "05/29/2019 - 01:42 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19319,
+    "longitude": -92.05419
+  }
+]
