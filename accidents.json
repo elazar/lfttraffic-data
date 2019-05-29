@@ -1,5 +1,13 @@
 [
   {
+    "address": "110 POLK ST",
+    "city": "LAFAYETTE",
+    "time": "05/28/2019 - 10:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22625,
+    "longitude": -92.01739
+  },
+  {
     "address": "211 LANGLEY DR",
     "city": "LAFAYETTE",
     "time": "05/28/2019 - 10:20 PM",
