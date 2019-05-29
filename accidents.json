@@ -1,5 +1,13 @@
 [
   {
+    "address": "204 STEPHANIE AV",
+    "city": "LAFAYETTE",
+    "time": "05/29/2019 - 12:03 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.19708,
+    "longitude": -92.01893
+  },
+  {
     "address": "0 FIRE DEPARTMENT",
     "city": "LAFAYETTE",
     "time": "05/29/2019 - 11:55 AM",
