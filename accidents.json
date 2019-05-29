@@ -1,5 +1,13 @@
 [
   {
+    "address": "3605 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "05/29/2019 - 3:35 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16091,
+    "longitude": -91.97017
+  },
+  {
     "address": "S PIERCE ST & CAMERON ST",
     "city": "LAFAYETTE",
     "time": "05/29/2019 - 3:32 PM",
