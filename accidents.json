@@ -1,19 +1,11 @@
 [
   {
-    "address": "W PINHOOK RD & BENDEL RD",
+    "address": "251 BENDEL RD",
     "city": "LAFAYETTE",
     "time": "05/28/2019 - 6:41 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.19911,
-    "longitude": -92.01641
-  },
-  {
-    "address": "N UNIVERSITY AV & W GLORIA SWITCH RD",
-    "city": "CARENCRO",
-    "time": "05/28/2019 - 6:29 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.29785,
-    "longitude": -92.04941
+    "latitude": 30.2000489,
+    "longitude": -92.0173687
   },
   {
     "address": "NE EVANGELINE TW & E WILLOW ST",
