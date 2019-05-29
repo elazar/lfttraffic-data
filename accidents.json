@@ -1,5 +1,13 @@
 [
   {
+    "address": "712 GENERAL MOUTON AV",
+    "city": "LAFAYETTE",
+    "time": "05/29/2019 - 4:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2141,
+    "longitude": -92.01181
+  },
+  {
     "address": "S PIERCE ST & CAMERON ST",
     "city": "LAFAYETTE",
     "time": "05/29/2019 - 3:32 PM",
