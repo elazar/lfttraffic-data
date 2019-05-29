@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 I10 EASTBOUND MM100 HW",
+    "city": "LAFAYETTE",
+    "time": "05/28/2019 - 8:41 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "05/28/2019 - 8:39 PM",
@@ -11,7 +19,7 @@
     "address": "JOHNSTON ST & S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "05/28/2019 - 8:38 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.20727,
     "longitude": -92.03836
   },
