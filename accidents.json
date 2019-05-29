@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.14074,
     "longitude": -91.94631
-  },
-  {
-    "address": "0 FIRE DEPARTMENT",
-    "city": "LAFAYETTE",
-    "time": "05/29/2019 - 11:55 AM",
-    "due_to": "Grass Fire",
-    "latitude": null,
-    "longitude": null
   }
 ]
