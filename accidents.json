@@ -1,5 +1,13 @@
 [
   {
+    "address": "3113 W WILLOW ST",
+    "city": "SCOTT",
+    "time": "05/29/2019 - 08:00 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24159,
+    "longitude": -92.09051
+  },
+  {
     "address": "SW EVANGELINE TW & SIXTEENTH ST",
     "city": "LAFAYETTE",
     "time": "05/29/2019 - 07:59 AM",
@@ -32,11 +40,11 @@
     "longitude": -91.9817
   },
   {
-    "address": "3100 NW EVANGELINE TW",
+    "address": "3200 NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "05/29/2019 - 06:46 AM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.287724,
-    "longitude": -92.0230468
+    "latitude": 30.2918733,
+    "longitude": -92.0245626
   }
 ]
