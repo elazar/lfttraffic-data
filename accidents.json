@@ -8,28 +8,12 @@
     "longitude": -92.05063
   },
   {
-    "address": "NW EVANGELINE TW & FROEBA DR",
-    "city": "LAFAYETTE",
-    "time": "05/28/2019 - 11:10 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.37632,
-    "longitude": -92.05264
-  },
-  {
     "address": "211 LANGLEY DR",
     "city": "LAFAYETTE",
     "time": "05/28/2019 - 10:20 PM",
     "due_to": "Residential Fire",
     "latitude": 30.13822,
     "longitude": -92.01214
-  },
-  {
-    "address": "216 NOTRE DAME DR",
-    "city": "SCOTT",
-    "time": "05/28/2019 - 10:09 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22516,
-    "longitude": -92.08366
   },
   {
     "address": "E SIMCOE ST & ELIZABETH AV",
