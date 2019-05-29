@@ -11,7 +11,7 @@
     "address": "E SECOND ST & NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "05/29/2019 - 6:40 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.23052,
     "longitude": -92.01296
   },
@@ -24,11 +24,11 @@
     "longitude": -92.04582
   },
   {
-    "address": "AMBASSADOR CAFFERY PW & YOUNGSVILLE HW",
-    "city": "BROUSSARD",
+    "address": "6000 AMBASSADOR CAFFERY PW",
+    "city": "YOUNGSVILLE",
     "time": "05/29/2019 - 5:43 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.13508,
-    "longitude": -91.99044
+    "latitude": 30.1351347,
+    "longitude": -92.0074133
   }
 ]
