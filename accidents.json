@@ -1,5 +1,13 @@
 [
   {
+    "address": "4100 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "05/29/2019 - 1:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16446,
+    "longitude": -92.05569
+  },
+  {
     "address": "1210 ALBERTSON PW",
     "city": "BROUSSARD",
     "time": "05/29/2019 - 1:36 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21493,
     "longitude": -92.04696
-  },
-  {
-    "address": "BREAUX RD & MAYDELL LN",
-    "city": "CARENCRO",
-    "time": "05/29/2019 - 12:56 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.30371,
-    "longitude": -92.0317
   },
   {
     "address": "KALISTE SALOOM RD & CAMELLIA BL",
