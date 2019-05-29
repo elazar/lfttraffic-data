@@ -1,18 +1,18 @@
 [
   {
+    "address": "1200 G ST",
+    "city": "SCOTT",
+    "time": "05/29/2019 - 11:43 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.23717,
+    "longitude": -92.09684
+  },
+  {
     "address": "NE EVANGELINE TW & E WILLOW ST",
     "city": "LAFAYETTE",
     "time": "05/29/2019 - 11:25 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.24447,
     "longitude": -92.01187
-  },
-  {
-    "address": "2115 DULLES DR",
-    "city": "SCOTT",
-    "time": "05/29/2019 - 11:19 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21012,
-    "longitude": -92.0929
   }
 ]
