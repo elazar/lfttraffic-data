@@ -1,5 +1,13 @@
 [
   {
+    "address": "4000 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "05/30/2019 - 08:03 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.15286,
+    "longitude": -91.96153
+  },
+  {
     "address": "W PINHOOK RD & SOUTHPARK RD",
     "city": "LAFAYETTE",
     "time": "05/30/2019 - 07:55 AM",
