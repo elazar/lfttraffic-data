@@ -1,19 +1,11 @@
 [
   {
-    "address": "1000 MUDD AV",
+    "address": "JEFFERSON ST & W GRANT ST",
     "city": "LAFAYETTE",
-    "time": "05/30/2019 - 08:20 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.2321098,
-    "longitude": -92.0068785
-  },
-  {
-    "address": "300 ARABELLA BL",
-    "city": "LAFAYETTE",
-    "time": "05/30/2019 - 08:20 AM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.17137,
-    "longitude": -92.04461
+    "time": "05/30/2019 - 08:30 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 38.38436,
+    "longitude": -81.81193
   },
   {
     "address": "1522 JOHNSTON ST",
