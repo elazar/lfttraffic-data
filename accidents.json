@@ -6,13 +6,5 @@
     "due_to": "Hazardous Material",
     "latitude": 30.25216,
     "longitude": -92.03842
-  },
-  {
-    "address": "25 BNSF RAILROAD CG",
-    "city": "LAFAYETTE",
-    "time": "05/30/2019 - 06:38 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 40.50211,
-    "longitude": -86.95026
   }
 ]
