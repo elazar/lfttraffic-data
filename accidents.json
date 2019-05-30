@@ -1,19 +1,27 @@
 [
   {
+    "address": "2300 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "05/30/2019 - 2:01 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2448302,
+    "longitude": -92.0002851
+  },
+  {
+    "address": "128 FANNY ST",
+    "city": "LAFAYETTE",
+    "time": "05/30/2019 - 2:01 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.18643,
+    "longitude": -92.01706
+  },
+  {
     "address": "509 LAFAYETTE ST",
     "city": "YOUNGSVILLE",
     "time": "05/30/2019 - 1:49 PM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.10459,
     "longitude": -91.99102
-  },
-  {
-    "address": "LOUISIANA AV & E WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "05/30/2019 - 1:49 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.24552,
-    "longitude": -92.00037
   },
   {
     "address": "2600 CAMERON ST",
