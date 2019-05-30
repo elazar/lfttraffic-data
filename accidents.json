@@ -14,13 +14,5 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 40.50211,
     "longitude": -86.95026
-  },
-  {
-    "address": "100 LANTIER RD",
-    "city": "LAFAYETTE",
-    "time": "05/30/2019 - 05:19 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.3522727,
-    "longitude": -91.9945998
   }
 ]
