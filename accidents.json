@@ -1,5 +1,13 @@
 [
   {
+    "address": "YOUNG ST & US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "05/30/2019 - 11:49 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.10187,
+    "longitude": -91.94194
+  },
+  {
     "address": "3200 CAMERON ST",
     "city": "LAFAYETTE",
     "time": "05/30/2019 - 11:48 AM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1666,
     "longitude": -92.07122
-  },
-  {
-    "address": "SW EVANGELINE TW & E TAFT ST",
-    "city": "LAFAYETTE",
-    "time": "05/30/2019 - 11:16 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22053,
-    "longitude": -92.00816
   },
   {
     "address": "1001 NE EVANGELINE TW",
