@@ -1,5 +1,13 @@
 [
   {
+    "address": "615 RUE DU BELIER",
+    "city": "LAFAYETTE",
+    "time": "05/30/2019 - 4:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19611,
+    "longitude": -92.09149
+  },
+  {
     "address": "W CONGRESS ST & BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "05/30/2019 - 4:41 PM",
