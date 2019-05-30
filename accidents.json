@@ -1,19 +1,11 @@
 [
   {
-    "address": "100 HANCOCK RD",
-    "city": "LAFAYETTE",
-    "time": "05/30/2019 - 6:31 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2543004,
-    "longitude": -92.0954749
-  },
-  {
-    "address": "FIFTEENTH ST & SW EVANGELINE TW",
+    "address": "1151 SW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "05/30/2019 - 5:37 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.21975,
-    "longitude": -92.00768
+    "latitude": 30.2196971,
+    "longitude": -92.0074553
   },
   {
     "address": "3112 AMBASSADOR CAFFERY PW",
