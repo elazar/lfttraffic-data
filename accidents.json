@@ -1,5 +1,13 @@
 [
   {
+    "address": "W WILLOW ST & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "05/30/2019 - 2:34 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.24448,
+    "longitude": -92.03275
+  },
+  {
     "address": "WESTMARK BL & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/30/2019 - 2:22 PM",
