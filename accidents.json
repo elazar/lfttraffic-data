@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "address": "1500 SE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "05/30/2019 - 09:27 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2131755,
+    "longitude": -92.0002649
+  },
+  {
+    "address": "111 LEE AV",
+    "city": "LAFAYETTE",
+    "time": "05/30/2019 - 09:26 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2257063,
+    "longitude": -92.014463
+  }
+]
