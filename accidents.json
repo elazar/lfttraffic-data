@@ -1,5 +1,13 @@
 [
   {
+    "address": "2600 CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "05/30/2019 - 1:42 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.233,
+    "longitude": -92.0449
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & ERASTE LANDRY RD",
     "city": "LAFAYETTE",
     "time": "05/30/2019 - 1:36 PM",
