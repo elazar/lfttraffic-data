@@ -1,5 +1,13 @@
 [
   {
+    "address": "1701 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "05/30/2019 - 2:15 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.25216,
+    "longitude": -92.03842
+  },
+  {
     "address": "128 FANNY ST",
     "city": "LAFAYETTE",
     "time": "05/30/2019 - 2:01 PM",
