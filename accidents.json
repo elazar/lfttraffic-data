@@ -1,5 +1,13 @@
 [
   {
+    "address": "W GLORIA SWITCH RD & N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "05/30/2019 - 5:18 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.29785,
+    "longitude": -92.04941
+  },
+  {
     "address": "3200 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/30/2019 - 5:08 PM",
