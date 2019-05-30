@@ -1,5 +1,13 @@
 [
   {
+    "address": "1214 COOLIDGE ST",
+    "city": "LAFAYETTE",
+    "time": "05/30/2019 - 07:50 AM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.2025101,
+    "longitude": -92.0186946
+  },
+  {
     "address": "E PONT DES MOUTON RD & HIGH MEADOWS BL",
     "city": "LAFAYETTE",
     "time": "05/30/2019 - 07:41 AM",
