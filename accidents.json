@@ -1,5 +1,21 @@
 [
   {
+    "address": "509 LAFAYETTE ST",
+    "city": "YOUNGSVILLE",
+    "time": "05/30/2019 - 1:49 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.10459,
+    "longitude": -91.99102
+  },
+  {
+    "address": "LOUISIANA AV & E WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "05/30/2019 - 1:49 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24552,
+    "longitude": -92.00037
+  },
+  {
     "address": "CURRAN LN & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/30/2019 - 1:48 PM",
