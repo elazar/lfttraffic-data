@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 W GLORIA SWITCH RD",
+    "city": "LAFAYETTE",
+    "time": "05/30/2019 - 09:34 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2959239,
+    "longitude": -92.0264909
+  },
+  {
     "address": "I49 NORTHBOUND MM3 HW & E GLORIA SWITCH RD",
     "city": "CARENCRO",
     "time": "05/30/2019 - 09:28 AM",
@@ -14,13 +22,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.2131755,
     "longitude": -92.0002649
-  },
-  {
-    "address": "111 LEE AV",
-    "city": "LAFAYETTE",
-    "time": "05/30/2019 - 09:26 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2257063,
-    "longitude": -92.014463
   }
 ]
