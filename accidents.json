@@ -1,5 +1,13 @@
 [
   {
+    "address": "1701 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "05/30/2019 - 06:43 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25216,
+    "longitude": -92.03842
+  },
+  {
     "address": "25 BNSF RAILROAD CG",
     "city": "LAFAYETTE",
     "time": "05/30/2019 - 06:38 AM",
