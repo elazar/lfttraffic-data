@@ -1,5 +1,13 @@
 [
   {
+    "address": "400 DORSET AV",
+    "city": "LAFAYETTE",
+    "time": "05/30/2019 - 1:29 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2111,
+    "longitude": -92.00407
+  },
+  {
     "address": "2448 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "05/30/2019 - 1:18 PM",
@@ -14,14 +22,6 @@
     "due_to": "Residential Fire",
     "latitude": 30.32903,
     "longitude": -92.08545
-  },
-  {
-    "address": "W PINHOOK RD & KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "05/30/2019 - 12:36 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1886,
-    "longitude": -92.0141
   },
   {
     "address": "300 JANVIER RD",
