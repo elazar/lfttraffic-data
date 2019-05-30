@@ -1,5 +1,13 @@
 [
   {
+    "address": "154 RONALD BL",
+    "city": "LAFAYETTE",
+    "time": "05/30/2019 - 5:00 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.20725,
+    "longitude": -92.02745
+  },
+  {
     "address": "615 RUE DU BELIER",
     "city": "LAFAYETTE",
     "time": "05/30/2019 - 4:43 PM",
