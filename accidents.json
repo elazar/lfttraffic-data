@@ -1,5 +1,21 @@
 [
   {
+    "address": "1000 MUDD AV",
+    "city": "LAFAYETTE",
+    "time": "05/30/2019 - 08:20 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2321098,
+    "longitude": -92.0068785
+  },
+  {
+    "address": "300 ARABELLA BL",
+    "city": "LAFAYETTE",
+    "time": "05/30/2019 - 08:20 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.17137,
+    "longitude": -92.04461
+  },
+  {
     "address": "900 E MAIN ST",
     "city": "BROUSSARD",
     "time": "05/30/2019 - 08:17 AM",
