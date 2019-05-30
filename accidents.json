@@ -1,5 +1,13 @@
 [
   {
+    "address": "3200 CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "05/30/2019 - 11:48 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.23324,
+    "longitude": -92.05758
+  },
+  {
     "address": "ROBLEY DR & LOWES CENTER DR",
     "city": "LAFAYETTE",
     "time": "05/30/2019 - 11:19 AM",
