@@ -1,5 +1,13 @@
 [
   {
+    "address": "902 ST MARY ST",
+    "city": "SCOTT",
+    "time": "05/30/2019 - 01:43 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23476,
+    "longitude": -92.09412
+  },
+  {
     "address": "6400 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "05/30/2019 - 01:35 AM",
