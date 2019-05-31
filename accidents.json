@@ -1,5 +1,13 @@
 [
   {
+    "address": "E CYPRESS ST & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "05/31/2019 - 1:40 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.22453,
+    "longitude": -92.01428
+  },
+  {
     "address": "W TAFT ST & JEFFERSON ST",
     "city": "LAFAYETTE",
     "time": "05/31/2019 - 1:37 PM",
