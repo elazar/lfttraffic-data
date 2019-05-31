@@ -1,5 +1,13 @@
 [
   {
+    "address": "KALISTE SALOOM RD & CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "05/31/2019 - 10:40 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16717,
+    "longitude": -92.03642
+  },
+  {
     "address": "NE EVANGELINE TW & I10 HW",
     "city": "LAFAYETTE",
     "time": "05/31/2019 - 10:39 AM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22258,
     "longitude": -92.0208
-  },
-  {
-    "address": "2600 N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "05/31/2019 - 10:06 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.2720128,
-    "longitude": -92.0472285
   },
   {
     "address": "AMBASSADOR CAFFERY PW & I10 HW",
