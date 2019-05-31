@@ -1,11 +1,11 @@
 [
   {
-    "address": "ERIC ST & BYRON ST",
+    "address": "1022 MADELINE AV",
     "city": "LAFAYETTE",
     "time": "05/31/2019 - 11:39 AM",
     "due_to": "Incoming Call",
-    "latitude": 30.23864,
-    "longitude": -92.03595
+    "latitude": 30.2396,
+    "longitude": -92.03559
   },
   {
     "address": "KALISTE SALOOM RD & LIBERTY AV",
@@ -14,14 +14,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16187,
     "longitude": -92.04304
-  },
-  {
-    "address": "5300 DECON RD",
-    "city": "LAFAYETTE",
-    "time": "05/31/2019 - 11:19 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.0594791,
-    "longitude": -92.0239772
   },
   {
     "address": "LAFAYETTE ST & W MAIN ST",
