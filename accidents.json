@@ -38,13 +38,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.18179,
     "longitude": -92.07081
-  },
-  {
-    "address": "W TAFT ST & JEFFERSON ST",
-    "city": "LAFAYETTE",
-    "time": "05/31/2019 - 1:37 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.21595,
-    "longitude": -92.01131
   }
 ]
