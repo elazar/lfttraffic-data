@@ -1,5 +1,13 @@
 [
   {
+    "address": "1245 S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "05/31/2019 - 08:58 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.2002,
+    "longitude": -92.02432
+  },
+  {
     "address": "4 I49 NORTHBOUND MM4 HW",
     "city": "LAFAYETTE",
     "time": "05/31/2019 - 08:57 AM",
