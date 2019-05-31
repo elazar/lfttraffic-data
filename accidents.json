@@ -1,5 +1,13 @@
 [
   {
+    "address": "1810 W GLORIA SWITCH RD",
+    "city": "LAFAYETTE",
+    "time": "05/30/2019 - 7:49 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.29796,
+    "longitude": -92.07477
+  },
+  {
     "address": "728 W GLORIA SWITCH RD",
     "city": "CARENCRO",
     "time": "05/30/2019 - 7:29 PM",
