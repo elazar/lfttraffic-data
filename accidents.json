@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & MACON RD",
+    "city": "LAFAYETTE",
+    "time": "05/31/2019 - 08:48 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.23245,
+    "longitude": -92.04978
+  },
+  {
     "address": "2900 CAMERON ST",
     "city": "LAFAYETTE",
     "time": "05/31/2019 - 07:14 AM",
