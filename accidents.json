@@ -1,5 +1,13 @@
 [
   {
+    "address": "4 I49 NORTHBOUND MM4 HW",
+    "city": "LAFAYETTE",
+    "time": "05/31/2019 - 08:57 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.28006,
+    "longitude": -92.02024
+  },
+  {
     "address": "615 LA 93 HW",
     "city": "SCOTT",
     "time": "05/31/2019 - 08:53 AM",
