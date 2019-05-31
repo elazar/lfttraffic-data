@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1918 W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "05/31/2019 - 4:48 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.23089,
+    "longitude": -92.03119
+  }
+]
