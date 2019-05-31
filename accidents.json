@@ -1,5 +1,21 @@
 [
   {
+    "address": "3810 NE EVANGELINE TW",
+    "city": "CARENCRO",
+    "time": "05/31/2019 - 1:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.31876,
+    "longitude": -92.03205
+  },
+  {
+    "address": "100 DILLARD DR",
+    "city": "LAFAYETTE",
+    "time": "05/31/2019 - 1:51 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1741747,
+    "longitude": -92.0701219
+  },
+  {
     "address": "JOHNSTON ST & BROADMOOR BL",
     "city": "LAFAYETTE",
     "time": "05/31/2019 - 1:48 PM",
@@ -24,12 +40,11 @@
     "longitude": -92.01131
   },
   {
-    "address": "300 CORONA DR",
+    "address": "AMBASSADOR CAFFERY PW & DILLARD DR",
     "city": "LAFAYETTE",
-    "time": "05/31/2019 - 1:03 PM",
+    "time": "05/31/2019 - 12:46 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.18321,
-    "longitude": -92.05531
-  },
-  null
+    "latitude": 30.17422,
+    "longitude": -92.06987
+  }
 ]
