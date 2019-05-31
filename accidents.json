@@ -1,19 +1,19 @@
 [
   {
+    "address": "300 DETENTE RD",
+    "city": "YOUNGSVILLE",
+    "time": "05/31/2019 - 12:07 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.0893456,
+    "longitude": -92.0056344
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & TARGET LP",
     "city": "LAFAYETTE",
     "time": "05/31/2019 - 11:44 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.17961,
     "longitude": -92.07499
-  },
-  {
-    "address": "1022 MADELINE AV",
-    "city": "LAFAYETTE",
-    "time": "05/31/2019 - 11:39 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.2396,
-    "longitude": -92.03559
   },
   {
     "address": "KALISTE SALOOM RD & LIBERTY AV",
