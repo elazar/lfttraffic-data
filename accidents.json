@@ -1,5 +1,13 @@
 [
   {
+    "address": "JEFFERSON ST & E TAFT ST",
+    "city": "LAFAYETTE",
+    "time": "05/31/2019 - 1:18 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.21595,
+    "longitude": -92.01131
+  },
+  {
     "address": "GENERAL MOUTON AV & W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "05/31/2019 - 1:13 PM",
