@@ -1,5 +1,13 @@
 [
   {
+    "address": "BNSF RAILROAD CG & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "05/31/2019 - 12:56 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.20293,
+    "longitude": -92.05048
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & DILLARD DR",
     "city": "LAFAYETTE",
     "time": "05/31/2019 - 12:46 PM",
