@@ -1,5 +1,13 @@
 [
   {
+    "address": "W TAFT ST & JEFFERSON ST",
+    "city": "LAFAYETTE",
+    "time": "05/31/2019 - 1:37 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.21595,
+    "longitude": -92.01131
+  },
+  {
     "address": "300 CORONA DR",
     "city": "LAFAYETTE",
     "time": "05/31/2019 - 1:03 PM",
