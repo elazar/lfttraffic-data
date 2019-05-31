@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & TARGET LP",
+    "city": "LAFAYETTE",
+    "time": "05/31/2019 - 11:44 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17961,
+    "longitude": -92.07499
+  },
+  {
     "address": "1022 MADELINE AV",
     "city": "LAFAYETTE",
     "time": "05/31/2019 - 11:39 AM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16187,
     "longitude": -92.04304
-  },
-  {
-    "address": "LAFAYETTE ST & W MAIN ST",
-    "city": "LAFAYETTE",
-    "time": "05/31/2019 - 10:26 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22258,
-    "longitude": -92.0208
   }
 ]
