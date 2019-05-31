@@ -1,21 +1,5 @@
 [
   {
-    "address": "JEFFERSON ST & JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "05/31/2019 - 1:32 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.2201,
-    "longitude": -92.0172
-  },
-  {
-    "address": "GENERAL MOUTON AV & W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "05/31/2019 - 1:13 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.21246,
-    "longitude": -92.00861
-  },
-  {
     "address": "300 CORONA DR",
     "city": "LAFAYETTE",
     "time": "05/31/2019 - 1:03 PM",
