@@ -1,5 +1,13 @@
 [
   {
+    "address": "816 MARTIN LUTHER KING JR DR",
+    "city": "LAFAYETTE",
+    "time": "05/31/2019 - 5:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24864,
+    "longitude": -92.02289
+  },
+  {
     "address": "6422 AMBASSADOR CAFFERY PW",
     "city": "BROUSSARD",
     "time": "05/31/2019 - 4:49 PM",
