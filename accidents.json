@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17422,
     "longitude": -92.06987
-  },
-  {
-    "address": "300 DETENTE RD",
-    "city": "YOUNGSVILLE",
-    "time": "05/31/2019 - 12:07 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.0893456,
-    "longitude": -92.0056344
   }
 ]
