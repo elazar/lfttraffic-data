@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & ST JOSEPH ST",
+    "city": "LAFAYETTE",
+    "time": "05/31/2019 - 6:55 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22353,
+    "longitude": -92.03323
+  },
+  {
     "address": "SETTLERS TRACE BL & CAMELLIA BL",
     "city": "LAFAYETTE",
     "time": "05/31/2019 - 6:54 PM",
@@ -14,14 +22,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.1737458,
     "longitude": -92.0097753
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "05/31/2019 - 6:49 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.15649,
-    "longitude": -92.04838
   },
   {
     "address": "444 CAJUNDOME BL",
