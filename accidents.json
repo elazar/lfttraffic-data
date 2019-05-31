@@ -1,5 +1,13 @@
 [
   {
+    "address": "4105 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "05/30/2019 - 8:51 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.15359,
+    "longitude": -91.95889
+  },
+  {
     "address": "2404 GENDARME RD",
     "city": "LAFAYETTE",
     "time": "05/30/2019 - 8:03 PM",
