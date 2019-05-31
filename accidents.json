@@ -1,5 +1,21 @@
 [
   {
+    "address": "1800 NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "05/30/2019 - 9:38 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2471165,
+    "longitude": -92.0137397
+  },
+  {
+    "address": "2000 NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "05/30/2019 - 9:38 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.24948,
+    "longitude": -92.01498
+  },
+  {
     "address": "I49 NORTHBOUND MM3 HW & E GLORIA SWITCH RD",
     "city": "CARENCRO",
     "time": "05/30/2019 - 09:28 AM",
