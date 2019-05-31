@@ -1,13 +1,5 @@
 [
   {
-    "address": "100 RAYBURN ST",
-    "city": "LAFAYETTE",
-    "time": "05/31/2019 - 10:48 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2164981,
-    "longitude": -92.048281
-  },
-  {
     "address": "2801 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "05/31/2019 - 10:43 AM",
@@ -30,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22258,
     "longitude": -92.0208
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & I10 HW",
-    "city": "LAFAYETTE",
-    "time": "05/31/2019 - 09:55 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21504,
-    "longitude": -92.07579
   }
 ]
