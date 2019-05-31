@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 DILLARD DR",
+    "city": "LAFAYETTE",
+    "time": "05/31/2019 - 1:51 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1741747,
+    "longitude": -92.0701219
+  },
+  {
     "address": "JOHNSTON ST & BROADMOOR BL",
     "city": "LAFAYETTE",
     "time": "05/31/2019 - 1:48 PM",
@@ -22,14 +30,6 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.21595,
     "longitude": -92.01131
-  },
-  {
-    "address": "300 CORONA DR",
-    "city": "LAFAYETTE",
-    "time": "05/31/2019 - 1:03 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18321,
-    "longitude": -92.05531
   },
   {
     "address": "AMBASSADOR CAFFERY PW & DILLARD DR",
