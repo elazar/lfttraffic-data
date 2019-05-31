@@ -1,27 +1,11 @@
 [
   {
-    "address": "2100 N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "05/31/2019 - 2:56 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.2598017,
-    "longitude": -92.0406677
-  },
-  {
     "address": "W PINHOOK RD & E UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "05/31/2019 - 2:34 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.21056,
     "longitude": -92.00978
-  },
-  {
-    "address": "SW EVANGELINE TW & JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "05/31/2019 - 1:58 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22457,
-    "longitude": -92.01033
   },
   {
     "address": "JOHNSTON ST & BROADMOOR BL",
