@@ -1,27 +1,11 @@
 [
   {
-    "address": "3555 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "05/31/2019 - 11:10 PM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.17648,
-    "longitude": -92.07234
-  },
-  {
     "address": "105 E CONVENT ST",
     "city": "LAFAYETTE",
     "time": "05/31/2019 - 10:05 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.22163,
     "longitude": -92.0177
-  },
-  {
-    "address": "101 JEFFERSON BL",
-    "city": "LAFAYETTE",
-    "time": "05/31/2019 - 9:40 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22819,
-    "longitude": -92.0144
   },
   {
     "address": "5100 AMBASSADOR CAFFERY PW",
