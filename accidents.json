@@ -1,5 +1,13 @@
 [
   {
+    "address": "27 BNSF RAILROAD CG",
+    "city": "LAFAYETTE",
+    "time": "05/31/2019 - 10:48 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 40.50211,
+    "longitude": -86.95026
+  },
+  {
     "address": "W PINHOOK RD & E UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "05/31/2019 - 10:43 PM",
