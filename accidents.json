@@ -1,5 +1,21 @@
 [
   {
+    "address": "1200 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "06/01/2019 - 4:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20286,
+    "longitude": -92.01454
+  },
+  {
+    "address": "5622 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/01/2019 - 4:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17764,
+    "longitude": -92.07526
+  },
+  {
     "address": "3 I49 SOUTHBOUND MM3 HW",
     "city": "CARENCRO",
     "time": "06/01/2019 - 4:13 PM",
