@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & ST NAZAIRE RD",
+    "city": "BROUSSARD",
+    "time": "06/01/2019 - 10:56 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.1406051,
+    "longitude": -91.9448999
+  },
+  {
     "address": "I10 EASTBOUND MM101 HW & N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "06/01/2019 - 10:51 AM",
