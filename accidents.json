@@ -1,5 +1,21 @@
 [
   {
+    "address": "ST MARY ST & APOLLO RD",
+    "city": "SCOTT",
+    "time": "06/01/2019 - 2:03 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24428,
+    "longitude": -92.10699
+  },
+  {
+    "address": "MOUNT VERNON DR & CAMELLIA DR",
+    "city": "LAFAYETTE",
+    "time": "06/01/2019 - 2:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18558,
+    "longitude": -92.05388
+  },
+  {
     "address": "S COLLEGE RD & W BAYOU PW",
     "city": "LAFAYETTE",
     "time": "06/01/2019 - 1:39 PM",
