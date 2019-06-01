@@ -22,21 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.31876,
     "longitude": -92.03205
-  },
-  {
-    "address": "US 90 EAST HW & ST NAZAIRE RD",
-    "city": "BROUSSARD",
-    "time": "06/01/2019 - 10:56 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.1406051,
-    "longitude": -91.9448999
-  },
-  {
-    "address": "E BROUSSARD RD & JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "06/01/2019 - 10:48 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15059,
-    "longitude": -92.09379
   }
 ]
