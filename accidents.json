@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "E BROUSSARD RD & KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "06/01/2019 - 6:28 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.13792,
+    "longitude": -92.06754
+  }
+]
