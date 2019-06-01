@@ -1,5 +1,13 @@
 [
   {
+    "address": "WOODROW ST & CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "05/31/2019 - 7:12 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23259,
+    "longitude": -92.05655
+  },
+  {
     "address": "W CONGRESS ST & ST JOSEPH ST",
     "city": "LAFAYETTE",
     "time": "05/31/2019 - 6:55 PM",
