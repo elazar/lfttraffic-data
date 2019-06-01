@@ -1,11 +1,11 @@
 [
   {
-    "address": "251 SE EVANGELINE TW",
+    "address": "624 E KALISTE SALOOM RD",
     "city": "LAFAYETTE",
-    "time": "06/01/2019 - 11:59 AM",
+    "time": "06/01/2019 - 12:34 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.2280304,
-    "longitude": -92.0109825
+    "latitude": 30.19682,
+    "longitude": -92.00375
   },
   {
     "address": "611 CHURCHILL DR",
@@ -14,14 +14,6 @@
     "due_to": "Fire Investigation",
     "latitude": 30.19683,
     "longitude": -92.06401
-  },
-  {
-    "address": "3537 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/01/2019 - 11:42 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17801,
-    "longitude": -92.07253
   },
   {
     "address": "3810 NE EVANGELINE TW",
