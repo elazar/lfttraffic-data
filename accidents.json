@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOLI RD & GENDARME RD",
+    "city": "LAFAYETTE",
+    "time": "06/01/2019 - 1:30 PM",
+    "due_to": "Hazard",
+    "latitude": 30.32842,
+    "longitude": -92.08513
+  },
+  {
     "address": "1210 ALBERTSON PW",
     "city": "BROUSSARD",
     "time": "06/01/2019 - 1:17 PM",
