@@ -1,13 +1,5 @@
 [
   {
-    "address": "WALTER DR & W GLORIA SWITCH RD",
-    "city": "CARENCRO",
-    "time": "06/01/2019 - 12:48 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.29783,
-    "longitude": -92.03873
-  },
-  {
     "address": "2825 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/01/2019 - 12:48 PM",
@@ -16,12 +8,12 @@
     "longitude": -92.03969
   },
   {
-    "address": "I10 WESTBOUND MM99-5 HW & N AMBASSADOR CAFFERY PW",
+    "address": "100 I10 WB EXIT RAMP HW",
     "city": "LAFAYETTE",
     "time": "06/01/2019 - 12:47 PM",
     "due_to": "Traffic Control",
-    "latitude": 30.2440622,
-    "longitude": -92.0661226
+    "latitude": 30.26255,
+    "longitude": -92.00867
   },
   {
     "address": "900 MADELINE AV",
@@ -46,13 +38,5 @@
     "due_to": "Fire Investigation",
     "latitude": 30.19683,
     "longitude": -92.06401
-  },
-  {
-    "address": "3810 NE EVANGELINE TW",
-    "city": "CARENCRO",
-    "time": "06/01/2019 - 11:07 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.31876,
-    "longitude": -92.03205
   }
 ]
