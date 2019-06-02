@@ -1,5 +1,13 @@
 [
   {
+    "address": "619 BREAUX RD",
+    "city": "LAFAYETTE",
+    "time": "06/02/2019 - 12:30 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.14504,
+    "longitude": -92.11772
+  },
+  {
     "address": "105 I10 WESTBOUND MM105 HW",
     "city": "LAFAYETTE",
     "time": "06/01/2019 - 11:48 PM",
