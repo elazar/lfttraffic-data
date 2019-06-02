@@ -1,5 +1,13 @@
 [
   {
+    "address": "305 KINGS RD",
+    "city": "LAFAYETTE",
+    "time": "06/01/2019 - 7:58 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.18728,
+    "longitude": -92.03188
+  },
+  {
     "address": "POTIER RD & FRANCOIS RD",
     "city": "CARENCRO",
     "time": "06/01/2019 - 7:30 PM",
