@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 CURRAN LN",
+    "city": "LAFAYETTE",
+    "time": "06/02/2019 - 5:36 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18917,
+    "longitude": -92.08009
+  },
+  {
     "address": "VINCENT RD & DEMETTE RD",
     "city": "LAFAYETTE",
     "time": "06/02/2019 - 5:26 PM",
