@@ -1,5 +1,13 @@
 [
   {
+    "address": "111 OAK TERRACE",
+    "city": "LAFAYETTE",
+    "time": "06/02/2019 - 6:37 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.19285,
+    "longitude": -92.00472
+  },
+  {
     "address": "4400 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/02/2019 - 6:34 PM",
