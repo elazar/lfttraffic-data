@@ -1,5 +1,13 @@
 [
   {
+    "address": "404 GIRARD PARK DR",
+    "city": "LAFAYETTE",
+    "time": "06/02/2019 - 6:55 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20668,
+    "longitude": -92.01887
+  },
+  {
     "address": "111 OAK TERRACE",
     "city": "LAFAYETTE",
     "time": "06/02/2019 - 6:37 PM",
