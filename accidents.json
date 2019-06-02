@@ -1,11 +1,11 @@
 [
   {
-    "address": "CLAYSTONE RD & SAPPHIRE SPRINGS RD",
+    "address": "416 CLAYSTONE RD",
     "city": "YOUNGSVILLE",
     "time": "06/01/2019 - 11:07 PM",
     "due_to": "Fire Investigation",
-    "latitude": 30.11922,
-    "longitude": -91.99329
+    "latitude": 30.1195,
+    "longitude": -91.99346
   },
   {
     "address": "SOUTHCITY PW & JOHNSTON ST",
@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.24447,
     "longitude": -92.01187
-  },
-  {
-    "address": "2448 W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "06/01/2019 - 8:58 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.21267,
-    "longitude": -92.0506
   }
 ]
