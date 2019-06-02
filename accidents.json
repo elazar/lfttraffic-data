@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 THEATRE ST",
+    "city": "LAFAYETTE",
+    "time": "06/02/2019 - 5:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21057,
+    "longitude": -92.0474
+  },
+  {
     "address": "2520 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "06/02/2019 - 5:16 PM",
