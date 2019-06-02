@@ -1,5 +1,13 @@
 [
   {
+    "address": "AUSTRIA RD & DAULAT DR",
+    "city": "DUSON",
+    "time": "06/02/2019 - 11:44 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24325,
+    "longitude": -92.19304
+  },
+  {
     "address": "3100 MILLS ST",
     "city": "LAFAYETTE",
     "time": "06/02/2019 - 11:39 AM",
