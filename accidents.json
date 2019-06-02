@@ -1,5 +1,13 @@
 [
   {
+    "address": "916 LAFAYETTE ST",
+    "city": "LAFAYETTE",
+    "time": "06/01/2019 - 8:30 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.22351,
+    "longitude": -92.0214
+  },
+  {
     "address": "POTIER RD & FRANCOIS RD",
     "city": "CARENCRO",
     "time": "06/01/2019 - 7:30 PM",
