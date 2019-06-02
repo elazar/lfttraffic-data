@@ -22,5 +22,13 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.13618,
     "longitude": -92.04381
+  },
+  {
+    "address": "107 SUNNY OAK TL",
+    "city": "LAFAYETTE",
+    "time": "06/02/2019 - 5:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.31062,
+    "longitude": -92.08434
   }
 ]
