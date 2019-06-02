@@ -1,5 +1,13 @@
 [
   {
+    "address": "VINCENT RD & DEMETTE RD",
+    "city": "LAFAYETTE",
+    "time": "06/02/2019 - 5:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13618,
+    "longitude": -92.04381
+  },
+  {
     "address": "W GLORIA SWITCH RD & WALTER DR",
     "city": "CARENCRO",
     "time": "06/02/2019 - 5:21 PM",
