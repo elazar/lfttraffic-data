@@ -1,5 +1,13 @@
 [
   {
+    "address": "800 ROBLEY DR",
+    "city": "LAFAYETTE",
+    "time": "06/02/2019 - 12:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1712268,
+    "longitude": -92.0664168
+  },
+  {
     "address": "AUSTRIA RD & DAULAT DR",
     "city": "DUSON",
     "time": "06/02/2019 - 11:44 AM",
