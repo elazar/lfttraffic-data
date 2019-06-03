@@ -1,5 +1,13 @@
 [
   {
+    "address": "W WILLOW ST & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "06/03/2019 - 11:35 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24448,
+    "longitude": -92.03275
+  },
+  {
     "address": "N UNIVERSITY AV & VETERANS DR",
     "city": "CARENCRO",
     "time": "06/03/2019 - 11:22 AM",
