@@ -1,5 +1,13 @@
 [
   {
+    "address": "E WILLOW ST & MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "06/03/2019 - 12:38 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24378,
+    "longitude": -92.00638
+  },
+  {
     "address": "125 ROMERO ST",
     "city": "YOUNGSVILLE",
     "time": "06/03/2019 - 12:29 PM",
