@@ -1,5 +1,13 @@
 [
   {
+    "address": "4400 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/03/2019 - 5:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15712,
+    "longitude": -92.05125
+  },
+  {
     "address": "1 I49 NORTHBOUND MM1 HW",
     "city": "LAFAYETTE",
     "time": "06/03/2019 - 5:39 PM",
