@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2021,
     "longitude": -92.05095
-  },
-  {
-    "address": "300 RENAUD DR",
-    "city": "LAFAYETTE",
-    "time": "06/03/2019 - 3:03 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2543849,
-    "longitude": -92.0454579
   }
 ]
