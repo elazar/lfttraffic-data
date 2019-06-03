@@ -1,5 +1,13 @@
 [
   {
+    "address": "111 MEADOW FARM RD",
+    "city": "LAFAYETTE",
+    "time": "06/03/2019 - 2:07 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15766,
+    "longitude": -92.04442
+  },
+  {
     "address": "103 I10 WESTBOUND MM103A HW",
     "city": "LAFAYETTE",
     "time": "06/03/2019 - 1:59 PM",
