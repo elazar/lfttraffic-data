@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "TI FRERE RD & FLYING W DR",
+    "city": "LAFAYETTE",
+    "time": "06/03/2019 - 09:08 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.34321,
+    "longitude": -92.00493
+  }
+]
