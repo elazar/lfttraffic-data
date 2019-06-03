@@ -1,5 +1,13 @@
 [
   {
+    "address": "333 POPE DR",
+    "city": "LAFAYETTE",
+    "time": "06/03/2019 - 1:08 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.31525,
+    "longitude": -92.10108
+  },
+  {
     "address": "102 I10 EASTBOUND MM102 HW",
     "city": "LAFAYETTE",
     "time": "06/03/2019 - 12:47 PM",
