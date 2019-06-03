@@ -1,5 +1,13 @@
 [
   {
+    "address": "BERTRAND DR & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "06/03/2019 - 2:35 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21493,
+    "longitude": -92.04696
+  },
+  {
     "address": "WESTGATE RD & CAMERON ST",
     "city": "SCOTT",
     "time": "06/03/2019 - 2:34 PM",
