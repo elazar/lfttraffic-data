@@ -1,5 +1,13 @@
 [
   {
+    "address": "WESTGATE RD & CAMERON ST",
+    "city": "SCOTT",
+    "time": "06/03/2019 - 2:34 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23274,
+    "longitude": -92.08691
+  },
+  {
     "address": "SE EVANGELINE TW & E KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "06/03/2019 - 2:09 PM",
