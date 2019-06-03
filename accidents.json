@@ -1,5 +1,13 @@
 [
   {
+    "address": "103 I10 WESTBOUND MM103A HW",
+    "city": "LAFAYETTE",
+    "time": "06/03/2019 - 1:59 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "SE EVANGELINE TW & E KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "06/03/2019 - 1:51 PM",
