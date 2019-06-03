@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "06/03/2019 - 3:12 PM",
+    "due_to": "Hazardous Situation",
+    "latitude": 30.23236,
+    "longitude": -92.03238
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & CAMERON ST",
     "city": "LAFAYETTE",
     "time": "06/03/2019 - 3:10 PM",
@@ -70,14 +78,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.2195,
     "longitude": -92.06465
-  },
-  {
-    "address": "2916 N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "06/03/2019 - 2:37 PM",
-    "due_to": "Grass Fire",
-    "latitude": 30.28223,
-    "longitude": -92.0455
   },
   {
     "address": "WESTGATE RD & CAMERON ST",
