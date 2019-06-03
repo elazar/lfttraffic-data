@@ -1,5 +1,13 @@
 [
   {
+    "address": "123 ST NAZAIRE RD",
+    "city": "BROUSSARD",
+    "time": "06/03/2019 - 1:43 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.14362,
+    "longitude": -91.94369
+  },
+  {
     "address": "SE EVANGELINE TW & E KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "06/03/2019 - 1:36 PM",
