@@ -32,12 +32,12 @@
     "longitude": -91.99958
   },
   {
-    "address": "3219 JOHNSTON ST",
+    "address": "100 NOEL DR",
     "city": "LAFAYETTE",
     "time": "06/03/2019 - 3:25 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.2026,
-    "longitude": -92.05057
+    "latitude": 30.2021,
+    "longitude": -92.05095
   },
   {
     "address": "N UNIVERSITY AV & CAMERON ST",
@@ -54,14 +54,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2543849,
     "longitude": -92.0454579
-  },
-  {
-    "address": "3200 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/03/2019 - 2:41 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18563,
-    "longitude": -92.07544
   },
   {
     "address": "ERASTE LANDRY RD & FOREMAN DR",
