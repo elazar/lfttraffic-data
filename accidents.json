@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & YOUNGSVILLE HW",
+    "city": "BROUSSARD",
+    "time": "06/03/2019 - 6:02 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.13508,
+    "longitude": -91.99044
+  },
+  {
     "address": "4400 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/03/2019 - 5:45 PM",
@@ -30,13 +38,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.1999633,
     "longitude": -91.9986928
-  },
-  {
-    "address": "JEFFERSON ST & W MAIN ST",
-    "city": "LAFAYETTE",
-    "time": "06/03/2019 - 3:59 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.22291,
-    "longitude": -92.01878
   }
 ]
