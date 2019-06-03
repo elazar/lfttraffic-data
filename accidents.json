@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 W MAIN ST",
+    "city": "BROUSSARD",
+    "time": "06/03/2019 - 12:25 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14823,
+    "longitude": -91.96419
+  },
+  {
     "address": "DULLES DR & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/03/2019 - 12:16 PM",
