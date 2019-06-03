@@ -1,5 +1,13 @@
 [
   {
+    "address": "1001 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "06/03/2019 - 1:25 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23683,
+    "longitude": -92.01315
+  },
+  {
     "address": "JEFFERSON ST & E MAIN ST",
     "city": "LAFAYETTE",
     "time": "06/03/2019 - 1:23 PM",
