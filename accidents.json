@@ -1,5 +1,13 @@
 [
   {
+    "address": "N DOMINGUE AV & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "06/02/2019 - 11:35 PM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.19586,
+    "longitude": -92.08353
+  },
+  {
     "address": "501 GENEVIEVE DR",
     "city": "LAFAYETTE",
     "time": "06/02/2019 - 11:30 PM",
