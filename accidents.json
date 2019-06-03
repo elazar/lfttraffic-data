@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & ABRAHAM DR",
+    "city": "LAFAYETTE",
+    "time": "06/02/2019 - 10:14 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.24052,
+    "longitude": -92.03242
+  },
+  {
     "address": "NW EVANGELINE TW & W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "06/02/2019 - 9:40 PM",
