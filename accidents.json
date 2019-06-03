@@ -1,5 +1,13 @@
 [
   {
+    "address": "GAYNOR DR & ALTLAND DR",
+    "city": "SCOTT",
+    "time": "06/03/2019 - 1:09 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.25841,
+    "longitude": -92.09477
+  },
+  {
     "address": "333 POPE DR",
     "city": "LAFAYETTE",
     "time": "06/03/2019 - 1:08 PM",
@@ -30,6 +38,14 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21504,
     "longitude": -92.07579
+  },
+  {
+    "address": "100 W MAIN ST",
+    "city": "BROUSSARD",
+    "time": "06/03/2019 - 12:25 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14823,
+    "longitude": -91.96419
   },
   {
     "address": "W WILLOW ST & N UNIVERSITY AV",
