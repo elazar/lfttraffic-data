@@ -1,5 +1,13 @@
 [
   {
+    "address": "3219 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/03/2019 - 3:25 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2026,
+    "longitude": -92.05057
+  },
+  {
     "address": "N UNIVERSITY AV & CAMERON ST",
     "city": "LAFAYETTE",
     "time": "06/03/2019 - 3:12 PM",
@@ -56,28 +64,12 @@
     "longitude": -92.06465
   },
   {
-    "address": "ERASTE LANDRY RD & FOREMAN DR",
-    "city": "LAFAYETTE",
-    "time": "06/03/2019 - 2:37 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.2195,
-    "longitude": -92.06465
-  },
-  {
     "address": "WESTGATE RD & CAMERON ST",
     "city": "SCOTT",
     "time": "06/03/2019 - 2:34 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.23274,
     "longitude": -92.08691
-  },
-  {
-    "address": "SE EVANGELINE TW & E KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "06/03/2019 - 2:09 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20067,
-    "longitude": -91.99958
   },
   {
     "address": "SE EVANGELINE TW & E KALISTE SALOOM RD",
