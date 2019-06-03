@@ -30,13 +30,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.24447,
     "longitude": -92.01187
-  },
-  {
-    "address": "206 FIFTH ST",
-    "city": "YOUNGSVILLE",
-    "time": "06/02/2019 - 9:14 PM",
-    "due_to": "Hazardous Situation",
-    "latitude": 30.09601,
-    "longitude": -91.99721
   }
 ]
