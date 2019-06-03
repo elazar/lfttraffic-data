@@ -1,5 +1,21 @@
 [
   {
+    "address": "VEROT SCHOOL RD & YVETTE MARIE DR",
+    "city": "LAFAYETTE",
+    "time": "06/03/2019 - 3:31 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1587,
+    "longitude": -92.02335
+  },
+  {
+    "address": "412 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/03/2019 - 3:31 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23951,
+    "longitude": -92.0666
+  },
+  {
     "address": "WALKER RD & HEBERT RD",
     "city": "LAFAYETTE",
     "time": "06/03/2019 - 3:28 PM",
@@ -86,13 +102,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23274,
     "longitude": -92.08691
-  },
-  {
-    "address": "SE EVANGELINE TW & E KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "06/03/2019 - 1:36 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.20067,
-    "longitude": -91.99958
   }
 ]
