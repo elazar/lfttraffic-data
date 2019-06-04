@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "5 I49 SOUTHBOUND MM5 HW",
+    "city": "LAFAYETTE",
+    "time": "06/04/2019 - 07:26 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.28006,
+    "longitude": -92.02024
+  }
+]
