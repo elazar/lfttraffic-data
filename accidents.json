@@ -1,5 +1,13 @@
 [
   {
+    "address": "104 I10 EASTBOUND MM104 HW",
+    "city": "LAFAYETTE",
+    "time": "06/04/2019 - 6:51 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "100 OLYMPIC DR",
     "city": "SCOTT",
     "time": "06/04/2019 - 6:49 PM",
