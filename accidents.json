@@ -1,5 +1,13 @@
 [
   {
+    "address": "E ST PETER ST & N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "06/04/2019 - 6:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.3177,
+    "longitude": -92.04951
+  },
+  {
     "address": "LA NEUVILLE RD & BONIN RD",
     "city": "LAFAYETTE",
     "time": "06/04/2019 - 5:26 PM",
