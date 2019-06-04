@@ -1,5 +1,13 @@
 [
   {
+    "address": "104 I10 WESTBOUND MM104 HW",
+    "city": "LAFAYETTE",
+    "time": "06/04/2019 - 09:10 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "W CONGRESS ST & RUE DU BELIER",
     "city": "LAFAYETTE",
     "time": "06/04/2019 - 09:04 AM",
