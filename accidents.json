@@ -6,13 +6,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.1585441,
     "longitude": -91.9475629
-  },
-  {
-    "address": "JOHNSTON ST & E BROUSSARD RD",
-    "city": "LAFAYETTE",
-    "time": "06/04/2019 - 09:56 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.15059,
-    "longitude": -92.09379
   }
 ]
