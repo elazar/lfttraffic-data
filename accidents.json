@@ -1,5 +1,13 @@
 [
   {
+    "address": "102 I10 EASTBOUND MM102 HW",
+    "city": "LAFAYETTE",
+    "time": "06/04/2019 - 1:15 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "1751 N ST ANTOINE ST",
     "city": "LAFAYETTE",
     "time": "06/04/2019 - 12:37 PM",
