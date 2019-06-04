@@ -1,5 +1,13 @@
 [
   {
+    "address": "617 VATICAN RD (SE)",
+    "city": "LAFAYETTE",
+    "time": "06/04/2019 - 11:44 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.30885,
+    "longitude": -92.10611
+  },
+  {
     "address": "623 LAFAYETTE ST",
     "city": "YOUNGSVILLE",
     "time": "06/04/2019 - 11:35 AM",
