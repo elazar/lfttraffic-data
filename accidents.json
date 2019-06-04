@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & MADELINE AV",
+    "city": "LAFAYETTE",
+    "time": "06/04/2019 - 6:38 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23907,
+    "longitude": -92.03243
+  },
+  {
     "address": "4401 N UNIVERSITY AV",
     "city": "CARENCRO",
     "time": "06/04/2019 - 6:00 PM",
