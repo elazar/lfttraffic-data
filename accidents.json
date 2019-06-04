@@ -1,5 +1,13 @@
 [
   {
+    "address": "810 W BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "06/04/2019 - 05:40 AM",
+    "due_to": "Hazard",
+    "latitude": 30.17701,
+    "longitude": -92.0973
+  },
+  {
     "address": "US 90 EAST HW & N MORGAN AV",
     "city": "BROUSSARD",
     "time": "06/04/2019 - 05:36 AM",
