@@ -16,14 +16,6 @@
     "longitude": -92.03517
   },
   {
-    "address": "92 I10 EASTBOUND MM92 HW",
-    "city": "Lafayette",
-    "time": "06/04/2019 - 4:45 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": null,
-    "longitude": null
-  },
-  {
     "address": "1327 W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "06/04/2019 - 4:41 PM",
@@ -46,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2226,
     "longitude": -92.01979
-  },
-  {
-    "address": "W CONGRESS ST & MARIE ANTOINETTE ST",
-    "city": "LAFAYETTE",
-    "time": "06/04/2019 - 4:20 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20584,
-    "longitude": -92.05871
   },
   {
     "address": "AMBASSADOR CAFFERY PW & W WILLOW ST",
