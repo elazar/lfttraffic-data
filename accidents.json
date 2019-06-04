@@ -1,5 +1,13 @@
 [
   {
+    "address": "E SIMCOE ST & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "06/04/2019 - 11:17 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23002,
+    "longitude": -92.00303
+  },
+  {
     "address": "SE EVANGELINE TW & SIXTEENTH ST",
     "city": "LAFAYETTE",
     "time": "06/04/2019 - 11:15 AM",
@@ -14,13 +22,5 @@
     "due_to": "Fire Alarm-Commercial",
     "latitude": 30.1657,
     "longitude": -92.08478
-  },
-  {
-    "address": "100 SHENANDOAH DR",
-    "city": "LAFAYETTE",
-    "time": "06/04/2019 - 10:09 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.1585441,
-    "longitude": -91.9475629
   }
 ]
