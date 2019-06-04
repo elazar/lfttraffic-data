@@ -1,5 +1,13 @@
 [
   {
+    "address": "W UNIVERSITY AV & ST JOHN ST",
+    "city": "LAFAYETTE",
+    "time": "06/04/2019 - 1:31 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22067,
+    "longitude": -92.02351
+  },
+  {
     "address": "W CONGRESS ST & GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "06/04/2019 - 1:27 PM",
