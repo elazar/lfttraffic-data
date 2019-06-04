@@ -1,5 +1,13 @@
 [
   {
+    "address": "116 HIGHLAND DR",
+    "city": "LAFAYETTE",
+    "time": "06/04/2019 - 11:01 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.19612,
+    "longitude": -92.07039
+  },
+  {
     "address": "3225 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "06/04/2019 - 10:45 AM",
