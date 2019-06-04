@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "809 MARTIN LUTHER KING JR DR",
+    "city": "LAFAYETTE",
+    "time": "06/04/2019 - 03:24 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.25084,
+    "longitude": -92.02286
+  }
+]
