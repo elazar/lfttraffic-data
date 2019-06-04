@@ -46,13 +46,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.14488,
     "longitude": -92.00774
-  },
-  {
-    "address": "1500 BONIN RD",
-    "city": "YOUNGSVILLE",
-    "time": "06/04/2019 - 5:02 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.13678,
-    "longitude": -92.00779
   }
 ]
