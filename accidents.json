@@ -1,11 +1,11 @@
 [
   {
-    "address": "200 E LEBLANC RD (SE)",
+    "address": "JOHNSTON ST & E BROUSSARD RD",
     "city": "LAFAYETTE",
-    "time": "06/04/2019 - 09:55 AM",
-    "due_to": "Incoming Call",
-    "latitude": 30.12639,
-    "longitude": -92.11044
+    "time": "06/04/2019 - 09:56 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.15059,
+    "longitude": -92.09379
   },
   {
     "address": "W CONGRESS ST & RUE DU BELIER",
