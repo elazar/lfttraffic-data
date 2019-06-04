@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 COTTAGE CT",
+    "city": "LAFAYETTE",
+    "time": "06/04/2019 - 11:33 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15406,
+    "longitude": -92.07819
+  },
+  {
     "address": "EVERGLADES DR & E BROUSSARD RD",
     "city": "LAFAYETTE",
     "time": "06/04/2019 - 11:21 AM",
