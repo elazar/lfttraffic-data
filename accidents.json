@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "US 90 EAST HW & N MORGAN AV",
+    "city": "BROUSSARD",
+    "time": "06/04/2019 - 05:36 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15291,
+    "longitude": -91.95943
+  }
+]
