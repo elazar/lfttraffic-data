@@ -1,5 +1,13 @@
 [
   {
+    "address": "1300 SURREY ST",
+    "city": "LAFAYETTE",
+    "time": "06/04/2019 - 08:24 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.22252,
+    "longitude": -91.99779
+  },
+  {
     "address": "N UNIVERSITY AV & POST RD",
     "city": "CARENCRO",
     "time": "06/04/2019 - 08:22 AM",
