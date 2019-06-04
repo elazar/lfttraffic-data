@@ -1,26 +1,10 @@
 [
   {
-    "address": "2707 KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "06/04/2019 - 3:23 PM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.15337,
-    "longitude": -92.04902
-  },
-  {
     "address": "FOREMAN DR & ERASTE LANDRY RD",
     "city": "LAFAYETTE",
     "time": "06/04/2019 - 3:02 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.2195,
     "longitude": -92.06465
-  },
-  {
-    "address": "1737 N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "06/04/2019 - 2:21 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.25389,
-    "longitude": -92.03835
   }
 ]
