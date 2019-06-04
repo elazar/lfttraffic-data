@@ -1,5 +1,13 @@
 [
   {
+    "address": "WALTER DR & ARCENEAUX RD",
+    "city": "CARENCRO",
+    "time": "06/04/2019 - 08:28 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.30954,
+    "longitude": -92.04107
+  },
+  {
     "address": "1300 SURREY ST",
     "city": "LAFAYETTE",
     "time": "06/04/2019 - 08:24 AM",
