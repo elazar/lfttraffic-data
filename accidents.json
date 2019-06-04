@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & HOLLYWOOD DR",
+    "city": "LAFAYETTE",
+    "time": "06/04/2019 - 4:48 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24945,
+    "longitude": -92.03517
+  },
+  {
     "address": "92 I10 EASTBOUND MM92 HW",
     "city": "Lafayette",
     "time": "06/04/2019 - 4:45 PM",
