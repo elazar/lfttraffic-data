@@ -1,19 +1,19 @@
 [
   {
+    "address": "CHEMIN AGREABLE & GUILLIOT RD",
+    "city": "LAFAYETTE",
+    "time": "06/05/2019 - 11:43 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.06828,
+    "longitude": -91.99061
+  },
+  {
     "address": "300 BONIN RD",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 11:42 AM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.16093,
     "longitude": -91.99939
-  },
-  {
-    "address": "BONIN RD & FORTUNE RD",
-    "city": "YOUNGSVILLE",
-    "time": "06/05/2019 - 11:30 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.12382,
-    "longitude": -92.0074
   },
   {
     "address": "SW EVANGELINE TW & JOHNSTON ST",
