@@ -1,5 +1,13 @@
 [
   {
+    "address": "3550 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/05/2019 - 12:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17527,
+    "longitude": -92.07228
+  },
+  {
     "address": "100 LA 93 HW",
     "city": "SCOTT",
     "time": "06/05/2019 - 12:11 PM",
@@ -8,12 +16,12 @@
     "longitude": -92.1072851
   },
   {
-    "address": "CORNELIUS DR & E BLUEBIRD DR",
+    "address": "KALISTE SALOOM RD & W FARREL RD",
     "city": "LAFAYETTE",
-    "time": "06/05/2019 - 11:54 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.15766,
-    "longitude": -92.02964
+    "time": "06/05/2019 - 12:04 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15466,
+    "longitude": -92.05015
   },
   {
     "address": "LOUISIANA AV & MUDD AV",
