@@ -1,5 +1,13 @@
 [
   {
+    "address": "225 HARVEST POINTE CL",
+    "city": "SCOTT",
+    "time": "06/05/2019 - 11:11 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.22483,
+    "longitude": -92.08824
+  },
+  {
     "address": "107 S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 11:10 AM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22307,
     "longitude": -92.03395
-  },
-  {
-    "address": "856 KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "06/05/2019 - 10:24 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18039,
-    "longitude": -92.02213
   },
   {
     "address": "500 CAMELLIA DR",
