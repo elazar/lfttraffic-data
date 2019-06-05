@@ -1,5 +1,13 @@
 [
   {
+    "address": "603 LAFAYETTE ST",
+    "city": "YOUNGSVILLE",
+    "time": "06/05/2019 - 11:45 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.1058115,
+    "longitude": -91.9907049
+  },
+  {
     "address": "CHEMIN AGREABLE & GUILLIOT RD",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 11:43 AM",
@@ -40,12 +48,12 @@
     "longitude": -92.03395
   },
   {
-    "address": "500 CAMELLIA DR",
+    "address": "504 CAMELLIA DR",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 10:19 AM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.18541,
-    "longitude": -92.05417
+    "latitude": 30.1848609,
+    "longitude": -92.0540875
   },
   {
     "address": "JOHNSTON ST & GLOUCHESTER RD",
