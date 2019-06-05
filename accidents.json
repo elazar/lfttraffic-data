@@ -1,5 +1,13 @@
 [
   {
+    "address": "107 S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "06/05/2019 - 11:10 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.20653,
+    "longitude": -92.03685
+  },
+  {
     "address": "W CONGRESS ST & ST PATRICK ST",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 10:54 AM",
