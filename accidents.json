@@ -1,5 +1,13 @@
 [
   {
+    "address": "4225 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "06/05/2019 - 6:49 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15268,
+    "longitude": -91.95577
+  },
+  {
     "address": "2517 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 6:47 PM",
@@ -22,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.25511,
     "longitude": -91.99944
-  },
-  {
-    "address": "203 NOAH ST",
-    "city": "LAFAYETTE",
-    "time": "06/05/2019 - 5:30 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23031,
-    "longitude": -91.99485
   }
 ]
