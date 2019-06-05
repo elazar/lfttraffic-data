@@ -32,14 +32,6 @@
     "longitude": -92.07227
   },
   {
-    "address": "KALISTE SALOOM RD & E BROUSSARD RD",
-    "city": "LAFAYETTE",
-    "time": "06/05/2019 - 12:51 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.13792,
-    "longitude": -92.06754
-  },
-  {
     "address": "2606 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 12:42 PM",
@@ -62,13 +54,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17527,
     "longitude": -92.07228
-  },
-  {
-    "address": "KALISTE SALOOM RD & W FARREL RD",
-    "city": "LAFAYETTE",
-    "time": "06/05/2019 - 12:04 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15466,
-    "longitude": -92.05015
   }
 ]
