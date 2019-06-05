@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMUS RD & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/05/2019 - 6:26 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.13256,
+    "longitude": -92.10856
+  },
+  {
     "address": "221 VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 6:11 PM",
