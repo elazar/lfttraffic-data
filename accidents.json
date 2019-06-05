@@ -1,5 +1,13 @@
 [
   {
+    "address": "501 S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "06/05/2019 - 08:33 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.2037022,
+    "longitude": -92.0337902
+  },
+  {
     "address": "3110 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 08:32 AM",
