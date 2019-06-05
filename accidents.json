@@ -1,5 +1,13 @@
 [
   {
+    "address": "3557 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/05/2019 - 1:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17641,
+    "longitude": -92.07227
+  },
+  {
     "address": "JOHNSTON ST & RESERVE DR",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 1:03 PM",
@@ -8,12 +16,12 @@
     "longitude": -92.08063
   },
   {
-    "address": "E THIRD ST & NW EVANGELINE TW",
+    "address": "100 E THIRD ST",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 1:01 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.2295,
-    "longitude": -92.01298
+    "latitude": 30.2286828,
+    "longitude": -92.0146682
   },
   {
     "address": "KALISTE SALOOM RD & E BROUSSARD RD",
