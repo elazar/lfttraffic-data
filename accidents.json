@@ -16,27 +16,11 @@
     "longitude": -91.99485
   },
   {
-    "address": "W CONGRESS ST & BERTRAND DR",
-    "city": "LAFAYETTE",
-    "time": "06/05/2019 - 5:21 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.21493,
-    "longitude": -92.04696
-  },
-  {
     "address": "900 E UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 5:16 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.211,
     "longitude": -92.01165
-  },
-  {
-    "address": "1051 ROPER DR",
-    "city": "SCOTT",
-    "time": "06/05/2019 - 3:40 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2640751,
-    "longitude": -92.0618331
   }
 ]
