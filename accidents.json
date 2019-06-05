@@ -1,5 +1,13 @@
 [
   {
+    "address": "1601 E UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "06/05/2019 - 09:42 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.208986,
+    "longitude": -92.0004101
+  },
+  {
     "address": "450 E FARREL RD",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 09:39 AM",
