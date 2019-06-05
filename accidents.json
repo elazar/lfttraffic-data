@@ -1,11 +1,11 @@
 [
   {
-    "address": "BROTHERS RD & ROPER DR",
+    "address": "1051 ROPER DR",
     "city": "SCOTT",
     "time": "06/05/2019 - 3:40 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.26423,
-    "longitude": -92.05755
+    "latitude": 30.2640751,
+    "longitude": -92.0618331
   },
   {
     "address": "NE EVANGELINE TW & DONLON AV",
@@ -38,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15556,
     "longitude": -91.9831
-  },
-  {
-    "address": "W CONGRESS ST & ST PATRICK ST",
-    "city": "LAFAYETTE",
-    "time": "06/05/2019 - 3:00 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22307,
-    "longitude": -92.03395
   },
   {
     "address": "BENDEL RD & W PINHOOK RD",
