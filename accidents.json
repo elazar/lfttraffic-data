@@ -1,5 +1,13 @@
 [
   {
+    "address": "E ALEXANDER ST & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "06/05/2019 - 6:08 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25511,
+    "longitude": -91.99944
+  },
+  {
     "address": "630 ORCHID DR",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 6:07 PM",
