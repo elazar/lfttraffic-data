@@ -1,5 +1,13 @@
 [
   {
+    "address": "JEFFERSON ST & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/05/2019 - 12:49 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2201,
+    "longitude": -92.0172
+  },
+  {
     "address": "2606 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 12:42 PM",
