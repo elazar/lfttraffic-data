@@ -1,5 +1,13 @@
 [
   {
+    "address": "801 MUDD AV",
+    "city": "LAFAYETTE",
+    "time": "06/05/2019 - 2:21 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23383,
+    "longitude": -92.00785
+  },
+  {
     "address": "4796 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 2:09 PM",
