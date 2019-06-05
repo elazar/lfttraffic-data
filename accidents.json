@@ -1,19 +1,19 @@
 [
   {
+    "address": "2517 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "06/05/2019 - 6:47 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.15651,
+    "longitude": -92.04758
+  },
+  {
     "address": "LOCKSLEY DR & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 6:43 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.17918,
     "longitude": -92.02578
-  },
-  {
-    "address": "CAMUS RD & JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "06/05/2019 - 6:26 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.13256,
-    "longitude": -92.10856
   },
   {
     "address": "E ALEXANDER ST & LOUISIANA AV",
