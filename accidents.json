@@ -32,27 +32,11 @@
     "longitude": -92.01474
   },
   {
-    "address": "200 MOSS ST",
-    "city": "LAFAYETTE",
-    "time": "06/05/2019 - 2:21 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23068,
-    "longitude": -92.00892
-  },
-  {
     "address": "4796 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 2:09 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.18575,
     "longitude": -92.06746
-  },
-  {
-    "address": "E GLORIA SWITCH RD & NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "06/05/2019 - 1:59 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2955,
-    "longitude": -92.02362
   }
 ]
