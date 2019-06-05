@@ -1,5 +1,21 @@
 [
   {
+    "address": "JOHNSTON ST & GLOUCHESTER RD",
+    "city": "LAFAYETTE",
+    "time": "06/05/2019 - 09:48 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1883,
+    "longitude": -92.06416
+  },
+  {
+    "address": "105 COTTAGE CT",
+    "city": "LAFAYETTE",
+    "time": "06/05/2019 - 09:48 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15341,
+    "longitude": -92.07801
+  },
+  {
     "address": "W BAYOU PW & S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 09:47 AM",
