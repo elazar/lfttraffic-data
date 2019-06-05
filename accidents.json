@@ -1,5 +1,13 @@
 [
   {
+    "address": "W UNIVERSITY AV & LAFAYETTE ST",
+    "city": "LAFAYETTE",
+    "time": "06/05/2019 - 2:54 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21925,
+    "longitude": -92.02156
+  },
+  {
     "address": "BENDEL RD & W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 2:44 PM",
