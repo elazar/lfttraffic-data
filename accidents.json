@@ -1,5 +1,13 @@
 [
   {
+    "address": "S COLLEGE RD & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/05/2019 - 06:33 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.20727,
+    "longitude": -92.03836
+  },
+  {
     "address": "400 HEIDE CL",
     "city": "SCOTT",
     "time": "06/05/2019 - 05:28 AM",
