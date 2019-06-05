@@ -24,27 +24,11 @@
     "longitude": -92.02663
   },
   {
-    "address": "450 E FARREL RD",
-    "city": "LAFAYETTE",
-    "time": "06/05/2019 - 09:39 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.14575,
-    "longitude": -92.04088
-  },
-  {
     "address": "800 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 09:29 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.2316407,
     "longitude": -92.0627849
-  },
-  {
-    "address": "MUDD AV & LOUISIANA AV",
-    "city": "LAFAYETTE",
-    "time": "06/05/2019 - 09:08 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23174,
-    "longitude": -92.0027
   }
 ]
