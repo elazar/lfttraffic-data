@@ -1,5 +1,13 @@
 [
   {
+    "address": "MUDD AV & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "06/05/2019 - 09:08 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23174,
+    "longitude": -92.0027
+  },
+  {
     "address": "1111 ROPER DR",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 08:34 AM",
