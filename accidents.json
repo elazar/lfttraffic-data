@@ -16,14 +16,6 @@
     "longitude": -92.02362
   },
   {
-    "address": "1000 YOUNGSVILLE HW",
-    "city": "BROUSSARD",
-    "time": "06/05/2019 - 1:47 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.14478,
-    "longitude": -91.99184
-  },
-  {
     "address": "3546 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 1:46 PM",
@@ -70,13 +62,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2030673,
     "longitude": -92.0754049
-  },
-  {
-    "address": "3550 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/05/2019 - 12:13 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17527,
-    "longitude": -92.07228
   }
 ]
