@@ -3,7 +3,7 @@
     "address": "ROME LN & RUE SCHOLASTIQUE",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 1:35 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
+    "due_to": "Vehicle Accident",
     "latitude": 30.28774,
     "longitude": -92.10883
   },
@@ -30,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17641,
     "longitude": -92.07227
-  },
-  {
-    "address": "100 E THIRD ST",
-    "city": "LAFAYETTE",
-    "time": "06/05/2019 - 1:01 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2286828,
-    "longitude": -92.0146682
   },
   {
     "address": "KALISTE SALOOM RD & E BROUSSARD RD",
