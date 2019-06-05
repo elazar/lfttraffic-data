@@ -6,5 +6,13 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23174,
     "longitude": -92.0027
+  },
+  {
+    "address": "JOHNSTON ST & S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "06/05/2019 - 08:30 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.20727,
+    "longitude": -92.03836
   }
 ]
