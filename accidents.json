@@ -1,5 +1,13 @@
 [
   {
+    "address": "221 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "06/05/2019 - 6:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.176,
+    "longitude": -92.00509
+  },
+  {
     "address": "300 E PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 6:08 PM",
