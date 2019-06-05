@@ -1,5 +1,13 @@
 [
   {
+    "address": "800 RUE SCHOLASTIQUE",
+    "city": "LAFAYETTE",
+    "time": "06/05/2019 - 2:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2878749,
+    "longitude": -92.10838
+  },
+  {
     "address": "801 MUDD AV",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 2:21 PM",
