@@ -1,5 +1,13 @@
 [
   {
+    "address": "CORNELIUS DR & E BLUEBIRD DR",
+    "city": "LAFAYETTE",
+    "time": "06/05/2019 - 11:54 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.15766,
+    "longitude": -92.02964
+  },
+  {
     "address": "LOUISIANA AV & MUDD AV",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 11:47 AM",
