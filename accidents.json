@@ -27,7 +27,7 @@
     "address": "CHEMIN AGREABLE & GUILLIOT RD",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 11:43 AM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Stalled Vehicle",
     "latitude": 30.06828,
     "longitude": -91.99061
   },
@@ -38,22 +38,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.15953,
     "longitude": -92
-  },
-  {
-    "address": "SW EVANGELINE TW & JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "06/05/2019 - 11:28 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22457,
-    "longitude": -92.01033
-  },
-  {
-    "address": "225 HARVEST POINTE CL",
-    "city": "SCOTT",
-    "time": "06/05/2019 - 11:11 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.22483,
-    "longitude": -92.08824
   },
   {
     "address": "W CONGRESS ST & ST PATRICK ST",
