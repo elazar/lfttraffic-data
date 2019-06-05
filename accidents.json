@@ -1,13 +1,5 @@
 [
   {
-    "address": "KALISTE SALOOM RD & W FARREL RD",
-    "city": "LAFAYETTE",
-    "time": "06/05/2019 - 12:04 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15466,
-    "longitude": -92.05015
-  },
-  {
     "address": "CORNELIUS DR & E BLUEBIRD DR",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 11:54 AM",
@@ -46,13 +38,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.15953,
     "longitude": -92
-  },
-  {
-    "address": "W CONGRESS ST & ST PATRICK ST",
-    "city": "LAFAYETTE",
-    "time": "06/05/2019 - 10:54 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22307,
-    "longitude": -92.03395
   }
 ]
