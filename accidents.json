@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2640751,
     "longitude": -92.0618331
-  },
-  {
-    "address": "3111 US 90 EAST HW",
-    "city": "BROUSSARD",
-    "time": "06/05/2019 - 3:30 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.17128,
-    "longitude": -91.979
   }
 ]
