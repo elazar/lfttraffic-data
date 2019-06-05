@@ -1,5 +1,13 @@
 [
   {
+    "address": "107 GLOBAL CL",
+    "city": "LAFAYETTE",
+    "time": "06/05/2019 - 4:09 PM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.16834,
+    "longitude": -92.07323
+  },
+  {
     "address": "CAMERON ST & BANKS AV",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 4:06 PM",
