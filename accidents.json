@@ -1,5 +1,13 @@
 [
   {
+    "address": "2434 W GLORIA SWITCH RD",
+    "city": "LAFAYETTE",
+    "time": "06/04/2019 - 9:45 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.29845,
+    "longitude": -92.09384
+  },
+  {
     "address": "700 L PROVOST RD",
     "city": "SCOTT",
     "time": "06/04/2019 - 9:43 PM",
