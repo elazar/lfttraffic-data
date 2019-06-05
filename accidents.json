@@ -1,5 +1,13 @@
 [
   {
+    "address": "740 JEFFERSON ST",
+    "city": "LAFAYETTE",
+    "time": "06/05/2019 - 12:16 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22182,
+    "longitude": -92.01889
+  },
+  {
     "address": "3550 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 12:13 PM",
