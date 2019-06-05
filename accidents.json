@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "700 L PROVOST RD",
+    "city": "SCOTT",
+    "time": "06/04/2019 - 9:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2254437,
+    "longitude": -92.0995412
+  }
+]
