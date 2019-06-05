@@ -16,12 +16,12 @@
     "longitude": -91.99061
   },
   {
-    "address": "300 BONIN RD",
+    "address": "404 BONIN RD",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 11:42 AM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.16093,
-    "longitude": -91.99939
+    "latitude": 30.15953,
+    "longitude": -92
   },
   {
     "address": "SW EVANGELINE TW & JOHNSTON ST",
@@ -46,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22307,
     "longitude": -92.03395
-  },
-  {
-    "address": "504 CAMELLIA DR",
-    "city": "LAFAYETTE",
-    "time": "06/05/2019 - 10:19 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1848609,
-    "longitude": -92.0540875
   },
   {
     "address": "JOHNSTON ST & GLOUCHESTER RD",
