@@ -1,5 +1,13 @@
 [
   {
+    "address": "1100 ST JOHN ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 05:32 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2215292,
+    "longitude": -92.023013
+  },
+  {
     "address": "301 W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 05:31 AM",
