@@ -264,14 +264,6 @@
     "longitude": -92.09274
   },
   {
-    "address": "400 BRENTWOOD BL",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:21 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.18955,
-    "longitude": -92.04902
-  },
-  {
     "address": "CARMEL DR & TWELFTH ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:16 AM",
@@ -318,14 +310,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.23377,
     "longitude": -92.01265
-  },
-  {
-    "address": "100 S WILLIAM DR",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:00 AM",
-    "due_to": "Hazard",
-    "latitude": 30.18681,
-    "longitude": -92.06716
   },
   {
     "address": "100 DENVER CL",
