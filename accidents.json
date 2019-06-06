@@ -1,11 +1,11 @@
 [
   {
-    "address": "1100 W WILLOW ST",
+    "address": "2100 W WILLOW ST",
     "city": "LAFAYETTE",
-    "time": "06/06/2019 - 08:30 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.24542,
-    "longitude": -92.03037
+    "time": "06/06/2019 - 08:33 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2436349,
+    "longitude": -92.0616525
   },
   {
     "address": "AMBASSADOR CAFFERY PW & ROBLEY DR",
@@ -240,11 +240,11 @@
     "longitude": -92.0166
   },
   {
-    "address": "5639 JOHNSTON ST",
+    "address": "3721 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:07 AM",
+    "time": "06/06/2019 - 05:45 AM",
     "due_to": "Stalled Vehicle",
-    "latitude": 30.17561,
-    "longitude": -92.07554
+    "latitude": 30.17357,
+    "longitude": -92.0672
   }
 ]
