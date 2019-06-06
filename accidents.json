@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 I10 WESTBOUND MM100 HW",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 4:40 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "4200 LANDRY RD",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 4:38 PM",
@@ -38,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.28283,
     "longitude": -92.01
-  },
-  {
-    "address": "NE EVANGELINE TW & JEFFERSON BL",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 3:38 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22903,
-    "longitude": -92.01168
   },
   {
     "address": "DUHON RD & W BROUSSARD RD",
