@@ -1,5 +1,13 @@
 [
   {
+    "address": "120 E GLORIA SWITCH RD",
+    "city": "LAFAYETTE",
+    "time": "06/05/2019 - 7:08 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.29346,
+    "longitude": -92.02171
+  },
+  {
     "address": "700 LEBLANC RD",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 7:05 PM",
