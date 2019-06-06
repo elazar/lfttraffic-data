@@ -1,5 +1,13 @@
 [
   {
+    "address": "110 EUGENIE DR",
+    "city": "LAFAYETTE",
+    "time": "06/05/2019 - 8:00 PM",
+    "due_to": "Grass Fire",
+    "latitude": 30.18394,
+    "longitude": -92.11616
+  },
+  {
     "address": "NE EVANGELINE TW & GREIG ST",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 7:16 PM",
