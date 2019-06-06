@@ -1,5 +1,21 @@
 [
   {
+    "address": "119 N BUD ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:24 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.24285,
+    "longitude": -92.0618
+  },
+  {
+    "address": "1600 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:24 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23865,
+    "longitude": -92.00105
+  },
+  {
     "address": "LOUISIANA AV & SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 07:23 AM",
@@ -230,14 +246,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.2325,
     "longitude": -92.10105
-  },
-  {
-    "address": "300 N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:32 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2344119,
-    "longitude": -92.0322751
   },
   {
     "address": "JOHNSTON ST & SOUTHCITY PW",
