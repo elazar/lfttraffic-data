@@ -1,5 +1,21 @@
 [
   {
+    "address": "200 GOUAUX RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:27 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.28736,
+    "longitude": -92.07258
+  },
+  {
+    "address": "AMBASSADOR CAFFERY PW & DULLES DR",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:27 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.21053,
+    "longitude": -92.07567
+  },
+  {
     "address": "CHEMIN METAIRIE & VENDEUR RD",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 07:27 AM",
