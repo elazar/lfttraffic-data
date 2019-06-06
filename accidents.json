@@ -1,5 +1,13 @@
 [
   {
+    "address": "301 W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 05:31 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21838,
+    "longitude": -92.02099
+  },
+  {
     "address": "400 N COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 05:30 AM",
@@ -46,14 +54,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.17561,
     "longitude": -92.07554
-  },
-  {
-    "address": "N WILDERNESS TL & ST CLAIR RD",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:04 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.30466,
-    "longitude": -91.98456
   },
   {
     "address": "BONIN RD & AMBASSADOR CAFFERY PW",
