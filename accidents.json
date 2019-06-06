@@ -1,5 +1,13 @@
 [
   {
+    "address": "2600 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:06 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2566987,
+    "longitude": -92.0140974
+  },
+  {
     "address": "HUVAL ST & N ST ANTOINE ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:05 AM",
@@ -78,14 +86,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.08575,
     "longitude": -92.03246
-  },
-  {
-    "address": "W WILLOW ST & N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:57 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.24448,
-    "longitude": -92.03275
   },
   {
     "address": "400 N COLLEGE RD",
@@ -246,14 +246,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.19165,
     "longitude": -92.03913
-  },
-  {
-    "address": "1101 KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:34 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.17545,
-    "longitude": -92.02698
   },
   {
     "address": "301 W UNIVERSITY AV",
