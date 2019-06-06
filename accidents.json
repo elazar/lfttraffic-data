@@ -1,5 +1,21 @@
 [
   {
+    "address": "200 TITAN DR",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:20 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.14905,
+    "longitude": -91.98689
+  },
+  {
+    "address": "SW EVANGELINE TW & ELEVENTH ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:20 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.22296,
+    "longitude": -92.00947
+  },
+  {
     "address": "VERSAILLES BL & PARKSIDE DR",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:17 AM",
