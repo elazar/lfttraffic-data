@@ -1,5 +1,21 @@
 [
   {
+    "address": "JOHNSTON ST & S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:40 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.20727,
+    "longitude": -92.03836
+  },
+  {
+    "address": "CHEMIN METAIRIE & BRIAR GREEN DR",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:40 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.11972,
+    "longitude": -92.01572
+  },
+  {
     "address": "716 OLD SPANISH TL",
     "city": "SCOTT",
     "time": "06/06/2019 - 06:39 AM",
