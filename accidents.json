@@ -1,5 +1,21 @@
 [
   {
+    "address": "LOUISIANA AV & E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 08:24 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23002,
+    "longitude": -92.00303
+  },
+  {
+    "address": "113 TARA DR",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 08:24 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.10324,
+    "longitude": -92.03321
+  },
+  {
     "address": "TWELFTH ST & SURREY ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 08:22 AM",
@@ -246,14 +262,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2661,
     "longitude": -92.0166
-  },
-  {
-    "address": "JOHNSTON ST & CAMELLIA BL",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:21 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.19364,
-    "longitude": -92.0587
   },
   {
     "address": "5639 JOHNSTON ST",
