@@ -1,5 +1,13 @@
 [
   {
+    "address": "ERASTE LANDRY RD & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:28 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21912,
+    "longitude": -92.07587
+  },
+  {
     "address": "200 GOUAUX RD",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 07:27 AM",
@@ -216,6 +224,14 @@
     "longitude": -92.01457
   },
   {
+    "address": "304 BOTTLE BRUSH LN",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:58 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.30704,
+    "longitude": -92.07025
+  },
+  {
     "address": "610 GARFIELD ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:57 AM",
@@ -230,14 +246,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24448,
     "longitude": -92.03275
-  },
-  {
-    "address": "101 STONE AV",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:47 AM",
-    "due_to": "Hazard",
-    "latitude": 30.25559,
-    "longitude": -92.03817
   },
   {
     "address": "1540 JOHNSTON ST",
@@ -302,14 +310,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.18753,
     "longitude": -92.07554
-  },
-  {
-    "address": "411 ST LANDRY ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:21 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.21664,
-    "longitude": -92.02603
   },
   {
     "address": "501 CHEVALIER BL",
