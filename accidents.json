@@ -320,28 +320,12 @@
     "longitude": -92.02057
   },
   {
-    "address": "ST LANDRY ST & W ST MARY BL",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:54 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.21788,
-    "longitude": -92.02631
-  },
-  {
     "address": "MOSS ST & CHOPIN ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 05:47 AM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.23448,
     "longitude": -92.00839
-  },
-  {
-    "address": "150 HIGH MEADOWS BL",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:37 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2748001,
-    "longitude": -92.0156892
   },
   {
     "address": "JOHNSTON ST & CAMELLIA BL",
