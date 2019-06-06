@@ -32,28 +32,12 @@
     "longitude": -92.03632
   },
   {
-    "address": "305 CONSTITUTION DR",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:35 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.13381,
-    "longitude": -92.09453
-  },
-  {
     "address": "STEWART ST & E TAFT ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 07:35 AM",
     "due_to": "Road Hazard",
     "latitude": 30.219,
     "longitude": -92.01335
-  },
-  {
-    "address": "300 CULTIVATEUR RD",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:34 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.360717,
-    "longitude": -91.9615741
   },
   {
     "address": "1300 BERTRAND DR",
@@ -214,14 +198,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.21243,
     "longitude": -92.04526
-  },
-  {
-    "address": "321 WALTER DR",
-    "city": "CARENCRO",
-    "time": "06/06/2019 - 07:10 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.30801,
-    "longitude": -92.04072
   },
   {
     "address": "JOHNSTON ST & SOUTHCITY PW",
