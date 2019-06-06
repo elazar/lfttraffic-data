@@ -1,5 +1,21 @@
 [
   {
+    "address": "S ORANGE ST & E PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:18 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22128,
+    "longitude": -92.00059
+  },
+  {
+    "address": "1000 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:18 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23664,
+    "longitude": -92.01284
+  },
+  {
     "address": "E PINHOOK RD & SURREY ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 07:17 AM",
@@ -88,14 +104,6 @@
     "longitude": -91.974315
   },
   {
-    "address": "1100 DUGAS RD",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:02 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.28357,
-    "longitude": -92.08344
-  },
-  {
     "address": "JOHNSTON ST & SOUTHCITY PW",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 07:00 AM",
@@ -118,14 +126,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.25326,
     "longitude": -92.01457
-  },
-  {
-    "address": "MADELINE AV & ORCHID DR",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:58 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.23853,
-    "longitude": -92.03941
   },
   {
     "address": "610 GARFIELD ST",
@@ -160,14 +160,6 @@
     "longitude": -92.03817
   },
   {
-    "address": "N COLLEGE RD & JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:45 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.20727,
-    "longitude": -92.03836
-  },
-  {
     "address": "1540 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:44 AM",
@@ -198,22 +190,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.2325,
     "longitude": -92.10105
-  },
-  {
-    "address": "BERTRAND DR & REINHARDT DR",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:37 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.21211,
-    "longitude": -92.04493
-  },
-  {
-    "address": "MOSS ST & E GLORIA SWITCH RD",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:33 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.2948,
-    "longitude": -92.00732
   },
   {
     "address": "300 N UNIVERSITY AV",
