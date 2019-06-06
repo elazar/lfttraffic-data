@@ -1,5 +1,13 @@
 [
   {
+    "address": "VEROT SCHOOL RD & E MILTON AV",
+    "city": "YOUNGSVILLE",
+    "time": "06/06/2019 - 11:27 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.08575,
+    "longitude": -92.03246
+  },
+  {
     "address": "623 LAFAYETTE ST",
     "city": "YOUNGSVILLE",
     "time": "06/06/2019 - 11:26 AM",
@@ -14,14 +22,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.21999,
     "longitude": -92.01705
-  },
-  {
-    "address": "FEU FOLLET RD & VEROT SCHOOL RD",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 11:21 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.17533,
-    "longitude": -92.00692
   },
   {
     "address": "HUNTERS RIDGE BL & CHEMIN METAIRIE",
