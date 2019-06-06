@@ -1,19 +1,19 @@
 [
   {
+    "address": "DULLES DR & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 08:02 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21053,
+    "longitude": -92.07567
+  },
+  {
     "address": "NE EVANGELINE TW & HOBSON ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 08:01 AM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.23377,
     "longitude": -92.01265
-  },
-  {
-    "address": "3726 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 08:01 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.17252,
-    "longitude": -92.068
   },
   {
     "address": "617 ST CHARLES ST",
