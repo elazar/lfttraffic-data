@@ -1,5 +1,13 @@
 [
   {
+    "address": "1100 DUGAS RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:02 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.28357,
+    "longitude": -92.08344
+  },
+  {
     "address": "JOHNSTON ST & SOUTHCITY PW",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 07:00 AM",
