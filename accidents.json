@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 PLAQUEMINE RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:12 AM",
+    "due_to": "Hazard",
+    "latitude": 30.2165404,
+    "longitude": -91.9861148
+  },
+  {
     "address": "N ST ANTOINE ST & ARTHUR ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:11 AM",
@@ -38,14 +46,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.2661,
     "longitude": -92.0166
-  },
-  {
-    "address": "S PIERCE ST & CAMERON ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:07 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.23312,
-    "longitude": -92.0191
   },
   {
     "address": "JOHNSTON ST & BUENA VISTA BL",
