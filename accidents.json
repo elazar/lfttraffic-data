@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & RAILROAD UNDERPASS",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 05:19 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.24052,
+    "longitude": -92.03242
+  },
+  {
     "address": "5639 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 05:07 AM",
