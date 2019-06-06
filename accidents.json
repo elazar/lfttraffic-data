@@ -1,5 +1,21 @@
 [
   {
+    "address": "HERLIL CL & GENDARME RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:00 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.33321,
+    "longitude": -92.08422
+  },
+  {
+    "address": "NW EVANGELINE TW & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:59 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25326,
+    "longitude": -92.01457
+  },
+  {
     "address": "MADELINE AV & ORCHID DR",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:58 AM",
