@@ -1,5 +1,21 @@
 [
   {
+    "address": "810 W BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 12:07 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17701,
+    "longitude": -92.0973
+  },
+  {
+    "address": "CHEMIN METAIRIE & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 12:07 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.13541,
+    "longitude": -92.01582
+  },
+  {
     "address": "BERTRAND DR & BANKS AV",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 11:53 AM",
