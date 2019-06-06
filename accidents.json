@@ -1,5 +1,13 @@
 [
   {
+    "address": "700 SURREY ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:36 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2270852,
+    "longitude": -92.0032951
+  },
+  {
     "address": "3806 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:35 AM",
@@ -54,14 +62,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16605,
     "longitude": -92.08306
-  },
-  {
-    "address": "NE EVANGELINE TW & I10 HW",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:29 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.29151,
-    "longitude": -92.02336
   },
   {
     "address": "100 BROADMOOR BL",
