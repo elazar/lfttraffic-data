@@ -1,13 +1,5 @@
 [
   {
-    "address": "401 CRESTLAWN DR",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 10:52 AM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.15755,
-    "longitude": -92.07806
-  },
-  {
     "address": "RIDGE RD & W BROUSSARD RD",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 10:45 AM",
@@ -94,14 +86,6 @@
     "due_to": "Traffic Control",
     "latitude": 30.12191,
     "longitude": -91.99051
-  },
-  {
-    "address": "CAMELLIA BL & KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 09:12 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.16717,
-    "longitude": -92.03642
   },
   {
     "address": "800 W BROUSSARD RD",
