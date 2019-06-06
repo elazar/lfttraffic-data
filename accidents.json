@@ -1,5 +1,13 @@
 [
   {
+    "address": "KIDDER RD & MECHE RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 12:51 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.3543,
+    "longitude": -92.01391
+  },
+  {
     "address": "707 VINCENT RD",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 12:17 AM",
