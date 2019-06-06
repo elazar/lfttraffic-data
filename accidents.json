@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & SOUTHCITY PW",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:00 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.16605,
+    "longitude": -92.08306
+  },
+  {
     "address": "HERLIL CL & GENDARME RD",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 07:00 AM",
@@ -62,14 +70,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24448,
     "longitude": -92.03275
-  },
-  {
-    "address": "HUVAL ST & HELLEN ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:50 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.23498,
-    "longitude": -92.02616
   },
   {
     "address": "VICTORIA ST & ST LOUIS ST",
