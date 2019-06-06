@@ -8,28 +8,12 @@
     "longitude": -92.03248
   },
   {
-    "address": "AMBASSADOR CAFFERY PW & VEROT SCHOOL RD",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:54 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.14589,
-    "longitude": -92.03252
-  },
-  {
     "address": "AMBASSADOR CAFFERY PW & BONIN RD",
     "city": "YOUNGSVILLE",
     "time": "06/06/2019 - 07:54 AM",
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.13528,
     "longitude": -92.00763
-  },
-  {
-    "address": "1500 W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:51 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.22427,
-    "longitude": -92.03139
   },
   {
     "address": "SURREY ST & E PINHOOK RD",
@@ -70,14 +54,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.09466,
     "longitude": -92.05115
-  },
-  {
-    "address": "206 RUE LOUIS XIV",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:45 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.16988,
-    "longitude": -92.02669
   },
   {
     "address": "TWELFTH ST & SURREY ST",
@@ -270,14 +246,6 @@
     "due_to": "Hazard",
     "latitude": 30.21712,
     "longitude": -91.9891
-  },
-  {
-    "address": "CARMEL DR & TWELFTH ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:16 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23416,
-    "longitude": -91.99899
   },
   {
     "address": "2700 NE EVANGELINE TW",
