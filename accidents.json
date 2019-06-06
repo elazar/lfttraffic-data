@@ -1,5 +1,13 @@
 [
   {
+    "address": "BERTRAND DR & DULLES DR",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 4:08 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.22233,
+    "longitude": -92.05213
+  },
+  {
     "address": "CURRAN LN & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 4:07 PM",
