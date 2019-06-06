@@ -1,5 +1,21 @@
 [
   {
+    "address": "NE EVANGELINE TW & HOBSON ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:01 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23377,
+    "longitude": -92.01265
+  },
+  {
+    "address": "100 S WILLIAM DR",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:00 AM",
+    "due_to": "Hazard",
+    "latitude": 30.18681,
+    "longitude": -92.06716
+  },
+  {
     "address": "100 DENVER CL",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:00 AM",
@@ -78,14 +94,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.20101,
     "longitude": -92.01538
-  },
-  {
-    "address": "215 W WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:56 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.24462,
-    "longitude": -92.01603
   },
   {
     "address": "3747 AMBASSADOR CAFFERY PW",
