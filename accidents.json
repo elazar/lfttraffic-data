@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 4:13 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21493,
+    "longitude": -92.04696
+  },
+  {
     "address": "NEW HOPE RD & W BROUSSARD RD",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 4:09 PM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22903,
     "longitude": -92.01168
-  },
-  {
-    "address": "800 RIDGE RD",
-    "city": "SCOTT",
-    "time": "06/06/2019 - 3:18 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.18187,
-    "longitude": -92.10849
   },
   {
     "address": "2200 SAVOY RD",
