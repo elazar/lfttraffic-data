@@ -1,5 +1,13 @@
 [
   {
+    "address": "623 LAFAYETTE ST",
+    "city": "YOUNGSVILLE",
+    "time": "06/06/2019 - 11:26 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.10853,
+    "longitude": -91.99151
+  },
+  {
     "address": "JEFFERSON ST & RAILROAD UNDERPASS",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 11:24 AM",
@@ -102,14 +110,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.1306481,
     "longitude": -92.0326245
-  },
-  {
-    "address": "FORTUNE RD & YOUNGSVILLE HW",
-    "city": "YOUNGSVILLE",
-    "time": "06/06/2019 - 09:33 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.12191,
-    "longitude": -91.99051
   },
   {
     "address": "800 W BROUSSARD RD",
