@@ -1,5 +1,21 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & DULLES DR",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 05:50 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21053,
+    "longitude": -92.07567
+  },
+  {
+    "address": "HOPKINS ST & N PIERCE ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 05:50 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2333,
+    "longitude": -92.01912
+  },
+  {
     "address": "E ST MARY BL & GIRARD PARK CL",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 05:48 AM",
@@ -126,14 +142,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.19165,
     "longitude": -92.03913
-  },
-  {
-    "address": "800 JEFFERSON ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:35 AM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.22132,
-    "longitude": -92.01916
   },
   {
     "address": "200 CAMELLIA BL",
