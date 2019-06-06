@@ -1,5 +1,13 @@
 [
   {
+    "address": "VERSAILLES BL & PARKSIDE DR",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:17 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.22469,
+    "longitude": -92.0251
+  },
+  {
     "address": "CARMEL DR & TWELFTH ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:16 AM",
@@ -110,14 +118,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.23508,
     "longitude": -92.02493
-  },
-  {
-    "address": "1100 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:04 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2035382,
-    "longitude": -92.0140437
   },
   {
     "address": "1000 W GILMAN RD",
