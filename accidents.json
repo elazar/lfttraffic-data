@@ -8,14 +8,6 @@
     "longitude": -92.06617
   },
   {
-    "address": "LOUISIANA AV & E SIMCOE ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 08:24 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.23002,
-    "longitude": -92.00303
-  },
-  {
     "address": "113 TARA DR",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 08:24 AM",
@@ -80,14 +72,6 @@
     "longitude": -92.00779
   },
   {
-    "address": "3500 VEROT SCHOOL RD",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 08:12 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.12042,
-    "longitude": -92.03403
-  },
-  {
     "address": "110 CENTRAL ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 08:04 AM",
@@ -150,14 +134,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.28736,
     "longitude": -92.07258
-  },
-  {
-    "address": "1600 LOUISIANA AV",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:24 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.23865,
-    "longitude": -92.00105
   },
   {
     "address": "LOUISIANA AV & SE EVANGELINE TW",
