@@ -1,5 +1,21 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & GUILBEAU RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:49 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.20248,
+    "longitude": -92.07527
+  },
+  {
+    "address": "200 E TAFT ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:49 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.21639,
+    "longitude": -92.01087
+  },
+  {
     "address": "E BROUSSARD RD & VINCENT RD",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 07:48 AM",
@@ -224,22 +240,6 @@
     "longitude": -92.0166
   },
   {
-    "address": "610 GARFIELD ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:57 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.22294,
-    "longitude": -92.01285
-  },
-  {
-    "address": "W WILLOW ST & N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:52 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24448,
-    "longitude": -92.03275
-  },
-  {
     "address": "NW EVANGELINE TW & MUDD AV",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:41 AM",
@@ -278,14 +278,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.24378,
     "longitude": -92.00638
-  },
-  {
-    "address": "3144 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:22 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.18753,
-    "longitude": -92.07554
   },
   {
     "address": "501 CHEVALIER BL",
