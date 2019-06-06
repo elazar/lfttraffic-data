@@ -48,14 +48,6 @@
     "longitude": -92.0065927
   },
   {
-    "address": "1002 GREENBRIAR RD",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 08:17 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.19229,
-    "longitude": -92.03964
-  },
-  {
     "address": "503 MUDD AV",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 08:14 AM",
@@ -110,14 +102,6 @@
     "due_to": "Fire Alarm-Commercial",
     "latitude": 30.22576,
     "longitude": -92.01981
-  },
-  {
-    "address": "NE EVANGELINE TW & HOBSON ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 08:01 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.23377,
-    "longitude": -92.01265
   },
   {
     "address": "AMBASSADOR CAFFERY PW & BONIN RD",
