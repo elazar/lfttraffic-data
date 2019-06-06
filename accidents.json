@@ -1,5 +1,13 @@
 [
   {
+    "address": "ANDROCLES RD & BENOIT RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 08:07 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.30372,
+    "longitude": -92.08404
+  },
+  {
     "address": "ST LANDRY ST & ST LOUIS ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 08:05 AM",
