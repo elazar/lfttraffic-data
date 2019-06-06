@@ -288,14 +288,6 @@
     "longitude": -92.02631
   },
   {
-    "address": "SE EVANGELINE TW & SURREY ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:52 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.2091,
-    "longitude": -91.99986
-  },
-  {
     "address": "E ALEXANDER ST & MOSS ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 05:51 AM",
@@ -374,13 +366,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.17561,
     "longitude": -92.07554
-  },
-  {
-    "address": "BONIN RD & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 04:47 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.13528,
-    "longitude": -92.00763
   }
 ]
