@@ -1,5 +1,21 @@
 [
   {
+    "address": "217 W BRENTWOOD BL",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 05:36 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.19785,
+    "longitude": -92.05884
+  },
+  {
+    "address": "GREENBRIAR RD & W BAYOU PW",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 05:36 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.19165,
+    "longitude": -92.03913
+  },
+  {
     "address": "800 JEFFERSON ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 05:35 AM",
@@ -35,7 +51,7 @@
     "address": "301 W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 05:31 AM",
-    "due_to": "Stalled Vehicle",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.21838,
     "longitude": -92.02099
   },
