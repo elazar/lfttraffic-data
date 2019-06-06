@@ -1,11 +1,11 @@
 [
   {
-    "address": "425 ST JOHN ST",
+    "address": "GAUTHIER RD & SIXTEENTH ST",
     "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:06 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.22965,
-    "longitude": -92.02257
+    "time": "06/06/2019 - 07:09 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22118,
+    "longitude": -92.00461
   },
   {
     "address": "3100 NE EVANGELINE TW",
@@ -96,14 +96,6 @@
     "longitude": -92.03275
   },
   {
-    "address": "VICTORIA ST & ST LOUIS ST",
-    "city": "SCOTT",
-    "time": "06/06/2019 - 06:50 AM",
-    "due_to": "Hazard",
-    "latitude": 30.23888,
-    "longitude": -92.0948
-  },
-  {
     "address": "101 STONE AV",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:47 AM",
@@ -142,14 +134,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.23312,
     "longitude": -92.01407
-  },
-  {
-    "address": "CHEMIN METAIRIE & BRIAR GREEN DR",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:40 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.11972,
-    "longitude": -92.01572
   },
   {
     "address": "716 OLD SPANISH TL",
