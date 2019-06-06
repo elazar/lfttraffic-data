@@ -1,19 +1,11 @@
 [
   {
-    "address": "206 BOURQUE ST",
+    "address": "110 CENTRAL ST",
     "city": "LAFAYETTE",
-    "time": "06/06/2019 - 08:03 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.10194,
-    "longitude": -92.07496
-  },
-  {
-    "address": "DULLES DR & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 08:02 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.21053,
-    "longitude": -92.07567
+    "time": "06/06/2019 - 08:04 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.22576,
+    "longitude": -92.01981
   },
   {
     "address": "NE EVANGELINE TW & HOBSON ST",
@@ -54,14 +46,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.20248,
     "longitude": -92.07527
-  },
-  {
-    "address": "200 E TAFT ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:49 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.21639,
-    "longitude": -92.01087
   },
   {
     "address": "E BROUSSARD RD & VINCENT RD",
@@ -230,14 +214,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2661,
     "longitude": -92.0166
-  },
-  {
-    "address": "100 DENVER CL",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:00 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.2419,
-    "longitude": -91.99274
   },
   {
     "address": "MOSS ST & CHOPIN ST",
