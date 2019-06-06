@@ -1,5 +1,21 @@
 [
   {
+    "address": "2100 E MILTON AV",
+    "city": "YOUNGSVILLE",
+    "time": "06/06/2019 - 05:55 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1091951,
+    "longitude": -92.0318337
+  },
+  {
+    "address": "N COLLEGE RD & BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 05:55 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.21243,
+    "longitude": -92.04526
+  },
+  {
     "address": "1500 SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 05:54 AM",
