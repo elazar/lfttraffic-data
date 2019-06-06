@@ -1,5 +1,29 @@
 [
   {
+    "address": "131 RIVER RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:24 AM",
+    "due_to": "Hazard",
+    "latitude": 30.21712,
+    "longitude": -91.9891
+  },
+  {
+    "address": "E WILLOW ST & MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:24 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24378,
+    "longitude": -92.00638
+  },
+  {
+    "address": "W WILLOW ST & NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:23 AM",
+    "due_to": "Hazard",
+    "latitude": 30.24481,
+    "longitude": -92.01456
+  },
+  {
     "address": "PLUM ST & ELEVENTH ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:23 AM",
@@ -350,14 +374,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.24552,
     "longitude": -92.00037
-  },
-  {
-    "address": "409 LIPPI BL",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:42 AM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.18872,
-    "longitude": -92.02763
   },
   {
     "address": "N COLLEGE RD & JOHNSTON ST",
