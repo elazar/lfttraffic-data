@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 ANDROCLES RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 2:33 PM",
+    "due_to": "Hazard",
+    "latitude": 30.30417,
+    "longitude": -92.08369
+  },
+  {
     "address": "2200 SAVOY RD",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 2:15 PM",
