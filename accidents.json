@@ -1,5 +1,29 @@
 [
   {
+    "address": "HELLEN ST & HUVAL ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 08:18 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23498,
+    "longitude": -92.02616
+  },
+  {
+    "address": "400 PECAN GROVE RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 08:18 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23737,
+    "longitude": -92.07175
+  },
+  {
+    "address": "1351 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 08:18 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2434395,
+    "longitude": -92.0065927
+  },
+  {
     "address": "1002 GREENBRIAR RD",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 08:17 AM",
@@ -182,14 +206,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.22123,
     "longitude": -92.00646
-  },
-  {
-    "address": "E WILLOW ST & MOSS ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:12 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.24378,
-    "longitude": -92.00638
   },
   {
     "address": "N COLLEGE RD & BERTRAND DR",
