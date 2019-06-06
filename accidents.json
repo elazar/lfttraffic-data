@@ -1,19 +1,19 @@
 [
   {
-    "address": "LA NEUVILLE RD & FAILLA RD",
+    "address": "NE EVANGELINE TW & GREIG ST",
+    "city": "LAFAYETTE",
+    "time": "06/05/2019 - 7:16 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23199,
+    "longitude": -92.01294
+  },
+  {
+    "address": "1204 LA NEUVILLE RD",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 7:14 PM",
     "due_to": "Grass Fire",
-    "latitude": 30.14505,
-    "longitude": -92.01474
-  },
-  {
-    "address": "1200 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "06/05/2019 - 7:13 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.20286,
-    "longitude": -92.01454
+    "latitude": 30.14533,
+    "longitude": -92.01656
   },
   {
     "address": "700 LEBLANC RD",
