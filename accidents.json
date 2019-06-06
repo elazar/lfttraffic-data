@@ -1,27 +1,19 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & ROBLEY DR",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 08:10 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.17117,
+    "longitude": -92.06617
+  },
+  {
     "address": "GUILBEAU RD & CHAPEL DR",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 08:08 AM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.19996,
     "longitude": -92.07263
-  },
-  {
-    "address": "ANDROCLES RD & BENOIT RD",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 08:07 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.30372,
-    "longitude": -92.08404
-  },
-  {
-    "address": "ST LANDRY ST & ST LOUIS ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 08:05 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.21713,
-    "longitude": -92.02704
   },
   {
     "address": "110 CENTRAL ST",
@@ -112,14 +104,6 @@
     "longitude": -92.07258
   },
   {
-    "address": "119 N BUD ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:24 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.24285,
-    "longitude": -92.0618
-  },
-  {
     "address": "1600 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 07:24 AM",
@@ -134,14 +118,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.22488,
     "longitude": -92.00947
-  },
-  {
-    "address": "S ORANGE ST & E PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:18 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22128,
-    "longitude": -92.00059
   },
   {
     "address": "FOURTEENTH ST & PLUM ST",
