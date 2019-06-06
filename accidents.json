@@ -1,5 +1,13 @@
 [
   {
+    "address": "PARKSIDE DR & IRIS LN",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:42 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.22475,
+    "longitude": -92.0251
+  },
+  {
     "address": "NW EVANGELINE TW & MUDD AV",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:41 AM",
@@ -35,7 +43,7 @@
     "address": "716 OLD SPANISH TL",
     "city": "SCOTT",
     "time": "06/06/2019 - 06:39 AM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Stalled Vehicle",
     "latitude": 30.2325,
     "longitude": -92.10105
   },
@@ -70,14 +78,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.2270852,
     "longitude": -92.0032951
-  },
-  {
-    "address": "3806 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:35 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.17072,
-    "longitude": -92.06613
   },
   {
     "address": "BERTRAND DR & DULLES DR",
@@ -342,14 +342,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.2556,
     "longitude": -92.00554
-  },
-  {
-    "address": "HOPKINS ST & N PIERCE ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:50 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2333,
-    "longitude": -92.01912
   },
   {
     "address": "E ST MARY BL & GIRARD PARK CL",
