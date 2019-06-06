@@ -1,5 +1,21 @@
 [
   {
+    "address": "S STERLING ST & SIXTH ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 08:53 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.22574,
+    "longitude": -92.00505
+  },
+  {
+    "address": "135 W PALERMO RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 08:53 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15747,
+    "longitude": -92.00492
+  },
+  {
     "address": "2100 ERASTE LANDRY RD",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 08:52 AM",
@@ -118,14 +134,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.28736,
     "longitude": -92.07258
-  },
-  {
-    "address": "LOUISIANA AV & SE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:23 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.22488,
-    "longitude": -92.00947
   },
   {
     "address": "FOURTEENTH ST & PLUM ST",
