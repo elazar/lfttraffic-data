@@ -1,5 +1,13 @@
 [
   {
+    "address": "3747 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 05:58 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.17254,
+    "longitude": -92.06583
+  },
+  {
     "address": "VEROT SCHOOL RD & E MILTON AV",
     "city": "YOUNGSVILLE",
     "time": "06/06/2019 - 05:57 AM",
@@ -46,14 +54,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.17254,
     "longitude": -92.06583
-  },
-  {
-    "address": "2100 E MILTON AV",
-    "city": "YOUNGSVILLE",
-    "time": "06/06/2019 - 05:55 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.1091951,
-    "longitude": -92.0318337
   },
   {
     "address": "N COLLEGE RD & BERTRAND DR",
