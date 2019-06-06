@@ -120,14 +120,6 @@
     "longitude": -92.06429
   },
   {
-    "address": "100 PLAQUEMINE RD",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:12 AM",
-    "due_to": "Hazard",
-    "latitude": 30.2165404,
-    "longitude": -91.9861148
-  },
-  {
     "address": "N ST ANTOINE ST & ARTHUR ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:11 AM",
@@ -166,14 +158,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.2661,
     "longitude": -92.0166
-  },
-  {
-    "address": "JOHNSTON ST & BUENA VISTA BL",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:07 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.21359,
-    "longitude": -92.02292
   },
   {
     "address": "LOUISIANA AV & S MAGNOLIA ST",
