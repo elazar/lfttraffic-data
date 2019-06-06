@@ -1,19 +1,19 @@
 [
   {
+    "address": "N ST ANTOINE ST & ARTHUR ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:11 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23973,
+    "longitude": -92.02459
+  },
+  {
     "address": "W CONGRESS ST & GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:10 AM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.19826,
     "longitude": -92.07007
-  },
-  {
-    "address": "W SECOND ST & S PIERCE ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:09 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.22778,
-    "longitude": -92.01879
   },
   {
     "address": "2256 AMBASSADOR CAFFERY PW",
@@ -86,6 +86,14 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.23508,
     "longitude": -92.02493
+  },
+  {
+    "address": "1100 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:04 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2035382,
+    "longitude": -92.0140437
   },
   {
     "address": "1000 W GILMAN RD",
