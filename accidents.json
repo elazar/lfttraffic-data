@@ -1,11 +1,27 @@
 [
   {
+    "address": "1600 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:29 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21859,
+    "longitude": -92.0765
+  },
+  {
     "address": "ERASTE LANDRY RD & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 07:28 AM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.21912,
     "longitude": -92.07587
+  },
+  {
+    "address": "GOUAUX RD & MALAPART RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:28 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.29055,
+    "longitude": -92.07471
   },
   {
     "address": "200 GOUAUX RD",
@@ -70,14 +86,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.22488,
     "longitude": -92.00947
-  },
-  {
-    "address": "219 ALYENE DR",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:22 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.19221,
-    "longitude": -92.07066
   },
   {
     "address": "ST LANDRY ST & ST LOUIS ST",
@@ -222,14 +230,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.25326,
     "longitude": -92.01457
-  },
-  {
-    "address": "304 BOTTLE BRUSH LN",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:58 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.30704,
-    "longitude": -92.07025
   },
   {
     "address": "610 GARFIELD ST",
