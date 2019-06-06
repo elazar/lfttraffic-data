@@ -1,5 +1,29 @@
 [
   {
+    "address": "3747 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:22 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.17254,
+    "longitude": -92.06583
+  },
+  {
+    "address": "600 BRENTWOOD BL",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:22 AM",
+    "due_to": "Hazard",
+    "latitude": 30.1851367,
+    "longitude": -92.0441433
+  },
+  {
+    "address": "3144 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:22 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.18753,
+    "longitude": -92.07554
+  },
+  {
     "address": "411 ST LANDRY ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:21 AM",
