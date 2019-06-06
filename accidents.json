@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 ARIS DR",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:05 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2402472,
+    "longitude": -91.974315
+  },
+  {
     "address": "1100 DUGAS RD",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 07:02 AM",
@@ -54,14 +62,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.21912,
     "longitude": -92.07587
-  },
-  {
-    "address": "400 KNOLLWOOD CL",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:53 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.20273,
-    "longitude": -92.07358
   },
   {
     "address": "SURREY ST & LOUISIANA AV",
