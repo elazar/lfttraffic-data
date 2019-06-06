@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & BONIN RD",
+    "city": "YOUNGSVILLE",
+    "time": "06/06/2019 - 07:54 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.13528,
+    "longitude": -92.00763
+  },
+  {
     "address": "1500 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 07:51 AM",
@@ -46,14 +54,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.09466,
     "longitude": -92.05115
-  },
-  {
-    "address": "W CONGRESS ST & CAJUNDOME BL",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:46 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.21871,
-    "longitude": -92.04139
   },
   {
     "address": "206 RUE LOUIS XIV",
@@ -118,14 +118,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.28736,
     "longitude": -92.07258
-  },
-  {
-    "address": "CHEMIN METAIRIE & VENDEUR RD",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:27 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.13021,
-    "longitude": -92.01579
   },
   {
     "address": "W WILLOW ST & ESSIE ST",
