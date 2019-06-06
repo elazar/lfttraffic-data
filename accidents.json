@@ -1,5 +1,21 @@
 [
   {
+    "address": "KALISTE SALOOM RD & E BAYOU PW",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 1:12 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18289,
+    "longitude": -92.01725
+  },
+  {
+    "address": "LIONS CLUB RD & ST MARY ST",
+    "city": "SCOTT",
+    "time": "06/06/2019 - 1:12 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24234,
+    "longitude": -92.09882
+  },
+  {
     "address": "241 DONLON AV",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 1:09 PM",
