@@ -1,5 +1,29 @@
 [
   {
+    "address": "503 MUDD AV",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 08:14 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23315,
+    "longitude": -92.01257
+  },
+  {
+    "address": "519 S PIERCE ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 08:14 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.22866,
+    "longitude": -92.01832
+  },
+  {
+    "address": "1050 CHEMIN METAIRIE",
+    "city": "YOUNGSVILLE",
+    "time": "06/06/2019 - 08:14 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.1183755,
+    "longitude": -92.0158349
+  },
+  {
     "address": "HUVAL ST & N ST ANTOINE ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 08:13 AM",
@@ -206,14 +230,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16605,
     "longitude": -92.08306
-  },
-  {
-    "address": "131 RIVER RD",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:24 AM",
-    "due_to": "Hazard",
-    "latitude": 30.21712,
-    "longitude": -91.9891
   },
   {
     "address": "2700 NE EVANGELINE TW",
