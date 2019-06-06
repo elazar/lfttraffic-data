@@ -1,5 +1,13 @@
 [
   {
+    "address": "519 S PIERCE ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:25 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.22866,
+    "longitude": -92.01832
+  },
+  {
     "address": "119 N BUD ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 07:24 AM",
@@ -70,14 +78,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22128,
     "longitude": -92.00059
-  },
-  {
-    "address": "1000 NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:18 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.23664,
-    "longitude": -92.01284
   },
   {
     "address": "E PINHOOK RD & SURREY ST",
@@ -272,14 +272,6 @@
     "longitude": -92.00638
   },
   {
-    "address": "PLUM ST & ELEVENTH ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:23 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22365,
-    "longitude": -92.00775
-  },
-  {
     "address": "3144 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:22 AM",
@@ -342,14 +334,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.23213,
     "longitude": -92.01406
-  },
-  {
-    "address": "NE EVANGELINE TW & HOBSON ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:01 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.23377,
-    "longitude": -92.01265
   },
   {
     "address": "100 DENVER CL",
