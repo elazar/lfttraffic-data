@@ -1,5 +1,21 @@
 [
   {
+    "address": "2500 E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 05:39 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.22322,
+    "longitude": -91.99207
+  },
+  {
+    "address": "E PINHOOK RD & SURREY ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 05:39 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2236,
+    "longitude": -91.99821
+  },
+  {
     "address": "HIGH MEADOWS BL & E PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 05:37 AM",
