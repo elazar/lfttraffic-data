@@ -272,14 +272,6 @@
     "longitude": -92.0436342
   },
   {
-    "address": "N COLLEGE RD & BERTRAND DR",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:55 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.21243,
-    "longitude": -92.04526
-  },
-  {
     "address": "1500 SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 05:54 AM",
@@ -366,14 +358,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.20727,
     "longitude": -92.03836
-  },
-  {
-    "address": "BERTRAND DR & N COLLEGE RD",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:39 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.21243,
-    "longitude": -92.04526
   },
   {
     "address": "150 HIGH MEADOWS BL",
