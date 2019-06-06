@@ -1,5 +1,21 @@
 [
   {
+    "address": "716 OLD SPANISH TL",
+    "city": "SCOTT",
+    "time": "06/06/2019 - 06:39 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2325,
+    "longitude": -92.10105
+  },
+  {
+    "address": "AMBASSADOR CAFFERY PW & BONIN RD",
+    "city": "YOUNGSVILLE",
+    "time": "06/06/2019 - 06:38 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.13528,
+    "longitude": -92.00763
+  },
+  {
     "address": "500 ARCENEAUX RD",
     "city": "CARENCRO",
     "time": "06/06/2019 - 06:37 AM",
@@ -200,14 +216,6 @@
     "longitude": -92.07616
   },
   {
-    "address": "100 EDIE ANN DR",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:08 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.15908,
-    "longitude": -92.00027
-  },
-  {
     "address": "2700 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:08 AM",
@@ -230,14 +238,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2661,
     "longitude": -92.0166
-  },
-  {
-    "address": "HUVAL ST & N ST ANTOINE ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:05 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.23508,
-    "longitude": -92.02493
   },
   {
     "address": "1000 W GILMAN RD",
@@ -320,14 +320,6 @@
     "longitude": -92.00554
   },
   {
-    "address": "AMBASSADOR CAFFERY PW & DULLES DR",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:50 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.21053,
-    "longitude": -92.07567
-  },
-  {
     "address": "HOPKINS ST & N PIERCE ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 05:50 AM",
@@ -366,14 +358,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2748001,
     "longitude": -92.0156892
-  },
-  {
-    "address": "GREENBRIAR RD & W BAYOU PW",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:36 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.19165,
-    "longitude": -92.03913
   },
   {
     "address": "JOHNSTON ST & CAMELLIA BL",
