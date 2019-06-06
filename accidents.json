@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & GUILBEAU RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:10 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.19826,
+    "longitude": -92.07007
+  },
+  {
     "address": "W SECOND ST & S PIERCE ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:09 AM",
@@ -158,14 +166,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.2116713,
     "longitude": -92.0436342
-  },
-  {
-    "address": "3747 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:56 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.17254,
-    "longitude": -92.06583
   },
   {
     "address": "N COLLEGE RD & BERTRAND DR",
