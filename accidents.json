@@ -48,14 +48,6 @@
     "longitude": -92.00461
   },
   {
-    "address": "3100 NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:06 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2877294,
-    "longitude": -92.0219846
-  },
-  {
     "address": "100 ARIS DR",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 07:05 AM",
@@ -110,14 +102,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.22294,
     "longitude": -92.01285
-  },
-  {
-    "address": "ERASTE LANDRY RD & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:57 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.21912,
-    "longitude": -92.07587
   },
   {
     "address": "SURREY ST & LOUISIANA AV",
