@@ -1,5 +1,29 @@
 [
   {
+    "address": "800 CENTER ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 05:59 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2394551,
+    "longitude": -91.9945939
+  },
+  {
+    "address": "W UNIVERSITY AV & LEE AV",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 05:59 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21849,
+    "longitude": -92.02057
+  },
+  {
+    "address": "3721 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 05:58 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.17357,
+    "longitude": -92.0672
+  },
+  {
     "address": "3747 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 05:58 AM",
@@ -174,14 +198,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.20727,
     "longitude": -92.03836
-  },
-  {
-    "address": "519 S PIERCE ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:40 AM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.22866,
-    "longitude": -92.01832
   },
   {
     "address": "BERTRAND DR & N COLLEGE RD",
