@@ -1,5 +1,13 @@
 [
   {
+    "address": "BERTRAND DR & BANKS AV",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 11:53 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2271,
+    "longitude": -92.06076
+  },
+  {
     "address": "200 E TAFT ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 11:48 AM",
