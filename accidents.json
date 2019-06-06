@@ -1,11 +1,35 @@
 [
   {
+    "address": "NW EVANGELINE TW & GREIG ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:02 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23213,
+    "longitude": -92.01406
+  },
+  {
+    "address": "116 CLINTON ST (N)",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:02 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.22417,
+    "longitude": -92.01581
+  },
+  {
     "address": "NE EVANGELINE TW & HOBSON ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:01 AM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.23377,
     "longitude": -92.01265
+  },
+  {
+    "address": "BERTRAND DR & N COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:01 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21243,
+    "longitude": -92.04526
   },
   {
     "address": "100 S WILLIAM DR",
