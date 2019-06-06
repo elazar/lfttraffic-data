@@ -3,7 +3,7 @@
     "address": "1001 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 6:41 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.23683,
     "longitude": -92.01315
   },
@@ -30,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.14079,
     "longitude": -91.94732
-  },
-  {
-    "address": "4200 LANDRY RD",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 4:38 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.2119691,
-    "longitude": -92.1274979
   },
   {
     "address": "TWELFTH ST & SURREY ST",
