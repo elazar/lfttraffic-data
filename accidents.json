@@ -1,13 +1,5 @@
 [
   {
-    "address": "BERTRAND DR & DULLES DR",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 10:04 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.22233,
-    "longitude": -92.05213
-  },
-  {
     "address": "1601 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 09:57 AM",
@@ -78,14 +70,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.2265889,
     "longitude": -92.002522
-  },
-  {
-    "address": "2200 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 08:47 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2128969,
-    "longitude": -92.0758149
   },
   {
     "address": "2737 ROBLEY DR",
