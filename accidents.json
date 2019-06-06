@@ -1,5 +1,21 @@
 [
   {
+    "address": "4200 LANDRY RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 4:38 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2119691,
+    "longitude": -92.1274979
+  },
+  {
+    "address": "JOHNSTON ST & DUHON RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 4:38 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16617,
+    "longitude": -92.08326
+  },
+  {
     "address": "3511 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 4:24 PM",
