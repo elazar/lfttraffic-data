@@ -1,5 +1,21 @@
 [
   {
+    "address": "100 DENVER CL",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:00 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2419,
+    "longitude": -91.99274
+  },
+  {
+    "address": "1515 E UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:00 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.20908,
+    "longitude": -92.00101
+  },
+  {
     "address": "800 CENTER ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 05:59 AM",
@@ -246,14 +262,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.19165,
     "longitude": -92.03913
-  },
-  {
-    "address": "200 CAMELLIA BL",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:34 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.19,
-    "longitude": -92.05584
   },
   {
     "address": "1101 KALISTE SALOOM RD",
