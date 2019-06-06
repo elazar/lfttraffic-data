@@ -1,5 +1,21 @@
 [
   {
+    "address": "N COLLEGE RD & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 05:41 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.20727,
+    "longitude": -92.03836
+  },
+  {
+    "address": "400 W GLORIA SWITCH RD",
+    "city": "CARENCRO",
+    "time": "06/06/2019 - 05:40 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2979749,
+    "longitude": -92.0324316
+  },
+  {
     "address": "519 S PIERCE ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 05:40 AM",
@@ -32,12 +48,12 @@
     "longitude": -91.99821
   },
   {
-    "address": "HIGH MEADOWS BL & E PONT DES MOUTON RD",
+    "address": "150 HIGH MEADOWS BL",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 05:37 AM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.27337,
-    "longitude": -92.01605
+    "latitude": 30.2748001,
+    "longitude": -92.0156892
   },
   {
     "address": "217 W BRENTWOOD BL",
@@ -110,22 +126,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.19364,
     "longitude": -92.0587
-  },
-  {
-    "address": "100 CAMELLIA BL",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:20 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.1933318,
-    "longitude": -92.0585573
-  },
-  {
-    "address": "N UNIVERSITY AV & RAILROAD UNDERPASS",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:19 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.24052,
-    "longitude": -92.03242
   },
   {
     "address": "5639 JOHNSTON ST",
