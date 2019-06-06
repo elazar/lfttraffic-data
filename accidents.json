@@ -1,5 +1,29 @@
 [
   {
+    "address": "400 KNOLLWOOD CL",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:53 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.20273,
+    "longitude": -92.07358
+  },
+  {
+    "address": "SURREY ST & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:52 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.22823,
+    "longitude": -92.00461
+  },
+  {
+    "address": "W WILLOW ST & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:52 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24448,
+    "longitude": -92.03275
+  },
+  {
     "address": "HUVAL ST & HELLEN ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:50 AM",
@@ -168,14 +192,6 @@
     "longitude": -92.00638
   },
   {
-    "address": "W WILLOW ST & NW EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:23 AM",
-    "due_to": "Hazard",
-    "latitude": 30.24481,
-    "longitude": -92.01456
-  },
-  {
     "address": "PLUM ST & ELEVENTH ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:23 AM",
@@ -199,7 +215,14 @@
     "latitude": 30.21664,
     "longitude": -92.02603
   },
-  null,
+  {
+    "address": "400 BRENTWOOD BL",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:21 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.18955,
+    "longitude": -92.04902
+  },
   {
     "address": "CARMEL DR & TWELFTH ST",
     "city": "LAFAYETTE",
@@ -215,22 +238,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.22741,
     "longitude": -92.02507
-  },
-  {
-    "address": "W CONGRESS ST & GUILBEAU RD",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:10 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.19826,
-    "longitude": -92.07007
-  },
-  {
-    "address": "2700 NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:08 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2661,
-    "longitude": -92.0166
   },
   {
     "address": "LOUISIANA AV & S MAGNOLIA ST",
@@ -319,14 +326,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.23448,
     "longitude": -92.00839
-  },
-  {
-    "address": "1000 NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:45 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.23664,
-    "longitude": -92.01284
   },
   {
     "address": "150 HIGH MEADOWS BL",
