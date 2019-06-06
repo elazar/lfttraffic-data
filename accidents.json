@@ -1,5 +1,13 @@
 [
   {
+    "address": "2000 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 09:54 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2437363,
+    "longitude": -92.0600302
+  },
+  {
     "address": "KALISTE SALOOM RD & LAKE FARM RD",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 09:50 AM",
@@ -78,14 +86,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.2265889,
     "longitude": -92.002522
-  },
-  {
-    "address": "2100 ERASTE LANDRY RD",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 08:52 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2193149,
-    "longitude": -92.0745107
   },
   {
     "address": "2200 AMBASSADOR CAFFERY PW",
