@@ -1,5 +1,13 @@
 [
   {
+    "address": "RIVER RANCH BL & KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "06/05/2019 - 10:48 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.1687,
+    "longitude": -92.03433
+  },
+  {
     "address": "N UNIVERSITY AV & PREJEAN RD",
     "city": "CARENCRO",
     "time": "06/05/2019 - 9:03 PM",
