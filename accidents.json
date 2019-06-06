@@ -1,5 +1,21 @@
 [
   {
+    "address": "SE EVANGELINE TW & TENTH ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:45 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.22411,
+    "longitude": -92.00905
+  },
+  {
+    "address": "N COLLEGE RD & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:45 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.20727,
+    "longitude": -92.03836
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:44 AM",
@@ -107,7 +123,7 @@
     "address": "132 COMEAUX COVE",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:34 AM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Stalled Vehicle",
     "latitude": 30.2886671,
     "longitude": -92.1079899
   },
