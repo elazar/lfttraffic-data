@@ -1,5 +1,21 @@
 [
   {
+    "address": "219 ALYENE DR",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:22 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.19221,
+    "longitude": -92.07066
+  },
+  {
+    "address": "ST LANDRY ST & ST LOUIS ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:22 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21713,
+    "longitude": -92.02704
+  },
+  {
     "address": "ORCHID DR & MADELINE AV",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 07:21 AM",
@@ -158,14 +174,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.22294,
     "longitude": -92.01285
-  },
-  {
-    "address": "SURREY ST & LOUISIANA AV",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:52 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.22823,
-    "longitude": -92.00461
   },
   {
     "address": "W WILLOW ST & N UNIVERSITY AV",
