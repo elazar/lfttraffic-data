@@ -1,5 +1,13 @@
 [
   {
+    "address": "HUVAL ST & N ST ANTOINE ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:05 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23508,
+    "longitude": -92.02493
+  },
+  {
     "address": "1000 W GILMAN RD",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:03 AM",
@@ -62,14 +70,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.21849,
     "longitude": -92.02057
-  },
-  {
-    "address": "3721 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:58 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.17357,
-    "longitude": -92.0672
   },
   {
     "address": "VEROT SCHOOL RD & E MILTON AV",
@@ -240,14 +240,6 @@
     "longitude": -92.0156892
   },
   {
-    "address": "217 W BRENTWOOD BL",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:36 AM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.19785,
-    "longitude": -92.05884
-  },
-  {
     "address": "GREENBRIAR RD & W BAYOU PW",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 05:36 AM",
@@ -262,14 +254,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.17545,
     "longitude": -92.02698
-  },
-  {
-    "address": "1100 ST JOHN ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:32 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.2215292,
-    "longitude": -92.023013
   },
   {
     "address": "301 W UNIVERSITY AV",
