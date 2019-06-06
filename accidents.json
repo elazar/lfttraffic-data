@@ -1,5 +1,21 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & GUILBEAU RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:44 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.20248,
+    "longitude": -92.07527
+  },
+  {
+    "address": "1540 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:44 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21372,
+    "longitude": -92.02301
+  },
+  {
     "address": "PARKSIDE DR & IRIS LN",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:42 AM",
@@ -22,14 +38,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.22444,
     "longitude": -92.00479
-  },
-  {
-    "address": "JOHNSTON ST & S COLLEGE RD",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:40 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.20727,
-    "longitude": -92.03836
   },
   {
     "address": "CHEMIN METAIRIE & BRIAR GREEN DR",
@@ -342,14 +350,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.2556,
     "longitude": -92.00554
-  },
-  {
-    "address": "E ST MARY BL & GIRARD PARK CL",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:48 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.21013,
-    "longitude": -92.01601
   },
   {
     "address": "MOSS ST & CHOPIN ST",
