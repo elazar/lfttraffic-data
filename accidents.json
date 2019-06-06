@@ -1,5 +1,13 @@
 [
   {
+    "address": "KALISTE SALOOM RD & E BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 09:19 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.13792,
+    "longitude": -92.06754
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & ERASTE LANDRY RD",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 09:18 AM",
@@ -24,12 +32,12 @@
     "longitude": -92.03642
   },
   {
-    "address": "93 I10 EB ENTRANCE RAMP HW",
-    "city": "DUSON",
+    "address": "93 I10 WESTBOUND MM93 HW",
+    "city": "Lafayette",
     "time": "06/06/2019 - 09:09 AM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.24757,
-    "longitude": -92.14845
+    "latitude": 30.26255,
+    "longitude": -92.00867
   },
   {
     "address": "2600 MILLS ST",
