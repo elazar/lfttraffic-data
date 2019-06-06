@@ -1,5 +1,13 @@
 [
   {
+    "address": "CARMEL DR & TWELFTH ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:16 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23416,
+    "longitude": -91.99899
+  },
+  {
     "address": "900 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:14 AM",
