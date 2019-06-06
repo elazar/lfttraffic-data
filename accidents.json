@@ -96,14 +96,6 @@
     "longitude": -92.06617
   },
   {
-    "address": "GUILBEAU RD & CHAPEL DR",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 08:08 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.19996,
-    "longitude": -92.07263
-  },
-  {
     "address": "110 CENTRAL ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 08:04 AM",
@@ -262,14 +254,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2661,
     "longitude": -92.0166
-  },
-  {
-    "address": "MOSS ST & CHOPIN ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:47 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.23448,
-    "longitude": -92.00839
   },
   {
     "address": "JOHNSTON ST & CAMELLIA BL",
