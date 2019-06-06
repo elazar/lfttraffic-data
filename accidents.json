@@ -1,5 +1,13 @@
 [
   {
+    "address": "109 S MAGNOLIA ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:41 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2282041,
+    "longitude": -92.0109541
+  },
+  {
     "address": "536 ORCHID DR",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 07:40 AM",
@@ -200,12 +208,12 @@
     "longitude": -92.08422
   },
   {
-    "address": "NW EVANGELINE TW & I10 HW",
+    "address": "2700 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:59 AM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.25326,
-    "longitude": -92.01457
+    "latitude": 30.2661,
+    "longitude": -92.0166
   },
   {
     "address": "610 GARFIELD ST",
