@@ -1,11 +1,43 @@
 [
   {
-    "address": "2600 NE EVANGELINE TW",
+    "address": "S PIERCE ST & CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:07 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23312,
+    "longitude": -92.0191
+  },
+  {
+    "address": "JOHNSTON ST & BUENA VISTA BL",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:07 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21359,
+    "longitude": -92.02292
+  },
+  {
+    "address": "LOUISIANA AV & S MAGNOLIA ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:07 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.22571,
+    "longitude": -92.00791
+  },
+  {
+    "address": "100 DARLENE DR",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:07 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1592095,
+    "longitude": -92.0023888
+  },
+  {
+    "address": "2700 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:06 AM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.2566987,
-    "longitude": -92.0140974
+    "latitude": 30.2661,
+    "longitude": -92.0166
   },
   {
     "address": "HUVAL ST & N ST ANTOINE ST",
@@ -246,14 +278,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.19165,
     "longitude": -92.03913
-  },
-  {
-    "address": "301 W UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:31 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.21838,
-    "longitude": -92.02099
   },
   {
     "address": "400 N COLLEGE RD",
