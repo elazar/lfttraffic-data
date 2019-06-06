@@ -1,5 +1,21 @@
 [
   {
+    "address": "CHEMIN METAIRIE & VENDEUR RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:27 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.13021,
+    "longitude": -92.01579
+  },
+  {
+    "address": "W WILLOW ST & ESSIE ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:26 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.24519,
+    "longitude": -92.01727
+  },
+  {
     "address": "519 S PIERCE ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 07:25 AM",
@@ -62,14 +78,6 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.14589,
     "longitude": -92.03252
-  },
-  {
-    "address": "301 ALYENE DR",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:20 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.19141,
-    "longitude": -92.07068
   },
   {
     "address": "S ORANGE ST & E PINHOOK RD",
