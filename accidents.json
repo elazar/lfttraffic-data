@@ -88,14 +88,6 @@
     "longitude": -92.00947
   },
   {
-    "address": "VERSAILLES BL & PARKSIDE DR",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:17 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.22469,
-    "longitude": -92.0251
-  },
-  {
     "address": "CARMEL DR & TWELFTH ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:16 AM",
@@ -350,14 +342,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.24552,
     "longitude": -92.00037
-  },
-  {
-    "address": "N COLLEGE RD & JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:41 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.20727,
-    "longitude": -92.03836
   },
   {
     "address": "150 HIGH MEADOWS BL",
