@@ -1,18 +1,1 @@
-[
-  {
-    "address": "205 MARCON DR",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 01:52 AM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.25884,
-    "longitude": -92.04531
-  },
-  {
-    "address": "707 VINCENT RD",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 12:17 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1336,
-    "longitude": -92.05395
-  }
-]
+[]
