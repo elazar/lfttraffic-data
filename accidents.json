@@ -1,11 +1,19 @@
 [
   {
-    "address": "100 COCKPIT RD",
+    "address": "800 RIDGE RD",
+    "city": "SCOTT",
+    "time": "06/06/2019 - 3:18 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.18187,
+    "longitude": -92.10849
+  },
+  {
+    "address": "700 RIDGE RD",
     "city": "LAFAYETTE",
-    "time": "06/06/2019 - 3:06 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.3294634,
-    "longitude": -92.0851063
+    "time": "06/06/2019 - 3:18 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1817,
+    "longitude": -92.10413
   },
   {
     "address": "600 CHEMIN METAIRIE",
