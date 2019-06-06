@@ -70,29 +70,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.2268,
     "longitude": -92.00258
-  },
-  {
-    "address": "JOHNSTON ST & SOUTHCITY PW",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:00 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.16605,
-    "longitude": -92.08306
-  },
-  {
-    "address": "2700 NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:59 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2661,
-    "longitude": -92.0166
-  },
-  {
-    "address": "NW EVANGELINE TW & MUDD AV",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:41 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.23312,
-    "longitude": -92.01407
   }
 ]
