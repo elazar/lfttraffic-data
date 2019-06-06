@@ -56,14 +56,6 @@
     "longitude": -91.99051
   },
   {
-    "address": "KALISTE SALOOM RD & E BROUSSARD RD",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 09:19 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.13792,
-    "longitude": -92.06754
-  },
-  {
     "address": "CAMELLIA BL & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 09:12 AM",
@@ -102,14 +94,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.2128969,
     "longitude": -92.0758149
-  },
-  {
-    "address": "NE EVANGELINE TW & HOBSON ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 08:41 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.23377,
-    "longitude": -92.01265
   },
   {
     "address": "2737 ROBLEY DR",
