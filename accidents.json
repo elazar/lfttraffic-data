@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 05:21 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.19364,
+    "longitude": -92.0587
+  },
+  {
     "address": "DULLES DR & HERBERT RD",
     "city": "SCOTT",
     "time": "06/06/2019 - 05:20 AM",
