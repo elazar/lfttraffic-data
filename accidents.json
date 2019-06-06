@@ -48,14 +48,6 @@
     "longitude": -92.05553
   },
   {
-    "address": "GALLET RD & SAVOY RD",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:47 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.09466,
-    "longitude": -92.05115
-  },
-  {
     "address": "TWELFTH ST & SURREY ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 07:44 AM",
@@ -102,14 +94,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.28736,
     "longitude": -92.07258
-  },
-  {
-    "address": "W WILLOW ST & ESSIE ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:26 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.24519,
-    "longitude": -92.01727
   },
   {
     "address": "519 S PIERCE ST",
