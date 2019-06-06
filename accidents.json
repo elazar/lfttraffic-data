@@ -1,5 +1,21 @@
 [
   {
+    "address": "132 COMEAUX COVE",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:34 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2886671,
+    "longitude": -92.1079899
+  },
+  {
+    "address": "MOSS ST & E GLORIA SWITCH RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:33 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2948,
+    "longitude": -92.00732
+  },
+  {
     "address": "300 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:32 AM",
@@ -102,14 +118,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.18955,
     "longitude": -92.04902
-  },
-  {
-    "address": "200 TITAN DR",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:20 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.14905,
-    "longitude": -91.98689
   },
   {
     "address": "SW EVANGELINE TW & ELEVENTH ST",
