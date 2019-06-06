@@ -1,5 +1,21 @@
 [
   {
+    "address": "S ST ANTOINE ST & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:37 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.22717,
+    "longitude": -92.02495
+  },
+  {
+    "address": "BONIN RD & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:37 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.13528,
+    "longitude": -92.00763
+  },
+  {
     "address": "MADELINE AV & ORCHID DR",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 07:36 AM",
