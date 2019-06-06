@@ -1,5 +1,13 @@
 [
   {
+    "address": "900 TWELFTH ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 08:57 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.22617,
+    "longitude": -92.00299
+  },
+  {
     "address": "S STERLING ST & SIXTH ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 08:53 AM",
@@ -38,14 +46,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.22417,
     "longitude": -92.01052
-  },
-  {
-    "address": "113 TARA DR",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 08:24 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.10324,
-    "longitude": -92.03321
   },
   {
     "address": "2737 ROBLEY DR",
