@@ -1,27 +1,11 @@
 [
   {
-    "address": "ORCHID DR & MADELINE AV",
+    "address": "536 ORCHID DR",
     "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:39 AM",
-    "due_to": "Incoming Call",
-    "latitude": 30.23853,
-    "longitude": -92.03941
-  },
-  {
-    "address": "S ST ANTOINE ST & W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:37 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.22717,
-    "longitude": -92.02495
-  },
-  {
-    "address": "BONIN RD & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:37 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.13528,
-    "longitude": -92.00763
+    "time": "06/06/2019 - 07:40 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.23877,
+    "longitude": -92.03974
   },
   {
     "address": "MADELINE AV & ORCHID DR",
@@ -142,14 +126,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.23853,
     "longitude": -92.03941
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & VEROT SCHOOL RD",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:20 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.14589,
-    "longitude": -92.03252
   },
   {
     "address": "S ORANGE ST & E PINHOOK RD",
