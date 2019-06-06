@@ -104,14 +104,6 @@
     "longitude": -92.01265
   },
   {
-    "address": "600 SW EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 08:39 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.22417,
-    "longitude": -92.01052
-  },
-  {
     "address": "2737 ROBLEY DR",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 08:14 AM",
@@ -174,13 +166,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.23312,
     "longitude": -92.01407
-  },
-  {
-    "address": "2700 NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:06 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2661,
-    "longitude": -92.0166
   }
 ]
