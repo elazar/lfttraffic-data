@@ -1,11 +1,11 @@
 [
   {
-    "address": "0 POLICE DEPARTMENT",
+    "address": "1601 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 09:57 AM",
     "due_to": "Stalled Vehicle",
-    "latitude": null,
-    "longitude": null
+    "latitude": 30.2189,
+    "longitude": -92.07557
   },
   {
     "address": "N UNIVERSITY AV & WALKER RD",
