@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 5:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19597,
+    "longitude": -92.07523
+  },
+  {
     "address": "3142 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 5:07 PM",
@@ -62,14 +70,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1776121,
     "longitude": -92.0737651
-  },
-  {
-    "address": "DUHON RD & W BROUSSARD RD",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 1:26 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.16693,
-    "longitude": -92.09962
   },
   {
     "address": "TWELFTH ST & SURREY ST",
