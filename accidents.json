@@ -128,14 +128,6 @@
     "longitude": -92.04493
   },
   {
-    "address": "700 SURREY ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:36 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.2270852,
-    "longitude": -92.0032951
-  },
-  {
     "address": "BERTRAND DR & DULLES DR",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:35 AM",
@@ -254,14 +246,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2661,
     "longitude": -92.0166
-  },
-  {
-    "address": "1000 W GILMAN RD",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:03 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.2427,
-    "longitude": -92.02815
   },
   {
     "address": "NW EVANGELINE TW & GREIG ST",
