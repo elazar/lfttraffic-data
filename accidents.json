@@ -1,5 +1,13 @@
 [
   {
+    "address": "800 W BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 09:02 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.17464,
+    "longitude": -92.09913
+  },
+  {
     "address": "900 TWELFTH ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 08:57 AM",
