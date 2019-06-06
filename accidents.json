@@ -1,5 +1,13 @@
 [
   {
+    "address": "KALISTE SALOOM RD & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/05/2019 - 10:55 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15649,
+    "longitude": -92.04838
+  },
+  {
     "address": "107 WALTER DR",
     "city": "CARENCRO",
     "time": "06/05/2019 - 10:52 PM",
@@ -14,14 +22,6 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.1687,
     "longitude": -92.03433
-  },
-  {
-    "address": "N UNIVERSITY AV & PREJEAN RD",
-    "city": "CARENCRO",
-    "time": "06/05/2019 - 9:03 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.30943,
-    "longitude": -92.04946
   },
   {
     "address": "OLD SPANISH TL & SPEEDPRO LN",
