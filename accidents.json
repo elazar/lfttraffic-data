@@ -1,13 +1,5 @@
 [
   {
-    "address": "117 MEAGANS WAY DR",
-    "city": "YOUNGSVILLE",
-    "time": "06/05/2019 - 7:18 PM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.10491,
-    "longitude": -91.98737
-  },
-  {
     "address": "NE EVANGELINE TW & GREIG ST",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 7:16 PM",
@@ -54,5 +46,13 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17918,
     "longitude": -92.02578
+  },
+  {
+    "address": "221 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "06/05/2019 - 7:18 PM",
+    "due_to": "Hazardous Situation",
+    "latitude": 30.176,
+    "longitude": -92.00509
   }
 ]
