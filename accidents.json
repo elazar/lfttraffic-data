@@ -1,5 +1,21 @@
 [
   {
+    "address": "JOHNSTON ST & JEFFERSON ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:31 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2201,
+    "longitude": -92.0172
+  },
+  {
+    "address": "NW EVANGELINE TW & DONLON AV",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:31 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24034,
+    "longitude": -92.01372
+  },
+  {
     "address": "1600 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 07:29 AM",
@@ -184,22 +200,6 @@
     "longitude": -92.08332
   },
   {
-    "address": "GAUTHIER RD & SIXTEENTH ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:09 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22118,
-    "longitude": -92.00461
-  },
-  {
-    "address": "100 ARIS DR",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:05 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.2402472,
-    "longitude": -91.974315
-  },
-  {
     "address": "JOHNSTON ST & SOUTHCITY PW",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 07:00 AM",
@@ -238,14 +238,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24448,
     "longitude": -92.03275
-  },
-  {
-    "address": "1540 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:44 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.21372,
-    "longitude": -92.02301
   },
   {
     "address": "PARKSIDE DR & IRIS LN",
@@ -342,14 +334,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2661,
     "longitude": -92.0166
-  },
-  {
-    "address": "NW EVANGELINE TW & GREIG ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:02 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.23213,
-    "longitude": -92.01406
   },
   {
     "address": "100 DENVER CL",
