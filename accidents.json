@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & PREJEAN RD",
+    "city": "CARENCRO",
+    "time": "06/05/2019 - 9:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.30943,
+    "longitude": -92.04946
+  },
+  {
     "address": "400 E WILLOW ST",
     "city": "LAFAYETTE",
     "time": "06/05/2019 - 8:55 PM",
