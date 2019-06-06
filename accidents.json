@@ -1,13 +1,5 @@
 [
   {
-    "address": "2350 W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 09:42 AM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.21993,
-    "longitude": -92.04115
-  },
-  {
     "address": "3600 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 09:39 AM",
@@ -134,14 +126,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.23508,
     "longitude": -92.02493
-  },
-  {
-    "address": "1500 BONIN RD",
-    "city": "YOUNGSVILLE",
-    "time": "06/06/2019 - 08:13 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.13678,
-    "longitude": -92.00779
   },
   {
     "address": "AMBASSADOR CAFFERY PW & GUILBEAU RD",
