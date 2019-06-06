@@ -1,5 +1,13 @@
 [
   {
+    "address": "2000 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 11:36 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2437363,
+    "longitude": -92.0600302
+  },
+  {
     "address": "VEROT SCHOOL RD & E MILTON AV",
     "city": "YOUNGSVILLE",
     "time": "06/06/2019 - 11:27 AM",
@@ -22,14 +30,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.21999,
     "longitude": -92.01705
-  },
-  {
-    "address": "HUNTERS RIDGE BL & CHEMIN METAIRIE",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 11:09 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.13348,
-    "longitude": -92.01581
   },
   {
     "address": "E ALEXANDER ST & MOSS ST",
