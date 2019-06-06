@@ -1,5 +1,13 @@
 [
   {
+    "address": "3600 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 09:39 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17443,
+    "longitude": -92.07092
+  },
+  {
     "address": "RIDGE RD & ILE DES CANNES RD",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 09:38 AM",
@@ -54,14 +62,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.16717,
     "longitude": -92.03642
-  },
-  {
-    "address": "93 I10 WESTBOUND MM93 HW",
-    "city": "Lafayette",
-    "time": "06/06/2019 - 09:09 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.26255,
-    "longitude": -92.00867
   },
   {
     "address": "2600 MILLS ST",
