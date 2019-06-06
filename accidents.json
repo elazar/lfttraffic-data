@@ -1,5 +1,13 @@
 [
   {
+    "address": "126 LEXINGTON DR",
+    "city": "DUSON",
+    "time": "06/06/2019 - 1:50 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25184,
+    "longitude": -92.19508
+  },
+  {
     "address": "804 MARTIN LUTHER KING JR DR",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 1:33 PM",
