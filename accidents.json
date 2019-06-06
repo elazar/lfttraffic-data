@@ -1,5 +1,29 @@
 [
   {
+    "address": "3806 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:35 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.17072,
+    "longitude": -92.06613
+  },
+  {
+    "address": "BERTRAND DR & DULLES DR",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:35 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.22233,
+    "longitude": -92.05213
+  },
+  {
+    "address": "519 S PIERCE ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:35 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.22866,
+    "longitude": -92.01832
+  },
+  {
     "address": "132 COMEAUX COVE",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:34 AM",
@@ -270,14 +294,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.21849,
     "longitude": -92.02057
-  },
-  {
-    "address": "VEROT SCHOOL RD & E MILTON AV",
-    "city": "YOUNGSVILLE",
-    "time": "06/06/2019 - 05:57 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.08575,
-    "longitude": -92.03246
   },
   {
     "address": "1500 SE EVANGELINE TW",
