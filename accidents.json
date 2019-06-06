@@ -1,5 +1,21 @@
 [
   {
+    "address": "NW EVANGELINE TW & MUDD AV",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:41 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23312,
+    "longitude": -92.01407
+  },
+  {
+    "address": "S ORANGE ST & TWELFTH ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:40 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.22444,
+    "longitude": -92.00479
+  },
+  {
     "address": "JOHNSTON ST & S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:40 AM",
@@ -142,14 +158,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22365,
     "longitude": -92.00775
-  },
-  {
-    "address": "3747 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:22 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.17254,
-    "longitude": -92.06583
   },
   {
     "address": "600 BRENTWOOD BL",
