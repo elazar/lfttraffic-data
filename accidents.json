@@ -208,14 +208,6 @@
     "longitude": -92.01265
   },
   {
-    "address": "BERTRAND DR & N COLLEGE RD",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:01 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.21243,
-    "longitude": -92.04526
-  },
-  {
     "address": "100 S WILLIAM DR",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:00 AM",
@@ -336,14 +328,6 @@
     "longitude": -92.01284
   },
   {
-    "address": "LOUISIANA AV & E WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:44 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.24552,
-    "longitude": -92.00037
-  },
-  {
     "address": "150 HIGH MEADOWS BL",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 05:37 AM",
@@ -358,14 +342,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.19165,
     "longitude": -92.03913
-  },
-  {
-    "address": "400 N COLLEGE RD",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:30 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2116713,
-    "longitude": -92.0436342
   },
   {
     "address": "JOHNSTON ST & CAMELLIA BL",
