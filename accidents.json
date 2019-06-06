@@ -1,5 +1,29 @@
 [
   {
+    "address": "W UNIVERSITY AV & LEE AV",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:16 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21849,
+    "longitude": -92.02057
+  },
+  {
+    "address": "FOURTEENTH ST & PLUM ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:16 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.22123,
+    "longitude": -92.00646
+  },
+  {
+    "address": "HELLEN ST & HUVAL ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:15 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23498,
+    "longitude": -92.02616
+  },
+  {
     "address": "E WILLOW ST & MOSS ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 07:12 AM",
@@ -302,14 +326,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.2419,
     "longitude": -91.99274
-  },
-  {
-    "address": "W UNIVERSITY AV & LEE AV",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:59 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.21849,
-    "longitude": -92.02057
   },
   {
     "address": "MOSS ST & CHOPIN ST",
