@@ -1,5 +1,13 @@
 [
   {
+    "address": "2000 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 12:18 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2437363,
+    "longitude": -92.0600302
+  },
+  {
     "address": "100 COCKPIT RD",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 12:11 PM",
@@ -86,14 +94,6 @@
     "due_to": "Hazard",
     "latitude": 30.1645,
     "longitude": -92.09961
-  },
-  {
-    "address": "2400 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 10:34 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.20824,
-    "longitude": -92.07618
   },
   {
     "address": "6212 CAMERON ST",
