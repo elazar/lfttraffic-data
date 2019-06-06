@@ -1,19 +1,19 @@
 [
   {
+    "address": "1000 W GILMAN RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:03 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.2427,
+    "longitude": -92.02815
+  },
+  {
     "address": "NW EVANGELINE TW & GREIG ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:02 AM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.23213,
     "longitude": -92.01406
-  },
-  {
-    "address": "116 CLINTON ST (N)",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:02 AM",
-    "due_to": "Incoming Call",
-    "latitude": 30.22417,
-    "longitude": -92.01581
   },
   {
     "address": "NE EVANGELINE TW & HOBSON ST",
