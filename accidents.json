@@ -1,5 +1,13 @@
 [
   {
+    "address": "ST LANDRY ST & ST LOUIS ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 08:05 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21713,
+    "longitude": -92.02704
+  },
+  {
     "address": "110 CENTRAL ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 08:04 AM",
@@ -118,14 +126,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.22488,
     "longitude": -92.00947
-  },
-  {
-    "address": "ST LANDRY ST & ST LOUIS ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:22 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.21713,
-    "longitude": -92.02704
   },
   {
     "address": "S ORANGE ST & E PINHOOK RD",
