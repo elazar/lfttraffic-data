@@ -1,5 +1,13 @@
 [
   {
+    "address": "206 BOURQUE ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 08:03 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.10194,
+    "longitude": -92.07496
+  },
+  {
     "address": "DULLES DR & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 08:02 AM",
