@@ -8,14 +8,6 @@
     "longitude": -92.0607423
   },
   {
-    "address": "2130 W WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 2:13 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2453,
-    "longitude": -92.06282
-  },
-  {
     "address": "127 ELYSIAN FIELDS DR",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 2:03 PM",
@@ -46,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18289,
     "longitude": -92.01725
-  },
-  {
-    "address": "4416 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 1:04 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19311,
-    "longitude": -92.06015
   },
   {
     "address": "VEROT SCHOOL RD & E MILTON AV",
