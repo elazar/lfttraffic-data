@@ -1,5 +1,13 @@
 [
   {
+    "address": "3500 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 08:19 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1774019,
+    "longitude": -92.0739576
+  },
+  {
     "address": "HELLEN ST & HUVAL ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 08:18 AM",
@@ -110,14 +118,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.23377,
     "longitude": -92.01265
-  },
-  {
-    "address": "617 ST CHARLES ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:59 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.22608,
-    "longitude": -92.00373
   },
   {
     "address": "AMBASSADOR CAFFERY PW & BONIN RD",
