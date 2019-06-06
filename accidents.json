@@ -1,5 +1,13 @@
 [
   {
+    "address": "RIDGE RD & W BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 10:45 AM",
+    "due_to": "Hazard",
+    "latitude": 30.1645,
+    "longitude": -92.09961
+  },
+  {
     "address": "500 THOROUGHBRED DR",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 10:43 AM",
@@ -46,14 +54,6 @@
     "due_to": "Fire Alarm-Commercial",
     "latitude": 30.19785,
     "longitude": -92.05884
-  },
-  {
-    "address": "ALYENE DR & BONAIRE DR",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 10:17 AM",
-    "due_to": "Hazard",
-    "latitude": 30.19159,
-    "longitude": -92.07089
   },
   {
     "address": "6212 CAMERON ST",
