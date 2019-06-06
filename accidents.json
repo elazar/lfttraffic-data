@@ -1,5 +1,13 @@
 [
   {
+    "address": "GALLET RD & SAVOY RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:47 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.09466,
+    "longitude": -92.05115
+  },
+  {
     "address": "W CONGRESS ST & CAJUNDOME BL",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 07:46 AM",
@@ -150,14 +158,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22128,
     "longitude": -92.00059
-  },
-  {
-    "address": "E PINHOOK RD & SURREY ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:17 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2236,
-    "longitude": -91.99821
   },
   {
     "address": "FOURTEENTH ST & PLUM ST",
