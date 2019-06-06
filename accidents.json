@@ -3,7 +3,7 @@
     "address": "CAMELLIA BL & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 09:12 AM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.16717,
     "longitude": -92.03642
   },
@@ -38,14 +38,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.22617,
     "longitude": -92.00299
-  },
-  {
-    "address": "S STERLING ST & SIXTH ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 08:53 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.22574,
-    "longitude": -92.00505
   },
   {
     "address": "2100 ERASTE LANDRY RD",
