@@ -1,19 +1,27 @@
 [
   {
+    "address": "VEROT SCHOOL RD & FORTUNE RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 09:36 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.12372,
+    "longitude": -92.03243
+  },
+  {
+    "address": "439 PREJEAN RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 09:36 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.30832,
+    "longitude": -92.06138
+  },
+  {
     "address": "FORTUNE RD & YOUNGSVILLE HW",
     "city": "YOUNGSVILLE",
     "time": "06/06/2019 - 09:33 AM",
     "due_to": "Traffic Control",
     "latitude": 30.12191,
     "longitude": -91.99051
-  },
-  {
-    "address": "N UNIVERSITY AV & RAILROAD UNDERPASS",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 09:26 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.24052,
-    "longitude": -92.03242
   },
   {
     "address": "KALISTE SALOOM RD & E BROUSSARD RD",
