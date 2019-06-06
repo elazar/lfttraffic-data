@@ -1,5 +1,21 @@
 [
   {
+    "address": "VEROT SCHOOL RD & MILLCREEK RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:55 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.13109,
+    "longitude": -92.03248
+  },
+  {
+    "address": "AMBASSADOR CAFFERY PW & VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:54 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.14589,
+    "longitude": -92.03252
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & BONIN RD",
     "city": "YOUNGSVILLE",
     "time": "06/06/2019 - 07:54 AM",
@@ -86,14 +102,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.23853,
     "longitude": -92.03941
-  },
-  {
-    "address": "STEWART ST & E TAFT ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:35 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.219,
-    "longitude": -92.01335
   },
   {
     "address": "NW EVANGELINE TW & DONLON AV",
