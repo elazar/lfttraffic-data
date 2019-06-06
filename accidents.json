@@ -1,5 +1,21 @@
 [
   {
+    "address": "900 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:14 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.22741,
+    "longitude": -92.02507
+  },
+  {
+    "address": "MARIE ANTOINETTE ST & DULLES DR",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:14 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21364,
+    "longitude": -92.06429
+  },
+  {
     "address": "CORNELIUS DR & LARK DR",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:13 AM",
