@@ -1,5 +1,13 @@
 [
   {
+    "address": "206 RUE LOUIS XIV",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:45 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.16988,
+    "longitude": -92.02669
+  },
+  {
     "address": "TWELFTH ST & SURREY ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 07:44 AM",
@@ -30,14 +38,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.23853,
     "longitude": -92.03941
-  },
-  {
-    "address": "W CONGRESS ST & BROOKSIDE DR",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:36 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.22188,
-    "longitude": -92.03632
   },
   {
     "address": "STEWART ST & E TAFT ST",
@@ -286,14 +286,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23416,
     "longitude": -91.99899
-  },
-  {
-    "address": "900 W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:14 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.22741,
-    "longitude": -92.02507
   },
   {
     "address": "2700 NE EVANGELINE TW",
