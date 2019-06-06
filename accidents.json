@@ -1,5 +1,21 @@
 [
   {
+    "address": "215 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 05:56 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24462,
+    "longitude": -92.01603
+  },
+  {
+    "address": "3747 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 05:56 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.17254,
+    "longitude": -92.06583
+  },
+  {
     "address": "2100 E MILTON AV",
     "city": "YOUNGSVILLE",
     "time": "06/06/2019 - 05:55 AM",
