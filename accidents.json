@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 COCKPIT RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 12:11 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.3294634,
+    "longitude": -92.0851063
+  },
+  {
     "address": "5500 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "06/06/2019 - 12:10 PM",
