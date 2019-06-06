@@ -1,5 +1,13 @@
 [
   {
+    "address": "500 POTIER RD",
+    "city": "CARENCRO",
+    "time": "06/06/2019 - 11:14 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.3110961,
+    "longitude": -92.0333122
+  },
+  {
     "address": "HUNTERS RIDGE BL & CHEMIN METAIRIE",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 11:09 AM",
