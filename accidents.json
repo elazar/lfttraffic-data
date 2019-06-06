@@ -1,13 +1,5 @@
 [
   {
-    "address": "3500 VEROT SCHOOL RD",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 08:12 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.12042,
-    "longitude": -92.03403
-  },
-  {
     "address": "AMBASSADOR CAFFERY PW & ROBLEY DR",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 08:10 AM",
@@ -112,6 +104,14 @@
     "longitude": -92.07258
   },
   {
+    "address": "119 N BUD ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:24 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.24285,
+    "longitude": -92.0618
+  },
+  {
     "address": "1600 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 07:24 AM",
@@ -207,14 +207,7 @@
     "latitude": 30.2661,
     "longitude": -92.0166
   },
-  {
-    "address": "MOSS ST & CHOPIN ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:47 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.23448,
-    "longitude": -92.00839
-  },
+  null,
   {
     "address": "JOHNSTON ST & CAMELLIA BL",
     "city": "LAFAYETTE",
