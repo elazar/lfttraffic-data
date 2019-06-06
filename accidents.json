@@ -1,11 +1,11 @@
 [
   {
-    "address": "VEROT SCHOOL RD & MILLCREEK RD",
+    "address": "617 ST CHARLES ST",
     "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:55 AM",
+    "time": "06/06/2019 - 07:59 AM",
     "due_to": "Road Hazard",
-    "latitude": 30.13109,
-    "longitude": -92.03248
+    "latitude": 30.22608,
+    "longitude": -92.00373
   },
   {
     "address": "AMBASSADOR CAFFERY PW & BONIN RD",
@@ -96,14 +96,6 @@
     "longitude": -92.07258
   },
   {
-    "address": "519 S PIERCE ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:25 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.22866,
-    "longitude": -92.01832
-  },
-  {
     "address": "119 N BUD ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 07:24 AM",
@@ -160,14 +152,6 @@
     "longitude": -92.00638
   },
   {
-    "address": "500 ORCHID DR",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:11 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.23634,
-    "longitude": -92.03948
-  },
-  {
     "address": "N COLLEGE RD & BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 07:11 AM",
@@ -206,14 +190,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.23312,
     "longitude": -92.01407
-  },
-  {
-    "address": "716 OLD SPANISH TL",
-    "city": "SCOTT",
-    "time": "06/06/2019 - 06:39 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2325,
-    "longitude": -92.10105
   },
   {
     "address": "JOHNSTON ST & SOUTHCITY PW",
