@@ -1,5 +1,13 @@
 [
   {
+    "address": "TWELFTH ST & SURREY ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:44 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2268,
+    "longitude": -92.00258
+  },
+  {
     "address": "109 S MAGNOLIA ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 07:41 AM",
@@ -152,14 +160,6 @@
     "longitude": -92.00646
   },
   {
-    "address": "HELLEN ST & HUVAL ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 07:15 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.23498,
-    "longitude": -92.02616
-  },
-  {
     "address": "E WILLOW ST & MOSS ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 07:12 AM",
@@ -222,14 +222,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24448,
     "longitude": -92.03275
-  },
-  {
-    "address": "PARKSIDE DR & IRIS LN",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:42 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.22475,
-    "longitude": -92.0251
   },
   {
     "address": "NW EVANGELINE TW & MUDD AV",
