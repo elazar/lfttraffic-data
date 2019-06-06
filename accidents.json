@@ -1,5 +1,13 @@
 [
   {
+    "address": "400 KNOLLWOOD CL",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:53 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.20273,
+    "longitude": -92.07358
+  },
+  {
     "address": "SURREY ST & LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:52 AM",
@@ -182,14 +190,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.24378,
     "longitude": -92.00638
-  },
-  {
-    "address": "W WILLOW ST & NW EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:23 AM",
-    "due_to": "Hazard",
-    "latitude": 30.24481,
-    "longitude": -92.01456
   },
   {
     "address": "PLUM ST & ELEVENTH ST",
