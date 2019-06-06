@@ -1,5 +1,21 @@
 [
   {
+    "address": "LOUISIANA AV & E WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 05:44 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24552,
+    "longitude": -92.00037
+  },
+  {
+    "address": "1100 ST JOHN ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 05:44 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2215292,
+    "longitude": -92.023013
+  },
+  {
     "address": "409 LIPPI BL",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 05:42 AM",
