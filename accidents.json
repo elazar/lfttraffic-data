@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 ARIS DR",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 08:38 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2392634,
+    "longitude": -91.9742169
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & ROBLEY DR",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 08:27 AM",
