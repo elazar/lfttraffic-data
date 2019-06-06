@@ -1,5 +1,13 @@
 [
   {
+    "address": "6212 CAMERON ST",
+    "city": "SCOTT",
+    "time": "06/06/2019 - 10:13 AM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.23465,
+    "longitude": -92.10129
+  },
+  {
     "address": "1601 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 09:57 AM",
