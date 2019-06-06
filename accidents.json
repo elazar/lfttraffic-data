@@ -1,5 +1,13 @@
 [
   {
+    "address": "707 VINCENT RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 12:17 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1336,
+    "longitude": -92.05395
+  },
+  {
     "address": "120 E GLORIA SWITCH RD",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 12:02 AM",
