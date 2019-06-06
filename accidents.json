@@ -8,14 +8,6 @@
     "longitude": -92.00505
   },
   {
-    "address": "135 W PALERMO RD",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 08:53 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15747,
-    "longitude": -92.00492
-  },
-  {
     "address": "2100 ERASTE LANDRY RD",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 08:52 AM",
@@ -51,7 +43,7 @@
     "address": "113 TARA DR",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 08:24 AM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Stalled Vehicle",
     "latitude": 30.10324,
     "longitude": -92.03321
   },
