@@ -46,5 +46,13 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.2268,
     "longitude": -92.00258
+  },
+  {
+    "address": "219 ALYENE DR",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:22 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.19221,
+    "longitude": -92.07066
   }
 ]
