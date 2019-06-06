@@ -120,14 +120,6 @@
     "longitude": -92.01832
   },
   {
-    "address": "132 COMEAUX COVE",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:34 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2886671,
-    "longitude": -92.1079899
-  },
-  {
     "address": "MOSS ST & E GLORIA SWITCH RD",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:33 AM",
@@ -326,14 +318,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.21788,
     "longitude": -92.02631
-  },
-  {
-    "address": "E ALEXANDER ST & MOSS ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:51 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2556,
-    "longitude": -92.00554
   },
   {
     "address": "MOSS ST & CHOPIN ST",
