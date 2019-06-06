@@ -1,5 +1,21 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:20 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.14589,
+    "longitude": -92.03252
+  },
+  {
+    "address": "301 ALYENE DR",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:20 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.19141,
+    "longitude": -92.07068
+  },
+  {
     "address": "S ORANGE ST & E PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 07:18 AM",
