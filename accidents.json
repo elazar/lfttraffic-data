@@ -1,5 +1,13 @@
 [
   {
+    "address": "700 RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 10:30 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.1817,
+    "longitude": -92.10413
+  },
+  {
     "address": "217 W BRENTWOOD BL",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 10:21 AM",
