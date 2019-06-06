@@ -1,5 +1,21 @@
 [
   {
+    "address": "MADELINE AV & ORCHID DR",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:36 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23853,
+    "longitude": -92.03941
+  },
+  {
+    "address": "W CONGRESS ST & BROOKSIDE DR",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:36 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.22188,
+    "longitude": -92.03632
+  },
+  {
     "address": "305 CONSTITUTION DR",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 07:35 AM",
