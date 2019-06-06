@@ -1,5 +1,21 @@
 [
   {
+    "address": "300 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:32 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2344119,
+    "longitude": -92.0322751
+  },
+  {
+    "address": "JOHNSTON ST & SOUTHCITY PW",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:32 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16605,
+    "longitude": -92.08306
+  },
+  {
     "address": "NE EVANGELINE TW & I10 HW",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:29 AM",
