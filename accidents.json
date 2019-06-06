@@ -1,5 +1,21 @@
 [
   {
+    "address": "425 ST JOHN ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:06 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.22965,
+    "longitude": -92.02257
+  },
+  {
+    "address": "3100 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 07:06 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2877294,
+    "longitude": -92.0219846
+  },
+  {
     "address": "100 ARIS DR",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 07:05 AM",
@@ -144,14 +160,6 @@
     "longitude": -92.10105
   },
   {
-    "address": "AMBASSADOR CAFFERY PW & BONIN RD",
-    "city": "YOUNGSVILLE",
-    "time": "06/06/2019 - 06:38 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.13528,
-    "longitude": -92.00763
-  },
-  {
     "address": "500 ARCENEAUX RD",
     "city": "CARENCRO",
     "time": "06/06/2019 - 06:37 AM",
@@ -166,14 +174,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.21211,
     "longitude": -92.04493
-  },
-  {
-    "address": "519 S PIERCE ST",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 06:35 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.22866,
-    "longitude": -92.01832
   },
   {
     "address": "MOSS ST & E GLORIA SWITCH RD",
