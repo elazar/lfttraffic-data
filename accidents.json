@@ -1,5 +1,13 @@
 [
   {
+    "address": "4600 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 08:48 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1959929,
+    "longitude": -92.0837548
+  },
+  {
     "address": "2200 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 08:47 AM",
