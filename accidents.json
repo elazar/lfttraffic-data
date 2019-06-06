@@ -1,19 +1,19 @@
 [
   {
+    "address": "0 POLICE DEPARTMENT",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 09:57 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "address": "2000 W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 09:54 AM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.2437363,
     "longitude": -92.0600302
-  },
-  {
-    "address": "KALISTE SALOOM RD & LAKE FARM RD",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 09:50 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.15936,
-    "longitude": -92.0455
   },
   {
     "address": "N UNIVERSITY AV & WALKER RD",
