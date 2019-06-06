@@ -1,5 +1,21 @@
 [
   {
+    "address": "100 EDIE ANN DR",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:08 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.15908,
+    "longitude": -92.00027
+  },
+  {
+    "address": "2700 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:08 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2661,
+    "longitude": -92.0166
+  },
+  {
     "address": "S PIERCE ST & CAMERON ST",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:07 AM",
@@ -126,14 +142,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.2116713,
     "longitude": -92.0436342
-  },
-  {
-    "address": "W PINHOOK RD & S COLLEGE RD",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 05:57 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.20101,
-    "longitude": -92.01538
   },
   {
     "address": "3747 AMBASSADOR CAFFERY PW",
