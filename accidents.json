@@ -1,5 +1,21 @@
 [
   {
+    "address": "610 GARFIELD ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:57 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.22294,
+    "longitude": -92.01285
+  },
+  {
+    "address": "ERASTE LANDRY RD & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 06:57 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21912,
+    "longitude": -92.07587
+  },
+  {
     "address": "400 KNOLLWOOD CL",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 06:53 AM",
