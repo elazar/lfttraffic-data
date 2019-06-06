@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "address": "3750 LANDRY RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 03:57 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2120549,
+    "longitude": -92.1142282
+  },
+  {
+    "address": "3750 LANDRY RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 03:57 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.2120549,
+    "longitude": -92.1142282
+  }
+]
