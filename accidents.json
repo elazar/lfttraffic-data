@@ -1,5 +1,13 @@
 [
   {
+    "address": "700 LEBLANC RD",
+    "city": "LAFAYETTE",
+    "time": "06/05/2019 - 7:05 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.12759,
+    "longitude": -92.13917
+  },
+  {
     "address": "4225 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "06/05/2019 - 6:49 PM",
@@ -22,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17918,
     "longitude": -92.02578
-  },
-  {
-    "address": "E ALEXANDER ST & LOUISIANA AV",
-    "city": "LAFAYETTE",
-    "time": "06/05/2019 - 6:08 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.25511,
-    "longitude": -91.99944
   }
 ]
