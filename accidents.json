@@ -1,5 +1,13 @@
 [
   {
+    "address": "E KALISTE SALOOM RD & W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 7:11 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.1886,
+    "longitude": -92.0141
+  },
+  {
     "address": "1001 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "06/06/2019 - 6:41 PM",
