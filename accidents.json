@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "910 MARTIN LUTHER KING JR DR",
+    "city": "LAFAYETTE",
+    "time": "06/07/2019 - 10:17 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.24838,
+    "longitude": -92.01923
+  }
+]
