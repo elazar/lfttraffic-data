@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "900 RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "06/06/2019 - 10:47 PM",
+    "due_to": "Hazard",
+    "latitude": 30.1814949,
+    "longitude": -92.1147158
+  }
+]
