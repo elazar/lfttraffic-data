@@ -6,5 +6,13 @@
     "due_to": "Fire Alarm-Commercial",
     "latitude": 30.161263,
     "longitude": -92.053943
+  },
+  {
+    "address": "RUE DU BELIER & TOWN CENTER PW",
+    "city": "LAFAYETTE",
+    "time": "06/07/2019 - 02:11 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1704,
+    "longitude": -92.09113
   }
 ]
