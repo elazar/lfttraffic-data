@@ -1,5 +1,13 @@
 [
   {
+    "address": "4702 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/07/2019 - 11:09 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19005,
+    "longitude": -92.06338
+  },
+  {
     "address": "N UNIVERSITY AV & W PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "06/07/2019 - 11:05 AM",
