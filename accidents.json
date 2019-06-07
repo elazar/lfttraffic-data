@@ -1,13 +1,5 @@
 [
   {
-    "address": "KALISTE SALOOM RD & W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "06/07/2019 - 2:37 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.1886,
-    "longitude": -92.0141
-  },
-  {
     "address": "KOL DR & US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "06/07/2019 - 2:32 PM",
@@ -22,14 +14,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1174,
     "longitude": -91.94361
-  },
-  {
-    "address": "DOWNING ST & W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "06/07/2019 - 2:29 PM",
-    "due_to": "Hazard",
-    "latitude": 30.20264,
-    "longitude": -92.06358
   },
   {
     "address": "US 90 EAST HW & AMBASSADOR CAFFERY PW",
