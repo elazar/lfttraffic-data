@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMELLIA BL & SILVERSTONE RD",
+    "city": "LAFAYETTE",
+    "time": "06/07/2019 - 6:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17311,
+    "longitude": -92.04017
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "06/07/2019 - 6:32 PM",
