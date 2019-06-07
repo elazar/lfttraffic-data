@@ -1,5 +1,13 @@
 [
   {
+    "address": "501 SMITH REED RD",
+    "city": "LAFAYETTE",
+    "time": "06/07/2019 - 10:48 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.30703,
+    "longitude": -91.99455
+  },
+  {
     "address": "W PINHOOK RD & E UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "06/07/2019 - 10:45 AM",
