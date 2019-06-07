@@ -1,5 +1,13 @@
 [
   {
+    "address": "DOWNING ST & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "06/07/2019 - 2:29 PM",
+    "due_to": "Hazard",
+    "latitude": 30.20264,
+    "longitude": -92.06358
+  },
+  {
     "address": "US 90 EAST HW & AMBASSADOR CAFFERY PW",
     "city": "BROUSSARD",
     "time": "06/07/2019 - 1:58 PM",
