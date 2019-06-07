@@ -1,5 +1,13 @@
 [
   {
+    "address": "623 LAFAYETTE ST",
+    "city": "YOUNGSVILLE",
+    "time": "06/07/2019 - 12:32 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.10853,
+    "longitude": -91.99151
+  },
+  {
     "address": "3726 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/07/2019 - 12:30 PM",
