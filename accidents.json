@@ -6,13 +6,5 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.1886,
     "longitude": -92.0141
-  },
-  {
-    "address": "1001 NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "06/06/2019 - 6:41 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.23683,
-    "longitude": -92.01315
   }
 ]
