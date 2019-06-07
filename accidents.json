@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "141 DARDEN RD",
+    "city": "LAFAYETTE",
+    "time": "06/07/2019 - 06:42 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.12836,
+    "longitude": -92.0411
+  }
+]
