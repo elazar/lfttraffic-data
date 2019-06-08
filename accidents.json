@@ -1,5 +1,13 @@
 [
   {
+    "address": "2406 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "06/07/2019 - 6:59 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21415,
+    "longitude": -92.04865
+  },
+  {
     "address": "3915 NW EVANGELINE TW",
     "city": "CARENCRO",
     "time": "06/07/2019 - 6:55 PM",
