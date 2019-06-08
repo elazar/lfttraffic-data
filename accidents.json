@@ -1,5 +1,13 @@
 [
   {
+    "address": "I10 EASTBOUND MM99 HW & MILLS ST",
+    "city": "SCOTT",
+    "time": "06/08/2019 - 11:32 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24463,
+    "longitude": -92.09131
+  },
+  {
     "address": "1300 SURREY ST",
     "city": "LAFAYETTE",
     "time": "06/08/2019 - 11:22 AM",
