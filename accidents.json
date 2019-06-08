@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20908,
     "longitude": -92.00007
-  },
-  {
-    "address": "1 I49 SOUTHBOUND MM1 HW",
-    "city": "LAFAYETTE",
-    "time": "06/07/2019 - 9:25 PM",
-    "due_to": "Vehicle Fire",
-    "latitude": 30.28006,
-    "longitude": -92.02024
   }
 ]
