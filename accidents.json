@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "address": "W CONGRESS ST & LE VIOLON RD",
+    "city": "LAFAYETTE",
+    "time": "06/09/2019 - 3:00 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.196,
+    "longitude": -92.10823
+  },
+  {
+    "address": "W UNIVERSITY AV & AGNES ST",
+    "city": "LAFAYETTE",
+    "time": "06/09/2019 - 3:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22931,
+    "longitude": -92.03045
+  }
+]
