@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 W SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "06/09/2019 - 12:13 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2306849,
+    "longitude": -92.0220044
+  },
+  {
     "address": "LOUISIANA AV & E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "06/09/2019 - 12:03 AM",
