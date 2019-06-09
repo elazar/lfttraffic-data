@@ -1,5 +1,13 @@
 [
   {
+    "address": "165 INDUSTRIAL PW",
+    "city": "LAFAYETTE",
+    "time": "06/09/2019 - 11:33 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.18854,
+    "longitude": -92.00666
+  },
+  {
     "address": "E SECOND ST & N CHESTNUT ST",
     "city": "LAFAYETTE",
     "time": "06/09/2019 - 11:07 AM",
