@@ -1,5 +1,13 @@
 [
   {
+    "address": "1212 EIGHTH ST",
+    "city": "LAFAYETTE",
+    "time": "06/09/2019 - 12:04 PM",
+    "due_to": "Commercial Fire",
+    "latitude": 30.23168,
+    "longitude": -92.0043
+  },
+  {
     "address": "E SECOND ST & N CHESTNUT ST",
     "city": "LAFAYETTE",
     "time": "06/09/2019 - 11:07 AM",
