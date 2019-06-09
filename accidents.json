@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "CREDEUR RD & WHITMORE RD",
+    "city": "LAFAYETTE",
+    "time": "06/09/2019 - 05:09 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.27726,
+    "longitude": -92.15937
+  }
+]
