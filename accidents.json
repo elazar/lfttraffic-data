@@ -1,5 +1,13 @@
 [
   {
+    "address": "E PINE ST & MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "06/09/2019 - 3:49 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24616,
+    "longitude": -92.0062
+  },
+  {
     "address": "201 MEADOW FARM RD",
     "city": "LAFAYETTE",
     "time": "06/09/2019 - 3:46 PM",
