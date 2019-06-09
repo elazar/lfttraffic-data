@@ -1,5 +1,13 @@
 [
   {
+    "address": "25 BNSF RAILROAD CG",
+    "city": "LAFAYETTE",
+    "time": "06/09/2019 - 4:13 PM",
+    "due_to": "Road Hazard",
+    "latitude": 40.50211,
+    "longitude": -86.95026
+  },
+  {
     "address": "201 MEADOW FARM RD",
     "city": "LAFAYETTE",
     "time": "06/09/2019 - 3:46 PM",
