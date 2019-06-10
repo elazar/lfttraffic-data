@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & W GILMAN RD",
+    "city": "LAFAYETTE",
+    "time": "06/10/2019 - 07:13 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24304,
+    "longitude": -92.03244
+  },
+  {
     "address": "920 W GLORIA SWITCH RD",
     "city": "CARENCRO",
     "time": "06/10/2019 - 07:02 AM",
