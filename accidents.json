@@ -1,5 +1,13 @@
 [
   {
+    "address": "WALKER RD & ORCHID DR",
+    "city": "LAFAYETTE",
+    "time": "06/10/2019 - 6:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23557,
+    "longitude": -92.03933
+  },
+  {
     "address": "CAMELLIA BL & VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "06/10/2019 - 5:43 PM",
