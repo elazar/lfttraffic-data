@@ -1,5 +1,13 @@
 [
   {
+    "address": "1408 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "06/10/2019 - 08:54 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2459,
+    "longitude": -92.03998
+  },
+  {
     "address": "W PINHOOK RD & GENERAL MOUTON AV",
     "city": "LAFAYETTE",
     "time": "06/10/2019 - 07:58 AM",
