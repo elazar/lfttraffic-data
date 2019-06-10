@@ -1,5 +1,13 @@
 [
   {
+    "address": "JEFFERSON ST & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/10/2019 - 12:49 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2201,
+    "longitude": -92.0172
+  },
+  {
     "address": "221 VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "06/10/2019 - 12:39 PM",
