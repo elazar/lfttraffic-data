@@ -1,5 +1,21 @@
 [
   {
+    "address": "KALISTE SALOOM RD & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/10/2019 - 11:55 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.15649,
+    "longitude": -92.04838
+  },
+  {
+    "address": "2516 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "06/10/2019 - 11:54 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15764,
+    "longitude": -92.04798
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & S MORGAN AV",
     "city": "BROUSSARD",
     "time": "06/10/2019 - 11:53 AM",
