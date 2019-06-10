@@ -14,21 +14,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.2037,
     "longitude": -92.03401
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & DILLARD DR",
-    "city": "LAFAYETTE",
-    "time": "06/10/2019 - 1:43 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17422,
-    "longitude": -92.06987
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & DULLES DR",
-    "city": "LAFAYETTE",
-    "time": "06/10/2019 - 1:25 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21053,
-    "longitude": -92.07567
   }
 ]
