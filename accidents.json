@@ -1,5 +1,13 @@
 [
   {
+    "address": "5505 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/10/2019 - 3:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1789,
+    "longitude": -92.07258
+  },
+  {
     "address": "JOHNSTON ST & DOUCET RD",
     "city": "LAFAYETTE",
     "time": "06/10/2019 - 2:58 PM",
