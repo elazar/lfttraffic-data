@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "2951 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/10/2019 - 06:40 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.1929339,
+    "longitude": -92.074974
+  }
+]
