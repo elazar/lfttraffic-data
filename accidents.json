@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "COLORADO RD & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "06/09/2019 - 11:13 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.19601,
+    "longitude": -92.11076
+  }
+]
