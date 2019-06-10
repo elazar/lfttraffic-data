@@ -1,5 +1,13 @@
 [
   {
+    "address": "215 BUICK ST",
+    "city": "LAFAYETTE",
+    "time": "06/10/2019 - 3:58 PM",
+    "due_to": "Vehicle Fire",
+    "latitude": 30.25444,
+    "longitude": -92.00286
+  },
+  {
     "address": "1212 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/10/2019 - 3:39 PM",
