@@ -1,5 +1,13 @@
 [
   {
+    "address": "521 BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "06/10/2019 - 4:05 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21297,
+    "longitude": -92.04735
+  },
+  {
     "address": "200 BUICK ST",
     "city": "LAFAYETTE",
     "time": "06/10/2019 - 4:02 PM",
