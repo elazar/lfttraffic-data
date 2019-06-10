@@ -1,5 +1,13 @@
 [
   {
+    "address": "1300 MYRTLE PL",
+    "city": "LAFAYETTE",
+    "time": "06/10/2019 - 12:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22839,
+    "longitude": -92.03273
+  },
+  {
     "address": "1500 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/10/2019 - 12:07 PM",
