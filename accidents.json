@@ -1,5 +1,21 @@
 [
   {
+    "address": "221 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "06/10/2019 - 12:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.176,
+    "longitude": -92.00509
+  },
+  {
+    "address": "AMBASSADOR CAFFERY PW & AVONDALE DR",
+    "city": "LAFAYETTE",
+    "time": "06/10/2019 - 12:39 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.21629,
+    "longitude": -92.07585
+  },
+  {
     "address": "1906 ERASTE LANDRY RD",
     "city": "LAFAYETTE",
     "time": "06/10/2019 - 12:22 PM",
