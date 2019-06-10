@@ -32,14 +32,6 @@
     "longitude": -92.0586
   },
   {
-    "address": "4408 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/10/2019 - 12:00 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15764,
-    "longitude": -92.05034
-  },
-  {
     "address": "2516 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "06/10/2019 - 11:54 AM",
@@ -54,14 +46,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.13188,
     "longitude": -91.96517
-  },
-  {
-    "address": "SAGE GLENN LN & PRIDES CROSSING",
-    "city": "LAFAYETTE",
-    "time": "06/10/2019 - 11:49 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.1828,
-    "longitude": -92.00114
   },
   {
     "address": "ERASTE LANDRY RD & AMBASSADOR CAFFERY PW",
