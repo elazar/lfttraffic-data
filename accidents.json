@@ -1,5 +1,13 @@
 [
   {
+    "address": "3603 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "06/10/2019 - 6:55 PM",
+    "due_to": "Hazard",
+    "latitude": 30.20206,
+    "longitude": -92.06192
+  },
+  {
     "address": "1700 W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "06/10/2019 - 6:33 PM",
