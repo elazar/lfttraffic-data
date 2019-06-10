@@ -38,13 +38,5 @@
     "due_to": "Vehicle Fire",
     "latitude": 30.25444,
     "longitude": -92.00286
-  },
-  {
-    "address": "1212 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/10/2019 - 3:39 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22571,
-    "longitude": -92.06768
   }
 ]
