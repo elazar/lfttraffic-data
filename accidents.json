@@ -1,5 +1,13 @@
 [
   {
+    "address": "BERTRAND DR & N COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "06/10/2019 - 4:06 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21243,
+    "longitude": -92.04526
+  },
+  {
     "address": "521 BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "06/10/2019 - 4:05 PM",
