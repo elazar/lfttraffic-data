@@ -1,5 +1,13 @@
 [
   {
+    "address": "1212 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/10/2019 - 3:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22571,
+    "longitude": -92.06768
+  },
+  {
     "address": "GUILBEAU RD & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "06/10/2019 - 3:15 PM",
@@ -54,13 +62,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17663,
     "longitude": -92.07223
-  },
-  {
-    "address": "KALISTE SALOOM RD & COBBLESTONE RD",
-    "city": "LAFAYETTE",
-    "time": "06/10/2019 - 2:19 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17995,
-    "longitude": -92.0237
   }
 ]
