@@ -1,5 +1,13 @@
 [
   {
+    "address": "GUILBEAU RD & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "06/10/2019 - 3:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19826,
+    "longitude": -92.07007
+  },
+  {
     "address": "208 E ST PETER ST",
     "city": "CARENCRO",
     "time": "06/10/2019 - 3:02 PM",
