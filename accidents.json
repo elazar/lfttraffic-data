@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 BUICK ST",
+    "city": "LAFAYETTE",
+    "time": "06/10/2019 - 4:02 PM",
+    "due_to": "Vehicle Fire",
+    "latitude": 30.2542207,
+    "longitude": -92.0042499
+  },
+  {
     "address": "215 BUICK ST",
     "city": "LAFAYETTE",
     "time": "06/10/2019 - 3:58 PM",
