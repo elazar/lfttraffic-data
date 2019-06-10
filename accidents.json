@@ -8,6 +8,14 @@
     "longitude": -92.07007
   },
   {
+    "address": "123 ST NAZAIRE RD",
+    "city": "BROUSSARD",
+    "time": "06/10/2019 - 3:16 PM",
+    "due_to": "Hazardous Situation",
+    "latitude": 30.14362,
+    "longitude": -91.94369
+  },
+  {
     "address": "208 E ST PETER ST",
     "city": "CARENCRO",
     "time": "06/10/2019 - 3:02 PM",
