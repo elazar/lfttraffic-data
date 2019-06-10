@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & S MORGAN AV",
+    "city": "BROUSSARD",
+    "time": "06/10/2019 - 11:53 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.13188,
+    "longitude": -91.96517
+  },
+  {
     "address": "SAGE GLENN LN & PRIDES CROSSING",
     "city": "LAFAYETTE",
     "time": "06/10/2019 - 11:49 AM",
@@ -8,12 +16,12 @@
     "longitude": -92.00114
   },
   {
-    "address": "NE EVANGELINE TW & E WILLOW ST",
+    "address": "1400 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "06/10/2019 - 11:16 AM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.24447,
-    "longitude": -92.01187
+    "latitude": 30.2416658,
+    "longitude": -92.0116864
   },
   {
     "address": "ERASTE LANDRY RD & AMBASSADOR CAFFERY PW",
