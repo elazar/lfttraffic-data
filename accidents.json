@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "800 E MILTON AV",
+    "city": "LAFAYETTE",
+    "time": "06/10/2019 - 02:32 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1092301,
+    "longitude": -92.0567345
+  }
+]
