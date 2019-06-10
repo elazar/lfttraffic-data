@@ -1,5 +1,13 @@
 [
   {
+    "address": "1500 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/10/2019 - 12:07 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21457,
+    "longitude": -92.02214
+  },
+  {
     "address": "JOHNSTON ST & GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "06/10/2019 - 12:06 PM",
@@ -38,14 +46,6 @@
     "due_to": "Wire Hazard",
     "latitude": 30.1828,
     "longitude": -92.00114
-  },
-  {
-    "address": "1400 NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "06/10/2019 - 11:16 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2416658,
-    "longitude": -92.0116864
   },
   {
     "address": "ERASTE LANDRY RD & AMBASSADOR CAFFERY PW",
