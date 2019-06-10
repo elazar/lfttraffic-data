@@ -1,5 +1,13 @@
 [
   {
+    "address": "S LARRIVIERE RD & YOUNG ST",
+    "city": "YOUNGSVILLE",
+    "time": "06/10/2019 - 2:47 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.10198,
+    "longitude": -91.97365
+  },
+  {
     "address": "3561 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/10/2019 - 2:40 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17995,
     "longitude": -92.0237
-  },
-  {
-    "address": "KALISTE SALOOM RD & W FARREL RD",
-    "city": "LAFAYETTE",
-    "time": "06/10/2019 - 1:55 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15466,
-    "longitude": -92.05015
   },
   {
     "address": "S COLLEGE RD & N SOUTHLAWN DR",
