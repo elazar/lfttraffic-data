@@ -1,5 +1,13 @@
 [
   {
+    "address": "JEFFERSON ST & E VERMILION ST",
+    "city": "LAFAYETTE",
+    "time": "06/10/2019 - 6:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22407,
+    "longitude": -92.01877
+  },
+  {
     "address": "WALKER RD & ORCHID DR",
     "city": "LAFAYETTE",
     "time": "06/10/2019 - 6:33 PM",
