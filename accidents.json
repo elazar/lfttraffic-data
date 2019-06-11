@@ -1,5 +1,13 @@
 [
   {
+    "address": "105 KAY RD",
+    "city": "CARENCRO",
+    "time": "06/11/2019 - 5:46 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.31869,
+    "longitude": -92.04182
+  },
+  {
     "address": "2015 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "06/11/2019 - 5:20 PM",
@@ -38,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17092,
     "longitude": -91.98031
-  },
-  {
-    "address": "JOHNSTON ST & BRENTWOOD BL",
-    "city": "LAFAYETTE",
-    "time": "06/11/2019 - 4:21 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.19632,
-    "longitude": -92.057
   },
   {
     "address": "3555 AMBASSADOR CAFFERY PW",
