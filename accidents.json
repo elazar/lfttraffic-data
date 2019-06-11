@@ -1,5 +1,13 @@
 [
   {
+    "address": "130 LA RUE BLANC",
+    "city": "LAFAYETTE",
+    "time": "06/11/2019 - 5:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25718,
+    "longitude": -92.09901
+  },
+  {
     "address": "W PINHOOK RD & BENDEL RD",
     "city": "LAFAYETTE",
     "time": "06/11/2019 - 5:17 PM",
