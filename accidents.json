@@ -14,13 +14,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.28006,
     "longitude": -92.02024
-  },
-  {
-    "address": "600 RUE DU BELIER",
-    "city": "SCOTT",
-    "time": "06/11/2019 - 11:16 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1991223,
-    "longitude": -92.0922358
   }
 ]
