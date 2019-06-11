@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & WESTMARK BL",
+    "city": "LAFAYETTE",
+    "time": "06/11/2019 - 5:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1824,
+    "longitude": -92.07019
+  },
+  {
     "address": "JOHNSTON ST & S WESTMARK BL",
     "city": "LAFAYETTE",
     "time": "06/11/2019 - 5:14 PM",
@@ -24,28 +32,12 @@
     "longitude": -92.07295
   },
   {
-    "address": "1700 SW EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "06/11/2019 - 4:56 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2057678,
-    "longitude": -92.0009227
-  },
-  {
     "address": "US 90 EAST HW & SOUTHPARK RD",
     "city": "LAFAYETTE",
     "time": "06/11/2019 - 4:38 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.17092,
     "longitude": -91.98031
-  },
-  {
-    "address": "JEFFERSON BL & SE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "06/11/2019 - 4:36 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22903,
-    "longitude": -92.01168
   },
   {
     "address": "JOHNSTON ST & BRENTWOOD BL",
