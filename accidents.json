@@ -1,18 +1,18 @@
 [
   {
+    "address": "3000 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "06/11/2019 - 2:16 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20752,
+    "longitude": -92.05827
+  },
+  {
     "address": "3151 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/11/2019 - 1:42 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.20355,
     "longitude": -92.04773
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & DILLARD DR",
-    "city": "LAFAYETTE",
-    "time": "06/11/2019 - 1:32 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17422,
-    "longitude": -92.06987
   }
 ]
