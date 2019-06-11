@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & S WESTMARK BL",
+    "city": "LAFAYETTE",
+    "time": "06/11/2019 - 5:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1824,
+    "longitude": -92.07019
+  },
+  {
     "address": "JOHNSTON ST & RIDGE RD",
     "city": "LAFAYETTE",
     "time": "06/11/2019 - 5:11 PM",
