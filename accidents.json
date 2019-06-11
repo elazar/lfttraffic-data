@@ -3,7 +3,7 @@
     "address": "105 KAY RD",
     "city": "CARENCRO",
     "time": "06/11/2019 - 5:46 PM",
-    "due_to": "Incoming Call",
+    "due_to": "Fire Investigation",
     "latitude": 30.31869,
     "longitude": -92.04182
   },
@@ -30,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1824,
     "longitude": -92.07019
-  },
-  {
-    "address": "JOHNSTON ST & RIDGE RD",
-    "city": "LAFAYETTE",
-    "time": "06/11/2019 - 5:11 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.18136,
-    "longitude": -92.07126
   },
   {
     "address": "US 90 EAST HW & SOUTHPARK RD",
