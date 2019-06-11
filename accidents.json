@@ -1,5 +1,13 @@
 [
   {
+    "address": "124 WILTURNER RD",
+    "city": "LAFAYETTE",
+    "time": "06/11/2019 - 08:56 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15735,
+    "longitude": -92.15974
+  },
+  {
     "address": "300 SETTLERS TRACE BL",
     "city": "LAFAYETTE",
     "time": "06/11/2019 - 08:55 AM",
