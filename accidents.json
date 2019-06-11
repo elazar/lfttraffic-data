@@ -14,21 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19826,
     "longitude": -92.07007
-  },
-  {
-    "address": "1800 CAMERON ST",
-    "city": "LAFAYETTE",
-    "time": "06/11/2019 - 2:44 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23275,
-    "longitude": -92.0345
-  },
-  {
-    "address": "3000 W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "06/11/2019 - 2:16 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20752,
-    "longitude": -92.05827
   }
 ]
