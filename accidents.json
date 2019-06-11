@@ -1,5 +1,13 @@
 [
   {
+    "address": "LA RUE FRANCE & S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "06/11/2019 - 11:11 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19452,
+    "longitude": -92.01053
+  },
+  {
     "address": "218 JEFFERSON BL",
     "city": "LAFAYETTE",
     "time": "06/11/2019 - 11:06 AM",
