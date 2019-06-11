@@ -1,5 +1,13 @@
 [
   {
+    "address": "2015 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "06/11/2019 - 5:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18697,
+    "longitude": -92.01138
+  },
+  {
     "address": "130 LA RUE BLANC",
     "city": "LAFAYETTE",
     "time": "06/11/2019 - 5:19 PM",
@@ -30,14 +38,6 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.18136,
     "longitude": -92.07126
-  },
-  {
-    "address": "5520 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "06/11/2019 - 5:03 PM",
-    "due_to": "Dumpster Fire",
-    "latitude": 30.18061,
-    "longitude": -92.07295
   },
   {
     "address": "US 90 EAST HW & SOUTHPARK RD",
