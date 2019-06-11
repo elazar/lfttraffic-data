@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "06/11/2019 - 5:11 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.18136,
+    "longitude": -92.07126
+  },
+  {
     "address": "JOHNSTON ST & CAMELLIA BL",
     "city": "LAFAYETTE",
     "time": "06/11/2019 - 5:04 PM",
