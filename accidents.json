@@ -1,5 +1,13 @@
 [
   {
+    "address": "324 DULLES DR",
+    "city": "LAFAYETTE",
+    "time": "06/11/2019 - 09:03 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.21912,
+    "longitude": -92.0582
+  },
+  {
     "address": "4125 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "06/11/2019 - 09:00 AM",
