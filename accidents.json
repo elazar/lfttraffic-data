@@ -1,5 +1,13 @@
 [
   {
+    "address": "122 VIVIAN DR",
+    "city": "LAFAYETTE",
+    "time": "06/10/2019 - 10:11 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.14222,
+    "longitude": -92.00977
+  },
+  {
     "address": "3126 MILLS ST",
     "city": "LAFAYETTE",
     "time": "06/10/2019 - 9:48 PM",
