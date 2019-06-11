@@ -1,5 +1,13 @@
 [
   {
+    "address": "S WASHINGTON ST & W VERMILION ST",
+    "city": "LAFAYETTE",
+    "time": "06/11/2019 - 08:34 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22407,
+    "longitude": -92.02182
+  },
+  {
     "address": "112 THAMES DR",
     "city": "LAFAYETTE",
     "time": "06/11/2019 - 08:21 AM",
