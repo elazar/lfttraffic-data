@@ -1,10 +1,10 @@
 [
   {
-    "address": "523 N UNIVERSITY AVE,",
-    "city": "Lafayette",
-    "time": "06/10/2019 - 7:41 PM",
+    "address": "510 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "06/10/2019 - 7:42 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.23695,
-    "longitude": -92.03302
+    "latitude": 30.236698,
+    "longitude": -92.0322751
   }
 ]
