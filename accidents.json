@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 MARKET PL",
+    "city": "LAFAYETTE",
+    "time": "06/11/2019 - 1:08 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1885964,
+    "longitude": -92.0045576
+  },
+  {
     "address": "4 I49 SOUTHBOUND MM4 HW",
     "city": "LAFAYETTE",
     "time": "06/11/2019 - 11:35 AM",
