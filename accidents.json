@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.2471165,
     "longitude": -92.0137397
-  },
-  {
-    "address": "2700 NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "06/11/2019 - 07:10 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2661,
-    "longitude": -92.0166
   }
 ]
