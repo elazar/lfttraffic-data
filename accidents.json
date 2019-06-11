@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "W GLORIA SWITCH RD & MILLS ST",
+    "city": "LAFAYETTE",
+    "time": "06/10/2019 - 9:48 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29784,
+    "longitude": -92.09144
+  }
+]
