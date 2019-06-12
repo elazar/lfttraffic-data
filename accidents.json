@@ -1,18 +1,18 @@
 [
   {
+    "address": "1700 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "06/11/2019 - 8:02 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.25271,
+    "longitude": -92.03633
+  },
+  {
     "address": "111 CONCERTO CREST AV",
     "city": "LAFAYETTE",
     "time": "06/11/2019 - 7:56 PM",
     "due_to": "Trash Fire",
     "latitude": 30.23253,
     "longitude": -92.14405
-  },
-  {
-    "address": "2015 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "06/11/2019 - 5:20 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18697,
-    "longitude": -92.01138
   }
 ]
