@@ -1,11 +1,11 @@
 [
   {
-    "address": "KINGSPOINTE CL & FEU FOLLET RD",
+    "address": "169 S BEADLE RD",
     "city": "LAFAYETTE",
     "time": "06/12/2019 - 6:10 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.17874,
-    "longitude": -92.01101
+    "due_to": "Fire Investigation",
+    "latitude": 30.17766,
+    "longitude": -92.01508
   },
   {
     "address": "200 BEAU PRE RD",
@@ -38,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15981,
     "longitude": -92.05452
-  },
-  {
-    "address": "NE EVANGELINE TW & JEFFERSON BL",
-    "city": "LAFAYETTE",
-    "time": "06/12/2019 - 4:45 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22903,
-    "longitude": -92.01168
   },
   {
     "address": "N UNIVERSITY AV & I10 HW",
