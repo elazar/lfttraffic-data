@@ -30,13 +30,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.30123,
     "longitude": -91.98466
-  },
-  {
-    "address": "CAMELLIA BL & EASTLAND DR",
-    "city": "LAFAYETTE",
-    "time": "06/12/2019 - 11:07 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1918,
-    "longitude": -92.05643
   }
 ]
