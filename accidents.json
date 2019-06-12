@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "W PINHOOK RD & VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "06/12/2019 - 06:39 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.17673,
+    "longitude": -92.00239
+  }
+]
