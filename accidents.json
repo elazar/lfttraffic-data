@@ -1,5 +1,13 @@
 [
   {
+    "address": "130 HUGH WALLIS RD",
+    "city": "LAFAYETTE",
+    "time": "06/12/2019 - 09:58 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20516,
+    "longitude": -92.00337
+  },
+  {
     "address": "300 S BIENVILLE ST",
     "city": "LAFAYETTE",
     "time": "06/12/2019 - 08:57 AM",
