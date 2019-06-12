@@ -1,5 +1,13 @@
 [
   {
+    "address": "S COLLEGE RD & W BAYOU PW",
+    "city": "LAFAYETTE",
+    "time": "06/11/2019 - 11:50 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19915,
+    "longitude": -92.02663
+  },
+  {
     "address": "105 MONT DE MARSAN DR",
     "city": "LAFAYETTE",
     "time": "06/11/2019 - 11:48 PM",
