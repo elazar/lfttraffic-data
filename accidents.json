@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 MARGUERITE BL",
+    "city": "LAFAYETTE",
+    "time": "06/12/2019 - 4:57 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2008,
+    "longitude": -92.01939
+  },
+  {
     "address": "NE EVANGELINE TW & JEFFERSON BL",
     "city": "LAFAYETTE",
     "time": "06/12/2019 - 4:45 PM",
