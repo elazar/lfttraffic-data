@@ -1,5 +1,21 @@
 [
   {
+    "address": "LAFAYETTE ST & W MAIN ST",
+    "city": "LAFAYETTE",
+    "time": "06/12/2019 - 08:23 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22258,
+    "longitude": -92.0208
+  },
+  {
+    "address": "215 REPUBLIC AV",
+    "city": "LAFAYETTE",
+    "time": "06/12/2019 - 08:23 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15709,
+    "longitude": -92.03808
+  },
+  {
     "address": "2401 E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "06/12/2019 - 08:00 AM",
