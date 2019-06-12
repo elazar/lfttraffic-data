@@ -1,5 +1,13 @@
 [
   {
+    "address": "900 E UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "06/12/2019 - 08:45 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.211,
+    "longitude": -92.01165
+  },
+  {
     "address": "LAFAYETTE ST & W MAIN ST",
     "city": "LAFAYETTE",
     "time": "06/12/2019 - 08:23 AM",
