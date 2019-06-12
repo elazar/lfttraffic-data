@@ -1,5 +1,13 @@
 [
   {
+    "address": "111 MEADOW FARM RD",
+    "city": "LAFAYETTE",
+    "time": "06/12/2019 - 5:05 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15766,
+    "longitude": -92.04442
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "06/12/2019 - 5:04 PM",
@@ -38,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.26255,
     "longitude": -92.00867
-  },
-  {
-    "address": "203 COLCHESTER DR",
-    "city": "BROUSSARD",
-    "time": "06/12/2019 - 4:37 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.15821,
-    "longitude": -91.95834
   },
   {
     "address": "1200 W PINHOOK RD",
