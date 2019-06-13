@@ -1,5 +1,13 @@
 [
   {
+    "address": "ALBERTSON PW & E MAIN ST",
+    "city": "BROUSSARD",
+    "time": "06/13/2019 - 10:53 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14074,
+    "longitude": -91.94631
+  },
+  {
     "address": "GUILBEAU RD & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/13/2019 - 10:49 AM",
