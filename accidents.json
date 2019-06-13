@@ -1,5 +1,21 @@
 [
   {
+    "address": "2745 W WILLOW ST",
+    "city": "SCOTT",
+    "time": "06/13/2019 - 3:55 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.24133,
+    "longitude": -92.08361
+  },
+  {
+    "address": "E ST MARY BL & COOLIDGE ST",
+    "city": "LAFAYETTE",
+    "time": "06/13/2019 - 3:55 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.20849,
+    "longitude": -92.0138
+  },
+  {
     "address": "1821 W GLORIA SWITCH RD",
     "city": "LAFAYETTE",
     "time": "06/13/2019 - 3:48 PM",
