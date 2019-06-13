@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19531,
     "longitude": -92.05752
-  },
-  {
-    "address": "200 PRODUCTION DR",
-    "city": "LAFAYETTE",
-    "time": "06/13/2019 - 11:46 AM",
-    "due_to": "Commercial Fire",
-    "latitude": 30.17998,
-    "longitude": -92.00605
   }
 ]
