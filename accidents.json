@@ -8,14 +8,6 @@
     "longitude": -92.05752
   },
   {
-    "address": "201 N DOMINGUE AV",
-    "city": "LAFAYETTE",
-    "time": "06/13/2019 - 11:54 AM",
-    "due_to": "Grass Fire",
-    "latitude": 30.19807,
-    "longitude": -92.08409
-  },
-  {
     "address": "200 PRODUCTION DR",
     "city": "LAFAYETTE",
     "time": "06/13/2019 - 11:46 AM",
@@ -46,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23236,
     "longitude": -92.03238
-  },
-  {
-    "address": "GUILBEAU RD & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/13/2019 - 10:49 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20248,
-    "longitude": -92.07527
   }
 ]
