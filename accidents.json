@@ -1,5 +1,13 @@
 [
   {
+    "address": "LA RUE FRANCE & W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "06/13/2019 - 1:03 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.19438,
+    "longitude": -92.01609
+  },
+  {
     "address": "SOUTHWOOD DR & US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "06/13/2019 - 12:35 PM",
