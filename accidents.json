@@ -1,19 +1,19 @@
 [
   {
+    "address": "3323 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/13/2019 - 5:47 PM",
+    "due_to": "Commercial Fire",
+    "latitude": 30.18095,
+    "longitude": -92.07482
+  },
+  {
     "address": "NW EVANGELINE TW & SAMPSON AV",
     "city": "LAFAYETTE",
     "time": "06/13/2019 - 5:45 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.23473,
     "longitude": -92.01381
-  },
-  {
-    "address": "1700 KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "06/13/2019 - 5:34 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1707993,
-    "longitude": -92.0320468
   },
   {
     "address": "JEFFERSON BL & NE EVANGELINE TW",
