@@ -1,5 +1,21 @@
 [
   {
+    "address": "3220 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/13/2019 - 2:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18468,
+    "longitude": -92.07547
+  },
+  {
+    "address": "301 LAFAYETTE ST",
+    "city": "YOUNGSVILLE",
+    "time": "06/13/2019 - 2:29 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.10009,
+    "longitude": -91.99077
+  },
+  {
     "address": "VEROT SCHOOL RD & TIMBERWOOD CL",
     "city": "LAFAYETTE",
     "time": "06/13/2019 - 2:20 PM",
