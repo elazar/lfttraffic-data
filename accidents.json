@@ -1,5 +1,13 @@
 [
   {
+    "address": "1100 CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "06/13/2019 - 5:12 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17383,
+    "longitude": -92.04166
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & RAILROAD TRACKS",
     "city": "LAFAYETTE",
     "time": "06/13/2019 - 5:09 PM",
