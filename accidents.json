@@ -1,5 +1,13 @@
 [
   {
+    "address": "103 RUE DE CHAMBERY",
+    "city": "BROUSSARD",
+    "time": "06/12/2019 - 8:35 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.14402,
+    "longitude": -91.98198
+  },
+  {
     "address": "JOHNSTON ST & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/12/2019 - 8:29 PM",
