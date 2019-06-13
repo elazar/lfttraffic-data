@@ -1,13 +1,5 @@
 [
   {
-    "address": "SURREY ST & LOUISIANA AV",
-    "city": "LAFAYETTE",
-    "time": "06/13/2019 - 07:42 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.22823,
-    "longitude": -92.00461
-  },
-  {
     "address": "1214 COOLIDGE ST",
     "city": "LAFAYETTE",
     "time": "06/13/2019 - 07:41 AM",
@@ -22,14 +14,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16752,
     "longitude": -92.08336
-  },
-  {
-    "address": "5900 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "06/13/2019 - 07:03 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1695831,
-    "longitude": -92.082139
   },
   {
     "address": "600 E KALISTE SALOOM RD",
