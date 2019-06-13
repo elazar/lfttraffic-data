@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 TERMINAL DR",
+    "city": "LAFAYETTE",
+    "time": "06/13/2019 - 10:42 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20814,
+    "longitude": -91.99326
+  },
+  {
     "address": "2805 VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "06/13/2019 - 10:01 AM",
