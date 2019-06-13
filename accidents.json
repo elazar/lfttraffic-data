@@ -1,5 +1,13 @@
 [
   {
+    "address": "KALISTE SALOOM RD & E MARTIAL AV",
+    "city": "LAFAYETTE",
+    "time": "06/12/2019 - 8:59 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1648,
+    "longitude": -92.03985
+  },
+  {
     "address": "103 RUE DE CHAMBERY",
     "city": "BROUSSARD",
     "time": "06/12/2019 - 8:35 PM",
