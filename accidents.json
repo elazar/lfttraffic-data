@@ -1,5 +1,12 @@
 [
-  null,
+  {
+    "address": "329 W PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "06/14/2019 - 1:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27319,
+    "longitude": -92.02626
+  },
   {
     "address": "CAMERON ST & N UNIVERSITY AV",
     "city": "LAFAYETTE",
