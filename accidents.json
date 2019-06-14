@@ -1,19 +1,11 @@
 [
   {
-    "address": "MOSS ST & E PONT DES MOUTON RD",
-    "city": "LAFAYETTE",
-    "time": "06/14/2019 - 5:02 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.27304,
-    "longitude": -92.00812
-  },
-  {
-    "address": "JOHNSTON ST & WEDGEWOOD DR",
+    "address": "2451 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/14/2019 - 4:50 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.20833,
-    "longitude": -92.03645
+    "latitude": 30.2091532,
+    "longitude": -92.033417
   },
   {
     "address": "US 90 EAST HW & N MORGAN AV",
