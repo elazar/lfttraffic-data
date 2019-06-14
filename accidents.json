@@ -1,19 +1,19 @@
 [
   {
+    "address": "103 OATS DR",
+    "city": "LAFAYETTE",
+    "time": "06/14/2019 - 09:30 AM",
+    "due_to": "Vehicle Fire",
+    "latitude": 30.14301,
+    "longitude": -92.07141
+  },
+  {
     "address": "200 GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "06/14/2019 - 09:29 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.1952119,
     "longitude": -92.0610875
-  },
-  {
-    "address": "OATS DR & SHADOW SPRINGS DR",
-    "city": "LAFAYETTE",
-    "time": "06/14/2019 - 09:28 AM",
-    "due_to": "Incoming Call",
-    "latitude": 30.14247,
-    "longitude": -92.07027
   },
   {
     "address": "WALKER RD & PECAN GROVE RD",
