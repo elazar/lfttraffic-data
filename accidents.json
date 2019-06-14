@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & TECHE DR",
+    "city": "LAFAYETTE",
+    "time": "06/14/2019 - 11:17 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20143,
+    "longitude": -92.01512
+  },
+  {
     "address": "LOUISIANA AV & I10 HW",
     "city": "LAFAYETTE",
     "time": "06/14/2019 - 11:16 AM",
@@ -8,27 +16,11 @@
     "longitude": -91.99217
   },
   {
-    "address": "5411 W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "06/14/2019 - 11:14 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.19294,
-    "longitude": -92.11369
-  },
-  {
     "address": "CAMELLIA BL & VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "06/14/2019 - 10:53 AM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.16043,
     "longitude": -92.02256
-  },
-  {
-    "address": "4802 CAMERON ST",
-    "city": "SCOTT",
-    "time": "06/14/2019 - 10:22 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23254,
-    "longitude": -92.07951
   }
 ]
