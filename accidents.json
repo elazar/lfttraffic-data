@@ -1,5 +1,13 @@
 [
   {
+    "address": "4000 NE EVANGELINE TW",
+    "city": "CARENCRO",
+    "time": "06/14/2019 - 2:22 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.32538,
+    "longitude": -92.03366
+  },
+  {
     "address": "105 E CONVENT ST",
     "city": "LAFAYETTE",
     "time": "06/14/2019 - 2:12 PM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1824,
     "longitude": -92.07019
-  },
-  {
-    "address": "2600 W WILLOW ST",
-    "city": "SCOTT",
-    "time": "06/14/2019 - 1:17 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24305,
-    "longitude": -92.07925
   },
   {
     "address": "101 I10 EASTBOUND MM101 HW",
