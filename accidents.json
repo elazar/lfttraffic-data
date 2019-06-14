@@ -1,13 +1,5 @@
 [
   {
-    "address": "4 I49 NORTHBOUND MM4 HW",
-    "city": "LAFAYETTE",
-    "time": "06/14/2019 - 12:50 PM",
-    "due_to": "Vehicle Fire",
-    "latitude": 30.28006,
-    "longitude": -92.02024
-  },
-  {
     "address": "831 LA 1252 HW",
     "city": "LAFAYETTE",
     "time": "06/14/2019 - 12:32 PM",
@@ -22,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21504,
     "longitude": -92.07579
-  },
-  {
-    "address": "W PINHOOK RD & TECHE DR",
-    "city": "LAFAYETTE",
-    "time": "06/14/2019 - 11:17 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20143,
-    "longitude": -92.01512
   }
 ]
