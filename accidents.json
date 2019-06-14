@@ -1,5 +1,13 @@
 [
   {
+    "address": "WALKER RD & PECAN GROVE RD",
+    "city": "LAFAYETTE",
+    "time": "06/14/2019 - 09:12 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23565,
+    "longitude": -92.072
+  },
+  {
     "address": "6100 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "06/14/2019 - 08:58 AM",
