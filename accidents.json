@@ -1,5 +1,13 @@
 [
   {
+    "address": "2700 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "06/14/2019 - 09:44 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.208351,
+    "longitude": -92.0552367
+  },
+  {
     "address": "103 OATS DR",
     "city": "LAFAYETTE",
     "time": "06/14/2019 - 09:30 AM",
