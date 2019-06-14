@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 GUILBEAU RD",
+    "city": "LAFAYETTE",
+    "time": "06/14/2019 - 09:29 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1952119,
+    "longitude": -92.0610875
+  },
+  {
     "address": "OATS DR & SHADOW SPRINGS DR",
     "city": "LAFAYETTE",
     "time": "06/14/2019 - 09:28 AM",
