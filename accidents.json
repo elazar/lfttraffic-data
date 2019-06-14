@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 LEBLANC RD (NW)",
+    "city": "LAFAYETTE",
+    "time": "06/13/2019 - 7:29 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.12599,
+    "longitude": -92.12197
+  },
+  {
     "address": "N BIENVILLE ST & MADELINE AV",
     "city": "LAFAYETTE",
     "time": "06/13/2019 - 7:28 PM",
