@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23254,
     "longitude": -92.07951
-  },
-  {
-    "address": "2700 W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "06/14/2019 - 09:44 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.208351,
-    "longitude": -92.0552367
   }
 ]
