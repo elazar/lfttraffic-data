@@ -1,19 +1,11 @@
 [
   {
-    "address": "200 LEBLANC RD (NW)",
-    "city": "LAFAYETTE",
-    "time": "06/13/2019 - 7:29 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.12599,
-    "longitude": -92.12197
-  },
-  {
-    "address": "N BIENVILLE ST & MADELINE AV",
+    "address": "251 MADELINE AV",
     "city": "LAFAYETTE",
     "time": "06/13/2019 - 7:28 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.23818,
-    "longitude": -92.02328
+    "latitude": 30.2381251,
+    "longitude": -92.0224992
   },
   {
     "address": "E GLORIA SWITCH RD & S WILDERNESS TL",
