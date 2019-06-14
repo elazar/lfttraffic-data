@@ -1,5 +1,13 @@
 [
   {
+    "address": "OATS DR & SHADOW SPRINGS DR",
+    "city": "LAFAYETTE",
+    "time": "06/14/2019 - 09:28 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.14247,
+    "longitude": -92.07027
+  },
+  {
     "address": "WALKER RD & PECAN GROVE RD",
     "city": "LAFAYETTE",
     "time": "06/14/2019 - 09:12 AM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.10118,
     "longitude": -91.94283
-  },
-  {
-    "address": "W CONGRESS ST & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/14/2019 - 08:38 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19597,
-    "longitude": -92.07523
   },
   {
     "address": "S BIENVILLE ST & VOORHIES ST",
