@@ -1,5 +1,13 @@
 [
   {
+    "address": "500 MARDI GRAS RD",
+    "city": "LAFAYETTE",
+    "time": "06/15/2019 - 5:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.3270213,
+    "longitude": -92.0746274
+  },
+  {
     "address": "KALISTE SALOOM RD & S MEYERS DR",
     "city": "LAFAYETTE",
     "time": "06/15/2019 - 4:46 PM",
