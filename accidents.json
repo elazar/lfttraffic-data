@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "address": "KALISTE SALOOM RD & S MEYERS DR",
+    "city": "LAFAYETTE",
+    "time": "06/15/2019 - 4:46 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15061,
+    "longitude": -92.05423
+  },
+  {
+    "address": "301 RAYBURN ST",
+    "city": "LAFAYETTE",
+    "time": "06/15/2019 - 4:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21455,
+    "longitude": -92.05082
+  }
+]
