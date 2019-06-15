@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "155 MIMOSA PL",
+    "city": "LAFAYETTE",
+    "time": "06/15/2019 - 03:26 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.20055,
+    "longitude": -92.06043
+  }
+]
