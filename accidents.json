@@ -1,5 +1,13 @@
 [
   {
+    "address": "5001 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/15/2019 - 1:31 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18293,
+    "longitude": -92.06874
+  },
+  {
     "address": "CLINTON ST & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/15/2019 - 1:21 PM",
