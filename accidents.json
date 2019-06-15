@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 E WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "06/15/2019 - 10:13 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24388,
+    "longitude": -92.00992
+  },
+  {
     "address": "4105 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "06/15/2019 - 10:11 AM",
