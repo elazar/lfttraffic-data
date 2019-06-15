@@ -1,5 +1,13 @@
 [
   {
+    "address": "4105 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "06/15/2019 - 10:11 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15359,
+    "longitude": -91.95889
+  },
+  {
     "address": "3600 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "06/15/2019 - 09:18 AM",
