@@ -8,6 +8,14 @@
     "longitude": -92.0320124
   },
   {
+    "address": "JOHNSTON ST & CAJUNDOME BL",
+    "city": "LAFAYETTE",
+    "time": "06/15/2019 - 6:27 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.20919,
+    "longitude": -92.0338
+  },
+  {
     "address": "4551 N UNIVERSITY AV",
     "city": "CARENCRO",
     "time": "06/15/2019 - 5:54 PM",
@@ -30,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.27932,
     "longitude": -92.01356
-  },
-  {
-    "address": "2351 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "06/15/2019 - 12:40 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2095688,
-    "longitude": -92.0320124
   }
 ]
