@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 NELL ST",
+    "city": "LAFAYETTE",
+    "time": "06/15/2019 - 10:55 AM",
+    "due_to": "Trash Fire",
+    "latitude": 30.2382449,
+    "longitude": -92.0580062
+  },
+  {
     "address": "202 DUBLIN CL",
     "city": "LAFAYETTE",
     "time": "06/15/2019 - 10:33 AM",
