@@ -1,5 +1,13 @@
 [
   {
+    "address": "203 HARBOR WALK DR",
+    "city": "LAFAYETTE",
+    "time": "06/15/2019 - 3:57 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.174718,
+    "longitude": -92.0187703
+  },
+  {
     "address": "1935 MOSS ST",
     "city": "LAFAYETTE",
     "time": "06/15/2019 - 3:47 PM",
