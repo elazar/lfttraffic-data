@@ -1,5 +1,13 @@
 [
   {
+    "address": "921 CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "06/14/2019 - 7:37 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18009,
+    "longitude": -92.04699
+  },
+  {
     "address": "200 RAMPART ST",
     "city": "CARENCRO",
     "time": "06/14/2019 - 7:24 PM",
