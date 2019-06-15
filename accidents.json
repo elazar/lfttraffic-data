@@ -1,5 +1,13 @@
 [
   {
+    "address": "107 LA RUE RHIEMS",
+    "city": "LAFAYETTE",
+    "time": "06/14/2019 - 11:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22875,
+    "longitude": -92.1413
+  },
+  {
     "address": "99 I10 EASTBOUND MM99 HW",
     "city": "SCOTT",
     "time": "06/14/2019 - 10:39 PM",
