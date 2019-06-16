@@ -1,5 +1,13 @@
 [
   {
+    "address": "1214 COOLIDGE ST",
+    "city": "LAFAYETTE",
+    "time": "06/16/2019 - 3:48 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2025101,
+    "longitude": -92.0186946
+  },
+  {
     "address": "3300 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "06/16/2019 - 2:45 PM",
