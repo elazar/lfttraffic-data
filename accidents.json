@@ -38,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.3014,
     "longitude": -92.00464
-  },
-  {
-    "address": "121 N RICHTER DR",
-    "city": "LAFAYETTE",
-    "time": "06/16/2019 - 5:50 PM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.2559375,
-    "longitude": -92.0211699
   }
 ]
