@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "171 BLAINE ST (SE)",
+    "city": "LAFAYETTE",
+    "time": "06/16/2019 - 5:50 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.2619,
+    "longitude": -92.03802
+  }
+]
