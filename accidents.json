@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "204 ALSANDOR DR",
+    "city": "LAFAYETTE",
+    "time": "06/16/2019 - 4:41 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22419,
+    "longitude": -91.9955
+  }
+]
