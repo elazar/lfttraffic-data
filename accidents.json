@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "address": "1701 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "06/16/2019 - 5:25 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25216,
+    "longitude": -92.03842
+  },
+  {
+    "address": "JOHNSTON ST & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/16/2019 - 5:25 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.17808,
+    "longitude": -92.07452
+  }
+]
