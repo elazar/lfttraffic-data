@@ -1,11 +1,11 @@
 [
   {
-    "address": "401 DORSET AV",
+    "address": "400 DORSET AV",
     "city": "LAFAYETTE",
     "time": "06/16/2019 - 04:52 AM",
     "due_to": "Fire Investigation",
-    "latitude": 30.2114612,
-    "longitude": -92.0036656
+    "latitude": 30.2111,
+    "longitude": -92.00407
   },
   {
     "address": "916 LAFAYETTE ST",
