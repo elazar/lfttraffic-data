@@ -1,5 +1,13 @@
 [
   {
+    "address": "3316 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/16/2019 - 2:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18105,
+    "longitude": -92.07512
+  },
+  {
     "address": "104 I10 EASTBOUND MM104 HW",
     "city": "LAFAYETTE",
     "time": "06/16/2019 - 2:45 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.26255,
     "longitude": -92.00867
-  },
-  {
-    "address": "101 E PONT DES MOUTON RD",
-    "city": "LAFAYETTE",
-    "time": "06/16/2019 - 2:01 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2736627,
-    "longitude": -92.0176181
   },
   {
     "address": "VEROT SCHOOL RD & TIMBERWOOD CL",
