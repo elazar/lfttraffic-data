@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "I49 NB EXIT RAMP HW & E PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "06/16/2019 - 12:12 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27266,
+    "longitude": -91.99991
+  }
+]
