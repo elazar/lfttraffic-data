@@ -1,5 +1,13 @@
 [
   {
+    "address": "210 JACK ST",
+    "city": "CARENCRO",
+    "time": "06/16/2019 - 7:28 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.3199,
+    "longitude": -92.0469
+  },
+  {
     "address": "LOUISIANA AV & CARMEL DR",
     "city": "LAFAYETTE",
     "time": "06/16/2019 - 7:07 PM",
