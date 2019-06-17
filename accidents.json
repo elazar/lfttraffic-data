@@ -1,5 +1,13 @@
 [
   {
+    "address": "2007 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/17/2019 - 5:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21084,
+    "longitude": -92.02746
+  },
+  {
     "address": "ALBERTSON PW & S MORGAN AV",
     "city": "BROUSSARD",
     "time": "06/17/2019 - 5:28 PM",
