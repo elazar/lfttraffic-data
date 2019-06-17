@@ -1,5 +1,13 @@
 [
   {
+    "address": "NW EVANGELINE TW & E THIRD ST",
+    "city": "LAFAYETTE",
+    "time": "06/17/2019 - 5:44 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2295,
+    "longitude": -92.01298
+  },
+  {
     "address": "2007 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/17/2019 - 5:43 PM",
@@ -16,12 +24,12 @@
     "longitude": -91.96516
   },
   {
-    "address": "S COLLEGE RD & DERANEY LN",
+    "address": "150 S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "06/17/2019 - 5:13 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.20446,
-    "longitude": -92.03494
+    "latitude": 30.205231,
+    "longitude": -92.0360962
   },
   {
     "address": "3920 W CONGRESS ST",
