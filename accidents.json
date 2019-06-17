@@ -1,13 +1,5 @@
 [
   {
-    "address": "503 BERTRAND DR",
-    "city": "LAFAYETTE",
-    "time": "06/17/2019 - 12:18 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21095,
-    "longitude": -92.04486
-  },
-  {
     "address": "BERTRAND DR & N COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "06/17/2019 - 12:18 PM",
@@ -38,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2201,
     "longitude": -92.0172
-  },
-  {
-    "address": "100 I10 WESTBOUND MM100 HW",
-    "city": "LAFAYETTE",
-    "time": "06/17/2019 - 09:57 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.26255,
-    "longitude": -92.00867
   }
 ]
