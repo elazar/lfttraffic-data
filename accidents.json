@@ -1,5 +1,13 @@
 [
   {
+    "address": "E SIMCOE ST & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "06/16/2019 - 11:22 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.23002,
+    "longitude": -92.00303
+  },
+  {
     "address": "W CONGRESS ST & RUE DU BELIER",
     "city": "LAFAYETTE",
     "time": "06/16/2019 - 11:09 PM",
