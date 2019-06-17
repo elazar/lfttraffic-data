@@ -1,5 +1,13 @@
 [
   {
+    "address": "DULLES DR & LE VIOLON RD",
+    "city": "SCOTT",
+    "time": "06/16/2019 - 9:50 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.2106,
+    "longitude": -92.10832
+  },
+  {
     "address": "W CONGRESS ST & ST JOHN ST",
     "city": "LAFAYETTE",
     "time": "06/16/2019 - 9:24 PM",
