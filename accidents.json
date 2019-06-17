@@ -3,17 +3,9 @@
     "address": "200 HIGH MEADOWS BL",
     "city": "LAFAYETTE",
     "time": "06/17/2019 - 08:51 AM",
-    "due_to": "Incoming Call",
+    "due_to": "Commercial Fire",
     "latitude": 30.27702,
     "longitude": -92.01548
-  },
-  {
-    "address": "VENUS DR & E WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "06/17/2019 - 08:41 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.24498,
-    "longitude": -91.99678
   },
   {
     "address": "1700 SE EVANGELINE TW",
