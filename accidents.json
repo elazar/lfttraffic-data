@@ -1,5 +1,13 @@
 [
   {
+    "address": "ALBERTSON PW & S MORGAN AV",
+    "city": "BROUSSARD",
+    "time": "06/17/2019 - 5:28 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.1383,
+    "longitude": -91.96516
+  },
+  {
     "address": "S COLLEGE RD & DERANEY LN",
     "city": "LAFAYETTE",
     "time": "06/17/2019 - 5:13 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20852,
     "longitude": -92.03842
-  },
-  {
-    "address": "500 E SIMCOE ST",
-    "city": "LAFAYETTE",
-    "time": "06/17/2019 - 4:24 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23072,
-    "longitude": -92.01174
   },
   {
     "address": "3200 LOUISIANA AV",
