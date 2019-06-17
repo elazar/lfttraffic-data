@@ -1,5 +1,13 @@
 [
   {
+    "address": "2678 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/17/2019 - 4:42 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20852,
+    "longitude": -92.03842
+  },
+  {
     "address": "500 E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "06/17/2019 - 4:24 PM",
