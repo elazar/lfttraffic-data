@@ -1,5 +1,13 @@
 [
   {
+    "address": "6100 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "06/17/2019 - 10:04 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.10118,
+    "longitude": -91.94283
+  },
+  {
     "address": "100 I10 WESTBOUND MM100 HW",
     "city": "LAFAYETTE",
     "time": "06/17/2019 - 09:57 AM",
