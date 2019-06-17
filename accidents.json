@@ -1,5 +1,21 @@
 [
   {
+    "address": "148 WESTCHESTER DR",
+    "city": "LAFAYETTE",
+    "time": "06/16/2019 - 8:20 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.20416,
+    "longitude": -92.0601
+  },
+  {
+    "address": "NE EVANGELINE TW & E PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "06/16/2019 - 8:20 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.27334,
+    "longitude": -92.01718
+  },
+  {
     "address": "2207 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "06/16/2019 - 8:11 PM",
