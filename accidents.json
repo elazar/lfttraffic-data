@@ -1,5 +1,13 @@
 [
   {
+    "address": "DULLES DR & MARIE ANTOINETTE ST",
+    "city": "LAFAYETTE",
+    "time": "06/17/2019 - 09:00 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.21364,
+    "longitude": -92.06429
+  },
+  {
     "address": "200 HIGH MEADOWS BL",
     "city": "LAFAYETTE",
     "time": "06/17/2019 - 08:51 AM",
