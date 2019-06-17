@@ -1,13 +1,5 @@
 [
   {
-    "address": "141 PARKLANE RD",
-    "city": "LAFAYETTE",
-    "time": "06/17/2019 - 11:33 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.30213,
-    "longitude": -92.0052
-  },
-  {
     "address": "JOHNSTON ST & JEFFERSON ST",
     "city": "LAFAYETTE",
     "time": "06/17/2019 - 11:23 AM",
@@ -22,14 +14,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22114,
     "longitude": -92.05496
-  },
-  {
-    "address": "BEAUVAIS AV & NW FRONTAGE RD",
-    "city": "LAFAYETTE",
-    "time": "06/17/2019 - 11:05 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.29296,
-    "longitude": -92.0249
   },
   {
     "address": "100 I10 WESTBOUND MM100 HW",
