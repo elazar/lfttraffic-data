@@ -1,5 +1,13 @@
 [
   {
+    "address": "107 CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "06/16/2019 - 11:34 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.23468,
+    "longitude": -92.00219
+  },
+  {
     "address": "134 JOHN WAYNE DR",
     "city": "LAFAYETTE",
     "time": "06/16/2019 - 10:43 PM",
