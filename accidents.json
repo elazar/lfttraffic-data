@@ -1,5 +1,13 @@
 [
   {
+    "address": "500 E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "06/17/2019 - 4:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23072,
+    "longitude": -92.01174
+  },
+  {
     "address": "3200 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "06/17/2019 - 4:10 PM",
