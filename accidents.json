@@ -1,5 +1,13 @@
 [
   {
+    "address": "141 PARKLANE RD",
+    "city": "LAFAYETTE",
+    "time": "06/17/2019 - 11:33 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.30213,
+    "longitude": -92.0052
+  },
+  {
     "address": "JOHNSTON ST & JEFFERSON ST",
     "city": "LAFAYETTE",
     "time": "06/17/2019 - 11:23 AM",
