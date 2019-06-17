@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 I10 WESTBOUND MM100 HW",
+    "city": "LAFAYETTE",
+    "time": "06/17/2019 - 09:57 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "CAMELLIA BL & SILVERSTONE RD",
     "city": "LAFAYETTE",
     "time": "06/17/2019 - 09:44 AM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24701,
     "longitude": -92.01418
-  },
-  {
-    "address": "1806 BONIN RD",
-    "city": "LAFAYETTE",
-    "time": "06/17/2019 - 09:12 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.1245687,
-    "longitude": -92.007568
   },
   {
     "address": "1700 SE EVANGELINE TW",
