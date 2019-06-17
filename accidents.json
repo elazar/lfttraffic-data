@@ -46,13 +46,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20852,
     "longitude": -92.03842
-  },
-  {
-    "address": "3200 LOUISIANA AV",
-    "city": "LAFAYETTE",
-    "time": "06/17/2019 - 4:10 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2645725,
-    "longitude": -91.9925718
   }
 ]
