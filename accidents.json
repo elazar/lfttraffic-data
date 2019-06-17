@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 DULLES DR",
+    "city": "LAFAYETTE",
+    "time": "06/17/2019 - 11:10 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22114,
+    "longitude": -92.05496
+  },
+  {
     "address": "BEAUVAIS AV & NW FRONTAGE RD",
     "city": "LAFAYETTE",
     "time": "06/17/2019 - 11:05 AM",
