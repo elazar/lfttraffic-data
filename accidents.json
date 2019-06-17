@@ -1,19 +1,19 @@
 [
   {
+    "address": "201 ST NAZAIRE RD",
+    "city": "BROUSSARD",
+    "time": "06/17/2019 - 6:23 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14148,
+    "longitude": -91.94173
+  },
+  {
     "address": "SE EVANGELINE TW & JEFFERSON BL",
     "city": "LAFAYETTE",
     "time": "06/17/2019 - 6:18 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.22903,
     "longitude": -92.01168
-  },
-  {
-    "address": "JOHNSTON ST & OAK CREST DR",
-    "city": "LAFAYETTE",
-    "time": "06/17/2019 - 6:08 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.211,
-    "longitude": -92.02798
   },
   {
     "address": "NW EVANGELINE TW & E THIRD ST",
