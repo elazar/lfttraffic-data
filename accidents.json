@@ -22,21 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18795,
     "longitude": -92.04651
-  },
-  {
-    "address": "503 BERTRAND DR",
-    "city": "LAFAYETTE",
-    "time": "06/17/2019 - 12:18 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.21095,
-    "longitude": -92.04486
-  },
-  {
-    "address": "1500 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "06/17/2019 - 12:15 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21457,
-    "longitude": -92.02214
   }
 ]
