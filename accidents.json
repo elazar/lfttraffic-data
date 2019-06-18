@@ -1,11 +1,19 @@
 [
   {
-    "address": "123 WESTMARK BL",
+    "address": "E KALISTE SALOOM RD & S HUGH WALLIS RD",
+    "city": "LAFAYETTE",
+    "time": "06/18/2019 - 5:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19575,
+    "longitude": -92.00539
+  },
+  {
+    "address": "300 WESTMARK BL",
     "city": "LAFAYETTE",
     "time": "06/18/2019 - 5:09 PM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.18411,
-    "longitude": -92.07308
+    "latitude": 30.1845549,
+    "longitude": -92.0751405
   },
   {
     "address": "3500 NE EVANGELINE TW",
