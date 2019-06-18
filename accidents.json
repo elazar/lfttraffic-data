@@ -1,5 +1,13 @@
 [
   {
+    "address": "123 WESTMARK BL",
+    "city": "LAFAYETTE",
+    "time": "06/18/2019 - 5:09 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.18411,
+    "longitude": -92.07308
+  },
+  {
     "address": "3500 NE EVANGELINE TW",
     "city": "CARENCRO",
     "time": "06/18/2019 - 4:34 PM",
