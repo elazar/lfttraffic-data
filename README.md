@@ -1,8 +1,35 @@
 # Usage
 
-## Traffic cameras feeds
+## Accidents
 
-The current image for a specific camera is accessible at a URL of the following form, where the value of the `ptzid` parameter is found in the `cameras.json` file in this repository.
+Accidents can be fetched in JSON form from the following URL.
+
+https://raw.githubusercontent.com/elazar/lfttraffic-data/master/accidents.json
+
+The file contains an array of objects, each with the following properties:
+
+* `address`
+* `city`
+* `time`
+* `due_to`
+* `latitude`
+* `longitude`
+
+## Traffic cameras
+
+Traffic cameras can be fetched in JSON form from the following URL.
+
+https://raw.githubusercontent.com/elazar/lfttraffic-data/master/cameras.json
+
+The file contains an array of objects, each with the following properties:
+
+* `main_road`
+* `cross_road`
+* `latitude`
+* `longitude`
+* `ptzid`
+
+The current image for a specific camera is accessible at a URL of the following form, where the value of the `ptzid` parameter corresponds to the object property by the same name referenced in the list above.
 
 ```
 http://www.lafayettela.gov/tcams/getTCamera.aspx?ptzid=###
