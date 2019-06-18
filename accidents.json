@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20095,
     "longitude": -92.029
-  },
-  {
-    "address": "110 N GENTILLY RD",
-    "city": "LAFAYETTE",
-    "time": "06/18/2019 - 12:20 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.25577,
-    "longitude": -92.04982
   }
 ]
