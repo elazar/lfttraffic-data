@@ -24,27 +24,11 @@
     "longitude": -92.0751405
   },
   {
-    "address": "3500 NE EVANGELINE TW",
-    "city": "CARENCRO",
-    "time": "06/18/2019 - 4:34 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.30705,
-    "longitude": -92.02824
-  },
-  {
     "address": "208 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/18/2019 - 4:15 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.24213,
     "longitude": -92.06669
-  },
-  {
-    "address": "513 BRAXTON DR",
-    "city": "LAFAYETTE",
-    "time": "06/18/2019 - 2:54 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.05989,
-    "longitude": -91.99667
   }
 ]
