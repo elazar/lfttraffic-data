@@ -1,19 +1,19 @@
 [
   {
+    "address": "717 DUHON RD",
+    "city": "LAFAYETTE",
+    "time": "06/19/2019 - 3:48 PM",
+    "due_to": "Grass Fire",
+    "latitude": 30.1654,
+    "longitude": -92.10481
+  },
+  {
     "address": "120 E GLORIA SWITCH RD",
     "city": "LAFAYETTE",
     "time": "06/19/2019 - 3:43 PM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.29346,
     "longitude": -92.02171
-  },
-  {
-    "address": "ULYSSE RD & DUHON RD",
-    "city": "LAFAYETTE",
-    "time": "06/19/2019 - 3:42 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.16691,
-    "longitude": -92.1062
   },
   {
     "address": "1935 W PINHOOK RD",
