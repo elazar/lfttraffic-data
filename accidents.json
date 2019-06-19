@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 FATIMA RD",
+    "city": "LAFAYETTE",
+    "time": "06/19/2019 - 4:43 PM",
+    "due_to": "Hazard",
+    "latitude": 30.3394449,
+    "longitude": -92.071318
+  },
+  {
     "address": "111 LA RUE CANNES",
     "city": "LAFAYETTE",
     "time": "06/19/2019 - 4:26 PM",
