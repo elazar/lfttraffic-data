@@ -1,5 +1,13 @@
 [
   {
+    "address": "301 SMALLEY RD",
+    "city": "CARENCRO",
+    "time": "06/18/2019 - 7:00 PM",
+    "due_to": "Grass Fire",
+    "latitude": 30.30111,
+    "longitude": -92.03107
+  },
+  {
     "address": "2458 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "06/18/2019 - 6:57 PM",
