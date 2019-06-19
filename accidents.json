@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21504,
     "longitude": -92.07579
-  },
-  {
-    "address": "105 I10 EASTBOUND MM105 HW",
-    "city": "LAFAYETTE",
-    "time": "06/19/2019 - 08:42 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.26255,
-    "longitude": -92.00867
   }
 ]
