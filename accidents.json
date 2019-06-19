@@ -1,5 +1,13 @@
 [
   {
+    "address": "101 BRAXTON DR",
+    "city": "LAFAYETTE",
+    "time": "06/19/2019 - 2:35 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.05968,
+    "longitude": -91.99076
+  },
+  {
     "address": "4105 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "06/19/2019 - 2:32 PM",
