@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 INEZ LN",
+    "city": "LAFAYETTE",
+    "time": "06/19/2019 - 11:53 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18613,
+    "longitude": -92.07547
+  },
+  {
     "address": "4 I49 SOUTHBOUND MM4 HW",
     "city": "LAFAYETTE",
     "time": "06/19/2019 - 10:12 AM",
