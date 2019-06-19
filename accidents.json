@@ -1,5 +1,13 @@
 [
   {
+    "address": "123 ST NAZAIRE RD",
+    "city": "BROUSSARD",
+    "time": "06/19/2019 - 5:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14362,
+    "longitude": -91.94369
+  },
+  {
     "address": "ST LANDRY ST & W ST MARY BL",
     "city": "LAFAYETTE",
     "time": "06/19/2019 - 5:09 PM",
