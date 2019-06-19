@@ -1,5 +1,13 @@
 [
   {
+    "address": "111 LA RUE CANNES",
+    "city": "LAFAYETTE",
+    "time": "06/19/2019 - 4:26 PM",
+    "due_to": "Vehicle Fire",
+    "latitude": 30.22821,
+    "longitude": -92.13971
+  },
+  {
     "address": "JOHNSTON ST & W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "06/19/2019 - 4:16 PM",
