@@ -1,5 +1,13 @@
 [
   {
+    "address": "S MORGAN AV & AMBASSADOR CAFFERY PW",
+    "city": "BROUSSARD",
+    "time": "06/19/2019 - 4:59 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.13188,
+    "longitude": -91.96517
+  },
+  {
     "address": "2909 NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "06/19/2019 - 4:53 PM",
@@ -22,14 +30,6 @@
     "due_to": "Hazard",
     "latitude": 30.3394449,
     "longitude": -92.071318
-  },
-  {
-    "address": "111 LA RUE CANNES",
-    "city": "LAFAYETTE",
-    "time": "06/19/2019 - 4:26 PM",
-    "due_to": "Vehicle Fire",
-    "latitude": 30.22821,
-    "longitude": -92.13971
   },
   {
     "address": "JOHNSTON ST & W UNIVERSITY AV",
