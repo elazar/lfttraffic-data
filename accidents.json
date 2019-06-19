@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 FOREMAN DR",
+    "city": "LAFAYETTE",
+    "time": "06/18/2019 - 8:31 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.20619,
+    "longitude": -92.05512
+  },
+  {
     "address": "KALISTE SALOOM RD & CAMELLIA BL",
     "city": "LAFAYETTE",
     "time": "06/18/2019 - 8:07 PM",
