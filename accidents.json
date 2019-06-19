@@ -1,5 +1,13 @@
 [
   {
+    "address": "800 E BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "06/19/2019 - 2:44 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.13937,
+    "longitude": -92.07505
+  },
+  {
     "address": "101 BRAXTON DR",
     "city": "LAFAYETTE",
     "time": "06/19/2019 - 2:35 PM",
