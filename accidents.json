@@ -62,13 +62,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20849,
     "longitude": -92.0138
-  },
-  {
-    "address": "SE EVANGELINE TW & E KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "06/19/2019 - 3:15 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.20067,
-    "longitude": -91.99958
   }
 ]
