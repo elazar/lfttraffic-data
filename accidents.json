@@ -1,5 +1,13 @@
 [
   {
+    "address": "COOLIDGE ST & E ST MARY BL",
+    "city": "LAFAYETTE",
+    "time": "06/19/2019 - 3:38 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20849,
+    "longitude": -92.0138
+  },
+  {
     "address": "106 JADE ST",
     "city": "LAFAYETTE",
     "time": "06/19/2019 - 3:20 PM",
