@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "06/20/2019 - 3:32 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24052,
+    "longitude": -92.03242
+  },
+  {
     "address": "102 I10 EASTBOUND MM102 HW",
     "city": "LAFAYETTE",
     "time": "06/20/2019 - 3:23 PM",
@@ -38,13 +46,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19996,
     "longitude": -92.07263
-  },
-  {
-    "address": "W PINHOOK RD & S BERNARD RD",
-    "city": "LAFAYETTE",
-    "time": "06/20/2019 - 2:41 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1513,
-    "longitude": -91.97799
   }
 ]
