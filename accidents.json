@@ -1,5 +1,13 @@
 [
   {
+    "address": "1604 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "06/20/2019 - 09:44 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25038,
+    "longitude": -92.03431
+  },
+  {
     "address": "N UNIVERSITY AV & HOLLYWOOD DR",
     "city": "LAFAYETTE",
     "time": "06/20/2019 - 09:32 AM",
