@@ -16,20 +16,12 @@
     "longitude": -92.00978
   },
   {
-    "address": "ROBLEY DR & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/20/2019 - 2:55 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17117,
-    "longitude": -92.06617
-  },
-  {
-    "address": "501 STEWART ST",
+    "address": "500 LAMAR ST",
     "city": "LAFAYETTE",
     "time": "06/20/2019 - 2:49 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.21897,
-    "longitude": -92.01186
+    "latitude": 30.2199531,
+    "longitude": -92.0134597
   },
   {
     "address": "GUILBEAU RD & CHAPEL DR",
