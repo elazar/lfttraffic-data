@@ -8,14 +8,6 @@
     "longitude": -92.02098
   },
   {
-    "address": "HARBOR BEND BL & S BEADLE RD",
-    "city": "LAFAYETTE",
-    "time": "06/20/2019 - 1:49 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.17401,
-    "longitude": -92.01499
-  },
-  {
     "address": "2168 S FIELDSPAN RD",
     "city": "LAFAYETTE",
     "time": "06/20/2019 - 1:41 PM",
@@ -38,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15487,
     "longitude": -92.04639
-  },
-  {
-    "address": "1817 W UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "06/20/2019 - 1:17 PM",
-    "due_to": "Commercial Fire",
-    "latitude": 30.22974,
-    "longitude": -92.03109
   },
   {
     "address": "SW EVANGELINE TW & E KALISTE SALOOM RD",
