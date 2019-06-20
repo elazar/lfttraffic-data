@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "GUILBEAU RD & BIRCH DR",
+    "city": "LAFAYETTE",
+    "time": "06/20/2019 - 07:26 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19477,
+    "longitude": -92.05987
+  }
+]
