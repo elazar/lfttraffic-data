@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "LOUISIANA AV & E WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "06/20/2019 - 05:47 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24552,
+    "longitude": -92.00037
+  }
+]
