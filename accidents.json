@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 N GRANT ST",
+    "city": "LAFAYETTE",
+    "time": "06/20/2019 - 10:52 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2297516,
+    "longitude": -92.0152376
+  },
+  {
     "address": "4000 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/20/2019 - 10:43 AM",
