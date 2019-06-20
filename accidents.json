@@ -1,5 +1,13 @@
 [
   {
+    "address": "GARFIELD ST & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/20/2019 - 11:43 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22438,
+    "longitude": -92.01447
+  },
+  {
     "address": "I49 NORTHBOUND MM3 HW & E GLORIA SWITCH RD",
     "city": "CARENCRO",
     "time": "06/20/2019 - 11:39 AM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.28006,
     "longitude": -92.02024
-  },
-  {
-    "address": "4630 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/20/2019 - 11:09 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1532294,
-    "longitude": -92.0446335
   },
   {
     "address": "2004 W PINHOOK RD",
