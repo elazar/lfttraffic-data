@@ -1,5 +1,13 @@
 [
   {
+    "address": "4000 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/20/2019 - 10:43 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1663,
+    "longitude": -92.06118
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "06/20/2019 - 10:35 AM",
@@ -8,12 +16,12 @@
     "longitude": -92.07523
   },
   {
-    "address": "1301 E SIMCOE ST",
+    "address": "2200 E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "06/20/2019 - 10:24 AM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.23006,
-    "longitude": -92.00163
+    "latitude": 30.2257934,
+    "longitude": -91.9947201
   },
   {
     "address": "1400 NW EVANGELINE TW",
