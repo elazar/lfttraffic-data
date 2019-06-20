@@ -1,5 +1,13 @@
 [
   {
+    "address": "S COLLEGE RD & MYRTLE ST",
+    "city": "LAFAYETTE",
+    "time": "06/20/2019 - 11:57 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20499,
+    "longitude": -92.03557
+  },
+  {
     "address": "KALISTE SALOOM RD & LONG PLANTATION BL",
     "city": "LAFAYETTE",
     "time": "06/20/2019 - 11:44 AM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22438,
     "longitude": -92.01447
-  },
-  {
-    "address": "I49 NORTHBOUND MM3 HW & E GLORIA SWITCH RD",
-    "city": "CARENCRO",
-    "time": "06/20/2019 - 11:39 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.29523,
-    "longitude": -92.01609
   },
   {
     "address": "I49 NORTHBOUND MM3 HW & E GLORIA SWITCH RD",
