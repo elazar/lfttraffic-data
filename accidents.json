@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 ROSELAWN BL",
+    "city": "LAFAYETTE",
+    "time": "06/20/2019 - 08:12 AM",
+    "due_to": "Vehicle Fire",
+    "latitude": 30.19147,
+    "longitude": -92.0422
+  },
+  {
     "address": "1212 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/20/2019 - 07:59 AM",
