@@ -62,13 +62,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.29564,
     "longitude": -92.02676
-  },
-  {
-    "address": "2200 E SIMCOE ST",
-    "city": "LAFAYETTE",
-    "time": "06/20/2019 - 10:24 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.2257934,
-    "longitude": -91.9947201
   }
 ]
