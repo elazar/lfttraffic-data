@@ -1,19 +1,19 @@
 [
   {
+    "address": "4000 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/19/2019 - 10:51 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1663,
+    "longitude": -92.06118
+  },
+  {
     "address": "N FIELDSPAN RD & RUE BON SECOURS",
     "city": "LAFAYETTE",
     "time": "06/19/2019 - 10:49 PM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.25894,
     "longitude": -92.14191
-  },
-  {
-    "address": "4792 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "06/19/2019 - 10:23 PM",
-    "due_to": "Commercial Fire",
-    "latitude": 30.18619,
-    "longitude": -92.06709
   },
   {
     "address": "SETTLERS TRACE BL & CAMELLIA BL",
