@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & HOLLYWOOD DR",
+    "city": "LAFAYETTE",
+    "time": "06/20/2019 - 09:32 AM",
+    "due_to": "Hazardous Situation",
+    "latitude": 30.24945,
+    "longitude": -92.03517
+  },
+  {
     "address": "111 ST LOUIS ST",
     "city": "LAFAYETTE",
     "time": "06/20/2019 - 09:22 AM",
