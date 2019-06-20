@@ -1,5 +1,13 @@
 [
   {
+    "address": "ROBLEY DR & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/20/2019 - 1:19 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.17117,
+    "longitude": -92.06617
+  },
+  {
     "address": "OLD CAMP RD & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/20/2019 - 1:17 PM",
@@ -11,7 +19,7 @@
     "address": "1817 W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "06/20/2019 - 1:17 PM",
-    "due_to": "Fire Alarm-Commercial",
+    "due_to": "Commercial Fire",
     "latitude": 30.22974,
     "longitude": -92.03109
   },
