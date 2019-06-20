@@ -1,5 +1,21 @@
 [
   {
+    "address": "700 VETERANS DR",
+    "city": "CARENCRO",
+    "time": "06/20/2019 - 1:16 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.32151,
+    "longitude": -92.04237
+  },
+  {
+    "address": "4232 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/20/2019 - 1:16 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15981,
+    "longitude": -92.05452
+  },
+  {
     "address": "W BROUSSARD RD & HUMMINGBIRD LN",
     "city": "LAFAYETTE",
     "time": "06/20/2019 - 1:14 PM",
@@ -14,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20067,
     "longitude": -91.99958
-  },
-  {
-    "address": "115 RESERVE DR",
-    "city": "LAFAYETTE",
-    "time": "06/20/2019 - 1:01 PM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.1715954,
-    "longitude": -92.0802363
   },
   {
     "address": "E PINHOOK RD & GAUTHIER RD",
