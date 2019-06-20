@@ -1,5 +1,13 @@
 [
   {
+    "address": "3900 N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "06/20/2019 - 11:32 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.3077838,
+    "longitude": -92.0493051
+  },
+  {
     "address": "2 I49 NORTHBOUND MM2 HW",
     "city": "LAFAYETTE",
     "time": "06/20/2019 - 11:26 AM",
