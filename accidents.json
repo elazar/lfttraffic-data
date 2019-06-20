@@ -1,19 +1,19 @@
 [
   {
+    "address": "OLD CAMP RD & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/20/2019 - 1:17 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15487,
+    "longitude": -92.04639
+  },
+  {
     "address": "1817 W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "06/20/2019 - 1:17 PM",
     "due_to": "Fire Alarm-Commercial",
     "latitude": 30.22974,
     "longitude": -92.03109
-  },
-  {
-    "address": "SILKWOOD ST & W UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "06/20/2019 - 1:17 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.23038,
-    "longitude": -92.03118
   },
   {
     "address": "700 VETERANS DR",
