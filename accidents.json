@@ -1,5 +1,21 @@
 [
   {
+    "address": "3511 N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "06/20/2019 - 1:35 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2956,
+    "longitude": -92.05001
+  },
+  {
+    "address": "N UNIVERSITY AV & W GLORIA SWITCH RD",
+    "city": "CARENCRO",
+    "time": "06/20/2019 - 1:35 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29785,
+    "longitude": -92.04941
+  },
+  {
     "address": "OLD CAMP RD & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/20/2019 - 1:17 PM",
