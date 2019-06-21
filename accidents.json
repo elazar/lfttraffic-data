@@ -1,5 +1,21 @@
 [
   {
+    "address": "1300 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "06/21/2019 - 3:50 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20085,
+    "longitude": -92.01577
+  },
+  {
+    "address": "W UNIVERSITY AV & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/21/2019 - 3:50 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21729,
+    "longitude": -92.01902
+  },
+  {
     "address": "107 E UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "06/21/2019 - 3:39 PM",
