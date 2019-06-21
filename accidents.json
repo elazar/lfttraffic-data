@@ -1,5 +1,13 @@
 [
   {
+    "address": "TEURLINGS DR & CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "06/21/2019 - 4:43 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.23309,
+    "longitude": -91.99008
+  },
+  {
     "address": "NE EVANGELINE TW & E WILLOW ST",
     "city": "LAFAYETTE",
     "time": "06/21/2019 - 4:40 PM",
