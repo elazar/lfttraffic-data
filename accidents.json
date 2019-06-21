@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "S FIELDSPAN RD & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "06/21/2019 - 6:46 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.19566,
+    "longitude": -92.1411
+  }
+]
