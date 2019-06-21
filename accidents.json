@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "300 E MAIN ST",
+    "city": "BROUSSARD",
+    "time": "06/21/2019 - 02:25 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1475337,
+    "longitude": -91.9619661
+  }
+]
