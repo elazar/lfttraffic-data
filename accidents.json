@@ -1,5 +1,13 @@
 [
   {
+    "address": "101 I10 WESTBOUND MM101 HW",
+    "city": "LAFAYETTE",
+    "time": "06/21/2019 - 12:57 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "1200 S FIELDSPAN RD",
     "city": "LAFAYETTE",
     "time": "06/21/2019 - 12:46 PM",
