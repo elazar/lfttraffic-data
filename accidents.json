@@ -1,5 +1,13 @@
 [
   {
+    "address": "107 CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "06/20/2019 - 9:53 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.23468,
+    "longitude": -92.00219
+  },
+  {
     "address": "2302 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/20/2019 - 9:02 PM",
