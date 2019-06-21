@@ -1,5 +1,13 @@
 [
   {
+    "address": "3721 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/21/2019 - 2:35 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17357,
+    "longitude": -92.0672
+  },
+  {
     "address": "E MILTON AV & VEROT SCHOOL RD",
     "city": "YOUNGSVILLE",
     "time": "06/21/2019 - 2:20 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22754,
     "longitude": -92.02923
-  },
-  {
-    "address": "403 RENA DR",
-    "city": "LAFAYETTE",
-    "time": "06/21/2019 - 2:12 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18692,
-    "longitude": -92.04819
   },
   {
     "address": "101 I10 WESTBOUND MM101 HW",
