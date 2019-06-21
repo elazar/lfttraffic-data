@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & HOLLYWOOD DR",
+    "city": "LAFAYETTE",
+    "time": "06/21/2019 - 11:25 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24945,
+    "longitude": -92.03517
+  },
+  {
     "address": "E WILLOW ST & E EVERGREEN ST",
     "city": "LAFAYETTE",
     "time": "06/21/2019 - 11:12 AM",
