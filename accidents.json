@@ -1,5 +1,13 @@
 [
   {
+    "address": "101 I10 WESTBOUND MM101 HW",
+    "city": "LAFAYETTE",
+    "time": "06/21/2019 - 1:17 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "700 E BROUSSARD RD",
     "city": "LAFAYETTE",
     "time": "06/21/2019 - 1:08 PM",
