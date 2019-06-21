@@ -1,5 +1,13 @@
 [
   {
+    "address": "E WILLOW ST & E EVERGREEN ST",
+    "city": "LAFAYETTE",
+    "time": "06/21/2019 - 11:12 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24501,
+    "longitude": -92.00277
+  },
+  {
     "address": "W WILLOW ST & N PIERCE ST",
     "city": "LAFAYETTE",
     "time": "06/21/2019 - 11:03 AM",
