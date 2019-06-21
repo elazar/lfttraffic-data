@@ -1,5 +1,13 @@
 [
   {
+    "address": "E MILTON AV & VEROT SCHOOL RD",
+    "city": "YOUNGSVILLE",
+    "time": "06/21/2019 - 2:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.08575,
+    "longitude": -92.03246
+  },
+  {
     "address": "W UNIVERSITY AV & OAKLAWN AV",
     "city": "LAFAYETTE",
     "time": "06/21/2019 - 2:16 PM",
