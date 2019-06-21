@@ -1,19 +1,19 @@
 [
   {
+    "address": "SW EVANGELINE TW & E PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "06/21/2019 - 5:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21749,
+    "longitude": -92.00495
+  },
+  {
     "address": "GUILLIOT RD & LANGSTON CT",
     "city": "YOUNGSVILLE",
     "time": "06/21/2019 - 5:27 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.07905,
     "longitude": -91.9906
-  },
-  {
-    "address": "207 KEVIN DR",
-    "city": "LAFAYETTE",
-    "time": "06/21/2019 - 5:26 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.27688,
-    "longitude": -92.00358
   },
   {
     "address": "4 I49 NORTHBOUND MM4 HW",
