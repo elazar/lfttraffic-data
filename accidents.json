@@ -1,5 +1,13 @@
 [
   {
+    "address": "1001 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "06/21/2019 - 3:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23683,
+    "longitude": -92.01315
+  },
+  {
     "address": "1300 WESTGATE RD",
     "city": "SCOTT",
     "time": "06/21/2019 - 3:14 PM",
