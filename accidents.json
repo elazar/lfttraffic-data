@@ -1,5 +1,13 @@
 [
   {
+    "address": "1300 WESTGATE RD",
+    "city": "SCOTT",
+    "time": "06/21/2019 - 3:14 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2153314,
+    "longitude": -92.0871249
+  },
+  {
     "address": "3730 NE EVANGELINE TW",
     "city": "CARENCRO",
     "time": "06/21/2019 - 3:01 PM",
@@ -35,14 +43,6 @@
     "address": "101 I10 WESTBOUND MM101 HW",
     "city": "LAFAYETTE",
     "time": "06/21/2019 - 1:17 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.26255,
-    "longitude": -92.00867
-  },
-  {
-    "address": "101 I10 WESTBOUND MM101 HW",
-    "city": "LAFAYETTE",
-    "time": "06/21/2019 - 12:57 PM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.26255,
     "longitude": -92.00867
