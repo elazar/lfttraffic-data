@@ -1,5 +1,12 @@
 [
-  null,
+  {
+    "address": "SW EVANGELINE TW & E PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "06/21/2019 - 5:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21749,
+    "longitude": -92.00495
+  },
   {
     "address": "GUILLIOT RD & LANGSTON CT",
     "city": "YOUNGSVILLE",
