@@ -30,21 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18521,
     "longitude": -92.0159
-  },
-  {
-    "address": "1001 NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "06/21/2019 - 3:20 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23683,
-    "longitude": -92.01315
-  },
-  {
-    "address": "E MILTON AV & VEROT SCHOOL RD",
-    "city": "YOUNGSVILLE",
-    "time": "06/21/2019 - 2:20 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.08575,
-    "longitude": -92.03246
   }
 ]
