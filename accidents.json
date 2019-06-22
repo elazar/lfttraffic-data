@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "247 LODIAS RD",
+    "city": "LAFAYETTE",
+    "time": "06/22/2019 - 05:19 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.1165,
+    "longitude": -92.07049
+  }
+]
