@@ -38,13 +38,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.2440279,
     "longitude": -92.0661212
-  },
-  {
-    "address": "1800 MILLS ST",
-    "city": "LAFAYETTE",
-    "time": "06/22/2019 - 09:50 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.26535,
-    "longitude": -92.0898
   }
 ]
