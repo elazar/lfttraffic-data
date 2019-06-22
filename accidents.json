@@ -1,5 +1,13 @@
 [
   {
+    "address": "1800 MILLS ST",
+    "city": "LAFAYETTE",
+    "time": "06/22/2019 - 09:50 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.26535,
+    "longitude": -92.0898
+  },
+  {
     "address": "NW EVANGELINE TW & GOLDMAN ST",
     "city": "LAFAYETTE",
     "time": "06/22/2019 - 09:49 AM",
