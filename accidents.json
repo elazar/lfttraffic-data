@@ -1,5 +1,13 @@
 [
   {
+    "address": "N ST ANTOINE ST & MADELINE AV",
+    "city": "LAFAYETTE",
+    "time": "06/21/2019 - 8:33 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.23817,
+    "longitude": -92.02493
+  },
+  {
     "address": "JOHNSTON ST & E BROUSSARD RD",
     "city": "LAFAYETTE",
     "time": "06/21/2019 - 6:57 PM",
