@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "LAMAR ST & STEWART ST",
+    "city": "LAFAYETTE",
+    "time": "06/22/2019 - 6:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21928,
+    "longitude": -92.01374
+  }
+]
