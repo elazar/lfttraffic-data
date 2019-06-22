@@ -1,11 +1,11 @@
 [
   {
-    "address": "400 W WILLOW ST",
+    "address": "500 W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "06/22/2019 - 1:25 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.2453146,
-    "longitude": -92.0184001
+    "latitude": 30.24585,
+    "longitude": -92.02471
   },
   {
     "address": "S RICHFIELD RD & HANKS RD",
@@ -22,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.31963,
     "longitude": -92.04921
-  },
-  {
-    "address": "200 DELHOMME AV",
-    "city": "SCOTT",
-    "time": "06/22/2019 - 12:50 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.23598,
-    "longitude": -92.09257
   },
   {
     "address": "3806 AMBASSADOR CAFFERY PW",
