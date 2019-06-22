@@ -1,5 +1,13 @@
 [
   {
+    "address": "2100 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "06/22/2019 - 11:20 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25207,
+    "longitude": -92.01313
+  },
+  {
     "address": "W PINHOOK RD & E UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "06/22/2019 - 11:05 AM",
