@@ -1,5 +1,13 @@
 [
   {
+    "address": "1010 LAFAYETTE ST",
+    "city": "LAFAYETTE",
+    "time": "06/22/2019 - 11:32 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.22245,
+    "longitude": -92.02106
+  },
+  {
     "address": "2100 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "06/22/2019 - 11:20 AM",
