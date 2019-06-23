@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "100 LE VIOLON RD",
+    "city": "LAFAYETTE",
+    "time": "06/23/2019 - 1:32 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.19874,
+    "longitude": -92.10719
+  }
+]
