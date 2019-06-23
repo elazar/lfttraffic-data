@@ -1,5 +1,13 @@
 [
   {
+    "address": "700 BEAU BASSIN RD",
+    "city": "LAFAYETTE",
+    "time": "06/23/2019 - 2:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.3079227,
+    "longitude": -91.9898584
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & WESTMARK BL",
     "city": "LAFAYETTE",
     "time": "06/23/2019 - 2:23 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24324,
     "longitude": -92.06626
-  },
-  {
-    "address": "313 BRIGID ST",
-    "city": "LAFAYETTE",
-    "time": "06/23/2019 - 2:04 PM",
-    "due_to": "Residential Fire",
-    "latitude": 30.27976,
-    "longitude": -92.04281
   },
   {
     "address": "CAMERON ST & ALFRED ST",
