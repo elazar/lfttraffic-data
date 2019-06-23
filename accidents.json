@@ -24,20 +24,20 @@
     "longitude": -92.07499
   },
   {
+    "address": "BEAU BASSIN RD & E GLORIA SWITCH RD",
+    "city": "LAFAYETTE",
+    "time": "06/23/2019 - 2:37 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29371,
+    "longitude": -91.98346
+  },
+  {
     "address": "CAMERON ST & ALFRED ST",
     "city": "SCOTT",
     "time": "06/23/2019 - 1:48 PM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.23357,
     "longitude": -92.09381
-  },
-  {
-    "address": "W UNIVERSITY AV & JEANNE ST",
-    "city": "LAFAYETTE",
-    "time": "06/23/2019 - 1:42 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23131,
-    "longitude": -92.03183
   },
   {
     "address": "300 DEBONNAIRE RD",
