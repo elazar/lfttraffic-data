@@ -1,5 +1,13 @@
 [
   {
+    "address": "N MICHAUD ST & VETERANS DR",
+    "city": "CARENCRO",
+    "time": "06/23/2019 - 12:07 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.32221,
+    "longitude": -92.04517
+  },
+  {
     "address": "302 WEST MAIN",
     "city": "Lafayette",
     "time": "06/23/2019 - 11:49 AM",
