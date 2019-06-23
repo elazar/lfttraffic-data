@@ -1,5 +1,13 @@
 [
   {
+    "address": "302 WEST MAIN",
+    "city": "Lafayette",
+    "time": "06/23/2019 - 11:49 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.2230449,
+    "longitude": -92.0209788
+  },
+  {
     "address": "100 CHURCH ST",
     "city": "Lafayette",
     "time": "06/23/2019 - 11:45 AM",
