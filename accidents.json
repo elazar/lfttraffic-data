@@ -30,13 +30,5 @@
     "due_to": "Residential Fire",
     "latitude": 30.23681,
     "longitude": -92.07998
-  },
-  {
-    "address": "2600 RIDGE RD",
-    "city": "LAFAYETTE",
-    "time": "06/23/2019 - 1:32 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.18131,
-    "longitude": -92.16291
   }
 ]
