@@ -1,5 +1,13 @@
 [
   {
+    "address": "400 ROBLEY DR",
+    "city": "LAFAYETTE",
+    "time": "06/23/2019 - 12:12 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1762185,
+    "longitude": -92.0608694
+  },
+  {
     "address": "N MICHAUD ST & VETERANS DR",
     "city": "CARENCRO",
     "time": "06/23/2019 - 12:07 PM",
