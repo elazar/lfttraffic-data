@@ -1,5 +1,13 @@
 [
   {
+    "address": "KALISTE SALOOM RD & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/23/2019 - 12:23 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15649,
+    "longitude": -92.04838
+  },
+  {
     "address": "LA 93 HW & DESTINATION POINTE LN",
     "city": "SCOTT",
     "time": "06/23/2019 - 12:19 PM",
