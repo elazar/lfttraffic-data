@@ -1,5 +1,21 @@
 [
   {
+    "address": "BNSF RAILROAD CG & E PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "06/24/2019 - 12:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23642,
+    "longitude": -91.99108
+  },
+  {
+    "address": "KALISTE SALOOM RD & E MARTIAL AV",
+    "city": "LAFAYETTE",
+    "time": "06/24/2019 - 12:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1648,
+    "longitude": -92.03985
+  },
+  {
     "address": "2905 LA 93 HW",
     "city": "LAFAYETTE",
     "time": "06/24/2019 - 11:37 AM",
