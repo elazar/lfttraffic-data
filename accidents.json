@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19915,
     "longitude": -92.02663
-  },
-  {
-    "address": "105 I10 WESTBOUND MM105-5 HW",
-    "city": "LAFAYETTE",
-    "time": "06/24/2019 - 08:32 AM",
-    "due_to": "Hazardous Situation",
-    "latitude": 30.26255,
-    "longitude": -92.00867
   }
 ]
