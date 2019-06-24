@@ -1,9 +1,17 @@
 [
   {
+    "address": "W CONGRESS ST & THEATRE ST",
+    "city": "LAFAYETTE",
+    "time": "06/24/2019 - 12:32 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20264,
+    "longitude": -92.06358
+  },
+  {
     "address": "N UNIVERSITY AV & ABRAHAM DR",
     "city": "LAFAYETTE",
     "time": "06/24/2019 - 12:30 PM",
-    "due_to": "Incoming Call",
+    "due_to": "Vehicle Fire",
     "latitude": 30.24052,
     "longitude": -92.03242
   },
