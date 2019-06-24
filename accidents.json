@@ -1,5 +1,13 @@
 [
   {
+    "address": "2905 LA 93 HW",
+    "city": "LAFAYETTE",
+    "time": "06/24/2019 - 11:37 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.31151,
+    "longitude": -92.11667
+  },
+  {
     "address": "3217 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "06/24/2019 - 11:33 AM",
