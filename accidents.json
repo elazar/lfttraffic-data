@@ -1,5 +1,13 @@
 [
   {
+    "address": "1100 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "06/24/2019 - 08:53 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2433,
+    "longitude": -92.03218
+  },
+  {
     "address": "4100 CAMERON ST",
     "city": "LAFAYETTE",
     "time": "06/24/2019 - 08:51 AM",
