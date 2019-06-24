@@ -1,5 +1,13 @@
 [
   {
+    "address": "1020 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "06/24/2019 - 10:14 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23689,
+    "longitude": -92.01261
+  },
+  {
     "address": "3201 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "06/24/2019 - 09:48 AM",
