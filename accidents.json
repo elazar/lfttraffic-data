@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 IRA ST",
+    "city": "CARENCRO",
+    "time": "06/24/2019 - 05:02 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.32152,
+    "longitude": -92.05198
+  },
+  {
     "address": "661 CASPER RD",
     "city": "LAFAYETTE",
     "time": "06/24/2019 - 04:50 AM",
