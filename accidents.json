@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & ABRAHAM DR",
+    "city": "LAFAYETTE",
+    "time": "06/24/2019 - 12:30 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.24052,
+    "longitude": -92.03242
+  },
+  {
     "address": "BNSF RAILROAD CG & E PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "06/24/2019 - 12:01 PM",
