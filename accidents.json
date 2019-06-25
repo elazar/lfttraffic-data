@@ -1,5 +1,13 @@
 [
   {
+    "address": "3205 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "06/25/2019 - 12:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26515,
+    "longitude": -91.99301
+  },
+  {
     "address": "3600 NE EVANGELINE TW",
     "city": "CARENCRO",
     "time": "06/25/2019 - 12:48 PM",
