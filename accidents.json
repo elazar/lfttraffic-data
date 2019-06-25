@@ -1,5 +1,13 @@
 [
   {
+    "address": "800 BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "06/24/2019 - 8:34 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2154477,
+    "longitude": -92.047135
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & FREM BOUSTANY DR",
     "city": "LAFAYETTE",
     "time": "06/24/2019 - 8:24 PM",
