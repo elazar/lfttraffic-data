@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "W WILLOW ST & PATTERSON ST",
+    "city": "LAFAYETTE",
+    "time": "06/25/2019 - 02:58 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24518,
+    "longitude": -92.01841
+  }
+]
