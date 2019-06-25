@@ -1,5 +1,21 @@
 [
   {
+    "address": "201 S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "06/25/2019 - 4:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20488,
+    "longitude": -92.03504
+  },
+  {
+    "address": "SW EVANGELINE TW & E UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "06/25/2019 - 4:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20908,
+    "longitude": -92.00007
+  },
+  {
     "address": "120 E GLORIA SWITCH RD",
     "city": "LAFAYETTE",
     "time": "06/25/2019 - 4:45 PM",
