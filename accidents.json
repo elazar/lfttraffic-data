@@ -1,5 +1,13 @@
 [
   {
+    "address": "2844 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "06/24/2019 - 8:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14183,
+    "longitude": -92.03298
+  },
+  {
     "address": "600 WESTGATE RD",
     "city": "SCOTT",
     "time": "06/24/2019 - 8:37 PM",
