@@ -1,5 +1,13 @@
 [
   {
+    "address": "I10 WESTBOUND MM105 HW & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "06/25/2019 - 1:32 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27944,
+    "longitude": -91.99217
+  },
+  {
     "address": "3205 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "06/25/2019 - 12:52 PM",
