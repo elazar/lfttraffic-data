@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "E TAFT ST & E CONVENT ST",
+    "city": "LAFAYETTE",
+    "time": "06/25/2019 - 07:52 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21642,
+    "longitude": -92.01111
+  }
+]
