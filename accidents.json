@@ -1,5 +1,13 @@
 [
   {
+    "address": "611 GOLDMAN ST",
+    "city": "LAFAYETTE",
+    "time": "06/25/2019 - 5:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23561,
+    "longitude": -92.0091
+  },
+  {
     "address": "100 FOURPARK RD",
     "city": "CARENCRO",
     "time": "06/25/2019 - 5:10 PM",
