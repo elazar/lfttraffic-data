@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.28006,
     "longitude": -92.02024
-  },
-  {
-    "address": "101 I10 WESTBOUND MM101 HW",
-    "city": "LAFAYETTE",
-    "time": "06/25/2019 - 7:01 PM",
-    "due_to": "Vehicle Fire",
-    "latitude": 30.26255,
-    "longitude": -92.00867
   }
 ]
