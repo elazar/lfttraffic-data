@@ -22,13 +22,5 @@
     "due_to": "Vehicle Fire",
     "latitude": 30.26255,
     "longitude": -92.00867
-  },
-  {
-    "address": "100 VITAL ST",
-    "city": "LAFAYETTE",
-    "time": "06/25/2019 - 4:13 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.204,
-    "longitude": -92.04947
   }
 ]
