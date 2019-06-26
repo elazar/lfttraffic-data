@@ -1,5 +1,13 @@
 [
   {
+    "address": "205 MALAPART RD",
+    "city": "LAFAYETTE",
+    "time": "06/26/2019 - 1:29 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.28999,
+    "longitude": -92.05365
+  },
+  {
     "address": "2315 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "06/26/2019 - 1:11 PM",
