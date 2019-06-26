@@ -1,19 +1,11 @@
 [
   {
-    "address": "128 JAMES COMEAUX RD",
+    "address": "302 AUNDRIA DR",
     "city": "LAFAYETTE",
     "time": "06/25/2019 - 9:29 PM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.18889,
-    "longitude": -92.01068
-  },
-  {
-    "address": "AUNDRIA DR & BAMBI DR",
-    "city": "LAFAYETTE",
-    "time": "06/25/2019 - 9:29 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.18039,
-    "longitude": -92.05496
+    "due_to": "Fire Investigation",
+    "latitude": 30.18084,
+    "longitude": -92.05588
   },
   {
     "address": "BONIN RD & AMBASSADOR CAFFERY PW",
@@ -22,13 +14,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.13528,
     "longitude": -92.00763
-  },
-  {
-    "address": "103 I10 WESTBOUND MM103B HW",
-    "city": "LAFAYETTE",
-    "time": "06/25/2019 - 7:41 PM",
-    "due_to": "Vehicle Fire",
-    "latitude": 30.26255,
-    "longitude": -92.00867
   }
 ]
