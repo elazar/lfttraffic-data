@@ -1,5 +1,13 @@
 [
   {
+    "address": "SYCAMORE DR & GUILBEAU RD",
+    "city": "LAFAYETTE",
+    "time": "06/26/2019 - 08:25 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19545,
+    "longitude": -92.06266
+  },
+  {
     "address": "RUE FONTAINE & DRURY LN",
     "city": "LAFAYETTE",
     "time": "06/26/2019 - 08:20 AM",
@@ -38,13 +46,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.12191,
     "longitude": -91.99051
-  },
-  {
-    "address": "2002 NW EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "06/26/2019 - 07:25 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2506543,
-    "longitude": -92.014111
   }
 ]
