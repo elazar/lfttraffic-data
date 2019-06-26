@@ -1,5 +1,13 @@
 [
   {
+    "address": "1200 GENDARME RD",
+    "city": "LAFAYETTE",
+    "time": "06/25/2019 - 8:18 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.353372,
+    "longitude": -92.0829649
+  },
+  {
     "address": "103 I10 WESTBOUND MM103B HW",
     "city": "LAFAYETTE",
     "time": "06/25/2019 - 7:41 PM",
