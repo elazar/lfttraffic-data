@@ -1,5 +1,13 @@
 [
   {
+    "address": "1100 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "06/26/2019 - 5:44 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2433,
+    "longitude": -92.03218
+  },
+  {
     "address": "E WILLOW ST & NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "06/26/2019 - 5:25 PM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24164,
     "longitude": -92.08969
-  },
-  {
-    "address": "715 NW EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "06/26/2019 - 5:04 PM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.23456,
-    "longitude": -92.01408
   },
   {
     "address": "JOHNSTON ST & W UNIVERSITY AV",
