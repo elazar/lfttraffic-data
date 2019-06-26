@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 I10 EASTBOUND MM100 HW",
+    "city": "LAFAYETTE",
+    "time": "06/25/2019 - 7:41 PM",
+    "due_to": "Vehicle Fire",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "2 I49 SOUTHBOUND MM2 HW",
     "city": "LAFAYETTE",
     "time": "06/25/2019 - 7:09 PM",
