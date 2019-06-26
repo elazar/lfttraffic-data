@@ -8,12 +8,12 @@
     "longitude": -92.07198
   },
   {
-    "address": "I49 NORTHBOUND MM1 HW & E PONT DES MOUTON RD",
+    "address": "101 I10 WESTBOUND MM101 HW",
     "city": "LAFAYETTE",
     "time": "06/25/2019 - 7:01 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.27266,
-    "longitude": -91.99991
+    "due_to": "Vehicle Fire",
+    "latitude": 30.26255,
+    "longitude": -92.00867
   },
   {
     "address": "100 VITAL ST",
