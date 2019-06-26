@@ -1,5 +1,13 @@
 [
   {
+    "address": "2077 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "06/25/2019 - 9:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15574,
+    "longitude": -92.02421
+  },
+  {
     "address": "302 AUNDRIA DR",
     "city": "LAFAYETTE",
     "time": "06/25/2019 - 9:29 PM",
