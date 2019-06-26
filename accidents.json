@@ -1,11 +1,19 @@
 [
   {
-    "address": "AMBASSADOR CAFFERY PW & KALISTE SALOOM RD",
+    "address": "W CONGRESS ST & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
-    "time": "06/26/2019 - 2:35 PM",
+    "time": "06/26/2019 - 2:38 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.15649,
-    "longitude": -92.04838
+    "latitude": 30.19597,
+    "longitude": -92.07523
+  },
+  {
+    "address": "E UNIVERSITY AV & SW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "06/26/2019 - 2:38 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20908,
+    "longitude": -92.00007
   },
   {
     "address": "KALISTE SALOOM RD & AMBASSADOR CAFFERY PW",
