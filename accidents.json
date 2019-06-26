@@ -1,5 +1,13 @@
 [
   {
+    "address": "2 I49 SOUTHBOUND MM2 HW",
+    "city": "LAFAYETTE",
+    "time": "06/25/2019 - 7:09 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.28006,
+    "longitude": -92.02024
+  },
+  {
     "address": "142 AUGUST DR",
     "city": "LAFAYETTE",
     "time": "06/25/2019 - 7:02 PM",
