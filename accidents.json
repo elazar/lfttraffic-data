@@ -1,5 +1,13 @@
 [
   {
+    "address": "222 JET RANGER X DR",
+    "city": "LAFAYETTE",
+    "time": "06/26/2019 - 1:48 PM",
+    "due_to": "Fire",
+    "latitude": 30.2037784,
+    "longitude": -91.9953623
+  },
+  {
     "address": "JOHNSTON ST & SW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "06/26/2019 - 1:35 PM",
@@ -30,6 +38,14 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.14065,
     "longitude": -92.02448
+  },
+  {
+    "address": "2622 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/26/2019 - 12:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20785,
+    "longitude": -92.03826
   },
   {
     "address": "US 90 EAST HW & SOUTHPARK RD",
