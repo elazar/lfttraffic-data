@@ -1,5 +1,13 @@
 [
   {
+    "address": "655 MARIE ANTOINETTE ST",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 3:31 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20969,
+    "longitude": -92.06417
+  },
+  {
     "address": "5727 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 3:10 PM",
