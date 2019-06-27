@@ -22,5 +22,13 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.10187,
     "longitude": -91.94194
+  },
+  {
+    "address": "3600 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 07:47 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14068,
+    "longitude": -92.06221
   }
 ]
