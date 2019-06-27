@@ -1,5 +1,13 @@
 [
   {
+    "address": "5627 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 12:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17587,
+    "longitude": -92.07468
+  },
+  {
     "address": "113 W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 12:30 PM",
