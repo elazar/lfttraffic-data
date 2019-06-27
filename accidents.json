@@ -1,11 +1,19 @@
 [
   {
-    "address": "LOUISIANA AV & I10 HW",
+    "address": "300 S FIELDSPAN RD",
     "city": "LAFAYETTE",
-    "time": "06/27/2019 - 6:11 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.27944,
-    "longitude": -91.99217
+    "time": "06/27/2019 - 6:13 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.24285,
+    "longitude": -92.14281
+  },
+  {
+    "address": "600 D ARCENEAUX RD",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 6:13 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23986,
+    "longitude": -92.12831
   },
   {
     "address": "600 BENOIT RD",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19317,
     "longitude": -92.01633
-  },
-  {
-    "address": "307 BEVERLY DR",
-    "city": "LAFAYETTE",
-    "time": "06/27/2019 - 5:52 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.19229,
-    "longitude": -92.01952
   },
   {
     "address": "W PONT DES MOUTON RD & BOURDETTE DR",
