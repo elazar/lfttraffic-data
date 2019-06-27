@@ -1,5 +1,13 @@
 [
   {
+    "address": "D ARCENEAUX RD & ANDRES RD",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 6:26 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.24186,
+    "longitude": -92.12495
+  },
+  {
     "address": "W UNIVERSITY AV & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 6:21 PM",
