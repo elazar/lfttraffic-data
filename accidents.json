@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "NW EVANGELINE TW & E THIRD ST",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 05:12 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2295,
+    "longitude": -92.01298
+  }
+]
