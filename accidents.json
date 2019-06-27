@@ -1,5 +1,13 @@
 [
   {
+    "address": "113 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 12:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24454,
+    "longitude": -92.01508
+  },
+  {
     "address": "N ST ANTOINE ST & MADELINE AV",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 12:25 PM",
