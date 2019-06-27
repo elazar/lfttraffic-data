@@ -1,5 +1,29 @@
 [
   {
+    "address": "W PINHOOK RD & KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 07:47 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1886,
+    "longitude": -92.0141
+  },
+  {
+    "address": "3600 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 07:47 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14068,
+    "longitude": -92.06221
+  },
+  {
+    "address": "W PINHOOK RD & S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 07:47 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20101,
+    "longitude": -92.01538
+  },
+  {
     "address": "113 SUNBEAM LN",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 06:23 AM",
