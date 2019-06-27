@@ -1,5 +1,13 @@
 [
   {
+    "address": "2108 CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 1:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23259,
+    "longitude": -92.03841
+  },
+  {
     "address": "1700 S FIELDSPAN RD",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 1:21 PM",
