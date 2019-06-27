@@ -1,5 +1,13 @@
 [
   {
+    "address": "401 E SECOND ST",
+    "city": "BROUSSARD",
+    "time": "06/27/2019 - 12:01 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.14945,
+    "longitude": -91.95967
+  },
+  {
     "address": "902 ST MARY ST",
     "city": "SCOTT",
     "time": "06/27/2019 - 11:56 AM",
