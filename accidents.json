@@ -1,5 +1,13 @@
 [
   {
+    "address": "3 I49 NORTHBOUND MM3 HW",
+    "city": "CARENCRO",
+    "time": "06/27/2019 - 1:48 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.31396,
+    "longitude": -92.03118
+  },
+  {
     "address": "100 ERASTE LANDRY RD",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 1:24 PM",
@@ -22,14 +30,6 @@
     "due_to": "Hazardous Material",
     "latitude": 30.20095,
     "longitude": -92.04532
-  },
-  {
-    "address": "KALISTE SALOOM RD & E MARTIAL AV",
-    "city": "LAFAYETTE",
-    "time": "06/27/2019 - 12:42 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1648,
-    "longitude": -92.03985
   },
   {
     "address": "CAMELLIA BL & KALISTE SALOOM RD",
