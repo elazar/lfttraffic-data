@@ -8,14 +8,6 @@
     "longitude": -92.02024
   },
   {
-    "address": "200 MERCHANTS BL",
-    "city": "LAFAYETTE",
-    "time": "06/27/2019 - 4:09 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.17259,
-    "longitude": -92.00349
-  },
-  {
     "address": "1351 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 4:03 PM",
@@ -38,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20969,
     "longitude": -92.06417
-  },
-  {
-    "address": "SOUTHPARK RD & US 90 EAST HW",
-    "city": "LAFAYETTE",
-    "time": "06/27/2019 - 2:48 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.17092,
-    "longitude": -91.98031
   }
 ]
