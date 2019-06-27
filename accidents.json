@@ -1,5 +1,21 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & ROBLEY DR",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 2:47 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17117,
+    "longitude": -92.06617
+  },
+  {
+    "address": "1400 N BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 2:47 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22402,
+    "longitude": -92.0514
+  },
+  {
     "address": "SE EVANGELINE TW & SURREY ST",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 2:38 PM",
