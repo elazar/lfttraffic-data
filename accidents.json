@@ -1,5 +1,13 @@
 [
   {
+    "address": "W UNIVERSITY AV & AMELIA ST",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 4:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21793,
+    "longitude": -92.01983
+  },
+  {
     "address": "DULLES DR & RUE DU BELIER",
     "city": "SCOTT",
     "time": "06/27/2019 - 4:42 PM",
