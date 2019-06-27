@@ -1,19 +1,19 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & S MORGAN AV",
+    "city": "BROUSSARD",
+    "time": "06/27/2019 - 09:43 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.13188,
+    "longitude": -91.96517
+  },
+  {
     "address": "200 TERMINAL DR",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 09:22 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.20814,
     "longitude": -91.99326
-  },
-  {
-    "address": "ALBERTSON PW & US 90 EAST HW",
-    "city": "BROUSSARD",
-    "time": "06/27/2019 - 09:12 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.14074,
-    "longitude": -91.94576
   },
   {
     "address": "US 90 EAST HW & YOUNG ST",
