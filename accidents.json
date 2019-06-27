@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 E WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "06/26/2019 - 11:56 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24402,
+    "longitude": -92.01048
+  },
+  {
     "address": "VFW RD & COLORADO RD",
     "city": "LAFAYETTE",
     "time": "06/26/2019 - 11:10 PM",
