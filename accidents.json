@@ -8,14 +8,6 @@
     "longitude": -92.0230468
   },
   {
-    "address": "E UNIVERSITY AV & W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "06/27/2019 - 6:37 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.21056,
-    "longitude": -92.00978
-  },
-  {
     "address": "D ARCENEAUX RD & ANDRES RD",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 6:26 PM",
@@ -62,13 +54,5 @@
     "due_to": "Road Hazard",
     "latitude": 30.23986,
     "longitude": -92.12831
-  },
-  {
-    "address": "1700 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "06/27/2019 - 5:57 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19317,
-    "longitude": -92.01633
   }
 ]
