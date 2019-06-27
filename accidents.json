@@ -1,5 +1,13 @@
 [
   {
+    "address": "W UNIVERSITY AV & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 6:21 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.21729,
+    "longitude": -92.01902
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & ROBLEY DR",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 6:17 PM",
