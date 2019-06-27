@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 1:19 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23024,
+    "longitude": -92.06264
+  },
+  {
     "address": "E SIMCOE ST & E PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 1:10 PM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1648,
     "longitude": -92.03985
-  },
-  {
-    "address": "5627 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "06/27/2019 - 12:33 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17587,
-    "longitude": -92.07468
   },
   {
     "address": "N ST ANTOINE ST & MADELINE AV",
