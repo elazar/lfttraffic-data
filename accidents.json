@@ -1,11 +1,27 @@
 [
   {
+    "address": "LOUISIANA AV & HAIG ST",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 4:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23358,
+    "longitude": -92.00241
+  },
+  {
     "address": "300 GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 3:56 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.1957519,
     "longitude": -92.0633082
+  },
+  {
+    "address": "W FAIRFIELD DR & S BERNARD RD",
+    "city": "BROUSSARD",
+    "time": "06/27/2019 - 3:54 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.11653,
+    "longitude": -91.96954
   },
   {
     "address": "655 MARIE ANTOINETTE ST",
