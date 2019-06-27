@@ -8,14 +8,6 @@
     "longitude": -92.03841
   },
   {
-    "address": "AMBASSADOR CAFFERY PW & BERTRAND DR",
-    "city": "LAFAYETTE",
-    "time": "06/27/2019 - 1:19 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.23024,
-    "longitude": -92.06264
-  },
-  {
     "address": "E SIMCOE ST & E PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 1:10 PM",
@@ -38,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1648,
     "longitude": -92.03985
-  },
-  {
-    "address": "N ST ANTOINE ST & MADELINE AV",
-    "city": "LAFAYETTE",
-    "time": "06/27/2019 - 12:25 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23817,
-    "longitude": -92.02493
   },
   {
     "address": "CAMELLIA BL & KALISTE SALOOM RD",
