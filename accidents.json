@@ -1,5 +1,13 @@
 [
   {
+    "address": "E ALEXANDER ST & SUMMER HILL LN",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 09:54 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.25359,
+    "longitude": -91.98637
+  },
+  {
     "address": "200 TERMINAL DR",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 09:22 AM",
