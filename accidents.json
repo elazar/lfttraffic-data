@@ -1,5 +1,13 @@
 [
   {
+    "address": "E SIMCOE ST & E PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 1:10 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.22623,
+    "longitude": -91.99507
+  },
+  {
     "address": "NE EVANGELINE TW & E WILLOW ST",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 1:06 PM",
@@ -24,14 +32,6 @@
     "longitude": -92.03985
   },
   {
-    "address": "300 WESTMARK BL",
-    "city": "LAFAYETTE",
-    "time": "06/27/2019 - 12:41 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1845549,
-    "longitude": -92.0751405
-  },
-  {
     "address": "5627 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 12:33 PM",
@@ -46,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23817,
     "longitude": -92.02493
-  },
-  {
-    "address": "N COLLEGE RD & JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "06/27/2019 - 12:03 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20727,
-    "longitude": -92.03836
   },
   {
     "address": "CAMELLIA BL & KALISTE SALOOM RD",
