@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 12:08 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20727,
+    "longitude": -92.03836
+  },
+  {
     "address": "N COLLEGE RD & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 12:03 PM",
@@ -8,12 +16,12 @@
     "longitude": -92.03836
   },
   {
-    "address": "401 E SECOND ST",
+    "address": "403 E SECOND ST",
     "city": "BROUSSARD",
     "time": "06/27/2019 - 12:01 PM",
     "due_to": "Fire Investigation",
-    "latitude": 30.14945,
-    "longitude": -91.95967
+    "latitude": 30.14928,
+    "longitude": -91.95954
   },
   {
     "address": "902 ST MARY ST",
