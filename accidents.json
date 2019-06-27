@@ -32,14 +32,6 @@
     "longitude": -92.0633082
   },
   {
-    "address": "W FAIRFIELD DR & S BERNARD RD",
-    "city": "BROUSSARD",
-    "time": "06/27/2019 - 3:54 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.11653,
-    "longitude": -91.96954
-  },
-  {
     "address": "655 MARIE ANTOINETTE ST",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 3:31 PM",
@@ -54,13 +46,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.17092,
     "longitude": -91.98031
-  },
-  {
-    "address": "SE EVANGELINE TW & SURREY ST",
-    "city": "LAFAYETTE",
-    "time": "06/27/2019 - 2:38 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2091,
-    "longitude": -91.99986
   }
 ]
