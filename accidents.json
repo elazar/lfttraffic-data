@@ -1,5 +1,13 @@
 [
   {
+    "address": "N ST ANTOINE ST & MADELINE AV",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 12:25 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23817,
+    "longitude": -92.02493
+  },
+  {
     "address": "JOHNSTON ST & S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 12:08 PM",
