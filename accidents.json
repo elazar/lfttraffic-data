@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 GUILBEAU RD",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 3:56 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1957519,
+    "longitude": -92.0633082
+  },
+  {
     "address": "655 MARIE ANTOINETTE ST",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 3:31 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.17092,
     "longitude": -91.98031
-  },
-  {
-    "address": "1400 N BERTRAND DR",
-    "city": "LAFAYETTE",
-    "time": "06/27/2019 - 2:47 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22402,
-    "longitude": -92.0514
   },
   {
     "address": "SE EVANGELINE TW & SURREY ST",
