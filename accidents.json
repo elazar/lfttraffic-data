@@ -1,5 +1,13 @@
 [
   {
+    "address": "1700 S FIELDSPAN RD",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 1:21 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2035625,
+    "longitude": -92.1420432
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 1:19 PM",
