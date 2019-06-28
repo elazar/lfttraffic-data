@@ -1,5 +1,13 @@
 [
   {
+    "address": "615 LA 93 HW",
+    "city": "SCOTT",
+    "time": "06/28/2019 - 6:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2609,
+    "longitude": -92.1087
+  },
+  {
     "address": "1100 S RICHFIELD RD",
     "city": "DUSON",
     "time": "06/28/2019 - 6:15 PM",
