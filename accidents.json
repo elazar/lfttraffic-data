@@ -1,5 +1,13 @@
 [
   {
+    "address": "101 S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "06/28/2019 - 6:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20718,
+    "longitude": -92.03768
+  },
+  {
     "address": "615 LA 93 HW",
     "city": "SCOTT",
     "time": "06/28/2019 - 6:18 PM",
