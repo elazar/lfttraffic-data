@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 ESSEX ST",
+    "city": "LAFAYETTE",
+    "time": "06/28/2019 - 11:43 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.195784,
+    "longitude": -92.0587733
+  },
+  {
     "address": "JOHNSTON ST & GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "06/28/2019 - 11:19 AM",
