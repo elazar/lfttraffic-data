@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "MARIE ANTOINETTE ST & DULLES DR",
+    "city": "LAFAYETTE",
+    "time": "06/28/2019 - 05:27 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.21364,
+    "longitude": -92.06429
+  }
+]
