@@ -1,5 +1,13 @@
 [
   {
+    "address": "407 PINE VALLEY DR",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 7:41 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.14167,
+    "longitude": -92.00157
+  },
+  {
     "address": "300 RUE DES ETOILES",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 7:37 PM",
@@ -62,14 +70,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.21912,
     "longitude": -92.07587
-  },
-  {
-    "address": "D ARCENEAUX RD & ANDRES RD",
-    "city": "LAFAYETTE",
-    "time": "06/27/2019 - 6:26 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.24186,
-    "longitude": -92.12495
   },
   {
     "address": "AMBASSADOR CAFFERY PW & ROBLEY DR",
