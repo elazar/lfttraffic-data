@@ -1,5 +1,13 @@
 [
   {
+    "address": "201 MEADOW FARM RD",
+    "city": "LAFAYETTE",
+    "time": "06/28/2019 - 12:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1561931,
+    "longitude": -92.0443186
+  },
+  {
     "address": "1734 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "06/28/2019 - 12:05 PM",
@@ -30,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19375,
     "longitude": -92.0586
-  },
-  {
-    "address": "413 OLE COLONY RD",
-    "city": "SCOTT",
-    "time": "06/28/2019 - 10:52 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21456,
-    "longitude": -92.08235
   }
 ]
