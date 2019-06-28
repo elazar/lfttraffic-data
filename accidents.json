@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 9:06 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24052,
+    "longitude": -92.03242
+  },
+  {
     "address": "209 MACKLYN ST",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 8:53 PM",
