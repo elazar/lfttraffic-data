@@ -24,28 +24,12 @@
     "longitude": -92.01598
   },
   {
-    "address": "206 OLIVE VISTA DR",
-    "city": "SCOTT",
-    "time": "06/28/2019 - 6:37 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.22751,
-    "longitude": -92.08921
-  },
-  {
     "address": "100 BELLE FONTAINE DR",
     "city": "LAFAYETTE",
     "time": "06/28/2019 - 6:34 PM",
     "due_to": "Commercial Fire",
     "latitude": 30.18963,
     "longitude": -92.06735
-  },
-  {
-    "address": "4620 W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "06/28/2019 - 6:28 PM",
-    "due_to": "Commercial Fire",
-    "latitude": 30.19602,
-    "longitude": -92.08477
   },
   {
     "address": "S RICHFIELD RD & HANKS RD",
