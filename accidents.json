@@ -1,11 +1,27 @@
 [
   {
+    "address": "S RICHFIELD RD & HANKS RD",
+    "city": "DUSON",
+    "time": "06/28/2019 - 6:20 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.22665,
+    "longitude": -92.17601
+  },
+  {
     "address": "101 S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "06/28/2019 - 6:19 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.20718,
     "longitude": -92.03768
+  },
+  {
+    "address": "AMBASSADOR CAFFERY PW & SETTLERS TRACE BL",
+    "city": "LAFAYETTE",
+    "time": "06/28/2019 - 6:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15969,
+    "longitude": -92.05229
   },
   {
     "address": "615 LA 93 HW",
