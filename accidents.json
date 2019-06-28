@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 TEE MA RD",
+    "city": "CARENCRO",
+    "time": "06/27/2019 - 9:35 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.31558,
+    "longitude": -92.04201
+  },
+  {
     "address": "2200 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 9:24 PM",
