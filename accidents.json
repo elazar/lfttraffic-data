@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 RUE DES ETOILES",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 7:37 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.3347461,
+    "longitude": -92.0337001
+  },
+  {
     "address": "SE EVANGELINE TW & E KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 7:28 PM",
