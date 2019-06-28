@@ -1,5 +1,13 @@
 [
   {
+    "address": "1100 S RICHFIELD RD",
+    "city": "DUSON",
+    "time": "06/28/2019 - 1:39 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2264099,
+    "longitude": -92.1761552
+  },
+  {
     "address": "100 I10 WB ENTRANCE RAMP HW",
     "city": "LAFAYETTE",
     "time": "06/28/2019 - 1:38 PM",
@@ -78,14 +86,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15936,
     "longitude": -92.0455
-  },
-  {
-    "address": "3205 LOUISIANA AV",
-    "city": "LAFAYETTE",
-    "time": "06/28/2019 - 12:40 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.26515,
-    "longitude": -91.99301
   },
   {
     "address": "AMBASSADOR CAFFERY PW & WESTMARK BL",
