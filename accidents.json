@@ -1,21 +1,5 @@
 [
   {
-    "address": "600 TEE MA RD",
-    "city": "CARENCRO",
-    "time": "06/27/2019 - 9:35 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.31558,
-    "longitude": -92.04201
-  },
-  {
-    "address": "N UNIVERSITY AV & I10 HW",
-    "city": "LAFAYETTE",
-    "time": "06/27/2019 - 9:06 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24052,
-    "longitude": -92.03242
-  },
-  {
     "address": "300 RUE DES ETOILES",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 7:37 PM",
