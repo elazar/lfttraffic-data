@@ -1,5 +1,21 @@
 [
   {
+    "address": "215 REPUBLIC AV",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 7:22 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.15709,
+    "longitude": -92.03808
+  },
+  {
+    "address": "E BROUSSARD RD & E MILTON AV",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 7:22 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.1087,
+    "longitude": -92.05963
+  },
+  {
     "address": "2280 E MAIN ST",
     "city": "BROUSSARD",
     "time": "06/27/2019 - 7:15 PM",
