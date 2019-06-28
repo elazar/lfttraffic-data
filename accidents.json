@@ -1,5 +1,13 @@
 [
   {
+    "address": "MADELINE AV & N ST ANTOINE ST",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 7:47 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.23817,
+    "longitude": -92.02493
+  },
+  {
     "address": "407 PINE VALLEY DR",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 7:41 PM",
