@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 GENDARME RD",
+    "city": "LAFAYETTE",
+    "time": "06/28/2019 - 6:10 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.35978,
+    "longitude": -92.05518
+  },
+  {
     "address": "249 RUE BON SECOURS",
     "city": "SCOTT",
     "time": "06/28/2019 - 5:58 PM",
