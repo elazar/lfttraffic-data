@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & ERASTE LANDRY RD",
+    "city": "LAFAYETTE",
+    "time": "06/28/2019 - 3:29 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21912,
+    "longitude": -92.07587
+  },
+  {
     "address": "105 I10 WB EXIT RAMP HW",
     "city": "LAFAYETTE",
     "time": "06/28/2019 - 3:17 PM",
@@ -14,14 +22,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.1406051,
     "longitude": -91.9448999
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & S MORGAN AV",
-    "city": "BROUSSARD",
-    "time": "06/28/2019 - 2:36 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.13188,
-    "longitude": -91.96517
   },
   {
     "address": "258 MARTIN LUTHER KING JR DR",
