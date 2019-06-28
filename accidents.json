@@ -38,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21456,
     "longitude": -92.08235
-  },
-  {
-    "address": "100 ESSEX ST",
-    "city": "LAFAYETTE",
-    "time": "06/28/2019 - 10:41 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.1947093,
-    "longitude": -92.0591554
   }
 ]
