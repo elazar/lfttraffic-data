@@ -1,5 +1,21 @@
 [
   {
+    "address": "200 W FAIRFIELD DR",
+    "city": "BROUSSARD",
+    "time": "06/28/2019 - 03:28 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.11706,
+    "longitude": -91.97116
+  },
+  {
+    "address": "100 BURGESS DR",
+    "city": "BROUSSARD",
+    "time": "06/28/2019 - 03:28 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.15474,
+    "longitude": -91.95942
+  },
+  {
     "address": "632 E VERMILION ST",
     "city": "LAFAYETTE",
     "time": "06/28/2019 - 02:29 AM",
