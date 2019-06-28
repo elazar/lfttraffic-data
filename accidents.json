@@ -1,5 +1,13 @@
 [
   {
+    "address": "632 E VERMILION ST",
+    "city": "LAFAYETTE",
+    "time": "06/28/2019 - 02:29 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22116,
+    "longitude": -92.01292
+  },
+  {
     "address": "4600 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 10:21 PM",
