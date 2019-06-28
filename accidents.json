@@ -1,5 +1,13 @@
 [
   {
+    "address": "BNSF RAILROAD CG & APOLLO RD",
+    "city": "SCOTT",
+    "time": "06/28/2019 - 08:57 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.24017,
+    "longitude": -92.10744
+  },
+  {
     "address": "W UNIVERSITY AV & W SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "06/28/2019 - 08:44 AM",
