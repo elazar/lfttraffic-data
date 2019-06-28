@@ -1,5 +1,13 @@
 [
   {
+    "address": "1800 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "06/28/2019 - 03:37 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25424,
+    "longitude": -92.03722
+  },
+  {
     "address": "200 W FAIRFIELD DR",
     "city": "BROUSSARD",
     "time": "06/28/2019 - 03:28 AM",
