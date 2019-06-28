@@ -1,5 +1,21 @@
 [
   {
+    "address": "3310 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/28/2019 - 4:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18117,
+    "longitude": -92.07512
+  },
+  {
+    "address": "W PINHOOK RD & GENERAL MOUTON AV",
+    "city": "LAFAYETTE",
+    "time": "06/28/2019 - 4:20 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.21246,
+    "longitude": -92.00861
+  },
+  {
     "address": "1500 SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "06/28/2019 - 4:04 PM",
