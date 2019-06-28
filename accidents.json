@@ -1,5 +1,13 @@
 [
   {
+    "address": "201 SETTLERS TRACE BL",
+    "city": "LAFAYETTE",
+    "time": "06/28/2019 - 06:59 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.16995,
+    "longitude": -92.03679
+  },
+  {
     "address": "ST JOHN ST & W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "06/28/2019 - 06:04 AM",
