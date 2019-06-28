@@ -1,5 +1,13 @@
 [
   {
+    "address": "1806 ST MARY ST",
+    "city": "SCOTT",
+    "time": "06/27/2019 - 8:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24363,
+    "longitude": -92.10582
+  },
+  {
     "address": "1904 ST MARY ST",
     "city": "SCOTT",
     "time": "06/27/2019 - 8:12 PM",
@@ -62,14 +70,6 @@
     "due_to": "Wire Hazard",
     "latitude": 30.3353105,
     "longitude": -92.0379641
-  },
-  {
-    "address": "407 PINE VALLEY DR",
-    "city": "LAFAYETTE",
-    "time": "06/27/2019 - 7:41 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.14167,
-    "longitude": -92.00157
   },
   {
     "address": "300 RUE DES ETOILES",
