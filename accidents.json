@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 FELICIE ST",
+    "city": "LAFAYETTE",
+    "time": "06/28/2019 - 08:41 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.20094,
+    "longitude": -92.05578
+  },
+  {
     "address": "3253 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/28/2019 - 08:22 AM",
