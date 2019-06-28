@@ -48,28 +48,12 @@
     "longitude": -92.08477
   },
   {
-    "address": "W WILLOW ST & N ST ANTOINE ST",
-    "city": "LAFAYETTE",
-    "time": "06/28/2019 - 6:27 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.24558,
-    "longitude": -92.02342
-  },
-  {
     "address": "S RICHFIELD RD & HANKS RD",
     "city": "DUSON",
     "time": "06/28/2019 - 6:20 PM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.22665,
     "longitude": -92.17601
-  },
-  {
-    "address": "101 S COLLEGE RD",
-    "city": "LAFAYETTE",
-    "time": "06/28/2019 - 6:19 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20718,
-    "longitude": -92.03768
   },
   {
     "address": "AMBASSADOR CAFFERY PW & SETTLERS TRACE BL",
