@@ -1,5 +1,13 @@
 [
   {
+    "address": "1100 S RICHFIELD RD",
+    "city": "DUSON",
+    "time": "06/28/2019 - 6:15 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2264099,
+    "longitude": -92.1761552
+  },
+  {
     "address": "107 GLENLEVEN DR",
     "city": "LAFAYETTE",
     "time": "06/28/2019 - 6:13 PM",
