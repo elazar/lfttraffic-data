@@ -1,17 +1,17 @@
 [
   {
-    "address": "152 S BEADLE RD (W)",
+    "address": "KALISTE SALOOM RD & W PINHOOK RD",
     "city": "LAFAYETTE",
-    "time": "06/28/2019 - 6:35 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.17697,
-    "longitude": -92.01988
+    "time": "06/28/2019 - 6:36 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.1886,
+    "longitude": -92.0141
   },
   {
     "address": "100 BELLE FONTAINE DR",
     "city": "LAFAYETTE",
     "time": "06/28/2019 - 6:34 PM",
-    "due_to": "Incoming Call",
+    "due_to": "Commercial Fire",
     "latitude": 30.18963,
     "longitude": -92.06735
   },
@@ -70,14 +70,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.2264099,
     "longitude": -92.1761552
-  },
-  {
-    "address": "107 GLENLEVEN DR",
-    "city": "LAFAYETTE",
-    "time": "06/28/2019 - 6:13 PM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.16408,
-    "longitude": -92.06403
   },
   {
     "address": "200 GENDARME RD",
