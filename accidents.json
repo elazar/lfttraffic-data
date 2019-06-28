@@ -1,5 +1,21 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 8:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23024,
+    "longitude": -92.06264
+  },
+  {
+    "address": "222 JET RANGER X DR",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 8:45 PM",
+    "due_to": "Fire",
+    "latitude": 30.2037784,
+    "longitude": -91.9953623
+  },
+  {
     "address": "332 E GLORIA SWITCH RD",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 8:25 PM",
