@@ -1,5 +1,13 @@
 [
   {
+    "address": "303 MARTIN LUTHER KING JR DR",
+    "city": "LAFAYETTE",
+    "time": "06/28/2019 - 2:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2502,
+    "longitude": -92.02873
+  },
+  {
     "address": "3 I49 SOUTHBOUND MM3 HW",
     "city": "CARENCRO",
     "time": "06/28/2019 - 2:04 PM",
