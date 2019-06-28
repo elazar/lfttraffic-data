@@ -8,12 +8,12 @@
     "longitude": -92.01516
   },
   {
-    "address": "WALKER RD & PECAN GROVE RD",
+    "address": "2300 WALKER RD",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 8:16 PM",
     "due_to": "Road Hazard",
-    "latitude": 30.23565,
-    "longitude": -92.072
+    "latitude": 30.2358249,
+    "longitude": -92.0655544
   },
   {
     "address": "300 THELMA DR",
@@ -22,14 +22,6 @@
     "due_to": "Grass Fire",
     "latitude": 30.23008,
     "longitude": -92.05139
-  },
-  {
-    "address": "1904 ST MARY ST",
-    "city": "SCOTT",
-    "time": "06/27/2019 - 8:12 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.244338,
-    "longitude": -92.1068496
   },
   {
     "address": "203 AMBASSADOR CAFFERY PW",
