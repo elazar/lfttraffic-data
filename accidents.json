@@ -1,5 +1,13 @@
 [
   {
+    "address": "BERTRAND DR & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/28/2019 - 1:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20581,
+    "longitude": -92.04078
+  },
+  {
     "address": "809 VETERANS DR",
     "city": "CARENCRO",
     "time": "06/28/2019 - 1:25 PM",
