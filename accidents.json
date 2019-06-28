@@ -1,5 +1,21 @@
 [
   {
+    "address": "11 HEATHER RW",
+    "city": "LAFAYETTE",
+    "time": "06/28/2019 - 6:37 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.27987,
+    "longitude": -92.01598
+  },
+  {
+    "address": "206 OLIVE VISTA DR",
+    "city": "SCOTT",
+    "time": "06/28/2019 - 6:37 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.22751,
+    "longitude": -92.08921
+  },
+  {
     "address": "KALISTE SALOOM RD & W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "06/28/2019 - 6:36 PM",
