@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & BENDEL RD",
+    "city": "LAFAYETTE",
+    "time": "06/28/2019 - 10:56 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19911,
+    "longitude": -92.01641
+  },
+  {
     "address": "413 OLE COLONY RD",
     "city": "SCOTT",
     "time": "06/28/2019 - 10:52 AM",
@@ -14,14 +22,6 @@
     "due_to": "Wire Hazard",
     "latitude": 30.1947093,
     "longitude": -92.0591554
-  },
-  {
-    "address": "5550 CAMERON ST",
-    "city": "SCOTT",
-    "time": "06/28/2019 - 10:39 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23422,
-    "longitude": -92.08849
   },
   {
     "address": "200 RUE DU BELIER",
