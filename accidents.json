@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOSEPH ST & THELMA DR",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 8:15 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.23007,
+    "longitude": -92.05045
+  },
+  {
     "address": "1806 ST MARY ST",
     "city": "SCOTT",
     "time": "06/27/2019 - 8:14 PM",
@@ -62,14 +70,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.22781,
     "longitude": -92.04687
-  },
-  {
-    "address": "100 RUE DES ETOILES",
-    "city": "LAFAYETTE",
-    "time": "06/27/2019 - 7:48 PM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.3353105,
-    "longitude": -92.0379641
   },
   {
     "address": "300 RUE DES ETOILES",
