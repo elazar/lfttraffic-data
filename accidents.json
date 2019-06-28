@@ -1,11 +1,19 @@
 [
   {
-    "address": "NW EVANGELINE TW & W GLORIA SWITCH RD",
+    "address": "CAJUNDOME BL & ERASTE LANDRY RD",
     "city": "LAFAYETTE",
-    "time": "06/27/2019 - 7:51 PM",
+    "time": "06/27/2019 - 7:53 PM",
     "due_to": "Stalled Vehicle",
-    "latitude": 30.29564,
-    "longitude": -92.02676
+    "latitude": 30.22781,
+    "longitude": -92.04687
+  },
+  {
+    "address": "E KALISTE SALOOM RD & SW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 7:53 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.20067,
+    "longitude": -91.99958
   },
   {
     "address": "100 RUE DES ETOILES",
@@ -38,14 +46,6 @@
     "due_to": "Fire Alarm-Commercial",
     "latitude": 30.15709,
     "longitude": -92.03808
-  },
-  {
-    "address": "E BROUSSARD RD & E MILTON AV",
-    "city": "LAFAYETTE",
-    "time": "06/27/2019 - 7:22 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.1087,
-    "longitude": -92.05963
   },
   {
     "address": "2280 E MAIN ST",
