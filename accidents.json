@@ -1,5 +1,13 @@
 [
   {
+    "address": "CHEMIN METAIRIE PW & PALFREY PW",
+    "city": "YOUNGSVILLE",
+    "time": "06/27/2019 - 7:07 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.10465,
+    "longitude": -92.01563
+  },
+  {
     "address": "1335 LA 93 HW",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 7:06 PM",
@@ -27,7 +35,7 @@
     "address": "AMBASSADOR CAFFERY PW & ERASTE LANDRY RD",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 7:02 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.21912,
     "longitude": -92.07587
   },
