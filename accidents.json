@@ -1,5 +1,13 @@
 [
   {
+    "address": "2511 MILLS ST",
+    "city": "LAFAYETTE",
+    "time": "06/28/2019 - 08:13 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.28508,
+    "longitude": -92.09186
+  },
+  {
     "address": "BROADMOOR BL & CHRISTINE DR",
     "city": "LAFAYETTE",
     "time": "06/28/2019 - 07:56 AM",
