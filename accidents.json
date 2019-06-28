@@ -1,5 +1,13 @@
 [
   {
+    "address": "W WILLOW ST & N ST ANTOINE ST",
+    "city": "LAFAYETTE",
+    "time": "06/28/2019 - 6:27 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.24558,
+    "longitude": -92.02342
+  },
+  {
     "address": "S RICHFIELD RD & HANKS RD",
     "city": "DUSON",
     "time": "06/28/2019 - 6:20 PM",
