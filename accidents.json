@@ -1,19 +1,19 @@
 [
   {
+    "address": "550 ERASTE LANDRY RD",
+    "city": "LAFAYETTE",
+    "time": "06/28/2019 - 1:34 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22736,
+    "longitude": -92.04926
+  },
+  {
     "address": "BERTRAND DR & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/28/2019 - 1:28 PM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.20581,
     "longitude": -92.04078
-  },
-  {
-    "address": "809 VETERANS DR",
-    "city": "CARENCRO",
-    "time": "06/28/2019 - 1:25 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.32219,
-    "longitude": -92.03896
   },
   {
     "address": "509 LAFAYETTE ST",
