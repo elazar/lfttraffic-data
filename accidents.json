@@ -1,5 +1,21 @@
 [
   {
+    "address": "CAMELLIA BL & KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "06/28/2019 - 6:54 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.16717,
+    "longitude": -92.03642
+  },
+  {
+    "address": "E UNIVERSITY AV & GORDON ST",
+    "city": "LAFAYETTE",
+    "time": "06/28/2019 - 6:54 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21625,
+    "longitude": -92.0176
+  },
+  {
     "address": "7400 CAMERON ST",
     "city": "LAFAYETTE",
     "time": "06/28/2019 - 6:51 PM",
