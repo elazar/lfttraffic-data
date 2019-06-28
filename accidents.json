@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & W LEWIS ST",
+    "city": "LAFAYETTE",
+    "time": "06/28/2019 - 6:55 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.21228,
+    "longitude": -92.02543
+  },
+  {
     "address": "CAMELLIA BL & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "06/28/2019 - 6:54 PM",
