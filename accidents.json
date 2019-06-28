@@ -1,5 +1,13 @@
 [
   {
+    "address": "413 OLE COLONY RD",
+    "city": "SCOTT",
+    "time": "06/28/2019 - 10:52 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21456,
+    "longitude": -92.08235
+  },
+  {
     "address": "100 ESSEX ST",
     "city": "LAFAYETTE",
     "time": "06/28/2019 - 10:41 AM",
