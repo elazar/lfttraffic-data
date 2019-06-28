@@ -1,5 +1,13 @@
 [
   {
+    "address": "MOSS ST & E PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "06/28/2019 - 6:50 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.27304,
+    "longitude": -92.00812
+  },
+  {
     "address": "108 MIRAMAR BL",
     "city": "LAFAYETTE",
     "time": "06/28/2019 - 6:48 PM",
@@ -22,14 +30,6 @@
     "due_to": "Residential Fire",
     "latitude": 30.12452,
     "longitude": -92.04212
-  },
-  {
-    "address": "11 HEATHER RW",
-    "city": "LAFAYETTE",
-    "time": "06/28/2019 - 6:37 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.27987,
-    "longitude": -92.01598
   },
   {
     "address": "100 BELLE FONTAINE DR",
