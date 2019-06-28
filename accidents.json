@@ -1,19 +1,19 @@
 [
   {
+    "address": "300 THOROUGHBRED DR",
+    "city": "CARENCRO",
+    "time": "06/27/2019 - 8:52 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.3056853,
+    "longitude": -92.0219385
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 8:45 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.23024,
     "longitude": -92.06264
-  },
-  {
-    "address": "222 JET RANGER X DR",
-    "city": "LAFAYETTE",
-    "time": "06/27/2019 - 8:45 PM",
-    "due_to": "Fire",
-    "latitude": 30.2037784,
-    "longitude": -91.9953623
   },
   {
     "address": "332 E GLORIA SWITCH RD",
