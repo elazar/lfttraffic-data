@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & ERASTE LANDRY RD",
+    "city": "LAFAYETTE",
+    "time": "06/27/2019 - 7:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21912,
+    "longitude": -92.07587
+  },
+  {
     "address": "SW EVANGELINE TW & E KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "06/27/2019 - 7:00 PM",
@@ -22,14 +30,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.24186,
     "longitude": -92.12495
-  },
-  {
-    "address": "W UNIVERSITY AV & JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "06/27/2019 - 6:21 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.21729,
-    "longitude": -92.01902
   },
   {
     "address": "AMBASSADOR CAFFERY PW & ROBLEY DR",
