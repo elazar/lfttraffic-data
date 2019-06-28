@@ -1,13 +1,5 @@
 [
   {
-    "address": "KALISTE SALOOM RD & RUE LOUIS XIV",
-    "city": "LAFAYETTE",
-    "time": "06/28/2019 - 12:02 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.17285,
-    "longitude": -92.02989
-  },
-  {
     "address": "AMBASSADOR CAFFERY PW & WESTMARK BL",
     "city": "LAFAYETTE",
     "time": "06/28/2019 - 12:01 PM",
@@ -31,13 +23,14 @@
     "latitude": 30.1947093,
     "longitude": -92.0591554
   },
+  null,
   {
-    "address": "JOHNSTON ST & GUILBEAU RD",
+    "address": "FORTUNE RD & JOGG RD",
     "city": "LAFAYETTE",
-    "time": "06/28/2019 - 11:19 AM",
+    "time": "06/28/2019 - 11:01 AM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.19375,
-    "longitude": -92.0586
+    "latitude": 30.12378,
+    "longitude": -92.01385
   },
   {
     "address": "100 BENDEL RD",
