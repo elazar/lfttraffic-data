@@ -1,5 +1,13 @@
 [
   {
+    "address": "1400 BONIN RD",
+    "city": "LAFAYETTE",
+    "time": "06/29/2019 - 4:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1387993,
+    "longitude": -92.0078356
+  },
+  {
     "address": "600 MUDD AV",
     "city": "LAFAYETTE",
     "time": "06/29/2019 - 3:54 PM",
