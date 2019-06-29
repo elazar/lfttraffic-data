@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 MEADOW GATE DR",
+    "city": "LAFAYETTE",
+    "time": "06/28/2019 - 7:17 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.1163404,
+    "longitude": -92.0496651
+  },
+  {
     "address": "E BROUSSARD RD & EVERGLADES DR",
     "city": "LAFAYETTE",
     "time": "06/28/2019 - 7:13 PM",
@@ -38,14 +46,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.3005821,
     "longitude": -92.0081832
-  },
-  {
-    "address": "3400 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/28/2019 - 7:01 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.1794591,
-    "longitude": -92.0751249
   },
   {
     "address": "E KALISTE SALOOM RD & SW EVANGELINE TW",
