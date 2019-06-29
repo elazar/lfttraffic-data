@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 EMERY LN",
+    "city": "LAFAYETTE",
+    "time": "06/29/2019 - 07:56 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.3575159,
+    "longitude": -92.0234023
+  },
+  {
     "address": "268 SOULANGES RD",
     "city": "LAFAYETTE",
     "time": "06/29/2019 - 07:28 AM",
