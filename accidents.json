@@ -1,5 +1,13 @@
 [
   {
+    "address": "136 HARRISON DR",
+    "city": "LAFAYETTE",
+    "time": "06/28/2019 - 7:32 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26916,
+    "longitude": -92.01233
+  },
+  {
     "address": "200 MEADOW GATE DR",
     "city": "LAFAYETTE",
     "time": "06/28/2019 - 7:17 PM",
