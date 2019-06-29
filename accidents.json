@@ -1,11 +1,11 @@
 [
   {
-    "address": "1400 BONIN RD",
+    "address": "600 BONIN RD",
     "city": "LAFAYETTE",
     "time": "06/29/2019 - 4:10 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1387993,
-    "longitude": -92.0078356
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1561046,
+    "longitude": -92.002799
   },
   {
     "address": "600 MUDD AV",
@@ -14,14 +14,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.2326535,
     "longitude": -92.0113851
-  },
-  {
-    "address": "E FAIRFIELD DR & MARTEAU RD",
-    "city": "BROUSSARD",
-    "time": "06/29/2019 - 3:20 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.11646,
-    "longitude": -91.95665
   },
   {
     "address": "GUILBEAU RD & W CONGRESS ST",
