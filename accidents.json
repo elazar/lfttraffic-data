@@ -1,5 +1,21 @@
 [
   {
+    "address": "11 HEATHERSTONE DR",
+    "city": "LAFAYETTE",
+    "time": "06/28/2019 - 7:12 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.17826,
+    "longitude": -92.02304
+  },
+  {
+    "address": "1100 LEBESQUE RD",
+    "city": "SCOTT",
+    "time": "06/28/2019 - 7:12 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27579,
+    "longitude": -92.0811812
+  },
+  {
     "address": "3721 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/28/2019 - 7:10 PM",
@@ -54,14 +70,6 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.27304,
     "longitude": -92.00812
-  },
-  {
-    "address": "108 MIRAMAR BL",
-    "city": "LAFAYETTE",
-    "time": "06/28/2019 - 6:48 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.10964,
-    "longitude": -92.05053
   },
   {
     "address": "1819 DUHON RD",
