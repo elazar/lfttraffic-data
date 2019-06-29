@@ -1,5 +1,13 @@
 [
   {
+    "address": "E PONT DES MOUTON RD & I49 NORTHBOUND MM1 HW",
+    "city": "LAFAYETTE",
+    "time": "06/29/2019 - 12:34 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.27266,
+    "longitude": -91.99991
+  },
+  {
     "address": "101 E WILLOW ST",
     "city": "LAFAYETTE",
     "time": "06/29/2019 - 12:16 PM",
