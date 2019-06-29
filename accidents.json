@@ -1,5 +1,13 @@
 [
   {
+    "address": "911 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/28/2019 - 9:46 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2316533,
+    "longitude": -92.0623451
+  },
+  {
     "address": "2302 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/28/2019 - 9:45 PM",
@@ -30,14 +38,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.18819,
     "longitude": -92.05547
-  },
-  {
-    "address": "NW EVANGELINE TW & E SECOND ST",
-    "city": "LAFAYETTE",
-    "time": "06/28/2019 - 8:01 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23033,
-    "longitude": -92.01343
   },
   {
     "address": "268 SOULANGES RD",
