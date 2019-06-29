@@ -1,11 +1,11 @@
 [
   {
-    "address": "ORIELY'S",
-    "city": "Lafayette",
+    "address": "2027 MOSS ST",
+    "city": "LAFAYETTE",
     "time": "06/28/2019 - 10:14 PM",
     "due_to": "Vehicle Accident",
-    "latitude": null,
-    "longitude": null
+    "latitude": 30.25193,
+    "longitude": -92.00599
   },
   {
     "address": "911 AMBASSADOR CAFFERY PW",
