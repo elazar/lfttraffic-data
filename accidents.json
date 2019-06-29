@@ -1,5 +1,13 @@
 [
   {
+    "address": "4 I49 SOUTHBOUND MM4 HW",
+    "city": "LAFAYETTE",
+    "time": "06/28/2019 - 11:40 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.28006,
+    "longitude": -92.02024
+  },
+  {
     "address": "0 FIRE DEPARTMENT",
     "city": "LAFAYETTE",
     "time": "06/28/2019 - 11:39 PM",
