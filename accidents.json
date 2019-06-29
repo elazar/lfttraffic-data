@@ -1,27 +1,11 @@
 [
   {
-    "address": "100 REGIS ST",
-    "city": "LAFAYETTE",
-    "time": "06/29/2019 - 09:02 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.26117,
-    "longitude": -92.0029351
-  },
-  {
     "address": "KALISTE SALOOM RD & W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "06/29/2019 - 08:28 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.1886,
     "longitude": -92.0141
-  },
-  {
-    "address": "100 EMERY LN",
-    "city": "LAFAYETTE",
-    "time": "06/29/2019 - 07:56 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.3575159,
-    "longitude": -92.0234023
   },
   {
     "address": "268 SOULANGES RD",
