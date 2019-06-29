@@ -1,5 +1,13 @@
 [
   {
+    "address": "W TAFT ST & TULANE AV",
+    "city": "LAFAYETTE",
+    "time": "06/29/2019 - 6:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.212,
+    "longitude": -92.01414
+  },
+  {
     "address": "W CONGRESS ST & BROOKSIDE DR",
     "city": "LAFAYETTE",
     "time": "06/29/2019 - 6:36 PM",
