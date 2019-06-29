@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 W MAIN ST",
+    "city": "BROUSSARD",
+    "time": "06/29/2019 - 4:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14879,
+    "longitude": -91.96501
+  },
+  {
     "address": "600 MUDD AV",
     "city": "LAFAYETTE",
     "time": "06/29/2019 - 3:54 PM",
