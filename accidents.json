@@ -1,5 +1,13 @@
 [
   {
+    "address": "KALISTE SALOOM RD & CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "06/29/2019 - 10:24 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.16717,
+    "longitude": -92.03642
+  },
+  {
     "address": "3 I49 NORTHBOUND MM3 HW",
     "city": "CARENCRO",
     "time": "06/29/2019 - 10:18 AM",
