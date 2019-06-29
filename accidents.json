@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1 I49 NORTHBOUND MM1 HW",
+    "city": "LAFAYETTE",
+    "time": "06/29/2019 - 07:07 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.28006,
+    "longitude": -92.02024
+  }
+]
