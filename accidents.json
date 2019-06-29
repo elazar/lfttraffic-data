@@ -1,19 +1,19 @@
 [
   {
+    "address": "FEU FOLLET RD & KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "06/28/2019 - 7:34 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.18343,
+    "longitude": -92.01668
+  },
+  {
     "address": "136 HARRISON DR",
     "city": "LAFAYETTE",
     "time": "06/28/2019 - 7:32 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.26916,
     "longitude": -92.01233
-  },
-  {
-    "address": "200 MEADOW GATE DR",
-    "city": "LAFAYETTE",
-    "time": "06/28/2019 - 7:17 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.1163404,
-    "longitude": -92.0496651
   },
   {
     "address": "1100 LEBESQUE RD",
@@ -86,13 +86,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15969,
     "longitude": -92.05229
-  },
-  {
-    "address": "200 GENDARME RD",
-    "city": "LAFAYETTE",
-    "time": "06/28/2019 - 6:10 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.35978,
-    "longitude": -92.05518
   }
 ]
