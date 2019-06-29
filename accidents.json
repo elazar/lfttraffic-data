@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2445525,
     "longitude": -92.0104115
-  },
-  {
-    "address": "1100 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/29/2019 - 11:30 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2271423,
-    "longitude": -92.0655654
   }
 ]
