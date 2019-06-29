@@ -1,5 +1,13 @@
 [
   {
+    "address": "E FAIRFIELD DR & MARTEAU RD",
+    "city": "BROUSSARD",
+    "time": "06/29/2019 - 3:20 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.11646,
+    "longitude": -91.95665
+  },
+  {
     "address": "E PINHOOK RD & CLIFFORD RD",
     "city": "LAFAYETTE",
     "time": "06/29/2019 - 3:19 PM",
