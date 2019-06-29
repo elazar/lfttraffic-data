@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & N MORGAN AV",
+    "city": "BROUSSARD",
+    "time": "06/29/2019 - 5:10 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.15291,
+    "longitude": -91.95943
+  },
+  {
     "address": "655 MARIE ANTOINETTE ST",
     "city": "LAFAYETTE",
     "time": "06/29/2019 - 4:39 PM",
