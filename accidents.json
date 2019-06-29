@@ -1,5 +1,13 @@
 [
   {
+    "address": "DULLES DR & CANYONRIDGE DR",
+    "city": "SCOTT",
+    "time": "06/28/2019 - 10:25 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2106,
+    "longitude": -92.09791
+  },
+  {
     "address": "2027 MOSS ST",
     "city": "LAFAYETTE",
     "time": "06/28/2019 - 10:14 PM",
