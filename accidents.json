@@ -8,14 +8,6 @@
     "longitude": -92.0496651
   },
   {
-    "address": "E BROUSSARD RD & EVERGLADES DR",
-    "city": "LAFAYETTE",
-    "time": "06/28/2019 - 7:13 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.12169,
-    "longitude": -92.05827
-  },
-  {
     "address": "11 HEATHERSTONE DR",
     "city": "LAFAYETTE",
     "time": "06/28/2019 - 7:12 PM",
@@ -96,28 +88,12 @@
     "longitude": -92.06735
   },
   {
-    "address": "S RICHFIELD RD & HANKS RD",
-    "city": "DUSON",
-    "time": "06/28/2019 - 6:20 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.22665,
-    "longitude": -92.17601
-  },
-  {
     "address": "AMBASSADOR CAFFERY PW & SETTLERS TRACE BL",
     "city": "LAFAYETTE",
     "time": "06/28/2019 - 6:19 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.15969,
     "longitude": -92.05229
-  },
-  {
-    "address": "615 LA 93 HW",
-    "city": "SCOTT",
-    "time": "06/28/2019 - 6:18 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2609,
-    "longitude": -92.1087
   },
   {
     "address": "200 GENDARME RD",
