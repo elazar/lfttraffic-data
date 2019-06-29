@@ -1,5 +1,13 @@
 [
   {
+    "address": "3400 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/28/2019 - 7:01 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1794591,
+    "longitude": -92.0751249
+  },
+  {
     "address": "E KALISTE SALOOM RD & SW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "06/28/2019 - 6:59 PM",
@@ -102,14 +110,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2609,
     "longitude": -92.1087
-  },
-  {
-    "address": "1100 S RICHFIELD RD",
-    "city": "DUSON",
-    "time": "06/28/2019 - 6:15 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.2264099,
-    "longitude": -92.1761552
   },
   {
     "address": "200 GENDARME RD",
