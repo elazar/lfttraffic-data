@@ -1,5 +1,13 @@
 [
   {
+    "address": "MOSS ST & MUDD AV",
+    "city": "LAFAYETTE",
+    "time": "06/29/2019 - 10:06 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23248,
+    "longitude": -92.00878
+  },
+  {
     "address": "NE EVANGELINE TW & E WILLOW ST",
     "city": "LAFAYETTE",
     "time": "06/29/2019 - 09:22 AM",
