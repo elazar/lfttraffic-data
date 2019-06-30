@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "address": "110 CORNISH PL",
+    "city": "YOUNGSVILLE",
+    "time": "06/30/2019 - 09:19 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.11082,
+    "longitude": -91.99351
+  },
+  {
+    "address": "300 CHEMIN METAIRIE",
+    "city": "LAFAYETTE",
+    "time": "06/30/2019 - 09:19 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1375,
+    "longitude": -92.01605
+  }
+]
