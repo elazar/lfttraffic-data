@@ -1,5 +1,13 @@
 [
   {
+    "address": "1701 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "06/30/2019 - 1:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25216,
+    "longitude": -92.03842
+  },
+  {
     "address": "2700 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "06/30/2019 - 12:50 PM",
