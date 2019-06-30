@@ -1,5 +1,13 @@
 [
   {
+    "address": "NW EVANGELINE TW & W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "06/30/2019 - 10:00 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24481,
+    "longitude": -92.01456
+  },
+  {
     "address": "110 CORNISH PL",
     "city": "YOUNGSVILLE",
     "time": "06/30/2019 - 09:19 AM",
