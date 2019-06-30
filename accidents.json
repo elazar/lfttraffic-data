@@ -30,13 +30,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.25407,
     "longitude": -92.06629
-  },
-  {
-    "address": "300 LOIRE AV",
-    "city": "LAFAYETTE",
-    "time": "06/29/2019 - 10:23 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2942751,
-    "longitude": -92.0278593
   }
 ]
