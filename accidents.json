@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "306 SIDNEY MARTIN RD",
+    "city": "LAFAYETTE",
+    "time": "06/30/2019 - 3:40 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.27829,
+    "longitude": -92.01009
+  }
+]
