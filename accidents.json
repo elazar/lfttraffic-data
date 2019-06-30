@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "100 RUE LOUIS XIV",
+    "city": "LAFAYETTE",
+    "time": "06/29/2019 - 9:44 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.17229,
+    "longitude": -92.02963
+  }
+]
