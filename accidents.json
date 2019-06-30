@@ -1,5 +1,13 @@
 [
   {
+    "address": "2678 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/30/2019 - 6:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20852,
+    "longitude": -92.03842
+  },
+  {
     "address": "ST ETIENNE RD & YOUNG ST",
     "city": "LAFAYETTE",
     "time": "06/30/2019 - 5:49 PM",
