@@ -1,5 +1,13 @@
 [
   {
+    "address": "726 LAFAYETTE ST (NE) ST",
+    "city": "LAFAYETTE",
+    "time": "06/30/2019 - 10:15 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.2262192,
+    "longitude": -92.0209049
+  },
+  {
     "address": "NW EVANGELINE TW & W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "06/30/2019 - 10:00 AM",
