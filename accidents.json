@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2201,
     "longitude": -92.0172
-  },
-  {
-    "address": "ERASTE LANDRY RD & WESTGATE RD",
-    "city": "SCOTT",
-    "time": "06/29/2019 - 11:25 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2195,
-    "longitude": -92.08699
   }
 ]
