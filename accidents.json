@@ -1,5 +1,13 @@
 [
   {
+    "address": "MOSS ST & MUDD AV",
+    "city": "LAFAYETTE",
+    "time": "07/01/2019 - 2:44 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.23248,
+    "longitude": -92.00878
+  },
+  {
     "address": "519 E FIRST ST",
     "city": "BROUSSARD",
     "time": "07/01/2019 - 2:38 PM",
