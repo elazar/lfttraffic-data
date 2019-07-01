@@ -1,5 +1,13 @@
 [
   {
+    "address": "N BIENVILLE ST & MADELINE AV",
+    "city": "LAFAYETTE",
+    "time": "07/01/2019 - 6:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23818,
+    "longitude": -92.02328
+  },
+  {
     "address": "200 SADDLE CREST DR",
     "city": "CARENCRO",
     "time": "07/01/2019 - 6:26 PM",
