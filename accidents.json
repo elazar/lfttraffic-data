@@ -1,5 +1,13 @@
 [
   {
+    "address": "208 PORTLAND AV",
+    "city": "LAFAYETTE",
+    "time": "07/01/2019 - 11:39 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.2557,
+    "longitude": -92.03455
+  },
+  {
     "address": "1210 ALBERTSON PW",
     "city": "BROUSSARD",
     "time": "07/01/2019 - 11:28 AM",
