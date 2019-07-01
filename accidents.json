@@ -1,5 +1,13 @@
 [
   {
+    "address": "NORTHGATE DR & W CEDAR ST",
+    "city": "LAFAYETTE",
+    "time": "07/01/2019 - 12:38 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24478,
+    "longitude": -92.01007
+  },
+  {
     "address": "W WILLOW ST & N ST ANTOINE ST",
     "city": "LAFAYETTE",
     "time": "07/01/2019 - 12:37 PM",
