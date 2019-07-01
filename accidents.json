@@ -1,5 +1,13 @@
 [
   {
+    "address": "120 E GLORIA SWITCH RD",
+    "city": "LAFAYETTE",
+    "time": "07/01/2019 - 4:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29346,
+    "longitude": -92.02171
+  },
+  {
     "address": "N UNIVERSITY AV & ARTHUR ST",
     "city": "LAFAYETTE",
     "time": "07/01/2019 - 3:21 PM",
