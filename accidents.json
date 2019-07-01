@@ -1,13 +1,5 @@
 [
   {
-    "address": "AMBASSADOR CAFFERY PW & W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "07/01/2019 - 6:47 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.19597,
-    "longitude": -92.07523
-  },
-  {
     "address": "N BIENVILLE ST & MADELINE AV",
     "city": "LAFAYETTE",
     "time": "07/01/2019 - 6:43 PM",
@@ -22,14 +14,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.3055349,
     "longitude": -92.0395431
-  },
-  {
-    "address": "4500 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "07/01/2019 - 5:42 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19141,
-    "longitude": -92.06196
   },
   {
     "address": "97 I10 WESTBOUND MM97 HW",
