@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & MEADOW LN",
+    "city": "LAFAYETTE",
+    "time": "07/01/2019 - 12:05 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.20833,
+    "longitude": -92.05503
+  },
+  {
     "address": "CAMERON ST & S PIERCE ST",
     "city": "LAFAYETTE",
     "time": "07/01/2019 - 12:04 PM",
