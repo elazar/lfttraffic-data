@@ -1,11 +1,11 @@
 [
   {
-    "address": "CALCO BL & W PINHOOK RD",
+    "address": "100 CALCO BL",
     "city": "LAFAYETTE",
     "time": "07/01/2019 - 12:47 PM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.19834,
-    "longitude": -92.0165
+    "latitude": 30.1976544,
+    "longitude": -92.0156258
   },
   {
     "address": "NORTHGATE DR & W CEDAR ST",
@@ -38,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23236,
     "longitude": -92.03238
-  },
-  {
-    "address": "100 PIGEON LP",
-    "city": "LAFAYETTE",
-    "time": "07/01/2019 - 10:14 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.15933,
-    "longitude": -92.03132
   }
 ]
