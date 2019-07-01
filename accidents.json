@@ -1,5 +1,13 @@
 [
   {
+    "address": "2 I49 NORTHBOUND MM2 HW",
+    "city": "LAFAYETTE",
+    "time": "07/01/2019 - 07:44 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.28006,
+    "longitude": -92.02024
+  },
+  {
     "address": "302 PETER ST",
     "city": "LAFAYETTE",
     "time": "07/01/2019 - 07:36 AM",
