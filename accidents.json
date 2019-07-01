@@ -1,5 +1,21 @@
 [
   {
+    "address": "N UNIVERSITY AV & W GLORIA SWITCH RD",
+    "city": "CARENCRO",
+    "time": "07/01/2019 - 07:45 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.29785,
+    "longitude": -92.04941
+  },
+  {
+    "address": "2000 W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "07/01/2019 - 07:45 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23161,
+    "longitude": -92.03168
+  },
+  {
     "address": "2 I49 NORTHBOUND MM2 HW",
     "city": "LAFAYETTE",
     "time": "07/01/2019 - 07:44 AM",
