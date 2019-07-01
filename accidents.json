@@ -1,5 +1,13 @@
 [
   {
+    "address": "JENKINS RD & ERNEST ST",
+    "city": "LAFAYETTE",
+    "time": "07/01/2019 - 5:30 PM",
+    "due_to": "Grass Fire",
+    "latitude": 30.22791,
+    "longitude": -92.11656
+  },
+  {
     "address": "200 E WILLOW ST",
     "city": "LAFAYETTE",
     "time": "07/01/2019 - 5:26 PM",
