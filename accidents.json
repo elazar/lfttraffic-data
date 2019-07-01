@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 MEADOW FARM RD",
+    "city": "LAFAYETTE",
+    "time": "07/01/2019 - 2:46 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1559864,
+    "longitude": -92.0445191
+  },
+  {
     "address": "MOSS ST & MUDD AV",
     "city": "LAFAYETTE",
     "time": "07/01/2019 - 2:44 PM",
