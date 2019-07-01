@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 NOTTINGHAM CL",
+    "city": "LAFAYETTE",
+    "time": "07/01/2019 - 1:16 PM",
+    "due_to": "Hazard",
+    "latitude": 30.2919685,
+    "longitude": -91.9973611
+  },
+  {
     "address": "100 CALCO BL",
     "city": "LAFAYETTE",
     "time": "07/01/2019 - 12:47 PM",
