@@ -1,11 +1,11 @@
 [
   {
-    "address": "E GLORIA SWITCH RD & MOSS ST",
+    "address": "4000 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "07/01/2019 - 12:16 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2948,
-    "longitude": -92.00732
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19824,
+    "longitude": -92.07087
   },
   {
     "address": "3 I49 SOUTHBOUND MM3 HW",
@@ -38,22 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23236,
     "longitude": -92.03238
-  },
-  {
-    "address": "2500 W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "07/01/2019 - 11:55 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20978,
-    "longitude": -92.05327
-  },
-  {
-    "address": "117 ST NAZAIRE RD",
-    "city": "BROUSSARD",
-    "time": "07/01/2019 - 11:49 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.14087,
-    "longitude": -91.94477
   },
   {
     "address": "S COLLEGE RD & JOHNSTON ST",
