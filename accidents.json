@@ -1,5 +1,13 @@
 [
   {
+    "address": "211 WADSWORTH DR",
+    "city": "LAFAYETTE",
+    "time": "06/30/2019 - 7:54 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.1423,
+    "longitude": -92.08609
+  },
+  {
     "address": "404 TOUCHET RD (SE)",
     "city": "LAFAYETTE",
     "time": "06/30/2019 - 7:53 PM",
