@@ -1,5 +1,13 @@
 [
   {
+    "address": "S COLLEGE RD & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/01/2019 - 11:43 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20727,
+    "longitude": -92.03836
+  },
+  {
     "address": "208 PORTLAND AV",
     "city": "LAFAYETTE",
     "time": "07/01/2019 - 11:39 AM",
