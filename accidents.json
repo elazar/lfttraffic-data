@@ -1,5 +1,13 @@
 [
   {
+    "address": "501 SWEETBRIAR ST",
+    "city": "LAFAYETTE",
+    "time": "07/01/2019 - 5:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20362,
+    "longitude": -92.10141
+  },
+  {
     "address": "E MAIN ST & ST DE PORRES ST",
     "city": "BROUSSARD",
     "time": "07/01/2019 - 5:05 PM",
