@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "07/01/2019 - 5:42 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1933318,
+    "longitude": -92.0585573
+  },
+  {
     "address": "SE EVANGELINE TW & E KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "07/01/2019 - 5:35 PM",
