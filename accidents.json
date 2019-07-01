@@ -1,5 +1,13 @@
 [
   {
+    "address": "117 ST NAZAIRE RD",
+    "city": "BROUSSARD",
+    "time": "07/01/2019 - 11:49 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.14087,
+    "longitude": -91.94477
+  },
+  {
     "address": "S COLLEGE RD & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/01/2019 - 11:43 AM",
