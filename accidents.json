@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & ARTHUR ST",
+    "city": "LAFAYETTE",
+    "time": "07/01/2019 - 3:21 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24039,
+    "longitude": -92.03242
+  },
+  {
     "address": "4511 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/01/2019 - 3:16 PM",
