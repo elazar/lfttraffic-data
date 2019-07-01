@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "100 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "07/01/2019 - 09:51 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.2325156,
+    "longitude": -92.0322467
+  }
+]
