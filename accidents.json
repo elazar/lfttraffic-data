@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "JOHNSTON ST & GUILBEAU RD",
+    "city": "LAFAYETTE",
+    "time": "06/30/2019 - 9:56 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19375,
+    "longitude": -92.0586
+  }
+]
