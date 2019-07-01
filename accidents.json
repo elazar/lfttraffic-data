@@ -1,5 +1,13 @@
 [
   {
+    "address": "2500 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "07/01/2019 - 11:55 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20978,
+    "longitude": -92.05327
+  },
+  {
     "address": "809 VETERANS DR",
     "city": "CARENCRO",
     "time": "07/01/2019 - 11:50 AM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20727,
     "longitude": -92.03836
-  },
-  {
-    "address": "208 PORTLAND AV",
-    "city": "LAFAYETTE",
-    "time": "07/01/2019 - 11:39 AM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.2557,
-    "longitude": -92.03455
   },
   {
     "address": "AMBASSADOR CAFFERY PW & VEROT SCHOOL RD",
