@@ -1,13 +1,5 @@
 [
   {
-    "address": "WESTGATE RD & DULLES DR",
-    "city": "SCOTT",
-    "time": "07/01/2019 - 5:48 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.21055,
-    "longitude": -92.087
-  },
-  {
     "address": "DULLES DR & WESTGATE RD",
     "city": "LAFAYETTE",
     "time": "07/01/2019 - 5:45 PM",
