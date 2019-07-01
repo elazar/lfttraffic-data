@@ -1,5 +1,13 @@
 [
   {
+    "address": "3300 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/01/2019 - 1:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20323,
+    "longitude": -92.05097
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & RIDGE RD",
     "city": "LAFAYETTE",
     "time": "07/01/2019 - 1:40 PM",
