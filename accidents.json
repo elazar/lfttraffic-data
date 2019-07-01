@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & SW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "07/01/2019 - 3:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22457,
+    "longitude": -92.01033
+  },
+  {
     "address": "FELICIE ST & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/01/2019 - 2:52 PM",
@@ -54,13 +62,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20323,
     "longitude": -92.05097
-  },
-  {
-    "address": "300 NOTTINGHAM CL",
-    "city": "LAFAYETTE",
-    "time": "07/01/2019 - 1:16 PM",
-    "due_to": "Hazard",
-    "latitude": 30.2919685,
-    "longitude": -91.9973611
   }
 ]
