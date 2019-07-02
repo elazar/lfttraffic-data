@@ -1,5 +1,13 @@
 [
   {
+    "address": "407 S MAGNOLIA ST",
+    "city": "LAFAYETTE",
+    "time": "07/02/2019 - 5:10 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.22636,
+    "longitude": -92.00835
+  },
+  {
     "address": "901 S HUGH WALLIS RD",
     "city": "LAFAYETTE",
     "time": "07/02/2019 - 5:00 PM",
