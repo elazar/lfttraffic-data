@@ -16,20 +16,12 @@
     "longitude": -92.02081
   },
   {
-    "address": "100 RUE DU BELIER",
-    "city": "SCOTT",
+    "address": "1925 DULLES DR",
+    "city": "LAFAYETTE",
     "time": "07/02/2019 - 09:50 AM",
     "due_to": "Stalled Vehicle",
-    "latitude": 30.2104054,
-    "longitude": -92.0923149
-  },
-  {
-    "address": "NE EVANGELINE TW & MUDD AV",
-    "city": "LAFAYETTE",
-    "time": "07/02/2019 - 09:46 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23296,
-    "longitude": -92.01278
+    "latitude": 30.21029,
+    "longitude": -92.09004
   },
   {
     "address": "2400 LA 93 HW",
