@@ -1,5 +1,13 @@
 [
   {
+    "address": "4307 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "07/02/2019 - 6:35 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15928,
+    "longitude": -92.05096
+  },
+  {
     "address": "6920 AMBASSADOR CAFFERY PW",
     "city": "BROUSSARD",
     "time": "07/02/2019 - 6:24 PM",
