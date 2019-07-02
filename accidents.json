@@ -1,5 +1,13 @@
 [
   {
+    "address": "106 W PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "07/02/2019 - 1:44 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.273819,
+    "longitude": -92.02081
+  },
+  {
     "address": "120 E GLORIA SWITCH RD",
     "city": "LAFAYETTE",
     "time": "07/02/2019 - 1:41 PM",
