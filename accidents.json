@@ -22,13 +22,5 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.2091,
     "longitude": -91.99986
-  },
-  {
-    "address": "WALKER RD & SAUCIER PW",
-    "city": "LAFAYETTE",
-    "time": "07/02/2019 - 05:34 AM",
-    "due_to": "Fire",
-    "latitude": 30.23555,
-    "longitude": -92.04201
   }
 ]
