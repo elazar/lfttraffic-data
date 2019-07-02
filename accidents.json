@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "29 BNSF RAILROAD CG",
+    "city": "LAFAYETTE",
+    "time": "07/02/2019 - 07:44 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 40.50211,
+    "longitude": -86.95026
+  }
+]
