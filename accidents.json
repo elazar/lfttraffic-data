@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15287,
     "longitude": -92.05194
-  },
-  {
-    "address": "MEADOW LN & W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "07/02/2019 - 3:38 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.20833,
-    "longitude": -92.05503
   }
 ]
