@@ -1,5 +1,13 @@
 [
   {
+    "address": "LAKE FARM RD & KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "07/02/2019 - 5:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15936,
+    "longitude": -92.0455
+  },
+  {
     "address": "W PINHOOK RD & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "07/02/2019 - 5:19 PM",
@@ -16,27 +24,11 @@
     "longitude": -92.0141
   },
   {
-    "address": "407 S MAGNOLIA ST",
-    "city": "LAFAYETTE",
-    "time": "07/02/2019 - 5:10 PM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.22636,
-    "longitude": -92.00835
-  },
-  {
     "address": "901 S HUGH WALLIS RD",
     "city": "LAFAYETTE",
     "time": "07/02/2019 - 5:00 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.19442,
     "longitude": -92.00224
-  },
-  {
-    "address": "3222 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "07/02/2019 - 4:40 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18327,
-    "longitude": -92.07545
   }
 ]
