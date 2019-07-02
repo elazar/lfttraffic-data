@@ -1,21 +1,5 @@
 [
   {
-    "address": "W CONGRESS ST & MEADOW LN",
-    "city": "LAFAYETTE",
-    "time": "07/02/2019 - 3:00 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.20833,
-    "longitude": -92.05503
-  },
-  {
-    "address": "1808 ERASTE LANDRY RD",
-    "city": "LAFAYETTE",
-    "time": "07/02/2019 - 2:58 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.21973,
-    "longitude": -92.06602
-  },
-  {
     "address": "4023 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/02/2019 - 2:38 PM",
@@ -38,13 +22,5 @@
     "due_to": "Traffic Control",
     "latitude": 30.31944,
     "longitude": -92.04951
-  },
-  {
-    "address": "509 LAFAYETTE ST",
-    "city": "YOUNGSVILLE",
-    "time": "07/02/2019 - 1:38 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.10459,
-    "longitude": -91.99102
   }
 ]
