@@ -22,13 +22,5 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 40.50211,
     "longitude": -86.95026
-  },
-  {
-    "address": "N LARRIVIERE RD & YOUNG ST",
-    "city": "YOUNGSVILLE",
-    "time": "07/02/2019 - 07:43 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.10198,
-    "longitude": -91.97365
   }
 ]
