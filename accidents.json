@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "07/02/2019 - 07:48 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.2045812,
+    "longitude": -92.0353073
+  },
+  {
     "address": "29 BNSF RAILROAD CG",
     "city": "LAFAYETTE",
     "time": "07/02/2019 - 07:44 AM",
