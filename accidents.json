@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 RUE DU BELIER",
+    "city": "SCOTT",
+    "time": "07/02/2019 - 09:50 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2104054,
+    "longitude": -92.0923149
+  },
+  {
     "address": "NE EVANGELINE TW & MUDD AV",
     "city": "LAFAYETTE",
     "time": "07/02/2019 - 09:46 AM",
