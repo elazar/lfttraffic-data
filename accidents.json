@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & ST PIERRE ST",
+    "city": "CARENCRO",
+    "time": "07/02/2019 - 1:50 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.31944,
+    "longitude": -92.04951
+  },
+  {
     "address": "106 W PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "07/02/2019 - 1:44 PM",
