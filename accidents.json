@@ -1,5 +1,13 @@
 [
   {
+    "address": "2400 LA 93 HW",
+    "city": "LAFAYETTE",
+    "time": "07/02/2019 - 09:45 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.2983932,
+    "longitude": -92.116625
+  },
+  {
     "address": "N UNIVERSITY AV & I10 HW",
     "city": "LAFAYETTE",
     "time": "07/02/2019 - 09:38 AM",
