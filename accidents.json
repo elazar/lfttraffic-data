@@ -1,19 +1,19 @@
 [
   {
+    "address": "126 LEXINGTON DR",
+    "city": "DUSON",
+    "time": "07/02/2019 - 10:50 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25184,
+    "longitude": -92.19508
+  },
+  {
     "address": "101 PERDU HILL RN",
     "city": "YOUNGSVILLE",
     "time": "07/02/2019 - 10:20 AM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.1179149,
     "longitude": -92.0050295
-  },
-  {
-    "address": "106 W PONT DES MOUTON RD",
-    "city": "LAFAYETTE",
-    "time": "07/02/2019 - 09:54 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.273819,
-    "longitude": -92.02081
   },
   {
     "address": "500 NW EVANGELINE TW",
