@@ -1,5 +1,21 @@
 [
   {
+    "address": "W PINHOOK RD & KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "07/02/2019 - 5:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1886,
+    "longitude": -92.0141
+  },
+  {
+    "address": "W PINHOOK RD & E KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "07/02/2019 - 5:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1886,
+    "longitude": -92.0141
+  },
+  {
     "address": "407 S MAGNOLIA ST",
     "city": "LAFAYETTE",
     "time": "07/02/2019 - 5:10 PM",
@@ -14,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19442,
     "longitude": -92.00224
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "07/02/2019 - 4:43 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19597,
-    "longitude": -92.07523
   },
   {
     "address": "3222 AMBASSADOR CAFFERY PW",
