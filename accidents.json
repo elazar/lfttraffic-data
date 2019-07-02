@@ -1,5 +1,13 @@
 [
   {
+    "address": "S COLLEGE RD & RICHARDSON AV",
+    "city": "LAFAYETTE",
+    "time": "07/02/2019 - 10:21 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.20001,
+    "longitude": -92.02808
+  },
+  {
     "address": "101 PERDU HILL RN",
     "city": "YOUNGSVILLE",
     "time": "07/02/2019 - 10:20 AM",
