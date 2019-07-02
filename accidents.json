@@ -1,5 +1,21 @@
 [
   {
+    "address": "JOHNSTON ST & ARNOULD BL",
+    "city": "LAFAYETTE",
+    "time": "07/02/2019 - 11:52 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20186,
+    "longitude": -92.05312
+  },
+  {
+    "address": "316 W MAIN ST",
+    "city": "LAFAYETTE",
+    "time": "07/02/2019 - 11:52 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22344,
+    "longitude": -92.02135
+  },
+  {
     "address": "LOUISIANA AV & E WILLOW ST",
     "city": "LAFAYETTE",
     "time": "07/02/2019 - 11:47 AM",
