@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "928 CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "07/02/2019 - 7:51 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1785559,
+    "longitude": -92.04663
+  }
+]
