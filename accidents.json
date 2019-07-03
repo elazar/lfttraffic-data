@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "500 COOLIDGE ST",
+    "city": "LAFAYETTE",
+    "time": "07/03/2019 - 01:10 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2111666,
+    "longitude": -92.0109675
+  }
+]
