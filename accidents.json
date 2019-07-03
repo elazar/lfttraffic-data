@@ -1,5 +1,13 @@
 [
   {
+    "address": "800 MARTIN LUTHER KING JR DR",
+    "city": "LAFAYETTE",
+    "time": "07/03/2019 - 4:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2493061,
+    "longitude": -92.0236991
+  },
+  {
     "address": "5500 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "07/03/2019 - 4:11 PM",
