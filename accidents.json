@@ -1,5 +1,13 @@
 [
   {
+    "address": "700 CAJUNDOME BL",
+    "city": "LAFAYETTE",
+    "time": "07/03/2019 - 1:08 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22445,
+    "longitude": -92.0457
+  },
+  {
     "address": "100 I10 EB EXIT RAMP HW",
     "city": "LAFAYETTE",
     "time": "07/03/2019 - 12:33 PM",
