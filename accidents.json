@@ -1,5 +1,13 @@
 [
   {
+    "address": "2390 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "07/03/2019 - 2:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21551,
+    "longitude": -92.04635
+  },
+  {
     "address": "5543 CAMERON ST",
     "city": "SCOTT",
     "time": "07/03/2019 - 2:06 PM",
