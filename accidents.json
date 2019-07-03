@@ -1,5 +1,13 @@
 [
   {
+    "address": "500 WYMAN RD",
+    "city": "LAFAYETTE",
+    "time": "07/03/2019 - 5:56 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27609,
+    "longitude": -92.1209
+  },
+  {
     "address": "RIDGE RD & W BROUSSARD RD",
     "city": "LAFAYETTE",
     "time": "07/03/2019 - 5:52 PM",
