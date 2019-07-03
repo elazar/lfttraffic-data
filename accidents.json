@@ -1,19 +1,19 @@
 [
   {
+    "address": "N UNIVERSITY AV & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "07/03/2019 - 6:43 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.24052,
+    "longitude": -92.03242
+  },
+  {
     "address": "3323 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/03/2019 - 6:24 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.18095,
     "longitude": -92.07482
-  },
-  {
-    "address": "306 BELL DOWNS DR",
-    "city": "LAFAYETTE",
-    "time": "07/03/2019 - 6:20 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.19843,
-    "longitude": -92.06745
   },
   {
     "address": "102 E PINHOOK RD",
