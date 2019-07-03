@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20932,
     "longitude": -91.99911
-  },
-  {
-    "address": "100 MCDONALD ST",
-    "city": "LAFAYETTE",
-    "time": "07/03/2019 - 3:24 PM",
-    "due_to": "Dumpster Fire",
-    "latitude": 30.21169,
-    "longitude": -92.06374
   }
 ]
