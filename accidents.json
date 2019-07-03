@@ -1,5 +1,13 @@
 [
   {
+    "address": "530 N PIERCE ST",
+    "city": "LAFAYETTE",
+    "time": "07/03/2019 - 09:37 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24034,
+    "longitude": -92.01817
+  },
+  {
     "address": "JOHNSTON ST & GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "07/03/2019 - 09:17 AM",
