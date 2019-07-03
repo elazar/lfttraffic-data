@@ -1,5 +1,13 @@
 [
   {
+    "address": "5500 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "07/03/2019 - 4:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1202785,
+    "longitude": -91.943998
+  },
+  {
     "address": "54 BNSF RAILROAD CG",
     "city": "DUSON",
     "time": "07/03/2019 - 4:10 PM",
