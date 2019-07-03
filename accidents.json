@@ -1,5 +1,13 @@
 [
   {
+    "address": "900 SURREY ST",
+    "city": "LAFAYETTE",
+    "time": "07/03/2019 - 11:11 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22568,
+    "longitude": -92.00234
+  },
+  {
     "address": "3000 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "07/03/2019 - 09:51 AM",
