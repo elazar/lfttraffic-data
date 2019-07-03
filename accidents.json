@@ -1,11 +1,11 @@
 [
   {
-    "address": "3200 LOUISIANA AV",
+    "address": "3000 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "07/03/2019 - 09:51 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2645725,
-    "longitude": -91.9925718
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.2609205,
+    "longitude": -91.9965628
   },
   {
     "address": "530 N PIERCE ST",
