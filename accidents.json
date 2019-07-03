@@ -1,5 +1,13 @@
 [
   {
+    "address": "326 GUILBEAU RD",
+    "city": "LAFAYETTE",
+    "time": "07/03/2019 - 11:44 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19671,
+    "longitude": -92.06692
+  },
+  {
     "address": "2707 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "07/03/2019 - 11:42 AM",
