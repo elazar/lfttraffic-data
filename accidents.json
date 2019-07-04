@@ -1,5 +1,13 @@
 [
   {
+    "address": "205 ROOSEVELT ST",
+    "city": "LAFAYETTE",
+    "time": "07/04/2019 - 12:05 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21547,
+    "longitude": -92.01244
+  },
+  {
     "address": "203 DECATUR LN",
     "city": "LAFAYETTE",
     "time": "07/03/2019 - 11:51 PM",
