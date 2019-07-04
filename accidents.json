@@ -1,5 +1,13 @@
 [
   {
+    "address": "113 ARISTOTLE DR",
+    "city": "LAFAYETTE",
+    "time": "07/04/2019 - 1:53 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.15077,
+    "longitude": -91.99001
+  },
+  {
     "address": "E WILLOW ST & NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/04/2019 - 1:51 PM",
