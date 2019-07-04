@@ -22,13 +22,5 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.27349,
     "longitude": -92.02058
-  },
-  {
-    "address": "126 RADCLIFFE DR",
-    "city": "LAFAYETTE",
-    "time": "07/04/2019 - 4:53 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22645,
-    "longitude": -91.99175
   }
 ]
