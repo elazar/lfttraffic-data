@@ -1,13 +1,5 @@
 [
   {
-    "address": "300 VEROT SCHOOL RD",
-    "city": "LAFAYETTE",
-    "time": "07/04/2019 - 12:09 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.17573,
-    "longitude": -92.00798
-  },
-  {
     "address": "102 TYLER DR",
     "city": "LAFAYETTE",
     "time": "07/04/2019 - 11:59 AM",
@@ -46,13 +38,5 @@
     "due_to": "Fire Alarm-Commercial",
     "latitude": 30.24369,
     "longitude": -92.038
-  },
-  {
-    "address": "251 W FOCH ST",
-    "city": "LAFAYETTE",
-    "time": "07/04/2019 - 11:28 AM",
-    "due_to": "Residential Fire",
-    "latitude": 30.2311859,
-    "longitude": -92.005477
   }
 ]
