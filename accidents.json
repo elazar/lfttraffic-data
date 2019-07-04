@@ -6,5 +6,13 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.26255,
     "longitude": -92.00867
+  },
+  {
+    "address": "102 CONFEDERATE AV",
+    "city": "LAFAYETTE",
+    "time": "07/04/2019 - 08:49 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16463,
+    "longitude": -91.94062
   }
 ]
