@@ -1,5 +1,13 @@
 [
   {
+    "address": "105 I10 WESTBOUND MM105 HW",
+    "city": "LAFAYETTE",
+    "time": "07/04/2019 - 05:45 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "103 I10 WB ENTRANCE LOOP HW",
     "city": "LAFAYETTE",
     "time": "07/04/2019 - 04:35 AM",
