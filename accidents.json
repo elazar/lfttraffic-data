@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & BREAKWATER DR",
+    "city": "LAFAYETTE",
+    "time": "07/04/2019 - 06:52 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.25852,
+    "longitude": -92.04015
+  },
+  {
     "address": "3916 NE EVANGELINE TW",
     "city": "CARENCRO",
     "time": "07/04/2019 - 06:46 AM",
