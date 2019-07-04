@@ -1,5 +1,13 @@
 [
   {
+    "address": "BRAQUET RD & LOUVETEAU RD",
+    "city": "LAFAYETTE",
+    "time": "07/04/2019 - 2:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.34299,
+    "longitude": -92.05807
+  },
+  {
     "address": "102 I10 WESTBOUND MM102 HW",
     "city": "LAFAYETTE",
     "time": "07/04/2019 - 2:18 PM",
