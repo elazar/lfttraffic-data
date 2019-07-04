@@ -1,5 +1,13 @@
 [
   {
+    "address": "STEINER RD & KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "07/04/2019 - 12:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17082,
+    "longitude": -92.03184
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "07/04/2019 - 12:12 PM",
