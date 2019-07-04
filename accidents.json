@@ -1,5 +1,13 @@
 [
   {
+    "address": "DUVAL ST & W FOCH ST",
+    "city": "LAFAYETTE",
+    "time": "07/04/2019 - 11:28 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.23145,
+    "longitude": -92.00642
+  },
+  {
     "address": "1314 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/04/2019 - 11:18 AM",
