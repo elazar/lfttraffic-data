@@ -14,13 +14,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.26255,
     "longitude": -92.00867
-  },
-  {
-    "address": "W PONT DES MOUTON RD & NW EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "07/04/2019 - 5:42 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.27349,
-    "longitude": -92.02058
   }
 ]
