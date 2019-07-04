@@ -1,5 +1,21 @@
 [
   {
+    "address": "200 HECTOR CONNOLY RD",
+    "city": "CARENCRO",
+    "time": "07/03/2019 - 9:56 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.32242,
+    "longitude": -92.03036
+  },
+  {
+    "address": "BNSF RAILROAD CG & E KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "07/03/2019 - 9:56 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.19538,
+    "longitude": -92.00655
+  },
+  {
     "address": "16 BNSF RAILROAD CG",
     "city": "LAFAYETTE",
     "time": "07/03/2019 - 9:53 PM",
