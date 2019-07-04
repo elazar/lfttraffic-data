@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 HERBERT RD",
+    "city": "SCOTT",
+    "time": "07/04/2019 - 11:13 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2102664,
+    "longitude": -92.0982341
+  },
+  {
     "address": "102 CONFEDERATE AV",
     "city": "LAFAYETTE",
     "time": "07/04/2019 - 08:49 AM",
