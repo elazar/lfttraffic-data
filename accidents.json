@@ -30,13 +30,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.29239,
     "longitude": -92.0648
-  },
-  {
-    "address": "GUSTAVE ST & PAUL ST",
-    "city": "BROUSSARD",
-    "time": "07/05/2019 - 2:19 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.14183,
-    "longitude": -91.95729
   }
 ]
