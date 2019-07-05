@@ -1,5 +1,13 @@
 [
   {
+    "address": "134 RADCLIFFE DR",
+    "city": "LAFAYETTE",
+    "time": "07/04/2019 - 11:56 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22717,
+    "longitude": -91.99168
+  },
+  {
     "address": "1200 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/04/2019 - 11:15 PM",
