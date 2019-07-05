@@ -1,5 +1,13 @@
 [
   {
+    "address": "716 12TH ST (N)",
+    "city": "LAFAYETTE",
+    "time": "07/05/2019 - 02:06 AM",
+    "due_to": "Incoming Call",
+    "latitude": 40.4234897,
+    "longitude": -86.8842374
+  },
+  {
     "address": "416 HILLBROOKE DR",
     "city": "BROUSSARD",
     "time": "07/05/2019 - 01:46 AM",
