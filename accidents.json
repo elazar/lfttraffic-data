@@ -1,5 +1,29 @@
 [
   {
+    "address": "3200 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "07/05/2019 - 1:11 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2645725,
+    "longitude": -91.9925718
+  },
+  {
+    "address": "JOHNSTON ST & CRESTLAWN DR",
+    "city": "LAFAYETTE",
+    "time": "07/05/2019 - 1:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1607,
+    "longitude": -92.08509
+  },
+  {
+    "address": "ST MARY ST & BLAKELAND DR",
+    "city": "SCOTT",
+    "time": "07/05/2019 - 1:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24137,
+    "longitude": -92.10518
+  },
+  {
     "address": "215 BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "07/05/2019 - 1:08 PM",
