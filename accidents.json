@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & CELEBRITY DR",
+    "city": "BROUSSARD",
+    "time": "07/05/2019 - 12:21 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.14492,
+    "longitude": -91.94632
+  },
+  {
     "address": "103 I10 EASTBOUND MM103A HW",
     "city": "LAFAYETTE",
     "time": "07/05/2019 - 12:05 PM",
