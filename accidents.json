@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "100 I10 WESTBOUND MM100 HW",
+    "city": "LAFAYETTE",
+    "time": "07/05/2019 - 06:36 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  }
+]
