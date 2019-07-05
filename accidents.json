@@ -1,5 +1,13 @@
 [
   {
+    "address": "E MILTON AV & GALLET RD",
+    "city": "LAFAYETTE",
+    "time": "07/05/2019 - 2:50 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.1092,
+    "longitude": -92.05566
+  },
+  {
     "address": "478 MALAPART RD",
     "city": "LAFAYETTE",
     "time": "07/05/2019 - 2:21 PM",
