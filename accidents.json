@@ -1,5 +1,13 @@
 [
   {
+    "address": "714 RUE DES BABINEAUX",
+    "city": "LAFAYETTE",
+    "time": "07/05/2019 - 09:39 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27031,
+    "longitude": -92.13534
+  },
+  {
     "address": "1521 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "07/05/2019 - 09:21 AM",
