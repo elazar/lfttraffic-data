@@ -1,5 +1,13 @@
 [
   {
+    "address": "NE EVANGELINE TW & JEFFERSON BL",
+    "city": "LAFAYETTE",
+    "time": "07/05/2019 - 10:31 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.22903,
+    "longitude": -92.01168
+  },
+  {
     "address": "200 E PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "07/05/2019 - 10:30 AM",
