@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMELIA ST & W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "07/04/2019 - 11:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21793,
+    "longitude": -92.01983
+  },
+  {
     "address": "100 SUGAR HILL RD",
     "city": "YOUNGSVILLE",
     "time": "07/04/2019 - 10:04 PM",
