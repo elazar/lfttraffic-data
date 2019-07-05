@@ -1,5 +1,13 @@
 [
   {
+    "address": "3001 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "07/05/2019 - 1:12 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2623,
+    "longitude": -91.99535
+  },
+  {
     "address": "3200 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "07/05/2019 - 1:11 PM",
