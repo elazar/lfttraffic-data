@@ -1,5 +1,13 @@
 [
   {
+    "address": "900 S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "07/05/2019 - 11:31 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20126,
+    "longitude": -92.03059
+  },
+  {
     "address": "SW EVANGELINE TW & E KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "07/05/2019 - 11:26 AM",
@@ -22,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.27247,
     "longitude": -92.01591
-  },
-  {
-    "address": "121 HEBERT RD",
-    "city": "LAFAYETTE",
-    "time": "07/05/2019 - 08:48 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2375426,
-    "longitude": -92.0498149
   }
 ]
