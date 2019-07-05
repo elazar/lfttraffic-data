@@ -1,5 +1,13 @@
 [
   {
+    "address": "DEVALCOURT ST & BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "07/05/2019 - 6:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21831,
+    "longitude": -92.04931
+  },
+  {
     "address": "LOUISIANA AV & E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "07/05/2019 - 6:14 PM",
