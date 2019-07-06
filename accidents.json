@@ -1,5 +1,13 @@
 [
   {
+    "address": "S RICHFIELD RD & BRUSSELS RD",
+    "city": "LAFAYETTE",
+    "time": "07/06/2019 - 2:15 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.14476,
+    "longitude": -92.17563
+  },
+  {
     "address": "6701 AMBASSADOR CAFFERY PW",
     "city": "BROUSSARD",
     "time": "07/06/2019 - 1:03 PM",
