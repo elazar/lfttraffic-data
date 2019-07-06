@@ -38,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20341,
     "longitude": -92.04888
-  },
-  {
-    "address": "1100 GOLDEN GRAIN RD",
-    "city": "LAFAYETTE",
-    "time": "07/06/2019 - 2:16 PM",
-    "due_to": "Grass Fire",
-    "latitude": 30.1593649,
-    "longitude": -92.1758564
   }
 ]
