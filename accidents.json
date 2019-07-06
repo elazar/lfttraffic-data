@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & CLARA ST",
+    "city": "LAFAYETTE",
+    "time": "07/05/2019 - 8:56 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.249,
+    "longitude": -92.03494
+  },
+  {
     "address": "MALAPART RD & HERNANDEZ RD",
     "city": "LAFAYETTE",
     "time": "07/05/2019 - 8:47 PM",
