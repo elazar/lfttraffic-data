@@ -1,5 +1,13 @@
 [
   {
+    "address": "3205 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "07/05/2019 - 9:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26515,
+    "longitude": -91.99301
+  },
+  {
     "address": "RANDOLPH DR & LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "07/05/2019 - 9:02 PM",
