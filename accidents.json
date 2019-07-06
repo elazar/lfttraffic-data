@@ -1,5 +1,13 @@
 [
   {
+    "address": "E MAIN ST & ST ETIENNE RD",
+    "city": "BROUSSARD",
+    "time": "07/05/2019 - 9:41 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13374,
+    "longitude": -91.94571
+  },
+  {
     "address": "1951 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "07/05/2019 - 9:02 PM",
