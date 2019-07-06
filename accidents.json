@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "126 LEXINGTON DR",
+    "city": "DUSON",
+    "time": "07/06/2019 - 5:47 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.25184,
+    "longitude": -92.19508
+  }
+]
