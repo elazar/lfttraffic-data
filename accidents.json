@@ -1,5 +1,13 @@
 [
   {
+    "address": "NW EVANGELINE TW & JEFFERSON BL",
+    "city": "LAFAYETTE",
+    "time": "07/06/2019 - 10:19 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.22867,
+    "longitude": -92.01254
+  },
+  {
     "address": "113 WOODROW ST",
     "city": "LAFAYETTE",
     "time": "07/06/2019 - 10:11 AM",
