@@ -1,5 +1,13 @@
 [
   {
+    "address": "2900 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/06/2019 - 12:25 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20586,
+    "longitude": -92.04097
+  },
+  {
     "address": "KALISTE SALOOM RD & POLLY LN",
     "city": "LAFAYETTE",
     "time": "07/06/2019 - 11:39 AM",
