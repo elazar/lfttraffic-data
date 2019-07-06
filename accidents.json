@@ -1,5 +1,13 @@
 [
   {
+    "address": "VEROT SCHOOL RD & YVETTE MARIE DR",
+    "city": "LAFAYETTE",
+    "time": "07/06/2019 - 11:00 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1587,
+    "longitude": -92.02335
+  },
+  {
     "address": "MARGOT LN & RIDGE RD",
     "city": "LAFAYETTE",
     "time": "07/06/2019 - 10:42 AM",
