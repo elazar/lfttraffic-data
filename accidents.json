@@ -1,5 +1,13 @@
 [
   {
+    "address": "RANDOLPH DR & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "07/05/2019 - 9:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24277,
+    "longitude": -92.0007
+  },
+  {
     "address": "N UNIVERSITY AV & CLARA ST",
     "city": "LAFAYETTE",
     "time": "07/05/2019 - 8:56 PM",
