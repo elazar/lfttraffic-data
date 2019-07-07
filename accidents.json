@@ -1,13 +1,5 @@
 [
   {
-    "address": "LA 93 HW & I10 HW",
-    "city": "SCOTT",
-    "time": "07/07/2019 - 5:07 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.23922,
-    "longitude": -92.10743
-  },
-  {
     "address": "101 PARKLANE RD",
     "city": "LAFAYETTE",
     "time": "07/07/2019 - 5:05 PM",
