@@ -1,18 +1,1 @@
-[
-  {
-    "address": "307 PALMS DR",
-    "city": "LAFAYETTE",
-    "time": "07/07/2019 - 10:14 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.16565,
-    "longitude": -92.07906
-  },
-  {
-    "address": "203 ADALINE ST",
-    "city": "LAFAYETTE",
-    "time": "07/07/2019 - 10:02 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.33413,
-    "longitude": -91.97855
-  }
-]
+[]
