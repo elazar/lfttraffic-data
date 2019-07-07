@@ -1,5 +1,21 @@
 [
   {
+    "address": "HEIDE CL & ELMIRA RD",
+    "city": "SCOTT",
+    "time": "07/06/2019 - 11:27 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.25761,
+    "longitude": -92.07882
+  },
+  {
+    "address": "JOHNSTON ST & GARFIELD ST",
+    "city": "LAFAYETTE",
+    "time": "07/06/2019 - 11:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22438,
+    "longitude": -92.01447
+  },
+  {
     "address": "E KALISTE SALOOM RD & SW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/06/2019 - 11:20 PM",
