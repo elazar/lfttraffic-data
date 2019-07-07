@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19597,
     "longitude": -92.07523
-  },
-  {
-    "address": "111 HOLLYWOOD DR",
-    "city": "LAFAYETTE",
-    "time": "07/07/2019 - 3:20 PM",
-    "due_to": "Residential Fire",
-    "latitude": 30.24976,
-    "longitude": -92.03419
   }
 ]
