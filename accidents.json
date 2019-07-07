@@ -1,5 +1,13 @@
 [
   {
+    "address": "2900 NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "07/07/2019 - 3:55 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2826019,
+    "longitude": -92.0215271
+  },
+  {
     "address": "1500 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "07/07/2019 - 3:20 PM",
