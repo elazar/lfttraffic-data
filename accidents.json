@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "130 N AMBASSADOR CAFFERY PW",
+    "city": "SCOTT",
+    "time": "07/07/2019 - 12:21 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2495644,
+    "longitude": -92.0661651
+  }
+]
