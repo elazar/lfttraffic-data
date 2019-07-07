@@ -1,5 +1,13 @@
 [
   {
+    "address": "2405 LA 93 HW",
+    "city": "LAFAYETTE",
+    "time": "07/07/2019 - 5:47 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29839,
+    "longitude": -92.11708
+  },
+  {
     "address": "JOHNSTON ST & VITAL ST",
     "city": "LAFAYETTE",
     "time": "07/07/2019 - 5:42 PM",
