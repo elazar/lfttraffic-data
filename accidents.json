@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "201 CHURCH ST",
+    "city": "YOUNGSVILLE",
+    "time": "07/07/2019 - 08:30 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.09752,
+    "longitude": -91.9907
+  }
+]
