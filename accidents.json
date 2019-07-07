@@ -1,5 +1,13 @@
 [
   {
+    "address": "1230 GUILLIOT RD",
+    "city": "YOUNGSVILLE",
+    "time": "07/07/2019 - 6:05 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.06611,
+    "longitude": -91.99118
+  },
+  {
     "address": "LANDRY RD & S RICHFIELD RD",
     "city": "LAFAYETTE",
     "time": "07/07/2019 - 6:01 PM",
