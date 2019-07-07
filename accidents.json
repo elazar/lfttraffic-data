@@ -1,5 +1,21 @@
 [
   {
+    "address": "1000 ROBLEY DR",
+    "city": "LAFAYETTE",
+    "time": "07/07/2019 - 12:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16852,
+    "longitude": -92.07057
+  },
+  {
+    "address": "101 FLOYD ST",
+    "city": "LAFAYETTE",
+    "time": "07/07/2019 - 12:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24491,
+    "longitude": -92.01873
+  },
+  {
     "address": "130 N AMBASSADOR CAFFERY PW",
     "city": "SCOTT",
     "time": "07/07/2019 - 12:21 PM",
