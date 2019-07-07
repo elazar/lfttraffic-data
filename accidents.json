@@ -1,5 +1,13 @@
 [
   {
+    "address": "DELHOMME AV & ALFRED ST",
+    "city": "SCOTT",
+    "time": "07/06/2019 - 9:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23582,
+    "longitude": -92.09389
+  },
+  {
     "address": "W CONGRESS ST & GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "07/06/2019 - 9:03 PM",
