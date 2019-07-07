@@ -1,5 +1,13 @@
 [
   {
+    "address": "201 MEADOW FARM RD",
+    "city": "LAFAYETTE",
+    "time": "07/07/2019 - 2:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1561931,
+    "longitude": -92.0443186
+  },
+  {
     "address": "104 I10 WESTBOUND MM104 HW",
     "city": "LAFAYETTE",
     "time": "07/07/2019 - 1:58 PM",
