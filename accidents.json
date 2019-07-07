@@ -1,5 +1,13 @@
 [
   {
+    "address": "800 LAFAYETTE ST",
+    "city": "LAFAYETTE",
+    "time": "07/07/2019 - 04:04 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.22499,
+    "longitude": -92.02131
+  },
+  {
     "address": "4414 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/07/2019 - 03:20 AM",
