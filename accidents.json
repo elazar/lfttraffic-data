@@ -6,21 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22438,
     "longitude": -92.01447
-  },
-  {
-    "address": "HEIDE CL & ELMIRA RD",
-    "city": "SCOTT",
-    "time": "07/06/2019 - 11:27 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.25761,
-    "longitude": -92.07882
-  },
-  {
-    "address": "214 SABATIER RD",
-    "city": "LAFAYETTE",
-    "time": "07/06/2019 - 10:41 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.24645,
-    "longitude": -92.05095
   }
 ]
