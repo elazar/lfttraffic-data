@@ -1,5 +1,21 @@
 [
   {
+    "address": "W CONGRESS ST & W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "07/06/2019 - 10:41 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2261,
+    "longitude": -92.02828
+  },
+  {
+    "address": "214 SABATIER RD",
+    "city": "LAFAYETTE",
+    "time": "07/06/2019 - 10:41 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.24645,
+    "longitude": -92.05095
+  },
+  {
     "address": "171 BLAINE ST",
     "city": "LAFAYETTE",
     "time": "07/06/2019 - 10:39 PM",
