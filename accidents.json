@@ -1,5 +1,13 @@
 [
   {
+    "address": "302 WEST MAIN",
+    "city": "Lafayette",
+    "time": "07/07/2019 - 11:56 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.2230449,
+    "longitude": -92.0209788
+  },
+  {
     "address": "I10 EASTBOUND MM99-5 HW & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/07/2019 - 11:44 AM",
