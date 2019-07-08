@@ -1,5 +1,13 @@
 [
   {
+    "address": "2319 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/08/2019 - 12:56 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.20935,
+    "longitude": -92.03183
+  },
+  {
     "address": "POLK ST & E MADISON ST",
     "city": "BROUSSARD",
     "time": "07/08/2019 - 12:54 PM",
