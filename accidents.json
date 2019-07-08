@@ -1,10 +1,10 @@
 [
   {
-    "address": "CAMELLIA BL & SETTLERS TRACE BL",
+    "address": "JOHNSTON ST & DOUCET RD",
     "city": "LAFAYETTE",
-    "time": "07/07/2019 - 8:18 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.16963,
-    "longitude": -92.039
+    "time": "07/07/2019 - 8:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20341,
+    "longitude": -92.04888
   }
 ]
