@@ -1,13 +1,5 @@
 [
   {
-    "address": "200 N COLLEGE RD",
-    "city": "LAFAYETTE",
-    "time": "07/08/2019 - 3:20 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.20896,
-    "longitude": -92.04023
-  },
-  {
     "address": "6400 CAMERON ST",
     "city": "SCOTT",
     "time": "07/08/2019 - 2:58 PM",
@@ -54,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19364,
     "longitude": -92.0587
-  },
-  {
-    "address": "2319 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "07/08/2019 - 12:56 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.20935,
-    "longitude": -92.03183
   },
   {
     "address": "BERTRAND DR & AMBASSADOR CAFFERY PW",
