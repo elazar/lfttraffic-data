@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.35603,
     "longitude": -92.05156
-  },
-  {
-    "address": "1800 NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "07/08/2019 - 05:15 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.24592,
-    "longitude": -92.01176
   }
 ]
