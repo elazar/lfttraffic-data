@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & JEFFERSON ST",
+    "city": "LAFAYETTE",
+    "time": "07/08/2019 - 5:48 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2201,
+    "longitude": -92.0172
+  },
+  {
     "address": "NE EVANGELINE TW & JEFFERSON BL",
     "city": "LAFAYETTE",
     "time": "07/08/2019 - 5:40 PM",
