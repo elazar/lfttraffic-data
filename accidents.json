@@ -1,5 +1,13 @@
 [
   {
+    "address": "123 ST MARGARITE ST",
+    "city": "LAFAYETTE",
+    "time": "07/08/2019 - 5:49 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.23531,
+    "longitude": -91.98651
+  },
+  {
     "address": "JOHNSTON ST & JEFFERSON ST",
     "city": "LAFAYETTE",
     "time": "07/08/2019 - 5:48 PM",
@@ -38,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19915,
     "longitude": -92.02663
-  },
-  {
-    "address": "302 DULLES DR",
-    "city": "LAFAYETTE",
-    "time": "07/08/2019 - 4:41 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2190491,
-    "longitude": -92.0569825
   },
   {
     "address": "7 I49 SOUTHBOUND MM7 HW",
