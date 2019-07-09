@@ -16,27 +16,11 @@
     "longitude": -92.11231
   },
   {
-    "address": "JOHNSTON ST & GUILBEAU RD",
-    "city": "LAFAYETTE",
-    "time": "07/09/2019 - 10:55 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19375,
-    "longitude": -92.0586
-  },
-  {
     "address": "4108 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "07/09/2019 - 10:51 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.1526293,
     "longitude": -91.9589785
-  },
-  {
-    "address": "1400 SE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "07/09/2019 - 10:30 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21721,
-    "longitude": -92.00492
   }
 ]
