@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & WINDMILL LN",
+    "city": "LAFAYETTE",
+    "time": "07/09/2019 - 6:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24676,
+    "longitude": -92.03392
+  },
+  {
     "address": "OPTIMIST RD & WILDLIFE DR",
     "city": "LAFAYETTE",
     "time": "07/09/2019 - 6:11 PM",
