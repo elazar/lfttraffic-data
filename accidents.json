@@ -1,5 +1,13 @@
 [
   {
+    "address": "TOUCHET RD & W BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "07/09/2019 - 11:04 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15262,
+    "longitude": -92.09763
+  },
+  {
     "address": "600 LA 93 HW",
     "city": "SCOTT",
     "time": "07/09/2019 - 11:02 AM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1526293,
     "longitude": -91.9589785
-  },
-  {
-    "address": "315 S COLLEGE RD",
-    "city": "LAFAYETTE",
-    "time": "07/09/2019 - 10:37 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20474,
-    "longitude": -92.03377
   },
   {
     "address": "1400 SE EVANGELINE TW",
