@@ -1,5 +1,13 @@
 [
   {
+    "address": "129 ORANGEWOOD DR",
+    "city": "LAFAYETTE",
+    "time": "07/09/2019 - 09:21 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17834,
+    "longitude": -92.06996
+  },
+  {
     "address": "SOUTHCITY PW & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/09/2019 - 09:17 AM",
