@@ -1,5 +1,13 @@
 [
   {
+    "address": "SOUTHCITY PW & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/09/2019 - 09:17 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16605,
+    "longitude": -92.08306
+  },
+  {
     "address": "121 E VERMILION ST",
     "city": "LAFAYETTE",
     "time": "07/09/2019 - 08:43 AM",
