@@ -1,5 +1,13 @@
 [
   {
+    "address": "ALBERTSON PW & HILLBROOKE DR",
+    "city": "BROUSSARD",
+    "time": "07/09/2019 - 1:35 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13778,
+    "longitude": -91.97474
+  },
+  {
     "address": "NW EVANGELINE TW & SAMPSON AV",
     "city": "LAFAYETTE",
     "time": "07/09/2019 - 1:21 PM",
