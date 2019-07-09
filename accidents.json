@@ -46,13 +46,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21993,
     "longitude": -92.04115
-  },
-  {
-    "address": "1210 ALBERTSON PW",
-    "city": "BROUSSARD",
-    "time": "07/09/2019 - 4:28 PM",
-    "due_to": "Vehicle Fire",
-    "latitude": 30.1401,
-    "longitude": -91.94845
   }
 ]
