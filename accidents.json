@@ -1,5 +1,13 @@
 [
   {
+    "address": "S RICHFIELD RD & HOG ALLEY",
+    "city": "LAFAYETTE",
+    "time": "07/09/2019 - 6:19 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.16204,
+    "longitude": -92.17572
+  },
+  {
     "address": "218 ELYSIAN FIELDS DR",
     "city": "LAFAYETTE",
     "time": "07/09/2019 - 6:17 PM",
