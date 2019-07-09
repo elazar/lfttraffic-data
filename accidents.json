@@ -2,6 +2,14 @@
   {
     "address": "SE EVANGELINE TW & SEVENTH ST",
     "city": "LAFAYETTE",
+    "time": "07/09/2019 - 4:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22654,
+    "longitude": -92.01035
+  },
+  {
+    "address": "SE EVANGELINE TW & SEVENTH ST",
+    "city": "LAFAYETTE",
     "time": "07/09/2019 - 4:56 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.22654,
