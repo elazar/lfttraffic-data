@@ -8,28 +8,12 @@
     "longitude": -92.01381
   },
   {
-    "address": "1000 E BAYOU PW",
-    "city": "LAFAYETTE",
-    "time": "07/09/2019 - 1:04 PM",
-    "due_to": "Hazard",
-    "latitude": 30.1845,
-    "longitude": -92.02868
-  },
-  {
     "address": "2317 E MILTON AV",
     "city": "YOUNGSVILLE",
     "time": "07/09/2019 - 12:54 PM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.1094649,
     "longitude": -92.0287958
-  },
-  {
-    "address": "JOHNSTON ST & FOREMAN DR",
-    "city": "LAFAYETTE",
-    "time": "07/09/2019 - 12:12 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20233,
-    "longitude": -92.0521
   },
   {
     "address": "500 LOUL ST",
