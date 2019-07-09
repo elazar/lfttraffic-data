@@ -1,5 +1,13 @@
 [
   {
+    "address": "RUE IBERVILLE & S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "07/09/2019 - 11:20 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19176,
+    "longitude": -92.00764
+  },
+  {
     "address": "TOUCHET RD & W BROUSSARD RD",
     "city": "LAFAYETTE",
     "time": "07/09/2019 - 11:04 AM",
