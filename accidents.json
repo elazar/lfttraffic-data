@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & FOREMAN DR",
+    "city": "LAFAYETTE",
+    "time": "07/09/2019 - 12:12 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20233,
+    "longitude": -92.0521
+  },
+  {
     "address": "500 LOUL ST",
     "city": "BROUSSARD",
     "time": "07/09/2019 - 12:06 PM",
@@ -38,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17862,
     "longitude": -91.99977
-  },
-  {
-    "address": "BENTGRASS DR & EVERGLADES DR",
-    "city": "LAFAYETTE",
-    "time": "07/09/2019 - 11:44 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.12139,
-    "longitude": -92.05776
   },
   {
     "address": "RUE IBERVILLE & S COLLEGE RD",
