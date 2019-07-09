@@ -1,5 +1,13 @@
 [
   {
+    "address": "WYMAN RD & LA 93 HW",
+    "city": "LAFAYETTE",
+    "time": "07/09/2019 - 11:00 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.27603,
+    "longitude": -92.11231
+  },
+  {
     "address": "JOHNSTON ST & GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "07/09/2019 - 10:55 AM",
