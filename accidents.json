@@ -1,19 +1,19 @@
 [
   {
+    "address": "OPTIMIST RD & WILDLIFE DR",
+    "city": "LAFAYETTE",
+    "time": "07/09/2019 - 6:11 PM",
+    "due_to": "Grass Fire",
+    "latitude": 30.29053,
+    "longitude": -91.9757
+  },
+  {
     "address": "E KALISTE SALOOM RD & SW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/09/2019 - 6:05 PM",
     "due_to": "Road Hazard",
     "latitude": 30.20067,
     "longitude": -91.99958
-  },
-  {
-    "address": "W SIMCOE ST & S PIERCE ST",
-    "city": "LAFAYETTE",
-    "time": "07/09/2019 - 5:26 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23067,
-    "longitude": -92.01881
   },
   {
     "address": "SE EVANGELINE TW & SEVENTH ST",
