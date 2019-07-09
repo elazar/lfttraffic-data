@@ -1,5 +1,13 @@
 [
   {
+    "address": "REINHARDT DR & CAJUNDOME BL",
+    "city": "LAFAYETTE",
+    "time": "07/09/2019 - 6:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21601,
+    "longitude": -92.03922
+  },
+  {
     "address": "218 ELYSIAN FIELDS DR",
     "city": "LAFAYETTE",
     "time": "07/09/2019 - 6:17 PM",
@@ -30,14 +38,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.20067,
     "longitude": -91.99958
-  },
-  {
-    "address": "SE EVANGELINE TW & SEVENTH ST",
-    "city": "LAFAYETTE",
-    "time": "07/09/2019 - 4:58 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22654,
-    "longitude": -92.01035
   },
   {
     "address": "2350 W CONGRESS ST",
