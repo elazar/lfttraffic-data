@@ -1,5 +1,13 @@
 [
   {
+    "address": "N MORGAN AV & US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "07/09/2019 - 11:58 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.15291,
+    "longitude": -91.95943
+  },
+  {
     "address": "5725 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/09/2019 - 11:54 AM",
