@@ -1,5 +1,13 @@
 [
   {
+    "address": "E UNIVERSITY AV & SPRING ST",
+    "city": "LAFAYETTE",
+    "time": "07/09/2019 - 5:58 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.20963,
+    "longitude": -92.00859
+  },
+  {
     "address": "E KALISTE SALOOM RD & HUGH WALLIS RD",
     "city": "LAFAYETTE",
     "time": "07/09/2019 - 5:48 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.23067,
     "longitude": -92.01881
-  },
-  {
-    "address": "PECAN GROVE RD & W WILLOW ST",
-    "city": "SCOTT",
-    "time": "07/09/2019 - 5:23 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24301,
-    "longitude": -92.07218
   },
   {
     "address": "SE EVANGELINE TW & SEVENTH ST",
