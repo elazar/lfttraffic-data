@@ -1,5 +1,13 @@
 [
   {
+    "address": "800 E KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "07/09/2019 - 3:30 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1994954,
+    "longitude": -92.0018335
+  },
+  {
     "address": "JOHNSTON ST & JEFFERSON ST",
     "city": "LAFAYETTE",
     "time": "07/09/2019 - 3:24 PM",
