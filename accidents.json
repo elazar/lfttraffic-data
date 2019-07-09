@@ -1,5 +1,13 @@
 [
   {
+    "address": "BENTGRASS DR & EVERGLADES DR",
+    "city": "LAFAYETTE",
+    "time": "07/09/2019 - 11:44 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.12139,
+    "longitude": -92.05776
+  },
+  {
     "address": "1800 ST MARY ST",
     "city": "SCOTT",
     "time": "07/09/2019 - 11:25 AM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19176,
     "longitude": -92.00764
-  },
-  {
-    "address": "WYMAN RD & LA 93 HW",
-    "city": "LAFAYETTE",
-    "time": "07/09/2019 - 11:00 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.27603,
-    "longitude": -92.11231
   }
 ]
