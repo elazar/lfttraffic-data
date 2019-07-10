@@ -1,5 +1,13 @@
 [
   {
+    "address": "204 JERRY ST",
+    "city": "LAFAYETTE",
+    "time": "07/10/2019 - 07:44 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.15295,
+    "longitude": -92.08528
+  },
+  {
     "address": "US 90 EAST HW & N GIROUARD RD",
     "city": "BROUSSARD",
     "time": "07/10/2019 - 07:31 AM",
