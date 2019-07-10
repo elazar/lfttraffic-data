@@ -1,5 +1,13 @@
 [
   {
+    "address": "201 ENERGY PW",
+    "city": "LAFAYETTE",
+    "time": "07/10/2019 - 6:29 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.18082,
+    "longitude": -92.00925
+  },
+  {
     "address": "3810 NE EVANGELINE TW",
     "city": "CARENCRO",
     "time": "07/10/2019 - 6:21 PM",
