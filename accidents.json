@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.29564,
     "longitude": -92.02676
-  },
-  {
-    "address": "97 I10 WESTBOUND MM97 HW",
-    "city": "LAFAYETTE",
-    "time": "07/10/2019 - 11:03 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.26255,
-    "longitude": -92.00867
   }
 ]
