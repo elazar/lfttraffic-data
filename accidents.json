@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1800 ST MARY ST",
+    "city": "SCOTT",
+    "time": "07/10/2019 - 06:52 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24331,
+    "longitude": -92.10524
+  }
+]
