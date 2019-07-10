@@ -1,5 +1,13 @@
 [
   {
+    "address": "108 SILVER GLEN DR",
+    "city": "LAFAYETTE",
+    "time": "07/09/2019 - 7:16 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.28112,
+    "longitude": -92.11504
+  },
+  {
     "address": "218 ELYSIAN FIELDS DR",
     "city": "LAFAYETTE",
     "time": "07/09/2019 - 6:17 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24676,
     "longitude": -92.03392
-  },
-  {
-    "address": "E KALISTE SALOOM RD & SW EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "07/09/2019 - 6:05 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.20067,
-    "longitude": -91.99958
   },
   {
     "address": "2350 W CONGRESS ST",
