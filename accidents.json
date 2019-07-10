@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "07/10/2019 - 12:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20101,
+    "longitude": -92.01538
+  },
+  {
     "address": "W GLORIA SWITCH RD & NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/10/2019 - 12:21 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.27444,
     "longitude": -92.01665
-  },
-  {
-    "address": "101 W MAIN ST",
-    "city": "BROUSSARD",
-    "time": "07/10/2019 - 11:55 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.14786,
-    "longitude": -91.9644
   },
   {
     "address": "KALISTE SALOOM RD & ROSEDALE DR",
