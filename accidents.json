@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & PREJEAN RD",
+    "city": "CARENCRO",
+    "time": "07/10/2019 - 10:01 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.30943,
+    "longitude": -92.04946
+  },
+  {
     "address": "W GARFIELD ST & JEFFERSON ST",
     "city": "LAFAYETTE",
     "time": "07/10/2019 - 09:43 AM",
