@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & LA 182 HW",
+    "city": "BROUSSARD",
+    "time": "07/11/2019 - 3:40 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.14823,
+    "longitude": -91.96419
+  },
+  {
     "address": "97 I10 EASTBOUND MM97 HW",
     "city": "LAFAYETTE",
     "time": "07/11/2019 - 3:25 PM",
