@@ -8,14 +8,6 @@
     "longitude": -92.04946
   },
   {
-    "address": "ERASTE LANDRY RD & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "07/11/2019 - 5:12 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.21912,
-    "longitude": -92.07587
-  },
-  {
     "address": "SW EVANGELINE TW & E UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "07/11/2019 - 5:11 PM",
@@ -30,14 +22,6 @@
     "due_to": "Fire Investigation",
     "latitude": 30.11468,
     "longitude": -92.03244
-  },
-  {
-    "address": "SE EVANGELINE TW & E VEROT SCHOOL RD",
-    "city": "LAFAYETTE",
-    "time": "07/11/2019 - 5:06 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.18291,
-    "longitude": -91.98959
   },
   {
     "address": "2863 AMBASSADOR CAFFERY PW",
