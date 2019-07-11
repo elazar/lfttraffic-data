@@ -1,19 +1,19 @@
 [
   {
+    "address": "325 E MAIN ST",
+    "city": "LAFAYETTE",
+    "time": "07/11/2019 - 2:41 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22258,
+    "longitude": -92.01631
+  },
+  {
     "address": "100 RUE BON SECOURS",
     "city": "SCOTT",
     "time": "07/11/2019 - 2:36 PM",
     "due_to": "Residential Fire",
     "latitude": 30.25798,
     "longitude": -92.10852
-  },
-  {
-    "address": "1500 LOUISIANA AV",
-    "city": "LAFAYETTE",
-    "time": "07/11/2019 - 1:51 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2347552,
-    "longitude": -92.0021193
   },
   {
     "address": "609 SETTLERS TRACE BL",
