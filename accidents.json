@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & LEBESQUE RD",
+    "city": "LAFAYETTE",
+    "time": "07/11/2019 - 1:01 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.27587,
+    "longitude": -92.04949
+  },
+  {
     "address": "2678 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/11/2019 - 12:46 PM",
