@@ -1,5 +1,13 @@
 [
   {
+    "address": "ORANGEWOOD DR & BROADMOOR BL",
+    "city": "LAFAYETTE",
+    "time": "07/11/2019 - 11:00 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17185,
+    "longitude": -92.05955
+  },
+  {
     "address": "NW EVANGELINE TW & MUDD AV",
     "city": "LAFAYETTE",
     "time": "07/11/2019 - 10:58 AM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19275,
     "longitude": -92.03705
-  },
-  {
-    "address": "204 N WILLIAM DR",
-    "city": "LAFAYETTE",
-    "time": "07/11/2019 - 10:38 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.1888,
-    "longitude": -92.06818
   },
   {
     "address": "JOHNSTON ST & CANBERRA RD",
