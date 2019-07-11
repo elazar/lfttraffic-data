@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "300 BONIN RD",
+    "city": "LAFAYETTE",
+    "time": "07/11/2019 - 04:46 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.16093,
+    "longitude": -91.99939
+  }
+]
