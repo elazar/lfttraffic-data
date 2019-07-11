@@ -1,5 +1,13 @@
 [
   {
+    "address": "609 SETTLERS TRACE BL",
+    "city": "LAFAYETTE",
+    "time": "07/11/2019 - 1:42 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.15845,
+    "longitude": -92.05388
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & SETTLERS TRACE BL",
     "city": "LAFAYETTE",
     "time": "07/11/2019 - 1:34 PM",
@@ -38,13 +46,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20323,
     "longitude": -92.05097
-  },
-  {
-    "address": "CAMELLIA BL & SETTLERS TRACE BL",
-    "city": "LAFAYETTE",
-    "time": "07/11/2019 - 11:36 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.16963,
-    "longitude": -92.039
   }
 ]
