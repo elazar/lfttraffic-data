@@ -1,5 +1,13 @@
 [
   {
+    "address": "1500 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "07/11/2019 - 1:51 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2347552,
+    "longitude": -92.0021193
+  },
+  {
     "address": "609 SETTLERS TRACE BL",
     "city": "LAFAYETTE",
     "time": "07/11/2019 - 1:42 PM",
