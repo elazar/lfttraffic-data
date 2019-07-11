@@ -1,5 +1,13 @@
 [
   {
+    "address": "606 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "07/10/2019 - 8:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23753,
+    "longitude": -92.03172
+  },
+  {
     "address": "N UNIVERSITY AV & I10 HW",
     "city": "LAFAYETTE",
     "time": "07/10/2019 - 7:38 PM",
