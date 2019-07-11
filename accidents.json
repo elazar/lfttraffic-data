@@ -8,12 +8,12 @@
     "longitude": -92.03842
   },
   {
-    "address": "W UNIVERSITY AV & CAMERON ST",
+    "address": "1451 CAMERON ST",
     "city": "LAFAYETTE",
     "time": "07/11/2019 - 12:44 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.23236,
-    "longitude": -92.03238
+    "latitude": 30.2321548,
+    "longitude": -92.0308538
   },
   {
     "address": "3300 JOHNSTON ST",
@@ -22,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20323,
     "longitude": -92.05097
-  },
-  {
-    "address": "801 FOREMAN DR",
-    "city": "LAFAYETTE",
-    "time": "07/11/2019 - 12:27 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21445,
-    "longitude": -92.06363
   },
   {
     "address": "1600 W PINHOOK RD",
