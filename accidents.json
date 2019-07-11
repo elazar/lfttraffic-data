@@ -1,5 +1,13 @@
 [
   {
+    "address": "3300 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/11/2019 - 12:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20323,
+    "longitude": -92.05097
+  },
+  {
     "address": "801 FOREMAN DR",
     "city": "LAFAYETTE",
     "time": "07/11/2019 - 12:27 PM",
