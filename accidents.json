@@ -1,5 +1,13 @@
 [
   {
+    "address": "I10 SOUTH FRONTAGE RD & MILLS ST",
+    "city": "SCOTT",
+    "time": "07/11/2019 - 3:47 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2447,
+    "longitude": -92.09131
+  },
+  {
     "address": "US 90 EAST HW & LA 182 HW",
     "city": "BROUSSARD",
     "time": "07/11/2019 - 3:40 PM",
