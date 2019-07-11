@@ -15,14 +15,7 @@
     "latitude": 30.16963,
     "longitude": -92.039
   },
-  {
-    "address": "AMBASSADOR CAFFERY PW & VEROT SCHOOL RD",
-    "city": "LAFAYETTE",
-    "time": "07/11/2019 - 11:03 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.14589,
-    "longitude": -92.03252
-  },
+  null,
   {
     "address": "ORANGEWOOD DR & BROADMOOR BL",
     "city": "LAFAYETTE",
@@ -38,5 +31,13 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23312,
     "longitude": -92.01407
+  },
+  {
+    "address": "JOHNSTON ST & CANBERRA RD",
+    "city": "LAFAYETTE",
+    "time": "07/11/2019 - 10:23 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15924,
+    "longitude": -92.08588
   }
 ]
