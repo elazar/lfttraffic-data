@@ -8,28 +8,12 @@
     "longitude": -92.17607
   },
   {
-    "address": "308 RUE PLAISANCE",
-    "city": "BROUSSARD",
-    "time": "07/11/2019 - 5:43 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.14371,
-    "longitude": -91.99448
-  },
-  {
     "address": "3919 N UNIVERSITY AV",
     "city": "CARENCRO",
     "time": "07/11/2019 - 5:32 PM",
     "due_to": "Wire Hazard",
     "latitude": 30.30887,
     "longitude": -92.0505
-  },
-  {
-    "address": "SW EVANGELINE TW & E UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "07/11/2019 - 5:11 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.20908,
-    "longitude": -92.00007
   },
   {
     "address": "VEROT SCHOOL RD & GRANDVIEW TERRACE DR",
@@ -54,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21504,
     "longitude": -92.07579
-  },
-  {
-    "address": "325 E MAIN ST",
-    "city": "LAFAYETTE",
-    "time": "07/11/2019 - 2:41 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22258,
-    "longitude": -92.01631
   }
 ]
