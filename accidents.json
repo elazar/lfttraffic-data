@@ -1,5 +1,13 @@
 [
   {
+    "address": "ERASTE LANDRY RD & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "07/11/2019 - 5:12 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.21912,
+    "longitude": -92.07587
+  },
+  {
     "address": "SW EVANGELINE TW & E UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "07/11/2019 - 5:11 PM",
