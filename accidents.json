@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 N PAT ST",
+    "city": "LAFAYETTE",
+    "time": "07/11/2019 - 07:31 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.24066,
+    "longitude": -92.05726
+  },
+  {
     "address": "US 90 EAST HW & YOUNG ST",
     "city": "BROUSSARD",
     "time": "07/11/2019 - 07:15 AM",
