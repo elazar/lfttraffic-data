@@ -1,5 +1,13 @@
 [
   {
+    "address": "4600 DECON RD",
+    "city": "LAFAYETTE",
+    "time": "07/11/2019 - 1:05 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.0820332,
+    "longitude": -92.0240225
+  },
+  {
     "address": "N UNIVERSITY AV & LEBESQUE RD",
     "city": "LAFAYETTE",
     "time": "07/11/2019 - 1:01 PM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20323,
     "longitude": -92.05097
-  },
-  {
-    "address": "1600 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "07/11/2019 - 12:20 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19462,
-    "longitude": -92.01667
   },
   {
     "address": "CAMELLIA BL & SETTLERS TRACE BL",
