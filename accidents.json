@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "122 JAMES COMEAUX RD",
+    "city": "LAFAYETTE",
+    "time": "07/10/2019 - 11:44 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.18824,
+    "longitude": -92.011
+  }
+]
