@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "07/10/2019 - 7:38 PM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.24052,
+    "longitude": -92.03242
+  },
+  {
     "address": "ST ANNE ST & CAMERON ST",
     "city": "SCOTT",
     "time": "07/10/2019 - 7:22 PM",
