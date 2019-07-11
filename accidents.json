@@ -1,5 +1,13 @@
 [
   {
+    "address": "LOUISIANA AV & MUDD AV",
+    "city": "LAFAYETTE",
+    "time": "07/10/2019 - 8:47 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23174,
+    "longitude": -92.0027
+  },
+  {
     "address": "4600 MOSS ST",
     "city": "CARENCRO",
     "time": "07/10/2019 - 8:40 PM",
