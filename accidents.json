@@ -1,5 +1,13 @@
 [
   {
+    "address": "4501 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/12/2019 - 12:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19292,
+    "longitude": -92.05838
+  },
+  {
     "address": "600 SETTLERS TRACE BL",
     "city": "LAFAYETTE",
     "time": "07/12/2019 - 12:17 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19826,
     "longitude": -92.07007
-  },
-  {
-    "address": "APOLLO RD & ST MARY ST",
-    "city": "SCOTT",
-    "time": "07/12/2019 - 11:55 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24428,
-    "longitude": -92.10699
   },
   {
     "address": "MOSS ST & E PONT DES MOUTON RD",
