@@ -1,5 +1,13 @@
 [
   {
+    "address": "1315 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "07/12/2019 - 1:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24341,
+    "longitude": -92.00696
+  },
+  {
     "address": "JOHNSTON ST & E BROUSSARD RD",
     "city": "LAFAYETTE",
     "time": "07/12/2019 - 1:11 PM",
