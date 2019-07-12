@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 SETTLERS TRACE BL",
+    "city": "LAFAYETTE",
+    "time": "07/12/2019 - 12:17 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1598826,
+    "longitude": -92.0525524
+  },
+  {
     "address": "ERASTE LANDRY RD & CAJUNDOME BL",
     "city": "LAFAYETTE",
     "time": "07/12/2019 - 12:11 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19826,
     "longitude": -92.07007
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "07/12/2019 - 12:03 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.15649,
-    "longitude": -92.04838
   },
   {
     "address": "APOLLO RD & ST MARY ST",
