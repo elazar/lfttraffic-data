@@ -1,13 +1,5 @@
 [
   {
-    "address": "200 ACACIA DR",
-    "city": "LAFAYETTE",
-    "time": "07/11/2019 - 8:16 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.19007,
-    "longitude": -92.0298
-  },
-  {
     "address": "215 REPUBLIC AV",
     "city": "LAFAYETTE",
     "time": "07/11/2019 - 8:16 PM",
@@ -22,13 +14,5 @@
     "due_to": "Fire Alarm-Commercial",
     "latitude": 30.30855,
     "longitude": -92.03783
-  },
-  {
-    "address": "245 N COLLEGE RD",
-    "city": "LAFAYETTE",
-    "time": "07/11/2019 - 7:36 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21074,
-    "longitude": -92.04256
   }
 ]
