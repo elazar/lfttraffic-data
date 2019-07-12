@@ -1,5 +1,13 @@
 [
   {
+    "address": "2020 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/12/2019 - 3:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21109,
+    "longitude": -92.02902
+  },
+  {
     "address": "W PINHOOK RD & E UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "07/12/2019 - 2:59 PM",
