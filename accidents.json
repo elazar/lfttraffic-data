@@ -1,5 +1,13 @@
 [
   {
+    "address": "113 ST JULES ST",
+    "city": "LAFAYETTE",
+    "time": "07/12/2019 - 12:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2284,
+    "longitude": -92.0518
+  },
+  {
     "address": "JOHNSTON ST & SEARS DR",
     "city": "LAFAYETTE",
     "time": "07/12/2019 - 12:36 PM",
