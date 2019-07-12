@@ -1,5 +1,13 @@
 [
   {
+    "address": "1300 MILLS ST",
+    "city": "SCOTT",
+    "time": "07/12/2019 - 5:26 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.25585,
+    "longitude": -92.08892
+  },
+  {
     "address": "107 HECTOR CONNOLY RD",
     "city": "CARENCRO",
     "time": "07/12/2019 - 5:18 PM",
@@ -14,14 +22,6 @@
     "due_to": "Commercial Fire",
     "latitude": 30.11975,
     "longitude": -92.02032
-  },
-  {
-    "address": "2351 W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "07/12/2019 - 4:07 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.2184099,
-    "longitude": -92.0415719
   },
   {
     "address": "AMBASSADOR CAFFERY PW & RIDGE RD",
