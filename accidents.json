@@ -1,5 +1,26 @@
 [
-  null,
-  null,
-  null
+  {
+    "address": "204 ENERGY PW",
+    "city": "LAFAYETTE",
+    "time": "07/12/2019 - 12:07 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.17939,
+    "longitude": -92.01123
+  },
+  {
+    "address": "401 MARNE ST",
+    "city": "LAFAYETTE",
+    "time": "07/12/2019 - 12:05 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.23357,
+    "longitude": -92.00033
+  },
+  {
+    "address": "5431 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "07/11/2019 - 10:34 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.1226,
+    "longitude": -91.94316
+  }
 ]
