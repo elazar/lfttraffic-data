@@ -1,5 +1,13 @@
 [
   {
+    "address": "FORTUNE RD",
+    "city": "Lafayette",
+    "time": "07/12/2019 - 12:53 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.12377,
+    "longitude": -92.01772
+  },
+  {
     "address": "113 ST JULES ST",
     "city": "LAFAYETTE",
     "time": "07/12/2019 - 12:39 PM",
