@@ -1,11 +1,11 @@
 [
   {
-    "address": "1000 DUGAS RD",
-    "city": "SCOTT",
+    "address": "500 DUGAS RD",
+    "city": "LAFAYETTE",
     "time": "07/12/2019 - 5:34 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.2830951,
-    "longitude": -92.0791019
+    "latitude": 30.2833249,
+    "longitude": -92.0664016
   },
   {
     "address": "1300 MILLS ST",
