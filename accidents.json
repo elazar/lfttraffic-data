@@ -1,19 +1,19 @@
 [
   {
+    "address": "1000 DUGAS RD",
+    "city": "SCOTT",
+    "time": "07/12/2019 - 5:34 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2830951,
+    "longitude": -92.0791019
+  },
+  {
     "address": "1300 MILLS ST",
     "city": "SCOTT",
     "time": "07/12/2019 - 5:26 PM",
     "due_to": "Fire Investigation",
     "latitude": 30.25585,
     "longitude": -92.08892
-  },
-  {
-    "address": "107 HECTOR CONNOLY RD",
-    "city": "CARENCRO",
-    "time": "07/12/2019 - 5:18 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.3229677,
-    "longitude": -92.0320849
   },
   {
     "address": "100 ST BLAISE LN",
