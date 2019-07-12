@@ -1,5 +1,21 @@
 [
   {
+    "address": "200 ACACIA DR",
+    "city": "LAFAYETTE",
+    "time": "07/11/2019 - 8:16 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.19007,
+    "longitude": -92.0298
+  },
+  {
+    "address": "215 REPUBLIC AV",
+    "city": "LAFAYETTE",
+    "time": "07/11/2019 - 8:16 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.15709,
+    "longitude": -92.03808
+  },
+  {
     "address": "211 ARCENEAUX RD",
     "city": "CARENCRO",
     "time": "07/11/2019 - 8:07 PM",
