@@ -1,19 +1,19 @@
 [
   {
+    "address": "200 BREAUX RD",
+    "city": "CARENCRO",
+    "time": "07/13/2019 - 6:33 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.3038245,
+    "longitude": -92.0329833
+  },
+  {
     "address": "115 CITRON DR",
     "city": "LAFAYETTE",
     "time": "07/13/2019 - 6:18 PM",
     "due_to": "Wire Hazard",
     "latitude": 30.12569,
     "longitude": -91.99364
-  },
-  {
-    "address": "1100 N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "07/13/2019 - 6:10 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2433,
-    "longitude": -92.03218
   },
   {
     "address": "2400 W CONGRESS ST",
