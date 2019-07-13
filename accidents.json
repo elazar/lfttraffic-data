@@ -1,5 +1,13 @@
 [
   {
+    "address": "103 SONNY ST",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 10:06 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.2553282,
+    "longitude": -92.0072285
+  },
+  {
     "address": "MARTIN LUTHER KING JR DR & JOHNNY ST",
     "city": "LAFAYETTE",
     "time": "07/13/2019 - 10:05 AM",
