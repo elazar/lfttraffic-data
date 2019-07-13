@@ -1,5 +1,13 @@
 [
   {
+    "address": "FIFTH ST & F ST",
+    "city": "DUSON",
+    "time": "07/13/2019 - 5:45 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23905,
+    "longitude": -92.17888
+  },
+  {
     "address": "2400 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "07/13/2019 - 5:44 PM",
@@ -14,14 +22,6 @@
     "due_to": "Incoming Call",
     "latitude": 30.17976,
     "longitude": -92.03865
-  },
-  {
-    "address": "300 COFFIN RD",
-    "city": "LAFAYETTE",
-    "time": "07/13/2019 - 4:41 PM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.324,
-    "longitude": -92.02668
   },
   {
     "address": "S LARRIVIERE RD & LANGLINAIS RD",
