@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "W PONT DES MOUTON RD & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "07/12/2019 - 11:49 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.27587,
+    "longitude": -92.04949
+  }
+]
