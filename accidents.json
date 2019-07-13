@@ -1,5 +1,13 @@
 [
   {
+    "address": "700 ST ESPIRIT,",
+    "city": "Lafayette",
+    "time": "07/13/2019 - 09:23 AM",
+    "due_to": "Hazard",
+    "latitude": 30.34097,
+    "longitude": -92.01769
+  },
+  {
     "address": "100 SIS LN",
     "city": "CARENCRO",
     "time": "07/13/2019 - 09:13 AM",
