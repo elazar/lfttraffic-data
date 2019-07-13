@@ -1,5 +1,13 @@
 [
   {
+    "address": "5431 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "07/12/2019 - 10:31 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19599,
+    "longitude": -92.11707
+  },
+  {
     "address": "721 W BUTCHER SWITCH RD",
     "city": "CARENCRO",
     "time": "07/12/2019 - 10:22 PM",
