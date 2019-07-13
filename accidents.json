@@ -8,14 +8,13 @@
     "longitude": -92.00796
   },
   {
-    "address": "97 I10 WESTBOUND MM97 HW",
+    "address": "1201 E BUTCHER SWITCH RD",
     "city": "LAFAYETTE",
-    "time": "07/13/2019 - 09:04 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.26255,
-    "longitude": -92.00867
+    "time": "07/13/2019 - 08:49 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2862316,
+    "longitude": -91.9908158
   },
-  null,
   {
     "address": "US 90 EAST HW & AMBASSADOR CAFFERY PW",
     "city": "BROUSSARD",
