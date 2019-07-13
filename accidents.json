@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "JOHNSTON ST & ARNOULD BL",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 02:36 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.20186,
+    "longitude": -92.05312
+  }
+]
