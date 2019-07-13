@@ -1,5 +1,13 @@
 [
   {
+    "address": "700 ST ESPRIT RD",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 3:00 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.34097,
+    "longitude": -92.01769
+  },
+  {
     "address": "POST RD & CORMIER RD",
     "city": "LAFAYETTE",
     "time": "07/13/2019 - 2:57 PM",
