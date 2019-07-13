@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 W ALEXANDER ST",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 09:55 AM",
+    "due_to": "Commercial Fire",
+    "latitude": 30.25629,
+    "longitude": -92.00796
+  },
+  {
     "address": "97 I10 WESTBOUND MM97 HW",
     "city": "LAFAYETTE",
     "time": "07/13/2019 - 09:04 AM",
