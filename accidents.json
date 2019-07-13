@@ -1,13 +1,5 @@
 [
   {
-    "address": "800 W BROUSSARD RD",
-    "city": "LAFAYETTE",
-    "time": "07/12/2019 - 10:33 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.17464,
-    "longitude": -92.09913
-  },
-  {
     "address": "5431 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "07/12/2019 - 10:31 PM",
@@ -22,14 +14,6 @@
     "due_to": "Fire Alarm-Commercial",
     "latitude": 30.28706,
     "longitude": -92.04099
-  },
-  {
-    "address": "805 TEURLINGS DR",
-    "city": "LAFAYETTE",
-    "time": "07/12/2019 - 10:13 PM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.24736,
-    "longitude": -91.9888
   },
   {
     "address": "1111 ROPER DR",
