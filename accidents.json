@@ -1,5 +1,13 @@
 [
   {
+    "address": "2400 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 5:44 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.21494,
+    "longitude": -92.04748
+  },
+  {
     "address": "817 ALONDA DR",
     "city": "LAFAYETTE",
     "time": "07/13/2019 - 5:25 PM",
