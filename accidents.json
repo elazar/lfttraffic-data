@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 6:11 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1886,
+    "longitude": -92.0141
+  },
+  {
     "address": "1100 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "07/13/2019 - 6:10 PM",
@@ -14,14 +22,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.28006,
     "longitude": -92.02024
-  },
-  {
-    "address": "LOUL ST & ST DE PORRES ST",
-    "city": "BROUSSARD",
-    "time": "07/13/2019 - 5:51 PM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.14062,
-    "longitude": -91.95805
   },
   {
     "address": "2400 W CONGRESS ST",
