@@ -1,5 +1,13 @@
 [
   {
+    "address": "FELICIE ST & JACQUELINE ST",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 11:46 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.20363,
+    "longitude": -92.0586
+  },
+  {
     "address": "PARKLANE RD & DES JARDIN AV",
     "city": "LAFAYETTE",
     "time": "07/13/2019 - 11:44 AM",
