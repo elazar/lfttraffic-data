@@ -1,5 +1,13 @@
 [
   {
+    "address": "THEO ST & E KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 6:55 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.19732,
+    "longitude": -92.00392
+  },
+  {
     "address": "200 BREAUX RD",
     "city": "CARENCRO",
     "time": "07/13/2019 - 6:34 PM",
@@ -14,13 +22,5 @@
     "due_to": "Road Hazard",
     "latitude": 30.3038245,
     "longitude": -92.0329833
-  },
-  {
-    "address": "2400 W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "07/13/2019 - 5:44 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.21494,
-    "longitude": -92.04748
   }
 ]
