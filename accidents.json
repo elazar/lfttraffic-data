@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "S LARRIVIERE RD & LANGLINAIS RD",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 4:41 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.07284,
+    "longitude": -91.9737
+  }
+]
