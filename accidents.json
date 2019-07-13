@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "416 D ARCENEAUX RD",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 06:21 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23609,
+    "longitude": -92.13129
+  }
+]
