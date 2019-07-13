@@ -1,5 +1,13 @@
 [
   {
+    "address": "95 THEO ST",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 09:41 AM",
+    "due_to": "Residential Fire",
+    "latitude": 30.1969,
+    "longitude": -92.00313
+  },
+  {
     "address": "100 SIS LN",
     "city": "CARENCRO",
     "time": "07/13/2019 - 09:13 AM",
