@@ -1,5 +1,13 @@
 [
   {
+    "address": "205 LO SAAB CV",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 6:38 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.20635,
+    "longitude": -92.06014
+  },
+  {
     "address": "200 BREAUX RD",
     "city": "CARENCRO",
     "time": "07/13/2019 - 6:34 PM",
@@ -30,13 +38,5 @@
     "due_to": "Road Hazard",
     "latitude": 30.21494,
     "longitude": -92.04748
-  },
-  {
-    "address": "700 LANGLINAIS RD",
-    "city": "LAFAYETTE",
-    "time": "07/13/2019 - 4:41 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.07465,
-    "longitude": -91.97648
   }
 ]
