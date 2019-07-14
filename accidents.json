@@ -1,5 +1,13 @@
 [
   {
+    "address": "IRA ST & N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "07/14/2019 - 3:10 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.32123,
+    "longitude": -92.04954
+  },
+  {
     "address": "100 E MAIN ST",
     "city": "BROUSSARD",
     "time": "07/14/2019 - 2:45 PM",
