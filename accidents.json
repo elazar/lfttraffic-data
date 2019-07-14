@@ -1,5 +1,13 @@
 [
   {
+    "address": "LOUISIANA AV & CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 09:43 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.23457,
+    "longitude": -92.00231
+  },
+  {
     "address": "1800 N WILDERNESS TL",
     "city": "LAFAYETTE",
     "time": "07/14/2019 - 09:42 AM",
