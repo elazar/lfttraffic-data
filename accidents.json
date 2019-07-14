@@ -1,5 +1,13 @@
 [
   {
+    "address": "CLAREMONT CL & RUE CHAVANIAC",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 12:59 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.15086,
+    "longitude": -92.05776
+  },
+  {
     "address": "ALBERTSON PW & S MORGAN AV",
     "city": "BROUSSARD",
     "time": "07/13/2019 - 10:48 PM",
