@@ -1,5 +1,13 @@
 [
   {
+    "address": "JEFFERSON BL & N ORANGE ST",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 11:48 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22939,
+    "longitude": -92.01082
+  },
+  {
     "address": "ANCELET ST & ALFRED ST",
     "city": "LAFAYETTE",
     "time": "07/14/2019 - 11:42 AM",
