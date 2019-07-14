@@ -1,5 +1,13 @@
 [
   {
+    "address": "1300 SAVOY RD",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 9:29 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.09529,
+    "longitude": -92.02899
+  },
+  {
     "address": "2727 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "07/13/2019 - 9:28 PM",
