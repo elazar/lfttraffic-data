@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 BETSY ROSS DR",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 7:42 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.05521,
+    "longitude": -91.98689
+  },
+  {
     "address": "93 I10 WESTBOUND MM93 HW",
     "city": "Lafayette",
     "time": "07/13/2019 - 7:41 PM",
