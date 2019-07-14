@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 CLARA ST",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 04:59 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.24785,
+    "longitude": -92.0315
+  },
+  {
     "address": "103 SPRINGFIELD RD",
     "city": "LAFAYETTE",
     "time": "07/14/2019 - 04:59 AM",
