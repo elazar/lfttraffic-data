@@ -1,5 +1,13 @@
 [
   {
+    "address": "145 LAKEVIEW RD",
+    "city": "BROUSSARD",
+    "time": "07/13/2019 - 9:57 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.1179282,
+    "longitude": -91.9343904
+  },
+  {
     "address": "305 N MORGAN AV",
     "city": "BROUSSARD",
     "time": "07/13/2019 - 9:56 PM",
@@ -54,14 +62,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.23699,
     "longitude": -92.0967
-  },
-  {
-    "address": "2727 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "07/13/2019 - 9:28 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17733,
-    "longitude": -92.00218
   },
   {
     "address": "400 THOROUGHBRED DR",
