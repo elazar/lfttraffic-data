@@ -1,5 +1,13 @@
 [
   {
+    "address": "E WILLOW ST & MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 06:28 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.24378,
+    "longitude": -92.00638
+  },
+  {
     "address": "502 ST CATHERINE ST",
     "city": "LAFAYETTE",
     "time": "07/14/2019 - 06:25 AM",
