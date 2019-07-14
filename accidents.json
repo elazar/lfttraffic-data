@@ -1,19 +1,19 @@
 [
   {
+    "address": "100 SEAFOOD LN",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 10:04 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23953,
+    "longitude": -91.96362
+  },
+  {
     "address": "399 CRESTMONT BL",
     "city": "YOUNGSVILLE",
     "time": "07/14/2019 - 09:45 AM",
     "due_to": "Road Hazard",
     "latitude": 30.1128898,
     "longitude": -92.0103115
-  },
-  {
-    "address": "100 N WILDERNESS TL",
-    "city": "LAFAYETTE",
-    "time": "07/14/2019 - 09:28 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.29501,
-    "longitude": -91.98083
   },
   {
     "address": "2700 ROBLEY DR",
