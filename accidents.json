@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 MOSS CREEK DR",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 10:48 AM",
+    "due_to": "Hazard",
+    "latitude": 30.12945,
+    "longitude": -92.04045
+  },
+  {
     "address": "BNSF RAILROAD CG & PARK CENTER ST",
     "city": "BROUSSARD",
     "time": "07/14/2019 - 10:46 AM",
