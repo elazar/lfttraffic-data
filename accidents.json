@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 RUE CHAVANIAC",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 08:09 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1495874,
+    "longitude": -92.0553731
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & BONIN RD",
     "city": "YOUNGSVILLE",
     "time": "07/14/2019 - 08:05 AM",
