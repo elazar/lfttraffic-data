@@ -1,5 +1,13 @@
 [
   {
+    "address": "318 RIVER RANCH BL",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 03:26 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.17297,
+    "longitude": -92.03817
+  },
+  {
     "address": "MILLS ST & W WILLOW ST",
     "city": "SCOTT",
     "time": "07/14/2019 - 03:02 AM",
