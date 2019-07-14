@@ -1,5 +1,13 @@
 [
   {
+    "address": "APOLLO RD & OLD SPANISH TL",
+    "city": "SCOTT",
+    "time": "07/13/2019 - 9:24 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23238,
+    "longitude": -92.10741
+  },
+  {
     "address": "4409 RIDGE RD",
     "city": "LAFAYETTE",
     "time": "07/13/2019 - 9:13 PM",
