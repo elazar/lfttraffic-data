@@ -1,5 +1,13 @@
 [
   {
+    "address": "BNSF RAILROAD CG & PARK CENTER ST",
+    "city": "BROUSSARD",
+    "time": "07/14/2019 - 10:46 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.16283,
+    "longitude": -91.97523
+  },
+  {
     "address": "CAMERON ST & ALFRED ST",
     "city": "SCOTT",
     "time": "07/14/2019 - 10:43 AM",
@@ -30,14 +38,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.09063,
     "longitude": -91.9751
-  },
-  {
-    "address": "100 PIAT RD",
-    "city": "LAFAYETTE",
-    "time": "07/14/2019 - 10:05 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.06557,
-    "longitude": -91.97702
   },
   {
     "address": "100 SEAFOOD LN",
