@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 LE VIOLON RD",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 01:11 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.19996,
+    "longitude": -92.10424
+  },
+  {
     "address": "CLAREMONT CL & RUE CHAVANIAC",
     "city": "LAFAYETTE",
     "time": "07/14/2019 - 12:59 AM",
