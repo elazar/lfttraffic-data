@@ -1,5 +1,13 @@
 [
   {
+    "address": "W SECOND ST & W CYPRESS ST",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 7:58 PM",
+    "due_to": "Hazardous Situation",
+    "latitude": 30.22898,
+    "longitude": -92.01669
+  },
+  {
     "address": "619 ST PATRICK ST",
     "city": "LAFAYETTE",
     "time": "07/13/2019 - 7:55 PM",
@@ -8,12 +16,12 @@
     "longitude": -92.03224
   },
   {
-    "address": "200 JULENIE WA",
+    "address": "210 JULENIE WA",
     "city": "YOUNGSVILLE",
     "time": "07/13/2019 - 7:49 PM",
     "due_to": "Fire Investigation",
-    "latitude": 30.10002,
-    "longitude": -91.99685
+    "latitude": 30.10077,
+    "longitude": -91.99713
   },
   {
     "address": "AMBASSADOR/SOUTH MORGAN",
@@ -22,14 +30,6 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.23458,
     "longitude": -92.02521
-  },
-  {
-    "address": "100 LILLY ST",
-    "city": "LAFAYETTE",
-    "time": "07/13/2019 - 7:43 PM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.221942,
-    "longitude": -91.9994585
   },
   {
     "address": "200 BETSY ROSS DR",
