@@ -1,5 +1,13 @@
 [
   {
+    "address": "MARTEAU RD & YOUNG ST",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 7:35 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.10184,
+    "longitude": -91.95675
+  },
+  {
     "address": "6136 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/13/2019 - 7:30 PM",
