@@ -1,5 +1,13 @@
 [
   {
+    "address": "437 DAFFODIL LP",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 10:51 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.24163,
+    "longitude": -92.0402
+  },
+  {
     "address": "100 N GIROUARD RD",
     "city": "LAFAYETTE",
     "time": "07/13/2019 - 10:50 PM",
