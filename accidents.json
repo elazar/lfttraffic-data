@@ -1,5 +1,21 @@
 [
   {
+    "address": "100 JUDGE DR",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 08:48 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.2716347,
+    "longitude": -92.0082909
+  },
+  {
+    "address": "705 BONIN RD",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 08:48 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.15287,
+    "longitude": -92.00329
+  },
+  {
     "address": "CHEMIN METAIRIE & JOGG RD",
     "city": "LAFAYETTE",
     "time": "07/14/2019 - 08:45 AM",
