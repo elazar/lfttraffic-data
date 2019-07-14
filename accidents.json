@@ -1,5 +1,13 @@
 [
   {
+    "address": "106 SUMTER AV",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 9:45 PM",
+    "due_to": "Hazard",
+    "latitude": 30.16371,
+    "longitude": -91.94251
+  },
+  {
     "address": "303 MARIE ANTOINETTE ST",
     "city": "LAFAYETTE",
     "time": "07/13/2019 - 9:42 PM",
