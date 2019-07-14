@@ -1,5 +1,13 @@
 [
   {
+    "address": "502 ST CATHERINE ST",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 06:25 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.21841,
+    "longitude": -92.03265
+  },
+  {
     "address": "1042 CAMELLIA BL",
     "city": "LAFAYETTE",
     "time": "07/14/2019 - 06:22 AM",
