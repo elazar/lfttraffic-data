@@ -1,5 +1,13 @@
 [
   {
+    "address": "6100 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "07/14/2019 - 08:15 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.10118,
+    "longitude": -91.94283
+  },
+  {
     "address": "CLIFFORD RD & HOLLY ST",
     "city": "LAFAYETTE",
     "time": "07/14/2019 - 08:14 AM",
@@ -70,14 +78,6 @@
     "due_to": "Traffic Control",
     "latitude": 30.1428199,
     "longitude": -92.1288016
-  },
-  {
-    "address": "502 ST CATHERINE ST",
-    "city": "LAFAYETTE",
-    "time": "07/14/2019 - 06:25 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.21841,
-    "longitude": -92.03265
   },
   {
     "address": "E MAIN ST & N MORGAN AV",
