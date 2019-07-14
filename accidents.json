@@ -48,14 +48,6 @@
     "longitude": -91.94251
   },
   {
-    "address": "400 THOROUGHBRED DR",
-    "city": "CARENCRO",
-    "time": "07/13/2019 - 9:40 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.3051556,
-    "longitude": -92.0180049
-  },
-  {
     "address": "W CONGRESS ST & PERCY RD",
     "city": "LAFAYETTE",
     "time": "07/13/2019 - 9:39 PM",
@@ -70,14 +62,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.23699,
     "longitude": -92.0967
-  },
-  {
-    "address": "400 THOROUGHBRED DR",
-    "city": "CARENCRO",
-    "time": "07/13/2019 - 9:27 PM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.3051556,
-    "longitude": -92.0180049
   },
   {
     "address": "4409 RIDGE RD",
