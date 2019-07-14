@@ -1,11 +1,11 @@
 [
   {
-    "address": "WILDERNESS TR/GLORIA SW",
-    "city": "Lafayette",
+    "address": "100 N WILDERNESS TL",
+    "city": "LAFAYETTE",
     "time": "07/14/2019 - 09:28 AM",
     "due_to": "Road Hazard",
-    "latitude": null,
-    "longitude": null
+    "latitude": 30.29501,
+    "longitude": -91.98083
   },
   {
     "address": "600 PERSHING AV",
