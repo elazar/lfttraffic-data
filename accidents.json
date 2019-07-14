@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMB CAFFERY/YOUNGSVILLE HWY",
+    "city": "Lafayette",
+    "time": "07/14/2019 - 04:33 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.15646,
+    "longitude": -91.99104
+  },
+  {
     "address": "318 RIVER RANCH BL",
     "city": "LAFAYETTE",
     "time": "07/14/2019 - 04:28 AM",
