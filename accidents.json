@@ -1,19 +1,11 @@
 [
   {
-    "address": "N UNIVERSITY AV & SIS LN",
-    "city": "CARENCRO",
-    "time": "07/13/2019 - 11:06 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.30798,
-    "longitude": -92.04944
-  },
-  {
-    "address": "W EVERGREEN ST & NORTHGATE DR",
+    "address": "900 BAYOU TORTUE RD",
     "city": "LAFAYETTE",
-    "time": "07/13/2019 - 11:05 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.24568,
-    "longitude": -92.00994
+    "time": "07/13/2019 - 11:08 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.152514,
+    "longitude": -91.9138419
   },
   {
     "address": "437 DAFFODIL LP",
