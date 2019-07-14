@@ -1,9 +1,17 @@
 [
   {
+    "address": "N LEE ST & RAILROAD ST",
+    "city": "BROUSSARD",
+    "time": "07/13/2019 - 10:39 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.14923,
+    "longitude": -91.9625
+  },
+  {
     "address": "2504 E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "07/13/2019 - 10:37 PM",
-    "due_to": "Incoming Call",
+    "due_to": "Fire Investigation",
     "latitude": 30.22273,
     "longitude": -91.9912
   },
@@ -54,14 +62,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.23699,
     "longitude": -92.0967
-  },
-  {
-    "address": "HEART D FARM RD & JEHNNA DAVE DR",
-    "city": "BROUSSARD",
-    "time": "07/13/2019 - 9:04 PM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.13068,
-    "longitude": -91.96917
   },
   {
     "address": "AMBASSADOR/ SOUTH MORGAN",
