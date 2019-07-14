@@ -1,5 +1,13 @@
 [
   {
+    "address": "115 BEVERLY DR",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 08:30 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.19885,
+    "longitude": -92.01738
+  },
+  {
     "address": "6100 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "07/14/2019 - 08:15 AM",
