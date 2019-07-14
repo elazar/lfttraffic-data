@@ -1,5 +1,13 @@
 [
   {
+    "address": "144 RIVER RD",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 11:52 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.21606,
+    "longitude": -91.98591
+  },
+  {
     "address": "1904 W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "07/14/2019 - 11:49 AM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22939,
     "longitude": -92.01082
-  },
-  {
-    "address": "ANCELET ST & ALFRED ST",
-    "city": "LAFAYETTE",
-    "time": "07/14/2019 - 11:42 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.24178,
-    "longitude": -92.01476
   },
   {
     "address": "109 ALLISTER RD",
