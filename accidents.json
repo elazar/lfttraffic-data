@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 SWITZERLAND RD",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 10:03 PM",
+    "due_to": "Hazard",
+    "latitude": 30.0799486,
+    "longitude": -92.0372453
+  },
+  {
     "address": "100 BRISTOL DR",
     "city": "LAFAYETTE",
     "time": "07/13/2019 - 10:03 PM",
