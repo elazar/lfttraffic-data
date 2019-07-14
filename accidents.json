@@ -1,5 +1,13 @@
 [
   {
+    "address": "2200 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 04:58 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2433649,
+    "longitude": -92.0664725
+  },
+  {
     "address": "WESTWARD AV & VINCENT DR",
     "city": "SCOTT",
     "time": "07/14/2019 - 04:53 AM",
