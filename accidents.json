@@ -1,5 +1,21 @@
 [
   {
+    "address": "251 MADELINE AV",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 8:24 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.2381251,
+    "longitude": -92.0224992
+  },
+  {
+    "address": "251 MADELINE AV",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 8:23 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.2381251,
+    "longitude": -92.0224992
+  },
+  {
     "address": "113 ROYAL PALMS DR",
     "city": "BROUSSARD",
     "time": "07/13/2019 - 8:22 PM",
@@ -30,6 +46,14 @@
     "due_to": "Fire Investigation",
     "latitude": 30.24745,
     "longitude": -92.00441
+  },
+  {
+    "address": "E GLORIA SWITCH RD & S WILDERNESS TL",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 8:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29367,
+    "longitude": -91.98256
   },
   {
     "address": "222 N PINE ST",
