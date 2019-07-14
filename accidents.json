@@ -1,19 +1,11 @@
 [
   {
-    "address": "HARDING ST & AUBURN AV",
+    "address": "318 RIVER RANCH BL",
     "city": "LAFAYETTE",
-    "time": "07/14/2019 - 04:20 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.20986,
-    "longitude": -92.01346
-  },
-  {
-    "address": "105 APPOMATOX PW",
-    "city": "LAFAYETTE",
-    "time": "07/14/2019 - 03:56 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.32892,
-    "longitude": -92.02081
+    "time": "07/14/2019 - 04:28 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.17297,
+    "longitude": -92.03817
   },
   {
     "address": "ALBERTSON PW & S MORGAN AV",
