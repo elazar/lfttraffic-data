@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & VETERANS DR",
+    "city": "CARENCRO",
+    "time": "07/14/2019 - 06:17 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.32335,
+    "longitude": -92.04954
+  },
+  {
     "address": "E MAIN ST & N MORGAN AV",
     "city": "BROUSSARD",
     "time": "07/14/2019 - 06:15 AM",
