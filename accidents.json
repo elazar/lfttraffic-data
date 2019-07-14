@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR/YOUNGSVILLE HWY",
+    "city": "Lafayette",
+    "time": "07/13/2019 - 9:12 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.13518,
+    "longitude": -92.00037
+  },
+  {
     "address": "HEART D FARM RD & JEHNNA DAVE DR",
     "city": "BROUSSARD",
     "time": "07/13/2019 - 9:04 PM",
