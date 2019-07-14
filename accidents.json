@@ -1,5 +1,13 @@
 [
   {
+    "address": "802 ALFRED ST",
+    "city": "SCOTT",
+    "time": "07/13/2019 - 8:06 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.23238,
+    "longitude": -92.0941
+  },
+  {
     "address": "E MAIN ST & S GIROUARD RD",
     "city": "BROUSSARD",
     "time": "07/13/2019 - 8:02 PM",
