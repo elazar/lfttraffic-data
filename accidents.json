@@ -1,5 +1,13 @@
 [
   {
+    "address": "3 BNSF RAILROAD CG",
+    "city": "BROUSSARD",
+    "time": "07/14/2019 - 07:55 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.14824,
+    "longitude": -91.96501
+  },
+  {
     "address": "E VERMILION ST & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/14/2019 - 07:44 AM",
