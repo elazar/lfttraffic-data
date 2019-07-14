@@ -1,5 +1,13 @@
 [
   {
+    "address": "1700 E BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 10:36 AM",
+    "due_to": "Hazard",
+    "latitude": 30.12522,
+    "longitude": -92.0637
+  },
+  {
     "address": "100 MOSS CREEK DR",
     "city": "LAFAYETTE",
     "time": "07/14/2019 - 10:17 AM",
