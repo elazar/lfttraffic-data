@@ -1,5 +1,13 @@
 [
   {
+    "address": "ALBERTSON PW & US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "07/14/2019 - 04:43 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.14074,
+    "longitude": -91.94576
+  },
+  {
     "address": "AMB CAFFERY/YOUNGSVILLE HWY",
     "city": "Lafayette",
     "time": "07/14/2019 - 04:33 AM",
