@@ -1,5 +1,13 @@
 [
   {
+    "address": "413 CONNIE CL",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 9:30 PM",
+    "due_to": "Hazard",
+    "latitude": 30.22868,
+    "longitude": -92.04932
+  },
+  {
     "address": "1300 SAVOY RD",
     "city": "LAFAYETTE",
     "time": "07/13/2019 - 9:29 PM",
