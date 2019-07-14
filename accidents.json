@@ -1,19 +1,19 @@
 [
   {
+    "address": "4350 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "07/13/2019 - 10:15 PM",
+    "due_to": "Commercial Fire",
+    "latitude": 30.1499,
+    "longitude": -91.95177
+  },
+  {
     "address": "408 W MAIN ST",
     "city": "BROUSSARD",
     "time": "07/13/2019 - 10:14 PM",
     "due_to": "Wire Hazard",
     "latitude": 30.14929,
     "longitude": -91.96719
-  },
-  {
-    "address": "4350 CAMERON ST",
-    "city": "LAFAYETTE",
-    "time": "07/13/2019 - 10:11 PM",
-    "due_to": "Commercial Fire",
-    "latitude": 30.2322949,
-    "longitude": -92.0717317
   },
   {
     "address": "200 S LOCKSLEY DR",
