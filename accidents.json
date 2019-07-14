@@ -32,28 +32,12 @@
     "longitude": -92.02521
   },
   {
-    "address": "1301 W UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "07/13/2019 - 8:41 PM",
-    "due_to": "Hazard",
-    "latitude": 30.2246,
-    "longitude": -92.028
-  },
-  {
     "address": "900 HEART D FARM RD",
     "city": "BROUSSARD",
     "time": "07/13/2019 - 8:41 PM",
     "due_to": "Wire Hazard",
     "latitude": 30.13116,
     "longitude": -91.98906
-  },
-  {
-    "address": "302 ST GEORGE ST",
-    "city": "LAFAYETTE",
-    "time": "07/13/2019 - 8:40 PM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.21251,
-    "longitude": -92.03056
   },
   {
     "address": "209 BLAZER DR",
@@ -118,14 +102,6 @@
     "due_to": "Wire Hazard",
     "latitude": 30.22052,
     "longitude": -92.03224
-  },
-  {
-    "address": "600 CARMEL DR",
-    "city": "LAFAYETTE",
-    "time": "07/13/2019 - 7:45 PM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.23338,
-    "longitude": -91.99641
   },
   {
     "address": "US 90 EAST HW & ST NAZAIRE RD",
