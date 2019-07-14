@@ -1,5 +1,13 @@
 [
   {
+    "address": "CASTILLE AV & MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 12:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24822,
+    "longitude": -92.00593
+  },
+  {
     "address": "97 I10 WESTBOUND MM97 HW",
     "city": "LAFAYETTE",
     "time": "07/14/2019 - 12:09 PM",
