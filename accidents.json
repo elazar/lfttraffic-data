@@ -1,21 +1,5 @@
 [
   {
-    "address": "429 DAFFODIL LP",
-    "city": "LAFAYETTE",
-    "time": "07/14/2019 - 12:39 AM",
-    "due_to": "Hazard",
-    "latitude": 30.2416,
-    "longitude": -92.03949
-  },
-  {
-    "address": "PROVOST ST & MARIE ST",
-    "city": "SCOTT",
-    "time": "07/14/2019 - 12:38 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.22793,
-    "longitude": -92.09219
-  },
-  {
     "address": "100 W BLUEBIRD DR",
     "city": "LAFAYETTE",
     "time": "07/14/2019 - 12:30 AM",
