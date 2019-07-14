@@ -1,5 +1,13 @@
 [
   {
+    "address": "CARMEL DR & E PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 2:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2334,
+    "longitude": -91.9927
+  },
+  {
     "address": "131 DUNREATH ST",
     "city": "LAFAYETTE",
     "time": "07/14/2019 - 2:17 PM",
