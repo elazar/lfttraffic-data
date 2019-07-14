@@ -16,14 +16,6 @@
     "longitude": -92.03224
   },
   {
-    "address": "210 JULENIE WA",
-    "city": "YOUNGSVILLE",
-    "time": "07/13/2019 - 7:49 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.10077,
-    "longitude": -91.99713
-  },
-  {
     "address": "AMBASSADOR/SOUTH MORGAN",
     "city": "Lafayette",
     "time": "07/13/2019 - 7:46 PM",
@@ -38,14 +30,6 @@
     "due_to": "Wire Hazard",
     "latitude": 30.05521,
     "longitude": -91.98689
-  },
-  {
-    "address": "93 I10 WESTBOUND MM93 HW",
-    "city": "Lafayette",
-    "time": "07/13/2019 - 7:41 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.26255,
-    "longitude": -92.00867
   },
   {
     "address": "US 90 EAST HW & ST NAZAIRE RD",
