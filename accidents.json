@@ -1,5 +1,13 @@
 [
   {
+    "address": "ANCELET ST & ALFRED ST",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 11:42 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.24178,
+    "longitude": -92.01476
+  },
+  {
     "address": "109 ALLISTER RD",
     "city": "LAFAYETTE",
     "time": "07/14/2019 - 11:10 AM",
