@@ -1,5 +1,13 @@
 [
   {
+    "address": "MOSS ST & SOULIER ST",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 6:07 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25419,
+    "longitude": -92.00529
+  },
+  {
     "address": "OAK ST & G ST",
     "city": "SCOTT",
     "time": "07/14/2019 - 6:05 PM",
