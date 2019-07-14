@@ -1,5 +1,13 @@
 [
   {
+    "address": "1507 ST MARY ST",
+    "city": "SCOTT",
+    "time": "07/14/2019 - 1:46 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.24198,
+    "longitude": -92.09945
+  },
+  {
     "address": "6100 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "07/14/2019 - 1:31 PM",
