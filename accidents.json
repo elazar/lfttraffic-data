@@ -1,13 +1,5 @@
 [
   {
-    "address": "457 CHEMIN METAIRIE",
-    "city": "LAFAYETTE",
-    "time": "07/14/2019 - 09:00 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.13173,
-    "longitude": -92.01554
-  },
-  {
     "address": "100 JUDGE DR",
     "city": "LAFAYETTE",
     "time": "07/14/2019 - 08:48 AM",
@@ -22,14 +14,6 @@
     "due_to": "Fire Alarm-Commercial",
     "latitude": 30.15287,
     "longitude": -92.00329
-  },
-  {
-    "address": "115 BEVERLY DR",
-    "city": "LAFAYETTE",
-    "time": "07/14/2019 - 08:30 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.19885,
-    "longitude": -92.01738
   },
   {
     "address": "6100 US 90 EAST HW",
