@@ -1,5 +1,13 @@
 [
   {
+    "address": "812 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 3:59 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23943,
+    "longitude": -92.03187
+  },
+  {
     "address": "KALISTE SALOOM RD & W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "07/14/2019 - 3:44 PM",
