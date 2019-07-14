@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 E MAIN ST",
+    "city": "BROUSSARD",
+    "time": "07/14/2019 - 2:45 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.1479075,
+    "longitude": -91.9639838
+  },
+  {
     "address": "US 90 EAST HW & AMBASSADOR CAFFERY PW",
     "city": "BROUSSARD",
     "time": "07/14/2019 - 2:34 PM",
