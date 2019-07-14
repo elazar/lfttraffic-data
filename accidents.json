@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 BRISTOL DR",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 10:03 PM",
+    "due_to": "Hazard",
+    "latitude": 30.29246,
+    "longitude": -91.98071
+  },
+  {
     "address": "910 E PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "07/13/2019 - 9:58 PM",
