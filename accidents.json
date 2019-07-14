@@ -1,5 +1,13 @@
 [
   {
+    "address": "E UNIVERSITY AV & GENERAL MOUTON AV",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 11:14 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.20823,
+    "longitude": -92.00517
+  },
+  {
     "address": "109 ALLISTER RD",
     "city": "LAFAYETTE",
     "time": "07/14/2019 - 11:10 AM",
