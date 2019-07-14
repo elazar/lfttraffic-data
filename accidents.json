@@ -1,5 +1,13 @@
 [
   {
+    "address": "1042 CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 06:22 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.17497,
+    "longitude": -92.04337
+  },
+  {
     "address": "103 KATE ST",
     "city": "CARENCRO",
     "time": "07/14/2019 - 06:18 AM",
@@ -24,12 +32,12 @@
     "longitude": -91.96406
   },
   {
-    "address": "900 BLK HEART D FARM",
-    "city": "Lafayette",
+    "address": "900 HEART D FARM RD",
+    "city": "BROUSSARD",
     "time": "07/14/2019 - 06:02 AM",
     "due_to": "Road Hazard",
-    "latitude": 30.1308349,
-    "longitude": -91.9867502
+    "latitude": 30.13116,
+    "longitude": -91.98906
   },
   {
     "address": "113 BLACKWATER RIVER DR",
