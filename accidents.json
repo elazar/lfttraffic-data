@@ -1,5 +1,13 @@
 [
   {
+    "address": "303 MARIE ANTOINETTE ST",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 9:42 PM",
+    "due_to": "Hazard",
+    "latitude": 30.2049,
+    "longitude": -92.05764
+  },
+  {
     "address": "400 THOROUGHBRED DR",
     "city": "CARENCRO",
     "time": "07/13/2019 - 9:40 PM",
