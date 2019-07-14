@@ -1,5 +1,13 @@
 [
   {
+    "address": "VEROT SCHOOL RD & TWIN MEADOW LN",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 07:45 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.08575,
+    "longitude": -92.03246
+  },
+  {
     "address": "E VERMILION ST & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/14/2019 - 07:44 AM",
@@ -30,14 +38,6 @@
     "due_to": "Fire Alarm-Commercial",
     "latitude": 30.22866,
     "longitude": -92.01832
-  },
-  {
-    "address": "W CONGRESS ST & GUILBEAU RD",
-    "city": "LAFAYETTE",
-    "time": "07/14/2019 - 07:32 AM",
-    "due_to": "Hazard",
-    "latitude": 30.19826,
-    "longitude": -92.07007
   },
   {
     "address": "LEROY ST & WALKER RD",
