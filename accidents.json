@@ -1,5 +1,21 @@
 [
   {
+    "address": "ALBERTSON PW & S MORGAN AV",
+    "city": "BROUSSARD",
+    "time": "07/14/2019 - 03:32 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.1383,
+    "longitude": -91.96516
+  },
+  {
+    "address": "AMBASSADOR CAFFERY PW & S MORGAN AV",
+    "city": "BROUSSARD",
+    "time": "07/14/2019 - 03:31 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.13188,
+    "longitude": -91.96517
+  },
+  {
     "address": "318 RIVER RANCH BL",
     "city": "LAFAYETTE",
     "time": "07/14/2019 - 03:26 AM",
@@ -54,21 +70,5 @@
     "due_to": "Wire Hazard",
     "latitude": 30.15086,
     "longitude": -92.05776
-  },
-  {
-    "address": "ALBERTSON PW & S MORGAN AV",
-    "city": "BROUSSARD",
-    "time": "07/13/2019 - 10:48 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.1383,
-    "longitude": -91.96516
-  },
-  {
-    "address": "AMBASSADOR/ SOUTH MORGAN",
-    "city": "Lafayette",
-    "time": "07/13/2019 - 8:44 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.23458,
-    "longitude": -92.02521
   }
 ]
