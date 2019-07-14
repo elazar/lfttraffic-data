@@ -1,5 +1,13 @@
 [
   {
+    "address": "4409 RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 9:13 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.18106,
+    "longitude": -92.22046
+  },
+  {
     "address": "AMBASSADOR/YOUNGSVILLE HWY",
     "city": "Lafayette",
     "time": "07/13/2019 - 9:12 PM",
