@@ -1,5 +1,21 @@
 [
   {
+    "address": "W CONGRESS ST & GUILBEAU RD",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 07:32 AM",
+    "due_to": "Hazard",
+    "latitude": 30.19826,
+    "longitude": -92.07007
+  },
+  {
+    "address": "LEROY ST & WALKER RD",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 07:31 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23569,
+    "longitude": -92.03753
+  },
+  {
     "address": "100 BREAUX",
     "city": "Lafayette",
     "time": "07/14/2019 - 07:29 AM",
