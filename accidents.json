@@ -1,19 +1,19 @@
 [
   {
+    "address": "1500 RENAUD DR",
+    "city": "SCOTT",
+    "time": "07/13/2019 - 11:22 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2541349,
+    "longitude": -92.078972
+  },
+  {
     "address": "101 SHADYCREST AV",
     "city": "LAFAYETTE",
     "time": "07/13/2019 - 11:19 PM",
     "due_to": "Wire Hazard",
     "latitude": 30.2196,
     "longitude": -91.99246
-  },
-  {
-    "address": "218 S LARRIVIERE RD",
-    "city": "YOUNGSVILLE",
-    "time": "07/13/2019 - 11:12 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.09848,
-    "longitude": -91.97403
   },
   {
     "address": "4301 N UNIVERSITY AV",
