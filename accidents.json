@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 MCDONALD ST",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 01:16 AM",
+    "due_to": "Hazard",
+    "latitude": 30.2099463,
+    "longitude": -92.0661742
+  },
+  {
     "address": "200 LE VIOLON RD",
     "city": "LAFAYETTE",
     "time": "07/14/2019 - 01:11 AM",
