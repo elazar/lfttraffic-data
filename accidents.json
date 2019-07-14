@@ -70,13 +70,5 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.1406051,
     "longitude": -91.9448999
-  },
-  {
-    "address": "600 E KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "07/13/2019 - 6:55 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.19569,
-    "longitude": -92.00473
   }
 ]
