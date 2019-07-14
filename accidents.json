@@ -1,5 +1,13 @@
 [
   {
+    "address": "1200 ST ESPRIT RD",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 07:22 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.3330946,
+    "longitude": -92.0221272
+  },
+  {
     "address": "517 TRAPPEY RD",
     "city": "LAFAYETTE",
     "time": "07/14/2019 - 07:17 AM",
