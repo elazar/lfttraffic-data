@@ -1,5 +1,13 @@
 [
   {
+    "address": "1904 W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 11:49 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.23083,
+    "longitude": -92.03092
+  },
+  {
     "address": "JEFFERSON BL & N ORANGE ST",
     "city": "LAFAYETTE",
     "time": "07/14/2019 - 11:48 AM",
