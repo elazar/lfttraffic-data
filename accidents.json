@@ -16,14 +16,6 @@
     "longitude": -91.9737849
   },
   {
-    "address": "100 BEAU BASSIN RD",
-    "city": "LAFAYETTE",
-    "time": "07/13/2019 - 11:30 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.2938057,
-    "longitude": -91.9832989
-  },
-  {
     "address": "900 BAYOU TORTUE RD",
     "city": "LAFAYETTE",
     "time": "07/13/2019 - 11:08 PM",
@@ -46,14 +38,6 @@
     "due_to": "Traffic Control",
     "latitude": 30.1383,
     "longitude": -91.96516
-  },
-  {
-    "address": "W CONGRESS ST & PERCY RD",
-    "city": "LAFAYETTE",
-    "time": "07/13/2019 - 9:39 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.19575,
-    "longitude": -92.1002
   },
   {
     "address": "AMBASSADOR/ SOUTH MORGAN",
