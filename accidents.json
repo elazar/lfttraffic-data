@@ -1,5 +1,13 @@
 [
   {
+    "address": "500 ARCENEAUX RD",
+    "city": "CARENCRO",
+    "time": "07/13/2019 - 11:10 PM",
+    "due_to": "Fire",
+    "latitude": 30.30968,
+    "longitude": -92.0455
+  },
+  {
     "address": "4301 N UNIVERSITY AV",
     "city": "CARENCRO",
     "time": "07/13/2019 - 11:09 PM",
@@ -54,14 +62,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.19575,
     "longitude": -92.1002
-  },
-  {
-    "address": "AVENUE A & G ST",
-    "city": "SCOTT",
-    "time": "07/13/2019 - 9:37 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.23699,
-    "longitude": -92.0967
   },
   {
     "address": "AMBASSADOR/ SOUTH MORGAN",
