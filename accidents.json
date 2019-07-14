@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 TRENTON DR",
+    "city": "YOUNGSVILLE",
+    "time": "07/14/2019 - 10:07 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1001825,
+    "longitude": -91.9872349
+  },
+  {
     "address": "HILL RIDGE DR & SUN RIDGE ST",
     "city": "YOUNGSVILLE",
     "time": "07/14/2019 - 10:05 AM",
@@ -22,14 +30,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.23953,
     "longitude": -91.96362
-  },
-  {
-    "address": "399 CRESTMONT BL",
-    "city": "YOUNGSVILLE",
-    "time": "07/14/2019 - 09:45 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.1128898,
-    "longitude": -92.0103115
   },
   {
     "address": "2700 ROBLEY DR",
