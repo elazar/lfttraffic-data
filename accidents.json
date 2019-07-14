@@ -1,5 +1,13 @@
 [
   {
+    "address": "KALISTE SALOOM RD & W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 01:33 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.1886,
+    "longitude": -92.0141
+  },
+  {
     "address": "200 PREJEAN RD",
     "city": "CARENCRO",
     "time": "07/14/2019 - 01:27 AM",
