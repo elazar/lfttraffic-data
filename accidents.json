@@ -1,5 +1,13 @@
 [
   {
+    "address": "457 CHEMIN METAIRIE",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 09:00 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.13173,
+    "longitude": -92.01554
+  },
+  {
     "address": "100 JUDGE DR",
     "city": "LAFAYETTE",
     "time": "07/14/2019 - 08:48 AM",
