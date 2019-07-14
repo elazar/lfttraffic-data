@@ -1,5 +1,21 @@
 [
   {
+    "address": "302 ST GEORGE ST",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 8:40 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.21251,
+    "longitude": -92.03056
+  },
+  {
+    "address": "209 BLAZER DR",
+    "city": "SCOTT",
+    "time": "07/13/2019 - 8:40 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.21435,
+    "longitude": -92.10792
+  },
+  {
     "address": "115 GAYLE RD",
     "city": "LAFAYETTE",
     "time": "07/13/2019 - 8:37 PM",
