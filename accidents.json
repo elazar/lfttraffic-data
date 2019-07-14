@@ -1,5 +1,13 @@
 [
   {
+    "address": "509 S MAGNOLIA ST",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 9:00 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.22564,
+    "longitude": -92.00738
+  },
+  {
     "address": "900 ST JOSEPH ST",
     "city": "LAFAYETTE",
     "time": "07/13/2019 - 8:56 PM",
