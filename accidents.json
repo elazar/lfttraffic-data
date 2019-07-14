@@ -1,5 +1,13 @@
 [
   {
+    "address": "122 NELLROSE ST",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 9:52 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.23006,
+    "longitude": -92.07019
+  },
+  {
     "address": "106 SUMTER AV",
     "city": "LAFAYETTE",
     "time": "07/13/2019 - 9:45 PM",
