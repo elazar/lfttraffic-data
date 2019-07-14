@@ -32,6 +32,14 @@
     "longitude": null
   },
   {
+    "address": "200 MADELINE AV",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 8:20 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2383137,
+    "longitude": -92.0218588
+  },
+  {
     "address": "6500 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/13/2019 - 8:18 PM",
@@ -54,14 +62,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.29367,
     "longitude": -91.98256
-  },
-  {
-    "address": "222 N PINE ST",
-    "city": "LAFAYETTE",
-    "time": "07/13/2019 - 8:13 PM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.24895,
-    "longitude": -92.00294
   },
   {
     "address": "802 ALFRED ST",
