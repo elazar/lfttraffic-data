@@ -32,20 +32,12 @@
     "longitude": -91.96516
   },
   {
-    "address": "100 SUGAR DR",
-    "city": "BROUSSARD",
-    "time": "07/13/2019 - 10:46 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.14636,
-    "longitude": -91.95725
-  },
-  {
-    "address": "100 SUGAR DR",
+    "address": "106 SUGAR DR",
     "city": "BROUSSARD",
     "time": "07/13/2019 - 10:46 PM",
     "due_to": "Hazard",
-    "latitude": 30.14636,
-    "longitude": -91.95725
+    "latitude": 30.14577,
+    "longitude": -91.95731
   },
   {
     "address": "N LEE ST & RAILROAD ST",
