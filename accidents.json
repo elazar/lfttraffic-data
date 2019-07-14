@@ -1,5 +1,13 @@
 [
   {
+    "address": "202 TITAN DR",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 11:15 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.14925,
+    "longitude": -91.98688
+  },
+  {
     "address": "E UNIVERSITY AV & GENERAL MOUTON AV",
     "city": "LAFAYETTE",
     "time": "07/14/2019 - 11:14 AM",
