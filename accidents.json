@@ -1,5 +1,13 @@
 [
   {
+    "address": "MARTEAU RD & YOUNG ST",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 07:25 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.10184,
+    "longitude": -91.95675
+  },
+  {
     "address": "1200 ST ESPRIT RD",
     "city": "LAFAYETTE",
     "time": "07/14/2019 - 07:22 AM",
