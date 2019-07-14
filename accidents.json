@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 W BLUEBIRD DR",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 12:30 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.15625,
+    "longitude": -92.03097
+  },
+  {
     "address": "ALBERTSON PW & S MORGAN AV",
     "city": "BROUSSARD",
     "time": "07/13/2019 - 10:48 PM",
