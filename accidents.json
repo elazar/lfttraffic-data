@@ -1,19 +1,19 @@
 [
   {
+    "address": "200 PREJEAN RD",
+    "city": "CARENCRO",
+    "time": "07/14/2019 - 01:27 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.3095781,
+    "longitude": -92.0514909
+  },
+  {
     "address": "550 ERASTE LANDRY RD",
     "city": "LAFAYETTE",
     "time": "07/14/2019 - 01:25 AM",
     "due_to": "Wire Hazard",
     "latitude": 30.22736,
     "longitude": -92.04926
-  },
-  {
-    "address": "100 WELLS ST",
-    "city": "LAFAYETTE",
-    "time": "07/14/2019 - 01:19 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.2054,
-    "longitude": -92.06683
   },
   {
     "address": "200 LE VIOLON RD",
