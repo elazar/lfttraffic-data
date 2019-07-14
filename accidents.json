@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 WELLS ST",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 01:19 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2054,
+    "longitude": -92.06683
+  },
+  {
     "address": "300 MCDONALD ST",
     "city": "LAFAYETTE",
     "time": "07/14/2019 - 01:16 AM",
