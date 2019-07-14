@@ -1,5 +1,45 @@
 [
   {
+    "address": "113 ROYAL PALMS DR",
+    "city": "BROUSSARD",
+    "time": "07/13/2019 - 8:22 PM",
+    "due_to": "Fire Investigation",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "address": "113 ROYAL PALMS DR",
+    "city": "BROUSSARD",
+    "time": "07/13/2019 - 8:20 PM",
+    "due_to": "Fire Investigation",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "address": "6500 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 8:18 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.15686,
+    "longitude": -92.09112
+  },
+  {
+    "address": "116 CHESTER ST",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 8:16 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.24745,
+    "longitude": -92.00441
+  },
+  {
+    "address": "222 N PINE ST",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 8:13 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.24895,
+    "longitude": -92.00294
+  },
+  {
     "address": "802 ALFRED ST",
     "city": "SCOTT",
     "time": "07/13/2019 - 8:06 PM",
