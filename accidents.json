@@ -1,5 +1,13 @@
 [
   {
+    "address": "CLIFFORD RD & HOLLY ST",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 08:14 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.22889,
+    "longitude": -91.99439
+  },
+  {
     "address": "100 RUE CHAVANIAC",
     "city": "LAFAYETTE",
     "time": "07/14/2019 - 08:09 AM",
