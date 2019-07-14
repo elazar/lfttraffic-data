@@ -1,5 +1,13 @@
 [
   {
+    "address": "S COLLEGE RD & E KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 5:13 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.19352,
+    "longitude": -92.00971
+  },
+  {
     "address": "W PINHOOK RD & WENDY DR",
     "city": "LAFAYETTE",
     "time": "07/14/2019 - 4:34 PM",
