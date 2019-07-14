@@ -1,5 +1,13 @@
 [
   {
+    "address": "108 RUE LOUIS XIV",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 7:06 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.17151,
+    "longitude": -92.0291
+  },
+  {
     "address": "600 E KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "07/13/2019 - 6:55 PM",
