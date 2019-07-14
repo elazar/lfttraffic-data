@@ -1,11 +1,19 @@
 [
   {
-    "address": "S LOCKSLEY DR & KENILWORTH RD",
+    "address": "4350 CAMERON ST",
     "city": "LAFAYETTE",
     "time": "07/13/2019 - 10:11 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.18084,
-    "longitude": -92.02867
+    "due_to": "Commercial Fire",
+    "latitude": 30.2322949,
+    "longitude": -92.0717317
+  },
+  {
+    "address": "200 S LOCKSLEY DR",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 10:11 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.18119,
+    "longitude": -92.02862
   },
   {
     "address": "100 SWITZERLAND RD",
@@ -38,14 +46,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.18369,
     "longitude": -92.04355
-  },
-  {
-    "address": "122 NELLROSE ST",
-    "city": "LAFAYETTE",
-    "time": "07/13/2019 - 9:52 PM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.23006,
-    "longitude": -92.07019
   },
   {
     "address": "W CONGRESS ST & PERCY RD",
