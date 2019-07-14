@@ -8,14 +8,6 @@
     "longitude": -91.96917
   },
   {
-    "address": "509 S MAGNOLIA ST",
-    "city": "LAFAYETTE",
-    "time": "07/13/2019 - 9:00 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.22564,
-    "longitude": -92.00738
-  },
-  {
     "address": "AMBASSADOR/ SOUTH MORGAN",
     "city": "Lafayette",
     "time": "07/13/2019 - 8:44 PM",
@@ -30,14 +22,6 @@
     "due_to": "Wire Hazard",
     "latitude": 30.13116,
     "longitude": -91.98906
-  },
-  {
-    "address": "209 BLAZER DR",
-    "city": "SCOTT",
-    "time": "07/13/2019 - 8:40 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.21435,
-    "longitude": -92.10792
   },
   {
     "address": "233 NORMANDY RD",
