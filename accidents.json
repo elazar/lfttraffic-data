@@ -1,5 +1,13 @@
 [
   {
+    "address": "E MAIN ST & N MORGAN AV",
+    "city": "BROUSSARD",
+    "time": "07/14/2019 - 06:15 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.14806,
+    "longitude": -91.96406
+  },
+  {
     "address": "100 MOROCCO ST",
     "city": "CARENCRO",
     "time": "07/14/2019 - 06:14 AM",
