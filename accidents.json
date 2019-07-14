@@ -1,11 +1,19 @@
 [
   {
-    "address": "CARMEL DR & E PINHOOK RD",
+    "address": "6100 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "07/14/2019 - 2:32 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.10118,
+    "longitude": -91.94283
+  },
+  {
+    "address": "1200 CARMEL DR",
     "city": "LAFAYETTE",
     "time": "07/14/2019 - 2:18 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.2334,
-    "longitude": -91.9927
+    "latitude": 30.23302,
+    "longitude": -91.99227
   },
   {
     "address": "131 DUNREATH ST",
