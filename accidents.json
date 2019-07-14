@@ -16,28 +16,12 @@
     "longitude": -91.97523
   },
   {
-    "address": "CAMERON ST & ALFRED ST",
-    "city": "SCOTT",
-    "time": "07/14/2019 - 10:43 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.23357,
-    "longitude": -92.09381
-  },
-  {
     "address": "KALISTE SALOOM RD & W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "07/14/2019 - 10:40 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.1886,
     "longitude": -92.0141
-  },
-  {
-    "address": "100 MOSS CREEK DR",
-    "city": "LAFAYETTE",
-    "time": "07/14/2019 - 10:17 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.13099,
-    "longitude": -92.04041
   },
   {
     "address": "HILL RIDGE DR & SUN RIDGE ST",
