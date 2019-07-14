@@ -1,5 +1,13 @@
 [
   {
+    "address": "BAJAT RD & OMBRAGE RD",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 12:54 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.34339,
+    "longitude": -92.06651
+  },
+  {
     "address": "ALBERTSON PW & S MORGAN AV",
     "city": "BROUSSARD",
     "time": "07/13/2019 - 10:48 PM",
