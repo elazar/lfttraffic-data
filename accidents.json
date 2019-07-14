@@ -1,5 +1,13 @@
 [
   {
+    "address": "620 ALONDA DR",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 9:54 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.18369,
+    "longitude": -92.04355
+  },
+  {
     "address": "122 NELLROSE ST",
     "city": "LAFAYETTE",
     "time": "07/13/2019 - 9:52 PM",
