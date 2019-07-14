@@ -47,7 +47,14 @@
     "latitude": 30.12184,
     "longitude": -92.0564
   },
-  null,
+  {
+    "address": "316 W MAIN ST",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 04:52 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.22344,
+    "longitude": -92.02135
+  },
   {
     "address": "ALBERTSON PW & US 90 EAST HW",
     "city": "BROUSSARD",
