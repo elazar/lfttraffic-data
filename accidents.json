@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & APOLLO RD",
+    "city": "SCOTT",
+    "time": "07/14/2019 - 3:13 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.23485,
+    "longitude": -92.10742
+  },
+  {
     "address": "IRA ST & N UNIVERSITY AV",
     "city": "CARENCRO",
     "time": "07/14/2019 - 3:10 PM",
