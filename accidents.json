@@ -1,5 +1,13 @@
 [
   {
+    "address": "408 W MAIN ST",
+    "city": "BROUSSARD",
+    "time": "07/13/2019 - 10:14 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.14929,
+    "longitude": -91.96719
+  },
+  {
     "address": "4350 CAMERON ST",
     "city": "LAFAYETTE",
     "time": "07/13/2019 - 10:11 PM",
