@@ -1,5 +1,21 @@
 [
   {
+    "address": "138 NORMANDY RD",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 8:35 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1875,
+    "longitude": -92.05137
+  },
+  {
+    "address": "233 NORMANDY RD",
+    "city": "LAFAYETTE",
+    "time": "07/13/2019 - 8:34 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.18799,
+    "longitude": -92.05105
+  },
+  {
     "address": "251 MADELINE AV",
     "city": "LAFAYETTE",
     "time": "07/13/2019 - 8:23 PM",
