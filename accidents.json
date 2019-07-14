@@ -1,11 +1,11 @@
 [
   {
-    "address": "JULENIE WA & E PARKWOOD DR",
+    "address": "200 JULENIE WA",
     "city": "YOUNGSVILLE",
     "time": "07/13/2019 - 7:49 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.09986,
-    "longitude": -91.99712
+    "due_to": "Fire Investigation",
+    "latitude": 30.10002,
+    "longitude": -91.99685
   },
   {
     "address": "AMBASSADOR/SOUTH MORGAN",
@@ -32,14 +32,6 @@
     "longitude": -91.9994585
   },
   {
-    "address": "HECTOR CONNOLY RD & MOSS ST",
-    "city": "LAFAYETTE",
-    "time": "07/13/2019 - 7:43 PM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.31974,
-    "longitude": -92.00693
-  },
-  {
     "address": "200 BETSY ROSS DR",
     "city": "LAFAYETTE",
     "time": "07/13/2019 - 7:42 PM",
@@ -62,14 +54,6 @@
     "due_to": "Wire Hazard",
     "latitude": 30.1657,
     "longitude": -92.08478
-  },
-  {
-    "address": "302 ODILE ST",
-    "city": "LAFAYETTE",
-    "time": "07/13/2019 - 7:29 PM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.25454,
-    "longitude": -92.00895
   },
   {
     "address": "US 90 EAST HW & ST NAZAIRE RD",
