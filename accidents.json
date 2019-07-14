@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 MOROCCO ST",
+    "city": "CARENCRO",
+    "time": "07/14/2019 - 06:14 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.31879,
+    "longitude": -92.05648
+  },
+  {
     "address": "900 BLK HEART D FARM",
     "city": "Lafayette",
     "time": "07/14/2019 - 06:02 AM",
