@@ -1,13 +1,5 @@
 [
   {
-    "address": "418 JANVIER RD",
-    "city": "LAFAYETTE",
-    "time": "07/13/2019 - 10:20 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.28769,
-    "longitude": -92.13595
-  },
-  {
     "address": "4350 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "07/13/2019 - 10:15 PM",
@@ -38,14 +30,6 @@
     "due_to": "Hazard",
     "latitude": 30.0799486,
     "longitude": -92.0372453
-  },
-  {
-    "address": "140 BRISTOL DR",
-    "city": "LAFAYETTE",
-    "time": "07/13/2019 - 10:03 PM",
-    "due_to": "Hazard",
-    "latitude": 30.29214,
-    "longitude": -91.97612
   },
   {
     "address": "620 ALONDA DR",
@@ -102,14 +86,6 @@
     "due_to": "Wire Hazard",
     "latitude": 30.13116,
     "longitude": -91.98906
-  },
-  {
-    "address": "233 NORMANDY RD",
-    "city": "LAFAYETTE",
-    "time": "07/13/2019 - 8:34 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.18799,
-    "longitude": -92.05105
   },
   {
     "address": "200 MADELINE AV",
