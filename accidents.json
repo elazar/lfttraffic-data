@@ -3,7 +3,7 @@
     "address": "901 E WILLOW ST",
     "city": "LAFAYETTE",
     "time": "07/15/2019 - 11:08 AM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.24514,
     "longitude": -91.99639
   },
@@ -14,14 +14,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22489,
     "longitude": -92.03076
-  },
-  {
-    "address": "SE EVANGELINE TW & E VEROT SCHOOL RD",
-    "city": "LAFAYETTE",
-    "time": "07/15/2019 - 10:56 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.18291,
-    "longitude": -91.98959
   },
   {
     "address": "3809 AMBASSADOR CAFFERY PW",
