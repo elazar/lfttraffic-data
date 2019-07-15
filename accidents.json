@@ -2,6 +2,14 @@
   {
     "address": "MOSS ST & VANBUREN DR",
     "city": "LAFAYETTE",
+    "time": "07/15/2019 - 5:11 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.26967,
+    "longitude": -92.00812
+  },
+  {
+    "address": "MOSS ST & VANBUREN DR",
+    "city": "LAFAYETTE",
     "time": "07/15/2019 - 5:10 PM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.26967,
