@@ -46,21 +46,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1776121,
     "longitude": -92.0737651
-  },
-  {
-    "address": "2234 KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "07/15/2019 - 11:26 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.16376,
-    "longitude": -92.04343
-  },
-  {
-    "address": "901 E WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "07/15/2019 - 11:08 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.24514,
-    "longitude": -91.99639
   }
 ]
