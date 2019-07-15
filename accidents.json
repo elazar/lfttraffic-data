@@ -1,5 +1,13 @@
 [
   {
+    "address": "901 E WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "07/15/2019 - 11:08 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24514,
+    "longitude": -91.99639
+  },
+  {
     "address": "W CONGRESS ST & MYRTLE PL",
     "city": "LAFAYETTE",
     "time": "07/15/2019 - 10:58 AM",
