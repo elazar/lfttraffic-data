@@ -1,11 +1,11 @@
 [
   {
-    "address": "265 GUMBO RD (NE)",
+    "address": "606 CANAAN DR",
     "city": "LAFAYETTE",
     "time": "07/15/2019 - 1:15 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.1373249,
-    "longitude": -92.0598514
+    "due_to": "Fire Investigation",
+    "latitude": 30.14152,
+    "longitude": -92.05363
   },
   {
     "address": "6882 JOHNSTON ST",
@@ -14,14 +14,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.146,
     "longitude": -92.09839
-  },
-  {
-    "address": "AUSTRIA RD & DAULAT DR",
-    "city": "DUSON",
-    "time": "07/15/2019 - 12:56 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.24325,
-    "longitude": -92.19304
   },
   {
     "address": "1512 LOUISIANA AV",
