@@ -1,5 +1,13 @@
 [
   {
+    "address": "E PONT DES MOUTON RD & MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "07/15/2019 - 2:47 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27304,
+    "longitude": -92.00812
+  },
+  {
     "address": "FOREMAN DR & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "07/15/2019 - 2:45 PM",
