@@ -1,5 +1,13 @@
 [
   {
+    "address": "PREJEAN RD & N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "07/15/2019 - 1:45 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.30943,
+    "longitude": -92.04946
+  },
+  {
     "address": "104 FOURPARK RD",
     "city": "CARENCRO",
     "time": "07/15/2019 - 1:44 PM",
