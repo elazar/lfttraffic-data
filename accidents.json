@@ -1,5 +1,13 @@
 [
   {
+    "address": "JEFFERSON BL & N CHESTNUT ST",
+    "city": "LAFAYETTE",
+    "time": "07/15/2019 - 3:08 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.22833,
+    "longitude": -92.01339
+  },
+  {
     "address": "3200 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "07/15/2019 - 3:06 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.27304,
     "longitude": -92.00812
-  },
-  {
-    "address": "320 DEVALCOURT ST",
-    "city": "LAFAYETTE",
-    "time": "07/15/2019 - 2:43 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21678,
-    "longitude": -92.0549
   },
   {
     "address": "PREJEAN RD & N UNIVERSITY AV",
