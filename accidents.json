@@ -38,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.25419,
     "longitude": -92.00529
-  },
-  {
-    "address": "CLIFFORD RD & HOLLY ST",
-    "city": "LAFAYETTE",
-    "time": "07/14/2019 - 08:14 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.22889,
-    "longitude": -91.99439
   }
 ]
