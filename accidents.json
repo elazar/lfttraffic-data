@@ -1,5 +1,13 @@
 [
   {
+    "address": "400 FRED ST",
+    "city": "LAFAYETTE",
+    "time": "07/15/2019 - 07:00 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.2321305,
+    "longitude": -91.9908037
+  },
+  {
     "address": "100 DILLON RD",
     "city": "LAFAYETTE",
     "time": "07/15/2019 - 06:43 AM",
