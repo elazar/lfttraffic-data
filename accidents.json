@@ -1,5 +1,13 @@
 [
   {
+    "address": "LEXINGTON DR & MIRE HW",
+    "city": "DUSON",
+    "time": "07/15/2019 - 12:34 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "address": "2631 SW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/15/2019 - 12:13 PM",
