@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "2678 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/15/2019 - 06:24 AM",
+    "due_to": "Commercial Fire",
+    "latitude": 30.20852,
+    "longitude": -92.03842
+  }
+]
