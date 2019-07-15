@@ -1,5 +1,13 @@
 [
   {
+    "address": "101 CLINT LN",
+    "city": "LAFAYETTE",
+    "time": "07/15/2019 - 4:05 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.06022,
+    "longitude": -91.99283
+  },
+  {
     "address": "JOHNSTON ST & E BROUSSARD RD",
     "city": "LAFAYETTE",
     "time": "07/15/2019 - 3:34 PM",
