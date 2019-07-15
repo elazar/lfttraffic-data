@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15059,
     "longitude": -92.09379
-  },
-  {
-    "address": "JEFFERSON BL & N CHESTNUT ST",
-    "city": "LAFAYETTE",
-    "time": "07/15/2019 - 3:08 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.22833,
-    "longitude": -92.01339
   }
 ]
