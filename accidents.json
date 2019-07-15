@@ -1,13 +1,5 @@
 [
   {
-    "address": "W CONGRESS ST & GUILBEAU RD",
-    "city": "LAFAYETTE",
-    "time": "07/15/2019 - 12:14 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.19826,
-    "longitude": -92.07007
-  },
-  {
     "address": "2600 SW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/15/2019 - 12:13 PM",
@@ -22,14 +14,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19435,
     "longitude": -92.05813
-  },
-  {
-    "address": "JOHNSTON ST & CAMELLIA BL",
-    "city": "LAFAYETTE",
-    "time": "07/15/2019 - 12:11 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.19364,
-    "longitude": -92.0587
   },
   {
     "address": "W CONGRESS ST & EULA DR",
