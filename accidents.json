@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "400 SHADOW BLUFF DR",
+    "city": "LAFAYETTE",
+    "time": "07/14/2019 - 9:40 PM",
+    "due_to": "Hazard",
+    "latitude": 30.26434,
+    "longitude": -91.99032
+  }
+]
