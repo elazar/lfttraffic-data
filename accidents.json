@@ -32,27 +32,11 @@
     "longitude": -92.06017
   },
   {
-    "address": "LA RUE FRANCE & W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "07/15/2019 - 10:30 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.19438,
-    "longitude": -92.01609
-  },
-  {
     "address": "100 POYDRAS ST",
     "city": "LAFAYETTE",
     "time": "07/15/2019 - 10:29 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.23415,
     "longitude": -92.02708
-  },
-  {
-    "address": "602 SW EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "07/15/2019 - 09:31 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22371,
-    "longitude": -92.01049
   }
 ]
