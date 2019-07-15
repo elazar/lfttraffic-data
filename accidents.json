@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.06022,
     "longitude": -91.99283
-  },
-  {
-    "address": "104 NATCHEZ ST",
-    "city": "LAFAYETTE",
-    "time": "07/15/2019 - 3:45 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.20523,
-    "longitude": -92.10066
   }
 ]
