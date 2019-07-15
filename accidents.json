@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "07/15/2019 - 12:11 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.19364,
+    "longitude": -92.0587
+  },
+  {
     "address": "W CONGRESS ST & EULA DR",
     "city": "LAFAYETTE",
     "time": "07/15/2019 - 12:05 PM",
