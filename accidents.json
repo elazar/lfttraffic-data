@@ -1,11 +1,11 @@
 [
   {
-    "address": "W WILLOW ST & AMBASSADOR CAFFERY PW",
+    "address": "206 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/16/2019 - 09:11 AM",
     "due_to": "Commercial Fire",
-    "latitude": 30.24324,
-    "longitude": -92.06626
+    "latitude": 30.2427,
+    "longitude": -92.06675
   },
   {
     "address": "W PINHOOK RD & E KALISTE SALOOM RD",
@@ -14,14 +14,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1886,
     "longitude": -92.0141
-  },
-  {
-    "address": "111 MEADOW FARM RD",
-    "city": "LAFAYETTE",
-    "time": "07/16/2019 - 09:00 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.15766,
-    "longitude": -92.04442
   },
   {
     "address": "1005 ERASTE LANDRY RD",
