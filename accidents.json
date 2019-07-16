@@ -1,5 +1,13 @@
 [
   {
+    "address": "SW EVANGELINE TW & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "07/16/2019 - 2:37 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.22457,
+    "longitude": -92.01033
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & DULLES DR",
     "city": "LAFAYETTE",
     "time": "07/16/2019 - 2:35 PM",
@@ -27,7 +35,7 @@
     "address": "SW EVANGELINE TW & LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "07/16/2019 - 2:28 PM",
-    "due_to": "Stalled Vehicle",
+    "due_to": "Vehicle Accident",
     "latitude": 30.22457,
     "longitude": -92.01033
   },
