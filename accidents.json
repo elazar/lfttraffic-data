@@ -1,5 +1,21 @@
 [
   {
+    "address": "NE EVANGELINE TW & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "07/16/2019 - 2:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29151,
+    "longitude": -92.02336
+  },
+  {
+    "address": "SW EVANGELINE TW & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "07/16/2019 - 2:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22457,
+    "longitude": -92.01033
+  },
+  {
     "address": "503 CHELSEA DR",
     "city": "LAFAYETTE",
     "time": "07/16/2019 - 2:27 PM",
