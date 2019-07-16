@@ -14,13 +14,5 @@
     "due_to": "Fire Alarm-Residential",
     "latitude": 30.11363,
     "longitude": -92.05379
-  },
-  {
-    "address": "410 N MALL ST",
-    "city": "LAFAYETTE",
-    "time": "07/15/2019 - 7:23 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.20533,
-    "longitude": -92.0082
   }
 ]
