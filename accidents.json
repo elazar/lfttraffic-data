@@ -1,5 +1,13 @@
 [
   {
+    "address": "316 W MAIN ST",
+    "city": "LAFAYETTE",
+    "time": "07/16/2019 - 3:35 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22344,
+    "longitude": -92.02135
+  },
+  {
     "address": "GUILBEAU RD & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/16/2019 - 3:34 PM",
