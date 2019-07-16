@@ -1,5 +1,21 @@
 [
   {
+    "address": "W WILLOW ST & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "07/16/2019 - 09:11 AM",
+    "due_to": "Commercial Fire",
+    "latitude": 30.24324,
+    "longitude": -92.06626
+  },
+  {
+    "address": "206 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "07/16/2019 - 09:11 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.2427,
+    "longitude": -92.06675
+  },
+  {
     "address": "W PINHOOK RD & E KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "07/16/2019 - 09:09 AM",
