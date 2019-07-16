@@ -1,5 +1,13 @@
 [
   {
+    "address": "509 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "07/16/2019 - 3:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22674,
+    "longitude": -92.02108
+  },
+  {
     "address": "TWELFTH ST & SW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/16/2019 - 3:00 PM",
@@ -54,14 +62,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16647,
     "longitude": -92.08182
-  },
-  {
-    "address": "200 E KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "07/16/2019 - 2:13 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.191928,
-    "longitude": -92.0113379
   },
   {
     "address": "SE EVANGELINE TW & LOUISIANA AV",
