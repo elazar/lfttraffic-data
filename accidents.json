@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "215 N PIERCE ST",
+    "city": "LAFAYETTE",
+    "time": "07/16/2019 - 05:57 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.23554,
+    "longitude": -92.02059
+  }
+]
