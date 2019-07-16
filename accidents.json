@@ -1,5 +1,13 @@
 [
   {
+    "address": "LOUISIANA AV & CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "07/16/2019 - 4:25 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23457,
+    "longitude": -92.00231
+  },
+  {
     "address": "3747 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/16/2019 - 4:24 PM",
