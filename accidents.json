@@ -1,5 +1,13 @@
 [
   {
+    "address": "210 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "07/16/2019 - 07:34 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18661,
+    "longitude": -92.01618
+  },
+  {
     "address": "LANDRY RD & MORGANWOOD LN",
     "city": "LAFAYETTE",
     "time": "07/16/2019 - 07:29 AM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.1918,
     "longitude": -92.05643
-  },
-  {
-    "address": "215 N PIERCE ST",
-    "city": "LAFAYETTE",
-    "time": "07/16/2019 - 05:57 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.23554,
-    "longitude": -92.02059
   }
 ]
