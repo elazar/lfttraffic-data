@@ -1,5 +1,13 @@
 [
   {
+    "address": "319 CORNELIUS DR",
+    "city": "LAFAYETTE",
+    "time": "07/16/2019 - 3:59 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16186,
+    "longitude": -92.03322
+  },
+  {
     "address": "218 RUE BEAUREGARD",
     "city": "LAFAYETTE",
     "time": "07/16/2019 - 3:58 PM",
