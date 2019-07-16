@@ -46,13 +46,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16186,
     "longitude": -92.03322
-  },
-  {
-    "address": "GUILBEAU RD & JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "07/16/2019 - 3:34 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.19375,
-    "longitude": -92.0586
   }
 ]
