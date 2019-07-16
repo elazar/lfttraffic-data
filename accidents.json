@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "07/16/2019 - 5:46 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20581,
+    "longitude": -92.04078
+  },
+  {
     "address": "CAMERON ST & EVANS LN",
     "city": "LAFAYETTE",
     "time": "07/16/2019 - 5:33 PM",
