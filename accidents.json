@@ -1,11 +1,19 @@
 [
   {
-    "address": "VINCENT RD & VEROT SCHOOL RD",
+    "address": "113 JEAN BAPTISTE DR",
+    "city": "LAFAYETTE",
+    "time": "07/16/2019 - 1:40 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.15041,
+    "longitude": -92.06301
+  },
+  {
+    "address": "3003 VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "07/16/2019 - 1:33 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.13809,
-    "longitude": -92.03254
+    "latitude": 30.1376015,
+    "longitude": -92.0323725
   },
   {
     "address": "N BERTRAND DR & CAMERON ST",
