@@ -1,5 +1,13 @@
 [
   {
+    "address": "W BROUSSARD RD & TOUCHET RD",
+    "city": "LAFAYETTE",
+    "time": "07/16/2019 - 4:59 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15262,
+    "longitude": -92.09763
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "07/16/2019 - 4:55 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.11699,
     "longitude": -92.00737
-  },
-  {
-    "address": "LOUISIANA AV & CARMEL DR",
-    "city": "LAFAYETTE",
-    "time": "07/16/2019 - 4:25 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23457,
-    "longitude": -92.00231
   },
   {
     "address": "HUGH WALLIS RD & E KALISTE SALOOM RD",
