@@ -1,11 +1,11 @@
 [
   {
-    "address": "W ST LOUIS ST & LOUISE DR",
+    "address": "300 W ST LOUIS ST",
     "city": "LAFAYETTE",
     "time": "07/16/2019 - 11:58 AM",
-    "due_to": "Incoming Call",
-    "latitude": 30.22831,
-    "longitude": -92.03585
+    "due_to": "Wire Hazard",
+    "latitude": 30.2285,
+    "longitude": -92.03569
   },
   {
     "address": "E PINHOOK RD & SW EVANGELINE TW",
