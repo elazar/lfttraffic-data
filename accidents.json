@@ -1,19 +1,19 @@
 [
   {
+    "address": "I10 WESTBOUND MM105 HW & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "07/16/2019 - 06:56 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.27944,
+    "longitude": -91.99217
+  },
+  {
     "address": "CAMELLIA BL & EASTLAND DR",
     "city": "LAFAYETTE",
     "time": "07/16/2019 - 06:29 AM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.1918,
     "longitude": -92.05643
-  },
-  {
-    "address": "1030 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "07/16/2019 - 06:24 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.21977,
-    "longitude": -92.01821
   },
   {
     "address": "215 N PIERCE ST",
