@@ -1,5 +1,13 @@
 [
   {
+    "address": "CARMEL DR & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "07/16/2019 - 3:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23457,
+    "longitude": -92.00231
+  },
+  {
     "address": "2817 S FIELDSPAN RD",
     "city": "LAFAYETTE",
     "time": "07/16/2019 - 3:21 PM",
