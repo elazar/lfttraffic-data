@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & HOLDEN AV",
+    "city": "LAFAYETTE",
+    "time": "07/16/2019 - 1:43 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.20447,
+    "longitude": -92.04432
+  },
+  {
     "address": "113 JEAN BAPTISTE DR",
     "city": "LAFAYETTE",
     "time": "07/16/2019 - 1:40 PM",
