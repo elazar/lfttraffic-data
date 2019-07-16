@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "07/16/2019 - 4:55 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15649,
+    "longitude": -92.04838
+  },
+  {
     "address": "BONIN RD & WINDSONG DR",
     "city": "YOUNGSVILLE",
     "time": "07/16/2019 - 4:47 PM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16186,
     "longitude": -92.03322
-  },
-  {
-    "address": "316 W MAIN ST",
-    "city": "LAFAYETTE",
-    "time": "07/16/2019 - 3:35 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22344,
-    "longitude": -92.02135
   },
   {
     "address": "GUILBEAU RD & JOHNSTON ST",
