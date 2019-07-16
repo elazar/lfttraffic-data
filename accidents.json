@@ -1,5 +1,21 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & DULLES DR",
+    "city": "LAFAYETTE",
+    "time": "07/16/2019 - 2:35 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.21054,
+    "longitude": -92.07569
+  },
+  {
+    "address": "600 SW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "07/16/2019 - 2:34 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.22417,
+    "longitude": -92.01052
+  },
+  {
     "address": "NE EVANGELINE TW & I10 HW",
     "city": "LAFAYETTE",
     "time": "07/16/2019 - 2:28 PM",
