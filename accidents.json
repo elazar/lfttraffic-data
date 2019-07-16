@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "W CONGRESS ST & MARIE ANTOINETTE ST",
+    "city": "LAFAYETTE",
+    "time": "07/15/2019 - 11:41 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20584,
+    "longitude": -92.05871
+  }
+]
