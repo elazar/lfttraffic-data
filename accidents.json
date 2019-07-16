@@ -1,5 +1,13 @@
 [
   {
+    "address": "203 COMMISSION BL",
+    "city": "LAFAYETTE",
+    "time": "07/16/2019 - 3:11 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.16683,
+    "longitude": -91.98931
+  },
+  {
     "address": "107 HENNESSY DR",
     "city": "LAFAYETTE",
     "time": "07/16/2019 - 3:02 PM",
@@ -22,14 +30,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.22214,
     "longitude": -92.00904
-  },
-  {
-    "address": "2700 NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "07/16/2019 - 2:54 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2661,
-    "longitude": -92.0166
   },
   {
     "address": "316 W MAIN ST",
