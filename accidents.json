@@ -1,5 +1,13 @@
 [
   {
+    "address": "501 E BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "07/16/2019 - 3:28 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.1440769,
+    "longitude": -92.0812004
+  },
+  {
     "address": "CARMEL DR & LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "07/16/2019 - 3:26 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16102,
     "longitude": -92.14113
-  },
-  {
-    "address": "509 W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "07/16/2019 - 3:01 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22674,
-    "longitude": -92.02108
   },
   {
     "address": "PIAT RD & EGRET RD",
