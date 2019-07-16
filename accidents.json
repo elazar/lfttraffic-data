@@ -1,5 +1,13 @@
 [
   {
+    "address": "E PINHOOK RD & ST CHARLES ST",
+    "city": "LAFAYETTE",
+    "time": "07/16/2019 - 5:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22245,
+    "longitude": -91.99936
+  },
+  {
     "address": "W BROUSSARD RD & TOUCHET RD",
     "city": "LAFAYETTE",
     "time": "07/16/2019 - 4:59 PM",
