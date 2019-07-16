@@ -1,5 +1,13 @@
 [
   {
+    "address": "2100 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "07/16/2019 - 4:05 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1853287,
+    "longitude": -92.0103473
+  },
+  {
     "address": "319 CORNELIUS DR",
     "city": "LAFAYETTE",
     "time": "07/16/2019 - 3:59 PM",
