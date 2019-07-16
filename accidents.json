@@ -1,5 +1,13 @@
 [
   {
+    "address": "111 MEADOW FARM RD",
+    "city": "LAFAYETTE",
+    "time": "07/16/2019 - 09:00 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.15766,
+    "longitude": -92.04442
+  },
+  {
     "address": "1005 ERASTE LANDRY RD",
     "city": "LAFAYETTE",
     "time": "07/16/2019 - 08:26 AM",
