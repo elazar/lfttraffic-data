@@ -1,5 +1,21 @@
 [
   {
+    "address": "NW EVANGELINE TW & CHALMETTE DR",
+    "city": "LAFAYETTE",
+    "time": "07/17/2019 - 4:55 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25191,
+    "longitude": -92.01425
+  },
+  {
+    "address": "CAMELLIA BL & SETTLERS TRACE BL",
+    "city": "LAFAYETTE",
+    "time": "07/17/2019 - 4:55 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.16963,
+    "longitude": -92.039
+  },
+  {
     "address": "E FARREL RD & VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "07/17/2019 - 4:52 PM",
@@ -14,14 +30,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.13159,
     "longitude": -91.96437
-  },
-  {
-    "address": "105 OAKWATER DR",
-    "city": "LAFAYETTE",
-    "time": "07/17/2019 - 4:27 PM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.20386,
-    "longitude": -92.00902
   },
   {
     "address": "E PONT DES MOUTON RD & LOUISIANA AV",
