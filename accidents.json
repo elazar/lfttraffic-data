@@ -1,5 +1,13 @@
 [
   {
+    "address": "1400 N BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "07/16/2019 - 7:50 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.22402,
+    "longitude": -92.0514
+  },
+  {
     "address": "1521 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "07/16/2019 - 7:25 PM",
