@@ -1,5 +1,13 @@
 [
   {
+    "address": "302 NOTTINGHAM CL",
+    "city": "LAFAYETTE",
+    "time": "07/17/2019 - 10:35 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.29073,
+    "longitude": -91.99732
+  },
+  {
     "address": "US 90 EAST HW & SOUTHPARK RD",
     "city": "LAFAYETTE",
     "time": "07/17/2019 - 10:23 AM",
