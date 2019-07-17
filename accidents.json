@@ -1,5 +1,13 @@
 [
   {
+    "address": "4110 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/17/2019 - 12:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19687,
+    "longitude": -92.0572
+  },
+  {
     "address": "100 W MAIN ST",
     "city": "LAFAYETTE",
     "time": "07/17/2019 - 11:45 AM",
