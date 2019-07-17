@@ -1,11 +1,19 @@
 [
   {
-    "address": "2702 KALISTE SALOOM RD",
+    "address": "130 ST NAZAIRE RD",
+    "city": "BROUSSARD",
+    "time": "07/17/2019 - 5:05 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.14061,
+    "longitude": -91.94403
+  },
+  {
+    "address": "2707 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "07/17/2019 - 5:03 PM",
     "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.1545882,
-    "longitude": -92.0504134
+    "latitude": 30.15337,
+    "longitude": -92.04902
   },
   {
     "address": "2707 KALISTE SALOOM RD",
