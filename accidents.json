@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 W MAIN ST",
+    "city": "LAFAYETTE",
+    "time": "07/17/2019 - 11:45 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2230349,
+    "longitude": -92.018944
+  },
+  {
     "address": "4000 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/17/2019 - 11:43 AM",
