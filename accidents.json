@@ -1,5 +1,13 @@
 [
   {
+    "address": "1521 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "07/16/2019 - 7:25 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19637,
+    "longitude": -92.01545
+  },
+  {
     "address": "ALBERTSON PW & S MORGAN AV",
     "city": "BROUSSARD",
     "time": "07/16/2019 - 7:01 PM",
