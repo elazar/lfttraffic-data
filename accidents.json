@@ -1,5 +1,13 @@
 [
   {
+    "address": "310 MARYVIEW FARM RD",
+    "city": "LAFAYETTE",
+    "time": "07/17/2019 - 03:48 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27902,
+    "longitude": -92.00282
+  },
+  {
     "address": "423 JEFFERSON ST",
     "city": "LAFAYETTE",
     "time": "07/17/2019 - 02:51 AM",
