@@ -14,13 +14,5 @@
     "due_to": "Fire Alarm-Residential",
     "latitude": 30.13439,
     "longitude": -92.04655
-  },
-  {
-    "address": "W PINHOOK RD & OIL CENTER DR",
-    "city": "LAFAYETTE",
-    "time": "07/17/2019 - 5:25 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20535,
-    "longitude": -92.01281
   }
 ]
