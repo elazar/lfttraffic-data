@@ -1,5 +1,13 @@
 [
   {
+    "address": "800 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "07/17/2019 - 6:37 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23916,
+    "longitude": -92.03205
+  },
+  {
     "address": "104 I10 WESTBOUND MM104 HW",
     "city": "LAFAYETTE",
     "time": "07/17/2019 - 6:18 PM",
