@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "JOHNSTON ST & S WESTMARK BL",
+    "city": "LAFAYETTE",
+    "time": "07/17/2019 - 11:33 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1824,
+    "longitude": -92.07019
+  }
+]
