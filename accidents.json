@@ -1,5 +1,13 @@
 [
   {
+    "address": "801 SAVOY RD",
+    "city": "YOUNGSVILLE",
+    "time": "07/17/2019 - 12:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.0946621,
+    "longitude": -92.011692
+  },
+  {
     "address": "4110 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/17/2019 - 12:14 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2230349,
     "longitude": -92.018944
-  },
-  {
-    "address": "4000 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "07/17/2019 - 11:43 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.1663,
-    "longitude": -92.06118
   },
   {
     "address": "JOHNSTON ST & S WESTMARK BL",
