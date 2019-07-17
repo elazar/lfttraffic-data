@@ -1,18 +1,18 @@
 [
   {
+    "address": "400 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "07/17/2019 - 4:02 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1748633,
+    "longitude": -92.0077722
+  },
+  {
     "address": "JOHNSTON ST & LANA DR",
     "city": "LAFAYETTE",
     "time": "07/17/2019 - 3:30 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.18888,
     "longitude": -92.06358
-  },
-  {
-    "address": "205 HARVEST CREEK LN",
-    "city": "LAFAYETTE",
-    "time": "07/17/2019 - 3:21 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.16239,
-    "longitude": -92.00241
   }
 ]
