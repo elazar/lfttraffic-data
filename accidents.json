@@ -1,5 +1,13 @@
 [
   {
+    "address": "BOWERS RD & HEBERT RD",
+    "city": "LAFAYETTE",
+    "time": "07/18/2019 - 1:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24152,
+    "longitude": -92.04967
+  },
+  {
     "address": "N UNIVERSITY AV & ST PIERRE ST",
     "city": "CARENCRO",
     "time": "07/18/2019 - 1:09 PM",
