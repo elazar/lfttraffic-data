@@ -1,5 +1,13 @@
 [
   {
+    "address": "3142 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "07/18/2019 - 3:29 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1873,
+    "longitude": -92.07797
+  },
+  {
     "address": "6184 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/18/2019 - 3:27 PM",
@@ -30,13 +38,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.19255,
     "longitude": -92.11044
-  },
-  {
-    "address": "JOHNSTON ST & WESTMARK BL",
-    "city": "LAFAYETTE",
-    "time": "07/18/2019 - 2:30 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1824,
-    "longitude": -92.07019
   }
 ]
