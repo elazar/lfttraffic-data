@@ -38,13 +38,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.06497,
     "longitude": -92.03978
-  },
-  {
-    "address": "109 MARGI DR",
-    "city": "LAFAYETTE",
-    "time": "07/18/2019 - 4:52 PM",
-    "due_to": "Residential Fire",
-    "latitude": 30.265,
-    "longitude": -92.0625
   }
 ]
