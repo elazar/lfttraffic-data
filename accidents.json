@@ -1,5 +1,13 @@
 [
   {
+    "address": "106 SIGMA DR",
+    "city": "LAFAYETTE",
+    "time": "07/17/2019 - 9:35 PM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.2141,
+    "longitude": -92.06615
+  },
+  {
     "address": "CANTAL DR & LOIRE AV",
     "city": "LAFAYETTE",
     "time": "07/17/2019 - 9:11 PM",
