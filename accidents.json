@@ -48,12 +48,12 @@
     "longitude": -92.01381
   },
   {
-    "address": "3726 AMBASSADOR CAFFERY PW",
+    "address": "3700 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/18/2019 - 1:18 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.17252,
-    "longitude": -92.068
+    "latitude": 30.20113,
+    "longitude": -92.05474
   },
   {
     "address": "BOWERS RD & HEBERT RD",
@@ -62,14 +62,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24152,
     "longitude": -92.04967
-  },
-  {
-    "address": "N UNIVERSITY AV & ST PIERRE ST",
-    "city": "CARENCRO",
-    "time": "07/18/2019 - 1:09 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.31944,
-    "longitude": -92.04951
   },
   {
     "address": "WESTGATE RD & DULLES DR",
