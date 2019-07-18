@@ -1,21 +1,5 @@
 [
   {
-    "address": "2115 DULLES DR",
-    "city": "SCOTT",
-    "time": "07/18/2019 - 2:39 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.21012,
-    "longitude": -92.0929
-  },
-  {
-    "address": "JOHN GLENN DR & SHEPARD DR",
-    "city": "LAFAYETTE",
-    "time": "07/18/2019 - 2:37 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20976,
-    "longitude": -91.99095
-  },
-  {
     "address": "JOHNSTON ST & WESTMARK BL",
     "city": "LAFAYETTE",
     "time": "07/18/2019 - 2:30 PM",
@@ -40,12 +24,12 @@
     "longitude": -92.0236088
   },
   {
-    "address": "W PINHOOK RD & E KALISTE SALOOM RD",
+    "address": "1907 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "07/18/2019 - 2:12 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.1886,
-    "longitude": -92.0141
+    "latitude": 30.18821,
+    "longitude": -92.01299
   },
   {
     "address": "W UNIVERSITY AV & VERSAILLES BL",
