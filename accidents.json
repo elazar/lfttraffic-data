@@ -78,13 +78,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24152,
     "longitude": -92.04967
-  },
-  {
-    "address": "WESTGATE RD & DULLES DR",
-    "city": "SCOTT",
-    "time": "07/18/2019 - 12:47 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.21055,
-    "longitude": -92.087
   }
 ]
