@@ -56,27 +56,11 @@
     "longitude": -92.0323092
   },
   {
-    "address": "W PINHOOK RD & BENDEL RD",
-    "city": "LAFAYETTE",
-    "time": "07/18/2019 - 1:37 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19911,
-    "longitude": -92.01641
-  },
-  {
     "address": "3700 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/18/2019 - 1:18 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.17256,
     "longitude": -92.06915
-  },
-  {
-    "address": "BOWERS RD & HEBERT RD",
-    "city": "LAFAYETTE",
-    "time": "07/18/2019 - 1:13 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24152,
-    "longitude": -92.04967
   }
 ]
