@@ -1,26 +1,10 @@
 [
   {
-    "address": "700 LEBLANC RD",
-    "city": "LAFAYETTE",
-    "time": "07/18/2019 - 10:46 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.12759,
-    "longitude": -92.13917
-  },
-  {
     "address": "1225 CARMEL DR",
     "city": "LAFAYETTE",
     "time": "07/18/2019 - 10:34 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.23385,
     "longitude": -91.99115
-  },
-  {
-    "address": "KALISTE SALOOM RD & E FARREL RD",
-    "city": "LAFAYETTE",
-    "time": "07/18/2019 - 09:41 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.15466,
-    "longitude": -92.05015
   }
 ]
