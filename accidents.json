@@ -1,27 +1,11 @@
 [
   {
-    "address": "104 SIGMA DR",
-    "city": "LAFAYETTE",
-    "time": "07/17/2019 - 9:35 PM",
-    "due_to": "Hazardous Material",
-    "latitude": 30.2139,
-    "longitude": -92.06609
-  },
-  {
     "address": "109 CANTAL DR",
     "city": "LAFAYETTE",
     "time": "07/17/2019 - 9:11 PM",
     "due_to": "Commercial Fire",
     "latitude": 30.29352,
     "longitude": -92.02797
-  },
-  {
-    "address": "102 I10 WESTBOUND MM102 HW",
-    "city": "LAFAYETTE",
-    "time": "07/17/2019 - 8:50 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.26255,
-    "longitude": -92.00867
   },
   {
     "address": "1227 ST MARY ST",
