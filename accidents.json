@@ -1,5 +1,13 @@
 [
   {
+    "address": "3221 CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "07/18/2019 - 3:24 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.23232,
+    "longitude": -92.05774
+  },
+  {
     "address": "E UNIVERSITY AV & W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "07/18/2019 - 3:03 PM",
