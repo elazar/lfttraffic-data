@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 TOWN CENTER PW",
+    "city": "LAFAYETTE",
+    "time": "07/18/2019 - 12:55 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17573,
+    "longitude": -92.08631
+  },
+  {
     "address": "WESTGATE RD & DULLES DR",
     "city": "SCOTT",
     "time": "07/18/2019 - 12:47 PM",
