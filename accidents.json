@@ -1,5 +1,13 @@
 [
   {
+    "address": "303 BROOKSHIRE GARDENS DR",
+    "city": "LAFAYETTE",
+    "time": "07/19/2019 - 1:31 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.16002,
+    "longitude": -92.06706
+  },
+  {
     "address": "ROPER DR & BROTHERS RD",
     "city": "SCOTT",
     "time": "07/19/2019 - 1:27 PM",
