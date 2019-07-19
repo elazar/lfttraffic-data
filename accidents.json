@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "233 NORMANDY RD",
+    "city": "LAFAYETTE",
+    "time": "07/19/2019 - 10:57 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.18799,
+    "longitude": -92.05105
+  }
+]
