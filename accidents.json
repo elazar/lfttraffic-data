@@ -1,5 +1,13 @@
 [
   {
+    "address": "105 KIMBALL DR",
+    "city": "LAFAYETTE",
+    "time": "07/19/2019 - 11:40 AM",
+    "due_to": "Trash Fire",
+    "latitude": 30.13753,
+    "longitude": -92.0706
+  },
+  {
     "address": "BEAUVAIS AV & NW FRONTAGE RD",
     "city": "LAFAYETTE",
     "time": "07/19/2019 - 11:30 AM",
