@@ -1,5 +1,13 @@
 [
   {
+    "address": "105 LA RUE CHRIST ROI",
+    "city": "LAFAYETTE",
+    "time": "07/19/2019 - 3:37 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.34081,
+    "longitude": -92.0164
+  },
+  {
     "address": "NE EVANGELINE TW & I10 HW",
     "city": "LAFAYETTE",
     "time": "07/19/2019 - 3:31 PM",
@@ -70,14 +78,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.14778,
     "longitude": -92.03939
-  },
-  {
-    "address": "W PINHOOK RD & JAMES COMEAUX RD",
-    "city": "LAFAYETTE",
-    "time": "07/19/2019 - 2:15 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18738,
-    "longitude": -92.01261
   },
   {
     "address": "JOHNSTON ST & E MAIN ST",
