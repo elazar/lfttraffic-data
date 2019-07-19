@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 FENETRE RD",
+    "city": "SCOTT",
+    "time": "07/19/2019 - 4:07 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.22231,
+    "longitude": -92.10161
+  },
+  {
     "address": "LA RUE FRANCE & W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "07/19/2019 - 4:07 PM",
