@@ -1,5 +1,21 @@
 [
   {
+    "address": "SILVERSTONE RD & CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "07/19/2019 - 4:05 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17311,
+    "longitude": -92.04017
+  },
+  {
+    "address": "JOHNSTON ST & MIMOSA PL",
+    "city": "LAFAYETTE",
+    "time": "07/19/2019 - 4:05 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19726,
+    "longitude": -92.05655
+  },
+  {
     "address": "LAKEVIEW RD & LA 182 HW",
     "city": "BROUSSARD",
     "time": "07/19/2019 - 4:00 PM",
