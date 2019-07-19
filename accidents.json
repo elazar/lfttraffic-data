@@ -1,5 +1,21 @@
 [
   {
+    "address": "MUDD AV & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "07/19/2019 - 12:32 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.23174,
+    "longitude": -92.0027
+  },
+  {
+    "address": "LOUISIANA AV & MUDD AV",
+    "city": "LAFAYETTE",
+    "time": "07/19/2019 - 12:32 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.23174,
+    "longitude": -92.0027
+  },
+  {
     "address": "2315 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "07/19/2019 - 12:28 PM",
