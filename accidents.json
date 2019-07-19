@@ -62,13 +62,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.23174,
     "longitude": -92.0027
-  },
-  {
-    "address": "BEAUVAIS AV & NW FRONTAGE RD",
-    "city": "LAFAYETTE",
-    "time": "07/19/2019 - 11:30 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.29296,
-    "longitude": -92.0249
   }
 ]
