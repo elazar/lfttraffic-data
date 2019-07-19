@@ -1,5 +1,13 @@
 [
   {
+    "address": "RIDGE RD & S RICHFIELD RD",
+    "city": "LAFAYETTE",
+    "time": "07/19/2019 - 09:03 AM",
+    "due_to": "Hazard",
+    "latitude": 30.211,
+    "longitude": -92.17586
+  },
+  {
     "address": "1325 S MORGAN AV",
     "city": "BROUSSARD",
     "time": "07/19/2019 - 09:00 AM",
