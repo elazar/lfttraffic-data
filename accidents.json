@@ -1,5 +1,13 @@
 [
   {
+    "address": "3805 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "07/19/2019 - 12:04 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27465,
+    "longitude": -92.00839
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/19/2019 - 11:58 AM",
@@ -16,12 +24,12 @@
     "longitude": -92.01656
   },
   {
-    "address": "105 KIMBALL DR",
+    "address": "2305 ROBLEY DR",
     "city": "LAFAYETTE",
     "time": "07/19/2019 - 11:40 AM",
     "due_to": "Trash Fire",
-    "latitude": 30.13753,
-    "longitude": -92.0706
+    "latitude": 30.13801,
+    "longitude": -92.0834
   },
   {
     "address": "BEAUVAIS AV & NW FRONTAGE RD",
