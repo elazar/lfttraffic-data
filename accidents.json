@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "100 BELLEVUE PLANTATION RD",
+    "city": "LAFAYETTE",
+    "time": "07/19/2019 - 03:40 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.157273,
+    "longitude": -92.0872677
+  }
+]
