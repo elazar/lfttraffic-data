@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "LOUISIANA AV & CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "07/18/2019 - 8:59 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23457,
+    "longitude": -92.00231
+  }
+]
