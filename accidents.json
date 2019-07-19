@@ -1,5 +1,21 @@
 [
   {
+    "address": "NE EVANGELINE TW & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "07/19/2019 - 3:31 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.29151,
+    "longitude": -92.02336
+  },
+  {
+    "address": "2886 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "07/19/2019 - 3:31 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27958,
+    "longitude": -92.01916
+  },
+  {
     "address": "204 S MICHOT RD",
     "city": "LAFAYETTE",
     "time": "07/19/2019 - 3:24 PM",
