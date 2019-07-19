@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 SONNIER RD",
+    "city": "LAFAYETTE",
+    "time": "07/18/2019 - 7:05 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.3166936,
+    "longitude": -92.0218886
+  },
+  {
     "address": "W CONGRESS ST & RUE DU BELIER",
     "city": "LAFAYETTE",
     "time": "07/18/2019 - 6:30 PM",
