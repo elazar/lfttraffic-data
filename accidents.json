@@ -8,12 +8,12 @@
     "longitude": -92.0577
   },
   {
-    "address": "4600 AMBASSADOR CAFFERY PW",
+    "address": "4800 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/19/2019 - 2:21 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.15321,
-    "longitude": -92.04515
+    "latitude": 30.14778,
+    "longitude": -92.03939
   },
   {
     "address": "YOUNGSVILLE HW & RUE PLAISANCE",
@@ -46,13 +46,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2534686,
     "longitude": -92.037681
-  },
-  {
-    "address": "351 BROTHERS RD",
-    "city": "SCOTT",
-    "time": "07/19/2019 - 1:27 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.262785,
-    "longitude": -92.0576895
   }
 ]
