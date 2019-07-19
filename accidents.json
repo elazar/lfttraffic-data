@@ -1,5 +1,13 @@
 [
   {
+    "address": "105 ST NAZAIRE RD",
+    "city": "BROUSSARD",
+    "time": "07/19/2019 - 1:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14136,
+    "longitude": -91.94462
+  },
+  {
     "address": "CELEBRITY DR & US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "07/19/2019 - 1:16 PM",
@@ -55,5 +63,12 @@
     "latitude": 30.23174,
     "longitude": -92.0027
   },
-  null
+  {
+    "address": "BEAUVAIS AV & NW FRONTAGE RD",
+    "city": "LAFAYETTE",
+    "time": "07/19/2019 - 11:30 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.29296,
+    "longitude": -92.0249
+  }
 ]
