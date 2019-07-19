@@ -1,5 +1,13 @@
 [
   {
+    "address": "I49 NORTHBOUND MM1 HW & E PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "07/19/2019 - 5:05 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27266,
+    "longitude": -91.99991
+  },
+  {
     "address": "5504 LANDRY RD",
     "city": "LAFAYETTE",
     "time": "07/19/2019 - 4:44 PM",
