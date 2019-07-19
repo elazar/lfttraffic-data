@@ -15,7 +15,14 @@
     "latitude": 30.26423,
     "longitude": -92.05755
   },
-  null,
+  {
+    "address": "CELEBRITY DR & US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "07/19/2019 - 1:16 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14492,
+    "longitude": -91.94632
+  },
   {
     "address": "CAMELLIA BL & SETTLERS TRACE BL",
     "city": "LAFAYETTE",
@@ -55,13 +62,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.23174,
     "longitude": -92.0027
-  },
-  {
-    "address": "BEAUVAIS AV & NW FRONTAGE RD",
-    "city": "LAFAYETTE",
-    "time": "07/19/2019 - 11:30 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.29296,
-    "longitude": -92.0249
   }
 ]
