@@ -1,5 +1,13 @@
 [
   {
+    "address": "1325 S MORGAN AV",
+    "city": "BROUSSARD",
+    "time": "07/19/2019 - 09:00 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.12515,
+    "longitude": -91.96357
+  },
+  {
     "address": "HARDING ST & E ST MARY BL",
     "city": "LAFAYETTE",
     "time": "07/19/2019 - 08:26 AM",
