@@ -1,5 +1,13 @@
 [
   {
+    "address": "NW EVANGELINE TW & W PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "07/19/2019 - 4:18 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.27349,
+    "longitude": -92.02058
+  },
+  {
     "address": "200 FENETRE RD",
     "city": "SCOTT",
     "time": "07/19/2019 - 4:07 PM",
@@ -46,14 +54,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18738,
     "longitude": -92.01261
-  },
-  {
-    "address": "2886 NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "07/19/2019 - 3:31 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.27958,
-    "longitude": -92.01916
   },
   {
     "address": "204 S MICHOT RD",
