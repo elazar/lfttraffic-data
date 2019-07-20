@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & GOUDCHAUX DR",
+    "city": "LAFAYETTE",
+    "time": "07/20/2019 - 12:15 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1731,
+    "longitude": -92.07942
+  },
+  {
     "address": "104 I10 WESTBOUND MM104 HW",
     "city": "LAFAYETTE",
     "time": "07/20/2019 - 11:45 AM",
