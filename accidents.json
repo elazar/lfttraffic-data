@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & ARNOULD BL",
+    "city": "LAFAYETTE",
+    "time": "07/20/2019 - 4:12 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20186,
+    "longitude": -92.05312
+  },
+  {
     "address": "CAMELLIA BL & VERMILION RIVER",
     "city": "LAFAYETTE",
     "time": "07/20/2019 - 4:01 PM",
