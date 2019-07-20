@@ -1,5 +1,13 @@
 [
   {
+    "address": "ALBERTSON PW & E MAIN ST",
+    "city": "BROUSSARD",
+    "time": "07/20/2019 - 11:13 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.14074,
+    "longitude": -91.94631
+  },
+  {
     "address": "RUE FOSSE & RIVER BIRCH DR",
     "city": "LAFAYETTE",
     "time": "07/20/2019 - 11:06 AM",
