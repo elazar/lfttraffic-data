@@ -1,5 +1,13 @@
 [
   {
+    "address": "W WILLOW ST & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "07/19/2019 - 9:05 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24448,
+    "longitude": -92.03275
+  },
+  {
     "address": "200 RUE DU BELIER",
     "city": "SCOTT",
     "time": "07/19/2019 - 9:00 PM",
