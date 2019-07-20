@@ -1,5 +1,13 @@
 [
   {
+    "address": "800 E BAYOU PW",
+    "city": "LAFAYETTE",
+    "time": "07/20/2019 - 10:39 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1880971,
+    "longitude": -92.0262465
+  },
+  {
     "address": "JOHNSTON ST & RIDGE RD",
     "city": "LAFAYETTE",
     "time": "07/20/2019 - 10:30 AM",
