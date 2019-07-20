@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "07/20/2019 - 10:30 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.18136,
+    "longitude": -92.07126
+  },
+  {
     "address": "331 ARCENEAUX RD",
     "city": "CARENCRO",
     "time": "07/20/2019 - 10:15 AM",
