@@ -14,13 +14,5 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.18136,
     "longitude": -92.07126
-  },
-  {
-    "address": "331 ARCENEAUX RD",
-    "city": "CARENCRO",
-    "time": "07/20/2019 - 10:15 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.30919,
-    "longitude": -92.04343
   }
 ]
