@@ -1,5 +1,21 @@
 [
   {
+    "address": "W GLORIA SWITCH RD & FOURPARK RD",
+    "city": "LAFAYETTE",
+    "time": "07/20/2019 - 02:08 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29763,
+    "longitude": -92.03095
+  },
+  {
+    "address": "GARFIELD ST & LEE AV",
+    "city": "LAFAYETTE",
+    "time": "07/20/2019 - 02:08 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.22532,
+    "longitude": -92.01571
+  },
+  {
     "address": "NE EVANGELINE TW & E GLORIA SWITCH RD",
     "city": "LAFAYETTE",
     "time": "07/20/2019 - 01:29 AM",
