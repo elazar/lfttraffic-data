@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17673,
     "longitude": -92.00239
-  },
-  {
-    "address": "104 I10 WESTBOUND MM104 HW",
-    "city": "LAFAYETTE",
-    "time": "07/20/2019 - 11:45 AM",
-    "due_to": "Hazardous Situation",
-    "latitude": 30.26255,
-    "longitude": -92.00867
   }
 ]
