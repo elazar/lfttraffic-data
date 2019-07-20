@@ -14,21 +14,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.0726191,
     "longitude": -91.9578484
-  },
-  {
-    "address": "451 SE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "07/20/2019 - 1:09 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2259528,
-    "longitude": -92.0098617
-  },
-  {
-    "address": "N UNIVERSITY AV & BLAINE ST",
-    "city": "LAFAYETTE",
-    "time": "07/20/2019 - 12:49 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.26223,
-    "longitude": -92.04214
   }
 ]
