@@ -1,11 +1,11 @@
 [
   {
-    "address": "0 FIRE DEPARTMENT",
+    "address": "105 I10 EASTBOUND MM105 HW",
     "city": "LAFAYETTE",
     "time": "07/20/2019 - 5:10 PM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": null,
-    "longitude": null
+    "latitude": 30.26255,
+    "longitude": -92.00867
   },
   {
     "address": "105 I10 EASTBOUND MM105 HW",
