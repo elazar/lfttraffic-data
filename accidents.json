@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & BLAINE ST",
+    "city": "LAFAYETTE",
+    "time": "07/20/2019 - 12:49 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.26223,
+    "longitude": -92.04214
+  },
+  {
     "address": "409 RICHLAND AV",
     "city": "LAFAYETTE",
     "time": "07/20/2019 - 12:29 PM",
