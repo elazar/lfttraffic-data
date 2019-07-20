@@ -1,5 +1,13 @@
 [
   {
+    "address": "500 NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "07/20/2019 - 06:05 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.232448,
+    "longitude": -92.0139273
+  },
+  {
     "address": "1600 SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/20/2019 - 04:59 AM",
