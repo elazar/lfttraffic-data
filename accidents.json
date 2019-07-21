@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "TWELFTH ST & E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "07/20/2019 - 9:00 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.2296,
+    "longitude": -91.99984
+  }
+]
