@@ -1,13 +1,5 @@
 [
   {
-    "address": "IVORY ST & LE VIOLON RD",
-    "city": "SCOTT",
-    "time": "07/21/2019 - 12:39 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.20609,
-    "longitude": -92.10828
-  },
-  {
     "address": "NE EVANGELINE TW & E WILLOW ST",
     "city": "LAFAYETTE",
     "time": "07/21/2019 - 12:34 PM",
@@ -46,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18845,
     "longitude": -92.07506
-  },
-  {
-    "address": "218 W ST MARY BL",
-    "city": "LAFAYETTE",
-    "time": "07/21/2019 - 11:30 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21569,
-    "longitude": -92.02312
   }
 ]
