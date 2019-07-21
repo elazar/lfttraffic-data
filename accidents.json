@@ -1,5 +1,13 @@
 [
   {
+    "address": "LA 93 HW & DESTINATION POINTE LN",
+    "city": "SCOTT",
+    "time": "07/20/2019 - 7:10 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.25107,
+    "longitude": -92.10813
+  },
+  {
     "address": "1600 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/20/2019 - 7:05 PM",
