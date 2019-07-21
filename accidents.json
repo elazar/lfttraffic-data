@@ -1,5 +1,13 @@
 [
   {
+    "address": "218 W ST MARY BL",
+    "city": "LAFAYETTE",
+    "time": "07/21/2019 - 11:30 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21569,
+    "longitude": -92.02312
+  },
+  {
     "address": "655 MARIE ANTOINETTE ST",
     "city": "LAFAYETTE",
     "time": "07/21/2019 - 11:15 AM",
