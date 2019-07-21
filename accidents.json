@@ -1,5 +1,13 @@
 [
   {
+    "address": "202 S BIENVILLE ST",
+    "city": "LAFAYETTE",
+    "time": "07/21/2019 - 4:09 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.23292,
+    "longitude": -92.02412
+  },
+  {
     "address": "N UNIVERSITY AV & MALAPART RD",
     "city": "LAFAYETTE",
     "time": "07/21/2019 - 4:07 PM",
