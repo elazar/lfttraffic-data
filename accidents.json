@@ -1,5 +1,13 @@
 [
   {
+    "address": "915 S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "07/21/2019 - 2:30 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.20095,
+    "longitude": -92.029
+  },
+  {
     "address": "W CONGRESS ST & MARIE ANTOINETTE ST",
     "city": "LAFAYETTE",
     "time": "07/21/2019 - 2:10 PM",
