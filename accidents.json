@@ -1,19 +1,19 @@
 [
   {
+    "address": "N UNIVERSITY AV & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "07/21/2019 - 12:23 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24052,
+    "longitude": -92.03242
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & CURRAN LN",
     "city": "LAFAYETTE",
     "time": "07/21/2019 - 12:10 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.18845,
     "longitude": -92.07506
-  },
-  {
-    "address": "2400 ROBLEY DR",
-    "city": "LAFAYETTE",
-    "time": "07/21/2019 - 11:52 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1362656,
-    "longitude": -92.086546
   },
   {
     "address": "218 W ST MARY BL",
