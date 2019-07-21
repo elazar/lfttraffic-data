@@ -1,21 +1,5 @@
 [
   {
-    "address": "401 LAUREN DR",
-    "city": "SCOTT",
-    "time": "07/21/2019 - 5:10 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.22967,
-    "longitude": -92.08818
-  },
-  {
-    "address": "HAIG ST & MARNE ST",
-    "city": "LAFAYETTE",
-    "time": "07/21/2019 - 5:06 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.23332,
-    "longitude": -92.00022
-  },
-  {
     "address": "306 DELAHOUSSAYE DR",
     "city": "LAFAYETTE",
     "time": "07/21/2019 - 5:00 PM",
