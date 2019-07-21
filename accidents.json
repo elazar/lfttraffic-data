@@ -1,5 +1,13 @@
 [
   {
+    "address": "D ARCENEAUX RD & S FIELDSPAN RD",
+    "city": "LAFAYETTE",
+    "time": "07/21/2019 - 2:10 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23691,
+    "longitude": -92.14209
+  },
+  {
     "address": "US 90 EAST HW & YOUNG ST",
     "city": "BROUSSARD",
     "time": "07/21/2019 - 2:05 PM",
