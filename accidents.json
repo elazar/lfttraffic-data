@@ -1,18 +1,18 @@
 [
   {
+    "address": "128 KOL DR (SE)",
+    "city": "BROUSSARD",
+    "time": "07/21/2019 - 3:38 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.1537644,
+    "longitude": -91.9703619
+  },
+  {
     "address": "120 ALCIDE DOMINIQUE DR",
     "city": "LAFAYETTE",
     "time": "07/21/2019 - 3:33 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.24908,
     "longitude": -92.03823
-  },
-  {
-    "address": "W CONGRESS ST & MARIE ANTOINETTE ST",
-    "city": "LAFAYETTE",
-    "time": "07/21/2019 - 2:10 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20584,
-    "longitude": -92.05871
   }
 ]
