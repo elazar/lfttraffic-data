@@ -1,13 +1,5 @@
 [
   {
-    "address": "600 ROSELAWN BL",
-    "city": "LAFAYETTE",
-    "time": "07/21/2019 - 4:12 PM",
-    "due_to": "Hazard",
-    "latitude": 30.19147,
-    "longitude": -92.0422
-  },
-  {
     "address": "200 ST JOHN ST",
     "city": "LAFAYETTE",
     "time": "07/21/2019 - 4:10 PM",
@@ -22,14 +14,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.2905,
     "longitude": -92.04991
-  },
-  {
-    "address": "200 FREM BOUSTANY DR",
-    "city": "LAFAYETTE",
-    "time": "07/21/2019 - 4:06 PM",
-    "due_to": "Commercial Fire",
-    "latitude": 30.1500957,
-    "longitude": -92.0403912
   },
   {
     "address": "120 ALCIDE DOMINIQUE DR",
