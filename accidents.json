@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & MALAPART RD",
+    "city": "LAFAYETTE",
+    "time": "07/21/2019 - 4:07 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2905,
+    "longitude": -92.04991
+  },
+  {
     "address": "200 FREM BOUSTANY DR",
     "city": "LAFAYETTE",
     "time": "07/21/2019 - 4:06 PM",
