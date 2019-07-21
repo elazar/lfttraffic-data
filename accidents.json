@@ -1,19 +1,19 @@
 [
   {
+    "address": "600 ROSELAWN BL",
+    "city": "LAFAYETTE",
+    "time": "07/21/2019 - 4:12 PM",
+    "due_to": "Hazard",
+    "latitude": 30.19147,
+    "longitude": -92.0422
+  },
+  {
     "address": "200 ST JOHN ST",
     "city": "LAFAYETTE",
     "time": "07/21/2019 - 4:10 PM",
     "due_to": "Dumpster Fire",
     "latitude": 30.23357,
     "longitude": -92.02324
-  },
-  {
-    "address": "202 S BIENVILLE ST",
-    "city": "LAFAYETTE",
-    "time": "07/21/2019 - 4:09 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.23292,
-    "longitude": -92.02412
   },
   {
     "address": "N UNIVERSITY AV & MALAPART RD",
