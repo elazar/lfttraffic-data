@@ -2,6 +2,14 @@
   {
     "address": "306 DELAHOUSSAYE DR",
     "city": "LAFAYETTE",
+    "time": "07/21/2019 - 5:00 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.2517,
+    "longitude": -92.02716
+  },
+  {
+    "address": "306 DELAHOUSSAYE DR",
+    "city": "LAFAYETTE",
     "time": "07/21/2019 - 4:59 PM",
     "due_to": "Incoming Call",
     "latitude": 30.2517,
