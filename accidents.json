@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "address": "5725 JOHNSTON ST (NE)",
+    "city": "LAFAYETTE",
+    "time": "07/20/2019 - 9:33 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.17353,
+    "longitude": -92.07732
+  },
+  {
+    "address": "3721 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "07/20/2019 - 9:32 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.17357,
+    "longitude": -92.0672
+  }
+]
