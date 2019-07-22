@@ -1,5 +1,13 @@
 [
   {
+    "address": "E UNIVERSITY AV & W TAFT ST",
+    "city": "LAFAYETTE",
+    "time": "07/22/2019 - 12:56 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21296,
+    "longitude": -92.01316
+  },
+  {
     "address": "3700 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "07/22/2019 - 12:54 PM",
