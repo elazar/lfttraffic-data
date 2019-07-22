@@ -1,5 +1,21 @@
 [
   {
+    "address": "4407 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "07/22/2019 - 3:55 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15891,
+    "longitude": -92.04866
+  },
+  {
+    "address": "E UNIVERSITY AV & W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "07/22/2019 - 3:55 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21056,
+    "longitude": -92.00978
+  },
+  {
     "address": "W CONGRESS ST & MYRTLE PL",
     "city": "LAFAYETTE",
     "time": "07/22/2019 - 3:26 PM",
@@ -30,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23895,
     "longitude": -92.06162
-  },
-  {
-    "address": "2000 LA 93 HW",
-    "city": "LAFAYETTE",
-    "time": "07/22/2019 - 2:10 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.28828,
-    "longitude": -92.1126
   },
   {
     "address": "E WILLOW ST & TEURLINGS DR",
