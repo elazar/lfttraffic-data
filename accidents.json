@@ -1,5 +1,13 @@
 [
   {
+    "address": "320 SAN CARLOS CL",
+    "city": "LAFAYETTE",
+    "time": "07/22/2019 - 12:44 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.2142,
+    "longitude": -92.07202
+  },
+  {
     "address": "500 RIDGE RD",
     "city": "LAFAYETTE",
     "time": "07/22/2019 - 11:52 AM",
