@@ -1,19 +1,19 @@
 [
   {
+    "address": "3500 N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "07/22/2019 - 12:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2948184,
+    "longitude": -92.0494443
+  },
+  {
     "address": "485 RIDGE RD",
     "city": "LAFAYETTE",
     "time": "07/22/2019 - 11:52 AM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.18078,
     "longitude": -92.09239
-  },
-  {
-    "address": "SW EVANGELINE TW & JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "07/22/2019 - 11:46 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.22457,
-    "longitude": -92.01033
   },
   {
     "address": "RIDGE RD & AMBASSADOR CAFFERY PW",
