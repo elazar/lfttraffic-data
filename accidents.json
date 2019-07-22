@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & PECAN GROVE RD",
+    "city": "SCOTT",
+    "time": "07/22/2019 - 3:08 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23216,
+    "longitude": -92.07194
+  },
+  {
     "address": "N AMBASSADOR CAFFERY PW & I10 HW",
     "city": "LAFAYETTE",
     "time": "07/22/2019 - 3:02 PM",
