@@ -1,5 +1,13 @@
 [
   {
+    "address": "VEROT SCHOOL RD & FEU FOLLET RD",
+    "city": "LAFAYETTE",
+    "time": "07/22/2019 - 4:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17533,
+    "longitude": -92.00692
+  },
+  {
     "address": "5801 CAMERON ST",
     "city": "SCOTT",
     "time": "07/22/2019 - 4:27 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15755,
     "longitude": -92.0433
-  },
-  {
-    "address": "4300 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "07/22/2019 - 3:55 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15906,
-    "longitude": -92.0522
   },
   {
     "address": "E UNIVERSITY AV & W PINHOOK RD",
