@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 LAGNEAUX RD",
+    "city": "LAFAYETTE",
+    "time": "07/22/2019 - 5:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1934733,
+    "longitude": -92.1251549
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & DILLARD DR",
     "city": "LAFAYETTE",
     "time": "07/22/2019 - 4:36 PM",
