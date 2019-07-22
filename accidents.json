@@ -1,5 +1,21 @@
 [
   {
+    "address": "105 ST BLAISE LN",
+    "city": "LAFAYETTE",
+    "time": "07/22/2019 - 1:14 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.12013,
+    "longitude": -92.02076
+  },
+  {
+    "address": "FOREMAN DR & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "07/22/2019 - 1:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20729,
+    "longitude": -92.05656
+  },
+  {
     "address": "106 TOWNE DR",
     "city": "LAFAYETTE",
     "time": "07/22/2019 - 1:08 PM",
