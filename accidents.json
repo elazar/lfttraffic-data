@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "900 E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "07/21/2019 - 9:16 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2301,
+    "longitude": -92.00648
+  }
+]
