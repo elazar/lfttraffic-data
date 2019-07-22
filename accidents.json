@@ -1,5 +1,13 @@
 [
   {
+    "address": "400 JEFFERSON ST",
+    "city": "LAFAYETTE",
+    "time": "07/22/2019 - 2:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22672,
+    "longitude": -92.01777
+  },
+  {
     "address": "300 KATE ST",
     "city": "CARENCRO",
     "time": "07/22/2019 - 2:17 PM",
