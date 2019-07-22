@@ -24,14 +24,6 @@
     "longitude": -92.07263
   },
   {
-    "address": "116 SPINNER DR",
-    "city": "BROUSSARD",
-    "time": "07/22/2019 - 07:49 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1477,
-    "longitude": -91.93784
-  },
-  {
     "address": "VEROT SCHOOL RD & FAILLA RD",
     "city": "LAFAYETTE",
     "time": "07/22/2019 - 07:44 AM",
@@ -46,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23107,
     "longitude": -92.0138
-  },
-  {
-    "address": "J B RD & L PROVOST RD",
-    "city": "SCOTT",
-    "time": "07/22/2019 - 07:31 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2262,
-    "longitude": -92.09837
   }
 ]
