@@ -1,5 +1,13 @@
 [
   {
+    "address": "2956 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/22/2019 - 1:47 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20504,
+    "longitude": -92.04278
+  },
+  {
     "address": "W CONGRESS ST & GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "07/22/2019 - 1:43 PM",
@@ -54,14 +62,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15291,
     "longitude": -91.95943
-  },
-  {
-    "address": "320 SAN CARLOS CL",
-    "city": "LAFAYETTE",
-    "time": "07/22/2019 - 12:44 PM",
-    "due_to": "Residential Fire",
-    "latitude": 30.2142,
-    "longitude": -92.07202
   },
   {
     "address": "E WILLOW ST & TEURLINGS DR",
