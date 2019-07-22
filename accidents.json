@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & N MORGAN AV",
+    "city": "BROUSSARD",
+    "time": "07/22/2019 - 12:49 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15291,
+    "longitude": -91.95943
+  },
+  {
     "address": "320 SAN CARLOS CL",
     "city": "LAFAYETTE",
     "time": "07/22/2019 - 12:44 PM",
