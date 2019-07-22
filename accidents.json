@@ -1,5 +1,13 @@
 [
   {
+    "address": "341 DOUCET RD",
+    "city": "LAFAYETTE",
+    "time": "07/22/2019 - 3:44 PM",
+    "due_to": "Hazard",
+    "latitude": 30.19863,
+    "longitude": -92.04216
+  },
+  {
     "address": "W CONGRESS ST & MYRTLE PL",
     "city": "LAFAYETTE",
     "time": "07/22/2019 - 3:26 PM",
@@ -24,12 +32,12 @@
     "longitude": -92.07005
   },
   {
-    "address": "W SAUL DR & SAVONNE DR",
+    "address": "100 W SAUL DR",
     "city": "LAFAYETTE",
     "time": "07/22/2019 - 2:52 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.23869,
-    "longitude": -92.06281
+    "latitude": 30.23895,
+    "longitude": -92.06162
   },
   {
     "address": "400 JEFFERSON ST",
