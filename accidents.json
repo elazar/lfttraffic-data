@@ -32,14 +32,6 @@
     "longitude": -91.97994
   },
   {
-    "address": "105 ST BLAISE LN",
-    "city": "LAFAYETTE",
-    "time": "07/22/2019 - 1:14 PM",
-    "due_to": "Commercial Fire",
-    "latitude": 30.12013,
-    "longitude": -92.02076
-  },
-  {
     "address": "FOREMAN DR & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "07/22/2019 - 1:13 PM",
@@ -54,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21296,
     "longitude": -92.01316
-  },
-  {
-    "address": "US 90 EAST HW & N MORGAN AV",
-    "city": "BROUSSARD",
-    "time": "07/22/2019 - 12:49 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15291,
-    "longitude": -91.95943
   },
   {
     "address": "E WILLOW ST & TEURLINGS DR",
