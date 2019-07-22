@@ -1,5 +1,13 @@
 [
   {
+    "address": "LA NEUVILLE RD & BONIN RD",
+    "city": "LAFAYETTE",
+    "time": "07/22/2019 - 6:49 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14488,
+    "longitude": -92.00774
+  },
+  {
     "address": "I49 NORTHBOUND MM3 HW & E GLORIA SWITCH RD",
     "city": "CARENCRO",
     "time": "07/22/2019 - 6:37 PM",
