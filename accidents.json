@@ -1,5 +1,13 @@
 [
   {
+    "address": "515 GUILBEAU RD",
+    "city": "LAFAYETTE",
+    "time": "07/22/2019 - 08:00 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19936,
+    "longitude": -92.0728
+  },
+  {
     "address": "CHAPEL DR & GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "07/22/2019 - 07:59 AM",
