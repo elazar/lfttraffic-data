@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 JUSTIN ST",
+    "city": "LAFAYETTE",
+    "time": "07/22/2019 - 5:34 PM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.25567,
+    "longitude": -92.01772
+  },
+  {
     "address": "110 S ST JOHN ST",
     "city": "CARENCRO",
     "time": "07/22/2019 - 5:32 PM",
