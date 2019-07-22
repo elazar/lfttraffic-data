@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "440 HUVAL ST",
+    "city": "LAFAYETTE",
+    "time": "07/21/2019 - 11:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2356,
+    "longitude": -92.03185
+  }
+]
