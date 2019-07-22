@@ -1,5 +1,13 @@
 [
   {
+    "address": "106 TOWNE DR",
+    "city": "LAFAYETTE",
+    "time": "07/22/2019 - 1:08 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.1481,
+    "longitude": -92.02366
+  },
+  {
     "address": "E UNIVERSITY AV & W TAFT ST",
     "city": "LAFAYETTE",
     "time": "07/22/2019 - 12:56 PM",
