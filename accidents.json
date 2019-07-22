@@ -1,5 +1,13 @@
 [
   {
+    "address": "1314 CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "07/22/2019 - 09:18 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.1684455,
+    "longitude": -92.0379796
+  },
+  {
     "address": "1122 LAFAYETTE ST",
     "city": "LAFAYETTE",
     "time": "07/22/2019 - 09:13 AM",
