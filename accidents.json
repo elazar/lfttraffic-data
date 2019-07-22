@@ -1,19 +1,19 @@
 [
   {
+    "address": "485 RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "07/22/2019 - 11:52 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.18078,
+    "longitude": -92.09239
+  },
+  {
     "address": "SW EVANGELINE TW & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/22/2019 - 11:46 AM",
     "due_to": "Road Hazard",
     "latitude": 30.22457,
     "longitude": -92.01033
-  },
-  {
-    "address": "916 LAFAYETTE ST",
-    "city": "LAFAYETTE",
-    "time": "07/22/2019 - 11:45 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.22351,
-    "longitude": -92.0214
   },
   {
     "address": "RIDGE RD & AMBASSADOR CAFFERY PW",
