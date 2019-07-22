@@ -1,5 +1,21 @@
 [
   {
+    "address": "5500 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/22/2019 - 10:35 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.180565,
+    "longitude": -92.0722691
+  },
+  {
+    "address": "903 S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "07/22/2019 - 10:35 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20193,
+    "longitude": -92.03024
+  },
+  {
     "address": "1306 GUILLIOT RD",
     "city": "LAFAYETTE",
     "time": "07/22/2019 - 10:34 AM",
