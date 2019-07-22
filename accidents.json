@@ -1,5 +1,13 @@
 [
   {
+    "address": "W SAUL DR & SAVONNE DR",
+    "city": "LAFAYETTE",
+    "time": "07/22/2019 - 2:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23869,
+    "longitude": -92.06281
+  },
+  {
     "address": "400 JEFFERSON ST",
     "city": "LAFAYETTE",
     "time": "07/22/2019 - 2:39 PM",
