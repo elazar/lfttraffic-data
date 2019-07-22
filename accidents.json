@@ -1,5 +1,21 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & ROBLEY DR",
+    "city": "LAFAYETTE",
+    "time": "07/22/2019 - 1:25 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17117,
+    "longitude": -92.06617
+  },
+  {
+    "address": "104 CYNTHIA ST",
+    "city": "LAFAYETTE",
+    "time": "07/22/2019 - 1:25 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.09667,
+    "longitude": -91.97994
+  },
+  {
     "address": "105 ST BLAISE LN",
     "city": "LAFAYETTE",
     "time": "07/22/2019 - 1:14 PM",
@@ -22,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21296,
     "longitude": -92.01316
-  },
-  {
-    "address": "3700 US 90 EAST HW",
-    "city": "BROUSSARD",
-    "time": "07/22/2019 - 12:54 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1588529,
-    "longitude": -91.969704
   },
   {
     "address": "US 90 EAST HW & N MORGAN AV",
