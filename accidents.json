@@ -62,13 +62,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18444,
     "longitude": -92.07499
-  },
-  {
-    "address": "329 ST CLAIR RD",
-    "city": "LAFAYETTE",
-    "time": "07/23/2019 - 10:53 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.3044,
-    "longitude": -91.97497
   }
 ]
