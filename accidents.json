@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "07/22/2019 - 10:36 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.24052,
+    "longitude": -92.03242
+  },
+  {
     "address": "CHEMIN AGREABLE & ROMERO RD",
     "city": "LAFAYETTE",
     "time": "07/22/2019 - 9:47 PM",
