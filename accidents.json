@@ -1,5 +1,13 @@
 [
   {
+    "address": "2678 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/23/2019 - 08:42 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20852,
+    "longitude": -92.03842
+  },
+  {
     "address": "WALKER RD & PECAN GROVE RD",
     "city": "LAFAYETTE",
     "time": "07/23/2019 - 07:57 AM",
