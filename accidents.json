@@ -1,19 +1,19 @@
 [
   {
+    "address": "JOHNSTON ST & TELJEAN RD",
+    "city": "LAFAYETTE",
+    "time": "07/23/2019 - 10:39 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13477,
+    "longitude": -92.10644
+  },
+  {
     "address": "300 DOUCET RD",
     "city": "LAFAYETTE",
     "time": "07/23/2019 - 09:52 AM",
     "due_to": "Traffic Control",
     "latitude": 30.19975,
     "longitude": -92.04462
-  },
-  {
-    "address": "2860 NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "07/23/2019 - 09:39 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.27856,
-    "longitude": -92.0189
   },
   {
     "address": "AMBASSADOR CAFFERY PW & TUCKER DR",
