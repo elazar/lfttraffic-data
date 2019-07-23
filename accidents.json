@@ -1,5 +1,13 @@
 [
   {
+    "address": "4110 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/23/2019 - 2:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19687,
+    "longitude": -92.0572
+  },
+  {
     "address": "16 BNSF RAILROAD CG",
     "city": "LAFAYETTE",
     "time": "07/23/2019 - 2:19 PM",
