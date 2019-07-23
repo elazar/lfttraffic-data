@@ -1,5 +1,13 @@
 [
   {
+    "address": "123 VETERINARIAN RD",
+    "city": "LAFAYETTE",
+    "time": "07/23/2019 - 04:20 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.28572,
+    "longitude": -92.03019
+  },
+  {
     "address": "NW EVANGELINE TW & W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "07/23/2019 - 12:23 AM",
