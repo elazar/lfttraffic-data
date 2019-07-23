@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2379,
     "longitude": -92.06484
-  },
-  {
-    "address": "109 AMITE DR",
-    "city": "LAFAYETTE",
-    "time": "07/23/2019 - 05:00 AM",
-    "due_to": "Residential Fire",
-    "latitude": 30.15484,
-    "longitude": -92.00184
   }
 ]
