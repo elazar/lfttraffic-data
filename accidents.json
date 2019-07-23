@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PONT DES MOUTON RD & I49 SOUTHBOUND MM1 HW",
+    "city": "LAFAYETTE",
+    "time": "07/23/2019 - 12:06 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.27587,
+    "longitude": -92.04949
+  },
+  {
     "address": "NW EVANGELINE TW & W PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "07/23/2019 - 12:01 PM",
@@ -46,13 +54,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.3044,
     "longitude": -91.97497
-  },
-  {
-    "address": "300 DOUCET RD",
-    "city": "LAFAYETTE",
-    "time": "07/23/2019 - 09:52 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.19975,
-    "longitude": -92.04462
   }
 ]
