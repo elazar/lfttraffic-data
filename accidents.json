@@ -1,5 +1,13 @@
 [
   {
+    "address": "101 KELLY DR",
+    "city": "LAFAYETTE",
+    "time": "07/23/2019 - 2:00 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.22975,
+    "longitude": -92.04906
+  },
+  {
     "address": "1545 SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/23/2019 - 1:44 PM",
