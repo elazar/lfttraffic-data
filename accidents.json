@@ -1,21 +1,5 @@
 [
   {
-    "address": "211 ELSINORE CL",
-    "city": "LAFAYETTE",
-    "time": "07/23/2019 - 01:21 AM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.16929,
-    "longitude": -92.00182
-  },
-  {
-    "address": "1500 NW EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "07/23/2019 - 12:43 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2451127,
-    "longitude": -92.0146249
-  },
-  {
     "address": "NW EVANGELINE TW & W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "07/23/2019 - 12:23 AM",
