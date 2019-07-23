@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.13477,
     "longitude": -92.10644
-  },
-  {
-    "address": "300 DOUCET RD",
-    "city": "LAFAYETTE",
-    "time": "07/23/2019 - 09:52 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.19975,
-    "longitude": -92.04462
   }
 ]
