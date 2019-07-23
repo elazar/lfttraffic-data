@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 GARBER RD",
+    "city": "LAFAYETTE",
+    "time": "07/23/2019 - 12:12 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1764551,
+    "longitude": -91.9830295
+  },
+  {
     "address": "W PONT DES MOUTON RD & I49 SOUTHBOUND MM1 HW",
     "city": "LAFAYETTE",
     "time": "07/23/2019 - 12:06 PM",
