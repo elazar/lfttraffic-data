@@ -1,5 +1,13 @@
 [
   {
+    "address": "GUILBEAU RD & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/23/2019 - 12:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19375,
+    "longitude": -92.0586
+  },
+  {
     "address": "BENOIT RD & MILLS ST",
     "city": "LAFAYETTE",
     "time": "07/23/2019 - 12:50 PM",
