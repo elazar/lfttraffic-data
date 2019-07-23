@@ -1,5 +1,13 @@
 [
   {
+    "address": "103 I10 EASTBOUND MM103A HW",
+    "city": "LAFAYETTE",
+    "time": "07/23/2019 - 4:56 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "1001 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/23/2019 - 4:39 PM",
