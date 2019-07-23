@@ -14,21 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19661,
     "longitude": -92.0758
-  },
-  {
-    "address": "E WILLOW ST & TEURLINGS DR",
-    "city": "LAFAYETTE",
-    "time": "07/23/2019 - 4:08 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24402,
-    "longitude": -91.98893
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & I10 HW",
-    "city": "LAFAYETTE",
-    "time": "07/23/2019 - 3:07 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21504,
-    "longitude": -92.07579
   }
 ]
