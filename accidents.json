@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & APOLLO RD",
+    "city": "SCOTT",
+    "time": "07/23/2019 - 6:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23485,
+    "longitude": -92.10742
+  },
+  {
     "address": "KALISTE SALOOM RD & E FARREL RD",
     "city": "LAFAYETTE",
     "time": "07/23/2019 - 5:46 PM",
