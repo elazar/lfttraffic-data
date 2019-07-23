@@ -1,5 +1,13 @@
 [
   {
+    "address": "2427 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "07/23/2019 - 11:49 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.15068,
+    "longitude": -92.02799
+  },
+  {
     "address": "105 W GLORIA SWITCH RD",
     "city": "LAFAYETTE",
     "time": "07/23/2019 - 11:42 AM",
@@ -38,14 +46,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.3044,
     "longitude": -91.97497
-  },
-  {
-    "address": "JOHNSTON ST & MILDRED ST",
-    "city": "LAFAYETTE",
-    "time": "07/23/2019 - 10:51 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21323,
-    "longitude": -92.02354
   },
   {
     "address": "JOHNSTON ST & SOUTHCITY PW",
