@@ -1,5 +1,13 @@
 [
   {
+    "address": "1000 GOLDEN GRAIN RD",
+    "city": "LAFAYETTE",
+    "time": "07/22/2019 - 7:49 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1593727,
+    "longitude": -92.172726
+  },
+  {
     "address": "E WILLOW ST & TEURLINGS DR",
     "city": "LAFAYETTE",
     "time": "07/22/2019 - 10:41 AM",
