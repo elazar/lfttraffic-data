@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & MILDRED ST",
+    "city": "LAFAYETTE",
+    "time": "07/23/2019 - 10:51 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21323,
+    "longitude": -92.02354
+  },
+  {
     "address": "JOHNSTON ST & SOUTHCITY PW",
     "city": "LAFAYETTE",
     "time": "07/23/2019 - 10:43 AM",
