@@ -1,5 +1,13 @@
 [
   {
+    "address": "101 GLOUCHESTER RD",
+    "city": "LAFAYETTE",
+    "time": "07/23/2019 - 2:23 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.1889,
+    "longitude": -92.06543
+  },
+  {
     "address": "16 BNSF RAILROAD CG",
     "city": "LAFAYETTE",
     "time": "07/23/2019 - 2:19 PM",
@@ -22,14 +30,6 @@
     "due_to": "Trash Fire",
     "latitude": 30.27695,
     "longitude": -92.11831
-  },
-  {
-    "address": "101 KELLY DR",
-    "city": "LAFAYETTE",
-    "time": "07/23/2019 - 2:00 PM",
-    "due_to": "Residential Fire",
-    "latitude": 30.22975,
-    "longitude": -92.04906
   },
   {
     "address": "1545 SE EVANGELINE TW",
