@@ -1,5 +1,13 @@
 [
   {
+    "address": "NW EVANGELINE TW & W PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "07/23/2019 - 12:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27349,
+    "longitude": -92.02058
+  },
+  {
     "address": "NW EVANGELINE TW & E SECOND ST",
     "city": "LAFAYETTE",
     "time": "07/23/2019 - 11:55 AM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.29526,
     "longitude": -92.0274
-  },
-  {
-    "address": "322 E GLORIA SWITCH RD",
-    "city": "LAFAYETTE",
-    "time": "07/23/2019 - 11:34 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.29488,
-    "longitude": -92.01564
   },
   {
     "address": "203 WILDA ST",
