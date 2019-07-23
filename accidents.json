@@ -1,5 +1,21 @@
 [
   {
+    "address": "15 BNSF RAILROAD CG",
+    "city": "LAFAYETTE",
+    "time": "07/23/2019 - 2:19 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.22009,
+    "longitude": -92.00685
+  },
+  {
+    "address": "16 BNSF RAILROAD CG",
+    "city": "LAFAYETTE",
+    "time": "07/23/2019 - 2:19 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.22014,
+    "longitude": -92.00629
+  },
+  {
     "address": "3721 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/23/2019 - 2:14 PM",
