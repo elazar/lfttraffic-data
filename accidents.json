@@ -1,5 +1,13 @@
 [
   {
+    "address": "YOUNG ST & DEVILLIER RD",
+    "city": "BROUSSARD",
+    "time": "07/23/2019 - 06:57 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.10191,
+    "longitude": -91.96574
+  },
+  {
     "address": "NW EVANGELINE TW & SAMPSON AV",
     "city": "LAFAYETTE",
     "time": "07/23/2019 - 06:48 AM",
