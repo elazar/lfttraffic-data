@@ -1,19 +1,19 @@
 [
   {
+    "address": "W PINHOOK RD & TULANE AV",
+    "city": "LAFAYETTE",
+    "time": "07/23/2019 - 1:46 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20927,
+    "longitude": -92.01049
+  },
+  {
     "address": "1545 SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/23/2019 - 1:44 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.20998,
     "longitude": -91.99927
-  },
-  {
-    "address": "W VERMILION ST & LAFAYETTE ST",
-    "city": "LAFAYETTE",
-    "time": "07/23/2019 - 1:10 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22407,
-    "longitude": -92.02079
   },
   {
     "address": "GUILBEAU RD & JOHNSTON ST",
