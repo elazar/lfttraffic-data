@@ -1,5 +1,13 @@
 [
   {
+    "address": "W VERMILION ST & LAFAYETTE ST",
+    "city": "LAFAYETTE",
+    "time": "07/23/2019 - 1:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22407,
+    "longitude": -92.02079
+  },
+  {
     "address": "JOHNSTON ST & GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "07/23/2019 - 1:06 PM",
