@@ -1,27 +1,11 @@
 [
   {
-    "address": "710 HUVAL ST (SW)",
-    "city": "Lafayette",
-    "time": "07/23/2019 - 1:57 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.23517,
-    "longitude": -92.0347
-  },
-  {
     "address": "1545 SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/23/2019 - 1:44 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.20998,
     "longitude": -91.99927
-  },
-  {
-    "address": "GUILBEAU RD & JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "07/23/2019 - 12:58 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19375,
-    "longitude": -92.0586
   },
   {
     "address": "BENOIT RD & MILLS ST",
