@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & HOLDEN AV",
+    "city": "LAFAYETTE",
+    "time": "07/24/2019 - 11:50 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.20447,
+    "longitude": -92.04432
+  },
+  {
     "address": "1000 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/24/2019 - 11:48 AM",
@@ -30,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.234316,
     "longitude": -92.0124011
-  },
-  {
-    "address": "NE EVANGELINE TW & MUDD AV",
-    "city": "LAFAYETTE",
-    "time": "07/24/2019 - 09:26 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.23296,
-    "longitude": -92.01278
   }
 ]
