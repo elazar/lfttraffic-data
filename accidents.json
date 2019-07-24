@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "2504 RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "07/24/2019 - 07:01 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18151,
+    "longitude": -92.15903
+  }
+]
