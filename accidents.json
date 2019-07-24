@@ -1,5 +1,13 @@
 [
   {
+    "address": "6400 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/24/2019 - 12:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1578596,
+    "longitude": -92.0874854
+  },
+  {
     "address": "JOHNSTON ST & W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "07/24/2019 - 12:11 PM",
