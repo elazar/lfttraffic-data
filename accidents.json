@@ -1,5 +1,13 @@
 [
   {
+    "address": "2340 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "07/24/2019 - 10:30 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.15991,
+    "longitude": -92.04646
+  },
+  {
     "address": "100 JEANETTE ST",
     "city": "LAFAYETTE",
     "time": "07/24/2019 - 10:26 AM",
