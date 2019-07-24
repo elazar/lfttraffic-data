@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 NOTRE DAME DR",
+    "city": "SCOTT",
+    "time": "07/24/2019 - 2:17 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.22673,
+    "longitude": -92.08683
+  },
+  {
     "address": "MALL OF ACADIANA DR & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/24/2019 - 2:00 PM",
