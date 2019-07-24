@@ -1,5 +1,13 @@
 [
   {
+    "address": "1000 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "07/24/2019 - 11:48 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23664,
+    "longitude": -92.01284
+  },
+  {
     "address": "N BEADLE RD & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "07/24/2019 - 11:42 AM",
