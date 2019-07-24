@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 SAN CARLOS CL",
+    "city": "LAFAYETTE",
+    "time": "07/24/2019 - 3:53 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.21419,
+    "longitude": -92.06943
+  },
+  {
     "address": "116 ALCIDE DOMINIQUE DR",
     "city": "LAFAYETTE",
     "time": "07/24/2019 - 3:39 PM",
