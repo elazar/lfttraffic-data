@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "123 ST NAZAIRE RD",
+    "city": "BROUSSARD",
+    "time": "07/23/2019 - 8:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14362,
+    "longitude": -91.94369
+  }
+]
