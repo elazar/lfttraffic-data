@@ -1,5 +1,21 @@
 [
   {
+    "address": "5600 CAMERON ST",
+    "city": "SCOTT",
+    "time": "07/24/2019 - 11:33 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2337723,
+    "longitude": -92.0897818
+  },
+  {
+    "address": "CAMERON ST & ELIZABETH ST",
+    "city": "SCOTT",
+    "time": "07/24/2019 - 11:33 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 29.79333,
+    "longitude": -93.30706
+  },
+  {
     "address": "US 90 EAST HW & N SOUTHPARK RD",
     "city": "LAFAYETTE",
     "time": "07/24/2019 - 11:03 AM",
