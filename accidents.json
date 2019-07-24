@@ -1,5 +1,13 @@
 [
   {
+    "address": "DUGAS RD & STONYBROOK DR",
+    "city": "LAFAYETTE",
+    "time": "07/24/2019 - 08:45 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.28219,
+    "longitude": -92.06238
+  },
+  {
     "address": "1500 BONIN RD",
     "city": "YOUNGSVILLE",
     "time": "07/24/2019 - 08:44 AM",
