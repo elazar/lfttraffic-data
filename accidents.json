@@ -1,11 +1,11 @@
 [
   {
-    "address": "116 CLINTON ST (W)",
+    "address": "317 ST JOSEPH ST",
     "city": "LAFAYETTE",
     "time": "07/24/2019 - 08:35 AM",
     "due_to": "Incoming Call",
-    "latitude": 30.22417,
-    "longitude": -92.01581
+    "latitude": 30.21896,
+    "longitude": -92.02994
   },
   {
     "address": "1200 E BROUSSARD RD",
@@ -22,13 +22,5 @@
     "due_to": "Residential Fire",
     "latitude": 30.21348,
     "longitude": -92.06195
-  },
-  {
-    "address": "VEROT SCHOOL RD & FORTUNE RD",
-    "city": "LAFAYETTE",
-    "time": "07/24/2019 - 07:20 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.12372,
-    "longitude": -92.03243
   }
 ]
