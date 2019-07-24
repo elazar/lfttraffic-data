@@ -1,5 +1,13 @@
 [
   {
+    "address": "E THIRD ST & NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "07/24/2019 - 3:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2295,
+    "longitude": -92.01298
+  },
+  {
     "address": "1132 FORTUNE RD",
     "city": "YOUNGSVILLE",
     "time": "07/24/2019 - 2:56 PM",
