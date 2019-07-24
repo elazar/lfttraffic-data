@@ -1,5 +1,13 @@
 [
   {
+    "address": "N ST ANTOINE ST & W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "07/23/2019 - 9:00 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.24558,
+    "longitude": -92.02342
+  },
+  {
     "address": "KALISTE SALOOM RD & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/23/2019 - 8:53 PM",
