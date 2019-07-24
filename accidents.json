@@ -1,19 +1,11 @@
 [
   {
-    "address": "NW EVANGELINE TW & HOBSON ST",
+    "address": "700 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/24/2019 - 10:42 AM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.23394,
-    "longitude": -92.01394
-  },
-  {
-    "address": "2340 KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "07/24/2019 - 10:30 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.15991,
-    "longitude": -92.04646
+    "latitude": 30.234316,
+    "longitude": -92.0124011
   },
   {
     "address": "NE EVANGELINE TW & MUDD AV",
