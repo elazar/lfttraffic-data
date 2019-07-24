@@ -16,14 +16,6 @@
     "longitude": -92.08608
   },
   {
-    "address": "3800 LOUISIANA AV",
-    "city": "LAFAYETTE",
-    "time": "07/24/2019 - 5:20 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2785133,
-    "longitude": -91.9920946
-  },
-  {
     "address": "100 GUIDRY RD",
     "city": "LAFAYETTE",
     "time": "07/24/2019 - 5:11 PM",
@@ -38,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.26255,
     "longitude": -92.00867
-  },
-  {
-    "address": "6801 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "07/24/2019 - 4:42 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15001,
-    "longitude": -92.0935
   }
 ]
