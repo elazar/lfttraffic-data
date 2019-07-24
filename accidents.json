@@ -1,5 +1,13 @@
 [
   {
+    "address": "SILVERSTONE RD & CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "07/24/2019 - 1:40 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17311,
+    "longitude": -92.04017
+  },
+  {
     "address": "126 LEXINGTON DR",
     "city": "DUSON",
     "time": "07/24/2019 - 1:19 PM",
