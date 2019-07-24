@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 JEANETTE ST",
+    "city": "LAFAYETTE",
+    "time": "07/24/2019 - 10:26 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.2273573,
+    "longitude": -92.0545159
+  },
+  {
     "address": "NE EVANGELINE TW & MUDD AV",
     "city": "LAFAYETTE",
     "time": "07/24/2019 - 09:26 AM",
