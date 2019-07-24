@@ -1,5 +1,13 @@
 [
   {
+    "address": "116 CLINTON ST (W)",
+    "city": "LAFAYETTE",
+    "time": "07/24/2019 - 08:35 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.22417,
+    "longitude": -92.01581
+  },
+  {
     "address": "1200 E BROUSSARD RD",
     "city": "LAFAYETTE",
     "time": "07/24/2019 - 07:55 AM",
