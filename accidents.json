@@ -16,14 +16,6 @@
     "longitude": -92.08608
   },
   {
-    "address": "7659 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "07/24/2019 - 5:27 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.12658,
-    "longitude": -92.11379
-  },
-  {
     "address": "3800 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "07/24/2019 - 5:20 PM",
@@ -46,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.26255,
     "longitude": -92.00867
-  },
-  {
-    "address": "KALISTE SALOOM RD & W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "07/24/2019 - 4:43 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1886,
-    "longitude": -92.0141
   },
   {
     "address": "6801 JOHNSTON ST",
