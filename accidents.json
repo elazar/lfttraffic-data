@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.23296,
     "longitude": -92.01278
-  },
-  {
-    "address": "100 BRIDGEWAY DR",
-    "city": "LAFAYETTE",
-    "time": "07/24/2019 - 07:26 AM",
-    "due_to": "Residential Fire",
-    "latitude": 30.21348,
-    "longitude": -92.06195
   }
 ]
