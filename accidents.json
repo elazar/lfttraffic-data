@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & S RICHFIELD RD",
+    "city": "DUSON",
+    "time": "07/24/2019 - 2:35 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23496,
+    "longitude": -92.17607
+  },
+  {
     "address": "101 KELLY DR",
     "city": "LAFAYETTE",
     "time": "07/24/2019 - 2:31 PM",
@@ -16,12 +24,12 @@
     "longitude": -92.05553
   },
   {
-    "address": "MALL OF ACADIANA DR & AMBASSADOR CAFFERY PW",
+    "address": "3800 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/24/2019 - 2:00 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.21504,
-    "longitude": -92.07579
+    "latitude": 30.17073,
+    "longitude": -92.06616
   },
   {
     "address": "N UNIVERSITY AV & W PONT DES MOUTON RD",
