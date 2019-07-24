@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "07/24/2019 - 12:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21729,
+    "longitude": -92.01902
+  },
+  {
     "address": "6100 CAMERON ST",
     "city": "SCOTT",
     "time": "07/24/2019 - 12:10 PM",
