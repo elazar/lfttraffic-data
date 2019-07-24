@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & N SOUTHPARK RD",
+    "city": "LAFAYETTE",
+    "time": "07/24/2019 - 11:03 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17164,
+    "longitude": -91.97994
+  },
+  {
     "address": "NE EVANGELINE TW & E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "07/24/2019 - 10:44 AM",
