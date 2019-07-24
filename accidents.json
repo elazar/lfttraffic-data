@@ -1,5 +1,13 @@
 [
   {
+    "address": "LOUISIANA AV & ACORN DR",
+    "city": "LAFAYETTE",
+    "time": "07/24/2019 - 5:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.28253,
+    "longitude": -91.99059
+  },
+  {
     "address": "5825 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/24/2019 - 5:11 PM",
