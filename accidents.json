@@ -1,5 +1,13 @@
 [
   {
+    "address": "126 LEXINGTON DR",
+    "city": "DUSON",
+    "time": "07/24/2019 - 1:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25184,
+    "longitude": -92.19508
+  },
+  {
     "address": "E VEROT SCHOOL RD & SW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/24/2019 - 1:16 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.157273,
     "longitude": -92.0872677
-  },
-  {
-    "address": "JOHNSTON ST & W UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "07/24/2019 - 12:11 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21729,
-    "longitude": -92.01902
   },
   {
     "address": "JOHNSTON ST & HOLDEN AV",
