@@ -1,5 +1,13 @@
 [
   {
+    "address": "97 I10 EASTBOUND MM97 HW",
+    "city": "LAFAYETTE",
+    "time": "07/24/2019 - 1:44 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "address": "SILVERSTONE RD & CAMELLIA BL",
     "city": "LAFAYETTE",
     "time": "07/24/2019 - 1:40 PM",
@@ -22,13 +30,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.18268,
     "longitude": -91.99006
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "07/24/2019 - 12:49 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15649,
-    "longitude": -92.04838
   }
 ]
