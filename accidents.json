@@ -1,9 +1,17 @@
 [
   {
+    "address": "1402 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/24/2019 - 8:38 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21533,
+    "longitude": -92.02122
+  },
+  {
     "address": "600 NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/24/2019 - 8:30 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.23332,
     "longitude": -92.0137
   },
