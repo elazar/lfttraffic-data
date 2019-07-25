@@ -1,5 +1,13 @@
 [
   {
+    "address": "W SIMCOE ST & ST JOHN ST",
+    "city": "LAFAYETTE",
+    "time": "07/25/2019 - 08:53 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23055,
+    "longitude": -92.02287
+  },
+  {
     "address": "300 INDUSTRIAL PW",
     "city": "LAFAYETTE",
     "time": "07/25/2019 - 08:48 AM",
