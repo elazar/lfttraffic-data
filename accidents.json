@@ -1,5 +1,13 @@
 [
   {
+    "address": "BEAU PRE RD & SW FRONTAGE RD",
+    "city": "LAFAYETTE",
+    "time": "07/25/2019 - 3:14 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.17961,
+    "longitude": -91.98779
+  },
+  {
     "address": "2602 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/25/2019 - 3:02 PM",
@@ -46,13 +54,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.27596,
     "longitude": -92.04241
-  },
-  {
-    "address": "NW EVANGELINE TW & TISSINGTON ST",
-    "city": "LAFAYETTE",
-    "time": "07/25/2019 - 1:51 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23731,
-    "longitude": -92.01338
   }
 ]
