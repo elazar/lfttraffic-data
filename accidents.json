@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1684455,
     "longitude": -92.0379796
-  },
-  {
-    "address": "1900 W WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "07/25/2019 - 4:39 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2437649,
-    "longitude": -92.057765
   }
 ]
