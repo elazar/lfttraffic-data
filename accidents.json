@@ -16,14 +16,6 @@
     "longitude": -92.0379796
   },
   {
-    "address": "100 TEE MA RD",
-    "city": "CARENCRO",
-    "time": "07/25/2019 - 5:21 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.32149,
-    "longitude": -92.04158
-  },
-  {
     "address": "2051 W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "07/25/2019 - 4:41 PM",
@@ -38,13 +30,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.2437649,
     "longitude": -92.057765
-  },
-  {
-    "address": "5743 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "07/25/2019 - 4:38 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17281,
-    "longitude": -92.07852
   }
 ]
