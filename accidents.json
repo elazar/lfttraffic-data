@@ -40,27 +40,11 @@
     "longitude": -92.07603
   },
   {
-    "address": "PINNACLE DR & CHEMIN METAIRIE",
-    "city": "LAFAYETTE",
-    "time": "07/25/2019 - 2:59 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.12067,
-    "longitude": -92.01573
-  },
-  {
     "address": "5725 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/25/2019 - 2:46 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.17353,
     "longitude": -92.07732
-  },
-  {
-    "address": "6885 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "07/25/2019 - 2:21 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.14461,
-    "longitude": -92.09679
   }
 ]
