@@ -1,5 +1,13 @@
 [
   {
+    "address": "BERTRAND DR & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "07/25/2019 - 1:03 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.21493,
+    "longitude": -92.04696
+  },
+  {
     "address": "S AUDUBON BL & W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "07/25/2019 - 12:58 PM",
@@ -22,5 +30,13 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2351868,
     "longitude": -92.0322751
+  },
+  {
+    "address": "925 VETERANS DR",
+    "city": "CARENCRO",
+    "time": "07/25/2019 - 12:31 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.32249,
+    "longitude": -92.03625
   }
 ]
