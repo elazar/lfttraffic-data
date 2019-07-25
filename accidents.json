@@ -1,5 +1,13 @@
 [
   {
+    "address": "5725 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/25/2019 - 2:46 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17353,
+    "longitude": -92.07732
+  },
+  {
     "address": "US 90 EAST HW & PRECISION DR",
     "city": "BROUSSARD",
     "time": "07/25/2019 - 2:29 PM",
