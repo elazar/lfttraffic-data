@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & PRECISION DR",
+    "city": "BROUSSARD",
+    "time": "07/25/2019 - 2:29 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.15643,
+    "longitude": -91.96618
+  },
+  {
     "address": "6885 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/25/2019 - 2:21 PM",
@@ -38,13 +46,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23731,
     "longitude": -92.01338
-  },
-  {
-    "address": "104 I10 EASTBOUND MM104 HW",
-    "city": "LAFAYETTE",
-    "time": "07/25/2019 - 1:22 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.26255,
-    "longitude": -92.00867
   }
 ]
