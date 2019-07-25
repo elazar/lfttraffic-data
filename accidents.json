@@ -1,5 +1,13 @@
 [
   {
+    "address": "500 PECAN GROVE RD",
+    "city": "LAFAYETTE",
+    "time": "07/24/2019 - 8:16 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23975,
+    "longitude": -92.07176
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & VERMILION RIVER",
     "city": "LAFAYETTE",
     "time": "07/24/2019 - 8:02 PM",
