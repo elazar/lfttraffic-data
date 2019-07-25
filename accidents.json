@@ -38,21 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23975,
     "longitude": -92.07176
-  },
-  {
-    "address": "5622 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "07/24/2019 - 7:50 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17764,
-    "longitude": -92.07526
-  },
-  {
-    "address": "LAFAYETTE ST & COPPER MEADOWS BL",
-    "city": "YOUNGSVILLE",
-    "time": "07/24/2019 - 7:50 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.10543,
-    "longitude": -91.99057
   }
 ]
