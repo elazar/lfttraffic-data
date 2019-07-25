@@ -1,5 +1,13 @@
 [
   {
+    "address": "700 JEFFERSON ST",
+    "city": "LAFAYETTE",
+    "time": "07/25/2019 - 08:39 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.2227,
+    "longitude": -92.01936
+  },
+  {
     "address": "E GLORIA SWITCH RD & NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/25/2019 - 08:36 AM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19911,
     "longitude": -92.01641
-  },
-  {
-    "address": "I10 WESTBOUND MM105 HW & LOUISIANA AV",
-    "city": "LAFAYETTE",
-    "time": "07/25/2019 - 07:36 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.27944,
-    "longitude": -91.99217
   },
   {
     "address": "3316 AMBASSADOR CAFFERY PW",
