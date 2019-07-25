@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 PARADISE ST",
+    "city": "LAFAYETTE",
+    "time": "07/25/2019 - 08:16 AM",
+    "due_to": "Residential Fire",
+    "latitude": 30.24453,
+    "longitude": -92.02652
+  },
+  {
     "address": "I10 WESTBOUND MM105 HW & LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "07/25/2019 - 07:36 AM",
