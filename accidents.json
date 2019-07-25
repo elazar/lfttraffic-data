@@ -1,5 +1,13 @@
 [
   {
+    "address": "MILLS ST & W WILLOW ST",
+    "city": "SCOTT",
+    "time": "07/25/2019 - 07:45 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24194,
+    "longitude": -92.09134
+  },
+  {
     "address": "I10 WESTBOUND MM105 HW & LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "07/25/2019 - 07:36 AM",
