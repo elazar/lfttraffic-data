@@ -1,5 +1,13 @@
 [
   {
+    "address": "131 REX ST",
+    "city": "LAFAYETTE",
+    "time": "07/24/2019 - 9:51 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.21153,
+    "longitude": -92.0211
+  },
+  {
     "address": "ROBLEY DR & BROADMOOR BL",
     "city": "LAFAYETTE",
     "time": "07/24/2019 - 8:54 PM",
