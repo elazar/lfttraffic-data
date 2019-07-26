@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & YOUNG ST",
+    "city": "BROUSSARD",
+    "time": "07/26/2019 - 6:09 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.10187,
+    "longitude": -91.94194
+  },
+  {
     "address": "1 I49 SOUTHBOUND MM1 HW",
     "city": "LAFAYETTE",
     "time": "07/26/2019 - 5:54 PM",
@@ -46,14 +54,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.13792,
     "longitude": -91.94248
-  },
-  {
-    "address": "E UNIVERSITY AV & MCKINLEY ST",
-    "city": "LAFAYETTE",
-    "time": "07/26/2019 - 5:10 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21425,
-    "longitude": -92.01489
   },
   {
     "address": "JOHNSTON ST & AMBASSADOR CAFFERY PW",
