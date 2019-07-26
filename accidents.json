@@ -1,5 +1,21 @@
 [
   {
+    "address": "LA 93 HW & COCODRIL RD",
+    "city": "LAFAYETTE",
+    "time": "07/25/2019 - 9:59 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.28336,
+    "longitude": -92.11255
+  },
+  {
+    "address": "1042 CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "07/25/2019 - 9:59 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17497,
+    "longitude": -92.04337
+  },
+  {
     "address": "MOSS ST & E PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "07/25/2019 - 9:51 PM",
