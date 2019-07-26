@@ -1,5 +1,13 @@
 [
   {
+    "address": "3201 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/26/2019 - 10:47 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20307,
+    "longitude": -92.04891
+  },
+  {
     "address": "3633 MILLS ST",
     "city": "LAFAYETTE",
     "time": "07/26/2019 - 10:46 AM",
