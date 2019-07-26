@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & VITAL ST",
+    "city": "LAFAYETTE",
+    "time": "07/26/2019 - 4:59 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.20341,
+    "longitude": -92.04888
+  },
+  {
     "address": "107 HECTOR CONNOLY RD",
     "city": "CARENCRO",
     "time": "07/26/2019 - 4:56 PM",
