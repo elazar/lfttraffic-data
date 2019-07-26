@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "DECON RD & CHEMIN AGREABLE",
+    "city": "LAFAYETTE",
+    "time": "07/25/2019 - 9:39 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.06564,
+    "longitude": -92.02385
+  }
+]
