@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 RUE DU BELIER",
+    "city": "SCOTT",
+    "time": "07/26/2019 - 3:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2104054,
+    "longitude": -92.0923149
+  },
+  {
     "address": "E UNIVERSITY AV & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/26/2019 - 3:07 PM",
