@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & E BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "07/26/2019 - 5:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15059,
+    "longitude": -92.09379
+  },
+  {
     "address": "JOHNSTON ST & TREEHAVEN BL",
     "city": "LAFAYETTE",
     "time": "07/26/2019 - 5:44 PM",
