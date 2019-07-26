@@ -1,5 +1,13 @@
 [
   {
+    "address": "2001 E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "07/26/2019 - 10:28 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2273,
+    "longitude": -91.9954
+  },
+  {
     "address": "3222 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/26/2019 - 10:22 AM",
