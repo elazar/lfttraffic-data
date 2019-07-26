@@ -1,5 +1,21 @@
 [
   {
+    "address": "N COLLEGE RD & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/26/2019 - 3:00 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.20727,
+    "longitude": -92.03836
+  },
+  {
+    "address": "N COLLEGE RD & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/26/2019 - 3:00 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.20727,
+    "longitude": -92.03836
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & ERASTE LANDRY RD",
     "city": "LAFAYETTE",
     "time": "07/26/2019 - 2:57 PM",
@@ -22,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17422,
     "longitude": -92.06987
-  },
-  {
-    "address": "200 RUE LOUIS XIV",
-    "city": "LAFAYETTE",
-    "time": "07/26/2019 - 1:42 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17015,
-    "longitude": -92.02701
   },
   {
     "address": "E PINHOOK RD & SW EVANGELINE TW",
