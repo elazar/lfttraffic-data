@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 ASHVILLE LN",
+    "city": "LAFAYETTE",
+    "time": "07/26/2019 - 04:25 AM",
+    "due_to": "Residential Fire",
+    "latitude": 30.21608,
+    "longitude": -92.06212
+  },
+  {
     "address": "1701 MILLS ST",
     "city": "LAFAYETTE",
     "time": "07/26/2019 - 04:15 AM",
