@@ -1,5 +1,13 @@
 [
   {
+    "address": "210 S ST JOHN ST",
+    "city": "CARENCRO",
+    "time": "07/26/2019 - 10:15 AM",
+    "due_to": "Trash Fire",
+    "latitude": 30.3156,
+    "longitude": -92.04847
+  },
+  {
     "address": "301 DOUCET RD",
     "city": "LAFAYETTE",
     "time": "07/26/2019 - 10:07 AM",
