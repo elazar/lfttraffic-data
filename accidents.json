@@ -1,5 +1,13 @@
 [
   {
+    "address": "1111 MUDD AV",
+    "city": "LAFAYETTE",
+    "time": "07/25/2019 - 10:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2320523,
+    "longitude": -92.0042088
+  },
+  {
     "address": "LA 93 HW & COCODRIL RD",
     "city": "LAFAYETTE",
     "time": "07/25/2019 - 9:59 PM",
