@@ -1,11 +1,11 @@
 [
   {
-    "address": "JOHNSTON ST & DOUCET RD",
+    "address": "E UNIVERSITY AV & MCKINLEY ST",
     "city": "LAFAYETTE",
-    "time": "07/26/2019 - 5:07 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.20341,
-    "longitude": -92.04888
+    "time": "07/26/2019 - 5:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21425,
+    "longitude": -92.01489
   },
   {
     "address": "JOHNSTON ST & VITAL ST",
