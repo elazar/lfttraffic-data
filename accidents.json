@@ -1,11 +1,11 @@
 [
   {
-    "address": "210 S ST JOHN ST",
+    "address": "204 S CHURCH ST",
     "city": "CARENCRO",
     "time": "07/26/2019 - 10:15 AM",
     "due_to": "Trash Fire",
-    "latitude": 30.3156,
-    "longitude": -92.04847
+    "latitude": 30.31573,
+    "longitude": -92.04689
   },
   {
     "address": "301 DOUCET RD",
@@ -40,12 +40,12 @@
     "longitude": -92.0009227
   },
   {
-    "address": "3219 NW EVANGELINE TW",
+    "address": "3200 NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/26/2019 - 09:28 AM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.29248,
-    "longitude": -92.02502
+    "latitude": 30.2918733,
+    "longitude": -92.0245626
   },
   {
     "address": "NE EVANGELINE TW & SAMPSON AV",
