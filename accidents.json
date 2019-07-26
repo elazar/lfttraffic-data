@@ -1,5 +1,13 @@
 [
   {
+    "address": "TERRY DR & GROSSIE DR",
+    "city": "LAFAYETTE",
+    "time": "07/25/2019 - 10:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24113,
+    "longitude": -91.98085
+  },
+  {
     "address": "LA 93 HW & COCODRIL RD",
     "city": "LAFAYETTE",
     "time": "07/25/2019 - 9:59 PM",
