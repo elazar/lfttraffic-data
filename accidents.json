@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 RUE LOUIS XIV",
+    "city": "LAFAYETTE",
+    "time": "07/26/2019 - 1:42 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17015,
+    "longitude": -92.02701
+  },
+  {
     "address": "W CONGRESS ST & CAJUNDOME BL",
     "city": "LAFAYETTE",
     "time": "07/26/2019 - 1:39 PM",
