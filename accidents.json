@@ -1,5 +1,13 @@
 [
   {
+    "address": "1600 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "07/26/2019 - 09:00 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24998,
+    "longitude": -92.03515
+  },
+  {
     "address": "2700 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/26/2019 - 08:59 AM",
