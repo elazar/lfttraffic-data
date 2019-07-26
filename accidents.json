@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 ADALINE ST",
+    "city": "LAFAYETTE",
+    "time": "07/26/2019 - 05:39 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.3340256,
+    "longitude": -91.981959
+  },
+  {
     "address": "107 ASHVILLE LN",
     "city": "LAFAYETTE",
     "time": "07/26/2019 - 04:25 AM",
