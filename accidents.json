@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 ST NAZAIRE RD",
+    "city": "BROUSSARD",
+    "time": "07/26/2019 - 5:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13792,
+    "longitude": -91.94248
+  },
+  {
     "address": "E UNIVERSITY AV & MCKINLEY ST",
     "city": "LAFAYETTE",
     "time": "07/26/2019 - 5:10 PM",
