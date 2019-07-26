@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & VITAL ST",
+    "city": "LAFAYETTE",
+    "time": "07/26/2019 - 6:00 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.20341,
+    "longitude": -92.04888
+  },
+  {
     "address": "1 I49 SOUTHBOUND MM1 HW",
     "city": "LAFAYETTE",
     "time": "07/26/2019 - 5:54 PM",
