@@ -1,5 +1,13 @@
 [
   {
+    "address": "FORTUNE RD & VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "07/26/2019 - 6:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.12372,
+    "longitude": -92.03243
+  },
+  {
     "address": "1610 ST MARY ST",
     "city": "SCOTT",
     "time": "07/26/2019 - 6:14 PM",
