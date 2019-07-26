@@ -1,5 +1,13 @@
 [
   {
+    "address": "620 RUE DES ETOILES",
+    "city": "LAFAYETTE",
+    "time": "07/26/2019 - 3:29 PM",
+    "due_to": "Vehicle Fire",
+    "latitude": 30.33304,
+    "longitude": -92.02353
+  },
+  {
     "address": "1000 W GLORIA SWITCH RD",
     "city": "CARENCRO",
     "time": "07/26/2019 - 3:21 PM",
