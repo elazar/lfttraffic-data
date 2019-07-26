@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "MILLS ST & FOUR SISTERS LN",
+    "city": "SCOTT",
+    "time": "07/26/2019 - 04:15 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26008,
+    "longitude": -92.09111
+  }
+]
