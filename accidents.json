@@ -1,5 +1,13 @@
 [
   {
+    "address": "626 IBERIA ST",
+    "city": "YOUNGSVILLE",
+    "time": "07/26/2019 - 10:22 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.10295,
+    "longitude": -92.0031
+  },
+  {
     "address": "204 S CHURCH ST",
     "city": "CARENCRO",
     "time": "07/26/2019 - 10:15 AM",
