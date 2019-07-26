@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & N MORGAN AV",
+    "city": "BROUSSARD",
+    "time": "07/26/2019 - 12:00 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.15291,
+    "longitude": -91.95943
+  },
+  {
     "address": "200 RUE DU BELIER",
     "city": "SCOTT",
     "time": "07/26/2019 - 11:50 AM",
