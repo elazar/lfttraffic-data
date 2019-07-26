@@ -1,5 +1,21 @@
 [
   {
+    "address": "501 E PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "07/26/2019 - 1:34 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2169483,
+    "longitude": -92.0056485
+  },
+  {
+    "address": "E PINHOOK RD & SW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "07/26/2019 - 1:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21749,
+    "longitude": -92.00495
+  },
+  {
     "address": "201 SETTLERS TRACE BL",
     "city": "LAFAYETTE",
     "time": "07/26/2019 - 11:09 AM",
