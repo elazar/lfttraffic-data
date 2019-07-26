@@ -16,14 +16,6 @@
     "longitude": -92.0031
   },
   {
-    "address": "204 S CHURCH ST",
-    "city": "CARENCRO",
-    "time": "07/26/2019 - 10:15 AM",
-    "due_to": "Trash Fire",
-    "latitude": 30.31573,
-    "longitude": -92.04689
-  },
-  {
     "address": "301 DOUCET RD",
     "city": "LAFAYETTE",
     "time": "07/26/2019 - 10:07 AM",
@@ -62,14 +54,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.2918733,
     "longitude": -92.0245626
-  },
-  {
-    "address": "NE EVANGELINE TW & SAMPSON AV",
-    "city": "LAFAYETTE",
-    "time": "07/26/2019 - 08:58 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23458,
-    "longitude": -92.01252
   },
   {
     "address": "1900 W PINHOOK RD",
