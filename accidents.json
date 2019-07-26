@@ -1,5 +1,13 @@
 [
   {
+    "address": "SURREY ST & VERMILION RIVER",
+    "city": "LAFAYETTE",
+    "time": "07/26/2019 - 04:27 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.21934,
+    "longitude": -91.99282
+  },
+  {
     "address": "100 ASHVILLE LN",
     "city": "LAFAYETTE",
     "time": "07/26/2019 - 04:25 AM",
@@ -8,11 +16,11 @@
     "longitude": -92.06212
   },
   {
-    "address": "1701 MILLS ST",
+    "address": "1717 MILLS ST",
     "city": "LAFAYETTE",
     "time": "07/26/2019 - 04:15 AM",
     "due_to": "Stalled Vehicle",
-    "latitude": 30.26395,
-    "longitude": -92.09179
+    "latitude": 30.26377,
+    "longitude": -92.09363
   }
 ]
