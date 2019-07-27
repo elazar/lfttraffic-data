@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "413 ST LOUIS ST",
+    "city": "LAFAYETTE",
+    "time": "07/27/2019 - 04:10 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.2194,
+    "longitude": -92.02919
+  }
+]
