@@ -1,5 +1,13 @@
 [
   {
+    "address": "127 MILLCREEK RD",
+    "city": "LAFAYETTE",
+    "time": "07/27/2019 - 6:02 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.13076,
+    "longitude": -92.03515
+  },
+  {
     "address": "900 VETERANS DR",
     "city": "CARENCRO",
     "time": "07/27/2019 - 5:58 PM",
@@ -30,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15466,
     "longitude": -92.05015
-  },
-  {
-    "address": "ALBERTSON PW & S MORGAN AV",
-    "city": "BROUSSARD",
-    "time": "07/27/2019 - 5:09 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1383,
-    "longitude": -91.96516
   }
 ]
