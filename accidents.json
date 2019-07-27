@@ -1,5 +1,13 @@
 [
   {
+    "address": "109 DORA ST",
+    "city": "LAFAYETTE",
+    "time": "07/27/2019 - 11:12 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2363,
+    "longitude": -92.03848
+  },
+  {
     "address": "DRIFTWOOD ST & JERRY ST",
     "city": "LAFAYETTE",
     "time": "07/27/2019 - 11:05 AM",
