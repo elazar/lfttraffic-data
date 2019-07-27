@@ -15,12 +15,5 @@
     "latitude": 30.21859,
     "longitude": -92.01779
   },
-  {
-    "address": "201 SETTLERS TRACE BL",
-    "city": "LAFAYETTE",
-    "time": "07/27/2019 - 07:26 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.16995,
-    "longitude": -92.03679
-  }
+  null
 ]
