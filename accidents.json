@@ -1,5 +1,13 @@
 [
   {
+    "address": "1701 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "07/27/2019 - 6:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25216,
+    "longitude": -92.03842
+  },
+  {
     "address": "3144 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/27/2019 - 6:15 PM",
@@ -38,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17808,
     "longitude": -92.07452
-  },
-  {
-    "address": "N UNIVERSITY AV & CAMERON ST",
-    "city": "LAFAYETTE",
-    "time": "07/27/2019 - 5:35 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.23236,
-    "longitude": -92.03238
   },
   {
     "address": "KALISTE SALOOM RD & W FARREL RD",
