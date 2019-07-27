@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "125 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "07/27/2019 - 11:02 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.1877117,
+    "longitude": -92.0148271
+  }
+]
