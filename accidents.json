@@ -1,5 +1,13 @@
 [
   {
+    "address": "223 DIAMOND DR",
+    "city": "LAFAYETTE",
+    "time": "07/27/2019 - 11:36 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.22994,
+    "longitude": -91.99109
+  },
+  {
     "address": "3310 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/27/2019 - 11:27 AM",
