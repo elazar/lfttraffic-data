@@ -15,5 +15,12 @@
     "latitude": 30.21859,
     "longitude": -92.01779
   },
-  null
+  {
+    "address": "124 RIVER RANCH BL",
+    "city": "LAFAYETTE",
+    "time": "07/27/2019 - 07:26 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17003,
+    "longitude": -92.0353352
+  }
 ]
