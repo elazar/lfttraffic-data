@@ -1,5 +1,13 @@
 [
   {
+    "address": "115 HERMITAGE AV",
+    "city": "LAFAYETTE",
+    "time": "07/27/2019 - 4:14 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.13836,
+    "longitude": -92.08805
+  },
+  {
     "address": "2901 E MILTON AV",
     "city": "YOUNGSVILLE",
     "time": "07/27/2019 - 3:34 PM",
