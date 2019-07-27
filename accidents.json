@@ -6,5 +6,13 @@
     "due_to": "Explosion",
     "latitude": 30.26438,
     "longitude": -92.06203
+  },
+  {
+    "address": "100 I10 EASTBOUND MM100 HW",
+    "city": "LAFAYETTE",
+    "time": "07/26/2019 - 7:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
   }
 ]
