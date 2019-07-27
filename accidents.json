@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "212 MARIE ANTOINETTE ST",
+    "city": "LAFAYETTE",
+    "time": "07/27/2019 - 10:50 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.20468,
+    "longitude": -92.05666
+  }
+]
