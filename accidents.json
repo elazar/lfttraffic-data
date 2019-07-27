@@ -1,5 +1,13 @@
 [
   {
+    "address": "E SECOND ST & N CHESTNUT ST",
+    "city": "LAFAYETTE",
+    "time": "07/27/2019 - 12:29 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22997,
+    "longitude": -92.01433
+  },
+  {
     "address": "3310 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/27/2019 - 11:27 AM",
