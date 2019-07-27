@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "201 SETTLERS TRACE BL",
+    "city": "LAFAYETTE",
+    "time": "07/27/2019 - 07:26 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16995,
+    "longitude": -92.03679
+  }
+]
