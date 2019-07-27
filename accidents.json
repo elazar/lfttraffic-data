@@ -1,5 +1,13 @@
 [
   {
+    "address": "102 STANFORD DR",
+    "city": "LAFAYETTE",
+    "time": "07/26/2019 - 7:44 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14904,
+    "longitude": -92.08108
+  },
+  {
     "address": "W UNIVERSITY AV & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "07/26/2019 - 7:36 PM",
