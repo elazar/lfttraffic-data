@@ -1,19 +1,19 @@
 [
   {
+    "address": "5803 CAMERON ST",
+    "city": "SCOTT",
+    "time": "07/27/2019 - 4:46 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.2334251,
+    "longitude": -92.0945463
+  },
+  {
     "address": "KEELING DR & N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "07/27/2019 - 4:16 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.24146,
     "longitude": -92.03243
-  },
-  {
-    "address": "115 HERMITAGE AV",
-    "city": "LAFAYETTE",
-    "time": "07/27/2019 - 4:14 PM",
-    "due_to": "Trash Fire",
-    "latitude": 30.13836,
-    "longitude": -92.08805
   },
   {
     "address": "1335 LA 93 HW",
