@@ -1,5 +1,13 @@
 [
   {
+    "address": "215 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "07/26/2019 - 8:29 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24462,
+    "longitude": -92.01603
+  },
+  {
     "address": "1400 S ORANGE ST",
     "city": "LAFAYETTE",
     "time": "07/26/2019 - 8:01 PM",
