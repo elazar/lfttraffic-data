@@ -1,5 +1,13 @@
 [
   {
+    "address": "1043 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/27/2019 - 08:03 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21859,
+    "longitude": -92.01779
+  },
+  {
     "address": "2901 S FIELDSPAN RD",
     "city": "LAFAYETTE",
     "time": "07/27/2019 - 07:31 AM",
