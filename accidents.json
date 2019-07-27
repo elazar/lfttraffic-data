@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 I10 EASTBOUND MM100 HW",
+    "city": "LAFAYETTE",
+    "time": "07/26/2019 - 7:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "102 STANFORD DR",
     "city": "LAFAYETTE",
     "time": "07/26/2019 - 7:44 PM",
