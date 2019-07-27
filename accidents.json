@@ -3,17 +3,9 @@
     "address": "502 MARTIN LUTHER KING JR DR",
     "city": "LAFAYETTE",
     "time": "07/27/2019 - 11:51 AM",
-    "due_to": "Incoming Call",
+    "due_to": "Fire Investigation",
     "latitude": 30.24965,
     "longitude": -92.0274
-  },
-  {
-    "address": "223 DIAMOND DR",
-    "city": "LAFAYETTE",
-    "time": "07/27/2019 - 11:36 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.22994,
-    "longitude": -91.99109
   },
   {
     "address": "3310 AMBASSADOR CAFFERY PW",
@@ -22,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18117,
     "longitude": -92.07512
-  },
-  {
-    "address": "109 DORA ST",
-    "city": "LAFAYETTE",
-    "time": "07/27/2019 - 11:12 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2363,
-    "longitude": -92.03848
   }
 ]
