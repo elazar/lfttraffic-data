@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "07/26/2019 - 10:16 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1885953,
+    "longitude": -92.0143082
+  },
+  {
     "address": "100 I10 EASTBOUND MM100 HW",
     "city": "LAFAYETTE",
     "time": "07/26/2019 - 7:58 PM",
