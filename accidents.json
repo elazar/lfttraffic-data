@@ -1,5 +1,13 @@
 [
   {
+    "address": "99 I10 WESTBOUND MM99 HW",
+    "city": "SCOTT",
+    "time": "07/28/2019 - 6:35 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.24727,
+    "longitude": -92.09751
+  },
+  {
     "address": "5743 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/28/2019 - 6:13 PM",
