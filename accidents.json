@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "400 BELLEVUE PLANTATION RD",
+    "city": "LAFAYETTE",
+    "time": "07/27/2019 - 7:19 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.15402,
+    "longitude": -92.08168
+  }
+]
