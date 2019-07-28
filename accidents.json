@@ -1,5 +1,13 @@
 [
   {
+    "address": "CARONDELET DR & PRISCILLA LN",
+    "city": "LAFAYETTE",
+    "time": "07/28/2019 - 1:51 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.24941,
+    "longitude": -92.01659
+  },
+  {
     "address": "1640 ST MARY ST",
     "city": "SCOTT",
     "time": "07/28/2019 - 1:41 PM",
@@ -8,12 +16,12 @@
     "longitude": -92.10426
   },
   {
-    "address": "100 W WILLOW ST",
+    "address": "1414 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/28/2019 - 1:16 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.2451239,
-    "longitude": -92.0146282
+    "latitude": 30.24284,
+    "longitude": -92.01134
   },
   {
     "address": "97 I10 EASTBOUND MM97-5 HW",
