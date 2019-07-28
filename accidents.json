@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "07/28/2019 - 1:16 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2451239,
+    "longitude": -92.0146282
+  },
+  {
     "address": "97 I10 EASTBOUND MM97-5 HW",
     "city": "SCOTT",
     "time": "07/28/2019 - 1:13 PM",
