@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & ST NAZAIRE RD",
+    "city": "BROUSSARD",
+    "time": "07/28/2019 - 12:30 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1406051,
+    "longitude": -91.9448999
+  },
+  {
     "address": "VANBUREN DR & MOSS ST",
     "city": "LAFAYETTE",
     "time": "07/27/2019 - 11:09 PM",
