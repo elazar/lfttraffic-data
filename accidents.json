@@ -1,5 +1,13 @@
 [
   {
+    "address": "97 I10 EASTBOUND MM97-5 HW",
+    "city": "SCOTT",
+    "time": "07/28/2019 - 1:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24727,
+    "longitude": -92.09751
+  },
+  {
     "address": "US 90 EAST HW & LA 182 HW",
     "city": "BROUSSARD",
     "time": "07/28/2019 - 12:54 PM",
