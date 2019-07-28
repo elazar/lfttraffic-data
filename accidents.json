@@ -1,5 +1,13 @@
 [
   {
+    "address": "E WILLOW ST & E PINE ST",
+    "city": "LAFAYETTE",
+    "time": "07/28/2019 - 5:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24545,
+    "longitude": -92.00194
+  },
+  {
     "address": "5607 CAMERON ST",
     "city": "SCOTT",
     "time": "07/28/2019 - 5:16 PM",
