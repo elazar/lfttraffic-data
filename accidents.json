@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & NOVA DR",
+    "city": "BROUSSARD",
+    "time": "07/28/2019 - 02:38 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15172,
+    "longitude": -91.95511
+  },
+  {
     "address": "103 I10 EB ENTRANCE LOOP HW",
     "city": "LAFAYETTE",
     "time": "07/28/2019 - 02:32 AM",
