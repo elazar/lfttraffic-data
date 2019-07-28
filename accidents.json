@@ -1,21 +1,5 @@
 [
   {
-    "address": "3000 KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "07/28/2019 - 2:54 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.1506,
-    "longitude": -92.05474
-  },
-  {
-    "address": "5900 AMBASSADOR CAFFERY PW",
-    "city": "YOUNGSVILLE",
-    "time": "07/28/2019 - 2:49 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.1351347,
-    "longitude": -92.0074133
-  },
-  {
     "address": "201 S WASHINGTON ST",
     "city": "LAFAYETTE",
     "time": "07/28/2019 - 2:24 PM",
