@@ -2,6 +2,14 @@
   {
     "address": "US 90 EAST HW & N MORGAN AV",
     "city": "BROUSSARD",
+    "time": "07/28/2019 - 6:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15291,
+    "longitude": -91.95943
+  },
+  {
+    "address": "US 90 EAST HW & N MORGAN AV",
+    "city": "BROUSSARD",
     "time": "07/28/2019 - 5:59 PM",
     "due_to": "Road Hazard",
     "latitude": 30.15291,
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16075,
     "longitude": -92.08883
-  },
-  {
-    "address": "E WILLOW ST & E PINE ST",
-    "city": "LAFAYETTE",
-    "time": "07/28/2019 - 5:30 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24545,
-    "longitude": -92.00194
   },
   {
     "address": "5607 CAMERON ST",
