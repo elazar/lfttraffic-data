@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "W WILLOW ST & NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "07/28/2019 - 3:41 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24481,
+    "longitude": -92.01456
+  }
+]
