@@ -1,5 +1,13 @@
 [
   {
+    "address": "327 MANCHESTER CL",
+    "city": "LAFAYETTE",
+    "time": "07/28/2019 - 5:46 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16075,
+    "longitude": -92.08883
+  },
+  {
     "address": "E WILLOW ST & E PINE ST",
     "city": "LAFAYETTE",
     "time": "07/28/2019 - 5:30 PM",
