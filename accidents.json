@@ -1,5 +1,13 @@
 [
   {
+    "address": "451 ARNAUDVILLE RD",
+    "city": "LAFAYETTE",
+    "time": "07/27/2019 - 11:34 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.36463,
+    "longitude": -91.99109
+  },
+  {
     "address": "109 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "07/27/2019 - 11:19 PM",
