@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & HOLLYWOOD DR",
+    "city": "LAFAYETTE",
+    "time": "07/28/2019 - 6:55 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24945,
+    "longitude": -92.03517
+  },
+  {
     "address": "925 VETERANS DR",
     "city": "CARENCRO",
     "time": "07/28/2019 - 6:45 PM",
