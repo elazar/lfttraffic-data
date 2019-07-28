@@ -1,5 +1,13 @@
 [
   {
+    "address": "302 W MAIN ST",
+    "city": "BROUSSARD",
+    "time": "07/28/2019 - 07:44 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.14924,
+    "longitude": -91.96592
+  },
+  {
     "address": "2001 NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/28/2019 - 07:16 AM",
