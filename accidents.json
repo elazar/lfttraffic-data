@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "US 90 EAST HW & LA 182 HW",
+    "city": "BROUSSARD",
+    "time": "07/28/2019 - 12:54 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14823,
+    "longitude": -91.96419
+  }
+]
