@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & N MORGAN AV",
+    "city": "BROUSSARD",
+    "time": "07/28/2019 - 5:59 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.15291,
+    "longitude": -91.95943
+  },
+  {
     "address": "327 MANCHESTER CL",
     "city": "LAFAYETTE",
     "time": "07/28/2019 - 5:46 PM",
