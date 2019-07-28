@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 W MAIN ST",
+    "city": "BROUSSARD",
+    "time": "07/28/2019 - 11:46 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.14879,
+    "longitude": -91.96501
+  },
+  {
     "address": "109 NANOKE LN",
     "city": "LAFAYETTE",
     "time": "07/28/2019 - 11:44 AM",
