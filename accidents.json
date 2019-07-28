@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 SUGARCREEK DR",
+    "city": "LAFAYETTE",
+    "time": "07/28/2019 - 02:41 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.1448,
+    "longitude": -92.00206
+  },
+  {
     "address": "US 90 EAST HW & NOVA DR",
     "city": "BROUSSARD",
     "time": "07/28/2019 - 02:38 AM",
