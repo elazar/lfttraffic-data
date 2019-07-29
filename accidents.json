@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "150 ANDRES RD",
+    "city": "LAFAYETTE",
+    "time": "07/29/2019 - 06:06 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2367439,
+    "longitude": -92.1249799
+  }
+]
