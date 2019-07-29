@@ -1,5 +1,13 @@
 [
   {
+    "address": "HECTOR CONNOLY RD & PHILOMINE RD",
+    "city": "LAFAYETTE",
+    "time": "07/29/2019 - 5:07 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.32232,
+    "longitude": -92.02453
+  },
+  {
     "address": "1600 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "07/29/2019 - 4:59 PM",
@@ -63,7 +71,14 @@
     "latitude": 30.25841,
     "longitude": -92.01004
   },
-  null,
+  {
+    "address": "100 RENA DR",
+    "city": "LAFAYETTE",
+    "time": "07/29/2019 - 4:35 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.194098,
+    "longitude": -92.0578696
+  },
   {
     "address": "2051 E PINHOOK RD",
     "city": "LAFAYETTE",
