@@ -1,5 +1,13 @@
 [
   {
+    "address": "GUILBEAU RD & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "07/29/2019 - 09:11 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.19826,
+    "longitude": -92.07007
+  },
+  {
     "address": "4010 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "07/29/2019 - 08:58 AM",
