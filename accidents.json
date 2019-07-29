@@ -1,5 +1,13 @@
 [
   {
+    "address": "MILLS ST & AVENUE A",
+    "city": "SCOTT",
+    "time": "07/29/2019 - 5:29 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.23706,
+    "longitude": -92.09135
+  },
+  {
     "address": "HECTOR CONNOLY RD & PHILOMINE RD",
     "city": "LAFAYETTE",
     "time": "07/29/2019 - 5:07 PM",
