@@ -1,5 +1,13 @@
 [
   {
+    "address": "2113 ROBLEY DR",
+    "city": "LAFAYETTE",
+    "time": "07/29/2019 - 07:32 AM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.14259,
+    "longitude": -92.07933
+  },
+  {
     "address": "230 BENMAN RD",
     "city": "LAFAYETTE",
     "time": "07/29/2019 - 07:22 AM",
