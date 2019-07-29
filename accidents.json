@@ -54,13 +54,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.25841,
     "longitude": -92.01004
-  },
-  {
-    "address": "100 RENA DR",
-    "city": "LAFAYETTE",
-    "time": "07/29/2019 - 4:35 PM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.194098,
-    "longitude": -92.0578696
   }
 ]
