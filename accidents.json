@@ -1,5 +1,21 @@
 [
   {
+    "address": "LOUISIANA AV & S STERLING ST",
+    "city": "LAFAYETTE",
+    "time": "07/29/2019 - 5:30 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2269,
+    "longitude": -92.00658
+  },
+  {
+    "address": "2501 SE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "07/29/2019 - 5:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19121,
+    "longitude": -91.99311
+  },
+  {
     "address": "MILLS ST & AVENUE A",
     "city": "SCOTT",
     "time": "07/29/2019 - 5:29 PM",
@@ -62,14 +78,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.1607,
     "longitude": -92.08509
-  },
-  {
-    "address": "SE EVANGELINE TW & JEFFERSON BL",
-    "city": "LAFAYETTE",
-    "time": "07/29/2019 - 4:45 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22903,
-    "longitude": -92.01168
   },
   {
     "address": "2901 MOSS ST",
