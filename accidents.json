@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 ST CHARLES ST",
+    "city": "LAFAYETTE",
+    "time": "07/29/2019 - 4:51 PM",
+    "due_to": "Hazardous Situation",
+    "latitude": 30.2286178,
+    "longitude": -92.007813
+  },
+  {
     "address": "JAMES COMEAUX RD & W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "07/29/2019 - 4:49 PM",
