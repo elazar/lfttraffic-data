@@ -1,5 +1,13 @@
 [
   {
+    "address": "MOSS ST & BUICK ST",
+    "city": "LAFAYETTE",
+    "time": "07/29/2019 - 3:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2544,
+    "longitude": -92.00529
+  },
+  {
     "address": "W SIMCOE ST & S PIERCE ST",
     "city": "LAFAYETTE",
     "time": "07/29/2019 - 3:02 PM",
