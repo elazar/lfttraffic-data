@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 DOUCET RD",
+    "city": "LAFAYETTE",
+    "time": "07/28/2019 - 8:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19975,
+    "longitude": -92.04462
+  },
+  {
     "address": "602 HIGHLAND VIEW DR",
     "city": "YOUNGSVILLE",
     "time": "07/28/2019 - 8:36 PM",
