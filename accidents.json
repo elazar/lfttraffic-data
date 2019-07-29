@@ -1,5 +1,13 @@
 [
   {
+    "address": "1 I49 SOUTHBOUND MM1 HW",
+    "city": "LAFAYETTE",
+    "time": "07/28/2019 - 8:10 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.28006,
+    "longitude": -92.02024
+  },
+  {
     "address": "1900 BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "07/28/2019 - 7:32 PM",
