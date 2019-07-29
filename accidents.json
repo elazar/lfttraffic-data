@@ -1,5 +1,13 @@
 [
   {
+    "address": "1250 CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "07/29/2019 - 12:45 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23188,
+    "longitude": -91.98938
+  },
+  {
     "address": "W WILLOW ST & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/29/2019 - 12:15 PM",
