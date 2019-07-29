@@ -30,13 +30,5 @@
     "due_to": "Hazardous Material",
     "latitude": 30.14259,
     "longitude": -92.07933
-  },
-  {
-    "address": "230 BENMAN RD",
-    "city": "LAFAYETTE",
-    "time": "07/29/2019 - 07:22 AM",
-    "due_to": "Residential Fire",
-    "latitude": 30.22911,
-    "longitude": -92.07926
   }
 ]
