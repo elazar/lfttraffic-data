@@ -1,5 +1,13 @@
 [
   {
+    "address": "W SIMCOE ST & S PIERCE ST",
+    "city": "LAFAYETTE",
+    "time": "07/29/2019 - 3:02 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23067,
+    "longitude": -92.01881
+  },
+  {
     "address": "BANKS AV & CAMERON ST",
     "city": "LAFAYETTE",
     "time": "07/29/2019 - 2:51 PM",
