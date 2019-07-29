@@ -1,5 +1,13 @@
 [
   {
+    "address": "S COLLEGE RD & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/29/2019 - 1:51 PM",
+    "due_to": "Hazard",
+    "latitude": 30.20727,
+    "longitude": -92.03836
+  },
+  {
     "address": "621 GUIDRY RD",
     "city": "LAFAYETTE",
     "time": "07/29/2019 - 1:30 PM",
