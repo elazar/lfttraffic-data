@@ -1,9 +1,33 @@
 [
   {
+    "address": "LA 93 HW & I10 HW",
+    "city": "SCOTT",
+    "time": "07/29/2019 - 4:48 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23922,
+    "longitude": -92.10743
+  },
+  {
+    "address": "BENTGRASS DR & EVERGLADES DR",
+    "city": "LAFAYETTE",
+    "time": "07/29/2019 - 4:48 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.12139,
+    "longitude": -92.05776
+  },
+  {
+    "address": "W CONGRESS ST & FOREMAN DR",
+    "city": "LAFAYETTE",
+    "time": "07/29/2019 - 4:47 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20729,
+    "longitude": -92.05656
+  },
+  {
     "address": "JOHNSTON ST & CRESTLAWN DR",
     "city": "LAFAYETTE",
     "time": "07/29/2019 - 4:45 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.1607,
     "longitude": -92.08509
   },
