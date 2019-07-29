@@ -1,5 +1,13 @@
 [
   {
+    "address": "1600 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "07/29/2019 - 4:59 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19462,
+    "longitude": -92.01667
+  },
+  {
     "address": "200 ST CHARLES ST",
     "city": "LAFAYETTE",
     "time": "07/29/2019 - 4:51 PM",
@@ -54,14 +62,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.25841,
     "longitude": -92.01004
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & CAMERON ST",
-    "city": "LAFAYETTE",
-    "time": "07/29/2019 - 4:39 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23252,
-    "longitude": -92.06264
   },
   {
     "address": "100 RENA DR",
