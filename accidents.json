@@ -56,28 +56,12 @@
     "longitude": -92.01667
   },
   {
-    "address": "JAMES COMEAUX RD & W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "07/29/2019 - 4:49 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18738,
-    "longitude": -92.01261
-  },
-  {
     "address": "BENTGRASS DR & EVERGLADES DR",
     "city": "LAFAYETTE",
     "time": "07/29/2019 - 4:48 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.12139,
     "longitude": -92.05776
-  },
-  {
-    "address": "W CONGRESS ST & FOREMAN DR",
-    "city": "LAFAYETTE",
-    "time": "07/29/2019 - 4:47 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20729,
-    "longitude": -92.05656
   },
   {
     "address": "JOHNSTON ST & CRESTLAWN DR",
