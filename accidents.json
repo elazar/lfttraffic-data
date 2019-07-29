@@ -1,5 +1,13 @@
 [
   {
+    "address": "217 MARTHA ST",
+    "city": "LAFAYETTE",
+    "time": "07/29/2019 - 2:04 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23291,
+    "longitude": -92.02839
+  },
+  {
     "address": "S COLLEGE RD & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/29/2019 - 1:51 PM",
