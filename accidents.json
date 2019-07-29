@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "address": "JOHNSTON ST & JEFFERSON ST",
+    "city": "LAFAYETTE",
+    "time": "07/28/2019 - 11:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2201,
+    "longitude": -92.0172
+  },
+  {
+    "address": "JEFFERSON ST & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/28/2019 - 11:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2201,
+    "longitude": -92.0172
+  }
+]
