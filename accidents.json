@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15712,
     "longitude": -92.05125
-  },
-  {
-    "address": "1250 CARMEL DR",
-    "city": "LAFAYETTE",
-    "time": "07/29/2019 - 12:45 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.23188,
-    "longitude": -91.98938
   }
 ]
