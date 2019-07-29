@@ -1,5 +1,21 @@
 [
   {
+    "address": "500 JEFFERSON ST",
+    "city": "LAFAYETTE",
+    "time": "07/29/2019 - 4:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22577,
+    "longitude": -92.01878
+  },
+  {
+    "address": "3810 NE EVANGELINE TW",
+    "city": "CARENCRO",
+    "time": "07/29/2019 - 4:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.31876,
+    "longitude": -92.03205
+  },
+  {
     "address": "W CONGRESS ST & FOREMAN DR",
     "city": "LAFAYETTE",
     "time": "07/29/2019 - 4:11 PM",
