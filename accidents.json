@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 FAUL RD",
+    "city": "LAFAYETTE",
+    "time": "07/29/2019 - 4:04 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2803083,
+    "longitude": -92.0503174
+  },
+  {
     "address": "E MILTON AV & BROOKDALE BL",
     "city": "YOUNGSVILLE",
     "time": "07/29/2019 - 3:27 PM",
