@@ -1,5 +1,13 @@
 [
   {
+    "address": "FEU FOLLET RD & VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "07/30/2019 - 5:06 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17533,
+    "longitude": -92.00692
+  },
+  {
     "address": "1500 BONIN RD",
     "city": "YOUNGSVILLE",
     "time": "07/30/2019 - 5:00 PM",
