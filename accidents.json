@@ -1,5 +1,13 @@
 [
   {
+    "address": "S COLLEGE RD & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/30/2019 - 08:35 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20727,
+    "longitude": -92.03836
+  },
+  {
     "address": "NW EVANGELINE TW & MUDD AV",
     "city": "LAFAYETTE",
     "time": "07/30/2019 - 08:20 AM",
