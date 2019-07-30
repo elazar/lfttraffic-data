@@ -1,5 +1,13 @@
 [
   {
+    "address": "3141 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/30/2019 - 09:03 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2036,
+    "longitude": -92.0475
+  },
+  {
     "address": "DELHOMME AV & LAFAYETTE ST",
     "city": "SCOTT",
     "time": "07/30/2019 - 08:47 AM",
