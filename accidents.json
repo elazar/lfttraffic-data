@@ -1,5 +1,13 @@
 [
   {
+    "address": "E FAIRFIELD DR & S MORGAN AV",
+    "city": "BROUSSARD",
+    "time": "07/30/2019 - 03:59 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.11646,
+    "longitude": -91.95656
+  },
+  {
     "address": "100 MEAUX BL",
     "city": "LAFAYETTE",
     "time": "07/30/2019 - 02:32 AM",
