@@ -1,11 +1,11 @@
 [
   {
-    "address": "0 POLICE DEPARTMENT",
+    "address": "2400 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "07/30/2019 - 6:00 PM",
     "due_to": "Stalled Vehicle",
-    "latitude": null,
-    "longitude": null
+    "latitude": 30.159934,
+    "longitude": -92.0451379
   },
   {
     "address": "FEU FOLLET RD & VEROT SCHOOL RD",
