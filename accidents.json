@@ -1,19 +1,19 @@
 [
   {
+    "address": "5725 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/30/2019 - 4:23 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17353,
+    "longitude": -92.07732
+  },
+  {
     "address": "300 S MORGAN AV",
     "city": "BROUSSARD",
     "time": "07/30/2019 - 4:19 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.14598,
     "longitude": -91.96511
-  },
-  {
-    "address": "CAJUNDOME BL & REINHARDT DR",
-    "city": "LAFAYETTE",
-    "time": "07/30/2019 - 4:13 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21601,
-    "longitude": -92.03922
   },
   {
     "address": "N UNIVERSITY AV & W GLORIA SWITCH RD",
