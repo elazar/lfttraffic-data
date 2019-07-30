@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "102 I10 WESTBOUND MM102 HW",
+    "city": "LAFAYETTE",
+    "time": "07/29/2019 - 9:25 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  }
+]
