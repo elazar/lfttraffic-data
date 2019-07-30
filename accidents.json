@@ -1,5 +1,13 @@
 [
   {
+    "address": "E VEROT SCHOOL RD & W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "07/30/2019 - 12:34 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.17673,
+    "longitude": -92.00239
+  },
+  {
     "address": "405 ALBERTSON PW",
     "city": "BROUSSARD",
     "time": "07/30/2019 - 12:31 PM",
