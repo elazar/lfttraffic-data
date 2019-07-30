@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & YOUNG ST",
+    "city": "BROUSSARD",
+    "time": "07/30/2019 - 07:31 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.10187,
+    "longitude": -91.94194
+  },
+  {
     "address": "314 ODILE ST",
     "city": "LAFAYETTE",
     "time": "07/30/2019 - 06:56 AM",
