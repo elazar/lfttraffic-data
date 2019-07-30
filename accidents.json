@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "CAMERON ST & WESTGATE RD",
+    "city": "SCOTT",
+    "time": "07/30/2019 - 06:41 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23274,
+    "longitude": -92.08691
+  }
+]
