@@ -1,18 +1,18 @@
 [
   {
+    "address": "KALISTE SALOOM RD & W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "07/30/2019 - 09:34 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1886,
+    "longitude": -92.0141
+  },
+  {
     "address": "3141 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/30/2019 - 09:03 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.2036,
     "longitude": -92.0475
-  },
-  {
-    "address": "2702 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "07/30/2019 - 08:35 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2070249,
-    "longitude": -92.0390303
   }
 ]
