@@ -1,5 +1,13 @@
 [
   {
+    "address": "N COLLEGE RD & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/30/2019 - 5:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20727,
+    "longitude": -92.03836
+  },
+  {
     "address": "3810 NE EVANGELINE TW",
     "city": "CARENCRO",
     "time": "07/30/2019 - 5:36 PM",
