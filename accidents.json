@@ -1,5 +1,13 @@
 [
   {
+    "address": "3810 NE EVANGELINE TW",
+    "city": "CARENCRO",
+    "time": "07/30/2019 - 5:36 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.31876,
+    "longitude": -92.03205
+  },
+  {
     "address": "FEU FOLLET RD & VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "07/30/2019 - 5:06 PM",
@@ -30,13 +38,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.24378,
     "longitude": -92.00638
-  },
-  {
-    "address": "92 I10 EASTBOUND MM92 HW",
-    "city": "Lafayette",
-    "time": "07/30/2019 - 3:04 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": null,
-    "longitude": null
   }
 ]
