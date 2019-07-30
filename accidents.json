@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & JENKINS RD",
+    "city": "SCOTT",
+    "time": "07/30/2019 - 07:50 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.23489,
+    "longitude": -92.11653
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & CURRAN LN",
     "city": "LAFAYETTE",
     "time": "07/30/2019 - 07:43 AM",
@@ -22,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.25354,
     "longitude": -92.00892
-  },
-  {
-    "address": "CAMERON ST & WESTGATE RD",
-    "city": "SCOTT",
-    "time": "07/30/2019 - 06:41 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23274,
-    "longitude": -92.08691
   }
 ]
