@@ -1,5 +1,13 @@
 [
   {
+    "address": "940 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "07/30/2019 - 3:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2307,
+    "longitude": -92.06306
+  },
+  {
     "address": "92 I10 EASTBOUND MM92 HW",
     "city": "Lafayette",
     "time": "07/30/2019 - 3:04 PM",
