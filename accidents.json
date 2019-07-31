@@ -1,11 +1,11 @@
 [
   {
-    "address": "107 E MILTON AVE (NE)",
+    "address": "205 LAKEN LN",
     "city": "LAFAYETTE",
     "time": "07/31/2019 - 4:51 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.10614,
-    "longitude": -92.0729
+    "due_to": "Fire Investigation",
+    "latitude": 30.11252,
+    "longitude": -92.05796
   },
   {
     "address": "JOHNSTON ST & ST JULIEN AV",
@@ -14,14 +14,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21151,
     "longitude": -92.02691
-  },
-  {
-    "address": "NW EVANGELINE TW & VETERANS DR",
-    "city": "CARENCRO",
-    "time": "07/31/2019 - 4:46 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.32204,
-    "longitude": -92.03574
   },
   {
     "address": "100 BOURQUE RD",
@@ -62,13 +54,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20581,
     "longitude": -92.04078
-  },
-  {
-    "address": "4313 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "07/31/2019 - 3:53 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15909,
-    "longitude": -92.05066
   }
 ]
