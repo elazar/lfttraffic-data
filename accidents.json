@@ -1,5 +1,21 @@
 [
   {
+    "address": "107 E MILTON AVE (NE)",
+    "city": "LAFAYETTE",
+    "time": "07/31/2019 - 4:51 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.10614,
+    "longitude": -92.0729
+  },
+  {
+    "address": "JOHNSTON ST & ST JULIEN AV",
+    "city": "LAFAYETTE",
+    "time": "07/31/2019 - 4:51 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21151,
+    "longitude": -92.02691
+  },
+  {
     "address": "NW EVANGELINE TW & VETERANS DR",
     "city": "CARENCRO",
     "time": "07/31/2019 - 4:46 PM",
