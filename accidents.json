@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & VETERANS DR",
+    "city": "CARENCRO",
+    "time": "07/31/2019 - 12:10 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.32335,
+    "longitude": -92.04954
+  },
+  {
     "address": "1617 SURREY ST",
     "city": "LAFAYETTE",
     "time": "07/31/2019 - 11:54 AM",
