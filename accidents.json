@@ -1,5 +1,13 @@
 [
   {
+    "address": "E UNIVERSITY AV & WILSON ST",
+    "city": "LAFAYETTE",
+    "time": "07/31/2019 - 5:53 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21234,
+    "longitude": -92.01233
+  },
+  {
     "address": "W WILLOW ST & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/31/2019 - 5:49 PM",
@@ -70,13 +78,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.13343,
     "longitude": -92.1101
-  },
-  {
-    "address": "99 I10 WESTBOUND MM99 HW",
-    "city": "SCOTT",
-    "time": "07/31/2019 - 4:40 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24727,
-    "longitude": -92.09751
   }
 ]
