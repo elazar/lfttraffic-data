@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 AUSTRIA RD",
+    "city": "DUSON",
+    "time": "07/31/2019 - 5:38 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24221,
+    "longitude": -92.19304
+  },
+  {
     "address": "GOLDMAN ST & DIVISION ST",
     "city": "LAFAYETTE",
     "time": "07/31/2019 - 5:36 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20156,
     "longitude": -92.02717
-  },
-  {
-    "address": "218 WEBB ST",
-    "city": "LAFAYETTE",
-    "time": "07/31/2019 - 5:20 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.23802,
-    "longitude": -91.99924
   },
   {
     "address": "NW EVANGELINE TW & W PONT DES MOUTON RD",
