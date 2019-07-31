@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 CANARY LN",
+    "city": "LAFAYETTE",
+    "time": "07/31/2019 - 3:12 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.1957586,
+    "longitude": -92.1130049
+  },
+  {
     "address": "200 BELLOT ST",
     "city": "LAFAYETTE",
     "time": "07/31/2019 - 3:02 PM",
