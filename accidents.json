@@ -1,5 +1,13 @@
 [
   {
+    "address": "218 WEBB ST",
+    "city": "LAFAYETTE",
+    "time": "07/31/2019 - 5:20 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.23802,
+    "longitude": -91.99924
+  },
+  {
     "address": "I10 WESTBOUND MM103B HW & NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/31/2019 - 5:20 PM",
@@ -70,14 +78,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24727,
     "longitude": -92.09751
-  },
-  {
-    "address": "IBERIA ST & SCHOOL ST",
-    "city": "YOUNGSVILLE",
-    "time": "07/31/2019 - 4:37 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.10199,
-    "longitude": -91.99483
   },
   {
     "address": "KALISTE SALOOM RD & LAKE FARM RD",
