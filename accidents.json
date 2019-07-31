@@ -1,5 +1,13 @@
 [
   {
+    "address": "HILLSIDE DR & LASSERRE DR",
+    "city": "LAFAYETTE",
+    "time": "07/31/2019 - 5:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20156,
+    "longitude": -92.02717
+  },
+  {
     "address": "218 WEBB ST",
     "city": "LAFAYETTE",
     "time": "07/31/2019 - 5:20 PM",
