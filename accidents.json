@@ -2,6 +2,14 @@
   {
     "address": "1600 W PINHOOK RD",
     "city": "LAFAYETTE",
+    "time": "07/31/2019 - 5:44 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.19462,
+    "longitude": -92.01667
+  },
+  {
+    "address": "1600 W PINHOOK RD",
+    "city": "LAFAYETTE",
     "time": "07/31/2019 - 5:39 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.19462,
