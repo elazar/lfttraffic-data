@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 BELLOT ST",
+    "city": "LAFAYETTE",
+    "time": "07/31/2019 - 3:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23641,
+    "longitude": -92.01482
+  },
+  {
     "address": "3144 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/31/2019 - 2:45 PM",
