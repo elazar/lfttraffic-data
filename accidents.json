@@ -1,19 +1,19 @@
 [
   {
+    "address": "3201 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "07/31/2019 - 12:12 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.26447,
+    "longitude": -91.9931
+  },
+  {
     "address": "126 LEXINGTON DR",
     "city": "DUSON",
     "time": "07/30/2019 - 11:58 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.25184,
     "longitude": -92.19508
-  },
-  {
-    "address": "107 E UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "07/30/2019 - 11:31 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21739,
-    "longitude": -92.01854
   },
   {
     "address": "807 GENERAL MOUTON AV",
