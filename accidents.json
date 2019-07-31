@@ -1,5 +1,13 @@
 [
   {
+    "address": "130 EDNA ST",
+    "city": "LAFAYETTE",
+    "time": "07/30/2019 - 7:59 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.23602,
+    "longitude": -91.99356
+  },
+  {
     "address": "125 N LOOP ST",
     "city": "LAFAYETTE",
     "time": "07/30/2019 - 7:50 PM",
