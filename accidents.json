@@ -1,5 +1,13 @@
 [
   {
+    "address": "1617 SURREY ST",
+    "city": "LAFAYETTE",
+    "time": "07/31/2019 - 11:54 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21467,
+    "longitude": -91.99173
+  },
+  {
     "address": "4432 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/31/2019 - 11:32 AM",
