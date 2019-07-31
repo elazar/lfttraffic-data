@@ -1,11 +1,11 @@
 [
   {
-    "address": "103 VIEUX CARRE SQ",
+    "address": "103 VIEUX ORLEANS CL",
     "city": "LAFAYETTE",
     "time": "07/31/2019 - 5:46 PM",
     "due_to": "Commercial Fire",
-    "latitude": 30.1694923,
-    "longitude": -92.0378584
+    "latitude": 30.16834,
+    "longitude": -92.00729
   },
   {
     "address": "1600 W PINHOOK RD",
@@ -38,14 +38,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.27349,
     "longitude": -92.02058
-  },
-  {
-    "address": "MILLS ST & ULINOR RD",
-    "city": "LAFAYETTE",
-    "time": "07/31/2019 - 5:05 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.25785,
-    "longitude": -92.09111
   },
   {
     "address": "100 REINHARDT DR",
