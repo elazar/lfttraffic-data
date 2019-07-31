@@ -1,18 +1,18 @@
 [
   {
+    "address": "N UNIVERSITY AV & CLARA ST",
+    "city": "LAFAYETTE",
+    "time": "07/31/2019 - 4:17 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.24902,
+    "longitude": -92.03495
+  },
+  {
     "address": "4313 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/31/2019 - 3:53 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.15909,
     "longitude": -92.05066
-  },
-  {
-    "address": "102 VANBUREN DR",
-    "city": "LAFAYETTE",
-    "time": "07/31/2019 - 2:23 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.26982,
-    "longitude": -92.00823
   }
 ]
