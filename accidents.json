@@ -1,5 +1,13 @@
 [
   {
+    "address": "102 VANBUREN DR",
+    "city": "LAFAYETTE",
+    "time": "07/31/2019 - 2:23 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26982,
+    "longitude": -92.00823
+  },
+  {
     "address": "4510 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/31/2019 - 1:58 PM",
