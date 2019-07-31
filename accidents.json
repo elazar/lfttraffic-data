@@ -1,5 +1,13 @@
 [
   {
+    "address": "HECTOR CONNOLY RD & NE FRONTAGE RD",
+    "city": "CARENCRO",
+    "time": "07/31/2019 - 2:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.32261,
+    "longitude": -92.0325
+  },
+  {
     "address": "102 VANBUREN DR",
     "city": "LAFAYETTE",
     "time": "07/31/2019 - 2:23 PM",
@@ -8,12 +16,12 @@
     "longitude": -92.00823
   },
   {
-    "address": "4510 AMBASSADOR CAFFERY PW",
+    "address": "2700 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "07/31/2019 - 1:58 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.15447,
-    "longitude": -92.04831
+    "latitude": 30.1546036,
+    "longitude": -92.0503988
   },
   {
     "address": "W CONGRESS ST & LE VIOLON RD",
