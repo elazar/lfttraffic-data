@@ -1,5 +1,13 @@
 [
   {
+    "address": "W WILLOW ST & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "07/31/2019 - 10:57 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24324,
+    "longitude": -92.06626
+  },
+  {
     "address": "CHURCH ST & FIRST ST",
     "city": "YOUNGSVILLE",
     "time": "07/31/2019 - 10:52 AM",
@@ -10,7 +18,7 @@
   {
     "address": "SE EVANGELINE TW & SURREY ST",
     "city": "LAFAYETTE",
-    "time": "07/31/2019 - 10:47 AM",
+    "time": "07/31/2019 - 10:57 AM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.2091,
     "longitude": -91.99986
