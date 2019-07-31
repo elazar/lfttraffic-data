@@ -1,5 +1,13 @@
 [
   {
+    "address": "126 LEXINGTON DR",
+    "city": "DUSON",
+    "time": "07/30/2019 - 11:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25184,
+    "longitude": -92.19508
+  },
+  {
     "address": "107 E UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "07/30/2019 - 11:31 PM",
