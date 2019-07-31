@@ -1,13 +1,5 @@
 [
   {
-    "address": "AMBASSADOR CAFFERY PW & W WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "07/31/2019 - 11:06 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24324,
-    "longitude": -92.06626
-  },
-  {
     "address": "TOLSON RD & VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "07/31/2019 - 11:02 AM",
@@ -30,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.09824,
     "longitude": -91.99169
-  },
-  {
-    "address": "1512 LOUISIANA AV",
-    "city": "LAFAYETTE",
-    "time": "07/31/2019 - 10:30 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.23733,
-    "longitude": -92.00036
   },
   {
     "address": "1015 W PINHOOK RD",
