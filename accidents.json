@@ -1,19 +1,27 @@
 [
   {
+    "address": "103 VIEUX CARRE SQ",
+    "city": "LAFAYETTE",
+    "time": "07/31/2019 - 5:46 PM",
+    "due_to": "Commercial Fire",
+    "latitude": 30.1694923,
+    "longitude": -92.0378584
+  },
+  {
+    "address": "104 BOARD RD (W)",
+    "city": "LAFAYETTE",
+    "time": "07/31/2019 - 5:46 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.17151,
+    "longitude": -92.00061
+  },
+  {
     "address": "N UNIVERSITY AV & MADELINE AV",
     "city": "LAFAYETTE",
     "time": "07/31/2019 - 5:45 PM",
     "due_to": "Incoming Call",
     "latitude": 30.23907,
     "longitude": -92.03243
-  },
-  {
-    "address": "1600 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "07/31/2019 - 5:44 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.19462,
-    "longitude": -92.01667
   },
   {
     "address": "1600 W PINHOOK RD",
