@@ -1,5 +1,21 @@
 [
   {
+    "address": "100 BOURQUE RD",
+    "city": "LAFAYETTE",
+    "time": "07/31/2019 - 4:41 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1327999,
+    "longitude": -92.1088778
+  },
+  {
+    "address": "99 I10 WESTBOUND MM99 HW",
+    "city": "SCOTT",
+    "time": "07/31/2019 - 4:40 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24727,
+    "longitude": -92.09751
+  },
+  {
     "address": "IBERIA ST & SCHOOL ST",
     "city": "YOUNGSVILLE",
     "time": "07/31/2019 - 4:37 PM",
