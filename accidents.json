@@ -1,5 +1,13 @@
 [
   {
+    "address": "301 PARKLANE RD",
+    "city": "LAFAYETTE",
+    "time": "07/31/2019 - 8:28 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.30058,
+    "longitude": -91.9988
+  },
+  {
     "address": "109 SECOND ST",
     "city": "DUSON",
     "time": "07/31/2019 - 8:26 PM",
