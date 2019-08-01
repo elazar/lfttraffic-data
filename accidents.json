@@ -1,5 +1,13 @@
 [
   {
+    "address": "1300 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "08/01/2019 - 3:34 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23252,
+    "longitude": -92.0023
+  },
+  {
     "address": "W PINHOOK RD & AYMAR RD",
     "city": "LAFAYETTE",
     "time": "08/01/2019 - 3:07 PM",
