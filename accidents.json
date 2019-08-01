@@ -1,5 +1,13 @@
 [
   {
+    "address": "2100 CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "08/01/2019 - 6:58 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.23789,
+    "longitude": -91.96979
+  },
+  {
     "address": "CHEMIN METAIRIE & FORTUNE RD",
     "city": "LAFAYETTE",
     "time": "08/01/2019 - 5:58 PM",
