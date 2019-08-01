@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & WINCHESTER ST",
+    "city": "LAFAYETTE",
+    "time": "08/01/2019 - 09:04 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20097,
+    "longitude": -92.06603
+  },
+  {
     "address": "SW EVANGELINE TW & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/01/2019 - 08:45 AM",
@@ -14,14 +22,6 @@
     "due_to": "Traffic Control",
     "latitude": 30.13188,
     "longitude": -91.96517
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & E AMEDEE DR",
-    "city": "LAFAYETTE",
-    "time": "08/01/2019 - 07:50 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2402,
-    "longitude": -92.06607
   },
   {
     "address": "3400 NW EVANGELINE TW",
