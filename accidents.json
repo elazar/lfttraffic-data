@@ -1,13 +1,5 @@
 [
   {
-    "address": "TOLSON RD & BONIN RD",
-    "city": "LAFAYETTE",
-    "time": "08/01/2019 - 6:15 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.15204,
-    "longitude": -92.00654
-  },
-  {
     "address": "102 PLAZA VILLAGE DR",
     "city": "LAFAYETTE",
     "time": "08/01/2019 - 6:07 PM",
@@ -30,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15969,
     "longitude": -92.05229
-  },
-  {
-    "address": "ROBLEY DR & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "08/01/2019 - 4:30 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.17117,
-    "longitude": -92.06617
   },
   {
     "address": "KALISTE SALOOM RD & LAKE FARM RD",
