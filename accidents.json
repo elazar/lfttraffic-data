@@ -19,7 +19,7 @@
     "address": "AMBASSADOR CAFFERY PW & TARGET LP",
     "city": "LAFAYETTE",
     "time": "08/01/2019 - 4:41 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.17959,
     "longitude": -92.075
   },
@@ -62,22 +62,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.162158,
     "longitude": -92.0219158
-  },
-  {
-    "address": "VEROT SCHOOL RD & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "08/01/2019 - 4:20 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.14589,
-    "longitude": -92.03252
-  },
-  {
-    "address": "YOUNGSVILLE HW & ALBERTSON PW",
-    "city": "BROUSSARD",
-    "time": "08/01/2019 - 4:19 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.14488,
-    "longitude": -91.99167
   },
   {
     "address": "KALISTE SALOOM RD & LAKE FARM RD",
