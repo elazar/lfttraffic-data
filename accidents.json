@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "N UNIVERSITY AV & COURET DR",
+    "city": "LAFAYETTE",
+    "time": "07/31/2019 - 11:59 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.25961,
+    "longitude": -92.04074
+  }
+]
