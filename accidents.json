@@ -1,5 +1,13 @@
 [
   {
+    "address": "TOLSON RD & BONIN RD",
+    "city": "LAFAYETTE",
+    "time": "08/01/2019 - 6:15 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.15204,
+    "longitude": -92.00654
+  },
+  {
     "address": "102 PLAZA VILLAGE DR",
     "city": "LAFAYETTE",
     "time": "08/01/2019 - 6:07 PM",
