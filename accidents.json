@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "214 CYPRESS VIEW DR",
+    "city": "YOUNGSVILLE",
+    "time": "08/01/2019 - 12:13 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.09016,
+    "longitude": -92.01618
+  }
+]
