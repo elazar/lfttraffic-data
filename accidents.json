@@ -39,14 +39,7 @@
     "latitude": 30.17117,
     "longitude": -92.06617
   },
-  {
-    "address": "1800 VEROT SCHOOL RD",
-    "city": "LAFAYETTE",
-    "time": "08/01/2019 - 4:26 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.162158,
-    "longitude": -92.0219158
-  },
+  null,
   {
     "address": "KALISTE SALOOM RD & LAKE FARM RD",
     "city": "LAFAYETTE",
