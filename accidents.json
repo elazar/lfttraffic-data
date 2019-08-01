@@ -1,5 +1,13 @@
 [
   {
+    "address": "WESTGATE RD & DULLES DR",
+    "city": "SCOTT",
+    "time": "08/01/2019 - 03:01 AM",
+    "due_to": "Vehicle Fire",
+    "latitude": 30.21055,
+    "longitude": -92.087
+  },
+  {
     "address": "123 ST NAZAIRE RD",
     "city": "BROUSSARD",
     "time": "08/01/2019 - 02:38 AM",
