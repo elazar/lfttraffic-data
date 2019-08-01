@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "206 CASCADE PALM CT",
+    "city": "YOUNGSVILLE",
+    "time": "08/01/2019 - 06:37 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.12108,
+    "longitude": -91.98782
+  }
+]
