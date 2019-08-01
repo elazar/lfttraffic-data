@@ -1,18 +1,18 @@
 [
   {
+    "address": "1503 BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "07/31/2019 - 8:35 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.22253,
+    "longitude": -92.05332
+  },
+  {
     "address": "301 PARKLANE RD",
     "city": "LAFAYETTE",
     "time": "07/31/2019 - 8:28 PM",
     "due_to": "Fire Alarm-Residential",
     "latitude": 30.30058,
     "longitude": -91.9988
-  },
-  {
-    "address": "109 SECOND ST",
-    "city": "DUSON",
-    "time": "07/31/2019 - 8:26 PM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.23691,
-    "longitude": -92.18373
   }
 ]
