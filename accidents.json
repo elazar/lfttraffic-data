@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & DOUCET RD",
+    "city": "LAFAYETTE",
+    "time": "08/01/2019 - 11:29 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20341,
+    "longitude": -92.04888
+  },
+  {
     "address": "YOUNGSVILLE HW & AMBASSADOR CAFFERY PW",
     "city": "BROUSSARD",
     "time": "08/01/2019 - 11:22 AM",
