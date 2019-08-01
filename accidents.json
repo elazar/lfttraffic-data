@@ -1,5 +1,13 @@
 [
   {
+    "address": "609 SETTLERS TRACE BL",
+    "city": "LAFAYETTE",
+    "time": "08/01/2019 - 12:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15845,
+    "longitude": -92.05388
+  },
+  {
     "address": "W CONGRESS ST & MONTEIGNE DR",
     "city": "LAFAYETTE",
     "time": "08/01/2019 - 12:22 PM",
