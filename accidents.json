@@ -1,5 +1,13 @@
 [
   {
+    "address": "HECTOR CONNOLY RD & BERGERON LN",
+    "city": "LAFAYETTE",
+    "time": "08/01/2019 - 08:03 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.32019,
+    "longitude": -92.01013
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & E AMEDEE DR",
     "city": "LAFAYETTE",
     "time": "08/01/2019 - 07:50 AM",
@@ -8,11 +16,11 @@
     "longitude": -92.06607
   },
   {
-    "address": "E FARREL RD & FREM BOUSTANY DR",
-    "city": "LAFAYETTE",
-    "time": "08/01/2019 - 06:56 AM",
+    "address": "3400 NW EVANGELINE TW",
+    "city": "CARENCRO",
+    "time": "08/01/2019 - 07:26 AM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.14833,
-    "longitude": -92.04254
+    "latitude": 30.30464,
+    "longitude": -92.02933
   }
 ]
