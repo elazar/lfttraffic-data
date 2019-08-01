@@ -1,5 +1,13 @@
 [
   {
+    "address": "E FARREL RD & FREM BOUSTANY DR",
+    "city": "LAFAYETTE",
+    "time": "08/01/2019 - 06:56 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14833,
+    "longitude": -92.04254
+  },
+  {
     "address": "206 CASCADE PALM CT",
     "city": "YOUNGSVILLE",
     "time": "08/01/2019 - 06:37 AM",
