@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 GLENBROOK DR",
+    "city": "BROUSSARD",
+    "time": "08/01/2019 - 1:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13958,
+    "longitude": -91.98182
+  },
+  {
     "address": "5000 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/01/2019 - 12:54 PM",
@@ -8,11 +16,11 @@
     "longitude": -92.0690154
   },
   {
-    "address": "4460 JOHNSTON ST",
+    "address": "4600 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/01/2019 - 12:13 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.192,
-    "longitude": -92.06098
+    "latitude": 30.1882451,
+    "longitude": -92.0644104
   }
 ]
