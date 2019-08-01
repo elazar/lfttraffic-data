@@ -1,5 +1,21 @@
 [
   {
+    "address": "5727 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/01/2019 - 3:36 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1741352,
+    "longitude": -92.0781407
+  },
+  {
+    "address": "KALISTE SALOOM RD & LAKE FARM RD",
+    "city": "LAFAYETTE",
+    "time": "08/01/2019 - 3:36 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.15936,
+    "longitude": -92.0455
+  },
+  {
     "address": "1300 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "08/01/2019 - 3:34 PM",
