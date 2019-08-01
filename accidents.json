@@ -1,5 +1,21 @@
 [
   {
+    "address": "SW EVANGELINE TW & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/01/2019 - 08:45 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22457,
+    "longitude": -92.01033
+  },
+  {
+    "address": "AMBASSADOR CAFFERY PW & S MORGAN AV",
+    "city": "BROUSSARD",
+    "time": "08/01/2019 - 08:45 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.13188,
+    "longitude": -91.96517
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & E AMEDEE DR",
     "city": "LAFAYETTE",
     "time": "08/01/2019 - 07:50 AM",
