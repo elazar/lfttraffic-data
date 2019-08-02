@@ -6,5 +6,13 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20571,
     "longitude": -92.01495
+  },
+  {
+    "address": "6171 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/02/2019 - 08:24 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16127,
+    "longitude": -92.08262
   }
 ]
