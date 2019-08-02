@@ -1,5 +1,21 @@
 [
   {
+    "address": "JOHNSTON ST & BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "08/02/2019 - 12:05 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.20581,
+    "longitude": -92.04078
+  },
+  {
+    "address": "JOHNSTON ST & BRENTWOOD BL",
+    "city": "LAFAYETTE",
+    "time": "08/02/2019 - 12:05 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19632,
+    "longitude": -92.057
+  },
+  {
     "address": "411 ST LANDRY ST",
     "city": "LAFAYETTE",
     "time": "08/02/2019 - 12:03 PM",
