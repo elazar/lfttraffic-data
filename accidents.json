@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23496,
     "longitude": -92.17607
-  },
-  {
-    "address": "100 MILLS ST",
-    "city": "SCOTT",
-    "time": "08/02/2019 - 12:11 PM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.23545,
-    "longitude": -92.09119
   }
 ]
