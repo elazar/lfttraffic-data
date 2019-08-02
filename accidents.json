@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 MILLS ST",
+    "city": "SCOTT",
+    "time": "08/02/2019 - 12:11 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.23545,
+    "longitude": -92.09119
+  },
+  {
     "address": "I10 EASTBOUND MM104 HW & MOSS ST",
     "city": "LAFAYETTE",
     "time": "08/02/2019 - 12:09 PM",
