@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & CELEBRITY DR",
+    "city": "BROUSSARD",
+    "time": "08/02/2019 - 3:46 PM",
+    "due_to": "Hazard",
+    "latitude": 30.14492,
+    "longitude": -91.94632
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/02/2019 - 3:32 PM",
