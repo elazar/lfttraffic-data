@@ -1,5 +1,21 @@
 [
   {
+    "address": "S RICHFIELD RD & CAMERON ST",
+    "city": "DUSON",
+    "time": "08/02/2019 - 12:36 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23496,
+    "longitude": -92.17607
+  },
+  {
+    "address": "320 DEVALCOURT ST",
+    "city": "LAFAYETTE",
+    "time": "08/02/2019 - 12:36 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21678,
+    "longitude": -92.0549
+  },
+  {
     "address": "151 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "08/02/2019 - 12:31 PM",
