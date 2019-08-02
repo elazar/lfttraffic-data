@@ -1,11 +1,11 @@
 [
   {
-    "address": "EIGHTH ST & SE EVANGELINE TW",
+    "address": "151 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "08/02/2019 - 12:31 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.22572,
-    "longitude": -92.00991
+    "latitude": 30.224851,
+    "longitude": -92.0099528
   },
   {
     "address": "AMBASSADOR CAFFERY PW & BROADMOOR BL",
@@ -46,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19632,
     "longitude": -92.057
-  },
-  {
-    "address": "411 ST LANDRY ST",
-    "city": "LAFAYETTE",
-    "time": "08/02/2019 - 12:03 PM",
-    "due_to": "Commercial Fire",
-    "latitude": 30.21664,
-    "longitude": -92.02603
   },
   {
     "address": "3241 NW EVANGELINE TW",
