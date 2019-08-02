@@ -1,5 +1,13 @@
 [
   {
+    "address": "ST NAZAIRE RD & LA 96 HW",
+    "city": "BROUSSARD",
+    "time": "08/02/2019 - 12:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13068,
+    "longitude": -91.93486
+  },
+  {
     "address": "S RICHFIELD RD & CAMERON ST",
     "city": "DUSON",
     "time": "08/02/2019 - 12:36 PM",
