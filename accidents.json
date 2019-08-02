@@ -1,5 +1,21 @@
 [
   {
+    "address": "1119 RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "08/02/2019 - 2:38 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.18018,
+    "longitude": -92.12235
+  },
+  {
+    "address": "W CONGRESS ST & FELICIE ST",
+    "city": "LAFAYETTE",
+    "time": "08/02/2019 - 2:38 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.20509,
+    "longitude": -92.05995
+  },
+  {
     "address": "I10 EASTBOUND MM101 HW & N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "08/02/2019 - 2:36 PM",
