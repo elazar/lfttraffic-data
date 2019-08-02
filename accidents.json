@@ -1,5 +1,13 @@
 [
   {
+    "address": "804 MARTIN LUTHER KING JR DR",
+    "city": "LAFAYETTE",
+    "time": "08/01/2019 - 10:40 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.24849,
+    "longitude": -92.02399
+  },
+  {
     "address": "205 ALLEY 2",
     "city": "BROUSSARD",
     "time": "08/01/2019 - 10:36 PM",
