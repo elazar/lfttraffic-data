@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24346,
     "longitude": -92.06673
-  },
-  {
-    "address": "500 GUILLIOT RD",
-    "city": "YOUNGSVILLE",
-    "time": "08/01/2019 - 9:49 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.08317,
-    "longitude": -91.99498
   }
 ]
