@@ -1,5 +1,13 @@
 [
   {
+    "address": "102 CRAWFORD ST",
+    "city": "LAFAYETTE",
+    "time": "08/02/2019 - 10:27 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19889,
+    "longitude": -92.06094
+  },
+  {
     "address": "200 TRAVIS ST",
     "city": "LAFAYETTE",
     "time": "08/02/2019 - 09:43 AM",
