@@ -3,7 +3,7 @@
     "address": "I10 EASTBOUND MM104 HW & MOSS ST",
     "city": "LAFAYETTE",
     "time": "08/02/2019 - 12:09 PM",
-    "due_to": "Incoming Call",
+    "due_to": "Grass Fire",
     "latitude": 30.27897,
     "longitude": -92.00777
   },
@@ -30,14 +30,6 @@
     "due_to": "Commercial Fire",
     "latitude": 30.21664,
     "longitude": -92.02603
-  },
-  {
-    "address": "3806 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "08/02/2019 - 11:58 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.17072,
-    "longitude": -92.06613
   },
   {
     "address": "CAMELLIA BL & KALISTE SALOOM RD",
