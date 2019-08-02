@@ -1,5 +1,13 @@
 [
   {
+    "address": "3241 NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "08/02/2019 - 11:20 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29434,
+    "longitude": -92.02616
+  },
+  {
     "address": "3000 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "08/02/2019 - 11:18 AM",
