@@ -1,5 +1,13 @@
 [
   {
+    "address": "I10 EASTBOUND MM101 HW & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "08/02/2019 - 2:36 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.24052,
+    "longitude": -92.03242
+  },
+  {
     "address": "5825 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/02/2019 - 2:33 PM",
