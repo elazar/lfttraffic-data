@@ -1,5 +1,13 @@
 [
   {
+    "address": "I49 NORTHBOUND MM1 HW & E PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "08/02/2019 - 07:26 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.27266,
+    "longitude": -91.99991
+  },
+  {
     "address": "N UNIVERSITY AV & CAMERON ST",
     "city": "LAFAYETTE",
     "time": "08/02/2019 - 07:25 AM",
