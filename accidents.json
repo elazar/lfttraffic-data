@@ -1,5 +1,13 @@
 [
   {
+    "address": "216 LANDMARK ST",
+    "city": "LAFAYETTE",
+    "time": "08/01/2019 - 11:01 PM",
+    "due_to": "Commercial Fire",
+    "latitude": 30.18599,
+    "longitude": -92.07261
+  },
+  {
     "address": "804 MARTIN LUTHER KING JR DR",
     "city": "LAFAYETTE",
     "time": "08/01/2019 - 10:40 PM",
