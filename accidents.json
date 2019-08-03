@@ -1,5 +1,13 @@
 [
   {
+    "address": "ALBION WAY & ENNIS DR",
+    "city": "LAFAYETTE",
+    "time": "08/03/2019 - 10:01 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29721,
+    "longitude": -92.08409
+  },
+  {
     "address": "104 I10 EASTBOUND MM104 HW",
     "city": "LAFAYETTE",
     "time": "08/03/2019 - 09:58 AM",
