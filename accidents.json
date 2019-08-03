@@ -1,5 +1,13 @@
 [
   {
+    "address": "110 LEXINGTON DR",
+    "city": "DUSON",
+    "time": "08/03/2019 - 11:06 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2522284,
+    "longitude": -92.1936751
+  },
+  {
     "address": "4855 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "08/03/2019 - 11:01 AM",
