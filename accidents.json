@@ -8,14 +8,6 @@
     "longitude": -92.0664326
   },
   {
-    "address": "N UNIVERSITY AV & I10 HW",
-    "city": "LAFAYETTE",
-    "time": "08/02/2019 - 10:31 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.24052,
-    "longitude": -92.03242
-  },
-  {
     "address": "909 GARBER RD",
     "city": "BROUSSARD",
     "time": "08/02/2019 - 10:18 PM",
@@ -30,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.13855,
     "longitude": -92.13774
-  },
-  {
-    "address": "W GLORIA SWITCH RD & N UNIVERSITY AV",
-    "city": "CARENCRO",
-    "time": "08/02/2019 - 10:00 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.29785,
-    "longitude": -92.04941
   }
 ]
