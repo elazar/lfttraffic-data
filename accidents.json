@@ -1,5 +1,13 @@
 [
   {
+    "address": "1158 BOURQUE RD",
+    "city": "LAFAYETTE",
+    "time": "08/02/2019 - 10:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13855,
+    "longitude": -92.13774
+  },
+  {
     "address": "W GLORIA SWITCH RD & N UNIVERSITY AV",
     "city": "CARENCRO",
     "time": "08/02/2019 - 10:00 PM",
