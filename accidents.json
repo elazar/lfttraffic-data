@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "112 EULA DR",
+    "city": "LAFAYETTE",
+    "time": "08/02/2019 - 9:54 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.20043,
+    "longitude": -92.07033
+  }
+]
