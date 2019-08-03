@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "201 COUGAR RG",
+    "city": "LAFAYETTE",
+    "time": "08/03/2019 - 06:25 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17015,
+    "longitude": -92.00422
+  }
+]
