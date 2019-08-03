@@ -1,5 +1,13 @@
 [
   {
+    "address": "W GLORIA SWITCH RD & N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "08/02/2019 - 10:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29785,
+    "longitude": -92.04941
+  },
+  {
     "address": "5600 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "08/02/2019 - 9:57 PM",
