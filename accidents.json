@@ -1,5 +1,13 @@
 [
   {
+    "address": "BNSF RAILROAD CG & RENDEZVOUS RD",
+    "city": "LAFAYETTE",
+    "time": "08/03/2019 - 2:53 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23594,
+    "longitude": -92.13353
+  },
+  {
     "address": "100 PICKWICK DR",
     "city": "LAFAYETTE",
     "time": "08/03/2019 - 1:32 PM",
