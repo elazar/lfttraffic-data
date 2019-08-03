@@ -1,19 +1,19 @@
 [
   {
+    "address": "104 BOARD RD (W)",
+    "city": "LAFAYETTE",
+    "time": "08/02/2019 - 8:53 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.17151,
+    "longitude": -92.00061
+  },
+  {
     "address": "7004 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/02/2019 - 7:22 PM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.14028,
     "longitude": -92.10286
-  },
-  {
-    "address": "7002 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "08/02/2019 - 7:22 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.14028,
-    "longitude": -92.10295
   },
   {
     "address": "200 TORONTO DR",
