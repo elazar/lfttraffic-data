@@ -14,13 +14,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.31847,
     "longitude": -92.03204
-  },
-  {
-    "address": "1100 BERTRAND DR",
-    "city": "LAFAYETTE",
-    "time": "08/03/2019 - 4:10 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21946,
-    "longitude": -92.04853
   }
 ]
