@@ -14,21 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.26255,
     "longitude": -92.00867
-  },
-  {
-    "address": "SURREY ST & SE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "08/03/2019 - 09:16 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2091,
-    "longitude": -91.99986
-  },
-  {
-    "address": "200 PERIMETER RD",
-    "city": "LAFAYETTE",
-    "time": "08/03/2019 - 08:29 AM",
-    "due_to": "Trash Fire",
-    "latitude": 30.19529,
-    "longitude": -91.99035
   }
 ]
