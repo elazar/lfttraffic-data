@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "08/03/2019 - 11:40 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20581,
+    "longitude": -92.04078
+  },
+  {
     "address": "110 LEXINGTON DR",
     "city": "DUSON",
     "time": "08/03/2019 - 11:06 AM",
