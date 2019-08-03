@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "100 CAMBERLY CL",
+    "city": "LAFAYETTE",
+    "time": "08/03/2019 - 07:41 AM",
+    "due_to": "Trash Fire",
+    "latitude": 30.18354,
+    "longitude": -92.03201
+  }
+]
