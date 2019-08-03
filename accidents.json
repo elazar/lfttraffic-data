@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "2601 SE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "08/03/2019 - 08:29 AM",
+    "due_to": "Trash Fire",
+    "latitude": 30.18655,
+    "longitude": -91.99071
+  }
+]
