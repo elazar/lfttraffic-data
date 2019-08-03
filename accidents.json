@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 BROTHERS RD",
+    "city": "LAFAYETTE",
+    "time": "08/03/2019 - 04:30 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2615004,
+    "longitude": -92.0573519
+  },
+  {
     "address": "1500 GOLDEN GRAIN RD",
     "city": "LAFAYETTE",
     "time": "08/03/2019 - 04:28 AM",
