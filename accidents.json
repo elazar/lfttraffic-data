@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 PICKWICK DR",
+    "city": "LAFAYETTE",
+    "time": "08/03/2019 - 1:32 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.18934,
+    "longitude": -92.0539
+  },
+  {
     "address": "710 S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "08/03/2019 - 12:56 PM",
