@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "4855 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "08/03/2019 - 11:01 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.19512,
+    "longitude": -92.09561
+  }
+]
