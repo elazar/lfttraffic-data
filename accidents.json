@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "213 E WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "08/04/2019 - 02:37 AM",
+    "due_to": "Residential Fire",
+    "latitude": 30.24435,
+    "longitude": -92.00846
+  }
+]
