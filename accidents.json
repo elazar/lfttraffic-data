@@ -1,5 +1,13 @@
 [
   {
+    "address": "5725 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/03/2019 - 7:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17353,
+    "longitude": -92.07732
+  },
+  {
     "address": "JOHNSTON ST & SEARS DR",
     "city": "LAFAYETTE",
     "time": "08/03/2019 - 6:56 PM",
