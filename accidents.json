@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 CHURCH ST",
+    "city": "Lafayette",
+    "time": "08/04/2019 - 11:37 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.098404,
+    "longitude": -91.9906799
+  },
+  {
     "address": "103 DENVER CL",
     "city": "LAFAYETTE",
     "time": "08/04/2019 - 11:32 AM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.26255,
     "longitude": -92.00867
-  },
-  {
-    "address": "201 PERARD ST",
-    "city": "LAFAYETTE",
-    "time": "08/04/2019 - 10:55 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20178,
-    "longitude": -92.04839
   },
   {
     "address": "W PINHOOK RD & KALISTE SALOOM RD",
