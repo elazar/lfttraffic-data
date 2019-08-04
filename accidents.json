@@ -1,21 +1,5 @@
 [
   {
-    "address": "515 ARCENEAUX RD",
-    "city": "CARENCRO",
-    "time": "08/04/2019 - 3:47 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.30916,
-    "longitude": -92.04618
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & ERASTE LANDRY RD",
-    "city": "LAFAYETTE",
-    "time": "08/04/2019 - 3:44 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.21912,
-    "longitude": -92.07587
-  },
-  {
     "address": "NW EVANGELINE TW & E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "08/04/2019 - 3:41 PM",
