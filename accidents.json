@@ -1,5 +1,13 @@
 [
   {
+    "address": "121 EMILY CL",
+    "city": "LAFAYETTE",
+    "time": "08/03/2019 - 8:29 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.16594,
+    "longitude": -92.04787
+  },
+  {
     "address": "MUDD AV & RAILROAD TRACKS",
     "city": "LAFAYETTE",
     "time": "08/03/2019 - 8:15 PM",
