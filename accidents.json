@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 S BEADLE RD",
+    "city": "LAFAYETTE",
+    "time": "08/04/2019 - 11:17 AM",
+    "due_to": "Hazard",
+    "latitude": 30.17934,
+    "longitude": -92.02223
+  },
+  {
     "address": "103 I10 EB EXIT LOOP HW",
     "city": "LAFAYETTE",
     "time": "08/04/2019 - 11:10 AM",
