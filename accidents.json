@@ -1,5 +1,13 @@
 [
   {
+    "address": "215 E CONVENT ST",
+    "city": "LAFAYETTE",
+    "time": "08/04/2019 - 3:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2204,
+    "longitude": -92.0163
+  },
+  {
     "address": "SEARS DR & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/04/2019 - 3:16 PM",
