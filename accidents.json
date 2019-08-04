@@ -1,5 +1,13 @@
 [
   {
+    "address": "103 I10 EB ENTRANCE LOOP HW",
+    "city": "LAFAYETTE",
+    "time": "08/04/2019 - 11:10 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "201 PERARD ST",
     "city": "LAFAYETTE",
     "time": "08/04/2019 - 10:55 AM",
