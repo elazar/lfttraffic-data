@@ -1,5 +1,13 @@
 [
   {
+    "address": "MUDD AV & RAILROAD TRACKS",
+    "city": "LAFAYETTE",
+    "time": "08/03/2019 - 8:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23264,
+    "longitude": -92.01004
+  },
+  {
     "address": "2010 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "08/03/2019 - 8:00 PM",
