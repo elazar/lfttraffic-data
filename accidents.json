@@ -1,5 +1,13 @@
 [
   {
+    "address": "126 LEXINGTON DR",
+    "city": "DUSON",
+    "time": "08/04/2019 - 5:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25184,
+    "longitude": -92.19508
+  },
+  {
     "address": "800 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/04/2019 - 4:43 PM",
