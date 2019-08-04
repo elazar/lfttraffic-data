@@ -1,5 +1,13 @@
 [
   {
+    "address": "D HESS RD & ST ESPRIT RD",
+    "city": "LAFAYETTE",
+    "time": "08/04/2019 - 1:36 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.34092,
+    "longitude": -92.02093
+  },
+  {
     "address": "400 HEYMANN BL",
     "city": "LAFAYETTE",
     "time": "08/04/2019 - 1:25 PM",
