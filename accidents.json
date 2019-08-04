@@ -1,5 +1,13 @@
 [
   {
+    "address": "3800 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "08/04/2019 - 12:54 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2731571,
+    "longitude": -92.0079545
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & WESTMARK BL",
     "city": "LAFAYETTE",
     "time": "08/04/2019 - 12:50 PM",
