@@ -1,5 +1,13 @@
 [
   {
+    "address": "2103 NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "08/03/2019 - 7:53 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.25218,
+    "longitude": -92.01453
+  },
+  {
     "address": "1700 SW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "08/03/2019 - 7:52 PM",
@@ -22,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19364,
     "longitude": -92.0587
-  },
-  {
-    "address": "5725 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "08/03/2019 - 7:15 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17353,
-    "longitude": -92.07732
   }
 ]
