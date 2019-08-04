@@ -1,5 +1,13 @@
 [
   {
+    "address": "3100 US 90 EAST HW",
+    "city": "LAFAYETTE",
+    "time": "08/04/2019 - 6:16 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1706127,
+    "longitude": -91.9802303
+  },
+  {
     "address": "800 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/04/2019 - 4:43 PM",
