@@ -1,5 +1,13 @@
 [
   {
+    "address": "201 PERARD ST",
+    "city": "LAFAYETTE",
+    "time": "08/04/2019 - 10:55 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20178,
+    "longitude": -92.04839
+  },
+  {
     "address": "ALFRED ST & CAMERON ST",
     "city": "SCOTT",
     "time": "08/04/2019 - 10:50 AM",
