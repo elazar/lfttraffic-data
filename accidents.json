@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "100 BRENTWOOD BL",
+    "city": "LAFAYETTE",
+    "time": "08/04/2019 - 07:49 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.19586,
+    "longitude": -92.05682
+  }
+]
