@@ -1,5 +1,13 @@
 [
   {
+    "address": "207 GALBERT RD",
+    "city": "LAFAYETTE",
+    "time": "08/04/2019 - 2:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22623,
+    "longitude": -92.07277
+  },
+  {
     "address": "I49 SOUTHBOUND MM2 HW & W BUTCHER SWITCH RD",
     "city": "LAFAYETTE",
     "time": "08/04/2019 - 2:03 PM",
