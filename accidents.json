@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "BENOIT FALGOUT DR & PATTERSON ST",
+    "city": "LAFAYETTE",
+    "time": "08/04/2019 - 09:10 AM",
+    "due_to": "Hazard",
+    "latitude": 30.25708,
+    "longitude": -92.01904
+  }
+]
