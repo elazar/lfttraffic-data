@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "I10 SOUTH FRONTAGE RD & HAROLD GAUTHE DR",
+    "city": "SCOTT",
+    "time": "08/04/2019 - 01:43 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24382,
+    "longitude": -92.10631
+  }
+]
