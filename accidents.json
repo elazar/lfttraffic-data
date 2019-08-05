@@ -1,5 +1,13 @@
 [
   {
+    "address": "W UNIVERSITY AV & CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "08/05/2019 - 12:25 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23236,
+    "longitude": -92.03238
+  },
+  {
     "address": "305 UPLAND DR",
     "city": "LAFAYETTE",
     "time": "08/05/2019 - 12:19 PM",
