@@ -1,5 +1,13 @@
 [
   {
+    "address": "2300 NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "08/05/2019 - 3:31 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2549047,
+    "longitude": -92.0151145
+  },
+  {
     "address": "2115 DULLES DR",
     "city": "SCOTT",
     "time": "08/05/2019 - 3:20 PM",
@@ -22,13 +30,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.16681,
     "longitude": -92.06088
-  },
-  {
-    "address": "SE EVANGELINE TW & E KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "08/05/2019 - 2:29 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20067,
-    "longitude": -91.99958
   }
 ]
