@@ -1,5 +1,13 @@
 [
   {
+    "address": "MARIE ANTOINETTE ST & JACQUELINE ST",
+    "city": "LAFAYETTE",
+    "time": "08/05/2019 - 4:40 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20467,
+    "longitude": -92.05704
+  },
+  {
     "address": "S DOMINGUE AV & CURRAN LN",
     "city": "LAFAYETTE",
     "time": "08/05/2019 - 4:38 PM",
