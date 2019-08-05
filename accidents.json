@@ -1,5 +1,13 @@
 [
   {
+    "address": "MUDD AV & NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "08/05/2019 - 09:21 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23312,
+    "longitude": -92.01407
+  },
+  {
     "address": "627 LAFAYETTE ST",
     "city": "YOUNGSVILLE",
     "time": "08/05/2019 - 09:08 AM",
