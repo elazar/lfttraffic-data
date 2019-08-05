@@ -1,5 +1,13 @@
 [
   {
+    "address": "GUILBEAU RD & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/05/2019 - 11:23 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19375,
+    "longitude": -92.0586
+  },
+  {
     "address": "1460 S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "08/05/2019 - 11:13 AM",
