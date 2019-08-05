@@ -1,5 +1,13 @@
 [
   {
+    "address": "4895 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/05/2019 - 3:12 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18449,
+    "longitude": -92.06726
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & DOVER BL",
     "city": "LAFAYETTE",
     "time": "08/05/2019 - 3:11 PM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20067,
     "longitude": -91.99958
-  },
-  {
-    "address": "105 I10 WB EXIT RAMP HW",
-    "city": "LAFAYETTE",
-    "time": "08/05/2019 - 2:05 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.26255,
-    "longitude": -92.00867
   }
 ]
