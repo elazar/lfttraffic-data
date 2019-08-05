@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & W GILMAN RD",
+    "city": "LAFAYETTE",
+    "time": "08/05/2019 - 5:05 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24304,
+    "longitude": -92.03244
+  },
+  {
     "address": "MARIE ANTOINETTE ST & JACQUELINE ST",
     "city": "LAFAYETTE",
     "time": "08/05/2019 - 4:40 PM",
