@@ -1,5 +1,13 @@
 [
   {
+    "address": "ST LANDRY ST & HENRY ST",
+    "city": "LAFAYETTE",
+    "time": "08/05/2019 - 1:16 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.21402,
+    "longitude": -92.03013
+  },
+  {
     "address": "US 90 EAST HW & N MORGAN AV",
     "city": "BROUSSARD",
     "time": "08/05/2019 - 1:15 PM",
