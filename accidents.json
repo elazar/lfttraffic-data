@@ -1,5 +1,13 @@
 [
   {
+    "address": "1000 RENAUD DR",
+    "city": "LAFAYETTE",
+    "time": "08/05/2019 - 1:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2542249,
+    "longitude": -92.0609938
+  },
+  {
     "address": "US 90 EAST HW & LA 182 HW",
     "city": "BROUSSARD",
     "time": "08/05/2019 - 1:29 PM",
