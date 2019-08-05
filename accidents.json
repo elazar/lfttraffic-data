@@ -2,6 +2,14 @@
   {
     "address": "2115 DULLES DR",
     "city": "SCOTT",
+    "time": "08/05/2019 - 3:20 PM",
+    "due_to": "Commercial Fire",
+    "latitude": 30.21012,
+    "longitude": -92.0929
+  },
+  {
+    "address": "2115 DULLES DR",
+    "city": "SCOTT",
     "time": "08/05/2019 - 3:18 PM",
     "due_to": "Incoming Call",
     "latitude": 30.21012,
