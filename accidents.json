@@ -1,5 +1,13 @@
 [
   {
+    "address": "4309 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/05/2019 - 10:31 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19514,
+    "longitude": -92.05659
+  },
+  {
     "address": "100 CHERRYWOOD DR",
     "city": "LAFAYETTE",
     "time": "08/05/2019 - 09:55 AM",
