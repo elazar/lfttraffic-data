@@ -1,5 +1,13 @@
 [
   {
+    "address": "S RICHFIELD RD & GOLDEN GRAIN RD",
+    "city": "LAFAYETTE",
+    "time": "08/05/2019 - 1:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15923,
+    "longitude": -92.17568
+  },
+  {
     "address": "131 OPUS LN",
     "city": "LAFAYETTE",
     "time": "08/05/2019 - 12:47 PM",
