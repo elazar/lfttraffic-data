@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17178,
     "longitude": -92.06606
-  },
-  {
-    "address": "131 OPUS LN",
-    "city": "LAFAYETTE",
-    "time": "08/05/2019 - 12:47 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.13943,
-    "longitude": -92.12772
   }
 ]
