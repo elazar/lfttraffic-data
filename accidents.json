@@ -1,5 +1,13 @@
 [
   {
+    "address": "2707 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "08/05/2019 - 2:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15337,
+    "longitude": -92.04902
+  },
+  {
     "address": "105 I10 WB EXIT RAMP HW",
     "city": "LAFAYETTE",
     "time": "08/05/2019 - 2:05 PM",
