@@ -1,5 +1,13 @@
 [
   {
+    "address": "305 UPLAND DR",
+    "city": "LAFAYETTE",
+    "time": "08/05/2019 - 12:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1909,
+    "longitude": -92.0724
+  },
+  {
     "address": "125 HEATHWOOD DR",
     "city": "BROUSSARD",
     "time": "08/05/2019 - 12:11 PM",
