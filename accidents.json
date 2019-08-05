@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "ERIC ST & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "08/05/2019 - 07:05 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23839,
+    "longitude": -92.03242
+  }
+]
