@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1619 MYRTLE PL",
+    "city": "LAFAYETTE",
+    "time": "08/04/2019 - 10:01 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.23156,
+    "longitude": -92.03565
+  }
+]
