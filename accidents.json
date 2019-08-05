@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "LOUISIANA AV & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "08/05/2019 - 08:26 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27944,
+    "longitude": -91.99217
+  }
+]
