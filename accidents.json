@@ -8,6 +8,14 @@
     "longitude": -92.06606
   },
   {
+    "address": "US 90 EAST,GOTO 4100 US 90 EAST,4100 BLOCK,EXXON",
+    "city": "Lafayette",
+    "time": "08/05/2019 - 12:47 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "address": "131 OPUS LN",
     "city": "LAFAYETTE",
     "time": "08/05/2019 - 12:47 PM",
