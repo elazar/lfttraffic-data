@@ -8,14 +8,6 @@
     "longitude": -92.0841
   },
   {
-    "address": "LA 182 HW & US 90 EAST HW",
-    "city": "BROUSSARD",
-    "time": "08/05/2019 - 11:25 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.14823,
-    "longitude": -91.96419
-  },
-  {
     "address": "GUILBEAU RD & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/05/2019 - 11:23 AM",
@@ -38,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.12484,
     "longitude": -91.94331
-  },
-  {
-    "address": "4702 CAMERON ST",
-    "city": "SCOTT",
-    "time": "08/05/2019 - 11:03 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23248,
-    "longitude": -92.07578
   },
   {
     "address": "255 RIDGE RD",
