@@ -1,5 +1,21 @@
 [
   {
+    "address": "6909 CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "08/05/2019 - 5:47 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23399,
+    "longitude": -92.1236
+  },
+  {
+    "address": "JOHNSTON ST & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "08/05/2019 - 5:47 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.17808,
+    "longitude": -92.07452
+  },
+  {
     "address": "SETTLERS TRACE BL & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/05/2019 - 5:29 PM",
@@ -22,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24304,
     "longitude": -92.03244
-  },
-  {
-    "address": "MARIE ANTOINETTE ST & JACQUELINE ST",
-    "city": "LAFAYETTE",
-    "time": "08/05/2019 - 4:40 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20467,
-    "longitude": -92.05704
   },
   {
     "address": "AMBASSADOR CAFFERY PW & DOVER BL",
