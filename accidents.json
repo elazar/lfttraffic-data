@@ -1,5 +1,13 @@
 [
   {
+    "address": "1460 S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "08/05/2019 - 11:13 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20144,
+    "longitude": -92.01701
+  },
+  {
     "address": "5407 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "08/05/2019 - 11:11 AM",
