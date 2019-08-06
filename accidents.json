@@ -1,5 +1,13 @@
 [
   {
+    "address": "WILSON ST & E UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "08/06/2019 - 3:56 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21234,
+    "longitude": -92.01233
+  },
+  {
     "address": "101 I10 WESTBOUND MM101 HW",
     "city": "LAFAYETTE",
     "time": "08/06/2019 - 3:55 PM",
