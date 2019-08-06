@@ -1,5 +1,13 @@
 [
   {
+    "address": "SE EVANGELINE TW & THIRTEENTH ST",
+    "city": "LAFAYETTE",
+    "time": "08/06/2019 - 3:29 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22169,
+    "longitude": -92.00775
+  },
+  {
     "address": "W PINHOOK RD & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "08/06/2019 - 3:25 PM",
@@ -30,13 +38,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.2315834,
     "longitude": -92.0074557
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "08/06/2019 - 2:17 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15649,
-    "longitude": -92.04838
   }
 ]
