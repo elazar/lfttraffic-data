@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & TUCKER DR",
+    "city": "LAFAYETTE",
+    "time": "08/06/2019 - 12:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17501,
+    "longitude": -92.07082
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & RIDGE RD",
     "city": "LAFAYETTE",
     "time": "08/06/2019 - 11:41 AM",
@@ -7,7 +15,14 @@
     "latitude": 30.21504,
     "longitude": -92.07579
   },
-  null,
+  {
+    "address": "600 NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "08/06/2019 - 11:37 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23332,
+    "longitude": -92.0137
+  },
   {
     "address": "3726 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
