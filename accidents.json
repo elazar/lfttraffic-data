@@ -1,19 +1,19 @@
 [
   {
+    "address": "US 90 EAST HW & CELEBRITY DR",
+    "city": "BROUSSARD",
+    "time": "08/06/2019 - 2:58 PM",
+    "due_to": "Hazard",
+    "latitude": 30.14492,
+    "longitude": -91.94632
+  },
+  {
     "address": "120 E KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "08/06/2019 - 2:58 PM",
     "due_to": "Fire Investigation",
     "latitude": 30.19036,
     "longitude": -92.0114
-  },
-  {
-    "address": "52 BNSF RAILROAD CG",
-    "city": "LAFAYETTE",
-    "time": "08/06/2019 - 2:56 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 40.50211,
-    "longitude": -86.95026
   },
   {
     "address": "W THIRD ST & VINE ST",
