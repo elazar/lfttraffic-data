@@ -1,5 +1,13 @@
 [
   {
+    "address": "52 BNSF RAILROAD CG",
+    "city": "LAFAYETTE",
+    "time": "08/06/2019 - 2:56 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 40.50211,
+    "longitude": -86.95026
+  },
+  {
     "address": "W THIRD ST & VINE ST",
     "city": "LAFAYETTE",
     "time": "08/06/2019 - 2:53 PM",
