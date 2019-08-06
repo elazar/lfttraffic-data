@@ -1,5 +1,13 @@
 [
   {
+    "address": "E UNIVERSITY AV & MCKINLEY ST",
+    "city": "LAFAYETTE",
+    "time": "08/06/2019 - 3:50 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21425,
+    "longitude": -92.01489
+  },
+  {
     "address": "411 DULLES DR",
     "city": "LAFAYETTE",
     "time": "08/06/2019 - 3:40 PM",
