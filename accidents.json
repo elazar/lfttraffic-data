@@ -1,5 +1,13 @@
 [
   {
+    "address": "101 I10 WB ENTRANCE RAMP HW",
+    "city": "LAFAYETTE",
+    "time": "08/06/2019 - 4:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "135 RANDOLPH DR",
     "city": "LAFAYETTE",
     "time": "08/06/2019 - 4:08 PM",
