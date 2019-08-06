@@ -1,5 +1,13 @@
 [
   {
+    "address": "102 I10 WESTBOUND MM102 HW",
+    "city": "LAFAYETTE",
+    "time": "08/06/2019 - 4:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "101 I10 WESTBOUND MM101 HW",
     "city": "LAFAYETTE",
     "time": "08/06/2019 - 3:55 PM",
@@ -54,14 +62,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22169,
     "longitude": -92.00775
-  },
-  {
-    "address": "5725 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "08/06/2019 - 3:18 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17353,
-    "longitude": -92.07732
   },
   {
     "address": "W THIRD ST & VINE ST",
