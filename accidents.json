@@ -8,14 +8,6 @@
     "longitude": -92.08381
   },
   {
-    "address": "AMBASSADOR CAFFERY PW & ROBLEY DR",
-    "city": "LAFAYETTE",
-    "time": "08/06/2019 - 4:47 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17117,
-    "longitude": -92.06617
-  },
-  {
     "address": "2700 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "08/06/2019 - 4:41 PM",
@@ -86,14 +78,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.26255,
     "longitude": -92.00867
-  },
-  {
-    "address": "JOHNSTON ST & RIDGE RD",
-    "city": "LAFAYETTE",
-    "time": "08/06/2019 - 3:54 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.18136,
-    "longitude": -92.07126
   },
   {
     "address": "100 I10 WESTBOUND MM100 HW",
