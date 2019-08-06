@@ -1,5 +1,13 @@
 [
   {
+    "address": "S A ST & CAMERON ST",
+    "city": "DUSON",
+    "time": "08/06/2019 - 10:56 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23496,
+    "longitude": -92.19307
+  },
+  {
     "address": "215 REPUBLIC AV",
     "city": "LAFAYETTE",
     "time": "08/06/2019 - 10:48 AM",
