@@ -16,14 +16,6 @@
     "longitude": -92.07587
   },
   {
-    "address": "JOHNSTON ST & RIDGE RD",
-    "city": "LAFAYETTE",
-    "time": "08/06/2019 - 6:02 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18136,
-    "longitude": -92.07126
-  },
-  {
     "address": "BERTRAND DR & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/06/2019 - 5:14 PM",
@@ -38,13 +30,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.23058,
     "longitude": -92.00783
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & ERASTE LANDRY RD",
-    "city": "LAFAYETTE",
-    "time": "08/06/2019 - 4:12 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21912,
-    "longitude": -92.07587
   }
 ]
