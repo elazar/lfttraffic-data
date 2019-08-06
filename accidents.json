@@ -1,5 +1,21 @@
 [
   {
+    "address": "NW EVANGELINE TW & MUDD AV",
+    "city": "LAFAYETTE",
+    "time": "08/06/2019 - 4:05 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23312,
+    "longitude": -92.01407
+  },
+  {
+    "address": "100 BENOIT FALGOUT DR",
+    "city": "LAFAYETTE",
+    "time": "08/06/2019 - 4:05 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25691,
+    "longitude": -92.01648
+  },
+  {
     "address": "102 I10 EASTBOUND MM102 HW",
     "city": "LAFAYETTE",
     "time": "08/06/2019 - 4:02 PM",
@@ -46,14 +62,6 @@
     "due_to": "Hazardous Situation",
     "latitude": 30.26255,
     "longitude": -92.00867
-  },
-  {
-    "address": "411 DULLES DR",
-    "city": "LAFAYETTE",
-    "time": "08/06/2019 - 3:40 PM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.21624,
-    "longitude": -92.05945
   },
   {
     "address": "SE EVANGELINE TW & THIRTEENTH ST",
