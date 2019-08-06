@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "328 NORRIS RD",
+    "city": "LAFAYETTE",
+    "time": "08/06/2019 - 09:53 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.19121,
+    "longitude": -92.12794
+  }
+]
