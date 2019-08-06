@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 E UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "08/06/2019 - 4:20 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.21668,
+    "longitude": -92.01881
+  },
+  {
     "address": "W CONGRESS ST & BROOKSIDE DR",
     "city": "LAFAYETTE",
     "time": "08/06/2019 - 4:14 PM",
@@ -19,7 +27,7 @@
     "address": "101 I10 WB ENTRANCE RAMP HW",
     "city": "LAFAYETTE",
     "time": "08/06/2019 - 4:11 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.26255,
     "longitude": -92.00867
   },
