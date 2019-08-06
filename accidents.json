@@ -1,19 +1,19 @@
 [
   {
+    "address": "E MAIN ST & POLK ST",
+    "city": "BROUSSARD",
+    "time": "08/06/2019 - 11:05 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14748,
+    "longitude": -91.961
+  },
+  {
     "address": "310 E MAIN ST",
     "city": "BROUSSARD",
     "time": "08/06/2019 - 11:02 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.14706,
     "longitude": -91.96151
-  },
-  {
-    "address": "FORTUNE RD & YOUNGSVILLE HW",
-    "city": "YOUNGSVILLE",
-    "time": "08/06/2019 - 10:57 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.12191,
-    "longitude": -91.99051
   },
   {
     "address": "S A ST & CAMERON ST",
