@@ -1,5 +1,21 @@
 [
   {
+    "address": "135 RANDOLPH DR",
+    "city": "LAFAYETTE",
+    "time": "08/06/2019 - 4:08 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.24332,
+    "longitude": -92.00325
+  },
+  {
+    "address": "510 DAIGLE ST",
+    "city": "LAFAYETTE",
+    "time": "08/06/2019 - 4:07 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26328,
+    "longitude": -92.00264
+  },
+  {
     "address": "W PINHOOK RD & BONIN RD",
     "city": "LAFAYETTE",
     "time": "08/06/2019 - 4:07 PM",
@@ -46,14 +62,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.26255,
     "longitude": -92.00867
-  },
-  {
-    "address": "SE EVANGELINE TW & SURREY ST",
-    "city": "LAFAYETTE",
-    "time": "08/06/2019 - 3:55 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2091,
-    "longitude": -91.99986
   },
   {
     "address": "99 I10 WESTBOUND MM99 HW",
