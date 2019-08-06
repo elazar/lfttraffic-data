@@ -1,5 +1,13 @@
 [
   {
+    "address": "MARTIN LUTHER KING JR DR & FITZGERALD ST",
+    "city": "LAFAYETTE",
+    "time": "08/05/2019 - 8:39 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.24948,
+    "longitude": -92.02398
+  },
+  {
     "address": "3003 DAULAT DR",
     "city": "DUSON",
     "time": "08/05/2019 - 8:23 PM",
