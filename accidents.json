@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & ERASTE LANDRY RD",
+    "city": "LAFAYETTE",
+    "time": "08/06/2019 - 4:12 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21912,
+    "longitude": -92.07587
+  },
+  {
     "address": "101 I10 WB ENTRANCE RAMP HW",
     "city": "LAFAYETTE",
     "time": "08/06/2019 - 4:11 PM",
@@ -62,14 +70,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.26255,
     "longitude": -92.00867
-  },
-  {
-    "address": "99 I10 WESTBOUND MM99 HW",
-    "city": "SCOTT",
-    "time": "08/06/2019 - 3:54 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24727,
-    "longitude": -92.09751
   },
   {
     "address": "JOHNSTON ST & RIDGE RD",
