@@ -1,5 +1,13 @@
 [
   {
+    "address": "231 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "08/06/2019 - 1:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24482,
+    "longitude": -92.01663
+  },
+  {
     "address": "110 AMBROISE ST",
     "city": "LAFAYETTE",
     "time": "08/06/2019 - 1:04 PM",
