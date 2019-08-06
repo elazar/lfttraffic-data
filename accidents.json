@@ -1,5 +1,29 @@
 [
   {
+    "address": "W TAFT ST & E UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "08/06/2019 - 3:54 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.21296,
+    "longitude": -92.01316
+  },
+  {
+    "address": "99 I10 WESTBOUND MM99 HW",
+    "city": "SCOTT",
+    "time": "08/06/2019 - 3:54 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24727,
+    "longitude": -92.09751
+  },
+  {
+    "address": "JOHNSTON ST & RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "08/06/2019 - 3:54 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.18136,
+    "longitude": -92.07126
+  },
+  {
     "address": "100 I10 WESTBOUND MM100 HW",
     "city": "LAFAYETTE",
     "time": "08/06/2019 - 3:51 PM",
