@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 I10 WESTBOUND MM100 HW",
+    "city": "LAFAYETTE",
+    "time": "08/06/2019 - 3:51 PM",
+    "due_to": "Hazardous Situation",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "E UNIVERSITY AV & MCKINLEY ST",
     "city": "LAFAYETTE",
     "time": "08/06/2019 - 3:50 PM",
