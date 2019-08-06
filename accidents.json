@@ -1,5 +1,13 @@
 [
   {
+    "address": "E SIMCOE ST & TWELFTH ST",
+    "city": "LAFAYETTE",
+    "time": "08/06/2019 - 3:20 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.2296,
+    "longitude": -91.99984
+  },
+  {
     "address": "5725 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/06/2019 - 3:18 PM",
