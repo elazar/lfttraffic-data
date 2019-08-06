@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "08/06/2019 - 11:37 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23332,
+    "longitude": -92.0137
+  },
+  {
     "address": "YOLANDE DR & BRENTWOOD BL",
     "city": "LAFAYETTE",
     "time": "08/06/2019 - 11:33 AM",
@@ -30,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.14706,
     "longitude": -91.96151
-  },
-  {
-    "address": "215 REPUBLIC AV",
-    "city": "LAFAYETTE",
-    "time": "08/06/2019 - 10:48 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15709,
-    "longitude": -92.03808
   }
 ]
