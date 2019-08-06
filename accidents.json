@@ -1,5 +1,13 @@
 [
   {
+    "address": "323 JEFFERSON ST",
+    "city": "LAFAYETTE",
+    "time": "08/06/2019 - 6:46 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22652,
+    "longitude": -92.01711
+  },
+  {
     "address": "3807 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/06/2019 - 6:13 PM",
