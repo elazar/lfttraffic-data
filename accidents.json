@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "08/06/2019 - 6:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18136,
+    "longitude": -92.07126
+  },
+  {
     "address": "418 MAGNOLIA KNEE DR",
     "city": "LAFAYETTE",
     "time": "08/06/2019 - 5:46 PM",
