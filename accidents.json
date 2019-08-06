@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "300 RAILROAD ST",
+    "city": "YOUNGSVILLE",
+    "time": "08/05/2019 - 11:09 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.0956763,
+    "longitude": -91.9991291
+  }
+]
