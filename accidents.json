@@ -1,5 +1,13 @@
 [
   {
+    "address": "5725 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/06/2019 - 3:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17353,
+    "longitude": -92.07732
+  },
+  {
     "address": "W THIRD ST & VINE ST",
     "city": "LAFAYETTE",
     "time": "08/06/2019 - 2:53 PM",
