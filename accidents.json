@@ -1,19 +1,19 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "08/06/2019 - 2:17 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15649,
+    "longitude": -92.04838
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/06/2019 - 2:10 PM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.17808,
     "longitude": -92.07452
-  },
-  {
-    "address": "231 W WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "08/06/2019 - 1:33 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24482,
-    "longitude": -92.01663
   },
   {
     "address": "110 AMBROISE ST",
