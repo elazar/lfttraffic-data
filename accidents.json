@@ -1,5 +1,13 @@
 [
   {
+    "address": "4100 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "08/05/2019 - 7:47 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.32929,
+    "longitude": -92.03445
+  },
+  {
     "address": "6100 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "08/05/2019 - 7:37 PM",
