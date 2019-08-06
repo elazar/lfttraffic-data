@@ -1,5 +1,21 @@
 [
   {
+    "address": "W PINHOOK RD & BONIN RD",
+    "city": "LAFAYETTE",
+    "time": "08/06/2019 - 4:07 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16412,
+    "longitude": -91.9959
+  },
+  {
+    "address": "RANDOLPH DR & GOVERNMENT ST",
+    "city": "LAFAYETTE",
+    "time": "08/06/2019 - 4:07 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.24309,
+    "longitude": -92.00337
+  },
+  {
     "address": "NW EVANGELINE TW & MUDD AV",
     "city": "LAFAYETTE",
     "time": "08/06/2019 - 4:05 PM",
