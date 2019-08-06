@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "2627 MILLS ST",
+    "city": "LAFAYETTE",
+    "time": "08/06/2019 - 07:44 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.28662,
+    "longitude": -92.09185
+  }
+]
