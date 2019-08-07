@@ -1,13 +1,5 @@
 [
   {
-    "address": "BERTRAND DR & BANKS AV",
-    "city": "LAFAYETTE",
-    "time": "08/07/2019 - 1:29 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.2271,
-    "longitude": -92.06076
-  },
-  {
     "address": "CAMELLIA BL & EASTLAND DR",
     "city": "LAFAYETTE",
     "time": "08/07/2019 - 1:18 PM",
@@ -15,14 +7,7 @@
     "latitude": 30.1918,
     "longitude": -92.05643
   },
-  {
-    "address": "2428 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "08/07/2019 - 1:16 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17846,
-    "longitude": -92.00551
-  },
+  null,
   {
     "address": "TENNESSEE ST & WEBB ST",
     "city": "LAFAYETTE",
