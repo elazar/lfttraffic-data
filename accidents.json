@@ -1,5 +1,21 @@
 [
   {
+    "address": "GUILBEAU RD & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "08/07/2019 - 1:57 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19826,
+    "longitude": -92.07007
+  },
+  {
+    "address": "200 CHEYENNE CL",
+    "city": "SCOTT",
+    "time": "08/07/2019 - 1:57 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.22573,
+    "longitude": -92.08879
+  },
+  {
     "address": "SE EVANGELINE TW & TWELFTH ST",
     "city": "LAFAYETTE",
     "time": "08/07/2019 - 1:55 PM",
@@ -30,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23841,
     "longitude": -92.00048
-  },
-  {
-    "address": "3916 NE EVANGELINE TW",
-    "city": "CARENCRO",
-    "time": "08/07/2019 - 12:59 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.32185,
-    "longitude": -92.03141
   },
   {
     "address": "LOUISIANA AV & SE EVANGELINE TW",
