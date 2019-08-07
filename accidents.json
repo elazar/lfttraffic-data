@@ -1,5 +1,13 @@
 [
   {
+    "address": "SE EVANGELINE TW & EIGHTH ST",
+    "city": "LAFAYETTE",
+    "time": "08/07/2019 - 5:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22572,
+    "longitude": -92.00991
+  },
+  {
     "address": "ERASTE LANDRY RD & FOREMAN DR",
     "city": "LAFAYETTE",
     "time": "08/07/2019 - 5:12 PM",
@@ -54,14 +62,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24341,
     "longitude": -92.00696
-  },
-  {
-    "address": "4700 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "08/07/2019 - 4:36 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1863897,
-    "longitude": -92.0663044
   },
   {
     "address": "500 ESPASIE DR",
