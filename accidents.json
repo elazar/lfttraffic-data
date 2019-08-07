@@ -1,5 +1,13 @@
 [
   {
+    "address": "ERASTE LANDRY RD & CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "08/07/2019 - 1:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23242,
+    "longitude": -92.03921
+  },
+  {
     "address": "3916 NE EVANGELINE TW",
     "city": "CARENCRO",
     "time": "08/07/2019 - 12:59 PM",
