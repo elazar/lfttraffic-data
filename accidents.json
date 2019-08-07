@@ -1,13 +1,5 @@
 [
   {
-    "address": "3909 MOSS ST",
-    "city": "LAFAYETTE",
-    "time": "08/07/2019 - 10:39 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.27933,
-    "longitude": -92.00816
-  },
-  {
     "address": "NOVA SCOTIA DR & MOSS ST",
     "city": "LAFAYETTE",
     "time": "08/07/2019 - 10:36 AM",
@@ -22,13 +14,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.15466,
     "longitude": -92.05015
-  },
-  {
-    "address": "601 SW EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "08/07/2019 - 10:11 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.22444,
-    "longitude": -92.00993
   }
 ]
