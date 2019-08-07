@@ -1,5 +1,13 @@
 [
   {
+    "address": "835 E MAIN ST",
+    "city": "BROUSSARD",
+    "time": "08/07/2019 - 12:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14752,
+    "longitude": -91.95203
+  },
+  {
     "address": "OLD CYPRESS DR & BIRCHVIEW DR",
     "city": "BROUSSARD",
     "time": "08/07/2019 - 12:13 PM",
@@ -38,14 +46,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.1873,
     "longitude": -92.07797
-  },
-  {
-    "address": "CAMELLIA BL & KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "08/07/2019 - 11:11 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.16717,
-    "longitude": -92.03642
   },
   {
     "address": "NOVA SCOTIA DR & MOSS ST",
