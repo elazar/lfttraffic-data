@@ -1,5 +1,21 @@
 [
   {
+    "address": "4700 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/07/2019 - 4:36 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1863897,
+    "longitude": -92.0663044
+  },
+  {
+    "address": "500 ESPASIE DR",
+    "city": "LAFAYETTE",
+    "time": "08/07/2019 - 4:36 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1000651,
+    "longitude": -92.07109
+  },
+  {
     "address": "257 AUSTRIA RD",
     "city": "DUSON",
     "time": "08/07/2019 - 4:05 PM",
