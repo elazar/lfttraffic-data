@@ -1,5 +1,21 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & CURRAN LN",
+    "city": "LAFAYETTE",
+    "time": "08/07/2019 - 11:23 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18845,
+    "longitude": -92.07506
+  },
+  {
+    "address": "3142 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "08/07/2019 - 11:23 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.1873,
+    "longitude": -92.07797
+  },
+  {
     "address": "221 VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "08/07/2019 - 11:20 AM",
