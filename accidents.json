@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21246,
     "longitude": -92.00861
-  },
-  {
-    "address": "918 LA MAISON RD",
-    "city": "LAFAYETTE",
-    "time": "08/07/2019 - 07:50 AM",
-    "due_to": "Vehicle Fire",
-    "latitude": 30.20386,
-    "longitude": -92.20197
   }
 ]
