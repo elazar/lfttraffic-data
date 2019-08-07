@@ -1,5 +1,13 @@
 [
   {
+    "address": "LA MAISON RD & RICELAND RD",
+    "city": "LAFAYETTE",
+    "time": "08/07/2019 - 07:50 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.2035,
+    "longitude": -92.20955
+  },
+  {
     "address": "JOHNSTON ST & W LEWIS ST",
     "city": "LAFAYETTE",
     "time": "08/07/2019 - 07:18 AM",
