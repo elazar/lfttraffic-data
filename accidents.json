@@ -1,5 +1,21 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & SETTLERS TRACE BL",
+    "city": "LAFAYETTE",
+    "time": "08/07/2019 - 2:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15969,
+    "longitude": -92.05229
+  },
+  {
+    "address": "906 CANBERRA RD",
+    "city": "LAFAYETTE",
+    "time": "08/07/2019 - 2:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15127,
+    "longitude": -92.07158
+  },
+  {
     "address": "3142 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/07/2019 - 2:16 PM",
@@ -22,14 +38,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.19826,
     "longitude": -92.07007
-  },
-  {
-    "address": "200 CHEYENNE CL",
-    "city": "SCOTT",
-    "time": "08/07/2019 - 1:57 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.22573,
-    "longitude": -92.08879
   },
   {
     "address": "SE EVANGELINE TW & TWELFTH ST",
