@@ -1,5 +1,13 @@
 [
   {
+    "address": "126 LEXINGTON DR",
+    "city": "DUSON",
+    "time": "08/06/2019 - 7:25 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25184,
+    "longitude": -92.19508
+  },
+  {
     "address": "109 CANTAL DR",
     "city": "LAFAYETTE",
     "time": "08/06/2019 - 7:12 PM",
