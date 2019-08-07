@@ -1,5 +1,13 @@
 [
   {
+    "address": "ERASTE LANDRY RD & FOREMAN DR",
+    "city": "LAFAYETTE",
+    "time": "08/07/2019 - 5:12 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2195,
+    "longitude": -92.06465
+  },
+  {
     "address": "1210 ALBERTSON PW",
     "city": "BROUSSARD",
     "time": "08/07/2019 - 5:10 PM",
