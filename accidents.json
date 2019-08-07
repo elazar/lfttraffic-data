@@ -1,5 +1,13 @@
 [
   {
+    "address": "2 BNSF RAILROAD CG",
+    "city": "BROUSSARD",
+    "time": "08/07/2019 - 11:26 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.14824,
+    "longitude": -91.96501
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & ROBLEY DR",
     "city": "LAFAYETTE",
     "time": "08/07/2019 - 11:26 AM",
