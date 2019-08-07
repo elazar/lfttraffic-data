@@ -1,5 +1,21 @@
 [
   {
+    "address": "3142 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "08/07/2019 - 2:16 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1873,
+    "longitude": -92.07797
+  },
+  {
+    "address": "700 HEIDE CL",
+    "city": "SCOTT",
+    "time": "08/07/2019 - 2:16 PM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.2597332,
+    "longitude": -92.0769749
+  },
+  {
     "address": "GUILBEAU RD & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "08/07/2019 - 1:57 PM",
