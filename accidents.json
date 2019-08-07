@@ -1,5 +1,21 @@
 [
   {
+    "address": "W GLORIA SWITCH RD & NW FRONTAGE RD",
+    "city": "LAFAYETTE",
+    "time": "08/07/2019 - 1:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29564,
+    "longitude": -92.02676
+  },
+  {
+    "address": "3241 NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "08/07/2019 - 1:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29434,
+    "longitude": -92.02616
+  },
+  {
     "address": "I49 NORTHBOUND MM3 HW & E GLORIA SWITCH RD",
     "city": "CARENCRO",
     "time": "08/07/2019 - 1:41 PM",
