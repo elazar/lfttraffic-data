@@ -1,5 +1,13 @@
 [
   {
+    "address": "2426 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "08/07/2019 - 12:10 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.21379,
+    "longitude": -92.04917
+  },
+  {
     "address": "LOUISIANA AV & SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "08/07/2019 - 12:02 PM",
