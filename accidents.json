@@ -1,5 +1,13 @@
 [
   {
+    "address": "221 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "08/07/2019 - 11:20 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.176,
+    "longitude": -92.00509
+  },
+  {
     "address": "1211 COOLIDGE ST",
     "city": "LAFAYETTE",
     "time": "08/07/2019 - 11:15 AM",
