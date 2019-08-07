@@ -1,5 +1,21 @@
 [
   {
+    "address": "1700 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "08/07/2019 - 11:39 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19317,
+    "longitude": -92.01633
+  },
+  {
+    "address": "LA RUE FRANCE & W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "08/07/2019 - 11:39 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19438,
+    "longitude": -92.01609
+  },
+  {
     "address": "2 BNSF RAILROAD CG",
     "city": "BROUSSARD",
     "time": "08/07/2019 - 11:26 AM",
@@ -22,14 +38,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.1873,
     "longitude": -92.07797
-  },
-  {
-    "address": "221 VEROT SCHOOL RD",
-    "city": "LAFAYETTE",
-    "time": "08/07/2019 - 11:20 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.176,
-    "longitude": -92.00509
   },
   {
     "address": "CAMELLIA BL & KALISTE SALOOM RD",
