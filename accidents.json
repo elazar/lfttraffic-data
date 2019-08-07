@@ -1,5 +1,13 @@
 [
   {
+    "address": "W GLORIA SWITCH RD & NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "08/06/2019 - 7:10 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.29564,
+    "longitude": -92.02676
+  },
+  {
     "address": "323 JEFFERSON ST",
     "city": "LAFAYETTE",
     "time": "08/06/2019 - 6:46 PM",
@@ -14,13 +22,5 @@
     "due_to": "Fire Investigation",
     "latitude": 30.17033,
     "longitude": -92.06431
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & ERASTE LANDRY RD",
-    "city": "LAFAYETTE",
-    "time": "08/06/2019 - 6:07 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.21912,
-    "longitude": -92.07587
   }
 ]
