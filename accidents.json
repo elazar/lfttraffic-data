@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & S RICHFIELD RD",
+    "city": "DUSON",
+    "time": "08/07/2019 - 3:43 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.23496,
+    "longitude": -92.17607
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & SETTLERS TRACE BL",
     "city": "LAFAYETTE",
     "time": "08/07/2019 - 2:33 PM",
