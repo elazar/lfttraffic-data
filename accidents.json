@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMELLIA BL & EASTLAND DR",
+    "city": "LAFAYETTE",
+    "time": "08/07/2019 - 1:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1918,
+    "longitude": -92.05643
+  },
+  {
     "address": "2428 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "08/07/2019 - 1:16 PM",
