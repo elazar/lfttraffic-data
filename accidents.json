@@ -1,5 +1,13 @@
 [
   {
+    "address": "TENNESSEE ST & WEBB ST",
+    "city": "LAFAYETTE",
+    "time": "08/07/2019 - 1:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23841,
+    "longitude": -92.00048
+  },
+  {
     "address": "S COLLEGE RD & W BAYOU PW",
     "city": "LAFAYETTE",
     "time": "08/07/2019 - 1:07 PM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22488,
     "longitude": -92.00947
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & ROBLEY DR",
-    "city": "LAFAYETTE",
-    "time": "08/07/2019 - 11:26 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.17117,
-    "longitude": -92.06617
   },
   {
     "address": "NOVA SCOTIA DR & MOSS ST",
