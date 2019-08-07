@@ -1,5 +1,21 @@
 [
   {
+    "address": "JOHNSTON ST & W LEWIS ST",
+    "city": "LAFAYETTE",
+    "time": "08/07/2019 - 07:18 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.21228,
+    "longitude": -92.02543
+  },
+  {
+    "address": "W LEWIS ST & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/07/2019 - 07:18 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21228,
+    "longitude": -92.02543
+  },
+  {
     "address": "200 W ST PETER ST",
     "city": "CARENCRO",
     "time": "08/07/2019 - 06:53 AM",
