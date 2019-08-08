@@ -1,18 +1,18 @@
 [
   {
-    "address": "W WILLOW ST & STATEN ST",
-    "city": "LAFAYETTE",
-    "time": "08/07/2019 - 8:40 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.24514,
-    "longitude": -92.02981
-  },
-  {
     "address": "CAMELLIA BL & VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "08/07/2019 - 8:39 PM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.16043,
     "longitude": -92.02256
+  },
+  {
+    "address": "W CONGRESS ST & GUILBEAU RD",
+    "city": "LAFAYETTE",
+    "time": "08/07/2019 - 7:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19826,
+    "longitude": -92.07007
   }
 ]
