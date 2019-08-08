@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 S JEFFERSON ST",
+    "city": "BROUSSARD",
+    "time": "08/07/2019 - 7:10 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.14636,
+    "longitude": -91.9676
+  },
+  {
     "address": "1935 MOSS ST",
     "city": "LAFAYETTE",
     "time": "08/07/2019 - 7:07 PM",
