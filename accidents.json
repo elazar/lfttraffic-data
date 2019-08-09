@@ -1,5 +1,13 @@
 [
   {
+    "address": "1100 NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "08/09/2019 - 6:56 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23748,
+    "longitude": -92.0131
+  },
+  {
     "address": "W PINHOOK RD & MARJORIE BL",
     "city": "LAFAYETTE",
     "time": "08/09/2019 - 6:54 PM",
@@ -62,13 +70,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.19597,
     "longitude": -92.07523
-  },
-  {
-    "address": "3809 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "08/09/2019 - 5:46 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.16998,
-    "longitude": -92.06374
   }
 ]
