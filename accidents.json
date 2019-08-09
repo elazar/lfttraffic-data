@@ -1,5 +1,13 @@
 [
   {
+    "address": "110 ELENORE ST",
+    "city": "LAFAYETTE",
+    "time": "08/09/2019 - 11:59 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.23749,
+    "longitude": -92.02061
+  },
+  {
     "address": "2200 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "08/09/2019 - 11:53 AM",
