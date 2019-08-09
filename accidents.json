@@ -1,5 +1,13 @@
 [
   {
+    "address": "3225 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "08/09/2019 - 2:46 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2657,
+    "longitude": -91.99574
+  },
+  {
     "address": "1800 CHEMIN METAIRIE PKWY",
     "city": "Lafayette",
     "time": "08/09/2019 - 2:42 PM",
