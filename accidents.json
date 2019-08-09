@@ -1,5 +1,13 @@
 [
   {
+    "address": "SOUTHPARK RD & US 90 EAST HW",
+    "city": "LAFAYETTE",
+    "time": "08/09/2019 - 08:13 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17092,
+    "longitude": -91.98031
+  },
+  {
     "address": "104 SORREL DR",
     "city": "LAFAYETTE",
     "time": "08/09/2019 - 07:54 AM",
