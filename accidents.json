@@ -1,5 +1,13 @@
 [
   {
+    "address": "99 I10 WESTBOUND MM99 HW",
+    "city": "SCOTT",
+    "time": "08/09/2019 - 3:16 PM",
+    "due_to": "Grass Fire",
+    "latitude": 30.24727,
+    "longitude": -92.09751
+  },
+  {
     "address": "3225 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "08/09/2019 - 2:46 PM",
