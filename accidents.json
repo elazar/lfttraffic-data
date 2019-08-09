@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMELLIA BL & KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "08/09/2019 - 11:15 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16717,
+    "longitude": -92.03642
+  },
+  {
     "address": "US 90 EAST HW & YOUNG ST",
     "city": "BROUSSARD",
     "time": "08/09/2019 - 11:05 AM",
