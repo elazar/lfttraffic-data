@@ -1,5 +1,13 @@
 [
   {
+    "address": "3205 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "08/09/2019 - 12:55 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26515,
+    "longitude": -91.99301
+  },
+  {
     "address": "DOUCET RD & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/09/2019 - 12:43 PM",
