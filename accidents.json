@@ -1,5 +1,13 @@
 [
   {
+    "address": "104 SORREL DR",
+    "city": "LAFAYETTE",
+    "time": "08/09/2019 - 07:54 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23325,
+    "longitude": -91.98184
+  },
+  {
     "address": "1675 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "08/09/2019 - 07:50 AM",
