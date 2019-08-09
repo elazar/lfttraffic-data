@@ -1,5 +1,13 @@
 [
   {
+    "address": "KALISTE SALOOM RD & LONG PLANTATION BL",
+    "city": "LAFAYETTE",
+    "time": "08/09/2019 - 2:43 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1687,
+    "longitude": -92.03433
+  },
+  {
     "address": "1800 CHEMIN METAIRIE PKWY",
     "city": "Lafayette",
     "time": "08/09/2019 - 2:42 PM",
