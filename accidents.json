@@ -1,5 +1,13 @@
 [
   {
+    "address": "S MORGAN AV & E MADISON ST",
+    "city": "BROUSSARD",
+    "time": "08/09/2019 - 5:34 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14706,
+    "longitude": -91.96443
+  },
+  {
     "address": "1 I49 SOUTHBOUND MM1 HW",
     "city": "LAFAYETTE",
     "time": "08/09/2019 - 4:53 PM",
