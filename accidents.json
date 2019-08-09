@@ -1,5 +1,13 @@
 [
   {
+    "address": "W UNIVERSITY AV & ST LANDRY ST",
+    "city": "LAFAYETTE",
+    "time": "08/09/2019 - 1:50 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.22067,
+    "longitude": -92.02351
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & BONAIRE DR",
     "city": "LAFAYETTE",
     "time": "08/09/2019 - 1:28 PM",
