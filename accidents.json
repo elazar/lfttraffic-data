@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "08/09/2019 - 6:38 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24052,
+    "longitude": -92.03242
+  },
+  {
     "address": "4 I49 NORTHBOUND MM4 HW",
     "city": "LAFAYETTE",
     "time": "08/09/2019 - 6:23 PM",
