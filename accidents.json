@@ -1,5 +1,13 @@
 [
   {
+    "address": "123 LA 89 HW",
+    "city": "LAFAYETTE",
+    "time": "08/09/2019 - 10:15 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.16739,
+    "longitude": -91.98277
+  },
+  {
     "address": "1300 SW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "08/09/2019 - 10:06 AM",
