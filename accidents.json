@@ -1,5 +1,13 @@
 [
   {
+    "address": "I10 EASTBOUND MM100 HW & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "08/09/2019 - 3:12 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.21504,
+    "longitude": -92.07579
+  },
+  {
     "address": "3225 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "08/09/2019 - 2:46 PM",
