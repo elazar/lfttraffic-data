@@ -1,5 +1,13 @@
 [
   {
+    "address": "425 BLACKWATER RIVER DR",
+    "city": "LAFAYETTE",
+    "time": "08/09/2019 - 5:49 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.118,
+    "longitude": -92.05495
+  },
+  {
     "address": "3809 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/09/2019 - 5:46 PM",
@@ -22,13 +30,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.28006,
     "longitude": -92.02024
-  },
-  {
-    "address": "1851 KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "08/09/2019 - 4:25 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1680285,
-    "longitude": -92.0350114
   }
 ]
