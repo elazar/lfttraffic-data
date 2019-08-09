@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & YOUNG ST",
+    "city": "BROUSSARD",
+    "time": "08/09/2019 - 11:05 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.10187,
+    "longitude": -91.94194
+  },
+  {
     "address": "800 E GLORIA SWITCH RD",
     "city": "LAFAYETTE",
     "time": "08/09/2019 - 10:22 AM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.16681,
     "longitude": -92.06088
-  },
-  {
-    "address": "123 LA 89 HW",
-    "city": "LAFAYETTE",
-    "time": "08/09/2019 - 10:15 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.16739,
-    "longitude": -91.98277
   },
   {
     "address": "1300 SW EVANGELINE TW",
