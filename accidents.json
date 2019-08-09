@@ -1,5 +1,13 @@
 [
   {
+    "address": "701 S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "08/09/2019 - 3:21 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2031,
+    "longitude": -92.03159
+  },
+  {
     "address": "99 I10 WESTBOUND MM99 HW",
     "city": "SCOTT",
     "time": "08/09/2019 - 3:16 PM",
