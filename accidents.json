@@ -1,5 +1,13 @@
 [
   {
+    "address": "4 I49 NORTHBOUND MM4 HW",
+    "city": "LAFAYETTE",
+    "time": "08/09/2019 - 6:23 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.28006,
+    "longitude": -92.02024
+  },
+  {
     "address": "3903 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/09/2019 - 6:01 PM",
@@ -30,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16998,
     "longitude": -92.06374
-  },
-  {
-    "address": "S MORGAN AV & E MADISON ST",
-    "city": "BROUSSARD",
-    "time": "08/09/2019 - 5:34 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.14706,
-    "longitude": -91.96443
   }
 ]
