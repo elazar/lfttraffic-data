@@ -1,5 +1,13 @@
 [
   {
+    "address": "RIDGE RD & RUE DU BELIER",
+    "city": "LAFAYETTE",
+    "time": "08/09/2019 - 07:55 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19636,
+    "longitude": -92.09204
+  },
+  {
     "address": "104 SORREL DR",
     "city": "LAFAYETTE",
     "time": "08/09/2019 - 07:54 AM",
