@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 E KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "08/09/2019 - 9:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18852,
+    "longitude": -92.01347
+  },
+  {
     "address": "CHEMIN METAIRIE PW & DETENTE RD",
     "city": "YOUNGSVILLE",
     "time": "08/09/2019 - 8:38 PM",
