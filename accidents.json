@@ -1,5 +1,13 @@
 [
   {
+    "address": "JEFFERSON ST & GARFIELD ST",
+    "city": "LAFAYETTE",
+    "time": "08/10/2019 - 02:17 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2266,
+    "longitude": -92.01743
+  },
+  {
     "address": "323 JEFFERSON ST",
     "city": "LAFAYETTE",
     "time": "08/10/2019 - 02:15 AM",
