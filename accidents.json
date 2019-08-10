@@ -6,13 +6,5 @@
     "due_to": "Fire Alarm-Residential",
     "latitude": 30.21925,
     "longitude": -92.00101
-  },
-  {
-    "address": "1225 CARMEL DR",
-    "city": "LAFAYETTE",
-    "time": "08/10/2019 - 09:18 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23385,
-    "longitude": -91.99115
   }
 ]
