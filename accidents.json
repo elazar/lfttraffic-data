@@ -1,5 +1,13 @@
 [
   {
+    "address": "E WILLOW ST & NORTHGATE DR",
+    "city": "LAFAYETTE",
+    "time": "08/10/2019 - 3:38 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24432,
+    "longitude": -92.01014
+  },
+  {
     "address": "MEADOW FARM RD & OLD CAMP RD",
     "city": "LAFAYETTE",
     "time": "08/10/2019 - 3:26 PM",
