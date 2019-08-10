@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "300 FAILLA RD",
+    "city": "LAFAYETTE",
+    "time": "08/10/2019 - 6:46 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.151607,
+    "longitude": -92.0199509
+  }
+]
