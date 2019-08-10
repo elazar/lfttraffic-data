@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 WILBOURN BL",
+    "city": "LAFAYETTE",
+    "time": "08/10/2019 - 12:25 PM",
+    "due_to": "Hazard",
+    "latitude": 30.2081851,
+    "longitude": -92.0747799
+  },
+  {
     "address": "VETERANS DR & NW FRONTAGE RD",
     "city": "CARENCRO",
     "time": "08/10/2019 - 12:24 PM",
