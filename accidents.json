@@ -1,5 +1,13 @@
 [
   {
+    "address": "5600 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/10/2019 - 2:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1778133,
+    "longitude": -92.0751405
+  },
+  {
     "address": "JOHNSTON ST & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/10/2019 - 2:05 PM",
