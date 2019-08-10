@@ -1,5 +1,13 @@
 [
   {
+    "address": "ST ESPRIT RD & COMMUNITY RD",
+    "city": "LAFAYETTE",
+    "time": "08/09/2019 - 10:30 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.34127,
+    "longitude": -92.0175
+  },
+  {
     "address": "705 BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "08/09/2019 - 9:27 PM",
