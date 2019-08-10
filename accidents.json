@@ -1,5 +1,13 @@
 [
   {
+    "address": "DULLES DR & LUKE ST",
+    "city": "LAFAYETTE",
+    "time": "08/10/2019 - 04:13 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21822,
+    "longitude": -92.05791
+  },
+  {
     "address": "100 GARFIELD ST",
     "city": "LAFAYETTE",
     "time": "08/10/2019 - 02:15 AM",
