@@ -1,5 +1,13 @@
 [
   {
+    "address": "320 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "08/10/2019 - 6:55 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24548,
+    "longitude": -92.01833
+  },
+  {
     "address": "300 FAILLA RD",
     "city": "LAFAYETTE",
     "time": "08/10/2019 - 6:46 PM",
