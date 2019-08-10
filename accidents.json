@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 MALAPART RD",
+    "city": "LAFAYETTE",
+    "time": "08/10/2019 - 3:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2955,
+    "longitude": -92.05524
+  },
+  {
     "address": "1200 CARMEL DR",
     "city": "LAFAYETTE",
     "time": "08/10/2019 - 3:41 PM",
