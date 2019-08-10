@@ -16,14 +16,6 @@
     "longitude": -92.01336
   },
   {
-    "address": "915 JENKINS RD",
-    "city": "LAFAYETTE",
-    "time": "08/10/2019 - 3:55 PM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.2257,
-    "longitude": -92.1288
-  },
-  {
     "address": "300 MALAPART RD",
     "city": "LAFAYETTE",
     "time": "08/10/2019 - 3:52 PM",
@@ -46,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24432,
     "longitude": -92.01014
-  },
-  {
-    "address": "MEADOW FARM RD & OLD CAMP RD",
-    "city": "LAFAYETTE",
-    "time": "08/10/2019 - 3:26 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15389,
-    "longitude": -92.04168
   }
 ]
