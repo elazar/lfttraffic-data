@@ -1,5 +1,13 @@
 [
   {
+    "address": "705 BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "08/09/2019 - 9:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21355,
+    "longitude": -92.0477
+  },
+  {
     "address": "100 E KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "08/09/2019 - 9:02 PM",
