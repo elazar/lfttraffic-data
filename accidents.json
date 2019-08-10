@@ -1,18 +1,18 @@
 [
   {
+    "address": "1409 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "08/10/2019 - 11:27 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.244,
+    "longitude": -92.03923
+  },
+  {
     "address": "103 S MANNERING AV",
     "city": "LAFAYETTE",
     "time": "08/10/2019 - 11:26 AM",
-    "due_to": "Incoming Call",
+    "due_to": "Residential Fire",
     "latitude": 30.18293,
     "longitude": -92.02755
-  },
-  {
-    "address": "7004 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "08/10/2019 - 10:54 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.14028,
-    "longitude": -92.10286
   }
 ]
