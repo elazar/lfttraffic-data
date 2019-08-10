@@ -1,5 +1,13 @@
 [
   {
+    "address": "323 JEFFERSON ST",
+    "city": "LAFAYETTE",
+    "time": "08/10/2019 - 02:15 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22652,
+    "longitude": -92.01711
+  },
+  {
     "address": "1200 ROBLEY DR",
     "city": "LAFAYETTE",
     "time": "08/10/2019 - 02:13 AM",
