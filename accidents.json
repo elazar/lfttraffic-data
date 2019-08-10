@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "233 JOHN WAYNE DR",
+    "city": "LAFAYETTE",
+    "time": "08/10/2019 - 01:38 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1745,
+    "longitude": -92.02029
+  }
+]
