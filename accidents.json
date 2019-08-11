@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24221,
     "longitude": -92.19304
-  },
-  {
-    "address": "100 W BLUEBIRD DR",
-    "city": "LAFAYETTE",
-    "time": "08/11/2019 - 12:52 PM",
-    "due_to": "Grass Fire",
-    "latitude": 30.15625,
-    "longitude": -92.03097
   }
 ]
