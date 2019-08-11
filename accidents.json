@@ -1,5 +1,13 @@
 [
   {
+    "address": "AUSTRIA RD & I10 MM93 HW",
+    "city": "DUSON",
+    "time": "08/11/2019 - 1:08 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24221,
+    "longitude": -92.19304
+  },
+  {
     "address": "1331 JEFFERSON ST",
     "city": "LAFAYETTE",
     "time": "08/11/2019 - 1:04 PM",
