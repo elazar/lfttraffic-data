@@ -1,5 +1,13 @@
 [
   {
+    "address": "102 BOTTES AV",
+    "city": "YOUNGSVILLE",
+    "time": "08/10/2019 - 8:44 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.09962,
+    "longitude": -91.99056
+  },
+  {
     "address": "635 CAJUNDOME BL",
     "city": "LAFAYETTE",
     "time": "08/10/2019 - 8:41 PM",
