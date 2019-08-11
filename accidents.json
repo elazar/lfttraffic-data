@@ -1,5 +1,13 @@
 [
   {
+    "address": "204 ENERGY PW",
+    "city": "LAFAYETTE",
+    "time": "08/10/2019 - 10:35 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.17939,
+    "longitude": -92.01123
+  },
+  {
     "address": "W WILLOW ST & N ST ANTOINE ST",
     "city": "LAFAYETTE",
     "time": "08/10/2019 - 10:15 PM",
