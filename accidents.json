@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "W WILLOW ST & N ST ANTOINE ST",
+    "city": "LAFAYETTE",
+    "time": "08/10/2019 - 10:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24558,
+    "longitude": -92.02342
+  }
+]
