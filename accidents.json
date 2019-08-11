@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 MCKINLEY ST",
+    "city": "LAFAYETTE",
+    "time": "08/10/2019 - 8:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21569,
+    "longitude": -92.01429
+  },
+  {
     "address": "102 BOTTES AV",
     "city": "YOUNGSVILLE",
     "time": "08/10/2019 - 8:44 PM",
