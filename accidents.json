@@ -1,21 +1,5 @@
 [
   {
-    "address": "W UNIVERSITY AV & JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "08/10/2019 - 7:05 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.21729,
-    "longitude": -92.01902
-  },
-  {
-    "address": "200 BLAZER DR",
-    "city": "SCOTT",
-    "time": "08/10/2019 - 7:00 PM",
-    "due_to": "Trash Fire",
-    "latitude": 30.2148256,
-    "longitude": -92.1072788
-  },
-  {
     "address": "320 W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "08/10/2019 - 6:55 PM",
