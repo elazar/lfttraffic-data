@@ -1,5 +1,13 @@
 [
   {
+    "address": "1331 JEFFERSON ST",
+    "city": "LAFAYETTE",
+    "time": "08/11/2019 - 1:04 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.21851,
+    "longitude": -92.01451
+  },
+  {
     "address": "100 W BLUEBIRD DR",
     "city": "LAFAYETTE",
     "time": "08/11/2019 - 12:52 PM",
