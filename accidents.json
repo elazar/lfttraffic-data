@@ -1,5 +1,13 @@
 [
   {
+    "address": "107 CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "08/11/2019 - 4:48 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23468,
+    "longitude": -92.00219
+  },
+  {
     "address": "DUHON RD & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/11/2019 - 4:42 PM",
