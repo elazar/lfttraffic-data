@@ -1,5 +1,21 @@
 [
   {
+    "address": "SETTLERS TRACE BL & BEAULLIEU DR",
+    "city": "LAFAYETTE",
+    "time": "08/11/2019 - 1:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16393,
+    "longitude": -92.04666
+  },
+  {
+    "address": "109 BISMARK DR",
+    "city": "BROUSSARD",
+    "time": "08/11/2019 - 1:20 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.16389,
+    "longitude": -91.95888
+  },
+  {
     "address": "AUSTRIA RD & I10 MM93 HW",
     "city": "DUSON",
     "time": "08/11/2019 - 1:08 PM",
