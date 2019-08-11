@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "I10 EASTBOUND MM105 HW & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "08/11/2019 - 06:48 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27944,
+    "longitude": -91.99217
+  }
+]
