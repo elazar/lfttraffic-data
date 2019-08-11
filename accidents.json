@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "106 OIL CENTER DR",
+    "city": "LAFAYETTE",
+    "time": "08/11/2019 - 09:18 AM",
+    "due_to": "Commercial Fire",
+    "latitude": 30.20593,
+    "longitude": -92.01285
+  }
+]
