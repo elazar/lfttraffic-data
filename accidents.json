@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & E ST MARY BL",
+    "city": "LAFAYETTE",
+    "time": "08/11/2019 - 3:51 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21449,
+    "longitude": -92.02175
+  },
+  {
     "address": "N AMBASSADOR CAFFERY PW & RENAUD DR",
     "city": "SCOTT",
     "time": "08/11/2019 - 3:34 PM",
