@@ -1,5 +1,13 @@
 [
   {
+    "address": "812 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "08/10/2019 - 9:17 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23943,
+    "longitude": -92.03187
+  },
+  {
     "address": "300 MCKINLEY ST",
     "city": "LAFAYETTE",
     "time": "08/10/2019 - 8:52 PM",
