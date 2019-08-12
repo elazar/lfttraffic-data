@@ -1,5 +1,13 @@
 [
   {
+    "address": "615 LA 93 HW",
+    "city": "SCOTT",
+    "time": "08/12/2019 - 1:47 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2609,
+    "longitude": -92.1087
+  },
+  {
     "address": "TUCKER DR & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/12/2019 - 1:22 PM",
