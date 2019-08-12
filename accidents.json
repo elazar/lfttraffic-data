@@ -1,5 +1,13 @@
 [
   {
+    "address": "6136 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/12/2019 - 2:53 PM",
+    "due_to": "Hazard",
+    "latitude": 30.1657,
+    "longitude": -92.08478
+  },
+  {
     "address": "300 SOUVENIR GATE",
     "city": "LAFAYETTE",
     "time": "08/12/2019 - 2:51 PM",
