@@ -1,5 +1,13 @@
 [
   {
+    "address": "110 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "08/12/2019 - 08:05 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17718,
+    "longitude": -92.00401
+  },
+  {
     "address": "101 I10 WB ENTRANCE RAMP HW",
     "city": "LAFAYETTE",
     "time": "08/12/2019 - 08:00 AM",
