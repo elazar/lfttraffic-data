@@ -16,28 +16,12 @@
     "longitude": -92.02081
   },
   {
-    "address": "6136 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "08/12/2019 - 2:53 PM",
-    "due_to": "Hazard",
-    "latitude": 30.1657,
-    "longitude": -92.08478
-  },
-  {
     "address": "320 DEVALCOURT ST",
     "city": "LAFAYETTE",
     "time": "08/12/2019 - 2:42 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.21678,
     "longitude": -92.0549
-  },
-  {
-    "address": "600 GUILBEAU RD",
-    "city": "CARENCRO",
-    "time": "08/12/2019 - 2:31 PM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.319481,
-    "longitude": -92.0364874
   },
   {
     "address": "700 OLD SPANISH TL",
