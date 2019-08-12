@@ -1,5 +1,13 @@
 [
   {
+    "address": "900 E UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "08/12/2019 - 4:51 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.211,
+    "longitude": -92.01165
+  },
+  {
     "address": "KALISTE SALOOM RD & S BEADLE RD",
     "city": "LAFAYETTE",
     "time": "08/12/2019 - 4:43 PM",
