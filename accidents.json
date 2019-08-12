@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 TERMINAL DR",
+    "city": "LAFAYETTE",
+    "time": "08/12/2019 - 10:20 AM",
+    "due_to": "Fire",
+    "latitude": 30.20814,
+    "longitude": -91.99326
+  },
+  {
     "address": "US 90 EAST HW & YOUNG ST",
     "city": "BROUSSARD",
     "time": "08/12/2019 - 10:07 AM",
