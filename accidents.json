@@ -1,5 +1,13 @@
 [
   {
+    "address": "129 LIONS CLUB RD",
+    "city": "SCOTT",
+    "time": "08/12/2019 - 5:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2368482,
+    "longitude": -92.0986321
+  },
+  {
     "address": "1300 LAJAUNIE RD",
     "city": "LAFAYETTE",
     "time": "08/12/2019 - 5:01 PM",
