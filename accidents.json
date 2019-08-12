@@ -1,5 +1,13 @@
 [
   {
+    "address": "913 LA 93 HW",
+    "city": "LAFAYETTE",
+    "time": "08/11/2019 - 8:30 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.26573,
+    "longitude": -92.11452
+  },
+  {
     "address": "W CONGRESS ST & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/11/2019 - 7:43 PM",
