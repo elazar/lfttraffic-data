@@ -22,13 +22,5 @@
     "due_to": "Vehicle Fire",
     "latitude": 30.23252,
     "longitude": -92.10248
-  },
-  {
-    "address": "E SIMCOE ST & N CHESTNUT ST",
-    "city": "LAFAYETTE",
-    "time": "08/12/2019 - 11:54 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23116,
-    "longitude": -92.01496
   }
 ]
