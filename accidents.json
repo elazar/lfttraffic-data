@@ -1,5 +1,13 @@
 [
   {
+    "address": "118 SIGMA DR",
+    "city": "LAFAYETTE",
+    "time": "08/12/2019 - 3:32 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.21536,
+    "longitude": -92.06616
+  },
+  {
     "address": "1200 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/12/2019 - 3:30 PM",
