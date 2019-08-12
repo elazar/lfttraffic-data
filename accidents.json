@@ -1,5 +1,13 @@
 [
   {
+    "address": "SE EVANGELINE TW & SEVENTH ST",
+    "city": "LAFAYETTE",
+    "time": "08/12/2019 - 08:55 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.22654,
+    "longitude": -92.01035
+  },
+  {
     "address": "CAMBRIDGE DR & WAKEFIELD DR",
     "city": "LAFAYETTE",
     "time": "08/12/2019 - 08:18 AM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.26255,
     "longitude": -92.00867
-  },
-  {
-    "address": "S COLLEGE RD & MARKET PL",
-    "city": "LAFAYETTE",
-    "time": "08/12/2019 - 07:57 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19008,
-    "longitude": -92.00386
   }
 ]
