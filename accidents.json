@@ -1,5 +1,13 @@
 [
   {
+    "address": "101 I10 WB ENTRANCE RAMP HW",
+    "city": "LAFAYETTE",
+    "time": "08/12/2019 - 08:00 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "S COLLEGE RD & MARKET PL",
     "city": "LAFAYETTE",
     "time": "08/12/2019 - 07:57 AM",
