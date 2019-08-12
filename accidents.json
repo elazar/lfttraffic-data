@@ -1,5 +1,13 @@
 [
   {
+    "address": "E UNIVERSITY AV & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/12/2019 - 3:30 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21729,
+    "longitude": -92.01902
+  },
+  {
     "address": "SW EVANGELINE TW & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/12/2019 - 3:28 PM",
