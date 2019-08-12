@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 SOUVENIR GATE",
+    "city": "LAFAYETTE",
+    "time": "08/12/2019 - 2:51 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2230778,
+    "longitude": -92.0280331
+  },
+  {
     "address": "1800 CHEMIN METAIRIE PKY",
     "city": "Lafayette",
     "time": "08/12/2019 - 2:49 PM",
