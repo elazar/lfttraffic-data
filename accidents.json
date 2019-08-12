@@ -1,5 +1,13 @@
 [
   {
+    "address": "VETERANS DR & N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "08/12/2019 - 06:30 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.32335,
+    "longitude": -92.04954
+  },
+  {
     "address": "N UNIVERSITY AV & VETERANS DR",
     "city": "CARENCRO",
     "time": "08/12/2019 - 06:29 AM",
