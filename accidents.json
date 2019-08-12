@@ -1,5 +1,13 @@
 [
   {
+    "address": "TERRACE OAK LN & LA 96 HW",
+    "city": "BROUSSARD",
+    "time": "08/12/2019 - 07:23 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.12943,
+    "longitude": -91.92662
+  },
+  {
     "address": "1522 CARMEL DR",
     "city": "LAFAYETTE",
     "time": "08/12/2019 - 07:21 AM",
