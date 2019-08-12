@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "08/12/2019 - 2:16 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.2261,
+    "longitude": -92.02828
+  },
+  {
     "address": "105 I10 EASTBOUND MM105 HW",
     "city": "LAFAYETTE",
     "time": "08/12/2019 - 2:15 PM",
