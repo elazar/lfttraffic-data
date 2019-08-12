@@ -1,18 +1,18 @@
 [
   {
-    "address": "SE EVANGELINE TW & SEVENTH ST",
-    "city": "LAFAYETTE",
-    "time": "08/12/2019 - 08:55 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.22654,
-    "longitude": -92.01035
-  },
-  {
     "address": "CAMBRIDGE DR & WAKEFIELD DR",
     "city": "LAFAYETTE",
     "time": "08/12/2019 - 08:18 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.18819,
     "longitude": -92.05547
+  },
+  {
+    "address": "100 MONTRACHET PW",
+    "city": "LAFAYETTE",
+    "time": "08/12/2019 - 07:32 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1322,
+    "longitude": -92.08371
   }
 ]
