@@ -1,5 +1,13 @@
 [
   {
+    "address": "E SIMCOE ST & N CHESTNUT ST",
+    "city": "LAFAYETTE",
+    "time": "08/12/2019 - 11:54 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23116,
+    "longitude": -92.01496
+  },
+  {
     "address": "3806 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/12/2019 - 11:38 AM",
