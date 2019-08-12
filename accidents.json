@@ -1,5 +1,21 @@
 [
   {
+    "address": "320 DEVALCOURT ST",
+    "city": "LAFAYETTE",
+    "time": "08/12/2019 - 09:40 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21678,
+    "longitude": -92.0549
+  },
+  {
+    "address": "YOUNG ST & MARTEAU RD",
+    "city": "LAFAYETTE",
+    "time": "08/12/2019 - 09:40 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.10184,
+    "longitude": -91.95675
+  },
+  {
     "address": "100 MONTRACHET PW",
     "city": "LAFAYETTE",
     "time": "08/12/2019 - 07:32 AM",
