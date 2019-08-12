@@ -1,5 +1,13 @@
 [
   {
+    "address": "ROGER RD & DUGAS RD",
+    "city": "SCOTT",
+    "time": "08/12/2019 - 06:57 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.28324,
+    "longitude": -92.08316
+  },
+  {
     "address": "N UNIVERSITY AV & VETERANS DR",
     "city": "CARENCRO",
     "time": "08/12/2019 - 06:29 AM",
