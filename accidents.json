@@ -1,5 +1,13 @@
 [
   {
+    "address": "5900 CAMERON ST",
+    "city": "SCOTT",
+    "time": "08/12/2019 - 2:57 PM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.23376,
+    "longitude": -92.09547
+  },
+  {
     "address": "6136 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/12/2019 - 2:53 PM",
