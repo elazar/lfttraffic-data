@@ -1,5 +1,13 @@
 [
   {
+    "address": "W TAFT ST & E UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "08/12/2019 - 2:32 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.21296,
+    "longitude": -92.01316
+  },
+  {
     "address": "600 GUILBEAU RD",
     "city": "CARENCRO",
     "time": "08/12/2019 - 2:31 PM",
