@@ -1,5 +1,13 @@
 [
   {
+    "address": "2801 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/13/2019 - 11:37 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20624,
+    "longitude": -92.03877
+  },
+  {
     "address": "700 CANBERRA RD",
     "city": "LAFAYETTE",
     "time": "08/13/2019 - 11:18 AM",
