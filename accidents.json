@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & POYDRAS ST",
+    "city": "LAFAYETTE",
+    "time": "08/13/2019 - 5:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23215,
+    "longitude": -92.02707
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "08/13/2019 - 5:21 PM",
