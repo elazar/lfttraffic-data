@@ -1,5 +1,13 @@
 [
   {
+    "address": "4311 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "08/13/2019 - 6:21 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.28759,
+    "longitude": -92.00717
+  },
+  {
     "address": "219 ST NAZAIRE RD",
     "city": "BROUSSARD",
     "time": "08/13/2019 - 6:05 PM",
@@ -24,12 +32,12 @@
     "longitude": -92.12503
   },
   {
-    "address": "E BROUSSARD RD & KALISTE SALOOM RD",
+    "address": "800 E BROUSSARD RD",
     "city": "LAFAYETTE",
     "time": "08/13/2019 - 5:46 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.13792,
-    "longitude": -92.06754
+    "latitude": 30.13937,
+    "longitude": -92.07505
   },
   {
     "address": "AMBASSADOR CAFFERY PW & WALKER RD",
