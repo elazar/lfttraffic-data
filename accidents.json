@@ -1,5 +1,13 @@
 [
   {
+    "address": "6801 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/13/2019 - 5:54 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15001,
+    "longitude": -92.0935
+  },
+  {
     "address": "100 CARENCRO BLUFF DR",
     "city": "LAFAYETTE",
     "time": "08/13/2019 - 5:52 PM",
