@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1505 CHEMIN AGREABLE",
+    "city": "LAFAYETTE",
+    "time": "08/12/2019 - 8:17 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.06518,
+    "longitude": -92.0375
+  }
+]
