@@ -1,21 +1,5 @@
 [
   {
-    "address": "SW EVANGELINE TW & E VEROT SCHOOL RD",
-    "city": "LAFAYETTE",
-    "time": "08/13/2019 - 1:54 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.18268,
-    "longitude": -91.99006
-  },
-  {
-    "address": "RIDGE RD & BRUMLEY LN",
-    "city": "LAFAYETTE",
-    "time": "08/13/2019 - 1:11 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18345,
-    "longitude": -92.12986
-  },
-  {
     "address": "700 CANBERRA RD",
     "city": "LAFAYETTE",
     "time": "08/13/2019 - 11:18 AM",
