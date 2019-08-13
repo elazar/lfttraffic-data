@@ -1,5 +1,13 @@
 [
   {
+    "address": "328 STEVENSON ST",
+    "city": "LAFAYETTE",
+    "time": "08/13/2019 - 08:22 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21606,
+    "longitude": -92.01629
+  },
+  {
     "address": "100 W BLUEBIRD DR",
     "city": "LAFAYETTE",
     "time": "08/13/2019 - 08:02 AM",
