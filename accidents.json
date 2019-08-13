@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "100 KAREN DR",
+    "city": "LAFAYETTE",
+    "time": "08/13/2019 - 04:43 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1970176,
+    "longitude": -92.0564351
+  }
+]
