@@ -1,5 +1,13 @@
 [
   {
+    "address": "VEROT SCHOOL RD & VINCENT RD",
+    "city": "LAFAYETTE",
+    "time": "08/13/2019 - 6:29 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13809,
+    "longitude": -92.03254
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & RIDGE RD",
     "city": "LAFAYETTE",
     "time": "08/13/2019 - 6:25 PM",
@@ -38,14 +46,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.2955,
     "longitude": -92.02362
-  },
-  {
-    "address": "BOPAMO LN & LAGNEAUX RD",
-    "city": "LAFAYETTE",
-    "time": "08/13/2019 - 5:46 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19381,
-    "longitude": -92.12503
   },
   {
     "address": "800 E BROUSSARD RD",
