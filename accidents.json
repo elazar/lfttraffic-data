@@ -1,5 +1,13 @@
 [
   {
+    "address": "4600 MOSS ST",
+    "city": "CARENCRO",
+    "time": "08/13/2019 - 07:05 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.29505,
+    "longitude": -92.0068
+  },
+  {
     "address": "110 REX ST",
     "city": "LAFAYETTE",
     "time": "08/13/2019 - 07:02 AM",
