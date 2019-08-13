@@ -1,5 +1,13 @@
 [
   {
+    "address": "DULLES DR & N DOMINGUE AV",
+    "city": "LAFAYETTE",
+    "time": "08/13/2019 - 05:55 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21055,
+    "longitude": -92.08376
+  },
+  {
     "address": "110 REX ST",
     "city": "LAFAYETTE",
     "time": "08/13/2019 - 05:53 AM",
