@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & BENDEL RD",
+    "city": "LAFAYETTE",
+    "time": "08/13/2019 - 2:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19911,
+    "longitude": -92.01641
+  },
+  {
     "address": "700 CANBERRA RD",
     "city": "LAFAYETTE",
     "time": "08/13/2019 - 11:18 AM",
