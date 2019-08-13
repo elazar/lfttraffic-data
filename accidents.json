@@ -1,13 +1,5 @@
 [
   {
-    "address": "1200 ERASTE LANDRY RD",
-    "city": "LAFAYETTE",
-    "time": "08/13/2019 - 11:31 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2239679,
-    "longitude": -92.0570018
-  },
-  {
     "address": "700 CANBERRA RD",
     "city": "LAFAYETTE",
     "time": "08/13/2019 - 11:18 AM",
@@ -38,13 +30,5 @@
     "due_to": "Wire Hazard",
     "latitude": 30.18123,
     "longitude": -92.02706
-  },
-  {
-    "address": "1214 COOLIDGE ST",
-    "city": "LAFAYETTE",
-    "time": "08/13/2019 - 10:19 AM",
-    "due_to": "Commercial Fire",
-    "latitude": 30.2025101,
-    "longitude": -92.0186946
   }
 ]
