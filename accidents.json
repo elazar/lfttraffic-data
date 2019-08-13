@@ -1,5 +1,13 @@
 [
   {
+    "address": "NW FRONTAGE RD & MARTIN LUTHER KING JR DR",
+    "city": "LAFAYETTE",
+    "time": "08/13/2019 - 11:06 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24806,
+    "longitude": -92.01355
+  },
+  {
     "address": "118 N LOCKSLEY DR",
     "city": "LAFAYETTE",
     "time": "08/13/2019 - 10:37 AM",
