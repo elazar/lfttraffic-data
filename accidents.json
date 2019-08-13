@@ -1,5 +1,13 @@
 [
   {
+    "address": "WESTMARK BL & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/13/2019 - 12:41 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1824,
+    "longitude": -92.07019
+  },
+  {
     "address": "W BAYOU PW & S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "08/13/2019 - 12:33 PM",
