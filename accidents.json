@@ -1,5 +1,13 @@
 [
   {
+    "address": "3 I49 NORTHBOUND MM3 HW",
+    "city": "CARENCRO",
+    "time": "08/13/2019 - 6:31 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.31396,
+    "longitude": -92.03118
+  },
+  {
     "address": "VEROT SCHOOL RD & VINCENT RD",
     "city": "LAFAYETTE",
     "time": "08/13/2019 - 6:29 PM",
@@ -46,14 +54,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.2955,
     "longitude": -92.02362
-  },
-  {
-    "address": "800 E BROUSSARD RD",
-    "city": "LAFAYETTE",
-    "time": "08/13/2019 - 5:46 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.13937,
-    "longitude": -92.07505
   },
   {
     "address": "AMBASSADOR CAFFERY PW & WALKER RD",
