@@ -1,5 +1,13 @@
 [
   {
+    "address": "110 REX ST",
+    "city": "LAFAYETTE",
+    "time": "08/13/2019 - 07:02 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.21296,
+    "longitude": -92.02124
+  },
+  {
     "address": "1521 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "08/13/2019 - 06:59 AM",
