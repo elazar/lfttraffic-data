@@ -1,5 +1,21 @@
 [
   {
+    "address": "3200 W GLORIA SWITCH RD",
+    "city": "LAFAYETTE",
+    "time": "08/13/2019 - 6:23 PM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.2982448,
+    "longitude": -92.1171432
+  },
+  {
+    "address": "MOSS ST & ESSEN DR",
+    "city": "LAFAYETTE",
+    "time": "08/13/2019 - 6:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.28781,
+    "longitude": -92.00669
+  },
+  {
     "address": "4311 MOSS ST",
     "city": "LAFAYETTE",
     "time": "08/13/2019 - 6:21 PM",
