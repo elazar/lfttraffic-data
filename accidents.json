@@ -1,5 +1,13 @@
 [
   {
+    "address": "1522 CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "08/13/2019 - 07:13 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.23215,
+    "longitude": -91.98358
+  },
+  {
     "address": "110 REX ST",
     "city": "LAFAYETTE",
     "time": "08/13/2019 - 07:02 AM",
