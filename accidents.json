@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "E MILTON AV & GAMIN RD",
+    "city": "LAFAYETTE",
+    "time": "08/13/2019 - 09:36 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.10921,
+    "longitude": -92.04926
+  }
+]
