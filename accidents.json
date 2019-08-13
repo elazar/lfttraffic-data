@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & N SOUTHPARK RD",
+    "city": "LAFAYETTE",
+    "time": "08/13/2019 - 11:16 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17092,
+    "longitude": -91.98031
+  },
+  {
     "address": "NW FRONTAGE RD & MARTIN LUTHER KING JR DR",
     "city": "LAFAYETTE",
     "time": "08/13/2019 - 11:06 AM",
