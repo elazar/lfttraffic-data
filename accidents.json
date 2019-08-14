@@ -1,5 +1,13 @@
 [
   {
+    "address": "APOLLO RD & CAMERON ST",
+    "city": "SCOTT",
+    "time": "08/14/2019 - 3:21 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.23485,
+    "longitude": -92.10742
+  },
+  {
     "address": "200 SONNIER RD",
     "city": "LAFAYETTE",
     "time": "08/14/2019 - 3:14 PM",
