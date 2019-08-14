@@ -1,18 +1,18 @@
 [
   {
-    "address": "1209 ALBERTSON PW",
-    "city": "BROUSSARD",
-    "time": "08/14/2019 - 5:32 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.14141,
-    "longitude": -91.94768
-  },
-  {
     "address": "6900 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/14/2019 - 5:05 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.14493,
     "longitude": -92.09982
+  },
+  {
+    "address": "2974 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/14/2019 - 4:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20483,
+    "longitude": -92.04344
   }
 ]
