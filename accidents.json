@@ -1,5 +1,13 @@
 [
   {
+    "address": "1700 SAVOY RD",
+    "city": "LAFAYETTE",
+    "time": "08/13/2019 - 7:09 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.0947849,
+    "longitude": -92.0451896
+  },
+  {
     "address": "KALISTE SALOOM RD & N BEADLE RD",
     "city": "LAFAYETTE",
     "time": "08/13/2019 - 7:02 PM",
