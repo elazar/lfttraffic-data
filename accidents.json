@@ -11,7 +11,7 @@
     "address": "200 SONNIER RD",
     "city": "LAFAYETTE",
     "time": "08/14/2019 - 3:14 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Stalled Vehicle",
     "latitude": 30.31745,
     "longitude": -92.02023
   },
@@ -38,14 +38,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.24482,
     "longitude": -92.01663
-  },
-  {
-    "address": "MIMOSA PL & W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "08/14/2019 - 2:22 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.20349,
-    "longitude": -92.06233
   },
   {
     "address": "1810 KALISTE SALOOM RD",
