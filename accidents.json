@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "JOHNSTON ST & TWIN OAKS BL",
+    "city": "LAFAYETTE",
+    "time": "08/14/2019 - 09:11 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20919,
+    "longitude": -92.0338
+  }
+]
