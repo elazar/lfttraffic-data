@@ -1,5 +1,13 @@
 [
   {
+    "address": "804 MARTIN LUTHER KING JR DR",
+    "city": "LAFAYETTE",
+    "time": "08/14/2019 - 12:45 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.24849,
+    "longitude": -92.02399
+  },
+  {
     "address": "JOHNSTON ST & STEWART ST",
     "city": "LAFAYETTE",
     "time": "08/14/2019 - 12:31 PM",
