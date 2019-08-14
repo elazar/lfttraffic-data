@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 AUSTRIA RD",
+    "city": "DUSON",
+    "time": "08/14/2019 - 2:54 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2430953,
+    "longitude": -92.1931749
+  },
+  {
     "address": "313 MARILYN DR",
     "city": "LAFAYETTE",
     "time": "08/14/2019 - 2:50 PM",
