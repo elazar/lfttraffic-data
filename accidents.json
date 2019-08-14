@@ -1,5 +1,13 @@
 [
   {
+    "address": "TWELFTH ST & E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "08/14/2019 - 2:29 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.2296,
+    "longitude": -91.99984
+  },
+  {
     "address": "NW FRONTAGE RD & W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "08/14/2019 - 2:26 PM",
@@ -54,14 +62,6 @@
     "due_to": "Fire Investigation",
     "latitude": 30.23141,
     "longitude": -92.0877
-  },
-  {
-    "address": "112 OATS DR",
-    "city": "LAFAYETTE",
-    "time": "08/14/2019 - 2:13 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.1426905,
-    "longitude": -92.0719811
   },
   {
     "address": "121 EMILY CL",
