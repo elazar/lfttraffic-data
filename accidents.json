@@ -46,13 +46,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.1382149,
     "longitude": -92.0328217
-  },
-  {
-    "address": "411 ROW 3",
-    "city": "LAFAYETTE",
-    "time": "08/13/2019 - 4:32 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.16358,
-    "longitude": -91.99973
   }
 ]
