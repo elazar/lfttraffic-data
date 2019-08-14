@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 E DEVALCOURT ST",
+    "city": "LAFAYETTE",
+    "time": "08/14/2019 - 09:24 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.21942,
+    "longitude": -92.04692
+  },
+  {
     "address": "118 HUNDRED OAKS DR",
     "city": "YOUNGSVILLE",
     "time": "08/14/2019 - 09:21 AM",
@@ -24,11 +32,11 @@
     "longitude": -92.05287
   },
   {
-    "address": "JOHNSTON ST & TWIN OAKS BL",
+    "address": "100 CAJUNDOME BL",
     "city": "LAFAYETTE",
     "time": "08/14/2019 - 09:11 AM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.20919,
-    "longitude": -92.0338
+    "latitude": 30.2093391,
+    "longitude": -92.0335682
   }
 ]
