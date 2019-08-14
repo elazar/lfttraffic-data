@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & STEWART ST",
+    "city": "LAFAYETTE",
+    "time": "08/14/2019 - 12:31 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.22125,
+    "longitude": -92.01646
+  },
+  {
     "address": "2426 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "08/14/2019 - 12:27 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22488,
     "longitude": -92.00947
-  },
-  {
-    "address": "FATIMA",
-    "city": "Lafayette",
-    "time": "08/14/2019 - 11:37 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.33931,
-    "longitude": -92.07066
   },
   {
     "address": "W PINHOOK RD & KALISTE SALOOM RD",
