@@ -1,5 +1,13 @@
 [
   {
+    "address": "1633 ST MARY ST",
+    "city": "SCOTT",
+    "time": "08/14/2019 - 6:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24204,
+    "longitude": -92.10393
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & YOUNGSVILLE HW",
     "city": "BROUSSARD",
     "time": "08/14/2019 - 6:20 PM",
