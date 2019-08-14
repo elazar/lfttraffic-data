@@ -2,6 +2,14 @@
   {
     "address": "247 N COLLEGE RD",
     "city": "LAFAYETTE",
+    "time": "08/14/2019 - 08:17 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21096,
+    "longitude": -92.04278
+  },
+  {
+    "address": "247 N COLLEGE RD",
+    "city": "LAFAYETTE",
     "time": "08/14/2019 - 08:05 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.21096,
