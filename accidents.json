@@ -56,14 +56,6 @@
     "longitude": -92.01931
   },
   {
-    "address": "202 WESTGATE RD",
-    "city": "SCOTT",
-    "time": "08/14/2019 - 2:13 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.23141,
-    "longitude": -92.0877
-  },
-  {
     "address": "121 EMILY CL",
     "city": "LAFAYETTE",
     "time": "08/14/2019 - 2:10 PM",
@@ -94,13 +86,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.25629,
     "longitude": -92.00796
-  },
-  {
-    "address": "3851 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "08/14/2019 - 1:00 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1992872,
-    "longitude": -92.0553708
   }
 ]
