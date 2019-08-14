@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 ROSELAWN BL",
+    "city": "LAFAYETTE",
+    "time": "08/14/2019 - 1:44 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.19147,
+    "longitude": -92.0422
+  },
+  {
     "address": "ROBLEY DR & BROADMOOR BL",
     "city": "LAFAYETTE",
     "time": "08/14/2019 - 1:41 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.26998,
     "longitude": -92.00847
-  },
-  {
-    "address": "1300 SE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "08/14/2019 - 1:15 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.21883,
-    "longitude": -92.00579
   },
   {
     "address": "300 W ALEXANDER ST",
