@@ -1,5 +1,21 @@
 [
   {
+    "address": "201 OATS DR",
+    "city": "LAFAYETTE",
+    "time": "08/14/2019 - 2:15 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.14248,
+    "longitude": -92.07178
+  },
+  {
+    "address": "101 GENTRY CL",
+    "city": "LAFAYETTE",
+    "time": "08/14/2019 - 2:14 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.15696,
+    "longitude": -92.01931
+  },
+  {
     "address": "202 WESTGATE RD",
     "city": "SCOTT",
     "time": "08/14/2019 - 2:13 PM",
