@@ -1,5 +1,13 @@
 [
   {
+    "address": "2974 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/14/2019 - 4:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20483,
+    "longitude": -92.04344
+  },
+  {
     "address": "US 90 EAST HW & ST NAZAIRE RD",
     "city": "BROUSSARD",
     "time": "08/14/2019 - 4:15 PM",
