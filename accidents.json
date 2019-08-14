@@ -1,5 +1,13 @@
 [
   {
+    "address": "FATIMA",
+    "city": "Lafayette",
+    "time": "08/14/2019 - 11:37 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.33931,
+    "longitude": -92.07066
+  },
+  {
     "address": "W PINHOOK RD & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "08/14/2019 - 11:25 AM",
