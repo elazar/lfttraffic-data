@@ -1,5 +1,13 @@
 [
   {
+    "address": "ADELE DR & KAREN DR",
+    "city": "LAFAYETTE",
+    "time": "08/14/2019 - 1:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19058,
+    "longitude": -92.04821
+  },
+  {
     "address": "3902 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/14/2019 - 1:00 PM",
