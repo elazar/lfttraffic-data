@@ -1,5 +1,13 @@
 [
   {
+    "address": "PLUM ST & TWELFTH ST",
+    "city": "LAFAYETTE",
+    "time": "08/14/2019 - 3:06 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.22285,
+    "longitude": -92.00732
+  },
+  {
     "address": "MILLS ST & I10 HW",
     "city": "SCOTT",
     "time": "08/14/2019 - 2:58 PM",
