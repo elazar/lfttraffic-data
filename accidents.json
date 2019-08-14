@@ -1,11 +1,11 @@
 [
   {
-    "address": "AMBASSADOR CAFFERY PW & KALISTE SALOOM RD",
+    "address": "1313 VEROT SCHOOL RD (SE)",
     "city": "LAFAYETTE",
-    "time": "08/14/2019 - 2:17 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.15649,
-    "longitude": -92.04838
+    "time": "08/14/2019 - 2:19 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.16867,
+    "longitude": -92.01879
   },
   {
     "address": "1810 KALISTE SALOOM RD",
@@ -78,14 +78,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.13792,
     "longitude": -92.06754
-  },
-  {
-    "address": "102 ST JUDE ST",
-    "city": "LAFAYETTE",
-    "time": "08/14/2019 - 1:57 PM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.25294,
-    "longitude": -92.05724
   },
   {
     "address": "600 ROSELAWN BL",
