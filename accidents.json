@@ -32,14 +32,6 @@
     "longitude": -92.03037
   },
   {
-    "address": "5601 US 90 EAST HW",
-    "city": "BROUSSARD",
-    "time": "08/14/2019 - 4:44 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1172658,
-    "longitude": -91.9431503
-  },
-  {
     "address": "VETERINARIAN RD & W PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "08/14/2019 - 4:17 PM",
@@ -54,13 +46,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20483,
     "longitude": -92.04344
-  },
-  {
-    "address": "CHEMIN METAIRIE PW & GUILLIOT RD",
-    "city": "YOUNGSVILLE",
-    "time": "08/14/2019 - 3:47 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.09013,
-    "longitude": -92.00377
   }
 ]
