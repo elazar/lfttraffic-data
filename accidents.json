@@ -1,5 +1,13 @@
 [
   {
+    "address": "320 HIBOU RD",
+    "city": "LAFAYETTE",
+    "time": "08/13/2019 - 7:54 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.31582,
+    "longitude": -92.10962
+  },
+  {
     "address": "1000 RENAUD DR",
     "city": "LAFAYETTE",
     "time": "08/13/2019 - 7:44 PM",
