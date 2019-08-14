@@ -1,5 +1,13 @@
 [
   {
+    "address": "907 S STERLING ST",
+    "city": "LAFAYETTE",
+    "time": "08/14/2019 - 3:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22435,
+    "longitude": -92.00283
+  },
+  {
     "address": "APOLLO RD & CAMERON ST",
     "city": "SCOTT",
     "time": "08/14/2019 - 3:21 PM",
