@@ -2,6 +2,22 @@
   {
     "address": "AMBASSADOR CAFFERY PW & W CONGRESS ST",
     "city": "LAFAYETTE",
+    "time": "08/13/2019 - 9:41 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19597,
+    "longitude": -92.07523
+  },
+  {
+    "address": "AMBASSADOR CAFFERY PW & ERASTE LANDRY RD",
+    "city": "LAFAYETTE",
+    "time": "08/13/2019 - 9:41 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21912,
+    "longitude": -92.07587
+  },
+  {
+    "address": "AMBASSADOR CAFFERY PW & W CONGRESS ST",
+    "city": "LAFAYETTE",
     "time": "08/13/2019 - 9:27 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.19597,
