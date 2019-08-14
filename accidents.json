@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 SONNIER RD",
+    "city": "LAFAYETTE",
+    "time": "08/14/2019 - 3:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.31745,
+    "longitude": -92.02023
+  },
+  {
     "address": "PLUM ST & TWELFTH ST",
     "city": "LAFAYETTE",
     "time": "08/14/2019 - 3:06 PM",
