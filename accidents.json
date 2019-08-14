@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1200 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "08/14/2019 - 06:58 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.246211,
+    "longitude": -92.0334572
+  }
+]
