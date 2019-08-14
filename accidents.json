@@ -1,5 +1,13 @@
 [
   {
+    "address": "4530 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "08/14/2019 - 09:52 AM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.2937,
+    "longitude": -92.0067
+  },
+  {
     "address": "207 OAK GLEN DR",
     "city": "LAFAYETTE",
     "time": "08/14/2019 - 09:14 AM",
