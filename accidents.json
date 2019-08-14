@@ -1,5 +1,13 @@
 [
   {
+    "address": "APOLLO RD & ST MARY ST",
+    "city": "SCOTT",
+    "time": "08/14/2019 - 08:04 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.24428,
+    "longitude": -92.10699
+  },
+  {
     "address": "4400 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/14/2019 - 07:56 AM",
