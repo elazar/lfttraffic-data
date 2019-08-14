@@ -1,5 +1,21 @@
 [
   {
+    "address": "202 WESTGATE RD",
+    "city": "SCOTT",
+    "time": "08/14/2019 - 2:13 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.23141,
+    "longitude": -92.0877
+  },
+  {
+    "address": "112 OATS DR",
+    "city": "LAFAYETTE",
+    "time": "08/14/2019 - 2:13 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.1426905,
+    "longitude": -92.0719811
+  },
+  {
     "address": "121 EMILY CL",
     "city": "LAFAYETTE",
     "time": "08/14/2019 - 2:10 PM",
