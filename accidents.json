@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "4400 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "08/14/2019 - 10:20 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15712,
+    "longitude": -92.05125
+  }
+]
