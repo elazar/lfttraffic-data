@@ -1,5 +1,13 @@
 [
   {
+    "address": "ROBLEY DR & BROADMOOR BL",
+    "city": "LAFAYETTE",
+    "time": "08/14/2019 - 1:41 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17441,
+    "longitude": -92.06263
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & DULLES DR",
     "city": "LAFAYETTE",
     "time": "08/14/2019 - 1:30 PM",
