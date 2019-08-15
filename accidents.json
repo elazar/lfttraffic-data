@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & SOUTHPARK RD",
+    "city": "LAFAYETTE",
+    "time": "08/15/2019 - 12:09 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16071,
+    "longitude": -91.99107
+  },
+  {
     "address": "WESTMARK BL & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/15/2019 - 11:59 AM",
