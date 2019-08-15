@@ -1,5 +1,13 @@
 [
   {
+    "address": "E UNIVERSITY AV & GORDON ST",
+    "city": "LAFAYETTE",
+    "time": "08/15/2019 - 12:56 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21625,
+    "longitude": -92.0176
+  },
+  {
     "address": "315 ST CHARLES ST",
     "city": "LAFAYETTE",
     "time": "08/14/2019 - 10:10 PM",
