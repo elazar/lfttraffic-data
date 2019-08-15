@@ -1,5 +1,13 @@
 [
   {
+    "address": "1522 CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "08/15/2019 - 07:21 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.23215,
+    "longitude": -91.98358
+  },
+  {
     "address": "JOHNSTON ST & DUHON RD",
     "city": "LAFAYETTE",
     "time": "08/15/2019 - 07:18 AM",
@@ -24,12 +32,12 @@
     "longitude": -92.00515
   },
   {
-    "address": "601 TEE MA",
-    "city": "Lafayette",
+    "address": "301 TEE MA RD",
+    "city": "CARENCRO",
     "time": "08/15/2019 - 07:16 AM",
     "due_to": "Traffic Control",
-    "latitude": 30.31601,
-    "longitude": -92.04121
+    "latitude": 30.3185981,
+    "longitude": -92.042121
   },
   {
     "address": "302 W MAIN ST",
