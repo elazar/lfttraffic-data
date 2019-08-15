@@ -8,27 +8,11 @@
     "longitude": -92.07019
   },
   {
-    "address": "AMBASSADOR CAFFERY PW & VEROT SCHOOL RD",
-    "city": "LAFAYETTE",
-    "time": "08/15/2019 - 11:49 AM",
-    "due_to": "Hazard",
-    "latitude": 30.14589,
-    "longitude": -92.03252
-  },
-  {
     "address": "3806 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/15/2019 - 11:44 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.17072,
     "longitude": -92.06613
-  },
-  {
-    "address": "1339 SE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "08/15/2019 - 11:03 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.2183317,
-    "longitude": -92.0053739
   }
 ]
