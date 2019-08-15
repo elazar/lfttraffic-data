@@ -1,5 +1,13 @@
 [
   {
+    "address": "4301 N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "08/15/2019 - 07:42 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.31664,
+    "longitude": -92.05142
+  },
+  {
     "address": "YOUNG ST & US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "08/15/2019 - 07:28 AM",
@@ -38,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.09053,
     "longitude": -92.00515
-  },
-  {
-    "address": "301 TEE MA RD",
-    "city": "CARENCRO",
-    "time": "08/15/2019 - 07:16 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.3185981,
-    "longitude": -92.042121
   },
   {
     "address": "302 W MAIN ST",
