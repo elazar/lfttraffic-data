@@ -1,5 +1,13 @@
 [
   {
+    "address": "601 TEE MA",
+    "city": "Lafayette",
+    "time": "08/15/2019 - 07:16 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.31601,
+    "longitude": -92.04121
+  },
+  {
     "address": "302 W MAIN ST",
     "city": "BROUSSARD",
     "time": "08/15/2019 - 07:14 AM",
@@ -14,14 +22,6 @@
     "due_to": "Traffic Control",
     "latitude": 30.1163251,
     "longitude": -91.9564899
-  },
-  {
-    "address": "721 W BUTCHER SWITCH RD",
-    "city": "CARENCRO",
-    "time": "08/15/2019 - 06:30 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.28706,
-    "longitude": -92.04099
   },
   {
     "address": "RENA DR & JOHNSTON DR",
