@@ -1,9 +1,17 @@
 [
   {
+    "address": "I10 EB EXIT RAMP HW & NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "08/15/2019 - 02:31 AM",
+    "due_to": "Grass Fire",
+    "latitude": 30.24339,
+    "longitude": -92.0133
+  },
+  {
     "address": "NW EVANGELINE TW & CHALMETTE DR",
     "city": "LAFAYETTE",
     "time": "08/15/2019 - 02:28 AM",
-    "due_to": "Incoming Call",
+    "due_to": "Vehicle Fire",
     "latitude": 30.25191,
     "longitude": -92.01425
   }
