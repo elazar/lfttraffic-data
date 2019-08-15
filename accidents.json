@@ -1,5 +1,13 @@
 [
   {
+    "address": "203 DORCHESTER ST",
+    "city": "LAFAYETTE",
+    "time": "08/14/2019 - 8:48 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20346,
+    "longitude": -92.10019
+  },
+  {
     "address": "E KALISTE SALOOM RD & SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "08/14/2019 - 8:26 PM",
