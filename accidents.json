@@ -1,5 +1,13 @@
 [
   {
+    "address": "315 ST CHARLES ST",
+    "city": "LAFAYETTE",
+    "time": "08/14/2019 - 10:10 PM",
+    "due_to": "Vehicle Fire",
+    "latitude": 30.22804,
+    "longitude": -92.00634
+  },
+  {
     "address": "KALISTE SALOOM RD & PECK BL",
     "city": "LAFAYETTE",
     "time": "08/14/2019 - 9:30 PM",
