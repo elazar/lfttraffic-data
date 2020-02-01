@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 DELAHOUSSAYE DR",
+    "city": "LAFAYETTE",
+    "time": "02/01/2020 - 5:56 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.25007,
+    "longitude": -92.02731
+  },
+  {
     "address": "2405 CAMERON ST",
     "city": "LAFAYETTE",
     "time": "02/01/2020 - 5:51 PM",
