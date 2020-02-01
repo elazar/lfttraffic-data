@@ -18,6 +18,14 @@
   {
     "address": "5622 JOHNSTON ST",
     "city": "LAFAYETTE",
+    "time": "02/01/2020 - 3:34 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.17764,
+    "longitude": -92.07526
+  },
+  {
+    "address": "5622 JOHNSTON ST",
+    "city": "LAFAYETTE",
     "time": "02/01/2020 - 3:15 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.17764,
