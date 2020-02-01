@@ -1,5 +1,13 @@
 [
   {
+    "address": "630 BROTHERS RD",
+    "city": "LAFAYETTE",
+    "time": "02/01/2020 - 3:35 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2723049,
+    "longitude": -92.0574951
+  },
+  {
     "address": "NE EVANGELINE TW & E THIRD ST",
     "city": "LAFAYETTE",
     "time": "02/01/2020 - 3:32 PM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22065,
     "longitude": -92.00121
-  },
-  {
-    "address": "W CONGRESS ST & BERTRAND DR",
-    "city": "LAFAYETTE",
-    "time": "02/01/2020 - 1:53 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21493,
-    "longitude": -92.04696
   },
   {
     "address": "3480 NW EVANGELINE TW",
