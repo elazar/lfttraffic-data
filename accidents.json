@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "02/01/2020 - 1:53 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21493,
+    "longitude": -92.04696
+  },
+  {
     "address": "3480 NW EVANGELINE TW",
     "city": "CARENCRO",
     "time": "02/01/2020 - 12:07 PM",
