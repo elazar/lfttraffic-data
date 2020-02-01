@@ -1,5 +1,13 @@
 [
   {
+    "address": "3225 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "02/01/2020 - 2:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2657,
+    "longitude": -91.99574
+  },
+  {
     "address": "NW EVANGELINE TW & DONLON AV",
     "city": "LAFAYETTE",
     "time": "02/01/2020 - 2:41 PM",
