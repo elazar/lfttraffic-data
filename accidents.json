@@ -1,5 +1,13 @@
 [
   {
+    "address": "2405 CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "02/01/2020 - 5:51 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23209,
+    "longitude": -92.04458
+  },
+  {
     "address": "100 NEVADA ST",
     "city": "LAFAYETTE",
     "time": "02/01/2020 - 5:26 PM",
