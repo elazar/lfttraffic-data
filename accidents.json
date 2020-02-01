@@ -1,5 +1,13 @@
 [
   {
+    "address": "BUICK ST & CADILLAC ST",
+    "city": "LAFAYETTE",
+    "time": "02/01/2020 - 11:58 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25438,
+    "longitude": -92.00463
+  },
+  {
     "address": "MARTIN LUTHER KING JR DR & PATTERSON ST",
     "city": "LAFAYETTE",
     "time": "02/01/2020 - 11:50 AM",
