@@ -1,5 +1,13 @@
 [
   {
+    "address": "MARTIN LUTHER KING JR DR & PATTERSON ST",
+    "city": "LAFAYETTE",
+    "time": "02/01/2020 - 11:50 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24889,
+    "longitude": -92.02044
+  },
+  {
     "address": "2900 E MILTON AV",
     "city": "YOUNGSVILLE",
     "time": "02/01/2020 - 11:43 AM",
