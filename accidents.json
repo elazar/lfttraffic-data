@@ -1,11 +1,11 @@
 [
   {
-    "address": "3480 NE EVANGELINE TW",
+    "address": "3480 NW EVANGELINE TW",
     "city": "CARENCRO",
     "time": "02/01/2020 - 12:07 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.30598,
-    "longitude": -92.02768
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.3056818,
+    "longitude": -92.0290572
   },
   {
     "address": "BUICK ST & CADILLAC ST",
