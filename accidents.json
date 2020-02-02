@@ -1,5 +1,13 @@
 [
   {
+    "address": "JEFFERSON ST & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "02/02/2020 - 09:25 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.2201,
+    "longitude": -92.0172
+  },
+  {
     "address": "CAMERON ST & ALFRED ST",
     "city": "SCOTT",
     "time": "02/02/2020 - 08:58 AM",
