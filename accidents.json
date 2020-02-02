@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & WESTWOOD DR",
+    "city": "LAFAYETTE",
+    "time": "02/02/2020 - 12:21 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21097,
+    "longitude": -92.05124
+  },
+  {
     "address": "RIDGE RD & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "02/02/2020 - 12:11 PM",
