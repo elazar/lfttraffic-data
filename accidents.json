@@ -1,5 +1,13 @@
 [
   {
+    "address": "416 W ST JOSEPH ST",
+    "city": "LAFAYETTE",
+    "time": "02/02/2020 - 12:37 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.22881,
+    "longitude": -92.03712
+  },
+  {
     "address": "1512 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "02/02/2020 - 12:31 PM",
