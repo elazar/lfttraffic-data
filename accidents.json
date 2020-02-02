@@ -1,5 +1,13 @@
 [
   {
+    "address": "NORMAN DR & JUPITER DR",
+    "city": "LAFAYETTE",
+    "time": "02/02/2020 - 5:18 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.2478,
+    "longitude": -91.99445
+  },
+  {
     "address": "SIMON RD & GALLET RD",
     "city": "LAFAYETTE",
     "time": "02/02/2020 - 5:10 PM",
