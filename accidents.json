@@ -22,13 +22,5 @@
     "due_to": "Traffic Control",
     "latitude": 30.09752,
     "longitude": -91.9907
-  },
-  {
-    "address": "200 DESTINATION POINTE LN",
-    "city": "SCOTT",
-    "time": "02/02/2020 - 10:58 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2512,
-    "longitude": -92.10951
   }
 ]
