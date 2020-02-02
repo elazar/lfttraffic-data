@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & PREJEAN RD",
+    "city": "CARENCRO",
+    "time": "02/01/2020 - 6:18 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.30943,
+    "longitude": -92.04946
+  },
+  {
     "address": "2405 CAMERON ST",
     "city": "LAFAYETTE",
     "time": "02/01/2020 - 5:51 PM",
