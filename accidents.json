@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "02/01/2020 - 8:58 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.17808,
+    "longitude": -92.07452
+  },
+  {
     "address": "3500 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "02/01/2020 - 8:52 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18563,
     "longitude": -92.07544
-  },
-  {
-    "address": "2317 KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "02/01/2020 - 8:34 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15935,
-    "longitude": -92.04489
   },
   {
     "address": "3550 AMBASSADOR CAFFERY PW",
