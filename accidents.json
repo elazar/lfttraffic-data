@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMELLIA BL & KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "02/02/2020 - 11:32 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.16717,
+    "longitude": -92.03642
+  },
+  {
     "address": "200 DESTINATION POINTE LN",
     "city": "SCOTT",
     "time": "02/02/2020 - 10:58 AM",
