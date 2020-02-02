@@ -1,5 +1,21 @@
 [
   {
+    "address": "1207 GALLET RD",
+    "city": "LAFAYETTE",
+    "time": "02/02/2020 - 3:02 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.08117,
+    "longitude": -92.05244
+  },
+  {
+    "address": "1701 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "02/02/2020 - 3:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25216,
+    "longitude": -92.03842
+  },
+  {
     "address": "413 LAGNEAUX RD",
     "city": "LAFAYETTE",
     "time": "02/02/2020 - 2:33 PM",
