@@ -1,5 +1,13 @@
 [
   {
+    "address": "3800 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "02/02/2020 - 5:56 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2021179,
+    "longitude": -92.0645847
+  },
+  {
     "address": "MOSS ST & CLAUDIA DR",
     "city": "LAFAYETTE",
     "time": "02/02/2020 - 5:49 PM",
