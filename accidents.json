@@ -1,5 +1,13 @@
 [
   {
+    "address": "302 WEST MAIN",
+    "city": "Lafayette",
+    "time": "02/02/2020 - 07:59 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.2230449,
+    "longitude": -92.0209788
+  },
+  {
     "address": "6000 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "02/02/2020 - 07:24 AM",
