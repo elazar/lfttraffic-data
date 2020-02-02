@@ -1,5 +1,13 @@
 [
   {
+    "address": "S COLLEGE RD & HEYMANN BL",
+    "city": "LAFAYETTE",
+    "time": "02/02/2020 - 11:49 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.2018,
+    "longitude": -92.01689
+  },
+  {
     "address": "201 CHURCH ST",
     "city": "YOUNGSVILLE",
     "time": "02/02/2020 - 11:44 AM",
