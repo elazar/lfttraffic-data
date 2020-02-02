@@ -1,5 +1,13 @@
 [
   {
+    "address": "RIDGE RD & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "02/02/2020 - 12:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21504,
+    "longitude": -92.07579
+  },
+  {
     "address": "302 WEST MAIN",
     "city": "Lafayette",
     "time": "02/02/2020 - 11:52 AM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.2018,
     "longitude": -92.01689
-  },
-  {
-    "address": "201 CHURCH ST",
-    "city": "YOUNGSVILLE",
-    "time": "02/02/2020 - 11:44 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.09752,
-    "longitude": -91.9907
   }
 ]
