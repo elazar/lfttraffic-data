@@ -2,6 +2,14 @@
   {
     "address": "JOHNSTON ST & DUHON RD",
     "city": "LAFAYETTE",
+    "time": "02/01/2020 - 7:57 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.16617,
+    "longitude": -92.08326
+  },
+  {
+    "address": "JOHNSTON ST & DUHON RD",
+    "city": "LAFAYETTE",
     "time": "02/01/2020 - 7:45 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.16617,
