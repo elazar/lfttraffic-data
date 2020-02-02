@@ -14,13 +14,5 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.2201,
     "longitude": -92.0172
-  },
-  {
-    "address": "CAMERON ST & ALFRED ST",
-    "city": "SCOTT",
-    "time": "02/02/2020 - 08:58 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.23357,
-    "longitude": -92.09381
   }
 ]
