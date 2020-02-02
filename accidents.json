@@ -1,5 +1,13 @@
 [
   {
+    "address": "3500 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "02/01/2020 - 8:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1774019,
+    "longitude": -92.0739576
+  },
+  {
     "address": "3200 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "02/01/2020 - 8:45 PM",
