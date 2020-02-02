@@ -1,5 +1,13 @@
 [
   {
+    "address": "800 RIDGE RD",
+    "city": "SCOTT",
+    "time": "02/01/2020 - 7:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18187,
+    "longitude": -92.10849
+  },
+  {
     "address": "2001 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "02/01/2020 - 6:41 PM",
