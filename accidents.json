@@ -1,5 +1,13 @@
 [
   {
+    "address": "MOSS ST & CLAUDIA DR",
+    "city": "LAFAYETTE",
+    "time": "02/02/2020 - 5:49 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26609,
+    "longitude": -92.00813
+  },
+  {
     "address": "700 OLD SPANISH TL",
     "city": "SCOTT",
     "time": "02/02/2020 - 5:37 PM",
