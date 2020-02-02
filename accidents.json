@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & GARBER RD",
+    "city": "LAFAYETTE",
+    "time": "02/01/2020 - 9:02 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.17649,
+    "longitude": -91.98442
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "02/01/2020 - 8:58 PM",
