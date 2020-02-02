@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.25216,
     "longitude": -92.03842
-  },
-  {
-    "address": "413 LAGNEAUX RD",
-    "city": "LAFAYETTE",
-    "time": "02/02/2020 - 2:33 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.18446,
-    "longitude": -92.12445
   }
 ]
