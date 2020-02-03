@@ -1,5 +1,13 @@
 [
   {
+    "address": "149 ARNOULD BL",
+    "city": "LAFAYETTE",
+    "time": "02/03/2020 - 1:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20321,
+    "longitude": -92.05468
+  },
+  {
     "address": "E KALISTE SALOOM RD & HUGH WALLIS RD",
     "city": "LAFAYETTE",
     "time": "02/03/2020 - 1:03 PM",
