@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & OIL CENTER DR",
+    "city": "LAFAYETTE",
+    "time": "02/03/2020 - 5:07 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.20535,
+    "longitude": -92.01281
+  },
+  {
     "address": "100 DORSET AV",
     "city": "LAFAYETTE",
     "time": "02/03/2020 - 4:51 PM",
