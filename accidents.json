@@ -1,5 +1,13 @@
 [
   {
+    "address": "D ARCENEAUX RD & ANDRES RD",
+    "city": "LAFAYETTE",
+    "time": "02/03/2020 - 4:37 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.24186,
+    "longitude": -92.12495
+  },
+  {
     "address": "203 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "02/03/2020 - 4:32 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18061,
     "longitude": -92.07295
-  },
-  {
-    "address": "5801 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "02/03/2020 - 4:13 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1716,
-    "longitude": -92.08055
   },
   {
     "address": "SUNBEAM LN & RAGGIO RD",
