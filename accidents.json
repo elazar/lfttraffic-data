@@ -1,5 +1,13 @@
 [
   {
+    "address": "3225 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "02/03/2020 - 5:35 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2657,
+    "longitude": -91.99574
+  },
+  {
     "address": "100 DORSET AV",
     "city": "LAFAYETTE",
     "time": "02/03/2020 - 4:51 PM",
@@ -22,13 +30,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.24186,
     "longitude": -92.12495
-  },
-  {
-    "address": "600 E AMEDEE DR",
-    "city": "LAFAYETTE",
-    "time": "02/03/2020 - 4:13 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2400651,
-    "longitude": -92.0576894
   }
 ]
