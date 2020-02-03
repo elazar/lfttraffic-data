@@ -1,5 +1,21 @@
 [
   {
+    "address": "5801 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "02/03/2020 - 4:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1716,
+    "longitude": -92.08055
+  },
+  {
+    "address": "SUNBEAM LN & RAGGIO RD",
+    "city": "LAFAYETTE",
+    "time": "02/03/2020 - 4:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23997,
+    "longitude": -92.05694
+  },
+  {
     "address": "MOSS ST & W PINE ST",
     "city": "LAFAYETTE",
     "time": "02/03/2020 - 4:12 PM",
