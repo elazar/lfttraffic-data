@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2539364,
     "longitude": -92.1034749
-  },
-  {
-    "address": "E CYPRESS ST & JEFFERSON ST",
-    "city": "LAFAYETTE",
-    "time": "02/02/2020 - 11:11 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.22736,
-    "longitude": -92.01581
   }
 ]
