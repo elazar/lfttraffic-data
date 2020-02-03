@@ -54,13 +54,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.21749,
     "longitude": -92.00495
-  },
-  {
-    "address": "200 GOUAUX RD",
-    "city": "LAFAYETTE",
-    "time": "02/03/2020 - 2:12 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.28736,
-    "longitude": -92.07258
   }
 ]
