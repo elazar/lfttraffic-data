@@ -1,5 +1,13 @@
 [
   {
+    "address": "214 WESTGATE RD",
+    "city": "SCOTT",
+    "time": "02/03/2020 - 2:23 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23099,
+    "longitude": -92.08763
+  },
+  {
     "address": "MALAPART RD & MILLS ST",
     "city": "LAFAYETTE",
     "time": "02/03/2020 - 2:12 PM",
