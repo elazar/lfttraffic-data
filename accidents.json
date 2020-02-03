@@ -1,5 +1,13 @@
 [
   {
+    "address": "2315 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "02/02/2020 - 8:17 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15895,
+    "longitude": -92.0439
+  },
+  {
     "address": "W PINHOOK RD & E KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "02/02/2020 - 7:45 PM",
