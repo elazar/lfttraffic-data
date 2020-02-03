@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 RUBRIA ST",
+    "city": "LAFAYETTE",
+    "time": "02/03/2020 - 10:59 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.246,
+    "longitude": -92.02735
+  },
+  {
     "address": "I10 EASTBOUND MM105 HW & LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "02/03/2020 - 10:58 AM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.29346,
     "longitude": -92.02171
-  },
-  {
-    "address": "2214 BONIN RD",
-    "city": "YOUNGSVILLE",
-    "time": "02/03/2020 - 09:56 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.11851,
-    "longitude": -92.00765
   }
 ]
