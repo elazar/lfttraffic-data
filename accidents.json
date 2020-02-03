@@ -1,11 +1,11 @@
 [
   {
-    "address": "JEFFERSON BL & E SIMCOE ST",
+    "address": "750 E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "02/03/2020 - 08:39 AM",
     "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.23058,
-    "longitude": -92.00783
+    "latitude": 30.2304851,
+    "longitude": -92.0083143
   },
   {
     "address": "6770 JOHNSTON ST",
