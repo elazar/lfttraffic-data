@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "301 LA 96 HW",
+    "city": "BROUSSARD",
+    "time": "02/03/2020 - 06:15 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.13135,
+    "longitude": -91.93784
+  }
+]
