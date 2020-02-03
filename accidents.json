@@ -1,5 +1,13 @@
 [
   {
+    "address": "222 TOWER DR",
+    "city": "LAFAYETTE",
+    "time": "02/03/2020 - 12:31 PM",
+    "due_to": "Fire",
+    "latitude": 40.4331016,
+    "longitude": -86.9208806
+  },
+  {
     "address": "104 E KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "02/03/2020 - 12:20 PM",
