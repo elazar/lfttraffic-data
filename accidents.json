@@ -1,5 +1,13 @@
 [
   {
+    "address": "3103 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "02/02/2020 - 6:50 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2041349,
+    "longitude": -92.04513
+  },
+  {
     "address": "1400 E BROUSSARD RD",
     "city": "LAFAYETTE",
     "time": "02/02/2020 - 6:49 PM",
