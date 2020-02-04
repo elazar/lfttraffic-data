@@ -1,5 +1,13 @@
 [
   {
+    "address": "3600 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "02/04/2020 - 07:14 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14068,
+    "longitude": -92.06221
+  },
+  {
     "address": "1522 CARMEL DR",
     "city": "LAFAYETTE",
     "time": "02/04/2020 - 07:13 AM",
