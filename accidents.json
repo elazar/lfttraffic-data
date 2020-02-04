@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "BNSF RAILROAD CG & E VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "02/04/2020 - 02:46 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.18064,
+    "longitude": -91.99618
+  }
+]
