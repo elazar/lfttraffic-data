@@ -1,5 +1,21 @@
 [
   {
+    "address": "NW EVANGELINE TW & E SECOND ST",
+    "city": "LAFAYETTE",
+    "time": "02/04/2020 - 10:50 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.23033,
+    "longitude": -92.01343
+  },
+  {
+    "address": "LOWES CENTER DR & ROBLEY DR",
+    "city": "LAFAYETTE",
+    "time": "02/04/2020 - 10:50 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1666,
+    "longitude": -92.07122
+  },
+  {
     "address": "W PINHOOK RD & E ST MARY BL",
     "city": "LAFAYETTE",
     "time": "02/04/2020 - 09:57 AM",
