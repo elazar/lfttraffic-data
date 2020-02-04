@@ -1,13 +1,5 @@
 [
   {
-    "address": "122 CHARLES READ AV",
-    "city": "LAFAYETTE",
-    "time": "02/04/2020 - 11:22 AM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.19586,
-    "longitude": -92.02645
-  },
-  {
     "address": "4 I49 NORTHBOUND MM4 HW",
     "city": "LAFAYETTE",
     "time": "02/04/2020 - 11:19 AM",
@@ -22,14 +14,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.17349,
     "longitude": -92.0144
-  },
-  {
-    "address": "555 N PIERCE ST",
-    "city": "LAFAYETTE",
-    "time": "02/04/2020 - 10:52 AM",
-    "due_to": "Hazard",
-    "latitude": 30.24031,
-    "longitude": -92.02004
   },
   {
     "address": "400 NW EVANGELINE TW",
