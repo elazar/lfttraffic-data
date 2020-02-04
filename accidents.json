@@ -70,21 +70,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2316407,
     "longitude": -92.0627849
-  },
-  {
-    "address": "6801 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "02/04/2020 - 06:31 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15001,
-    "longitude": -92.0935
-  },
-  {
-    "address": "1400 CHEMIN AGREABLE",
-    "city": "LAFAYETTE",
-    "time": "02/04/2020 - 06:02 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.0656444,
-    "longitude": -92.0328004
   }
 ]
