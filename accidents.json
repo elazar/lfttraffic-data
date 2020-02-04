@@ -54,21 +54,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15265,
     "longitude": -92.05786
-  },
-  {
-    "address": "306 FOURTH ST",
-    "city": "YOUNGSVILLE",
-    "time": "02/04/2020 - 2:21 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.09526,
-    "longitude": -91.99616
-  },
-  {
-    "address": "YOUNGSVILLE HW & W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "02/04/2020 - 1:41 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.16071,
-    "longitude": -91.99107
   }
 ]
