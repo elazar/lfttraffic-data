@@ -1,5 +1,13 @@
 [
   {
+    "address": "1410 ST MARY ST",
+    "city": "SCOTT",
+    "time": "02/04/2020 - 08:20 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.24359,
+    "longitude": -92.09776
+  },
+  {
     "address": "4300 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "02/04/2020 - 08:09 AM",
