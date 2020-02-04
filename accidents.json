@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "ERASTE LANDRY RD & FOREMAN DR",
+    "city": "LAFAYETTE",
+    "time": "02/03/2020 - 10:11 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2195,
+    "longitude": -92.06465
+  }
+]
