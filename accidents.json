@@ -1,5 +1,13 @@
 [
   {
+    "address": "1600 BONIN RD",
+    "city": "LAFAYETTE",
+    "time": "02/03/2020 - 7:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.132851,
+    "longitude": -92.0077118
+  },
+  {
     "address": "3225 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "02/03/2020 - 5:35 PM",
