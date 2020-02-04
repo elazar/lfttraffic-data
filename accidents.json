@@ -1,5 +1,21 @@
 [
   {
+    "address": "JOHNSTON ST & PERARD ST",
+    "city": "LAFAYETTE",
+    "time": "02/04/2020 - 4:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20301,
+    "longitude": -92.05026
+  },
+  {
+    "address": "S RICHFIELD RD & CAMERON ST",
+    "city": "DUSON",
+    "time": "02/04/2020 - 4:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23496,
+    "longitude": -92.17607
+  },
+  {
     "address": "NW EVANGELINE TW & GOLDMAN ST",
     "city": "LAFAYETTE",
     "time": "02/04/2020 - 4:28 PM",
@@ -51,7 +67,7 @@
     "address": "JOHNSTON ST & W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "02/04/2020 - 3:16 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.21729,
     "longitude": -92.01902
   },
