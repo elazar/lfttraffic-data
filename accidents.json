@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 TORTOISE LN",
+    "city": "BROUSSARD",
+    "time": "02/04/2020 - 5:14 PM",
+    "due_to": "Hazard",
+    "latitude": 30.160327,
+    "longitude": -91.9474687
+  },
+  {
     "address": "LA NEUVILLE RD & CHEMIN METAIRIE",
     "city": "LAFAYETTE",
     "time": "02/04/2020 - 4:37 PM",
@@ -11,7 +19,7 @@
     "address": "JOHNSTON ST & PERARD ST",
     "city": "LAFAYETTE",
     "time": "02/04/2020 - 4:30 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.20301,
     "longitude": -92.05026
   },
