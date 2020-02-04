@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 ALYENE DR",
+    "city": "LAFAYETTE",
+    "time": "02/04/2020 - 4:25 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1975449,
+    "longitude": -92.0712742
+  },
+  {
     "address": "WILSON ST & E UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "02/04/2020 - 4:18 PM",
