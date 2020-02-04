@@ -1,5 +1,13 @@
 [
   {
+    "address": "909 ROBLEY DR",
+    "city": "LAFAYETTE",
+    "time": "02/04/2020 - 07:22 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16906,
+    "longitude": -92.06805
+  },
+  {
     "address": "400 RUE SCHOLASTIQUE",
     "city": "LAFAYETTE",
     "time": "02/04/2020 - 07:20 AM",
