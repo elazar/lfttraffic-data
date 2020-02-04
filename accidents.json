@@ -7,14 +7,7 @@
     "latitude": 30.18187,
     "longitude": -92.10849
   },
-  {
-    "address": "100 BOURQUE RD",
-    "city": "LAFAYETTE",
-    "time": "02/04/2020 - 07:27 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1327999,
-    "longitude": -92.1088778
-  },
+  null,
   {
     "address": "909 ROBLEY DR",
     "city": "LAFAYETTE",
@@ -56,6 +49,14 @@
     "longitude": -92.07066
   },
   {
+    "address": "ERASTE LANDRY RD & GALBERT RD",
+    "city": "LAFAYETTE",
+    "time": "02/04/2020 - 06:51 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21919,
+    "longitude": -92.07435
+  },
+  {
     "address": "2600 SW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "02/04/2020 - 06:50 AM",
@@ -70,5 +71,21 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2316407,
     "longitude": -92.0627849
+  },
+  {
+    "address": "6801 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "02/04/2020 - 06:31 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15001,
+    "longitude": -92.0935
+  },
+  {
+    "address": "1400 CHEMIN AGREABLE",
+    "city": "LAFAYETTE",
+    "time": "02/04/2020 - 06:02 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.0656444,
+    "longitude": -92.0328004
   }
 ]
