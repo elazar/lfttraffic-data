@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & PALMS BL",
+    "city": "LAFAYETTE",
+    "time": "02/04/2020 - 5:23 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16803,
+    "longitude": -92.08233
+  },
+  {
     "address": "100 TORTOISE LN",
     "city": "BROUSSARD",
     "time": "02/04/2020 - 5:14 PM",
@@ -38,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21859,
     "longitude": -92.0765
-  },
-  {
-    "address": "WILSON ST & E UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "02/04/2020 - 4:18 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21234,
-    "longitude": -92.01233
   },
   {
     "address": "1845 W PINHOOK RD",
