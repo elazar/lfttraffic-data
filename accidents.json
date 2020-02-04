@@ -1,5 +1,13 @@
 [
   {
+    "address": "LOUISIANA AV & HAIG ST",
+    "city": "LAFAYETTE",
+    "time": "02/03/2020 - 6:39 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.23358,
+    "longitude": -92.00241
+  },
+  {
     "address": "100 GERALD DR",
     "city": "LAFAYETTE",
     "time": "02/03/2020 - 6:14 PM",
