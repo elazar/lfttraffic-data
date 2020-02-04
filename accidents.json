@@ -1,5 +1,13 @@
 [
   {
+    "address": "555 N PIERCE ST",
+    "city": "LAFAYETTE",
+    "time": "02/04/2020 - 10:52 AM",
+    "due_to": "Hazard",
+    "latitude": 30.24031,
+    "longitude": -92.02004
+  },
+  {
     "address": "400 NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "02/04/2020 - 10:50 AM",
