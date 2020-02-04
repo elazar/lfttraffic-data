@@ -1,5 +1,13 @@
 [
   {
+    "address": "1215 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "02/03/2020 - 7:05 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.2261,
+    "longitude": -92.02774
+  },
+  {
     "address": "LOUISIANA AV & HAIG ST",
     "city": "LAFAYETTE",
     "time": "02/03/2020 - 6:39 PM",
