@@ -1,5 +1,13 @@
 [
   {
+    "address": "126 LEXINGTON DR.DN ,",
+    "city": "Lafayette",
+    "time": "02/04/2020 - 3:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.3299052,
+    "longitude": -92.0214574
+  },
+  {
     "address": "JOHNSTON ST & W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "02/04/2020 - 3:05 PM",
