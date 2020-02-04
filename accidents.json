@@ -1,5 +1,13 @@
 [
   {
+    "address": "1600 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "02/04/2020 - 4:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21859,
+    "longitude": -92.0765
+  },
+  {
     "address": "100 ALYENE DR",
     "city": "LAFAYETTE",
     "time": "02/04/2020 - 4:25 PM",
