@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & GENDARME RD",
+    "city": "LAFAYETTE",
+    "time": "02/03/2020 - 7:44 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.35603,
+    "longitude": -92.05156
+  },
+  {
     "address": "1700 BONIN RD",
     "city": "LAFAYETTE",
     "time": "02/03/2020 - 7:26 PM",
