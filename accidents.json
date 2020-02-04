@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "100 W BLUEBIRD DR",
+    "city": "LAFAYETTE",
+    "time": "02/04/2020 - 1:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15625,
+    "longitude": -92.03097
+  }
+]
