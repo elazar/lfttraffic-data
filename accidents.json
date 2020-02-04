@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "02/04/2020 - 09:13 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23236,
+    "longitude": -92.03238
+  },
+  {
     "address": "200 DIGBY AV",
     "city": "LAFAYETTE",
     "time": "02/04/2020 - 09:10 AM",
@@ -8,11 +16,11 @@
     "longitude": -92.02649
   },
   {
-    "address": "W CONGRESS ST & EULA DR",
+    "address": "100 EULA DR",
     "city": "LAFAYETTE",
     "time": "02/04/2020 - 08:28 AM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.19878,
-    "longitude": -92.0692
+    "latitude": 30.19943,
+    "longitude": -92.06949
   }
 ]
