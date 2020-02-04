@@ -1,5 +1,13 @@
 [
   {
+    "address": "EDNA ST & CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "02/04/2020 - 09:51 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23359,
+    "longitude": -91.99424
+  },
+  {
     "address": "CAMERON ST & N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "02/04/2020 - 09:13 AM",
