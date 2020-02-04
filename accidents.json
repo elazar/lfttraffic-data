@@ -54,13 +54,5 @@
     "due_to": "Traffic Control",
     "latitude": 30.23215,
     "longitude": -91.98358
-  },
-  {
-    "address": "111 MARLA DR",
-    "city": "LAFAYETTE",
-    "time": "02/04/2020 - 2:29 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15265,
-    "longitude": -92.05786
   }
 ]
