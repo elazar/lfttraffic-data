@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 DIGBY AV",
+    "city": "LAFAYETTE",
+    "time": "02/04/2020 - 09:10 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.15231,
+    "longitude": -92.02649
+  },
+  {
     "address": "W CONGRESS ST & EULA DR",
     "city": "LAFAYETTE",
     "time": "02/04/2020 - 08:28 AM",
