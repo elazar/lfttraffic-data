@@ -1,5 +1,13 @@
 [
   {
+    "address": "LA NEUVILLE RD & CHEMIN METAIRIE",
+    "city": "LAFAYETTE",
+    "time": "02/04/2020 - 4:37 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1434,
+    "longitude": -92.017
+  },
+  {
     "address": "JOHNSTON ST & PERARD ST",
     "city": "LAFAYETTE",
     "time": "02/04/2020 - 4:30 PM",
