@@ -1,5 +1,13 @@
 [
   {
+    "address": "400 IBERIA ST",
+    "city": "YOUNGSVILLE",
+    "time": "02/04/2020 - 3:15 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.10214,
+    "longitude": -91.99484
+  },
+  {
     "address": "126 LEXINGTON DR.DN ,",
     "city": "Lafayette",
     "time": "02/04/2020 - 3:11 PM",
