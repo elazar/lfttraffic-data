@@ -1,5 +1,13 @@
 [
   {
+    "address": "105 I10 WESTBOUND MM105 HW",
+    "city": "LAFAYETTE",
+    "time": "02/03/2020 - 7:49 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "1700 BONIN RD",
     "city": "LAFAYETTE",
     "time": "02/03/2020 - 7:26 PM",
