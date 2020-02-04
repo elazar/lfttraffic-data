@@ -1,5 +1,13 @@
 [
   {
+    "address": "WILSON ST & E UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "02/04/2020 - 4:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21234,
+    "longitude": -92.01233
+  },
+  {
     "address": "1845 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "02/04/2020 - 4:08 PM",
