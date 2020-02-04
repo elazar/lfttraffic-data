@@ -1,5 +1,13 @@
 [
   {
+    "address": "1400 CHEMIN AGREABLE",
+    "city": "LAFAYETTE",
+    "time": "02/04/2020 - 06:02 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.0656444,
+    "longitude": -92.0328004
+  },
+  {
     "address": "3000 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "02/04/2020 - 05:51 AM",
