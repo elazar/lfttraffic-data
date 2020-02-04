@@ -1,5 +1,13 @@
 [
   {
+    "address": "800 RIDGE RD",
+    "city": "SCOTT",
+    "time": "02/04/2020 - 07:31 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.18187,
+    "longitude": -92.10849
+  },
+  {
     "address": "100 BOURQUE RD",
     "city": "LAFAYETTE",
     "time": "02/04/2020 - 07:27 AM",
@@ -46,14 +54,6 @@
     "due_to": "Traffic Control",
     "latitude": 30.33931,
     "longitude": -92.07066
-  },
-  {
-    "address": "ERASTE LANDRY RD & GALBERT RD",
-    "city": "LAFAYETTE",
-    "time": "02/04/2020 - 06:51 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.21919,
-    "longitude": -92.07435
   },
   {
     "address": "2600 SW EVANGELINE TW",
