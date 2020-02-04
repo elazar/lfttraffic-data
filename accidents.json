@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & E ST MARY BL",
+    "city": "LAFAYETTE",
+    "time": "02/04/2020 - 09:57 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.20703,
+    "longitude": -92.01181
+  },
+  {
     "address": "EDNA ST & CARMEL DR",
     "city": "LAFAYETTE",
     "time": "02/04/2020 - 09:51 AM",
