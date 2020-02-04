@@ -70,13 +70,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.21729,
     "longitude": -92.01902
-  },
-  {
-    "address": "400 IBERIA ST",
-    "city": "YOUNGSVILLE",
-    "time": "02/04/2020 - 3:15 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.10214,
-    "longitude": -91.99484
   }
 ]
