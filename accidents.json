@@ -32,14 +32,6 @@
     "longitude": -92.06364
   },
   {
-    "address": "1522 CARMEL DR",
-    "city": "LAFAYETTE",
-    "time": "02/04/2020 - 07:13 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.23215,
-    "longitude": -91.98358
-  },
-  {
     "address": "FATIMA",
     "city": "Lafayette",
     "time": "02/04/2020 - 07:09 AM",
@@ -54,13 +46,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1846646,
     "longitude": -91.9913716
-  },
-  {
-    "address": "800 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "02/04/2020 - 06:46 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2316407,
-    "longitude": -92.0627849
   }
 ]
