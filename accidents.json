@@ -1,5 +1,13 @@
 [
   {
+    "address": "122 CHARLES READ AV",
+    "city": "LAFAYETTE",
+    "time": "02/04/2020 - 11:22 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.19586,
+    "longitude": -92.02645
+  },
+  {
     "address": "4 I49 NORTHBOUND MM4 HW",
     "city": "LAFAYETTE",
     "time": "02/04/2020 - 11:19 AM",
