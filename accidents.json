@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1600 N BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "02/04/2020 - 12:29 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22855,
+    "longitude": -92.05174
+  }
+]
