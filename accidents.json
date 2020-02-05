@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "CARMEL DR & BRIDGEWOOD RD",
+    "city": "LAFAYETTE",
+    "time": "02/05/2020 - 02:30 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23679,
+    "longitude": -91.97275
+  }
+]
