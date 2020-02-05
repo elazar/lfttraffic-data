@@ -1,5 +1,13 @@
 [
   {
+    "address": "1103 JEFFERSON ST",
+    "city": "LAFAYETTE",
+    "time": "02/04/2020 - 6:55 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22017,
+    "longitude": -92.01681
+  },
+  {
     "address": "W ST MARY BL & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "02/04/2020 - 6:43 PM",
