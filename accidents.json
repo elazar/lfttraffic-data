@@ -30,13 +30,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.27349,
     "longitude": -92.02058
-  },
-  {
-    "address": "3000 W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "02/05/2020 - 05:46 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.20752,
-    "longitude": -92.05827
   }
 ]
