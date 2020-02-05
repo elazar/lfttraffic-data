@@ -1,5 +1,13 @@
 [
   {
+    "address": "4401 N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "02/05/2020 - 2:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.31812,
+    "longitude": -92.04993
+  },
+  {
     "address": "RIDGEVIEW DR & S MORGAN AV",
     "city": "BROUSSARD",
     "time": "02/05/2020 - 1:50 PM",
