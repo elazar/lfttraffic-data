@@ -22,21 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.31396,
     "longitude": -92.03118
-  },
-  {
-    "address": "500 N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "02/05/2020 - 07:35 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2360221,
-    "longitude": -92.0322751
-  },
-  {
-    "address": "3 I49 SOUTHBOUND MM3 HW",
-    "city": "CARENCRO",
-    "time": "02/05/2020 - 07:21 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.31396,
-    "longitude": -92.03118
   }
 ]
