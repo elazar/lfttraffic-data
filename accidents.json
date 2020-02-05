@@ -1,5 +1,13 @@
 [
   {
+    "address": "602 RIM RD",
+    "city": "LAFAYETTE",
+    "time": "02/05/2020 - 2:37 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.28138,
+    "longitude": -92.00867
+  },
+  {
     "address": "302 W MAIN ST",
     "city": "BROUSSARD",
     "time": "02/05/2020 - 2:34 PM",
