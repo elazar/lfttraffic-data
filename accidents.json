@@ -1,5 +1,13 @@
 [
   {
+    "address": "CARMEL DR & GROSSIE DR",
+    "city": "LAFAYETTE",
+    "time": "02/05/2020 - 07:40 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23215,
+    "longitude": -91.98235
+  },
+  {
     "address": "500 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "02/05/2020 - 07:35 AM",
