@@ -1,5 +1,13 @@
 [
   {
+    "address": "S RICHFIELD RD & LANDRY RD",
+    "city": "LAFAYETTE",
+    "time": "02/05/2020 - 03:35 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2115,
+    "longitude": -92.17587
+  },
+  {
     "address": "BONIN RD & TRAHAN RD",
     "city": "LAFAYETTE",
     "time": "02/05/2020 - 02:52 AM",
