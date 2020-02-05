@@ -1,5 +1,13 @@
 [
   {
+    "address": "BONIN RD & E MILTON AV",
+    "city": "YOUNGSVILLE",
+    "time": "02/05/2020 - 4:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.10919,
+    "longitude": -92.02391
+  },
+  {
     "address": "W CONGRESS ST & MONTEIGNE DR",
     "city": "LAFAYETTE",
     "time": "02/05/2020 - 4:24 PM",
