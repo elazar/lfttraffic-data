@@ -1,5 +1,13 @@
 [
   {
+    "address": "1300 ROBLEY DR",
+    "city": "LAFAYETTE",
+    "time": "02/05/2020 - 1:36 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1633373,
+    "longitude": -92.0744979
+  },
+  {
     "address": "HERNANDEZ RD & MALAPART RD",
     "city": "LAFAYETTE",
     "time": "02/05/2020 - 12:41 PM",
