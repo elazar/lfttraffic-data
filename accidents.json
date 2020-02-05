@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMELLIA BL & ACADEMY RD",
+    "city": "LAFAYETTE",
+    "time": "02/05/2020 - 5:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18427,
+    "longitude": -92.05154
+  },
+  {
     "address": "W CONGRESS ST & BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "02/05/2020 - 4:45 PM",
