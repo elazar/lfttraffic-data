@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & CAJUNDOME BL",
+    "city": "LAFAYETTE",
+    "time": "02/04/2020 - 7:04 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23244,
+    "longitude": -92.04675
+  },
+  {
     "address": "100 FIRST ST",
     "city": "YOUNGSVILLE",
     "time": "02/04/2020 - 7:03 PM",
