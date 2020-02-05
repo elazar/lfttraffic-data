@@ -1,13 +1,5 @@
 [
   {
-    "address": "CARMEL DR & GROSSIE DR",
-    "city": "LAFAYETTE",
-    "time": "02/05/2020 - 07:40 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23215,
-    "longitude": -91.98235
-  },
-  {
     "address": "500 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "02/05/2020 - 07:35 AM",
@@ -30,14 +22,6 @@
     "due_to": "Traffic Control",
     "latitude": 30.23215,
     "longitude": -91.98358
-  },
-  {
-    "address": "105 I10 WESTBOUND MM105 HW",
-    "city": "LAFAYETTE",
-    "time": "02/05/2020 - 07:15 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.26255,
-    "longitude": -92.00867
   },
   {
     "address": "NW EVANGELINE TW & W PONT DES MOUTON RD",
