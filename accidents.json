@@ -1,5 +1,13 @@
 [
   {
+    "address": "SE EVANGELINE TW & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "02/04/2020 - 7:20 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.22488,
+    "longitude": -92.00947
+  },
+  {
     "address": "3142 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "02/04/2020 - 7:15 PM",
@@ -62,13 +70,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.31876,
     "longitude": -92.03205
-  },
-  {
-    "address": "6191 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "02/04/2020 - 5:52 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.16064,
-    "longitude": -92.08374
   }
 ]
