@@ -62,5 +62,13 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.31876,
     "longitude": -92.03205
+  },
+  {
+    "address": "JOHNSTON ST & PALMS BL",
+    "city": "LAFAYETTE",
+    "time": "02/04/2020 - 5:23 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.16803,
+    "longitude": -92.08233
   }
 ]
