@@ -1,11 +1,11 @@
 [
   {
-    "address": "RUE PROMENADE & SETTLERS TRACE BL",
+    "address": "111 SETTLERS TRACE BL",
     "city": "LAFAYETTE",
     "time": "02/04/2020 - 8:27 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.17113,
-    "longitude": -92.03554
+    "due_to": "Fire Investigation",
+    "latitude": 30.1713813,
+    "longitude": -92.0350152
   },
   {
     "address": "SE EVANGELINE TW & LOUISIANA AV",
@@ -14,14 +14,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.22488,
     "longitude": -92.00947
-  },
-  {
-    "address": "CAMERON ST & CAJUNDOME BL",
-    "city": "LAFAYETTE",
-    "time": "02/04/2020 - 7:04 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.23244,
-    "longitude": -92.04675
   },
   {
     "address": "201 W GLORIA SWITCH RD",
