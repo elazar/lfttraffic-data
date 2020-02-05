@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & WILSHIRE LN",
+    "city": "LAFAYETTE",
+    "time": "02/05/2020 - 2:41 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.24602,
+    "longitude": -92.03353
+  },
+  {
     "address": "105 I10 EASTBOUND MM105 HW",
     "city": "LAFAYETTE",
     "time": "02/05/2020 - 2:39 PM",
