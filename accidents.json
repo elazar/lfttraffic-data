@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 FIRST ST",
+    "city": "YOUNGSVILLE",
+    "time": "02/04/2020 - 7:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.0980812,
+    "longitude": -91.9918249
+  },
+  {
     "address": "951 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "02/04/2020 - 6:55 PM",
@@ -46,13 +54,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16064,
     "longitude": -92.08374
-  },
-  {
-    "address": "JOHNSTON ST & PALMS BL",
-    "city": "LAFAYETTE",
-    "time": "02/04/2020 - 5:23 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.16803,
-    "longitude": -92.08233
   }
 ]
