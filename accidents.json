@@ -1,5 +1,13 @@
 [
   {
+    "address": "2100 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "02/05/2020 - 3:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1853287,
+    "longitude": -92.0103473
+  },
+  {
     "address": "400 RUE SCHOLASTIQUE",
     "city": "LAFAYETTE",
     "time": "02/05/2020 - 3:07 PM",
