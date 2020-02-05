@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "W PINHOOK RD & JOMELA DR",
+    "city": "LAFAYETTE",
+    "time": "02/05/2020 - 10:17 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19961,
+    "longitude": -92.01618
+  }
+]
