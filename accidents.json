@@ -1,5 +1,13 @@
 [
   {
+    "address": "1800 CHEMIN METAIRIE PW",
+    "city": "YOUNGSVILLE",
+    "time": "02/05/2020 - 2:38 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.1046,
+    "longitude": -92.01597
+  },
+  {
     "address": "602 RIM RD",
     "city": "LAFAYETTE",
     "time": "02/05/2020 - 2:37 PM",
