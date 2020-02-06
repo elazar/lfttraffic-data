@@ -1,5 +1,13 @@
 [
   {
+    "address": "1522 CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "02/06/2020 - 2:57 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.23215,
+    "longitude": -91.98358
+  },
+  {
     "address": "200 JONES RD",
     "city": "LAFAYETTE",
     "time": "02/06/2020 - 2:54 PM",
