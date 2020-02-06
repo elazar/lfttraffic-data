@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "114 NICKERSON PW",
+    "city": "LAFAYETTE",
+    "time": "02/06/2020 - 04:20 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.21911,
+    "longitude": -91.98092
+  }
+]
