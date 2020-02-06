@@ -1,11 +1,19 @@
 [
   {
-    "address": "APOLLO RD & CAMERON ST",
+    "address": "1800 CHEMIN METAIRIE PW",
+    "city": "YOUNGSVILLE",
+    "time": "02/06/2020 - 2:40 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.1046,
+    "longitude": -92.01597
+  },
+  {
+    "address": "49 BNSF RAILROAD CG",
     "city": "SCOTT",
     "time": "02/06/2020 - 2:39 PM",
     "due_to": "Stalled Vehicle",
-    "latitude": 30.23485,
-    "longitude": -92.10742
+    "latitude": null,
+    "longitude": null
   },
   {
     "address": "145 GREENFIELD DR",
