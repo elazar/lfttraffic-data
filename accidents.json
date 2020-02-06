@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & BRENTWOOD BL",
+    "city": "LAFAYETTE",
+    "time": "02/06/2020 - 1:14 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.19632,
+    "longitude": -92.057
+  },
+  {
     "address": "4100 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "02/06/2020 - 1:13 PM",
@@ -46,13 +54,5 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.24447,
     "longitude": -92.01187
-  },
-  {
-    "address": "NW EVANGELINE TW & E SECOND ST",
-    "city": "LAFAYETTE",
-    "time": "02/06/2020 - 11:35 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.23033,
-    "longitude": -92.01343
   }
 ]
