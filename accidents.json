@@ -1,5 +1,13 @@
 [
   {
+    "address": "BERTRAND DR & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "02/06/2020 - 11:41 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21493,
+    "longitude": -92.04696
+  },
+  {
     "address": "NW EVANGELINE TW & E SECOND ST",
     "city": "LAFAYETTE",
     "time": "02/06/2020 - 11:35 AM",
