@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & MALVEAUX RD",
+    "city": "LAFAYETTE",
+    "time": "02/06/2020 - 3:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13799,
+    "longitude": -92.10386
+  },
+  {
     "address": "AVE B @ SECOND ST",
     "city": "Lafayette",
     "time": "02/06/2020 - 3:03 PM",
