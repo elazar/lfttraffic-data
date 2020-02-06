@@ -3,7 +3,7 @@
     "address": "4000 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "02/06/2020 - 08:56 AM",
-    "due_to": "Incoming Call",
+    "due_to": "Commercial Fire",
     "latitude": 30.19824,
     "longitude": -92.07087
   },
@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22155,
     "longitude": -92.01271
-  },
-  {
-    "address": "LANDRY RD & TABB RD",
-    "city": "LAFAYETTE",
-    "time": "02/06/2020 - 07:48 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2119,
-    "longitude": -92.1207
   }
 ]
