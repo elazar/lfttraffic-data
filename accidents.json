@@ -1,5 +1,13 @@
 [
   {
+    "address": "231 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "02/06/2020 - 07:40 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24482,
+    "longitude": -92.01663
+  },
+  {
     "address": "JASON DR & SMALLEY RD",
     "city": "CARENCRO",
     "time": "02/06/2020 - 07:25 AM",
