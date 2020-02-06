@@ -1,19 +1,19 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & ERASTE LANDRY RD",
+    "city": "LAFAYETTE",
+    "time": "02/05/2020 - 8:08 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21912,
+    "longitude": -92.07587
+  },
+  {
     "address": "I49 NORTHBOUND HW & I10 OVERPASS MM103 HW",
     "city": "LAFAYETTE",
     "time": "02/05/2020 - 7:56 PM",
     "due_to": "Traffic Control",
     "latitude": 30.26255,
     "longitude": -92.00867
-  },
-  {
-    "address": "309 LOUVETEAU RD",
-    "city": "LAFAYETTE",
-    "time": "02/05/2020 - 7:43 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.34278,
-    "longitude": -92.05244
   },
   {
     "address": "JOHNSTON ST & RIDGE RD",
