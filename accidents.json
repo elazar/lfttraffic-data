@@ -24,27 +24,11 @@
     "longitude": -91.99578
   },
   {
-    "address": "GARFIELD ST & JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "02/06/2020 - 3:32 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22438,
-    "longitude": -92.01447
-  },
-  {
     "address": "1250 CARMEL DR",
     "city": "LAFAYETTE",
     "time": "02/06/2020 - 3:32 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.23188,
     "longitude": -91.98938
-  },
-  {
-    "address": "145 GREENFIELD DR",
-    "city": "LAFAYETTE",
-    "time": "02/06/2020 - 1:38 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.33096,
-    "longitude": -92.01843
   }
 ]
