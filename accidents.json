@@ -38,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2119,
     "longitude": -92.1207
-  },
-  {
-    "address": "JASON DR & SMALLEY RD",
-    "city": "CARENCRO",
-    "time": "02/06/2020 - 07:25 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.30042,
-    "longitude": -92.03207
   }
 ]
