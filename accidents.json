@@ -1,5 +1,13 @@
 [
   {
+    "address": "309 JONES RD",
+    "city": "LAFAYETTE",
+    "time": "02/06/2020 - 3:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14283,
+    "longitude": -92.13579
+  },
+  {
     "address": "101 RICE CL",
     "city": "SCOTT",
     "time": "02/06/2020 - 3:38 PM",
@@ -30,22 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23188,
     "longitude": -91.98938
-  },
-  {
-    "address": "400 FOREMAN DR",
-    "city": "LAFAYETTE",
-    "time": "02/06/2020 - 3:21 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20765,
-    "longitude": -92.05645
-  },
-  {
-    "address": "JOHNSTON ST & MALVEAUX RD",
-    "city": "LAFAYETTE",
-    "time": "02/06/2020 - 3:20 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.13799,
-    "longitude": -92.10386
   },
   {
     "address": "1522 CARMEL DR",
