@@ -1,5 +1,21 @@
 [
   {
+    "address": "4108 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "02/05/2020 - 6:09 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1526293,
+    "longitude": -91.9589785
+  },
+  {
+    "address": "AMBASSADOR CAFFERY PW & ERASTE LANDRY RD",
+    "city": "LAFAYETTE",
+    "time": "02/05/2020 - 6:09 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.21912,
+    "longitude": -92.07587
+  },
+  {
     "address": "5601 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "02/05/2020 - 5:57 PM",
