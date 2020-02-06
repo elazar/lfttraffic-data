@@ -1,13 +1,5 @@
 [
   {
-    "address": "309 JONES RD",
-    "city": "LAFAYETTE",
-    "time": "02/06/2020 - 3:45 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.14283,
-    "longitude": -92.13579
-  },
-  {
     "address": "101 RICE CL",
     "city": "SCOTT",
     "time": "02/06/2020 - 3:38 PM",
