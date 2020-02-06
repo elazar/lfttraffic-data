@@ -1,5 +1,13 @@
 [
   {
+    "address": "I49 NORTHBOUND HW & I10 OVERPASS MM103 HW",
+    "city": "LAFAYETTE",
+    "time": "02/05/2020 - 7:56 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "309 LOUVETEAU RD",
     "city": "LAFAYETTE",
     "time": "02/05/2020 - 7:43 PM",
