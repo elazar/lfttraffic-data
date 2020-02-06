@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 GEORGETTE ST",
+    "city": "LAFAYETTE",
+    "time": "02/06/2020 - 11:43 AM",
+    "due_to": "Hazard",
+    "latitude": 30.2228577,
+    "longitude": -92.0609752
+  },
+  {
     "address": "BERTRAND DR & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "02/06/2020 - 11:41 AM",
