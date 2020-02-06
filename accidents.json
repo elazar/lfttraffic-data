@@ -1,5 +1,13 @@
 [
   {
+    "address": "NW EVANGELINE TW & W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "02/06/2020 - 1:05 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.24481,
+    "longitude": -92.01456
+  },
+  {
     "address": "320 DEVALCOURT ST",
     "city": "LAFAYETTE",
     "time": "02/06/2020 - 12:57 PM",
@@ -22,14 +30,6 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.24447,
     "longitude": -92.01187
-  },
-  {
-    "address": "301 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "02/06/2020 - 12:14 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24142,
-    "longitude": -92.06551
   },
   {
     "address": "NW EVANGELINE TW & E SECOND ST",
