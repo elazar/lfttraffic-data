@@ -1,5 +1,13 @@
 [
   {
+    "address": "400 RUE SCHOLASTIQUE",
+    "city": "LAFAYETTE",
+    "time": "02/06/2020 - 07:14 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.28848,
+    "longitude": -92.09653
+  },
+  {
     "address": "1522 CARMEL DR",
     "city": "LAFAYETTE",
     "time": "02/06/2020 - 07:12 AM",
