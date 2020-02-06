@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "02/05/2020 - 7:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18136,
+    "longitude": -92.07126
+  },
+  {
     "address": "1700 SW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "02/05/2020 - 6:46 PM",
