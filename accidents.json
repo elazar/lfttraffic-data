@@ -1,5 +1,13 @@
 [
   {
+    "address": "320 DEVALCOURT ST",
+    "city": "LAFAYETTE",
+    "time": "02/06/2020 - 12:57 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21678,
+    "longitude": -92.0549
+  },
+  {
     "address": "200 ST NAZAIRE RD",
     "city": "BROUSSARD",
     "time": "02/06/2020 - 12:56 PM",
