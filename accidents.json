@@ -30,13 +30,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.26255,
     "longitude": -92.00867
-  },
-  {
-    "address": "5725 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "02/05/2020 - 6:15 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17353,
-    "longitude": -92.07732
   }
 ]
