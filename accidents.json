@@ -1,5 +1,13 @@
 [
   {
+    "address": "128 ARNOULD BL",
+    "city": "LAFAYETTE",
+    "time": "02/06/2020 - 02:13 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.20345,
+    "longitude": -92.05384
+  },
+  {
     "address": "2144 W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "02/06/2020 - 12:45 AM",
