@@ -1,5 +1,13 @@
 [
   {
+    "address": "N COLLEGE RD & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "02/06/2020 - 09:15 AM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.20727,
+    "longitude": -92.03836
+  },
+  {
     "address": "4000 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "02/06/2020 - 08:56 AM",
