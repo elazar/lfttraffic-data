@@ -1,5 +1,13 @@
 [
   {
+    "address": "1700 CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "02/06/2020 - 07:53 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23384,
+    "longitude": -91.9772
+  },
+  {
     "address": "LANDRY RD & TABB RD",
     "city": "LAFAYETTE",
     "time": "02/06/2020 - 07:48 AM",
@@ -38,13 +46,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.25511,
     "longitude": -91.99944
-  },
-  {
-    "address": "SW EVANGELINE TW & E VEROT SCHOOL RD",
-    "city": "LAFAYETTE",
-    "time": "02/06/2020 - 06:19 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18268,
-    "longitude": -91.99006
   }
 ]
