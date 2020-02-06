@@ -1,5 +1,13 @@
 [
   {
+    "address": "ELMIRA RD & RENAUD DR",
+    "city": "SCOTT",
+    "time": "02/05/2020 - 8:13 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.25401,
+    "longitude": -92.07881
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & ERASTE LANDRY RD",
     "city": "LAFAYETTE",
     "time": "02/05/2020 - 8:08 PM",
