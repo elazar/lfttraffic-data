@@ -1,19 +1,19 @@
 [
   {
+    "address": "AVE B @ SECOND ST",
+    "city": "Lafayette",
+    "time": "02/06/2020 - 3:03 PM",
+    "due_to": "Traffic Control",
+    "latitude": 32.90055,
+    "longitude": -85.39497
+  },
+  {
     "address": "400 RUE SCHOLASTIQUE",
     "city": "LAFAYETTE",
     "time": "02/06/2020 - 3:02 PM",
     "due_to": "Traffic Control",
     "latitude": 30.28848,
     "longitude": -92.09653
-  },
-  {
-    "address": "W PINHOOK RD & E UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "02/06/2020 - 2:59 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.21056,
-    "longitude": -92.00978
   },
   {
     "address": "1522 CARMEL DR",
