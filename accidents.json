@@ -1,5 +1,29 @@
 [
   {
+    "address": "600 CHURCH ST",
+    "city": "YOUNGSVILLE",
+    "time": "02/06/2020 - 3:32 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.09923,
+    "longitude": -91.99578
+  },
+  {
+    "address": "GARFIELD ST & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "02/06/2020 - 3:32 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22438,
+    "longitude": -92.01447
+  },
+  {
+    "address": "1250 CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "02/06/2020 - 3:32 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23188,
+    "longitude": -91.98938
+  },
+  {
     "address": "400 FOREMAN DR",
     "city": "LAFAYETTE",
     "time": "02/06/2020 - 3:21 PM",
@@ -16,14 +40,6 @@
     "longitude": -92.10386
   },
   {
-    "address": "AVE B @ SECOND ST",
-    "city": "Lafayette",
-    "time": "02/06/2020 - 3:03 PM",
-    "due_to": "Traffic Control",
-    "latitude": 32.90055,
-    "longitude": -85.39497
-  },
-  {
     "address": "400 RUE SCHOLASTIQUE",
     "city": "LAFAYETTE",
     "time": "02/06/2020 - 3:02 PM",
@@ -38,14 +54,6 @@
     "due_to": "Traffic Control",
     "latitude": 30.23215,
     "longitude": -91.98358
-  },
-  {
-    "address": "1800 CHEMIN METAIRIE PW",
-    "city": "YOUNGSVILLE",
-    "time": "02/06/2020 - 2:40 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.1046,
-    "longitude": -92.01597
   },
   {
     "address": "145 GREENFIELD DR",
