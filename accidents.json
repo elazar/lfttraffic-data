@@ -1,5 +1,13 @@
 [
   {
+    "address": "1102 BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "02/06/2020 - 02:27 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.2185269,
+    "longitude": -92.0492836
+  },
+  {
     "address": "2144 W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "02/06/2020 - 12:45 AM",
