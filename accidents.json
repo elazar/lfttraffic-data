@@ -8,28 +8,12 @@
     "longitude": -92.03836
   },
   {
-    "address": "2901 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "02/06/2020 - 08:23 AM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.20569,
-    "longitude": -92.04069
-  },
-  {
     "address": "631 E VERMILION ST",
     "city": "LAFAYETTE",
     "time": "02/06/2020 - 08:04 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.22155,
     "longitude": -92.01271
-  },
-  {
-    "address": "600 CHURCH ST",
-    "city": "YOUNGSVILLE",
-    "time": "02/06/2020 - 07:58 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.09923,
-    "longitude": -91.99578
   },
   {
     "address": "LANDRY RD & TABB RD",
