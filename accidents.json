@@ -1,5 +1,13 @@
 [
   {
+    "address": "JASON DR & SMALLEY RD",
+    "city": "CARENCRO",
+    "time": "02/06/2020 - 07:25 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.30042,
+    "longitude": -92.03207
+  },
+  {
     "address": "400 RUE SCHOLASTIQUE",
     "city": "LAFAYETTE",
     "time": "02/06/2020 - 07:14 AM",
