@@ -24,28 +24,12 @@
     "longitude": -92.057
   },
   {
-    "address": "4100 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "02/06/2020 - 1:13 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.19727,
-    "longitude": -92.05707
-  },
-  {
     "address": "1521 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "02/06/2020 - 1:09 PM",
     "due_to": "Traffic Control",
     "latitude": 30.19637,
     "longitude": -92.01545
-  },
-  {
-    "address": "NW EVANGELINE TW & W WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "02/06/2020 - 1:05 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.24481,
-    "longitude": -92.01456
   },
   {
     "address": "320 DEVALCOURT ST",
