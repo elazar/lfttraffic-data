@@ -1,5 +1,13 @@
 [
   {
+    "address": "4311 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "02/06/2020 - 4:25 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19448,
+    "longitude": -92.0575
+  },
+  {
     "address": "CAMERON ST & ST JOHN ST",
     "city": "LAFAYETTE",
     "time": "02/06/2020 - 4:02 PM",
