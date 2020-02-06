@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "02/05/2020 - 8:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1886,
+    "longitude": -92.0141
+  },
+  {
     "address": "ELMIRA RD & RENAUD DR",
     "city": "SCOTT",
     "time": "02/05/2020 - 8:13 PM",
