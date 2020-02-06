@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & ST JOHN ST",
+    "city": "LAFAYETTE",
+    "time": "02/06/2020 - 4:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23185,
+    "longitude": -92.02287
+  },
+  {
     "address": "601 LOUL ST",
     "city": "BROUSSARD",
     "time": "02/06/2020 - 4:01 PM",
