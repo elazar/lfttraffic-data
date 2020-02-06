@@ -1,5 +1,13 @@
 [
   {
+    "address": "309 LOUVETEAU RD",
+    "city": "LAFAYETTE",
+    "time": "02/05/2020 - 7:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.34278,
+    "longitude": -92.05244
+  },
+  {
     "address": "LOUISIANA AV & E ALEXANDER ST",
     "city": "LAFAYETTE",
     "time": "02/05/2020 - 7:39 PM",
