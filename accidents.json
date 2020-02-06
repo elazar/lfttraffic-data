@@ -1,5 +1,13 @@
 [
   {
+    "address": "4000 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "02/06/2020 - 08:56 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.19824,
+    "longitude": -92.07087
+  },
+  {
     "address": "S COLLEGE RD & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "02/06/2020 - 08:24 AM",
