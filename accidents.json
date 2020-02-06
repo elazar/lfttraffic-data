@@ -1,5 +1,21 @@
 [
   {
+    "address": "200 ST NAZAIRE RD",
+    "city": "BROUSSARD",
+    "time": "02/06/2020 - 12:56 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13792,
+    "longitude": -91.94248
+  },
+  {
+    "address": "NE EVANGELINE TW & E WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "02/06/2020 - 12:56 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.24447,
+    "longitude": -92.01187
+  },
+  {
     "address": "301 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "02/06/2020 - 12:14 PM",
