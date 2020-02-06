@@ -1,5 +1,13 @@
 [
   {
+    "address": "BERTRAND DR & DULLES DR",
+    "city": "LAFAYETTE",
+    "time": "02/06/2020 - 02:27 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.22233,
+    "longitude": -92.05213
+  },
+  {
     "address": "2144 W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "02/06/2020 - 12:45 AM",
