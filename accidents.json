@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & CELEBRITY DR",
+    "city": "BROUSSARD",
+    "time": "02/07/2020 - 2:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14492,
+    "longitude": -91.94632
+  },
+  {
     "address": "RIDGE RD & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "02/07/2020 - 1:35 PM",
