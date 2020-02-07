@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "3000 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "02/07/2020 - 06:01 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.20752,
+    "longitude": -92.05827
+  }
+]
