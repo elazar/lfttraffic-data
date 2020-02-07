@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21749,
     "longitude": -92.00495
-  },
-  {
-    "address": "NW EVANGELINE TW & W WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "02/07/2020 - 12:01 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.24481,
-    "longitude": -92.01456
   }
 ]
