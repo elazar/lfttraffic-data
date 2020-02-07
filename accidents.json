@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "02/07/2020 - 12:59 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24052,
+    "longitude": -92.03242
+  },
+  {
     "address": "2627 BONIN RD",
     "city": "YOUNGSVILLE",
     "time": "02/07/2020 - 12:51 PM",
