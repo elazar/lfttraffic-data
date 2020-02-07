@@ -1,5 +1,13 @@
 [
   {
+    "address": "1214 COOLIDGE ST",
+    "city": "LAFAYETTE",
+    "time": "02/07/2020 - 11:10 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2025101,
+    "longitude": -92.0186946
+  },
+  {
     "address": "2515 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "02/07/2020 - 10:29 AM",
