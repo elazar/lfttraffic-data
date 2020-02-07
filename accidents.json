@@ -8,36 +8,12 @@
     "longitude": -91.94584
   },
   {
-    "address": "CARMEL DR & LAKE MARTIN RD",
-    "city": "LAFAYETTE",
-    "time": "02/07/2020 - 4:07 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.23332,
-    "longitude": -91.9785
-  },
-  {
-    "address": "600 CHURCH ST",
-    "city": "YOUNGSVILLE",
-    "time": "02/07/2020 - 3:32 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.09923,
-    "longitude": -91.99578
-  },
-  {
     "address": "AMBASSADOR CAFFERY PW & S MORGAN AV",
     "city": "BROUSSARD",
     "time": "02/07/2020 - 2:50 PM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.13188,
     "longitude": -91.96517
-  },
-  {
-    "address": "200 GAZETTE RD",
-    "city": "LAFAYETTE",
-    "time": "02/07/2020 - 2:38 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.25651,
-    "longitude": -92.14494
   },
   {
     "address": "N UNIVERSITY AV & WALKER RD",
