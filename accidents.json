@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "W MAIN ST & MASTERS DR",
+    "city": "BROUSSARD",
+    "time": "02/06/2020 - 11:06 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14918,
+    "longitude": -91.97153
+  }
+]
