@@ -1,5 +1,13 @@
 [
   {
+    "address": "6209 CAMERON ST",
+    "city": "SCOTT",
+    "time": "02/07/2020 - 07:00 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.23352,
+    "longitude": -92.10168
+  },
+  {
     "address": "MONTEIGNE DR & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "02/07/2020 - 06:57 AM",
