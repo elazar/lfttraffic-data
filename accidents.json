@@ -1,5 +1,13 @@
 [
   {
+    "address": "812 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "02/07/2020 - 4:13 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23141,
+    "longitude": -92.06306
+  },
+  {
     "address": "4607 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "02/07/2020 - 4:11 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.23332,
     "longitude": -91.9785
-  },
-  {
-    "address": "812 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "02/07/2020 - 3:51 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.23141,
-    "longitude": -92.06306
   },
   {
     "address": "600 CHURCH ST",
