@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & RUE DU BELIER",
+    "city": "SCOTT",
+    "time": "02/07/2020 - 07:49 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19575,
+    "longitude": -92.09634
+  },
+  {
     "address": "3811 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "02/07/2020 - 07:46 AM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.28156,
     "longitude": -92.02213
-  },
-  {
-    "address": "302 RUE LOUIS XIV",
-    "city": "LAFAYETTE",
-    "time": "02/07/2020 - 07:28 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1683131,
-    "longitude": -92.0246251
   },
   {
     "address": "3811 US 90 EAST HW",
