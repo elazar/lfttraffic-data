@@ -1,9 +1,17 @@
 [
   {
+    "address": "BERTRAND DR & BANKS AV",
+    "city": "LAFAYETTE",
+    "time": "02/07/2020 - 2:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2271,
+    "longitude": -92.06076
+  },
+  {
     "address": "N UNIVERSITY AV & WALKER RD",
     "city": "LAFAYETTE",
     "time": "02/07/2020 - 2:26 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.2359,
     "longitude": -92.03241
   },
