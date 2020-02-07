@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & N GIROUARD RD",
+    "city": "BROUSSARD",
+    "time": "02/07/2020 - 08:59 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.14854,
+    "longitude": -91.9488
+  },
+  {
     "address": "1225 CARMEL DR",
     "city": "LAFAYETTE",
     "time": "02/07/2020 - 08:53 AM",
