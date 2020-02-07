@@ -1,5 +1,13 @@
 [
   {
+    "address": "3811 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "02/07/2020 - 07:26 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15682,
+    "longitude": -91.96648
+  },
+  {
     "address": "136 ANCELET ST",
     "city": "LAFAYETTE",
     "time": "02/07/2020 - 07:13 AM",
@@ -38,14 +46,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.20972,
     "longitude": -92.05292
-  },
-  {
-    "address": "2800 CHEMIN METAIRIE PW",
-    "city": "YOUNGSVILLE",
-    "time": "02/07/2020 - 06:56 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.084597,
-    "longitude": -91.9937943
   },
   {
     "address": "103 I10 EASTBOUND MM103A HW",
