@@ -1,5 +1,13 @@
 [
   {
+    "address": "LANGLINAIS RD & S LARRIVIERE RD",
+    "city": "LAFAYETTE",
+    "time": "02/07/2020 - 09:24 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.07284,
+    "longitude": -91.9737
+  },
+  {
     "address": "TOLSON RD & BONIN RD",
     "city": "LAFAYETTE",
     "time": "02/07/2020 - 09:21 AM",
@@ -38,13 +46,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22457,
     "longitude": -92.01033
-  },
-  {
-    "address": "ST JOHN ST & W MAIN ST",
-    "city": "LAFAYETTE",
-    "time": "02/07/2020 - 08:21 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2229,
-    "longitude": -92.02285
   }
 ]
