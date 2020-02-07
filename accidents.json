@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "505 CAUTILLION DR",
+    "city": "YOUNGSVILLE",
+    "time": "02/07/2020 - 11:41 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.08075,
+    "longitude": -91.98593
+  }
+]
