@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & CAJUNDOME BL",
+    "city": "LAFAYETTE",
+    "time": "02/07/2020 - 1:07 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20919,
+    "longitude": -92.0338
+  },
+  {
     "address": "312 ALMONASTER RD",
     "city": "YOUNGSVILLE",
     "time": "02/07/2020 - 1:04 PM",
