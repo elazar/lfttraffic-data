@@ -1,5 +1,13 @@
 [
   {
+    "address": "3000 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "02/07/2020 - 1:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20752,
+    "longitude": -92.05827
+  },
+  {
     "address": "N UNIVERSITY AV & MIDWAY ST",
     "city": "LAFAYETTE",
     "time": "02/07/2020 - 1:23 PM",
