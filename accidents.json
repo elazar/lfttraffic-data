@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20725,
     "longitude": -92.03905
-  },
-  {
-    "address": "NW EVANGELINE TW & I10 HW",
-    "city": "LAFAYETTE",
-    "time": "02/07/2020 - 11:50 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.25098,
-    "longitude": -92.01403
   }
 ]
