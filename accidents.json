@@ -1,5 +1,13 @@
 [
   {
+    "address": "2909 NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "02/07/2020 - 07:33 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.28156,
+    "longitude": -92.02213
+  },
+  {
     "address": "302 RUE LOUIS XIV",
     "city": "LAFAYETTE",
     "time": "02/07/2020 - 07:28 AM",
