@@ -1,5 +1,13 @@
 [
   {
+    "address": "NW EVANGELINE TW & W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "02/07/2020 - 12:01 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.24481,
+    "longitude": -92.01456
+  },
+  {
     "address": "2700 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "02/07/2020 - 11:57 AM",
