@@ -62,13 +62,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.26255,
     "longitude": -92.00867
-  },
-  {
-    "address": "105 I10 EASTBOUND MM105 HW",
-    "city": "LAFAYETTE",
-    "time": "02/07/2020 - 06:32 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.26255,
-    "longitude": -92.00867
   }
 ]
