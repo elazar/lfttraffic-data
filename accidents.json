@@ -1,5 +1,21 @@
 [
   {
+    "address": "NW EVANGELINE TW & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "02/07/2020 - 11:50 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.25098,
+    "longitude": -92.01403
+  },
+  {
+    "address": "1099 MALAPART RD",
+    "city": "LAFAYETTE",
+    "time": "02/07/2020 - 11:50 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.290425,
+    "longitude": -92.0911576
+  },
+  {
     "address": "505 CAUTILLION DR",
     "city": "YOUNGSVILLE",
     "time": "02/07/2020 - 11:41 AM",
