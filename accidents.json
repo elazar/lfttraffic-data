@@ -1,13 +1,5 @@
 [
   {
-    "address": "DUHON RD & W BROUSSARD RD",
-    "city": "LAFAYETTE",
-    "time": "02/07/2020 - 11:01 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.16693,
-    "longitude": -92.09962
-  },
-  {
     "address": "2515 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "02/07/2020 - 10:29 AM",
@@ -30,13 +22,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.06866,
     "longitude": -91.96715
-  },
-  {
-    "address": "TOLSON RD & BONIN RD",
-    "city": "LAFAYETTE",
-    "time": "02/07/2020 - 09:21 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15204,
-    "longitude": -92.00654
   }
 ]
