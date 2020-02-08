@@ -1,5 +1,13 @@
 [
   {
+    "address": "406 E MADISON ST",
+    "city": "BROUSSARD",
+    "time": "02/08/2020 - 2:38 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.14581,
+    "longitude": -91.96076
+  },
+  {
     "address": "106 W PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "02/08/2020 - 2:31 PM",
@@ -31,7 +39,14 @@
     "latitude": 30.22654,
     "longitude": -92.01035
   },
-  null,
+  {
+    "address": "LANDRY RD & HENNING RD",
+    "city": "SCOTT",
+    "time": "02/08/2020 - 1:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21193,
+    "longitude": -92.10868
+  },
   {
     "address": "804 MARTIN LUTHER KING JR DR",
     "city": "LAFAYETTE",
