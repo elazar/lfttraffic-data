@@ -1,5 +1,13 @@
 [
   {
+    "address": "NW FRONTAGE RD & MARTIN LUTHER KING JR DR",
+    "city": "LAFAYETTE",
+    "time": "02/08/2020 - 11:48 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.24806,
+    "longitude": -92.01355
+  },
+  {
     "address": "W CONGRESS ST & RUE DU BELIER",
     "city": "SCOTT",
     "time": "02/08/2020 - 11:13 AM",
