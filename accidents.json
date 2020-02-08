@@ -1,5 +1,13 @@
 [
   {
+    "address": "NORTHGATE DR & E WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "02/08/2020 - 12:50 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24432,
+    "longitude": -92.01014
+  },
+  {
     "address": "CAMERON ST & ALFRED ST",
     "city": "SCOTT",
     "time": "02/08/2020 - 12:49 PM",
