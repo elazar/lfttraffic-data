@@ -1,5 +1,13 @@
 [
   {
+    "address": "E MILTON AV & E BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "02/07/2020 - 11:04 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1087,
+    "longitude": -92.05963
+  },
+  {
     "address": "114 RUE ROYALE",
     "city": "LAFAYETTE",
     "time": "02/07/2020 - 9:56 PM",
