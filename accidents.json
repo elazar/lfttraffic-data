@@ -1,5 +1,13 @@
 [
   {
+    "address": "1815 ST MARY ST",
+    "city": "SCOTT",
+    "time": "02/07/2020 - 6:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24424,
+    "longitude": -92.10709
+  },
+  {
     "address": "FAILLA RD & VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "02/07/2020 - 6:23 PM",
