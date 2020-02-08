@@ -1,5 +1,13 @@
 [
   {
+    "address": "1420 FORTUNE RD",
+    "city": "YOUNGSVILLE",
+    "time": "02/07/2020 - 7:05 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.12179,
+    "longitude": -91.99286
+  },
+  {
     "address": "E PINHOOK RD & SW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "02/07/2020 - 12:08 PM",
