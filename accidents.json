@@ -1,5 +1,13 @@
 [
   {
+    "address": "4225 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "02/08/2020 - 1:45 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.15268,
+    "longitude": -91.95577
+  },
+  {
     "address": "SEVENTH ST & SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "02/08/2020 - 1:34 PM",
