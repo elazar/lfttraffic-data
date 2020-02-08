@@ -1,5 +1,21 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & SETTLERS TRACE BL",
+    "city": "LAFAYETTE",
+    "time": "02/08/2020 - 3:15 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.15969,
+    "longitude": -92.05229
+  },
+  {
+    "address": "4509 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "02/08/2020 - 3:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1932,
+    "longitude": -92.05886
+  },
+  {
     "address": "1325 S MORGAN AV",
     "city": "BROUSSARD",
     "time": "02/08/2020 - 3:09 PM",
