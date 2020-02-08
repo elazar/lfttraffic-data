@@ -1,5 +1,13 @@
 [
   {
+    "address": "110 E LEWIS ST",
+    "city": "LAFAYETTE",
+    "time": "02/08/2020 - 02:27 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.211911,
+    "longitude": -92.02524
+  },
+  {
     "address": "501 E BROUSSARD RD",
     "city": "LAFAYETTE",
     "time": "02/08/2020 - 01:59 AM",
