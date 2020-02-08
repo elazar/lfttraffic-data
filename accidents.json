@@ -1,5 +1,13 @@
 [
   {
+    "address": "1325 S MORGAN AV",
+    "city": "BROUSSARD",
+    "time": "02/08/2020 - 3:09 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.12515,
+    "longitude": -91.96357
+  },
+  {
     "address": "2411 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "02/08/2020 - 2:39 PM",
