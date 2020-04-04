@@ -22,5 +22,13 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15712,
     "longitude": -92.05125
+  },
+  {
+    "address": "200 BELLEVEDERE AV",
+    "city": "LAFAYETTE",
+    "time": "04/04/2020 - 09:09 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1393969,
+    "longitude": -92.0878842
   }
 ]
