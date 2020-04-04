@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "400 AUSTRIA RD",
+    "city": "DUSON",
+    "time": "04/04/2020 - 12:48 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24242,
+    "longitude": -92.19316
+  }
+]
