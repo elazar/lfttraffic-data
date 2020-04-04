@@ -1,9 +1,17 @@
 [
   {
+    "address": "111 GENDARME RD",
+    "city": "LAFAYETTE",
+    "time": "04/04/2020 - 10:21 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.35667,
+    "longitude": -92.05301
+  },
+  {
     "address": "100 SPEARPOINT CT",
     "city": "LAFAYETTE",
     "time": "04/04/2020 - 10:19 AM",
-    "due_to": "Incoming Call",
+    "due_to": "Fire Investigation",
     "latitude": 30.1846453,
     "longitude": -92.1381813
   },
