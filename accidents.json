@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "N UNIVERSITY AV & STONE AV",
+    "city": "LAFAYETTE",
+    "time": "04/04/2020 - 4:09 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.25534,
+    "longitude": -92.03844
+  }
+]
