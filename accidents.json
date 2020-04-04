@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.32196,
     "longitude": -92.04274
-  },
-  {
-    "address": "1324 CHEMIN AGREABLE",
-    "city": "LAFAYETTE",
-    "time": "04/04/2020 - 4:40 PM",
-    "due_to": "Trash Fire",
-    "latitude": 30.06626,
-    "longitude": -92.03052
   }
 ]
