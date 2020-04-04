@@ -1,5 +1,13 @@
 [
   {
+    "address": "W BROUSSARD RD & DUHON RD",
+    "city": "LAFAYETTE",
+    "time": "04/04/2020 - 12:08 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.1645,
+    "longitude": -92.09961
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & CHEMIN METAIRIE",
     "city": "LAFAYETTE",
     "time": "04/04/2020 - 11:50 AM",
