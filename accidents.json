@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & ARNOULD BL",
+    "city": "LAFAYETTE",
+    "time": "04/04/2020 - 3:06 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.20186,
+    "longitude": -92.05312
+  },
+  {
     "address": "NE FRONTAGE RD & CASTILLE AV",
     "city": "LAFAYETTE",
     "time": "04/04/2020 - 2:38 PM",
