@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "address": "NE EVANGELINE TW & E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "04/04/2020 - 6:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23103,
+    "longitude": -92.01313
+  },
+  {
+    "address": "MILLS ST & W WILLOW ST",
+    "city": "SCOTT",
+    "time": "04/04/2020 - 6:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24194,
+    "longitude": -92.09134
+  }
+]
