@@ -1,5 +1,13 @@
 [
   {
+    "address": "N FIELDSPAN RD & RUE BON SECOURS",
+    "city": "LAFAYETTE",
+    "time": "04/04/2020 - 1:47 PM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.25894,
+    "longitude": -92.14191
+  },
+  {
     "address": "120 E GLORIA SWITCH RD",
     "city": "LAFAYETTE",
     "time": "04/04/2020 - 1:29 PM",
