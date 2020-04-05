@@ -1,5 +1,13 @@
 [
   {
+    "address": "108 REBECCA DR",
+    "city": "LAFAYETTE",
+    "time": "04/05/2020 - 1:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15527,
+    "longitude": -92.01552
+  },
+  {
     "address": "116 CASE LN",
     "city": "LAFAYETTE",
     "time": "04/05/2020 - 12:48 PM",
