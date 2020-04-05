@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "JOHNSTON ST & JEFFERSON ST",
+    "city": "LAFAYETTE",
+    "time": "04/05/2020 - 07:49 AM",
+    "due_to": "Fire Alarm-Unknown",
+    "latitude": 30.2201,
+    "longitude": -92.0172
+  }
+]
