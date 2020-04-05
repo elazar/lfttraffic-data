@@ -1,5 +1,13 @@
 [
   {
+    "address": "500 ARCENEAUX RD",
+    "city": "CARENCRO",
+    "time": "04/05/2020 - 11:23 AM",
+    "due_to": "Trash Fire",
+    "latitude": 30.30968,
+    "longitude": -92.0455
+  },
+  {
     "address": "N MORGAN AV & W RAILROAD ST",
     "city": "BROUSSARD",
     "time": "04/05/2020 - 10:38 AM",
