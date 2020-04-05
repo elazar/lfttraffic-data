@@ -1,5 +1,13 @@
 [
   {
+    "address": "97 I10 WESTBOUND MM97 HW",
+    "city": "LAFAYETTE",
+    "time": "04/05/2020 - 4:15 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "2520 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/05/2020 - 4:05 PM",
