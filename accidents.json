@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "2724 NW EVANGELINE TRWY, ,",
+    "city": "Lafayette",
+    "time": "04/05/2020 - 02:44 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2675409,
+    "longitude": -92.0178413
+  }
+]
