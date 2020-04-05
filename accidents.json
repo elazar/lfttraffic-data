@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2615004,
     "longitude": -92.0573519
-  },
-  {
-    "address": "812 N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "04/04/2020 - 10:09 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.23943,
-    "longitude": -92.03187
   }
 ]
