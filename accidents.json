@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 BROTHERS RD",
+    "city": "LAFAYETTE",
+    "time": "04/04/2020 - 10:16 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2615004,
+    "longitude": -92.0573519
+  },
+  {
     "address": "2300 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "04/04/2020 - 10:12 PM",
