@@ -1,11 +1,11 @@
 [
   {
-    "address": "FOREMAN DR & W CONGRESS ST",
+    "address": "2751 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "04/05/2020 - 5:24 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.20729,
-    "longitude": -92.05656
+    "due_to": "Residential Fire",
+    "latitude": 30.2079617,
+    "longitude": -92.0553169
   },
   {
     "address": "97 I10 WESTBOUND MM97 HW",
