@@ -1,5 +1,13 @@
 [
   {
+    "address": "1241 S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "04/05/2020 - 12:32 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.19972,
+    "longitude": -92.02483
+  },
+  {
     "address": "221 VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "04/05/2020 - 11:38 AM",
