@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20443,
     "longitude": -92.07545
-  },
-  {
-    "address": "409 HAIG ST",
-    "city": "LAFAYETTE",
-    "time": "04/05/2020 - 4:04 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.23336,
-    "longitude": -91.9986
   }
 ]
