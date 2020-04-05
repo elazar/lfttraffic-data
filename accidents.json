@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "219 ST NAZAIRE RD",
+    "city": "BROUSSARD",
+    "time": "04/05/2020 - 6:55 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14213,
+    "longitude": -91.93968
+  }
+]
