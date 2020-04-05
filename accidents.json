@@ -1,5 +1,13 @@
 [
   {
+    "address": "1229 NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "04/05/2020 - 6:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23958,
+    "longitude": -92.0157
+  },
+  {
     "address": "219 ST NAZAIRE RD",
     "city": "BROUSSARD",
     "time": "04/05/2020 - 6:55 PM",
