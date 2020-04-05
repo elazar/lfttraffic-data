@@ -1,5 +1,13 @@
 [
   {
+    "address": "2300 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "04/04/2020 - 10:12 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2214883,
+    "longitude": -92.0372476
+  },
+  {
     "address": "812 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "04/04/2020 - 10:09 PM",
