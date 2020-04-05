@@ -1,11 +1,19 @@
 [
   {
-    "address": "500 ARCENEAUX RD",
+    "address": "221 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "04/05/2020 - 11:38 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.176,
+    "longitude": -92.00509
+  },
+  {
+    "address": "514 ARCENEAUX RD",
     "city": "CARENCRO",
     "time": "04/05/2020 - 11:23 AM",
     "due_to": "Trash Fire",
-    "latitude": 30.30968,
-    "longitude": -92.0455
+    "latitude": 30.30994,
+    "longitude": -92.0464
   },
   {
     "address": "N MORGAN AV & W RAILROAD ST",
