@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1924 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "04/05/2020 - 05:53 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.15878,
+    "longitude": -92.02403
+  }
+]
