@@ -1,5 +1,13 @@
 [
   {
+    "address": "CANBERRA RD & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/06/2020 - 6:10 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.15924,
+    "longitude": -92.08588
+  },
+  {
     "address": "800 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/06/2020 - 5:53 PM",
