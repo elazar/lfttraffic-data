@@ -1,5 +1,13 @@
 [
   {
+    "address": "GARD CL & VAUCLUSE DR",
+    "city": "LAFAYETTE",
+    "time": "04/06/2020 - 10:24 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.29301,
+    "longitude": -92.02755
+  },
+  {
     "address": "W WILLOW ST & PATTERSON ST",
     "city": "LAFAYETTE",
     "time": "04/06/2020 - 10:15 AM",
