@@ -1,5 +1,13 @@
 [
   {
+    "address": "1919 ERASTE LANDRY RD",
+    "city": "LAFAYETTE",
+    "time": "04/06/2020 - 09:18 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21836,
+    "longitude": -92.07131
+  },
+  {
     "address": "500 HECTOR CONNOLY RD",
     "city": "LAFAYETTE",
     "time": "04/06/2020 - 09:11 AM",
