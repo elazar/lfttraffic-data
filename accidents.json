@@ -1,5 +1,13 @@
 [
   {
+    "address": "500 HECTOR CONNOLY RD",
+    "city": "LAFAYETTE",
+    "time": "04/06/2020 - 09:11 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.3218787,
+    "longitude": -92.0225595
+  },
+  {
     "address": "2223 DULLES DR",
     "city": "SCOTT",
     "time": "04/06/2020 - 08:35 AM",
