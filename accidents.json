@@ -1,5 +1,13 @@
 [
   {
+    "address": "1700 SW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "04/06/2020 - 10:45 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2057678,
+    "longitude": -92.0009227
+  },
+  {
     "address": "506 LOIRE AV",
     "city": "LAFAYETTE",
     "time": "04/06/2020 - 10:24 AM",
