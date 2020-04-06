@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "111 GOSHEN LN",
+    "city": "LAFAYETTE",
+    "time": "04/06/2020 - 5:49 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.13548,
+    "longitude": -92.06542
+  }
+]
