@@ -1,5 +1,13 @@
 [
   {
+    "address": "7 I49 NORTHBOUND MM7 HW",
+    "city": "LAFAYETTE",
+    "time": "04/06/2020 - 5:07 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.28006,
+    "longitude": -92.02024
+  },
+  {
     "address": "105 I10 EASTBOUND MM105 HW",
     "city": "LAFAYETTE",
     "time": "04/06/2020 - 4:46 PM",
