@@ -1,5 +1,13 @@
 [
   {
+    "address": "N COLLEGE RD & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/06/2020 - 10:00 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20727,
+    "longitude": -92.03836
+  },
+  {
     "address": "500 HECTOR CONNOLY RD",
     "city": "LAFAYETTE",
     "time": "04/06/2020 - 09:11 AM",
