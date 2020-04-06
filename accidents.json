@@ -1,5 +1,13 @@
 [
   {
+    "address": "LOUISIANA AV & E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "04/06/2020 - 12:42 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23002,
+    "longitude": -92.00303
+  },
+  {
     "address": "424 BROOK AV",
     "city": "LAFAYETTE",
     "time": "04/06/2020 - 11:51 AM",
