@@ -1,5 +1,13 @@
 [
   {
+    "address": "4000 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "04/06/2020 - 1:40 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1663,
+    "longitude": -92.06118
+  },
+  {
     "address": "201 LONGLEAF DR",
     "city": "BROUSSARD",
     "time": "04/06/2020 - 1:11 PM",
