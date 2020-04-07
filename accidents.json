@@ -1,5 +1,13 @@
 [
   {
+    "address": "215 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "04/07/2020 - 3:50 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24469,
+    "longitude": -92.01605
+  },
+  {
     "address": "E SIMCOE ST & E PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "04/07/2020 - 3:49 PM",
