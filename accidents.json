@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "E SIMCOE ST & E PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "04/07/2020 - 3:49 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22623,
+    "longitude": -91.99507
+  }
+]
