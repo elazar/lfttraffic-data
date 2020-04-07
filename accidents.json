@@ -1,5 +1,13 @@
 [
   {
+    "address": "106 DAVID ST",
+    "city": "LAFAYETTE",
+    "time": "04/07/2020 - 4:32 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27783,
+    "longitude": -92.0466
+  },
+  {
     "address": "VEROT SCHOOL RD & VINCENT RD",
     "city": "LAFAYETTE",
     "time": "04/07/2020 - 4:28 PM",
