@@ -1,5 +1,13 @@
 [
   {
+    "address": "1106 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "04/07/2020 - 02:24 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24051,
+    "longitude": -92.00696
+  },
+  {
     "address": "1400 SURREY ST",
     "city": "LAFAYETTE",
     "time": "04/07/2020 - 01:54 AM",
