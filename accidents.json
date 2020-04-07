@@ -1,5 +1,13 @@
 [
   {
+    "address": "133 BURROW DR",
+    "city": "LAFAYETTE",
+    "time": "04/07/2020 - 4:08 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.2692,
+    "longitude": -92.10335
+  },
+  {
     "address": "215 W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "04/07/2020 - 3:50 PM",
