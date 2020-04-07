@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 I10 WB EXIT RAMP HW",
+    "city": "LAFAYETTE",
+    "time": "04/07/2020 - 1:34 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "HEIDE CL & ROPER DR",
     "city": "SCOTT",
     "time": "04/07/2020 - 1:19 PM",
