@@ -1,19 +1,19 @@
 [
   {
+    "address": "VEROT SCHOOL RD & VINCENT RD",
+    "city": "LAFAYETTE",
+    "time": "04/07/2020 - 4:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13809,
+    "longitude": -92.03254
+  },
+  {
     "address": "W BROUSSARD RD & DUHON RD",
     "city": "LAFAYETTE",
     "time": "04/07/2020 - 4:19 PM",
     "due_to": "Traffic Control",
     "latitude": 30.1645,
     "longitude": -92.09961
-  },
-  {
-    "address": "133 BURROW DR",
-    "city": "LAFAYETTE",
-    "time": "04/07/2020 - 4:08 PM",
-    "due_to": "Trash Fire",
-    "latitude": 30.2692,
-    "longitude": -92.10335
   },
   {
     "address": "215 W WILLOW ST",
