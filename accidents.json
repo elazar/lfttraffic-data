@@ -1,5 +1,13 @@
 [
   {
+    "address": "500 TRAPPEY RD",
+    "city": "LAFAYETTE",
+    "time": "04/07/2020 - 12:41 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.3633709,
+    "longitude": -92.0164267
+  },
+  {
     "address": "341 IRBY RD",
     "city": "LAFAYETTE",
     "time": "04/07/2020 - 12:33 PM",
