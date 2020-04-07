@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PONT DES MOUTON RD & I49 SOUTHBOUND MM1 HW",
+    "city": "LAFAYETTE",
+    "time": "04/07/2020 - 6:53 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.27587,
+    "longitude": -92.04949
+  },
+  {
     "address": "NE EVANGELINE TW & E GLORIA SWITCH RD",
     "city": "LAFAYETTE",
     "time": "04/07/2020 - 6:45 PM",
