@@ -1,5 +1,13 @@
 [
   {
+    "address": "MOSS ST & CLAUSE LN",
+    "city": "LAFAYETTE",
+    "time": "04/06/2020 - 9:25 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.27779,
+    "longitude": -92.00785
+  },
+  {
     "address": "1200 ROBLEY DR",
     "city": "LAFAYETTE",
     "time": "04/06/2020 - 8:50 PM",
