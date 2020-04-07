@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "HEIDE CL & ROPER DR",
+    "city": "SCOTT",
+    "time": "04/07/2020 - 1:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26421,
+    "longitude": -92.07475
+  }
+]
