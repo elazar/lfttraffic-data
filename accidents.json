@@ -1,5 +1,13 @@
 [
   {
+    "address": "500 VATICAN RD",
+    "city": "LAFAYETTE",
+    "time": "04/06/2020 - 9:54 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.31022,
+    "longitude": -92.10263
+  },
+  {
     "address": "1200 ROBLEY DR",
     "city": "LAFAYETTE",
     "time": "04/06/2020 - 8:50 PM",
