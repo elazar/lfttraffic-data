@@ -1,26 +1,10 @@
 [
   {
-    "address": "239 OKLAHOMA ST",
-    "city": "LAFAYETTE",
-    "time": "04/08/2020 - 09:33 AM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.24136,
-    "longitude": -91.99853
-  },
-  {
     "address": "AMBASSADOR CAFFERY PW & CURRAN LN",
     "city": "LAFAYETTE",
     "time": "04/08/2020 - 09:23 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.18845,
     "longitude": -92.07506
-  },
-  {
-    "address": "W WILLOW ST & PATTERSON ST",
-    "city": "LAFAYETTE",
-    "time": "04/08/2020 - 09:08 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.24518,
-    "longitude": -92.01841
   }
 ]
