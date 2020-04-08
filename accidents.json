@@ -1,5 +1,13 @@
 [
   {
+    "address": "1013 RICELAND RD",
+    "city": "DUSON",
+    "time": "04/07/2020 - 8:56 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22917,
+    "longitude": -92.20877
+  },
+  {
     "address": "322 POPE DR",
     "city": "LAFAYETTE",
     "time": "04/07/2020 - 8:41 PM",
