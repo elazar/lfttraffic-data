@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1600 E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "04/08/2020 - 2:56 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22854,
+    "longitude": -91.99852
+  }
+]
