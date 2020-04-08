@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "135 ROUSSEAU RD",
+    "city": "LAFAYETTE",
+    "time": "04/08/2020 - 02:22 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.13138,
+    "longitude": -91.99349
+  }
+]
