@@ -1,5 +1,13 @@
 [
   {
+    "address": "4600 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "04/08/2020 - 10:44 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1465067,
+    "longitude": -91.9473074
+  },
+  {
     "address": "SW EVANGELINE TW & SIXTH ST",
     "city": "LAFAYETTE",
     "time": "04/08/2020 - 10:30 AM",
