@@ -1,5 +1,13 @@
 [
   {
+    "address": "RUE DU LAC & CLIFFORD RD",
+    "city": "LAFAYETTE",
+    "time": "04/08/2020 - 6:50 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22893,
+    "longitude": -91.99475
+  },
+  {
     "address": "JEFFERSON BL & N STERLING ST",
     "city": "LAFAYETTE",
     "time": "04/08/2020 - 6:36 PM",
