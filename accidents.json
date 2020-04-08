@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "105 I10 WB EXIT RAMP HW",
+    "city": "LAFAYETTE",
+    "time": "04/08/2020 - 5:02 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  }
+]
