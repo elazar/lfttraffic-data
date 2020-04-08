@@ -1,5 +1,13 @@
 [
   {
+    "address": "BENDEL RD & MARGUERITE BL",
+    "city": "LAFAYETTE",
+    "time": "04/08/2020 - 1:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20083,
+    "longitude": -92.0186
+  },
+  {
     "address": "HECTOR CONNOLY RD & NE FRONTAGE RD",
     "city": "CARENCRO",
     "time": "04/08/2020 - 1:31 PM",
