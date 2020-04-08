@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "97 I10 EASTBOUND MM97 HW",
+    "city": "LAFAYETTE",
+    "time": "04/08/2020 - 08:49 AM",
+    "due_to": "Road Hazard",
+    "latitude": null,
+    "longitude": null
+  }
+]
