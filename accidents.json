@@ -6,13 +6,5 @@
     "due_to": "Traffic Control",
     "latitude": 30.1090551,
     "longitude": -92.0210997
-  },
-  {
-    "address": "0 FIRE DEPARTMENT",
-    "city": "LAFAYETTE",
-    "time": "04/08/2020 - 11:46 AM",
-    "due_to": "Trash Fire",
-    "latitude": null,
-    "longitude": null
   }
 ]
