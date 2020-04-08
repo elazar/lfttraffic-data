@@ -1,5 +1,13 @@
 [
   {
+    "address": "5800 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "04/08/2020 - 12:09 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.11021,
+    "longitude": -91.94413
+  },
+  {
     "address": "0 FIRE DEPARTMENT",
     "city": "LAFAYETTE",
     "time": "04/08/2020 - 11:46 AM",
