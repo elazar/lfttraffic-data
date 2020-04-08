@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "436 LA 93 HW",
+    "city": "SCOTT",
+    "time": "04/08/2020 - 07:26 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2562,
+    "longitude": -92.10767
+  }
+]
