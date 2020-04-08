@@ -1,5 +1,13 @@
 [
   {
+    "address": "3842 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "04/08/2020 - 3:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20075,
+    "longitude": -92.06753
+  },
+  {
     "address": "1600 E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "04/08/2020 - 2:56 PM",
