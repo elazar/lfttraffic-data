@@ -1,5 +1,13 @@
 [
   {
+    "address": "HECTOR CONNOLY RD & NE FRONTAGE RD",
+    "city": "CARENCRO",
+    "time": "04/08/2020 - 1:31 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.32261,
+    "longitude": -92.0325
+  },
+  {
     "address": "DEBONNAIRE RD & W WILLOW ST",
     "city": "SCOTT",
     "time": "04/08/2020 - 1:29 PM",
@@ -30,13 +38,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.19911,
     "longitude": -92.01641
-  },
-  {
-    "address": "2700 E MILTON AV",
-    "city": "YOUNGSVILLE",
-    "time": "04/08/2020 - 12:49 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.1090551,
-    "longitude": -92.0210997
   }
 ]
