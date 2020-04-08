@@ -1,5 +1,13 @@
 [
   {
+    "address": "DEBONNAIRE RD & W WILLOW ST",
+    "city": "SCOTT",
+    "time": "04/08/2020 - 1:29 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24189,
+    "longitude": -92.08428
+  },
+  {
     "address": "JOHNSTON ST & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/08/2020 - 1:26 PM",
