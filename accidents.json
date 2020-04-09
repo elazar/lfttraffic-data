@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CYPRESS ST & W THIRD ST",
+    "city": "LAFAYETTE",
+    "time": "04/09/2020 - 3:48 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2282,
+    "longitude": -92.01626
+  },
+  {
     "address": "101 I10 WESTBOUND MM101 HW",
     "city": "LAFAYETTE",
     "time": "04/09/2020 - 2:40 PM",
