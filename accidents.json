@@ -1,5 +1,21 @@
 [
   {
+    "address": "3806 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "04/09/2020 - 12:33 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.17072,
+    "longitude": -92.06613
+  },
+  {
+    "address": "621 HECTOR CONNOLY RD",
+    "city": "CARENCRO",
+    "time": "04/09/2020 - 12:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.32136,
+    "longitude": -92.01737
+  },
+  {
     "address": "BENDEL RD & MARGUERITE BL",
     "city": "LAFAYETTE",
     "time": "04/09/2020 - 11:53 AM",
