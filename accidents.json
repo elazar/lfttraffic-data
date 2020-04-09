@@ -1,5 +1,13 @@
 [
   {
+    "address": "201 MEADOW FARM RD",
+    "city": "LAFAYETTE",
+    "time": "04/09/2020 - 4:36 PM",
+    "due_to": "Commercial Fire",
+    "latitude": 30.15627,
+    "longitude": -92.04436
+  },
+  {
     "address": "1500 BONIN RD",
     "city": "YOUNGSVILLE",
     "time": "04/09/2020 - 4:26 PM",
