@@ -1,5 +1,13 @@
 [
   {
+    "address": "BON MANGE CL & BON TEMPS DR",
+    "city": "LAFAYETTE",
+    "time": "04/09/2020 - 11:31 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.2124,
+    "longitude": -92.07886
+  },
+  {
     "address": "112 N GENERAL MARSHALL ST",
     "city": "LAFAYETTE",
     "time": "04/09/2020 - 11:13 AM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.12942,
     "longitude": -91.94323
-  },
-  {
-    "address": "KALISTE SALOOM RD & CHEROKEE LN",
-    "city": "LAFAYETTE",
-    "time": "04/09/2020 - 10:36 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15248,
-    "longitude": -92.05239
   }
 ]
