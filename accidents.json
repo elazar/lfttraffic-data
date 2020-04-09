@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "301 E THIRD ST",
+    "city": "LAFAYETTE",
+    "time": "04/09/2020 - 01:09 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.22997,
+    "longitude": -92.01233
+  }
+]
