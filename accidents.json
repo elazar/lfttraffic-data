@@ -1,26 +1,10 @@
 [
   {
-    "address": "1404 CARMEL DR",
-    "city": "LAFAYETTE",
-    "time": "04/08/2020 - 6:50 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23253,
-    "longitude": -91.98666
-  },
-  {
     "address": "JEFFERSON BL & N STERLING ST",
     "city": "LAFAYETTE",
     "time": "04/08/2020 - 6:36 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.22972,
     "longitude": -92.00997
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "04/08/2020 - 5:49 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17808,
-    "longitude": -92.07452
   }
 ]
