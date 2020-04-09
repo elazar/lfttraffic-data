@@ -1,5 +1,13 @@
 [
   {
+    "address": "112 N GENERAL MARSHALL ST",
+    "city": "LAFAYETTE",
+    "time": "04/09/2020 - 11:13 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22863,
+    "longitude": -91.99759
+  },
+  {
     "address": "LA 182 HW & LA 96 HW",
     "city": "BROUSSARD",
     "time": "04/09/2020 - 11:09 AM",
@@ -22,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15248,
     "longitude": -92.05239
-  },
-  {
-    "address": "1500 NW EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "04/09/2020 - 10:03 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2451127,
-    "longitude": -92.0146249
   }
 ]
