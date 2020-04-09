@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "425 ROGER RD",
+    "city": "LAFAYETTE",
+    "time": "04/09/2020 - 5:32 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.26961,
+    "longitude": -92.08233
+  }
+]
