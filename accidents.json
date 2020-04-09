@@ -1,5 +1,13 @@
 [
   {
+    "address": "101 I10 WESTBOUND MM101 HW",
+    "city": "LAFAYETTE",
+    "time": "04/09/2020 - 2:40 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "3021 MILLS ST",
     "city": "LAFAYETTE",
     "time": "04/09/2020 - 2:26 PM",
