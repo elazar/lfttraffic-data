@@ -1,5 +1,13 @@
 [
   {
+    "address": "1061 RENAUD DR",
+    "city": "SCOTT",
+    "time": "04/09/2020 - 6:07 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2539351,
+    "longitude": -92.0654099
+  },
+  {
     "address": "812 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "04/09/2020 - 6:06 PM",
