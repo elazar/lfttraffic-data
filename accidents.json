@@ -1,5 +1,13 @@
 [
   {
+    "address": "SURREY ST & ELEVENTH ST",
+    "city": "LAFAYETTE",
+    "time": "04/10/2020 - 4:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22729,
+    "longitude": -92.00336
+  },
+  {
     "address": "3905 N UNIVERSITY AV",
     "city": "CARENCRO",
     "time": "04/10/2020 - 4:23 PM",
