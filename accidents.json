@@ -1,19 +1,19 @@
 [
   {
+    "address": "130 TUCKER DR",
+    "city": "LAFAYETTE",
+    "time": "04/10/2020 - 12:13 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.17498,
+    "longitude": -92.0735
+  },
+  {
     "address": "500 JULIETTE PL",
     "city": "LAFAYETTE",
     "time": "04/10/2020 - 12:05 PM",
     "due_to": "Fire Investigation",
     "latitude": 30.21587,
     "longitude": -92.02905
-  },
-  {
-    "address": "202 ST JAMES DR",
-    "city": "LAFAYETTE",
-    "time": "04/10/2020 - 12:04 PM",
-    "due_to": "Trash Fire",
-    "latitude": 30.19843,
-    "longitude": -92.08073
   },
   {
     "address": "215 W WILLOW ST",
