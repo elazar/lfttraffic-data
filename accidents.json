@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "602 CHEVALIER BL",
+    "city": "LAFAYETTE",
+    "time": "04/10/2020 - 07:56 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.14027,
+    "longitude": -92.09367
+  }
+]
