@@ -1,5 +1,13 @@
 [
   {
+    "address": "202 ST JAMES DR",
+    "city": "LAFAYETTE",
+    "time": "04/10/2020 - 12:04 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.19843,
+    "longitude": -92.08073
+  },
+  {
     "address": "215 W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "04/10/2020 - 12:00 PM",
