@@ -1,5 +1,13 @@
 [
   {
+    "address": "3905 N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "04/10/2020 - 4:23 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.30776,
+    "longitude": -92.04993
+  },
+  {
     "address": "501 E PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "04/10/2020 - 4:20 PM",
