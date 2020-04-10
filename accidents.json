@@ -1,5 +1,13 @@
 [
   {
+    "address": "2820 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "04/10/2020 - 08:01 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.25584,
+    "longitude": -91.99812
+  },
+  {
     "address": "602 CHEVALIER BL",
     "city": "LAFAYETTE",
     "time": "04/10/2020 - 07:56 AM",
