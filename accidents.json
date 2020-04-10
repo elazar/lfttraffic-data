@@ -1,19 +1,19 @@
 [
   {
+    "address": "LEBESQUE RD & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "04/10/2020 - 11:06 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27587,
+    "longitude": -92.04949
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "04/10/2020 - 10:24 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.14589,
     "longitude": -92.03252
-  },
-  {
-    "address": "2200 BEAU BASSIN RD",
-    "city": "LAFAYETTE",
-    "time": "04/10/2020 - 10:24 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.33698,
-    "longitude": -91.99465
   },
   {
     "address": "500 S A ST",
