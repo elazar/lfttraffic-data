@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & HOLLYWOOD DR",
+    "city": "LAFAYETTE",
+    "time": "04/10/2020 - 3:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24945,
+    "longitude": -92.03517
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & BONIN RD",
     "city": "YOUNGSVILLE",
     "time": "04/10/2020 - 3:19 PM",
