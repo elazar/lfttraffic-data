@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "CAMERON ST & ALEX ST",
+    "city": "LAFAYETTE",
+    "time": "04/10/2020 - 10:12 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2326,
+    "longitude": -92.05747
+  }
+]
