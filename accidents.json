@@ -1,5 +1,13 @@
 [
   {
+    "address": "106 BLOSSOM CL",
+    "city": "LAFAYETTE",
+    "time": "04/10/2020 - 12:35 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.29709,
+    "longitude": -92.10873
+  },
+  {
     "address": "CAJUNDOME BL & E DEVALCOURT ST",
     "city": "LAFAYETTE",
     "time": "04/10/2020 - 12:29 AM",
