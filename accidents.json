@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & RUE DU BELIER",
+    "city": "SCOTT",
+    "time": "04/10/2020 - 10:16 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19575,
+    "longitude": -92.09634
+  },
+  {
     "address": "CAMERON ST & ALEX ST",
     "city": "LAFAYETTE",
     "time": "04/10/2020 - 10:12 AM",
