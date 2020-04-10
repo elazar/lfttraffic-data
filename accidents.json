@@ -1,5 +1,13 @@
 [
   {
+    "address": "501 E PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "04/10/2020 - 4:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2169483,
+    "longitude": -92.0056485
+  },
+  {
     "address": "W PINHOOK RD & BONIN RD",
     "city": "LAFAYETTE",
     "time": "04/10/2020 - 4:11 PM",
