@@ -1,5 +1,13 @@
 [
   {
+    "address": "255 RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "04/10/2020 - 4:49 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18116,
+    "longitude": -92.08284
+  },
+  {
     "address": "SURREY ST & ELEVENTH ST",
     "city": "LAFAYETTE",
     "time": "04/10/2020 - 4:27 PM",
