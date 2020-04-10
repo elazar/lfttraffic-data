@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "6315 CAMERON ST",
+    "city": "SCOTT",
+    "time": "04/10/2020 - 06:57 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.23362,
+    "longitude": -92.10328
+  }
+]
