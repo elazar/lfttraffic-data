@@ -1,5 +1,13 @@
 [
   {
+    "address": "128 GRAND AV",
+    "city": "LAFAYETTE",
+    "time": "04/10/2020 - 12:17 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.18377,
+    "longitude": -92.06285
+  },
+  {
     "address": "500 JULIETTE PL",
     "city": "LAFAYETTE",
     "time": "04/10/2020 - 12:05 PM",
