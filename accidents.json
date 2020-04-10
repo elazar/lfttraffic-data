@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24469,
     "longitude": -92.01605
-  },
-  {
-    "address": "500 S A ST",
-    "city": "DUSON",
-    "time": "04/10/2020 - 10:23 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.22803,
-    "longitude": -92.18475
   }
 ]
