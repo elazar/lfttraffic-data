@@ -1,5 +1,13 @@
 [
   {
+    "address": "VINCENT RD & DEMETTE RD",
+    "city": "LAFAYETTE",
+    "time": "04/10/2020 - 01:45 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13618,
+    "longitude": -92.04381
+  },
+  {
     "address": "519 ST JOHN ST",
     "city": "LAFAYETTE",
     "time": "04/10/2020 - 01:25 AM",
