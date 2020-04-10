@@ -1,5 +1,13 @@
 [
   {
+    "address": "310 LEXINGTON DR",
+    "city": "DUSON",
+    "time": "04/09/2020 - 7:30 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.2497766,
+    "longitude": -92.1971008
+  },
+  {
     "address": "3810 NE EVANGELINE TW",
     "city": "CARENCRO",
     "time": "04/09/2020 - 6:34 PM",
