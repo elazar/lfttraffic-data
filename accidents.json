@@ -1,5 +1,13 @@
 [
   {
+    "address": "LA 182 HW & LA 96 HW",
+    "city": "BROUSSARD",
+    "time": "04/10/2020 - 8:42 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.12942,
+    "longitude": -91.94323
+  },
+  {
     "address": "215 W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "04/10/2020 - 12:00 PM",
