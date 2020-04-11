@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.30406,
     "longitude": -92.08708
-  },
-  {
-    "address": "IRA ST & CANKTON RD",
-    "city": "CARENCRO",
-    "time": "04/11/2020 - 5:57 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.32121,
-    "longitude": -92.07052
   }
 ]
