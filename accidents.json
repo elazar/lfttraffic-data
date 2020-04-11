@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "600 ST CHARLES ST",
+    "city": "LAFAYETTE",
+    "time": "04/11/2020 - 2:51 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22599,
+    "longitude": -92.00446
+  }
+]
