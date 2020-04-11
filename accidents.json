@@ -1,5 +1,13 @@
 [
   {
+    "address": "325 DUPRE DR",
+    "city": "LAFAYETTE",
+    "time": "04/10/2020 - 10:12 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.2952258,
+    "longitude": -91.9948602
+  },
+  {
     "address": "BEAU BASSIN BRIDGE & N WILDERNESS TL",
     "city": "LAFAYETTE",
     "time": "04/10/2020 - 10:12 PM",
