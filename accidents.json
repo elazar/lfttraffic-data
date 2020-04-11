@@ -1,5 +1,13 @@
 [
   {
+    "address": "ARTISAN RD & WHITEBARK DR",
+    "city": "LAFAYETTE",
+    "time": "04/10/2020 - 6:57 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16011,
+    "longitude": -92.0202
+  },
+  {
     "address": "215 W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "04/10/2020 - 12:00 PM",
