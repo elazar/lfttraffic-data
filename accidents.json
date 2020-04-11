@@ -1,5 +1,13 @@
 [
   {
+    "address": "109 ADAIR LN",
+    "city": "LAFAYETTE",
+    "time": "04/11/2020 - 1:35 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.18903,
+    "longitude": -92.02387
+  },
+  {
     "address": "200 E WILLOW ST",
     "city": "LAFAYETTE",
     "time": "04/11/2020 - 1:28 PM",
