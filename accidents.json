@@ -1,5 +1,13 @@
 [
   {
+    "address": "904 BENOIT RD",
+    "city": "LAFAYETTE",
+    "time": "04/11/2020 - 6:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.30406,
+    "longitude": -92.08708
+  },
+  {
     "address": "IRA ST & CANKTON RD",
     "city": "CARENCRO",
     "time": "04/11/2020 - 5:57 PM",
