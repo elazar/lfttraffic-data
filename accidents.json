@@ -3,7 +3,7 @@
     "address": "300 MCDONALD ST",
     "city": "LAFAYETTE",
     "time": "04/11/2020 - 10:47 AM",
-    "due_to": "Incoming Call",
+    "due_to": "Commercial Fire",
     "latitude": 30.21016,
     "longitude": -92.06588
   },
@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.194098,
     "longitude": -92.0578696
-  },
-  {
-    "address": "313 ASHLAND PARK DR",
-    "city": "LAFAYETTE",
-    "time": "04/11/2020 - 10:13 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.15822,
-    "longitude": -92.0367
   }
 ]
