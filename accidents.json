@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "120 BURROW DR",
+    "city": "LAFAYETTE",
+    "time": "04/11/2020 - 12:48 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.26955,
+    "longitude": -92.10204
+  }
+]
