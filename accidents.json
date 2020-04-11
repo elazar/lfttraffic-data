@@ -1,5 +1,13 @@
 [
   {
+    "address": "421 BRAQUET RD",
+    "city": "LAFAYETTE",
+    "time": "04/11/2020 - 08:17 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.34444,
+    "longitude": -92.05882
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "04/11/2020 - 06:34 AM",
