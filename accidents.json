@@ -1,5 +1,21 @@
 [
   {
+    "address": "103 TEXAS ST",
+    "city": "LAFAYETTE",
+    "time": "04/11/2020 - 8:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22675,
+    "longitude": -91.99807
+  },
+  {
+    "address": "NOTTINGHAM CL & E GLORIA SWITCH RD",
+    "city": "LAFAYETTE",
+    "time": "04/11/2020 - 8:13 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.29438,
+    "longitude": -91.9982
+  },
+  {
     "address": "2900 E MILTON AV",
     "city": "YOUNGSVILLE",
     "time": "04/11/2020 - 7:56 PM",
