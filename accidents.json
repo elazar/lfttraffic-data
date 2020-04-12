@@ -1,18 +1,18 @@
 [
   {
+    "address": "1312 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "04/11/2020 - 9:19 PM",
+    "due_to": "Dumpster Fire",
+    "latitude": 30.16933,
+    "longitude": -92.01974
+  },
+  {
     "address": "4105 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "04/11/2020 - 8:29 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.15359,
     "longitude": -91.95889
-  },
-  {
-    "address": "W CONGRESS ST & CAJUNDOME BL",
-    "city": "LAFAYETTE",
-    "time": "04/11/2020 - 7:05 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.21871,
-    "longitude": -92.04139
   }
 ]
