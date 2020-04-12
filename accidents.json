@@ -1,5 +1,13 @@
 [
   {
+    "address": "1000 RUE DES ETOILES",
+    "city": "LAFAYETTE",
+    "time": "04/11/2020 - 10:05 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.33097,
+    "longitude": -92.01163
+  },
+  {
     "address": "4105 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "04/11/2020 - 8:29 PM",
