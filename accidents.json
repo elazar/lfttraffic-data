@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & SUNSET ST",
+    "city": "SCOTT",
+    "time": "04/11/2020 - 7:55 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23351,
+    "longitude": -92.09834
+  },
+  {
     "address": "192 SOUTHFIELD PW",
     "city": "LAFAYETTE",
     "time": "04/11/2020 - 7:53 PM",
