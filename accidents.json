@@ -1,5 +1,13 @@
 [
   {
+    "address": "3016 E MILTON AV",
+    "city": "YOUNGSVILLE",
+    "time": "04/12/2020 - 6:29 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.10909,
+    "longitude": -92.0116
+  },
+  {
     "address": "I49 SOUTHBOUND MM4 HW & VETERANS DR",
     "city": "LAFAYETTE",
     "time": "04/12/2020 - 6:28 PM",
