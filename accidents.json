@@ -1,5 +1,13 @@
 [
   {
+    "address": "SOUTHFIELD PW & W BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "04/11/2020 - 7:50 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.17242,
+    "longitude": -92.09966
+  },
+  {
     "address": "W CONGRESS ST & CAJUNDOME BL",
     "city": "LAFAYETTE",
     "time": "04/11/2020 - 7:05 PM",
