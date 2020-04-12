@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 LA 93 HW",
+    "city": "SCOTT",
+    "time": "04/12/2020 - 2:44 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.25007,
+    "longitude": -92.108
+  },
+  {
     "address": "103 I10 EASTBOUND MM103A HW",
     "city": "LAFAYETTE",
     "time": "04/12/2020 - 2:00 PM",
