@@ -1,19 +1,19 @@
 [
   {
+    "address": "127 NOTTINGHAM CL",
+    "city": "LAFAYETTE",
+    "time": "04/11/2020 - 8:16 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.29138,
+    "longitude": -91.99813
+  },
+  {
     "address": "103 TEXAS ST",
     "city": "LAFAYETTE",
     "time": "04/11/2020 - 8:14 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.22675,
     "longitude": -91.99807
-  },
-  {
-    "address": "2900 E MILTON AV",
-    "city": "YOUNGSVILLE",
-    "time": "04/11/2020 - 7:56 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.10805,
-    "longitude": -92.01469
   },
   {
     "address": "192 SOUTHFIELD PW",
