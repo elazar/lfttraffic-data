@@ -1,5 +1,13 @@
 [
   {
+    "address": "4105 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "04/11/2020 - 8:29 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15359,
+    "longitude": -91.95889
+  },
+  {
     "address": "103 TEXAS ST",
     "city": "LAFAYETTE",
     "time": "04/11/2020 - 8:14 PM",
