@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "102 CITADEL DR",
+    "city": "LAFAYETTE",
+    "time": "04/13/2020 - 10:49 AM",
+    "due_to": "Trash Fire",
+    "latitude": 30.13976,
+    "longitude": -92.08932
+  }
+]
