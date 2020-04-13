@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "500 MACON RD",
+    "city": "LAFAYETTE",
+    "time": "04/13/2020 - 09:29 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.227215,
+    "longitude": -92.0496551
+  }
+]
