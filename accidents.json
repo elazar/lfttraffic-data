@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & GUILBEAU RD",
+    "city": "LAFAYETTE",
+    "time": "04/13/2020 - 12:21 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.20248,
+    "longitude": -92.07527
+  },
+  {
     "address": "JOHNSTON ST & JEFFERSON ST",
     "city": "LAFAYETTE",
     "time": "04/13/2020 - 11:50 AM",
