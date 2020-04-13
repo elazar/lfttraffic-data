@@ -1,19 +1,19 @@
 [
   {
+    "address": "N UNIVERSITY AV & SIS LN",
+    "city": "CARENCRO",
+    "time": "04/13/2020 - 4:06 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.30798,
+    "longitude": -92.04944
+  },
+  {
     "address": "ST PATRICK ST & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "04/13/2020 - 4:00 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.22307,
     "longitude": -92.03395
-  },
-  {
-    "address": "800 E WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "04/13/2020 - 3:52 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2450441,
-    "longitude": -91.9976851
   },
   {
     "address": "VEROT SCHOOL RD & TIMBERWOOD CL",
