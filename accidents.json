@@ -1,5 +1,13 @@
 [
   {
+    "address": "DUGAS RD & URBANA DR",
+    "city": "LLAFAYETTE",
+    "time": "04/13/2020 - 5:50 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.20924,
+    "longitude": -92.04661
+  },
+  {
     "address": "105 I10 WESTBOUND MM105 HW",
     "city": "LAFAYETTE",
     "time": "04/13/2020 - 5:22 PM",
