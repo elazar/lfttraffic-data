@@ -1,5 +1,13 @@
 [
   {
+    "address": "MOSS ST & CHRYSLER ST",
+    "city": "LAFAYETTE",
+    "time": "04/13/2020 - 10:52 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2511,
+    "longitude": -92.00541
+  },
+  {
     "address": "102 CITADEL DR",
     "city": "LAFAYETTE",
     "time": "04/13/2020 - 10:49 AM",
