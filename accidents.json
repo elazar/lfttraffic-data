@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & WILCOX ST",
+    "city": "LAFAYETTE",
+    "time": "04/13/2020 - 1:17 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18398,
+    "longitude": -92.00847
+  },
+  {
     "address": "106 KEELINGWOOD LN",
     "city": "LAFAYETTE",
     "time": "04/13/2020 - 12:56 PM",
