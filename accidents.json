@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "103 GRASSWALK CT",
+    "city": "LAFAYETTE",
+    "time": "04/13/2020 - 10:12 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.12008,
+    "longitude": -92.0515251
+  }
+]
