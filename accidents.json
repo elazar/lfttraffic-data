@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 BERLIN ST",
+    "city": "LAFAYETTE",
+    "time": "04/12/2020 - 10:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2052,
+    "longitude": -92.10208
+  },
+  {
     "address": "240 LOUL ST",
     "city": "BROUSSARD",
     "time": "04/12/2020 - 9:39 PM",
