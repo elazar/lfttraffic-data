@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "BNSF RAILROAD CG & S LOOP ST",
+    "city": "LAFAYETTE",
+    "time": "04/12/2020 - 11:47 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.2336,
+    "longitude": -92.03442
+  }
+]
