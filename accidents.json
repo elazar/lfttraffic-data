@@ -1,5 +1,13 @@
 [
   {
+    "address": "326 COUNTRY RUN DR",
+    "city": "LAFAYETTE",
+    "time": "04/13/2020 - 1:44 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.10771,
+    "longitude": -91.958
+  },
+  {
     "address": "1100 DETENTE RD",
     "city": "LAFAYETTE",
     "time": "04/13/2020 - 1:23 PM",
