@@ -14,5 +14,13 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.32188,
     "longitude": -92.04333
+  },
+  {
+    "address": "110 SABAL PALMS RW",
+    "city": "YOUNGSVILLE",
+    "time": "04/12/2020 - 6:17 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1195951,
+    "longitude": -91.9902418
   }
 ]
