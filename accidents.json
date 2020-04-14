@@ -8,19 +8,11 @@
     "longitude": -92.06852
   },
   {
-    "address": "300 NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "04/13/2020 - 6:50 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2305806,
-    "longitude": -92.0128569
-  },
-  {
-    "address": "100 DILLON RD",
+    "address": "600 DILLON RD",
     "city": "LAFAYETTE",
     "time": "04/13/2020 - 6:21 PM",
     "due_to": "Trash Fire",
-    "latitude": 30.31553,
-    "longitude": -92.09094
+    "latitude": 30.31509,
+    "longitude": -92.07729
   }
 ]
