@@ -22,13 +22,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": null,
     "longitude": null
-  },
-  {
-    "address": "212 SW EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "04/14/2020 - 3:28 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22714,
-    "longitude": -92.01199
   }
 ]
