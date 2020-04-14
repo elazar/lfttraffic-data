@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "JOHNSTON ST & E LEWIS ST",
+    "city": "LAFAYETTE",
+    "time": "04/14/2020 - 07:28 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21228,
+    "longitude": -92.02543
+  }
+]
