@@ -1,5 +1,13 @@
 [
   {
+    "address": "1100 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "04/14/2020 - 4:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2036652,
+    "longitude": -92.0139753
+  },
+  {
     "address": "800 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/14/2020 - 3:55 PM",
