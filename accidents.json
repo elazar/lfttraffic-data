@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 I10 WESTBOUND MM100 HW",
+    "city": "LAFAYETTE",
+    "time": "04/14/2020 - 3:09 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "CHESTER ST & MATTHIEU ST",
     "city": "LAFAYETTE",
     "time": "04/14/2020 - 2:38 PM",
