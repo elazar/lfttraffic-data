@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 MILLS ST",
+    "city": "SCOTT",
+    "time": "04/14/2020 - 3:53 PM",
+    "due_to": "Grass Fire",
+    "latitude": 30.23545,
+    "longitude": -92.09119
+  },
+  {
     "address": "2106 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "04/14/2020 - 3:43 PM",
