@@ -1,18 +1,18 @@
 [
   {
+    "address": "W PINHOOK RD & S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "04/14/2020 - 12:17 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20101,
+    "longitude": -92.01538
+  },
+  {
     "address": "1818 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "04/14/2020 - 11:53 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.24808,
     "longitude": -92.011
-  },
-  {
-    "address": "CARMEL DR & E PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "04/14/2020 - 11:13 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2334,
-    "longitude": -91.9927
   }
 ]
