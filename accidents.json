@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "900 PIAT RD",
+    "city": "LAFAYETTE",
+    "time": "04/14/2020 - 02:27 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.06665,
+    "longitude": -91.98646
+  }
+]
