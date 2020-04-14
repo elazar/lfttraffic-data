@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19911,
     "longitude": -92.01641
-  },
-  {
-    "address": "5100 N UNIVERSITY AV",
-    "city": "CARENCRO",
-    "time": "04/14/2020 - 07:38 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.32768,
-    "longitude": -92.04888
   }
 ]
