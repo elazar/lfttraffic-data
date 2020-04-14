@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "403 DANIEL DR",
+    "city": "LAFAYETTE",
+    "time": "04/14/2020 - 12:48 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.18854,
+    "longitude": -92.05795
+  }
+]
