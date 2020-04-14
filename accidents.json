@@ -1,13 +1,5 @@
 [
   {
-    "address": "NW EVANGELINE TW & W PONT DES MOUTON RD",
-    "city": "LAFAYETTE",
-    "time": "04/13/2020 - 6:53 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.27349,
-    "longitude": -92.02058
-  },
-  {
     "address": "NW EVANGELINE TW & E SECOND ST",
     "city": "LAFAYETTE",
     "time": "04/13/2020 - 6:50 PM",
@@ -30,13 +22,5 @@
     "due_to": "Trash Fire",
     "latitude": 30.31542,
     "longitude": -92.07476
-  },
-  {
-    "address": "105 I10 WESTBOUND MM105 HW",
-    "city": "LAFAYETTE",
-    "time": "04/13/2020 - 5:22 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.26255,
-    "longitude": -92.00867
   }
 ]
