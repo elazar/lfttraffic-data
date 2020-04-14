@@ -6,13 +6,5 @@
     "due_to": "Fire Alarm-Residential",
     "latitude": 30.20636,
     "longitude": -92.06852
-  },
-  {
-    "address": "600 DILLON RD",
-    "city": "LAFAYETTE",
-    "time": "04/13/2020 - 6:21 PM",
-    "due_to": "Trash Fire",
-    "latitude": 30.31509,
-    "longitude": -92.07729
   }
 ]
