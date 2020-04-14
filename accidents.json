@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1214 COOLIDGE ST",
+    "city": "LAFAYETTE",
+    "time": "04/14/2020 - 6:44 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20234,
+    "longitude": -92.01863
+  }
+]
