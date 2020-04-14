@@ -1,5 +1,13 @@
 [
   {
+    "address": "MOSS ST & BELLOT ST",
+    "city": "LAFAYETTE",
+    "time": "04/14/2020 - 5:07 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23607,
+    "longitude": -92.00805
+  },
+  {
     "address": "600 MOSS ST",
     "city": "LAFAYETTE",
     "time": "04/14/2020 - 5:03 PM",
