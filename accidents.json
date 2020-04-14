@@ -1,5 +1,13 @@
 [
   {
+    "address": "CHESTER ST & MATTHIEU ST",
+    "city": "LAFAYETTE",
+    "time": "04/14/2020 - 2:38 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24829,
+    "longitude": -92.00453
+  },
+  {
     "address": "N COLLEGE RD & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "04/14/2020 - 2:08 PM",
