@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "CARMEL DR & E PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "04/14/2020 - 11:13 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2334,
+    "longitude": -91.9927
+  }
+]
