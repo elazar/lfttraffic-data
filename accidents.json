@@ -1,5 +1,13 @@
 [
   {
+    "address": "GARFIELD ST & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/15/2020 - 3:50 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22438,
+    "longitude": -92.01447
+  },
+  {
     "address": "109 FREEDOM DR",
     "city": "LAFAYETTE",
     "time": "04/15/2020 - 3:41 PM",
