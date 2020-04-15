@@ -1,11 +1,11 @@
 [
   {
-    "address": "BALTIC ST & GALAXY ST",
-    "city": "SCOTT",
+    "address": "5200 W CONGRESS ST",
+    "city": "LAFAYETTE",
     "time": "04/15/2020 - 5:34 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.2069,
-    "longitude": -92.10765
+    "due_to": "Vehicle Fire",
+    "latitude": 30.19639,
+    "longitude": -92.10939
   },
   {
     "address": "JOHNSTON ST & GRAND AV",
