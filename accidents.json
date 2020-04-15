@@ -1,5 +1,13 @@
 [
   {
+    "address": "3800 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "04/15/2020 - 1:41 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.2021179,
+    "longitude": -92.0645847
+  },
+  {
     "address": "JOHNSTON ST & GARFIELD ST",
     "city": "LAFAYETTE",
     "time": "04/15/2020 - 1:37 PM",
@@ -38,13 +46,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16454,
     "longitude": -92.04143
-  },
-  {
-    "address": "1906 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "04/15/2020 - 1:22 PM",
-    "due_to": "Dumpster Fire",
-    "latitude": 30.216,
-    "longitude": -92.07628
   }
 ]
