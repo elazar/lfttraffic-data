@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "3600 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "04/15/2020 - 09:48 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14068,
+    "longitude": -92.06221
+  }
+]
