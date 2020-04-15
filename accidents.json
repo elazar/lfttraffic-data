@@ -1,5 +1,13 @@
 [
   {
+    "address": "E UNIVERSITY AV & SW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "04/15/2020 - 05:52 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20908,
+    "longitude": -92.00007
+  },
+  {
     "address": "E SIMCOE ST & LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "04/15/2020 - 05:51 AM",
@@ -10,8 +18,8 @@
   {
     "address": "AMBASSADOR CAFFERY PW & GUILBEAU RD",
     "city": "LAFAYETTE",
-    "time": "04/15/2020 - 05:49 AM",
-    "due_to": "Stalled Vehicle",
+    "time": "04/15/2020 - 05:52 AM",
+    "due_to": "Vehicle Accident",
     "latitude": 30.20248,
     "longitude": -92.07527
   }
