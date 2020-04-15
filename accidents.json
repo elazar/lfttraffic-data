@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "120 E GLORIA SWITCH RD",
+    "city": "LAFAYETTE",
+    "time": "04/15/2020 - 08:45 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.29346,
+    "longitude": -92.02171
+  }
+]
