@@ -1,5 +1,13 @@
 [
   {
+    "address": "4501 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/15/2020 - 3:38 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19292,
+    "longitude": -92.05838
+  },
+  {
     "address": "700 I10 SOUTH FRONTAGE RD",
     "city": "SCOTT",
     "time": "04/15/2020 - 3:27 PM",
