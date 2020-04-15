@@ -1,5 +1,13 @@
 [
   {
+    "address": "E SIMCOE ST & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "04/15/2020 - 05:51 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23002,
+    "longitude": -92.00303
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "04/15/2020 - 05:49 AM",
