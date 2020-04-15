@@ -1,5 +1,13 @@
 [
   {
+    "address": "700 I10 SOUTH FRONTAGE RD",
+    "city": "SCOTT",
+    "time": "04/15/2020 - 3:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24443,
+    "longitude": -92.10608
+  },
+  {
     "address": "MUDD AV & LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "04/15/2020 - 3:05 PM",
