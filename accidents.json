@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23174,
     "longitude": -92.0027
-  },
-  {
-    "address": "100 E ST PETER",
-    "city": "Lafayette",
-    "time": "04/15/2020 - 3:03 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.31752,
-    "longitude": -92.04936
   }
 ]
