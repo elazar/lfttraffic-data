@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "200 HUNT CLUB RD",
+    "city": "LAFAYETTE",
+    "time": "04/14/2020 - 9:41 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.28678,
+    "longitude": -92.08464
+  }
+]
