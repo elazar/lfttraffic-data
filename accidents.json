@@ -1,19 +1,19 @@
 [
   {
+    "address": "400 LA 93 HW",
+    "city": "SCOTT",
+    "time": "04/15/2020 - 4:07 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2542602,
+    "longitude": -92.1079851
+  },
+  {
     "address": "GARFIELD ST & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "04/15/2020 - 3:50 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.22438,
     "longitude": -92.01447
-  },
-  {
-    "address": "4501 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "04/15/2020 - 3:38 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19292,
-    "longitude": -92.05838
   },
   {
     "address": "700 I10 SOUTH FRONTAGE RD",
