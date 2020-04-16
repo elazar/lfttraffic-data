@@ -1,5 +1,13 @@
 [
   {
+    "address": "104 ERIKA DR",
+    "city": "LAFAYETTE",
+    "time": "04/16/2020 - 6:24 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.21672,
+    "longitude": -92.07508
+  },
+  {
     "address": "905 SAVOY RD",
     "city": "YOUNGSVILLE",
     "time": "04/16/2020 - 6:20 PM",
