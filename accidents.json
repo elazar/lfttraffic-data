@@ -1,5 +1,13 @@
 [
   {
+    "address": "S RICHFIELD RD & CAMERON ST",
+    "city": "DUSON",
+    "time": "04/16/2020 - 6:15 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23496,
+    "longitude": -92.17607
+  },
+  {
     "address": "105 I10 WB EXIT RAMP HW",
     "city": "LAFAYETTE",
     "time": "04/16/2020 - 4:33 PM",
