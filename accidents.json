@@ -1,11 +1,11 @@
 [
   {
-    "address": "100 N UNIVERSITY AV",
+    "address": "200 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "04/15/2020 - 8:06 PM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.2325156,
-    "longitude": -92.0322467
+    "latitude": 30.2337102,
+    "longitude": -92.0322751
   },
   {
     "address": "200 LA 93 HW",
