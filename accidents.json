@@ -11,7 +11,7 @@
     "address": "US 90 EAST HW & YOUNG ST",
     "city": "BROUSSARD",
     "time": "04/16/2020 - 12:08 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Stalled Vehicle",
     "latitude": 30.10187,
     "longitude": -91.94194
   },
@@ -38,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20609,
     "longitude": -92.05834
-  },
-  {
-    "address": "HECTOR CONNOLY RD & MOSS ST",
-    "city": "LAFAYETTE",
-    "time": "04/16/2020 - 11:47 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.31974,
-    "longitude": -92.00693
   }
 ]
