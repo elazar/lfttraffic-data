@@ -1,5 +1,13 @@
 [
   {
+    "address": "LOUISIANA AV & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "04/16/2020 - 4:59 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27944,
+    "longitude": -91.99217
+  },
+  {
     "address": "101 I10 EASTBOUND MM101 HW",
     "city": "LAFAYETTE",
     "time": "04/16/2020 - 4:54 PM",
