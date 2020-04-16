@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "04/15/2020 - 8:06 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.2325156,
+    "longitude": -92.0322467
+  },
+  {
     "address": "510 FLANDERS RIDGE DR",
     "city": "YOUNGSVILLE",
     "time": "04/15/2020 - 8:04 PM",
