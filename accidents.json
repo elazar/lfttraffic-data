@@ -1,5 +1,13 @@
 [
   {
+    "address": "101 I10 EASTBOUND MM101 HW",
+    "city": "LAFAYETTE",
+    "time": "04/16/2020 - 4:54 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "105 I10 WB EXIT RAMP HW",
     "city": "LAFAYETTE",
     "time": "04/16/2020 - 4:33 PM",
