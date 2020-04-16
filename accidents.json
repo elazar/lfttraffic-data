@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 RUE DU JARDIN",
+    "city": "LAFAYETTE",
+    "time": "04/16/2020 - 11:07 AM",
+    "due_to": "Trash Fire",
+    "latitude": 30.27394,
+    "longitude": -91.98836
+  },
+  {
     "address": "4415 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/16/2020 - 10:55 AM",
