@@ -1,5 +1,13 @@
 [
   {
+    "address": "1000 LA 182 HW",
+    "city": "BROUSSARD",
+    "time": "04/16/2020 - 3:18 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.14382,
+    "longitude": -91.94915
+  },
+  {
     "address": "3142 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/16/2020 - 3:06 PM",
