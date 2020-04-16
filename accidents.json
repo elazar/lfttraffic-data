@@ -1,5 +1,13 @@
 [
   {
+    "address": "1214 COOLIDGE ST",
+    "city": "LAFAYETTE",
+    "time": "04/16/2020 - 11:57 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20234,
+    "longitude": -92.01863
+  },
+  {
     "address": "SE EVANGELINE TW & SURREY ST",
     "city": "LAFAYETTE",
     "time": "04/16/2020 - 11:50 AM",
@@ -38,21 +46,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.2512,
     "longitude": -92.10951
-  },
-  {
-    "address": "3800 NE EVANGELINE TW",
-    "city": "CARENCRO",
-    "time": "04/16/2020 - 11:38 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.31847,
-    "longitude": -92.03204
-  },
-  {
-    "address": "4415 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "04/16/2020 - 10:55 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15808,
-    "longitude": -92.04919
   }
 ]
