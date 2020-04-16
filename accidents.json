@@ -1,5 +1,13 @@
 [
   {
+    "address": "6000 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/16/2020 - 08:49 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.16752,
+    "longitude": -92.08336
+  },
+  {
     "address": "302 TRIPLE CROWN CL",
     "city": "CARENCRO",
     "time": "04/16/2020 - 08:37 AM",
