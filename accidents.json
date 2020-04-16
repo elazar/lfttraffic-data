@@ -38,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.31974,
     "longitude": -92.00693
-  },
-  {
-    "address": "200 DESTINATION POINTE LN",
-    "city": "SCOTT",
-    "time": "04/16/2020 - 11:40 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2512,
-    "longitude": -92.10951
   }
 ]
