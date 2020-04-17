@@ -1,5 +1,13 @@
 [
   {
+    "address": "N GENTILLY RD & RENAUD DR",
+    "city": "LAFAYETTE",
+    "time": "04/17/2020 - 5:09 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.2542,
+    "longitude": -92.05018
+  },
+  {
     "address": "W PINHOOK RD & JAMES COMEAUX RD",
     "city": "LAFAYETTE",
     "time": "04/17/2020 - 4:49 PM",
