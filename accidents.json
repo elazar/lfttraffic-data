@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 LEGER RD",
+    "city": "LAFAYETTE",
+    "time": "04/17/2020 - 2:14 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.21237,
+    "longitude": -92.24095
+  },
+  {
     "address": "3500 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "04/17/2020 - 2:00 PM",
