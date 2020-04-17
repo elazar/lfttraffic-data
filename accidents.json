@@ -1,5 +1,13 @@
 [
   {
+    "address": "114 W AVONDALE DR",
+    "city": "LAFAYETTE",
+    "time": "04/17/2020 - 3:13 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.21664,
+    "longitude": -92.07776
+  },
+  {
     "address": "705 W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "04/17/2020 - 3:10 PM",
