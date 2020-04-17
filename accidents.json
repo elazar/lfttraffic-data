@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "213 HAMMOND RD",
+    "city": "LAFAYETTE",
+    "time": "04/16/2020 - 11:35 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25244,
+    "longitude": -92.02316
+  }
+]
