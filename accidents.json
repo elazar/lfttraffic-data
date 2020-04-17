@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "3816 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "04/16/2020 - 8:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20214,
+    "longitude": -92.06451
+  }
+]
