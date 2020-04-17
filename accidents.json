@@ -1,5 +1,13 @@
 [
   {
+    "address": "705 W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "04/17/2020 - 3:10 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.22037,
+    "longitude": -92.02465
+  },
+  {
     "address": "4801 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/17/2020 - 2:32 PM",
