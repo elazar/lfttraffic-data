@@ -1,5 +1,13 @@
 [
   {
+    "address": "101 AVONDALE DR",
+    "city": "LAFAYETTE",
+    "time": "04/17/2020 - 3:21 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.21648,
+    "longitude": -92.07556
+  },
+  {
     "address": "705 W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "04/17/2020 - 3:10 PM",
