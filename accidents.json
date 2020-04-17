@@ -1,5 +1,13 @@
 [
   {
+    "address": "504 W GILMAN RD",
+    "city": "LAFAYETTE",
+    "time": "04/17/2020 - 12:14 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.24227,
+    "longitude": -92.02432
+  },
+  {
     "address": "213 HAMMOND RD",
     "city": "LAFAYETTE",
     "time": "04/16/2020 - 11:35 PM",
