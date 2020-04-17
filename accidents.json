@@ -2,6 +2,14 @@
   {
     "address": "CAMERON ST & S RICHFIELD RD",
     "city": "DUSON",
+    "time": "04/16/2020 - 7:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23496,
+    "longitude": -92.17607
+  },
+  {
+    "address": "CAMERON ST & S RICHFIELD RD",
+    "city": "DUSON",
     "time": "04/16/2020 - 7:00 PM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.23496,
