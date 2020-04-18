@@ -1,5 +1,13 @@
 [
   {
+    "address": "615 EDISON ST",
+    "city": "LAFAYETTE",
+    "time": "04/18/2020 - 6:02 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.23899,
+    "longitude": -92.02838
+  },
+  {
     "address": "510 SAUCIER PW",
     "city": "LAFAYETTE",
     "time": "04/18/2020 - 5:19 PM",
