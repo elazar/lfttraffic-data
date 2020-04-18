@@ -1,5 +1,13 @@
 [
   {
+    "address": "111 HAYDITE AV",
+    "city": "LAFAYETTE",
+    "time": "04/18/2020 - 1:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25432,
+    "longitude": -92.03444
+  },
+  {
     "address": "KALISTE SALOOM RD & E BROUSSARD RD",
     "city": "LAFAYETTE",
     "time": "04/18/2020 - 12:38 PM",
