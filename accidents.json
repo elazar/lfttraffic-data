@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "N UNIVERSITY AV & ST CHARLES ST",
+    "city": "CARENCRO",
+    "time": "04/18/2020 - 09:47 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.31912,
+    "longitude": -92.0495
+  }
+]
