@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.13508,
     "longitude": -91.99044
-  },
-  {
-    "address": "900 E UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "04/19/2020 - 1:01 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.211,
-    "longitude": -92.01165
   }
 ]
