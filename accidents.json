@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "WESTGATE RD & PAUL BOUDREAUX RD",
+    "city": "SCOTT",
+    "time": "04/19/2020 - 2:55 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.22166,
+    "longitude": -92.08699
+  }
+]
