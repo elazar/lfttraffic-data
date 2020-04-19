@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "100 E PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "04/19/2020 - 3:04 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.273,
+    "longitude": -92.01677
+  }
+]
