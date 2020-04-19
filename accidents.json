@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 BELLE FONTAINE DR",
+    "city": "LAFAYETTE",
+    "time": "04/19/2020 - 3:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18963,
+    "longitude": -92.06735
+  },
+  {
     "address": "209 HARRELL DR",
     "city": "LAFAYETTE",
     "time": "04/19/2020 - 3:17 PM",
