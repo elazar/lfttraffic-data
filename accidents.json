@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "MACON RD & ERASTE LANDRY RD",
+    "city": "LAFAYETTE",
+    "time": "04/19/2020 - 09:47 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22624,
+    "longitude": -92.04973
+  }
+]
