@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "188 MANCHESTER CL",
+    "city": "LAFAYETTE",
+    "time": "04/19/2020 - 08:27 AM",
+    "due_to": "Residential Fire",
+    "latitude": 30.16131,
+    "longitude": -92.09099
+  }
+]
