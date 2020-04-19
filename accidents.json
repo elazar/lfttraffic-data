@@ -2,6 +2,14 @@
   {
     "address": "600 LEBLANC RD",
     "city": "LAFAYETTE",
+    "time": "04/19/2020 - 01:58 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.12468,
+    "longitude": -92.13563
+  },
+  {
+    "address": "600 LEBLANC RD",
+    "city": "LAFAYETTE",
     "time": "04/19/2020 - 12:06 AM",
     "due_to": "Vehicle Fire",
     "latitude": 30.12468,
