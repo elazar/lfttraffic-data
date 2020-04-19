@@ -1,5 +1,13 @@
 [
   {
+    "address": "110 BECKY LN",
+    "city": "LAFAYETTE",
+    "time": "04/18/2020 - 7:30 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.16895,
+    "longitude": -92.02922
+  },
+  {
     "address": "615 EDISON ST",
     "city": "LAFAYETTE",
     "time": "04/18/2020 - 6:02 PM",
