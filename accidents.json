@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "S BUCHANAN ST & W CONVENT ST",
+    "city": "LAFAYETTE",
+    "time": "04/19/2020 - 6:59 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22171,
+    "longitude": -92.01978
+  }
+]
