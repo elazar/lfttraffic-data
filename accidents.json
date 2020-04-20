@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMELLIA BL & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/20/2020 - 5:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19364,
+    "longitude": -92.0587
+  },
+  {
     "address": "6906 AMBASSADOR CAFFERY PW",
     "city": "BROUSSARD",
     "time": "04/20/2020 - 5:16 PM",
