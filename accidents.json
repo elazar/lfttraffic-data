@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "04/20/2020 - 4:27 PM",
+    "due_to": "Hazardous Situation",
+    "latitude": 30.15649,
+    "longitude": -92.04838
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & YOUNGSVILLE HW",
     "city": "BROUSSARD",
     "time": "04/20/2020 - 4:13 PM",
@@ -38,13 +46,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21117,
     "longitude": -92.07474
-  },
-  {
-    "address": "CAMELLIA BL & STONEMONT RD",
-    "city": "LAFAYETTE",
-    "time": "04/20/2020 - 2:58 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17511,
-    "longitude": -92.04229
   }
 ]
