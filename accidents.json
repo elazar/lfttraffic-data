@@ -1,5 +1,13 @@
 [
   {
+    "address": "215 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "04/20/2020 - 6:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24469,
+    "longitude": -92.01605
+  },
+  {
     "address": "LEBESQUE RD & ROGER RD",
     "city": "SCOTT",
     "time": "04/20/2020 - 6:25 PM",
