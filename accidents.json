@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & AUBURN AV",
+    "city": "LAFAYETTE",
+    "time": "04/20/2020 - 4:07 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20815,
+    "longitude": -92.01115
+  },
+  {
     "address": "W BROUSSARD RD & RIDGE RD",
     "city": "LAFAYETTE",
     "time": "04/20/2020 - 4:03 PM",
