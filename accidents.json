@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 CATHOLIQUE RD",
+    "city": "LAFAYETTE",
+    "time": "04/20/2020 - 10:34 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.3358692,
+    "longitude": -92.0180377
+  },
+  {
     "address": "1109 MARIE ANTOINETTE ST",
     "city": "LAFAYETTE",
     "time": "04/20/2020 - 10:17 AM",
