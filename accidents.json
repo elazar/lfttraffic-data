@@ -1,5 +1,13 @@
 [
   {
+    "address": "114 HOGAN DR",
+    "city": "LAFAYETTE",
+    "time": "04/20/2020 - 6:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23988,
+    "longitude": -92.03761
+  },
+  {
     "address": "LEBESQUE RD & ROGER RD",
     "city": "SCOTT",
     "time": "04/20/2020 - 6:25 PM",
