@@ -1,5 +1,13 @@
 [
   {
+    "address": "810 S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "04/20/2020 - 11:01 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20149,
+    "longitude": -92.03171
+  },
+  {
     "address": "NW EVANGELINE TW & W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "04/20/2020 - 09:55 AM",
