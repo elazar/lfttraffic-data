@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "100 VALLEY ST",
+    "city": "LAFAYETTE",
+    "time": "04/20/2020 - 02:50 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26875,
+    "longitude": -92.00029
+  }
+]
