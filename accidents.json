@@ -1,5 +1,13 @@
 [
   {
+    "address": "523 ST CHARLES ST",
+    "city": "LAFAYETTE",
+    "time": "04/20/2020 - 2:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22642,
+    "longitude": -92.00431
+  },
+  {
     "address": "CAMELLIA BL & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "04/20/2020 - 12:59 PM",
