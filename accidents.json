@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & BRENTWOOD BL",
+    "city": "LAFAYETTE",
+    "time": "04/20/2020 - 4:54 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19632,
+    "longitude": -92.057
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & YOUNGSVILLE HW",
     "city": "BROUSSARD",
     "time": "04/20/2020 - 4:13 PM",
