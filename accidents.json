@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "206 SHADOW SPRINGS DR",
+    "city": "LAFAYETTE",
+    "time": "04/21/2020 - 07:51 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14355,
+    "longitude": -92.06985
+  }
+]
