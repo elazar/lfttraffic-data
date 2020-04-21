@@ -24,27 +24,11 @@
     "longitude": -91.9752946
   },
   {
-    "address": "312 ALMONASTER RD",
-    "city": "YOUNGSVILLE",
-    "time": "04/21/2020 - 5:53 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.0875,
-    "longitude": -91.96849
-  },
-  {
     "address": "709 VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "04/21/2020 - 5:02 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.17283,
     "longitude": -92.0153
-  },
-  {
-    "address": "SUNQUEST DR & MARTIN LUTHER KING JR DR",
-    "city": "LAFAYETTE",
-    "time": "04/21/2020 - 2:39 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.24927,
-    "longitude": -92.02247
   }
 ]
