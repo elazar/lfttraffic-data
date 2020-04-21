@@ -1,5 +1,13 @@
 [
   {
+    "address": "106 N LAKEPOINTE DR",
+    "city": "LAFAYETTE",
+    "time": "04/21/2020 - 2:16 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.18815,
+    "longitude": -92.09638
+  },
+  {
     "address": "3230 NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "04/21/2020 - 1:15 PM",
