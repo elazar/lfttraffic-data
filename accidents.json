@@ -6,13 +6,5 @@
     "due_to": "Hazardous Material",
     "latitude": 30.1768164,
     "longitude": -92.0025929
-  },
-  {
-    "address": "500 N DOMINGUE AV",
-    "city": "LAFAYETTE",
-    "time": "04/21/2020 - 10:11 AM",
-    "due_to": "Grass Fire",
-    "latitude": 30.2052,
-    "longitude": -92.08178
   }
 ]
