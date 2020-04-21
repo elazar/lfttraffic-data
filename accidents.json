@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "800 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "04/21/2020 - 09:18 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20542,
+    "longitude": -92.01323
+  }
+]
