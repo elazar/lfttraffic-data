@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "04/21/2020 - 12:59 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23076,
+    "longitude": -92.01336
+  },
+  {
     "address": "2600 CAMERON ST",
     "city": "LAFAYETTE",
     "time": "04/21/2020 - 12:59 PM",
