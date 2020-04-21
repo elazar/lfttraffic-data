@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 HECTOR CONNOLY RD",
+    "city": "CARENCRO",
+    "time": "04/21/2020 - 4:05 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.3225078,
+    "longitude": -92.0323092
+  },
+  {
     "address": "ABERDEEN DR & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "04/21/2020 - 3:54 PM",
