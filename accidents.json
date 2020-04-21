@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "100 LE MEDECIN RD",
+    "city": "LAFAYETTE",
+    "time": "04/20/2020 - 9:43 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.340296,
+    "longitude": -92.0396537
+  }
+]
