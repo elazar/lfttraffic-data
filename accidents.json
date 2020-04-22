@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 BROOKSIDE DR",
+    "city": "LAFAYETTE",
+    "time": "04/22/2020 - 5:50 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2229283,
+    "longitude": -92.037288
+  },
+  {
     "address": "104 I10 EASTBOUND MM104 HW",
     "city": "LAFAYETTE",
     "time": "04/22/2020 - 5:30 PM",
