@@ -1,5 +1,21 @@
 [
   {
+    "address": "US 90 EAST HW & ST NAZAIRE RD",
+    "city": "BROUSSARD",
+    "time": "04/22/2020 - 11:59 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1406051,
+    "longitude": -91.9448999
+  },
+  {
+    "address": "LOUISIANA AV & E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "04/22/2020 - 11:58 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23002,
+    "longitude": -92.00303
+  },
+  {
     "address": "US 90 EAST HW & N MORGAN AV",
     "city": "BROUSSARD",
     "time": "04/22/2020 - 11:53 AM",
