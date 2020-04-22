@@ -1,5 +1,13 @@
 [
   {
+    "address": "301 N ST ANTOINE ST",
+    "city": "LAFAYETTE",
+    "time": "04/22/2020 - 4:31 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23657,
+    "longitude": -92.02531
+  },
+  {
     "address": "N UNIVERSITY AV & I10 HW",
     "city": "LAFAYETTE",
     "time": "04/22/2020 - 3:41 PM",
