@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 E AMEDEE DR",
+    "city": "LAFAYETTE",
+    "time": "04/22/2020 - 11:03 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23991,
+    "longitude": -92.06245
+  },
+  {
     "address": "NE EVANGELINE TW & E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "04/22/2020 - 10:44 AM",
