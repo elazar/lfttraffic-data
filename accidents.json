@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "104 RIDONA ST",
+    "city": "LAFAYETTE",
+    "time": "04/22/2020 - 04:49 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.16741,
+    "longitude": -91.99492
+  }
+]
