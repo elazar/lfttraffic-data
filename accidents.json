@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "LOUISIANA AV & RANDOLPH DR",
+    "city": "LAFAYETTE",
+    "time": "04/22/2020 - 1:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24277,
+    "longitude": -92.0007
+  }
+]
