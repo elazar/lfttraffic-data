@@ -1,5 +1,13 @@
 [
   {
+    "address": "CHOPIN ST & ELIZABETH AV",
+    "city": "LAFAYETTE",
+    "time": "04/22/2020 - 01:41 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23486,
+    "longitude": -92.0112
+  },
+  {
     "address": "1700 GENDARME RD",
     "city": "LAFAYETTE",
     "time": "04/22/2020 - 01:06 AM",
