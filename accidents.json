@@ -1,5 +1,13 @@
 [
   {
+    "address": "W WILLOW ST & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "04/23/2020 - 1:30 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24448,
+    "longitude": -92.03275
+  },
+  {
     "address": "104 ERIC ST",
     "city": "LAFAYETTE",
     "time": "04/23/2020 - 12:54 PM",
