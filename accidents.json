@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.10459,
     "longitude": -91.99102
-  },
-  {
-    "address": "W WILLOW ST & N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "04/23/2020 - 1:30 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.24448,
-    "longitude": -92.03275
   }
 ]
