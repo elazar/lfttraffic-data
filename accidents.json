@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & YOUNGSVILLE HW",
+    "city": "LAFAYETTE",
+    "time": "04/23/2020 - 12:45 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.16071,
+    "longitude": -91.99107
+  },
+  {
     "address": "3328 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/23/2020 - 12:30 PM",
