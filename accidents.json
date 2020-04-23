@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "RIDGE RD & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "04/23/2020 - 07:02 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.21504,
+    "longitude": -92.07579
+  }
+]
