@@ -1,5 +1,13 @@
 [
   {
+    "address": "N RICHTER DR & BENOIT FALGOUT DR",
+    "city": "LAFAYETTE",
+    "time": "04/23/2020 - 3:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25699,
+    "longitude": -92.02092
+  },
+  {
     "address": "4003 N UNIVERSITY AV",
     "city": "CARENCRO",
     "time": "04/23/2020 - 3:18 PM",
