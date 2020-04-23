@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "600 MADISON ST",
+    "city": "LAFAYETTE",
+    "time": "04/23/2020 - 12:55 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.22806,
+    "longitude": -92.02
+  }
+]
