@@ -1,5 +1,13 @@
 [
   {
+    "address": "4003 N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "04/23/2020 - 3:18 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.3096534,
+    "longitude": -92.0495949
+  },
+  {
     "address": "TWELFTH ST & E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "04/23/2020 - 3:15 PM",
