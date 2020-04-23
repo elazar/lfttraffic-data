@@ -1,19 +1,19 @@
 [
   {
+    "address": "2956 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/23/2020 - 5:39 PM",
+    "due_to": "Commercial Fire",
+    "latitude": 30.20504,
+    "longitude": -92.04278
+  },
+  {
     "address": "JOHNSTON ST & HOLDEN AV",
     "city": "LAFAYETTE",
     "time": "04/23/2020 - 5:38 PM",
     "due_to": "Incoming Call",
     "latitude": 30.20447,
     "longitude": -92.04432
-  },
-  {
-    "address": "1800 ST MARY ST",
-    "city": "SCOTT",
-    "time": "04/23/2020 - 5:27 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.24331,
-    "longitude": -92.10524
   },
   {
     "address": "W WILLOW ST & NW EVANGELINE TW",
