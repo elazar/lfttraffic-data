@@ -1,5 +1,13 @@
 [
   {
+    "address": "3328 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "04/23/2020 - 12:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1808935,
+    "longitude": -92.0751349
+  },
+  {
     "address": "W PINHOOK RD & E UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "04/23/2020 - 12:00 PM",
