@@ -1,5 +1,13 @@
 [
   {
+    "address": "MOUNT VERNON DR & GERALDINE DR",
+    "city": "LAFAYETTE",
+    "time": "04/23/2020 - 4:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18818,
+    "longitude": -92.05707
+  },
+  {
     "address": "315 N BUCHANAN ST",
     "city": "LAFAYETTE",
     "time": "04/23/2020 - 4:16 PM",
