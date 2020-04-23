@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "W CONGRESS ST & W SECOND ST",
+    "city": "LAFAYETTE",
+    "time": "04/23/2020 - 12:52 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.22709,
+    "longitude": -92.01982
+  }
+]
