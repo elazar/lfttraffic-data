@@ -1,5 +1,13 @@
 [
   {
+    "address": "199 MELROSE DR",
+    "city": "LAFAYETTE",
+    "time": "04/24/2020 - 10:12 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.2062315,
+    "longitude": -92.0498709
+  },
+  {
     "address": "W WILLOW ST & PATTERSON ST",
     "city": "LAFAYETTE",
     "time": "04/24/2020 - 10:04 AM",
