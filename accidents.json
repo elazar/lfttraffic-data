@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 BACHERT ST",
+    "city": "LAFAYETTE",
+    "time": "04/24/2020 - 2:15 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.2264983,
+    "longitude": -91.9996476
+  },
+  {
     "address": "CLIFFORD RD & E PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "04/24/2020 - 2:14 PM",
