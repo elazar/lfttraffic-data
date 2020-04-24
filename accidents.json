@@ -1,5 +1,13 @@
 [
   {
+    "address": "W WILLOW ST & PATTERSON ST",
+    "city": "LAFAYETTE",
+    "time": "04/24/2020 - 10:04 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24518,
+    "longitude": -92.01841
+  },
+  {
     "address": "107 JEANMARD DR",
     "city": "LAFAYETTE",
     "time": "04/24/2020 - 10:01 AM",
