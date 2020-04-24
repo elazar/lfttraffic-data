@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "E PINHOOK RD & GENERAL MOUTON AV",
+    "city": "LAFAYETTE",
+    "time": "04/24/2020 - 08:51 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21378,
+    "longitude": -92.01076
+  }
+]
