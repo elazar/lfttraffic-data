@@ -1,5 +1,13 @@
 [
   {
+    "address": "110 REX ST",
+    "city": "LAFAYETTE",
+    "time": "04/24/2020 - 10:31 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.21296,
+    "longitude": -92.02124
+  },
+  {
     "address": "106 SPRING VIEW DR",
     "city": "YOUNGSVILLE",
     "time": "04/24/2020 - 10:27 AM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.0946621,
     "longitude": -92.011692
-  },
-  {
-    "address": "199 MELROSE DR",
-    "city": "LAFAYETTE",
-    "time": "04/24/2020 - 10:12 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.2062315,
-    "longitude": -92.0498709
   },
   {
     "address": "107 JEANMARD DR",
