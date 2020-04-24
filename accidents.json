@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1004 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "04/24/2020 - 05:30 AM",
+    "due_to": "Hazard",
+    "latitude": 30.24593,
+    "longitude": -92.02838
+  }
+]
