@@ -1,5 +1,13 @@
 [
   {
+    "address": "605 S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "04/24/2020 - 12:02 PM",
+    "due_to": "Hazard",
+    "latitude": 30.20369,
+    "longitude": -92.03252
+  },
+  {
     "address": "100 BRISTOL DR",
     "city": "LAFAYETTE",
     "time": "04/24/2020 - 11:45 AM",
