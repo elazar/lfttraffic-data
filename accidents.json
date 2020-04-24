@@ -1,5 +1,13 @@
 [
   {
+    "address": "107 JEANMARD DR",
+    "city": "LAFAYETTE",
+    "time": "04/24/2020 - 10:01 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2427571,
+    "longitude": -92.0372016
+  },
+  {
     "address": "811 ALBERTSON PW",
     "city": "BROUSSARD",
     "time": "04/24/2020 - 09:47 AM",
