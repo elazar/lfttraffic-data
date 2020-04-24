@@ -8,28 +8,12 @@
     "longitude": -92.02124
   },
   {
-    "address": "106 SPRING VIEW DR",
-    "city": "YOUNGSVILLE",
-    "time": "04/24/2020 - 10:27 AM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.10699,
-    "longitude": -91.99939
-  },
-  {
-    "address": "800 YOUNG ST",
-    "city": "YOUNGSVILLE",
+    "address": "1106 YOUNG ST",
+    "city": "BROUSSARD",
     "time": "04/24/2020 - 10:22 AM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.10184,
-    "longitude": -91.97862
-  },
-  {
-    "address": "107 JEANMARD DR",
-    "city": "LAFAYETTE",
-    "time": "04/24/2020 - 10:01 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2427571,
-    "longitude": -92.0372016
+    "latitude": 30.10153,
+    "longitude": -91.96546
   },
   {
     "address": "811 ALBERTSON PW",
