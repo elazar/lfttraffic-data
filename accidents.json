@@ -1,5 +1,13 @@
 [
   {
+    "address": "GUILBEAU RD & ST ANNE ST",
+    "city": "CARENCRO",
+    "time": "04/24/2020 - 2:18 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.31542,
+    "longitude": -92.03733
+  },
+  {
     "address": "300 BACHERT ST",
     "city": "LAFAYETTE",
     "time": "04/24/2020 - 2:15 PM",
