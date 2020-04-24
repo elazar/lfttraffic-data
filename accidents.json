@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 BREAUX RD",
+    "city": "LAFAYETTE",
+    "time": "04/23/2020 - 9:14 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.30387,
+    "longitude": -92.03759
+  },
+  {
     "address": "731 EDISON ST",
     "city": "LAFAYETTE",
     "time": "04/23/2020 - 9:03 PM",
