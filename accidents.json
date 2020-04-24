@@ -1,5 +1,13 @@
 [
   {
+    "address": "107 BRENTWOOD CL",
+    "city": "LAFAYETTE",
+    "time": "04/24/2020 - 4:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19584,
+    "longitude": -92.05592
+  },
+  {
     "address": "100 AYMAR RD",
     "city": "LAFAYETTE",
     "time": "04/24/2020 - 4:12 PM",
