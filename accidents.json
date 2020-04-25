@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 KIDDER RD",
+    "city": "LAFAYETTE",
+    "time": "04/25/2020 - 12:58 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.34841,
+    "longitude": -92.02792
+  },
+  {
     "address": "1600 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/24/2020 - 11:49 PM",
