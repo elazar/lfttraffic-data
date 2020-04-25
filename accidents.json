@@ -1,5 +1,13 @@
 [
   {
+    "address": "1011 E UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "04/25/2020 - 5:48 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21112,
+    "longitude": -92.01019
+  },
+  {
     "address": "149 PETITJEAN RD",
     "city": "LAFAYETTE",
     "time": "04/25/2020 - 5:22 PM",
