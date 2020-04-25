@@ -1,6 +1,6 @@
 [
   {
-    "address": "104 I10 WESTBOUND MM104 HW",
+    "address": "103 I10 WESTBOUND MM103B HW",
     "city": "LAFAYETTE",
     "time": "04/25/2020 - 4:51 PM",
     "due_to": "Vehicle Accident",
@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.06567,
     "longitude": -92.00707
-  },
-  {
-    "address": "MOSS ST & W PINE ST",
-    "city": "LAFAYETTE",
-    "time": "04/25/2020 - 4:05 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24616,
-    "longitude": -92.0062
   }
 ]
