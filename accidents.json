@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 LA BUTTE ST",
+    "city": "LAFAYETTE",
+    "time": "04/24/2020 - 8:01 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.33981,
+    "longitude": -92.05748
+  },
+  {
     "address": "135 PARKLANE RD",
     "city": "LAFAYETTE",
     "time": "04/24/2020 - 7:19 PM",
