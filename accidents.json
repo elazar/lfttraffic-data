@@ -1,5 +1,13 @@
 [
   {
+    "address": "245 N COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "04/25/2020 - 5:09 PM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.21074,
+    "longitude": -92.04256
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "04/25/2020 - 4:57 PM",
