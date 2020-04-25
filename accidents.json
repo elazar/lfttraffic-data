@@ -1,5 +1,13 @@
 [
   {
+    "address": "2448 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "04/25/2020 - 1:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21267,
+    "longitude": -92.0506
+  },
+  {
     "address": "1105 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "04/25/2020 - 12:47 PM",
@@ -14,13 +22,5 @@
     "due_to": "Fire Alarm-Commercial",
     "latitude": 30.22986,
     "longitude": -92.00998
-  },
-  {
-    "address": "LAJAUNIE RD & E GLORIA SWITCH RD",
-    "city": "LAFAYETTE",
-    "time": "04/25/2020 - 12:35 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.28998,
-    "longitude": -91.96236
   }
 ]
