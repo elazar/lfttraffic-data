@@ -1,5 +1,13 @@
 [
   {
+    "address": "615 LA 93 HW",
+    "city": "SCOTT",
+    "time": "04/25/2020 - 5:14 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.2609,
+    "longitude": -92.1087
+  },
+  {
     "address": "245 N COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "04/25/2020 - 5:09 PM",
