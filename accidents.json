@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 E LEBLANC RD",
+    "city": "LAFAYETTE",
+    "time": "04/25/2020 - 01:35 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1260674,
+    "longitude": -92.1144814
+  },
+  {
     "address": "1600 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/24/2020 - 11:49 PM",
