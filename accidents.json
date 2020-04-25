@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "300 HILDA ST",
+    "city": "LAFAYETTE",
+    "time": "04/25/2020 - 11:05 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24812,
+    "longitude": -92.0302
+  }
+]
