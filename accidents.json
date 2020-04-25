@@ -1,5 +1,13 @@
 [
   {
+    "address": "ARTHUR ST & HELLEN ST",
+    "city": "LAFAYETTE",
+    "time": "04/24/2020 - 7:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2399,
+    "longitude": -92.02615
+  },
+  {
     "address": "DORCHESTER ST & SWEETBRIAR ST",
     "city": "LAFAYETTE",
     "time": "04/24/2020 - 6:19 PM",
