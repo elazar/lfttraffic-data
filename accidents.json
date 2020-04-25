@@ -1,5 +1,13 @@
 [
   {
+    "address": "PARKLANE RD & MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "04/24/2020 - 7:19 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.30073,
+    "longitude": -92.00847
+  },
+  {
     "address": "SE EVANGELINE TW & JEFFERSON BL",
     "city": "LAFAYETTE",
     "time": "04/24/2020 - 7:16 PM",
