@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "MOSS ST & W PINE ST",
+    "city": "LAFAYETTE",
+    "time": "04/25/2020 - 4:05 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24616,
+    "longitude": -92.0062
+  }
+]
