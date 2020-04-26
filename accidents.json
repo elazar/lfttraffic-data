@@ -1,5 +1,13 @@
 [
   {
+    "address": "W SIMCOE ST & S PIERCE ST",
+    "city": "LAFAYETTE",
+    "time": "04/26/2020 - 6:32 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.23067,
+    "longitude": -92.01881
+  },
+  {
     "address": "CAMELLIA BL & E BLUEBIRD DR",
     "city": "LAFAYETTE",
     "time": "04/26/2020 - 6:27 PM",
