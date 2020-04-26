@@ -1,5 +1,13 @@
 [
   {
+    "address": "102 I10 WESTBOUND MM102 HW",
+    "city": "LAFAYETTE",
+    "time": "04/26/2020 - 4:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "440 INDUSTRIAL PW",
     "city": "LAFAYETTE",
     "time": "04/26/2020 - 4:42 PM",
