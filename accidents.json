@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1200 S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "04/26/2020 - 2:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19859,
+    "longitude": -92.02572
+  }
+]
