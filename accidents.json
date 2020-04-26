@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "332 CAMUS RD",
+    "city": "LAFAYETTE",
+    "time": "04/26/2020 - 11:30 AM",
+    "due_to": "Grass Fire",
+    "latitude": 30.12964,
+    "longitude": -92.10044
+  }
+]
