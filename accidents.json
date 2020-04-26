@@ -1,19 +1,19 @@
 [
   {
+    "address": "N UNIVERSITY AV & DUGAS RD",
+    "city": "LAFAYETTE",
+    "time": "04/25/2020 - 9:59 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.28322,
+    "longitude": -92.05039
+  },
+  {
     "address": "200 GALBERT RD",
     "city": "LAFAYETTE",
     "time": "04/25/2020 - 9:58 PM",
     "due_to": "Fire Alarm-Commercial",
     "latitude": 30.22684,
     "longitude": -92.07618
-  },
-  {
-    "address": "AUSTRIA RD & DAULAT DR",
-    "city": "DUSON",
-    "time": "04/25/2020 - 9:51 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.24325,
-    "longitude": -92.19304
   },
   {
     "address": "214 S MONTAUBAN DR",
