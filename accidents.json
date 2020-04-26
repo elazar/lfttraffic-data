@@ -24,27 +24,11 @@
     "longitude": -92.03242
   },
   {
-    "address": "100 SANTANDER DR",
-    "city": "LAFAYETTE",
-    "time": "04/26/2020 - 2:24 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.0712549,
-    "longitude": -92.028961
-  },
-  {
     "address": "AMBASSADOR CAFFERY PW & VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "04/26/2020 - 2:13 PM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.14589,
     "longitude": -92.03252
-  },
-  {
-    "address": "1200 S COLLEGE RD",
-    "city": "LAFAYETTE",
-    "time": "04/26/2020 - 2:10 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19859,
-    "longitude": -92.02572
   }
 ]
