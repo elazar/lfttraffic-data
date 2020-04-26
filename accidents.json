@@ -1,5 +1,13 @@
 [
   {
+    "address": "121 CADILLAC ST",
+    "city": "LAFAYETTE",
+    "time": "04/25/2020 - 8:55 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.25322,
+    "longitude": -92.00449
+  },
+  {
     "address": "214 S MONTAUBAN DR",
     "city": "LAFAYETTE",
     "time": "04/25/2020 - 8:47 PM",
