@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "107 WHITE TAIL DR",
+    "city": "LAFAYETTE",
+    "time": "04/26/2020 - 10:44 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.31263,
+    "longitude": -92.06504
+  }
+]
