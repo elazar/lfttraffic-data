@@ -1,5 +1,13 @@
 [
   {
+    "address": "BRAQUET RD & LA BUTTE ST",
+    "city": "LAFAYETTE",
+    "time": "04/26/2020 - 6:57 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.34016,
+    "longitude": -92.05803
+  },
+  {
     "address": "W CONGRESS ST & RUE DU BELIER",
     "city": "SCOTT",
     "time": "04/26/2020 - 6:51 PM",
