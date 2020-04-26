@@ -1,5 +1,13 @@
 [
   {
+    "address": "104 ST IGNATHIUS ST",
+    "city": "BROUSSARD",
+    "time": "04/26/2020 - 10:49 AM",
+    "due_to": "Hazardous Situation",
+    "latitude": 30.13793,
+    "longitude": -91.95849
+  },
+  {
     "address": "107 WHITE TAIL DR",
     "city": "LAFAYETTE",
     "time": "04/26/2020 - 10:44 AM",
