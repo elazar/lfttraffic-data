@@ -1,5 +1,13 @@
 [
   {
+    "address": "2000 N WILDERNESS TL",
+    "city": "LAFAYETTE",
+    "time": "04/25/2020 - 7:53 PM",
+    "due_to": "Explosion",
+    "latitude": 30.33636,
+    "longitude": -91.98153
+  },
+  {
     "address": "119 DOGLEG DR",
     "city": "BROUSSARD",
     "time": "04/25/2020 - 7:36 PM",
