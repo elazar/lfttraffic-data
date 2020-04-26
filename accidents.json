@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "04/26/2020 - 2:47 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24052,
+    "longitude": -92.03242
+  },
+  {
     "address": "SAN MARCOS DR & SAN DOMINGO DR",
     "city": "LAFAYETTE",
     "time": "04/26/2020 - 2:24 PM",
