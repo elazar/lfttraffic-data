@@ -1,5 +1,13 @@
 [
   {
+    "address": "N WASHINGTON ST & PATTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/26/2020 - 10:33 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.23522,
+    "longitude": -92.02182
+  },
+  {
     "address": "W UNIVERSITY AV & LEE AV",
     "city": "LAFAYETTE",
     "time": "04/26/2020 - 7:42 PM",
