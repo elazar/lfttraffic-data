@@ -1,5 +1,13 @@
 [
   {
+    "address": "3205 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "04/27/2020 - 4:25 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26515,
+    "longitude": -91.99301
+  },
+  {
     "address": "310 JUSTIN ST",
     "city": "LAFAYETTE",
     "time": "04/27/2020 - 4:22 PM",
