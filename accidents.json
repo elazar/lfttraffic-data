@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "N WASHINGTON ST & ELENORE ST",
+    "city": "LAFAYETTE",
+    "time": "04/27/2020 - 02:53 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.23736,
+    "longitude": -92.02181
+  }
+]
