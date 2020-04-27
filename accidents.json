@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 RUE LOUIS XIV",
+    "city": "LAFAYETTE",
+    "time": "04/27/2020 - 6:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17229,
+    "longitude": -92.02963
+  },
+  {
     "address": "2428 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "04/27/2020 - 6:08 PM",
