@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "RIDGE RD & S RICHFIELD RD",
+    "city": "LAFAYETTE",
+    "time": "04/27/2020 - 11:55 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.211,
+    "longitude": -92.17586
+  }
+]
