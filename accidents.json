@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 TESA DR",
+    "city": "LAFAYETTE",
+    "time": "04/27/2020 - 3:53 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.23302,
+    "longitude": -92.12884
+  },
+  {
     "address": "336 PREJEAN RD",
     "city": "CARENCRO",
     "time": "04/27/2020 - 3:50 PM",
