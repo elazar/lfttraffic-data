@@ -1,5 +1,13 @@
 [
   {
+    "address": "3503 GOLDEN GRAIN RD",
+    "city": "LAFAYETTE",
+    "time": "04/26/2020 - 8:11 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.1632427,
+    "longitude": -92.2518676
+  },
+  {
     "address": "500 JONES RD",
     "city": "LAFAYETTE",
     "time": "04/26/2020 - 8:10 PM",
