@@ -1,5 +1,13 @@
 [
   {
+    "address": "W VERMILION ST & ST JOHN ST",
+    "city": "LAFAYETTE",
+    "time": "04/27/2020 - 12:16 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22408,
+    "longitude": -92.02285
+  },
+  {
     "address": "1504 GOLDEN GRAIN RD",
     "city": "LAFAYETTE",
     "time": "04/27/2020 - 12:04 PM",
