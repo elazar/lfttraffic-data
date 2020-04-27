@@ -1,5 +1,21 @@
 [
   {
+    "address": "500 JONES RD",
+    "city": "LAFAYETTE",
+    "time": "04/26/2020 - 8:10 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.14467,
+    "longitude": -92.13525
+  },
+  {
+    "address": "JONES RD & S FIELDSPAN RD",
+    "city": "LAFAYETTE",
+    "time": "04/26/2020 - 8:10 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.14434,
+    "longitude": -92.14169
+  },
+  {
     "address": "W UNIVERSITY AV & LEE AV",
     "city": "LAFAYETTE",
     "time": "04/26/2020 - 7:42 PM",
