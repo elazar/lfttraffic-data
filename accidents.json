@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & GUILBEAU RD",
+    "city": "LAFAYETTE",
+    "time": "04/27/2020 - 1:01 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.20248,
+    "longitude": -92.07527
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & ROBLEY DR",
     "city": "LAFAYETTE",
     "time": "04/27/2020 - 12:56 PM",
