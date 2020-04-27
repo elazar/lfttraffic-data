@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & N MORGAN AV",
+    "city": "BROUSSARD",
+    "time": "04/27/2020 - 3:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15291,
+    "longitude": -91.95943
+  },
+  {
     "address": "306 GEORGIA ST",
     "city": "LAFAYETTE",
     "time": "04/27/2020 - 3:04 PM",
