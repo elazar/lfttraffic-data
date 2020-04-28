@@ -8,12 +8,12 @@
     "longitude": -92.07433
   },
   {
-    "address": "SAN CARLOS CL & VALENCIA DR",
+    "address": "100 AUGUST DR",
     "city": "LAFAYETTE",
     "time": "04/28/2020 - 3:34 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.21329,
-    "longitude": -92.07089
+    "due_to": "Trash Fire",
+    "latitude": 30.21095,
+    "longitude": -92.06891
   },
   {
     "address": "6902 JOHNSTON ST",
@@ -27,7 +27,7 @@
     "address": "LOUISIANA AV & MUDD AV",
     "city": "LAFAYETTE",
     "time": "04/28/2020 - 3:28 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.23174,
     "longitude": -92.0027
   }
