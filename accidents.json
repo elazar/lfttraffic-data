@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "210 DISTRIBUTION DR",
+    "city": "LAFAYETTE",
+    "time": "04/28/2020 - 07:56 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.26004,
+    "longitude": -92.02499
+  }
+]
