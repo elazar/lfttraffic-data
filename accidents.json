@@ -1,5 +1,13 @@
 [
   {
+    "address": "120 E GLORIA SWITCH RD",
+    "city": "LAFAYETTE",
+    "time": "04/28/2020 - 12:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29346,
+    "longitude": -92.02171
+  },
+  {
     "address": "615 LA 93 HW",
     "city": "SCOTT",
     "time": "04/28/2020 - 12:37 PM",
