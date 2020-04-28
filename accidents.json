@@ -1,5 +1,13 @@
 [
   {
+    "address": "2426 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "04/27/2020 - 8:45 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.21379,
+    "longitude": -92.04917
+  },
+  {
     "address": "1200 ROBLEY DR",
     "city": "LAFAYETTE",
     "time": "04/27/2020 - 8:38 PM",
