@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "2200 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "04/28/2020 - 04:20 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.16487,
+    "longitude": -92.04047
+  }
+]
