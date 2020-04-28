@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "N PIERCE ST & RAILROAD TRACKS",
+    "city": "LAFAYETTE",
+    "time": "04/28/2020 - 12:46 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.23976,
+    "longitude": -92.01964
+  }
+]
