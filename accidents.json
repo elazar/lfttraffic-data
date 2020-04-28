@@ -1,5 +1,13 @@
 [
   {
+    "address": "2107 ERASTE LANDRY RD",
+    "city": "LAFAYETTE",
+    "time": "04/28/2020 - 4:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2189,
+    "longitude": -92.07527
+  },
+  {
     "address": "114 WISTERIA DR",
     "city": "LAFAYETTE",
     "time": "04/28/2020 - 3:34 PM",
