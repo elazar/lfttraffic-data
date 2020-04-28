@@ -1,5 +1,13 @@
 [
   {
+    "address": "109 SEDRIC DR",
+    "city": "LAFAYETTE",
+    "time": "04/27/2020 - 7:03 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.12474,
+    "longitude": -92.14273
+  },
+  {
     "address": "MOSS ST & CASTILLE AV",
     "city": "LAFAYETTE",
     "time": "04/27/2020 - 6:44 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1774019,
     "longitude": -92.0739576
-  },
-  {
-    "address": "5000 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "04/27/2020 - 5:17 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1837487,
-    "longitude": -92.0690154
   },
   {
     "address": "359 W BROUSSARD RD",
