@@ -1,5 +1,13 @@
 [
   {
+    "address": "209 KELLOG AV",
+    "city": "LAFAYETTE",
+    "time": "04/28/2020 - 12:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20175,
+    "longitude": -92.07102
+  },
+  {
     "address": "120 E GLORIA SWITCH RD",
     "city": "LAFAYETTE",
     "time": "04/28/2020 - 12:45 PM",
