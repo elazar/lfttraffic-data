@@ -1,5 +1,13 @@
 [
   {
+    "address": "103 I10 WESTBOUND MM103B HW",
+    "city": "LAFAYETTE",
+    "time": "04/28/2020 - 4:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "2107 ERASTE LANDRY RD",
     "city": "LAFAYETTE",
     "time": "04/28/2020 - 4:28 PM",
