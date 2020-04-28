@@ -1,5 +1,13 @@
 [
   {
+    "address": "1500 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "04/28/2020 - 5:16 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.24455,
+    "longitude": -92.04208
+  },
+  {
     "address": "4000 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/28/2020 - 5:13 PM",
