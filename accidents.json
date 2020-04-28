@@ -1,5 +1,13 @@
 [
   {
+    "address": "LOUISIANA AV & E WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "04/28/2020 - 5:17 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24552,
+    "longitude": -92.00037
+  },
+  {
     "address": "1500 W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "04/28/2020 - 5:16 PM",
