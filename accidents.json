@@ -1,5 +1,13 @@
 [
   {
+    "address": "6902 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/28/2020 - 3:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14438,
+    "longitude": -92.10014
+  },
+  {
     "address": "LOUISIANA AV & MUDD AV",
     "city": "LAFAYETTE",
     "time": "04/28/2020 - 3:28 PM",
