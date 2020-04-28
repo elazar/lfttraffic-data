@@ -1,5 +1,13 @@
 [
   {
+    "address": "NE EVANGELINE TW & E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "04/28/2020 - 5:41 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.23103,
+    "longitude": -92.01313
+  },
+  {
     "address": "NE EVANGELINE TW & I10 HW",
     "city": "LAFAYETTE",
     "time": "04/28/2020 - 5:37 PM",
