@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "04/29/2020 - 05:53 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.1885953,
+    "longitude": -92.0143082
+  },
+  {
     "address": "CHEMIN METAIRIE PW & DETENTE RD",
     "city": "YOUNGSVILLE",
     "time": "04/29/2020 - 05:34 AM",
