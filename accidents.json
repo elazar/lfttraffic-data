@@ -1,5 +1,13 @@
 [
   {
+    "address": "VINCENT RD & SUNFLOWER DR",
+    "city": "LAFAYETTE",
+    "time": "04/29/2020 - 05:07 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.13498,
+    "longitude": -92.05035
+  },
+  {
     "address": "RUE DU BELIER & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "04/29/2020 - 05:06 AM",
