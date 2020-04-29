@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & W PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "04/29/2020 - 06:32 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.27587,
+    "longitude": -92.04949
+  },
+  {
     "address": "630 BROTHERS RD",
     "city": "LAFAYETTE",
     "time": "04/29/2020 - 06:21 AM",
