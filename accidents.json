@@ -1,5 +1,13 @@
 [
   {
+    "address": "217 PIAVE ST",
+    "city": "LAFAYETTE",
+    "time": "04/29/2020 - 06:09 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23112,
+    "longitude": -91.9987
+  },
+  {
     "address": "LEBLANC RD & DENAIS RD",
     "city": "LAFAYETTE",
     "time": "04/29/2020 - 06:07 AM",
@@ -22,14 +30,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.23021,
     "longitude": -92.0514
-  },
-  {
-    "address": "600 W MAIN ST",
-    "city": "BROUSSARD",
-    "time": "04/29/2020 - 06:01 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.14992,
-    "longitude": -91.97097
   },
   {
     "address": "1700 DELHOMME AV",
