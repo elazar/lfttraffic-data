@@ -1,5 +1,21 @@
 [
   {
+    "address": "208 THELMA DR",
+    "city": "LAFAYETTE",
+    "time": "04/29/2020 - 06:02 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23021,
+    "longitude": -92.0514
+  },
+  {
+    "address": "100 BAUDOIN ST",
+    "city": "LAFAYETTE",
+    "time": "04/29/2020 - 06:02 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.18228,
+    "longitude": -92.04265
+  },
+  {
     "address": "600 W MAIN ST",
     "city": "BROUSSARD",
     "time": "04/29/2020 - 06:01 AM",
