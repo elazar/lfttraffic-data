@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "04/29/2020 - 04:49 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.20727,
+    "longitude": -92.03836
+  },
+  {
     "address": "ERASTE LANDRY RD & WESTGATE RD",
     "city": "SCOTT",
     "time": "04/29/2020 - 04:48 AM",
