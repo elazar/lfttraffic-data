@@ -1,5 +1,13 @@
 [
   {
+    "address": "WALLACE BROUSSARD RD & NE FRONTAGE RD",
+    "city": "CARENCRO",
+    "time": "04/29/2020 - 07:34 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.32037,
+    "longitude": -92.03279
+  },
+  {
     "address": "111 DONALD DR",
     "city": "LAFAYETTE",
     "time": "04/29/2020 - 07:20 AM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24221,
     "longitude": -92.19304
-  },
-  {
-    "address": "100 EMILE DR",
-    "city": "LAFAYETTE",
-    "time": "04/29/2020 - 07:08 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.27354,
-    "longitude": -92.08386
   },
   {
     "address": "2600 W GLORIA SWITCH RD",
