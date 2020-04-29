@@ -38,13 +38,5 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.1958,
     "longitude": -92.09203
-  },
-  {
-    "address": "ERASTE LANDRY RD & WESTGATE RD",
-    "city": "SCOTT",
-    "time": "04/29/2020 - 04:48 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.2195,
-    "longitude": -92.08699
   }
 ]
