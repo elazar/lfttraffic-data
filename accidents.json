@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & E ST MARY BL",
+    "city": "LAFAYETTE",
+    "time": "04/29/2020 - 06:37 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.20703,
+    "longitude": -92.01181
+  },
+  {
     "address": "N UNIVERSITY AV & W PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "04/29/2020 - 06:32 AM",
