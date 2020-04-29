@@ -1,5 +1,13 @@
 [
   {
+    "address": "S COLLEGE RD & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/29/2020 - 6:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20727,
+    "longitude": -92.03836
+  },
+  {
     "address": "1726 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "04/29/2020 - 5:52 PM",
