@@ -1,5 +1,13 @@
 [
   {
+    "address": "229 E CONVENT ST",
+    "city": "LAFAYETTE",
+    "time": "04/28/2020 - 7:22 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.21998,
+    "longitude": -92.01579
+  },
+  {
     "address": "E CONVENT ST & GORDON ST",
     "city": "LAFAYETTE",
     "time": "04/28/2020 - 7:21 PM",
