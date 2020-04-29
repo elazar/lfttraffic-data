@@ -1,5 +1,13 @@
 [
   {
+    "address": "S GIROUARD RD & E MAIN ST",
+    "city": "LAFAYETTE",
+    "time": "04/29/2020 - 1:32 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.14443,
+    "longitude": -91.94943
+  },
+  {
     "address": "4000 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "04/29/2020 - 1:04 PM",
