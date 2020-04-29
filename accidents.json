@@ -1,13 +1,5 @@
 [
   {
-    "address": "LEBLANC RD & ODESSA RD",
-    "city": "LAFAYETTE",
-    "time": "04/29/2020 - 3:51 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24084,
-    "longitude": -91.96607
-  },
-  {
     "address": "200 DESTINATION POINTE LN",
     "city": "SCOTT",
     "time": "04/29/2020 - 3:47 PM",
@@ -38,14 +30,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.22987,
     "longitude": -92.01213
-  },
-  {
-    "address": "601 BERTRAND DR",
-    "city": "LAFAYETTE",
-    "time": "04/29/2020 - 3:22 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21337,
-    "longitude": -92.04767
   },
   {
     "address": "SW EVANGELINE TW & E VEROT SCHOOL RD",
