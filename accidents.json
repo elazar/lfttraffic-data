@@ -1,5 +1,13 @@
 [
   {
+    "address": "111 S ST JOHN ST",
+    "city": "CARENCRO",
+    "time": "04/29/2020 - 1:01 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.31652,
+    "longitude": -92.04785
+  },
+  {
     "address": "200 N AMBASSADOR CAFFERY PW",
     "city": "SCOTT",
     "time": "04/29/2020 - 12:44 PM",
