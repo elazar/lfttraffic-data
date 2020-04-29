@@ -1,5 +1,13 @@
 [
   {
+    "address": "E BROUSSARD RD & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "04/29/2020 - 04:58 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.15059,
+    "longitude": -92.09379
+  },
+  {
     "address": "JOHNSTON ST & ALLISTER RD",
     "city": "LAFAYETTE",
     "time": "04/29/2020 - 04:57 AM",
