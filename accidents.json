@@ -1,13 +1,5 @@
 [
   {
-    "address": "201 PEAK RUN",
-    "city": "YOUNGSVILLE",
-    "time": "04/29/2020 - 07:21 AM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.08923,
-    "longitude": -91.98081
-  },
-  {
     "address": "111 DONALD DR",
     "city": "LAFAYETTE",
     "time": "04/29/2020 - 07:20 AM",
@@ -30,14 +22,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.27354,
     "longitude": -92.08386
-  },
-  {
-    "address": "NE EVANGELINE TW & DONLON AV",
-    "city": "LAFAYETTE",
-    "time": "04/29/2020 - 07:03 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.23977,
-    "longitude": -92.01245
   },
   {
     "address": "2600 W GLORIA SWITCH RD",
