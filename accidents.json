@@ -1,5 +1,13 @@
 [
   {
+    "address": "W WILLOW ST & NW FRONTAGE RD",
+    "city": "LAFAYETTE",
+    "time": "04/29/2020 - 2:17 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.24481,
+    "longitude": -92.01456
+  },
+  {
     "address": "VETERANS DR & NW FRONTAGE RD",
     "city": "CARENCRO",
     "time": "04/29/2020 - 2:03 PM",
@@ -8,11 +16,11 @@
     "longitude": -92.03574
   },
   {
-    "address": "E CONGRESS ST & JEFFERSON ST",
+    "address": "451 JEFFERSON ST",
     "city": "LAFAYETTE",
     "time": "04/29/2020 - 1:56 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.22569,
-    "longitude": -92.01837
+    "latitude": 30.2257065,
+    "longitude": -92.0181369
   }
 ]
