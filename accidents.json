@@ -1,5 +1,13 @@
 [
   {
+    "address": "2100 ROBLEY DR",
+    "city": "LAFAYETTE",
+    "time": "04/29/2020 - 09:04 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1429373,
+    "longitude": -92.0797174
+  },
+  {
     "address": "BIRDSONG RD & MICKEY RD",
     "city": "LAFAYETTE",
     "time": "04/29/2020 - 08:30 AM",
