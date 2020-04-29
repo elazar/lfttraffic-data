@@ -1,5 +1,13 @@
 [
   {
+    "address": "822 RUE SCHOLASTIQUE",
+    "city": "LAFAYETTE",
+    "time": "04/28/2020 - 7:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2894,
+    "longitude": -92.11021
+  },
+  {
     "address": "412 ESTELLE DR",
     "city": "CARENCRO",
     "time": "04/28/2020 - 5:20 PM",
