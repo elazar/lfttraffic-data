@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & LEBESQUE RD",
+    "city": "LAFAYETTE",
+    "time": "04/29/2020 - 05:30 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.27587,
+    "longitude": -92.04949
+  },
+  {
     "address": "400 ATTAKAPAS RD",
     "city": "LAFAYETTE",
     "time": "04/29/2020 - 05:29 AM",
