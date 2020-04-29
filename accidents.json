@@ -1,11 +1,11 @@
 [
   {
-    "address": "NW EVANGELINE TW & JUSTIN ST",
+    "address": "129 JUSTIN ST",
     "city": "LAFAYETTE",
     "time": "04/29/2020 - 3:45 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.25536,
-    "longitude": -92.01508
+    "due_to": "Fire Investigation",
+    "latitude": 30.25519,
+    "longitude": -92.01585
   },
   {
     "address": "300 OLD SETTLEMENT RD",
@@ -19,7 +19,7 @@
     "address": "NE EVANGELINE TW & E THIRD ST",
     "city": "LAFAYETTE",
     "time": "04/29/2020 - 3:42 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.22987,
     "longitude": -92.01213
   },
