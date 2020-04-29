@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 EMILE DR",
+    "city": "LAFAYETTE",
+    "time": "04/29/2020 - 07:08 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.27354,
+    "longitude": -92.08386
+  },
+  {
     "address": "NE EVANGELINE TW & DONLON AV",
     "city": "LAFAYETTE",
     "time": "04/29/2020 - 07:03 AM",
