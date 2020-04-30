@@ -1,5 +1,13 @@
 [
   {
+    "address": "E SIMCOE ST & MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "04/30/2020 - 1:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23069,
+    "longitude": -92.00911
+  },
+  {
     "address": "CAMERON ST & N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "04/30/2020 - 12:48 PM",
