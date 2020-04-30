@@ -1,5 +1,21 @@
 [
   {
+    "address": "W GLORIA SWITCH RD & N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "04/30/2020 - 4:35 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.29785,
+    "longitude": -92.04941
+  },
+  {
+    "address": "N UNIVERSITY AV & W GLORIA SWITCH RD",
+    "city": "CARENCRO",
+    "time": "04/30/2020 - 4:35 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.29785,
+    "longitude": -92.04941
+  },
+  {
     "address": "VEROT SCHOOL RD & DIGBY AV",
     "city": "LAFAYETTE",
     "time": "04/30/2020 - 4:34 PM",
