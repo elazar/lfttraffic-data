@@ -1,5 +1,13 @@
 [
   {
+    "address": "122 COUNTRY LN",
+    "city": "LAFAYETTE",
+    "time": "04/30/2020 - 3:00 PM",
+    "due_to": "Commercial Fire",
+    "latitude": 30.14751,
+    "longitude": -92.01826
+  },
+  {
     "address": "116 WHIRLAWAY DR",
     "city": "CARENCRO",
     "time": "04/30/2020 - 2:56 PM",
