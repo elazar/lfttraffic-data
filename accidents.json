@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "203 LE VIOLON RD",
+    "city": "SCOTT",
+    "time": "04/30/2020 - 6:24 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1992988,
+    "longitude": -92.1080951
+  }
+]
