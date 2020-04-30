@@ -1,5 +1,13 @@
 [
   {
+    "address": "E UNIVERSITY AV & W TAFT ST",
+    "city": "LAFAYETTE",
+    "time": "04/29/2020 - 8:49 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21296,
+    "longitude": -92.01316
+  },
+  {
     "address": "800 W ALEXANDER ST",
     "city": "LAFAYETTE",
     "time": "04/29/2020 - 8:36 PM",
