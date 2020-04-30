@@ -1,5 +1,13 @@
 [
   {
+    "address": "ROBLEY DR & GUIDRY RD",
+    "city": "LAFAYETTE",
+    "time": "04/30/2020 - 3:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16329,
+    "longitude": -92.07416
+  },
+  {
     "address": "122 COUNTRY LN",
     "city": "LAFAYETTE",
     "time": "04/30/2020 - 3:00 PM",
