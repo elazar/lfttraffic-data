@@ -1,5 +1,13 @@
 [
   {
+    "address": "2448 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "04/30/2020 - 3:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21267,
+    "longitude": -92.0506
+  },
+  {
     "address": "2600 MOSS ST",
     "city": "LAFAYETTE",
     "time": "04/30/2020 - 3:06 PM",
