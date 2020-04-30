@@ -1,5 +1,13 @@
 [
   {
+    "address": "800 W ALEXANDER ST",
+    "city": "LAFAYETTE",
+    "time": "04/29/2020 - 8:36 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25616,
+    "longitude": -92.01213
+  },
+  {
     "address": "410 TRAPPEY RD",
     "city": "LAFAYETTE",
     "time": "04/29/2020 - 8:22 PM",
