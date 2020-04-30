@@ -1,21 +1,5 @@
 [
   {
-    "address": "N RICHTER DR & JESSICA ST",
-    "city": "LAFAYETTE",
-    "time": "04/30/2020 - 5:13 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.25504,
-    "longitude": -92.02119
-  },
-  {
-    "address": "309 CORA ST",
-    "city": "LAFAYETTE",
-    "time": "04/30/2020 - 4:39 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24585,
-    "longitude": -92.02723
-  },
-  {
     "address": "W GLORIA SWITCH RD & N UNIVERSITY AV",
     "city": "CARENCRO",
     "time": "04/30/2020 - 4:35 PM",
