@@ -1,5 +1,13 @@
 [
   {
+    "address": "204 FALCON ST",
+    "city": "LAFAYETTE",
+    "time": "04/30/2020 - 12:07 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.20328,
+    "longitude": -92.10203
+  },
+  {
     "address": "FAILLA RD & LA NEUVILLE RD",
     "city": "LAFAYETTE",
     "time": "04/30/2020 - 11:04 AM",
