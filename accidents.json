@@ -30,13 +30,5 @@
     "due_to": "Residential Fire",
     "latitude": 30.17177,
     "longitude": -92.03191
-  },
-  {
-    "address": "101 I10 WESTBOUND MM101 HW",
-    "city": "LAFAYETTE",
-    "time": "04/30/2020 - 05:06 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.26255,
-    "longitude": -92.00867
   }
 ]
