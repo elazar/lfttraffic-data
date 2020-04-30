@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "109 ST LANDRY ST",
+    "city": "LAFAYETTE",
+    "time": "04/29/2020 - 7:16 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2199,
+    "longitude": -92.0239
+  }
+]
