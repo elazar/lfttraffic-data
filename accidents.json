@@ -1,5 +1,13 @@
 [
   {
+    "address": "1819 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "04/30/2020 - 1:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19011,
+    "longitude": -92.01519
+  },
+  {
     "address": "E SIMCOE ST & MOSS ST",
     "city": "LAFAYETTE",
     "time": "04/30/2020 - 1:10 PM",
