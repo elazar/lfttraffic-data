@@ -1,5 +1,13 @@
 [
   {
+    "address": "207 PALMS DR",
+    "city": "LAFAYETTE",
+    "time": "04/29/2020 - 11:22 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.16711,
+    "longitude": -92.08082
+  },
+  {
     "address": "251 G ST",
     "city": "DUSON",
     "time": "04/29/2020 - 11:00 PM",
