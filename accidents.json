@@ -1,5 +1,21 @@
 [
   {
+    "address": "GIRARD PARK CL & E ST MARY BL",
+    "city": "LAFAYETTE",
+    "time": "05/01/2020 - 5:07 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21013,
+    "longitude": -92.01601
+  },
+  {
+    "address": "MCKINLEY ST & E ST MARY BL",
+    "city": "LAFAYETTE",
+    "time": "05/01/2020 - 5:07 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21139,
+    "longitude": -92.0177
+  },
+  {
     "address": "2428 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "05/01/2020 - 4:50 PM",
