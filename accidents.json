@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & ARCENEAUX RD",
+    "city": "CARENCRO",
+    "time": "05/01/2020 - 5:56 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.30943,
+    "longitude": -92.04946
+  },
+  {
     "address": "SW EVANGELINE TW & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "05/01/2020 - 5:49 PM",
