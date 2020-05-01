@@ -1,5 +1,13 @@
 [
   {
+    "address": "LOUISIANA AV & S ORANGE ST",
+    "city": "LAFAYETTE",
+    "time": "05/01/2020 - 09:00 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22633,
+    "longitude": -92.00728
+  },
+  {
     "address": "317 HILL RIDGE DR",
     "city": "YOUNGSVILLE",
     "time": "05/01/2020 - 08:47 AM",
