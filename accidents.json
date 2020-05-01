@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.23236,
     "longitude": -92.03238
-  },
-  {
-    "address": "908 IRA ST",
-    "city": "CARENCRO",
-    "time": "05/01/2020 - 3:21 PM",
-    "due_to": "Vehicle Fire",
-    "latitude": 30.32147,
-    "longitude": -92.06913
   }
 ]
