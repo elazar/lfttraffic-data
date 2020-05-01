@@ -1,18 +1,10 @@
 [
   {
-    "address": "AMBASSADOR CAFFERY PW & VEROT SCHOOL RD",
+    "address": "2700 NE EVANGELINE TW",
     "city": "LAFAYETTE",
-    "time": "05/01/2020 - 2:23 PM",
+    "time": "05/01/2020 - 2:39 PM",
     "due_to": "Road Hazard",
-    "latitude": 30.14589,
-    "longitude": -92.03252
-  },
-  {
-    "address": "200 PRODUCTION DR",
-    "city": "LAFAYETTE",
-    "time": "05/01/2020 - 1:25 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17998,
-    "longitude": -92.00605
+    "latitude": 30.2661,
+    "longitude": -92.0166
   }
 ]
