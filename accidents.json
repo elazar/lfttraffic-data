@@ -1,5 +1,13 @@
 [
   {
+    "address": "422 CREST CL",
+    "city": "YOUNGSVILLE",
+    "time": "05/01/2020 - 09:33 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.11307,
+    "longitude": -92.00697
+  },
+  {
     "address": "4 I49 SOUTHBOUND MM4 HW",
     "city": "LAFAYETTE",
     "time": "05/01/2020 - 09:27 AM",
