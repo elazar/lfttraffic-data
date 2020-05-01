@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & S LOOP ST",
+    "city": "LAFAYETTE",
+    "time": "05/01/2020 - 4:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23243,
+    "longitude": -92.03436
+  },
+  {
     "address": "W UNIVERSITY AV & CAMERON ST",
     "city": "LAFAYETTE",
     "time": "05/01/2020 - 4:16 PM",
