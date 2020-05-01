@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2379,
     "longitude": -92.06484
-  },
-  {
-    "address": "WHITMORE RD & CREDEUR RD",
-    "city": "LAFAYETTE",
-    "time": "05/01/2020 - 12:23 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.27726,
-    "longitude": -92.15937
   }
 ]
