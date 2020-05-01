@@ -1,5 +1,13 @@
 [
   {
+    "address": "MATTHIEU ST & MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "05/01/2020 - 5:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24776,
+    "longitude": -92.00599
+  },
+  {
     "address": "VEROT SCHOOL RD & VINCENT RD",
     "city": "LAFAYETTE",
     "time": "05/01/2020 - 5:16 PM",
