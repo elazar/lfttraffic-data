@@ -1,5 +1,13 @@
 [
   {
+    "address": "5622 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "05/01/2020 - 10:05 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.17764,
+    "longitude": -92.07526
+  },
+  {
     "address": "5530 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/01/2020 - 09:52 AM",
