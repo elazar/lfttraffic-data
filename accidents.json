@@ -1,5 +1,13 @@
 [
   {
+    "address": "2510 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "05/01/2020 - 12:09 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25491,
+    "longitude": -92.00482
+  },
+  {
     "address": "NE EVANGELINE TW & I10 HW",
     "city": "LAFAYETTE",
     "time": "05/01/2020 - 11:31 AM",
