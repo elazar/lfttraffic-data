@@ -1,19 +1,11 @@
 [
   {
-    "address": "RUE COUPE CIVIQUE & E MUSIQUE RD",
+    "address": "1408 W WILLOW ST",
     "city": "LAFAYETTE",
-    "time": "05/02/2020 - 5:44 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.32513,
-    "longitude": -92.02207
-  },
-  {
-    "address": "ROSEWOOD AV & ST ANDREW DR",
-    "city": "LAFAYETTE",
-    "time": "05/02/2020 - 5:44 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.24713,
-    "longitude": -92.0384
+    "time": "05/02/2020 - 5:45 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.2459,
+    "longitude": -92.03998
   },
   {
     "address": "527 ST JOHN ST",
