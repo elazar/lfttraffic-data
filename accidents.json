@@ -14,5 +14,13 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2436,
     "longitude": -92.01106
+  },
+  {
+    "address": "1851 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "05/01/2020 - 8:23 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1680285,
+    "longitude": -92.0350114
   }
 ]
