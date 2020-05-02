@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "700 GENEVIEVE DR",
+    "city": "LAFAYETTE",
+    "time": "05/02/2020 - 08:15 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17728,
+    "longitude": -92.05931
+  }
+]
