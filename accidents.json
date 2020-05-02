@@ -1,5 +1,13 @@
 [
   {
+    "address": "316 WESTGATE RD",
+    "city": "SCOTT",
+    "time": "05/02/2020 - 2:21 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22896,
+    "longitude": -92.08746
+  },
+  {
     "address": "W CONGRESS ST & RUE DU BELIER",
     "city": "SCOTT",
     "time": "05/02/2020 - 1:44 PM",
