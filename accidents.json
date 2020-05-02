@@ -1,5 +1,13 @@
 [
   {
+    "address": "JEFFERSON BL & S ORANGE ST",
+    "city": "LAFAYETTE",
+    "time": "05/02/2020 - 08:17 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.22939,
+    "longitude": -92.01082
+  },
+  {
     "address": "700 GENEVIEVE DR",
     "city": "LAFAYETTE",
     "time": "05/02/2020 - 08:15 AM",
