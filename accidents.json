@@ -1,5 +1,13 @@
 [
   {
+    "address": "VEROT SCHOOL RD & CHASTANT BL",
+    "city": "LAFAYETTE",
+    "time": "05/02/2020 - 2:36 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.17192,
+    "longitude": -92.01801
+  },
+  {
     "address": "316 WESTGATE RD",
     "city": "SCOTT",
     "time": "05/02/2020 - 2:21 PM",
