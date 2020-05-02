@@ -1,5 +1,13 @@
 [
   {
+    "address": "2433 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "05/02/2020 - 3:15 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.21255,
+    "longitude": -92.04901
+  },
+  {
     "address": "W CONGRESS ST & THEATRE ST",
     "city": "LAFAYETTE",
     "time": "05/02/2020 - 3:14 PM",
