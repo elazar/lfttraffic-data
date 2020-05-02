@@ -1,5 +1,21 @@
 [
   {
+    "address": "VETERANS DR & NW FRONTAGE RD",
+    "city": "CARENCRO",
+    "time": "05/02/2020 - 5:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.32204,
+    "longitude": -92.03574
+  },
+  {
+    "address": "I49 SOUTHBOUND MM4 HW & VETERANS DR",
+    "city": "LAFAYETTE",
+    "time": "05/02/2020 - 5:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.32188,
+    "longitude": -92.04333
+  },
+  {
     "address": "600 SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "05/02/2020 - 3:57 PM",
