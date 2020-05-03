@@ -1,5 +1,13 @@
 [
   {
+    "address": "1300 SAVOY RD",
+    "city": "LAFAYETTE",
+    "time": "05/03/2020 - 4:49 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.09529,
+    "longitude": -92.02899
+  },
+  {
     "address": "207 LASALLE ST",
     "city": "LAFAYETTE",
     "time": "05/03/2020 - 4:08 PM",
