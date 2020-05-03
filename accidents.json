@@ -1,5 +1,21 @@
 [
   {
+    "address": "201 HIGH MEADOWS BL",
+    "city": "LAFAYETTE",
+    "time": "05/03/2020 - 2:54 PM",
+    "due_to": "Commercial Fire",
+    "latitude": 30.27757,
+    "longitude": -92.01651
+  },
+  {
+    "address": "HIGH MEADOWS BL & E PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "05/03/2020 - 2:53 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.27337,
+    "longitude": -92.01605
+  },
+  {
     "address": "3810 NE EVANGELINE TW",
     "city": "CARENCRO",
     "time": "05/03/2020 - 2:18 PM",
