@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "W BACHERT ST & BAXTER ST",
+    "city": "LAFAYETTE",
+    "time": "05/03/2020 - 02:51 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22779,
+    "longitude": -92.00058
+  }
+]
