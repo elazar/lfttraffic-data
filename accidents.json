@@ -1,5 +1,13 @@
 [
   {
+    "address": "L PROVOST RD & OLD SPANISH TL",
+    "city": "SCOTT",
+    "time": "05/03/2020 - 5:37 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23221,
+    "longitude": -92.09845
+  },
+  {
     "address": "1300 SAVOY RD",
     "city": "LAFAYETTE",
     "time": "05/03/2020 - 4:49 PM",
