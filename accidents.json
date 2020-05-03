@@ -1,5 +1,21 @@
 [
   {
+    "address": "4840 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "05/03/2020 - 3:21 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.36899,
+    "longitude": -92.04879
+  },
+  {
+    "address": "3141 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "05/03/2020 - 3:21 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2036,
+    "longitude": -92.0475
+  },
+  {
     "address": "201 HIGH MEADOWS BL",
     "city": "LAFAYETTE",
     "time": "05/03/2020 - 2:54 PM",
