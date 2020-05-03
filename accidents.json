@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & DUHON RD",
+    "city": "LAFAYETTE",
+    "time": "05/03/2020 - 3:46 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16617,
+    "longitude": -92.08326
+  },
+  {
     "address": "SUNFLOWER DR & SOLITAIRE AV",
     "city": "LAFAYETTE",
     "time": "05/03/2020 - 3:26 PM",
