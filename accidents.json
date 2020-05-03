@@ -1,5 +1,21 @@
 [
   {
+    "address": "LOUISIANA AV & E WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "05/03/2020 - 6:29 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24552,
+    "longitude": -92.00037
+  },
+  {
+    "address": "E UNIVERSITY AV & GENERAL MOUTON AV",
+    "city": "LAFAYETTE",
+    "time": "05/03/2020 - 6:29 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20823,
+    "longitude": -92.00517
+  },
+  {
     "address": "L PROVOST RD & OLD SPANISH TL",
     "city": "SCOTT",
     "time": "05/03/2020 - 5:37 PM",
