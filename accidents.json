@@ -1,19 +1,11 @@
 [
   {
-    "address": "1800 GOLDEN GRAIN RD",
+    "address": "1719 GOLDEN GRAIN RD",
     "city": "LAFAYETTE",
     "time": "05/03/2020 - 12:06 PM",
     "due_to": "Trash Fire",
-    "latitude": 30.1592101,
-    "longitude": -92.2006508
-  },
-  {
-    "address": "404 WISTERIA BEND CL",
-    "city": "CARENCRO",
-    "time": "05/03/2020 - 12:02 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.30712,
-    "longitude": -92.05551
+    "latitude": 30.15874,
+    "longitude": -92.19775
   },
   {
     "address": "930 ROBLEY DR",
