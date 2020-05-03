@@ -1,5 +1,13 @@
 [
   {
+    "address": "120 PERRY LN",
+    "city": "SCOTT",
+    "time": "05/02/2020 - 7:48 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.2749047,
+    "longitude": -92.0715706
+  },
+  {
     "address": "307 PECAN GROVE RD",
     "city": "LAFAYETTE",
     "time": "05/02/2020 - 6:24 PM",
