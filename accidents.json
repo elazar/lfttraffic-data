@@ -22,13 +22,5 @@
     "due_to": "Road Hazard",
     "latitude": 30.09529,
     "longitude": -92.02899
-  },
-  {
-    "address": "207 LASALLE ST",
-    "city": "LAFAYETTE",
-    "time": "05/03/2020 - 4:08 PM",
-    "due_to": "Grass Fire",
-    "latitude": 30.22883,
-    "longitude": -92.02642
   }
 ]
