@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "106 HERBERT RD",
+    "city": "SCOTT",
+    "time": "05/04/2020 - 2:57 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21007,
+    "longitude": -92.09839
+  }
+]
