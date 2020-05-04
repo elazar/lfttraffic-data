@@ -1,5 +1,13 @@
 [
   {
+    "address": "400 N MICHAUD ST",
+    "city": "CARENCRO",
+    "time": "05/04/2020 - 3:53 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.32535,
+    "longitude": -92.04175
+  },
+  {
     "address": "544 ORCHID DR",
     "city": "LAFAYETTE",
     "time": "05/04/2020 - 3:39 PM",
