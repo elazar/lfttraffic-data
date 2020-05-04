@@ -1,5 +1,13 @@
 [
   {
+    "address": "3500 N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "05/04/2020 - 1:26 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2948184,
+    "longitude": -92.0494443
+  },
+  {
     "address": "W CONGRESS ST & ST PATRICK ST",
     "city": "LAFAYETTE",
     "time": "05/04/2020 - 1:25 PM",
