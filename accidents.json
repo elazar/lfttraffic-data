@@ -1,5 +1,13 @@
 [
   {
+    "address": "127 LUCAS CL",
+    "city": "LAFAYETTE",
+    "time": "05/03/2020 - 9:28 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.15242,
+    "longitude": -91.98291
+  },
+  {
     "address": "169 S BEADLE RD",
     "city": "LAFAYETTE",
     "time": "05/03/2020 - 9:26 PM",
