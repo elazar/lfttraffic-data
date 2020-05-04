@@ -1,5 +1,13 @@
 [
   {
+    "address": "WALTER DR & W GLORIA SWITCH RD",
+    "city": "CARENCRO",
+    "time": "05/04/2020 - 02:10 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.29783,
+    "longitude": -92.03873
+  },
+  {
     "address": "108 OMEGA DR",
     "city": "LAFAYETTE",
     "time": "05/04/2020 - 02:00 AM",
