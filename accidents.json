@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & MONTEIGNE DR",
+    "city": "LAFAYETTE",
+    "time": "05/04/2020 - 08:20 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.20972,
+    "longitude": -92.05292
+  },
+  {
     "address": "215 E PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "05/04/2020 - 07:58 AM",
