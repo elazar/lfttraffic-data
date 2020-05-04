@@ -1,5 +1,13 @@
 [
   {
+    "address": "210 CLAYMORE DR",
+    "city": "LAFAYETTE",
+    "time": "05/04/2020 - 08:56 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19451,
+    "longitude": -92.05205
+  },
+  {
     "address": "401 SPRINGWATER DR",
     "city": "BROUSSARD",
     "time": "05/04/2020 - 07:50 AM",
