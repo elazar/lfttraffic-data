@@ -1,5 +1,13 @@
 [
   {
+    "address": "921 CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "05/04/2020 - 5:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18009,
+    "longitude": -92.04699
+  },
+  {
     "address": "W CONGRESS ST & ALYENE DR",
     "city": "LAFAYETTE",
     "time": "05/04/2020 - 4:32 PM",
