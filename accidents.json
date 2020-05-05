@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 E LEWIS ST",
+    "city": "LAFAYETTE",
+    "time": "05/05/2020 - 2:12 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.21147,
+    "longitude": -92.02474
+  },
+  {
     "address": "100 BENDEL RD",
     "city": "LAFAYETTE",
     "time": "05/05/2020 - 1:52 PM",
