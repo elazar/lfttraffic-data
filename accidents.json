@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 S JEFFERSON ST",
+    "city": "BROUSSARD",
+    "time": "05/05/2020 - 5:29 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.14636,
+    "longitude": -91.9676
+  },
+  {
     "address": "CELEBRITY DR & US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "05/05/2020 - 5:26 PM",
@@ -8,12 +16,12 @@
     "longitude": -91.94632
   },
   {
-    "address": "324 S FIELDSPAN RD",
+    "address": "906 S FIELDSPAN RD",
     "city": "LAFAYETTE",
     "time": "05/05/2020 - 5:24 PM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.2417573,
-    "longitude": -92.1422449
+    "latitude": 30.22905,
+    "longitude": -92.14283
   },
   {
     "address": "1300 E PONT DES MOUTON RD",
