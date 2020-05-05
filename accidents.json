@@ -1,5 +1,13 @@
 [
   {
+    "address": "BRAHMAN DR & E ANGUS DR",
+    "city": "YOUNGSVILLE",
+    "time": "05/05/2020 - 11:41 AM",
+    "due_to": "Trash Fire",
+    "latitude": 30.12658,
+    "longitude": -91.99553
+  },
+  {
     "address": "4801 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/05/2020 - 11:40 AM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22457,
     "longitude": -92.01033
-  },
-  {
-    "address": "2100 E MILTON AV",
-    "city": "YOUNGSVILLE",
-    "time": "05/05/2020 - 11:20 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1091951,
-    "longitude": -92.0318337
   },
   {
     "address": "4313 AMBASSADOR CAFFERY PW",
