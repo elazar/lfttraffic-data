@@ -1,5 +1,13 @@
 [
   {
+    "address": "101 I10 EASTBOUND MM101 HW",
+    "city": "LAFAYETTE",
+    "time": "05/05/2020 - 4:56 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "108 DUBAC RD",
     "city": "SCOTT",
     "time": "05/05/2020 - 4:44 PM",
