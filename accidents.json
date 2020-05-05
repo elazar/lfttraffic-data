@@ -1,5 +1,13 @@
 [
   {
+    "address": "212 ST BENJAMIN DR",
+    "city": "LAFAYETTE",
+    "time": "05/04/2020 - 8:54 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.19937,
+    "longitude": -92.08158
+  },
+  {
     "address": "800 S BUCHANAN ST",
     "city": "LAFAYETTE",
     "time": "05/04/2020 - 8:52 PM",
