@@ -1,5 +1,13 @@
 [
   {
+    "address": "103 MUDD AV",
+    "city": "LAFAYETTE",
+    "time": "05/05/2020 - 2:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23359,
+    "longitude": -92.01688
+  },
+  {
     "address": "NE EVANGELINE TW & E WILLOW ST",
     "city": "LAFAYETTE",
     "time": "05/05/2020 - 2:41 PM",
