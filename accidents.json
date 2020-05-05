@@ -1,5 +1,13 @@
 [
   {
+    "address": "1300 E PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "05/05/2020 - 5:19 PM",
+    "due_to": "Commercial Fire",
+    "latitude": 30.27138,
+    "longitude": -91.99379
+  },
+  {
     "address": "800 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "05/05/2020 - 5:13 PM",
