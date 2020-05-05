@@ -1,5 +1,13 @@
 [
   {
+    "address": "2208 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "05/05/2020 - 6:14 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.26323,
+    "longitude": -92.04209
+  },
+  {
     "address": "MOSS ST & W PINE ST",
     "city": "LAFAYETTE",
     "time": "05/05/2020 - 6:06 PM",
