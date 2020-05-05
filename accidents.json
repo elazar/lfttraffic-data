@@ -1,5 +1,13 @@
 [
   {
+    "address": "2300 LA 93 HW",
+    "city": "LAFAYETTE",
+    "time": "05/05/2020 - 2:21 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.2957612,
+    "longitude": -92.1166451
+  },
+  {
     "address": "100 E LEWIS ST",
     "city": "LAFAYETTE",
     "time": "05/05/2020 - 2:12 PM",
