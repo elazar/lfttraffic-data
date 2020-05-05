@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "address": "2814 E MILTON AV",
+    "city": "YOUNGSVILLE",
+    "time": "05/05/2020 - 08:08 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.10868,
+    "longitude": -92.01703
+  },
+  {
+    "address": "203 FRANCIS AV",
+    "city": "LAFAYETTE",
+    "time": "05/05/2020 - 06:49 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21544,
+    "longitude": -92.00459
+  }
+]
