@@ -24,28 +24,12 @@
     "longitude": -92.06617
   },
   {
-    "address": "1824 ST MARY ST",
-    "city": "SCOTT",
-    "time": "05/05/2020 - 11:51 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2441614,
-    "longitude": -92.1067693
-  },
-  {
     "address": "4801 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/05/2020 - 11:40 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.15051,
     "longitude": -92.03698
-  },
-  {
-    "address": "LOUISIANA AV & SW EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "05/05/2020 - 11:36 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22457,
-    "longitude": -92.01033
   },
   {
     "address": "1308 BERTRAND DR",
