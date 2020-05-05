@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 BENDEL RD",
+    "city": "LAFAYETTE",
+    "time": "05/05/2020 - 1:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2012203,
+    "longitude": -92.0193176
+  },
+  {
     "address": "3316 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/05/2020 - 1:47 PM",
