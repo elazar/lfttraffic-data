@@ -1,5 +1,13 @@
 [
   {
+    "address": "SURREY ST & VERMILION RIVER",
+    "city": "LAFAYETTE",
+    "time": "05/05/2020 - 1:06 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21934,
+    "longitude": -91.99282
+  },
+  {
     "address": "3806 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/05/2020 - 12:41 PM",
