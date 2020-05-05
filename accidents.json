@@ -1,5 +1,21 @@
 [
   {
+    "address": "2405 LA 1252 HW",
+    "city": "LAFAYETTE",
+    "time": "05/05/2020 - 2:51 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.35968,
+    "longitude": -91.96435
+  },
+  {
+    "address": "623 LAFAYETTE ST",
+    "city": "YOUNGSVILLE",
+    "time": "05/05/2020 - 2:51 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.10853,
+    "longitude": -91.99151
+  },
+  {
     "address": "103 MUDD AV",
     "city": "LAFAYETTE",
     "time": "05/05/2020 - 2:43 PM",
