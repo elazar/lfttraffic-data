@@ -1,5 +1,21 @@
 [
   {
+    "address": "1200 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "05/06/2020 - 08:10 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20286,
+    "longitude": -92.01454
+  },
+  {
+    "address": "200 DUSON ST",
+    "city": "LAFAYETTE",
+    "time": "05/06/2020 - 08:10 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2309368,
+    "longitude": -92.0445049
+  },
+  {
     "address": "106 NARCISSE ST",
     "city": "LAFAYETTE",
     "time": "05/06/2020 - 07:25 AM",
