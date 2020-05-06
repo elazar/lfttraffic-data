@@ -1,5 +1,13 @@
 [
   {
+    "address": "900 E ALEXANDER ST",
+    "city": "LAFAYETTE",
+    "time": "05/05/2020 - 11:53 PM",
+    "due_to": "Hazard",
+    "latitude": 30.2541,
+    "longitude": -91.99263
+  },
+  {
     "address": "LOUISIANA AV & E WILLOW ST",
     "city": "LAFAYETTE",
     "time": "05/05/2020 - 11:49 PM",
@@ -70,14 +78,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.25038,
     "longitude": -92.03431
-  },
-  {
-    "address": "3206 MOSS ST",
-    "city": "LAFAYETTE",
-    "time": "05/05/2020 - 11:28 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.26433,
-    "longitude": -92.00734
   },
   {
     "address": "1202 E ALEXANDER ST",
