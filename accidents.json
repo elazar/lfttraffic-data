@@ -40,22 +40,6 @@
     "longitude": -92.02633
   },
   {
-    "address": "1200 E ALEXANDER ST",
-    "city": "LAFAYETTE",
-    "time": "05/05/2020 - 11:17 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.25334,
-    "longitude": -91.98622
-  },
-  {
-    "address": "200 DENMARK RD",
-    "city": "LAFAYETTE",
-    "time": "05/05/2020 - 11:16 PM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.229545,
-    "longitude": -92.1418915
-  },
-  {
     "address": "1640 ST MARY ST",
     "city": "SCOTT",
     "time": "05/05/2020 - 11:15 PM",
