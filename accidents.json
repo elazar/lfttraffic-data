@@ -1,5 +1,13 @@
 [
   {
+    "address": "MALAPART",
+    "city": "Lafayette",
+    "time": "05/06/2020 - 01:11 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.29054,
+    "longitude": -92.07065
+  },
+  {
     "address": "100 BENMAN RD",
     "city": "LAFAYETTE",
     "time": "05/06/2020 - 01:02 AM",
