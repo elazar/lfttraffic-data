@@ -1,5 +1,13 @@
 [
   {
+    "address": "518 S PIERCE ST",
+    "city": "LAFAYETTE",
+    "time": "05/06/2020 - 2:05 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.22847,
+    "longitude": -92.01909
+  },
+  {
     "address": "101 ROBINS NEST LN",
     "city": "LAFAYETTE",
     "time": "05/06/2020 - 2:04 PM",
