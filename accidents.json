@@ -70,13 +70,5 @@
     "due_to": "Road Hazard",
     "latitude": 30.2533,
     "longitude": -91.98605
-  },
-  {
-    "address": "3220 NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "05/05/2020 - 11:09 PM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.29303,
-    "longitude": -92.02305
   }
 ]
