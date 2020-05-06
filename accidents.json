@@ -1,5 +1,13 @@
 [
   {
+    "address": "E WILLOW ST & E CEDAR ST",
+    "city": "LAFAYETTE",
+    "time": "05/06/2020 - 12:10 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.24422,
+    "longitude": -92.00406
+  },
+  {
     "address": "S BIENVILLE ST & W SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "05/06/2020 - 12:09 AM",
@@ -30,14 +38,6 @@
     "due_to": "Fire Investigation",
     "latitude": 30.2541,
     "longitude": -91.99263
-  },
-  {
-    "address": "LOUISIANA AV & E WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "05/05/2020 - 11:49 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.24552,
-    "longitude": -92.00037
   },
   {
     "address": "200 HILLBROOKE DR",
