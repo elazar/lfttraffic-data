@@ -1,5 +1,13 @@
 [
   {
+    "address": "1144 E ALEXANDER ST",
+    "city": "LAFAYETTE",
+    "time": "05/05/2020 - 11:25 PM",
+    "due_to": "Hazard",
+    "latitude": 30.25345,
+    "longitude": -91.98722
+  },
+  {
     "address": "E ALEXANDER ST & WINNIPEG AV",
     "city": "LAFAYETTE",
     "time": "05/05/2020 - 11:24 PM",
