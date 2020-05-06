@@ -1,5 +1,13 @@
 [
   {
+    "address": "NW EVANGELINE TW & E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "05/05/2020 - 11:55 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23107,
+    "longitude": -92.0138
+  },
+  {
     "address": "900 E ALEXANDER ST",
     "city": "LAFAYETTE",
     "time": "05/05/2020 - 11:53 PM",
@@ -30,14 +38,6 @@
     "due_to": "Fire Investigation",
     "latitude": 30.13989,
     "longitude": -91.97446
-  },
-  {
-    "address": "MOSS ST & W ALEXANDER ST",
-    "city": "LAFAYETTE",
-    "time": "05/05/2020 - 11:41 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2556,
-    "longitude": -92.00554
   },
   {
     "address": "100 JUDGE DR",
