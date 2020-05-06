@@ -1,5 +1,13 @@
 [
   {
+    "address": "S BIENVILLE ST & W SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "05/06/2020 - 12:09 AM",
+    "due_to": "Hazardous Situation",
+    "latitude": 30.23055,
+    "longitude": -92.02389
+  },
+  {
     "address": "115 HILLSIDE DR",
     "city": "LAFAYETTE",
     "time": "05/05/2020 - 11:56 PM",
