@@ -1,18 +1,18 @@
 [
   {
+    "address": "VEROT SCHOOL RD & CHASTANT BL",
+    "city": "LAFAYETTE",
+    "time": "05/05/2020 - 8:08 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17192,
+    "longitude": -92.01801
+  },
+  {
     "address": "600 VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "05/05/2020 - 8:05 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.1739927,
     "longitude": -92.0127309
-  },
-  {
-    "address": "800 KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "05/05/2020 - 5:13 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.18082,
-    "longitude": -92.02098
   }
 ]
