@@ -1,5 +1,13 @@
 [
   {
+    "address": "FOREMAN DR & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "05/06/2020 - 07:37 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.20729,
+    "longitude": -92.05656
+  },
+  {
     "address": "106 NARCISSE ST",
     "city": "LAFAYETTE",
     "time": "05/06/2020 - 07:25 AM",
