@@ -1,5 +1,13 @@
 [
   {
+    "address": "105 E ANGUS DR",
+    "city": "YOUNGSVILLE",
+    "time": "05/05/2020 - 11:44 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.12698,
+    "longitude": -91.99798
+  },
+  {
     "address": "900 E ALEXANDER ST",
     "city": "LAFAYETTE",
     "time": "05/05/2020 - 11:43 PM",
@@ -70,14 +78,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.26433,
     "longitude": -92.00734
-  },
-  {
-    "address": "3221 LOUISIANA AV",
-    "city": "LAFAYETTE",
-    "time": "05/05/2020 - 11:23 PM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.26637,
-    "longitude": -91.99283
   },
   {
     "address": "1202 E ALEXANDER ST",
