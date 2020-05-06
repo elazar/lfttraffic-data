@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "CLEVELAND ST & MCKINLEY ST",
+    "city": "LAFAYETTE",
+    "time": "05/05/2020 - 9:44 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.21647,
+    "longitude": -92.01351
+  }
+]
