@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & FOREMAN DR",
+    "city": "LAFAYETTE",
+    "time": "05/06/2020 - 08:19 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.20729,
+    "longitude": -92.05656
+  },
+  {
     "address": "1200 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "05/06/2020 - 08:10 AM",
