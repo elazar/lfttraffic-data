@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & CASON RD",
+    "city": "BROUSSARD",
+    "time": "05/06/2020 - 07:00 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16268,
+    "longitude": -91.97288
+  },
+  {
     "address": "350 MICHAEL ANN DR",
     "city": "LAFAYETTE",
     "time": "05/06/2020 - 06:30 AM",
