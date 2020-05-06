@@ -1,5 +1,13 @@
 [
   {
+    "address": "1106 LEBESQUE RD",
+    "city": "SCOTT",
+    "time": "05/06/2020 - 09:02 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27602,
+    "longitude": -92.08074
+  },
+  {
     "address": "200 DUSON ST",
     "city": "LAFAYETTE",
     "time": "05/06/2020 - 08:10 AM",
