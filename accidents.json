@@ -1,5 +1,13 @@
 [
   {
+    "address": "MOSS ST & W ALEXANDER ST",
+    "city": "LAFAYETTE",
+    "time": "05/05/2020 - 11:41 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2556,
+    "longitude": -92.00554
+  },
+  {
     "address": "100 JUDGE DR",
     "city": "LAFAYETTE",
     "time": "05/05/2020 - 11:39 PM",
@@ -54,14 +62,6 @@
     "due_to": "Fire Alarm-Commercial",
     "latitude": 30.26637,
     "longitude": -91.99283
-  },
-  {
-    "address": "112 HILLSIDE DR",
-    "city": "LAFAYETTE",
-    "time": "05/05/2020 - 11:21 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.20063,
-    "longitude": -92.02633
   },
   {
     "address": "1202 E ALEXANDER ST",
