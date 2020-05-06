@@ -1,5 +1,13 @@
 [
   {
+    "address": "900 E ALEXANDER ST",
+    "city": "LAFAYETTE",
+    "time": "05/05/2020 - 11:43 PM",
+    "due_to": "Hazard",
+    "latitude": 30.2541,
+    "longitude": -91.99263
+  },
+  {
     "address": "32 BNSF RAILROAD CG",
     "city": "LAFAYETTE",
     "time": "05/05/2020 - 11:42 PM",
