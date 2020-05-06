@@ -1,5 +1,13 @@
 [
   {
+    "address": "GOLDEN GRAIN RD & S FIELDSPAN HW",
+    "city": "LAFAYETTE",
+    "time": "05/05/2020 - 11:37 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15939,
+    "longitude": -92.14178
+  },
+  {
     "address": "N COLLEGE RD & BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "05/05/2020 - 11:37 PM",
@@ -40,14 +48,6 @@
     "longitude": -91.98722
   },
   {
-    "address": "E ALEXANDER ST & WINNIPEG AV",
-    "city": "LAFAYETTE",
-    "time": "05/05/2020 - 11:24 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.25415,
-    "longitude": -91.99076
-  },
-  {
     "address": "3221 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "05/05/2020 - 11:23 PM",
@@ -62,14 +62,6 @@
     "due_to": "Fire Investigation",
     "latitude": 30.20063,
     "longitude": -92.02633
-  },
-  {
-    "address": "1640 ST MARY ST",
-    "city": "SCOTT",
-    "time": "05/05/2020 - 11:15 PM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.24311,
-    "longitude": -92.10426
   },
   {
     "address": "1202 E ALEXANDER ST",
