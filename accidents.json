@@ -1,5 +1,13 @@
 [
   {
+    "address": "N COLLEGE RD & BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "05/05/2020 - 11:37 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21211,
+    "longitude": -92.04493
+  },
+  {
     "address": "WESTGATE RD & OLD SPANISH TL",
     "city": "SCOTT",
     "time": "05/05/2020 - 11:33 PM",
@@ -16,12 +24,12 @@
     "longitude": -92.03431
   },
   {
-    "address": "3747 MOSS ST",
+    "address": "3206 MOSS ST",
     "city": "LAFAYETTE",
     "time": "05/05/2020 - 11:28 PM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.27253,
-    "longitude": -92.00878
+    "latitude": 30.26433,
+    "longitude": -92.00734
   },
   {
     "address": "1144 E ALEXANDER ST",
