@@ -1,5 +1,13 @@
 [
   {
+    "address": "1604 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "05/05/2020 - 11:31 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25038,
+    "longitude": -92.03431
+  },
+  {
     "address": "3747 MOSS ST",
     "city": "LAFAYETTE",
     "time": "05/05/2020 - 11:28 PM",
@@ -62,13 +70,5 @@
     "due_to": "Fire Alarm-Commercial",
     "latitude": 30.29303,
     "longitude": -92.02305
-  },
-  {
-    "address": "100 FRANK ST",
-    "city": "LAFAYETTE",
-    "time": "05/05/2020 - 10:48 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.2278476,
-    "longitude": -91.9975466
   }
 ]
