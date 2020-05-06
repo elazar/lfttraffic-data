@@ -1,5 +1,13 @@
 [
   {
+    "address": "113 AMBROISE ST",
+    "city": "LAFAYETTE",
+    "time": "05/06/2020 - 09:24 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.24153,
+    "longitude": -92.01748
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "05/06/2020 - 09:18 AM",
