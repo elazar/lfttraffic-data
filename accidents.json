@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "123 BERMUDA CL",
+    "city": "SCOTT",
+    "time": "05/06/2020 - 06:09 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.25218,
+    "longitude": -92.08795
+  }
+]
