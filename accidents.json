@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "05/05/2020 - 8:05 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1739927,
+    "longitude": -92.0127309
+  },
+  {
     "address": "800 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "05/05/2020 - 5:13 PM",
