@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 BENMAN RD",
+    "city": "LAFAYETTE",
+    "time": "05/06/2020 - 01:02 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2315,
+    "longitude": -92.07948
+  },
+  {
     "address": "S BIENVILLE ST & W SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "05/06/2020 - 12:09 AM",
