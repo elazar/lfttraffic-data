@@ -1,5 +1,13 @@
 [
   {
+    "address": "3301 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "05/07/2020 - 3:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20241,
+    "longitude": -92.05117
+  },
+  {
     "address": "100 AQUEDUCT DR",
     "city": "LAFAYETTE",
     "time": "05/07/2020 - 2:39 PM",
