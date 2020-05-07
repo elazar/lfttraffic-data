@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 BENDEL RD",
+    "city": "LAFAYETTE",
+    "time": "05/07/2020 - 12:47 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2005946,
+    "longitude": -92.0185246
+  },
+  {
     "address": "1810 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "05/07/2020 - 12:44 PM",
