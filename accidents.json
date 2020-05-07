@@ -7,14 +7,7 @@
     "latitude": 30.2005946,
     "longitude": -92.0185246
   },
-  {
-    "address": "100 MENDELL RD",
-    "city": "LAFAYETTE",
-    "time": "05/07/2020 - 12:33 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.31343,
-    "longitude": -92.11762
-  },
+  null,
   {
     "address": "JOHNSTON ST & DUHON RD",
     "city": "LAFAYETTE",
