@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 ARTISAN RD",
+    "city": "LAFAYETTE",
+    "time": "05/07/2020 - 3:48 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15982,
+    "longitude": -92.02003
+  },
+  {
     "address": "104 FOUNTAIN VIEW DR",
     "city": "YOUNGSVILLE",
     "time": "05/07/2020 - 3:40 PM",
