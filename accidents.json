@@ -1,5 +1,13 @@
 [
   {
+    "address": "S WASHINGTON ST & VOORHIES ST",
+    "city": "LAFAYETTE",
+    "time": "05/07/2020 - 10:52 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22816,
+    "longitude": -92.02185
+  },
+  {
     "address": "225 CHARLES DR",
     "city": "LAFAYETTE",
     "time": "05/07/2020 - 10:49 AM",
