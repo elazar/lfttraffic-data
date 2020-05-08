@@ -8,12 +8,12 @@
     "longitude": -92.06265
   },
   {
-    "address": "SW EVANGELINE TW & E PINHOOK RD",
+    "address": "1700 SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "05/08/2020 - 2:44 PM",
     "due_to": "Road Hazard",
-    "latitude": 30.21749,
-    "longitude": -92.00495
+    "latitude": 30.2053441,
+    "longitude": -92.00045
   },
   {
     "address": "200 E WILLOW ST",
@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.24388,
     "longitude": -92.00992
-  },
-  {
-    "address": "VEROT SCHOOL RD & MILLCREEK RD",
-    "city": "LAFAYETTE",
-    "time": "05/08/2020 - 1:20 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.13109,
-    "longitude": -92.03248
   }
 ]
