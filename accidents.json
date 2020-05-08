@@ -1,5 +1,21 @@
 [
   {
+    "address": "CAMERON ST & AUSTRIA RD",
+    "city": "DUSON",
+    "time": "05/08/2020 - 5:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23496,
+    "longitude": -92.19301
+  },
+  {
+    "address": "E PINHOOK RD & SE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "05/08/2020 - 5:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21749,
+    "longitude": -92.00495
+  },
+  {
     "address": "ST ETIENNE RD & MOULIN RD",
     "city": "BROUSSARD",
     "time": "05/08/2020 - 5:17 PM",
