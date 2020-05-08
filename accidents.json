@@ -1,5 +1,13 @@
 [
   {
+    "address": "W UNIVERSITY AV & ST LANDRY ST",
+    "city": "LAFAYETTE",
+    "time": "05/08/2020 - 4:40 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22067,
+    "longitude": -92.02351
+  },
+  {
     "address": "3001 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "05/08/2020 - 4:36 PM",
