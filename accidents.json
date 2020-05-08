@@ -38,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2315715,
     "longitude": -92.0382326
-  },
-  {
-    "address": "400 BENOIT FALGOUT DR",
-    "city": "LAFAYETTE",
-    "time": "05/08/2020 - 12:15 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.2563605,
-    "longitude": -92.0228737
   }
 ]
