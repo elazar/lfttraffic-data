@@ -1,5 +1,13 @@
 [
   {
+    "address": "213 SUMMER MORNING CT",
+    "city": "LAFAYETTE",
+    "time": "05/08/2020 - 10:01 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1403267,
+    "longitude": -92.0370656
+  },
+  {
     "address": "E BROUSSARD RD & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "05/08/2020 - 09:06 AM",
