@@ -1,5 +1,13 @@
 [
   {
+    "address": "206 EDISON ST",
+    "city": "LAFAYETTE",
+    "time": "05/08/2020 - 12:47 PM",
+    "due_to": "Hazardous Situation",
+    "latitude": 30.23887,
+    "longitude": -92.02224
+  },
+  {
     "address": "400 BENOIT FALGOUT DR",
     "city": "LAFAYETTE",
     "time": "05/08/2020 - 12:15 PM",
