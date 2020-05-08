@@ -1,5 +1,13 @@
 [
   {
+    "address": "131 TEE MA RD",
+    "city": "CARENCRO",
+    "time": "05/08/2020 - 10:40 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.32043,
+    "longitude": -92.04125
+  },
+  {
     "address": "S COLLEGE RD & W BAYOU PW",
     "city": "LAFAYETTE",
     "time": "05/08/2020 - 10:26 AM",
