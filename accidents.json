@@ -1,5 +1,13 @@
 [
   {
+    "address": "3001 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "05/08/2020 - 4:36 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2623,
+    "longitude": -91.99535
+  },
+  {
     "address": "N AMBASSADOR CAFFERY PW & I10 HW",
     "city": "LAFAYETTE",
     "time": "05/08/2020 - 4:32 PM",
