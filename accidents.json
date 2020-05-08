@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & AUBURN AV",
+    "city": "LAFAYETTE",
+    "time": "05/08/2020 - 10:50 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20815,
+    "longitude": -92.01115
+  },
+  {
     "address": "131 TEE MA RD",
     "city": "CARENCRO",
     "time": "05/08/2020 - 10:40 AM",
