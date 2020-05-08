@@ -1,19 +1,19 @@
 [
   {
+    "address": "200 E WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "05/08/2020 - 1:33 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.24388,
+    "longitude": -92.00992
+  },
+  {
     "address": "VEROT SCHOOL RD & MILLCREEK RD",
     "city": "LAFAYETTE",
     "time": "05/08/2020 - 1:20 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.13109,
     "longitude": -92.03248
-  },
-  {
-    "address": "2100 NW EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "05/08/2020 - 1:07 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.2520073,
-    "longitude": -92.0144315
   },
   {
     "address": "MOSS ST & W PINE ST",
