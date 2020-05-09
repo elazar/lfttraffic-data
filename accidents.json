@@ -1,5 +1,13 @@
 [
   {
+    "address": "MOSS ST & MUDD AV",
+    "city": "LAFAYETTE",
+    "time": "05/09/2020 - 3:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23248,
+    "longitude": -92.00878
+  },
+  {
     "address": "1105 MOSS ST",
     "city": "LAFAYETTE",
     "time": "05/09/2020 - 3:29 PM",
