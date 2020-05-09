@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "220 VIVIAN DR",
+    "city": "LAFAYETTE",
+    "time": "05/09/2020 - 05:02 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.13806,
+    "longitude": -92.00972
+  }
+]
