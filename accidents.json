@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "2600 W WILLOW ST",
+    "city": "SCOTT",
+    "time": "05/09/2020 - 05:53 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24305,
+    "longitude": -92.07925
+  }
+]
