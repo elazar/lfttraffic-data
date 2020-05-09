@@ -1,5 +1,13 @@
 [
   {
+    "address": "3850 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "05/09/2020 - 2:25 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2003,
+    "longitude": -92.068
+  },
+  {
     "address": "N UNIVERSITY AV & MALAPART RD",
     "city": "LAFAYETTE",
     "time": "05/09/2020 - 2:16 PM",
