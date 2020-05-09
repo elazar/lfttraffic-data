@@ -1,5 +1,21 @@
 [
   {
+    "address": "MADELINE AV & RAILROAD ST",
+    "city": "LAFAYETTE",
+    "time": "05/08/2020 - 10:07 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.23793,
+    "longitude": -92.02022
+  },
+  {
+    "address": "1500 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "05/08/2020 - 10:07 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.24926,
+    "longitude": -92.03446
+  },
+  {
     "address": "137 S RICHTER DR",
     "city": "LAFAYETTE",
     "time": "05/08/2020 - 9:24 PM",
