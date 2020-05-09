@@ -1,5 +1,13 @@
 [
   {
+    "address": "3001 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "05/09/2020 - 10:32 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2623,
+    "longitude": -91.99535
+  },
+  {
     "address": "1626 DUHON RD",
     "city": "LAFAYETTE",
     "time": "05/09/2020 - 10:07 AM",
