@@ -1,5 +1,13 @@
 [
   {
+    "address": "CHALMETTE DR & NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "05/09/2020 - 01:45 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25191,
+    "longitude": -92.01425
+  },
+  {
     "address": "600 E FARREL RD",
     "city": "LAFAYETTE",
     "time": "05/09/2020 - 01:28 AM",
