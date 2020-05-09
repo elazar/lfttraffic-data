@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 GUMBO RD",
+    "city": "LAFAYETTE",
+    "time": "05/08/2020 - 7:17 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.13661,
+    "longitude": -92.05363
+  },
+  {
     "address": "CAMELLIA BL & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "05/08/2020 - 7:14 PM",
