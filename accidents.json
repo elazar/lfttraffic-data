@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 BONIN RD",
+    "city": "LAFAYETTE",
+    "time": "05/08/2020 - 7:34 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16093,
+    "longitude": -91.99939
+  },
+  {
     "address": "100 GUMBO RD",
     "city": "LAFAYETTE",
     "time": "05/08/2020 - 7:17 PM",
