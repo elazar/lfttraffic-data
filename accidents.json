@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "600 E FARREL RD",
+    "city": "LAFAYETTE",
+    "time": "05/09/2020 - 01:28 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.14453,
+    "longitude": -92.03647
+  }
+]
