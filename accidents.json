@@ -32,19 +32,11 @@
     "longitude": -92.1836349
   },
   {
-    "address": "3826 MOSS ST",
+    "address": "3803 MOSS ST",
     "city": "LAFAYETTE",
     "time": "05/09/2020 - 12:40 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.27735,
-    "longitude": -92.00727
-  },
-  {
-    "address": "101 CAMINO REAL RD",
-    "city": "LAFAYETTE",
-    "time": "05/09/2020 - 12:39 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.15579,
-    "longitude": -92.08818
+    "latitude": 30.27361,
+    "longitude": -92.00823
   }
 ]
