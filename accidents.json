@@ -1,5 +1,13 @@
 [
   {
+    "address": "3225 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "05/09/2020 - 3:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2657,
+    "longitude": -91.99574
+  },
+  {
     "address": "630 BROTHERS RD",
     "city": "LAFAYETTE",
     "time": "05/09/2020 - 2:40 PM",
