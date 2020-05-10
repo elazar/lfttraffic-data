@@ -1,19 +1,19 @@
 [
   {
+    "address": "5101 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "05/10/2020 - 6:07 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.139013,
+    "longitude": -91.9457526
+  },
+  {
     "address": "MOSS ST & E WILLOW ST",
     "city": "LAFAYETTE",
     "time": "05/10/2020 - 6:02 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.24378,
     "longitude": -92.00638
-  },
-  {
-    "address": "US 90 EAST HW & YOUNG ST",
-    "city": "BROUSSARD",
-    "time": "05/10/2020 - 5:32 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.10187,
-    "longitude": -91.94194
   },
   {
     "address": "505 AMBASSADOR CAFFERY PW",
