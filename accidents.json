@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "300 RIALS DR",
+    "city": "LAFAYETTE",
+    "time": "05/09/2020 - 11:42 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15654,
+    "longitude": -91.99846
+  }
+]
