@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20515,
     "longitude": -92.09203
-  },
-  {
-    "address": "ALBERTSON PW & ST DE PORRES ST",
-    "city": "BROUSSARD",
-    "time": "05/09/2020 - 7:24 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.13834,
-    "longitude": -91.95803
   }
 ]
