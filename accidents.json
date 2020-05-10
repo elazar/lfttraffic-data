@@ -1,5 +1,13 @@
 [
   {
+    "address": "117 ST NAZAIRE RD",
+    "city": "BROUSSARD",
+    "time": "05/10/2020 - 5:21 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14087,
+    "longitude": -91.94477
+  },
+  {
     "address": "VEROT SCHOOL RD & LA NEUVILLE RD",
     "city": "LAFAYETTE",
     "time": "05/10/2020 - 5:20 PM",
