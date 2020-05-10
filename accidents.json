@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & S DOMINGUE AV",
+    "city": "LAFAYETTE",
+    "time": "05/10/2020 - 10:12 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.19586,
+    "longitude": -92.08353
+  },
+  {
     "address": "MUDD AV & LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "05/10/2020 - 09:33 AM",
