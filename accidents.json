@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.13528,
     "longitude": -92.00763
-  },
-  {
-    "address": "200 BRENTS LP",
-    "city": "SCOTT",
-    "time": "05/10/2020 - 12:01 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2413725,
-    "longitude": -92.1088168
   }
 ]
