@@ -1,5 +1,13 @@
 [
   {
+    "address": "S ST ANTOINE ST & W SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "05/10/2020 - 3:31 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.23055,
+    "longitude": -92.02494
+  },
+  {
     "address": "4313 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/10/2020 - 3:00 PM",
