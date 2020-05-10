@@ -1,5 +1,21 @@
 [
   {
+    "address": "500 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "05/10/2020 - 5:24 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.23893,
+    "longitude": -92.06643
+  },
+  {
+    "address": "505 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "05/10/2020 - 5:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23845,
+    "longitude": -92.0647
+  },
+  {
     "address": "117 ST NAZAIRE RD",
     "city": "BROUSSARD",
     "time": "05/10/2020 - 5:21 PM",
