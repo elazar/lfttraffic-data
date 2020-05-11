@@ -1,27 +1,27 @@
 [
   {
-    "address": "US 90 EAST HW & N MORGAN AV",
-    "city": "BROUSSARD",
-    "time": "05/11/2020 - 11:55 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.15291,
-    "longitude": -91.95943
-  },
-  {
-    "address": "US 90 EAST HW & N MORGAN AV",
-    "city": "BROUSSARD",
-    "time": "05/11/2020 - 11:55 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.15291,
-    "longitude": -91.95943
-  },
-  {
-    "address": "AGNES ST & DUCLOS ST",
+    "address": "128 DUCLOS ST",
     "city": "LAFAYETTE",
-    "time": "05/11/2020 - 11:55 AM",
-    "due_to": "Incoming Call",
+    "time": "05/11/2020 - 11:57 AM",
+    "due_to": "Fire Investigation",
     "latitude": 30.22888,
-    "longitude": -92.03128
+    "longitude": -92.03099
+  },
+  {
+    "address": "1803 W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "05/11/2020 - 11:56 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.22935,
+    "longitude": -92.03083
+  },
+  {
+    "address": "US 90 EAST HW & N MORGAN AV",
+    "city": "BROUSSARD",
+    "time": "05/11/2020 - 11:55 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.15291,
+    "longitude": -91.95943
   },
   {
     "address": "100 MELBRY RD",
