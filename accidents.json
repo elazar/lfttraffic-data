@@ -1,5 +1,13 @@
 [
   {
+    "address": "139 TEURLINGS DR",
+    "city": "LAFAYETTE",
+    "time": "05/10/2020 - 8:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24034,
+    "longitude": -91.98984
+  },
+  {
     "address": "TEURLINGS DR & E WILLOW ST",
     "city": "LAFAYETTE",
     "time": "05/10/2020 - 8:27 PM",
