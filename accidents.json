@@ -1,5 +1,13 @@
 [
   {
+    "address": "W UNIVERSITY AV & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "05/11/2020 - 5:50 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2261,
+    "longitude": -92.02828
+  },
+  {
     "address": "ROGER RD & DUGAS RD",
     "city": "SCOTT",
     "time": "05/11/2020 - 5:43 PM",
