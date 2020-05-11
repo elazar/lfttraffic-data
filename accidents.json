@@ -1,19 +1,19 @@
 [
   {
+    "address": "RICELAND RD & LANDRY RD",
+    "city": "LAFAYETTE",
+    "time": "05/11/2020 - 5:09 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21139,
+    "longitude": -92.2096
+  },
+  {
     "address": "412 E PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "05/11/2020 - 5:00 PM",
     "due_to": "Fire Investigation",
     "latitude": 30.27287,
     "longitude": -92.01138
-  },
-  {
-    "address": "3559 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "05/11/2020 - 4:56 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.1768,
-    "longitude": -92.07115
   },
   {
     "address": "208 SARAH DEE PW",
