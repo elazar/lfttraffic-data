@@ -1,5 +1,13 @@
 [
   {
+    "address": "W UNIVERSITY AV & W SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "05/11/2020 - 1:28 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.22931,
+    "longitude": -92.03045
+  },
+  {
     "address": "1 LA DELTA RAILROAD CG",
     "city": "LAFAYETTE",
     "time": "05/11/2020 - 1:18 PM",
