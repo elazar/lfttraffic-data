@@ -1,5 +1,13 @@
 [
   {
+    "address": "ROGER RD & DUGAS RD",
+    "city": "SCOTT",
+    "time": "05/11/2020 - 5:43 PM",
+    "due_to": "Grass Fire",
+    "latitude": 30.28324,
+    "longitude": -92.08316
+  },
+  {
     "address": "105 I10 EASTBOUND MM105 HW",
     "city": "LAFAYETTE",
     "time": "05/11/2020 - 5:42 PM",
