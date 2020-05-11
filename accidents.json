@@ -1,5 +1,13 @@
 [
   {
+    "address": "105 I10 EASTBOUND MM105 HW",
+    "city": "LAFAYETTE",
+    "time": "05/11/2020 - 5:42 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "YOUNGSVILLE HW & AMBASSADOR CAFFERY PW",
     "city": "BROUSSARD",
     "time": "05/11/2020 - 5:36 PM",
