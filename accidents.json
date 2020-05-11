@@ -16,14 +16,6 @@
     "longitude": -92.03673
   },
   {
-    "address": "407 ONTARIO AV",
-    "city": "DUSON",
-    "time": "05/11/2020 - 6:37 PM",
-    "due_to": "Grass Fire",
-    "latitude": 30.23874,
-    "longitude": -92.18559
-  },
-  {
     "address": "221 VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "05/11/2020 - 6:18 PM",
@@ -46,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1537,
     "longitude": -92.09319
-  },
-  {
-    "address": "3803 MOSS ST",
-    "city": "LAFAYETTE",
-    "time": "05/11/2020 - 5:10 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.27361,
-    "longitude": -92.00823
   }
 ]
