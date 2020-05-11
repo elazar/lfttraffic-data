@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & ALLISTER RD",
+    "city": "LAFAYETTE",
+    "time": "05/11/2020 - 4:12 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.12255,
+    "longitude": -92.11813
+  },
+  {
     "address": "208 SARAH DEE PW",
     "city": "LAFAYETTE",
     "time": "05/11/2020 - 3:40 PM",
