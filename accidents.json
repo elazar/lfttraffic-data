@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 LEXINGTON DR",
+    "city": "DUSON",
+    "time": "05/11/2020 - 10:45 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2526128,
+    "longitude": -92.1934032
+  },
+  {
     "address": "4809 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/11/2020 - 10:03 AM",
