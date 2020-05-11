@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "124 N ORLEANS DR",
+    "city": "LAFAYETTE",
+    "time": "05/11/2020 - 3:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25622,
+    "longitude": -92.02161
+  }
+]
