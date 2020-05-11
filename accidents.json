@@ -1,5 +1,13 @@
 [
   {
+    "address": "115 INDUSTRIAL PW",
+    "city": "LAFAYETTE",
+    "time": "05/11/2020 - 12:32 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.18639,
+    "longitude": -92.00932
+  },
+  {
     "address": "US 90 EAST HW & N MORGAN AV",
     "city": "BROUSSARD",
     "time": "05/11/2020 - 11:55 AM",
