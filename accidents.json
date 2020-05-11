@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "KALISTE SALOOM RD & RUE LOUIS XIV",
+    "city": "LAFAYETTE",
+    "time": "05/11/2020 - 08:33 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.17285,
+    "longitude": -92.02989
+  }
+]
