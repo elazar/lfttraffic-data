@@ -1,5 +1,21 @@
 [
   {
+    "address": "1315 CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "05/11/2020 - 6:38 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1684,
+    "longitude": -92.03673
+  },
+  {
+    "address": "407 ONTARIO AV",
+    "city": "DUSON",
+    "time": "05/11/2020 - 6:37 PM",
+    "due_to": "Grass Fire",
+    "latitude": 30.23874,
+    "longitude": -92.18559
+  },
+  {
     "address": "221 VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "05/11/2020 - 6:18 PM",
