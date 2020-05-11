@@ -1,5 +1,13 @@
 [
   {
+    "address": "1 LA DELTA RAILROAD CG",
+    "city": "LAFAYETTE",
+    "time": "05/11/2020 - 1:18 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.2218664,
+    "longitude": -92.0582137
+  },
+  {
     "address": "115 INDUSTRIAL PW",
     "city": "LAFAYETTE",
     "time": "05/11/2020 - 12:32 PM",
