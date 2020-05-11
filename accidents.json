@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "617 HECTOR CONNOLY RD",
+    "city": "CARENCRO",
+    "time": "05/11/2020 - 04:40 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.32191,
+    "longitude": -92.01774
+  }
+]
