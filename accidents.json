@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 MCDONALD ST",
+    "city": "LAFAYETTE",
+    "time": "05/10/2020 - 11:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21169,
+    "longitude": -92.06374
+  },
+  {
     "address": "3121 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "05/10/2020 - 11:10 PM",
