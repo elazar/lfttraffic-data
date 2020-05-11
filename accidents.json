@@ -1,5 +1,13 @@
 [
   {
+    "address": "1200 RUE DU BELIER",
+    "city": "LAFAYETTE",
+    "time": "05/11/2020 - 09:18 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18493,
+    "longitude": -92.09249
+  },
+  {
     "address": "SETTLERS TRACE BL & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/11/2020 - 08:44 AM",
