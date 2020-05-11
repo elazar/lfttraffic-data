@@ -1,5 +1,13 @@
 [
   {
+    "address": "404 E PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "05/11/2020 - 5:00 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.27291,
+    "longitude": -92.01202
+  },
+  {
     "address": "3559 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/11/2020 - 4:56 PM",
