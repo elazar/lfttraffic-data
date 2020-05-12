@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "05/12/2020 - 2:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18161,
+    "longitude": -92.01922
+  },
+  {
     "address": "2480 YOUNGSVILLE HW",
     "city": "YOUNGSVILLE",
     "time": "05/12/2020 - 11:58 AM",
