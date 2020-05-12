@@ -1,5 +1,13 @@
 [
   {
+    "address": "LOUISIANA AV & SURREY ST",
+    "city": "LAFAYETTE",
+    "time": "05/12/2020 - 12:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22823,
+    "longitude": -92.00461
+  },
+  {
     "address": "LA 93 HW & I10 HW",
     "city": "SCOTT",
     "time": "05/12/2020 - 12:50 PM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.26515,
     "longitude": -91.99301
-  },
-  {
-    "address": "E WILLOW ST & MOSS ST",
-    "city": "LAFAYETTE",
-    "time": "05/12/2020 - 12:17 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24378,
-    "longitude": -92.00638
   },
   {
     "address": "LOUISIANA AV & S MAGNOLIA ST",
