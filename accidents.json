@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "201 CRYSTAL LN",
+    "city": "LAFAYETTE",
+    "time": "05/12/2020 - 10:02 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20891,
+    "longitude": -92.07074
+  }
+]
