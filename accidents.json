@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "AMBASSADOR CAFFERY PW & FREM BOUSTANY DR",
+    "city": "LAFAYETTE",
+    "time": "05/12/2020 - 07:03 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15011,
+    "longitude": -92.0406
+  }
+]
