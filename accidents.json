@@ -1,5 +1,13 @@
 [
   {
+    "address": "1500 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "05/12/2020 - 2:54 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2347552,
+    "longitude": -92.0021193
+  },
+  {
     "address": "951 VETERANS DR",
     "city": "LAFAYETTE",
     "time": "05/12/2020 - 2:49 PM",
