@@ -1,5 +1,13 @@
 [
   {
+    "address": "500 SETTLERS TRACE BL",
+    "city": "LAFAYETTE",
+    "time": "05/12/2020 - 2:40 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.16372,
+    "longitude": -92.04764
+  },
+  {
     "address": "DENAIS RD & BOURQUE RD",
     "city": "LAFAYETTE",
     "time": "05/12/2020 - 2:37 PM",
@@ -8,12 +16,12 @@
     "longitude": -92.13264
   },
   {
-    "address": "600 KALISTE SALOOM RD",
+    "address": "500 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "05/12/2020 - 2:19 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.18161,
-    "longitude": -92.01922
+    "latitude": 30.1828829,
+    "longitude": -92.017461
   },
   {
     "address": "2480 YOUNGSVILLE HW",
