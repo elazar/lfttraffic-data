@@ -1,5 +1,13 @@
 [
   {
+    "address": "9017 CAMERON ST",
+    "city": "DUSON",
+    "time": "05/11/2020 - 8:54 PM",
+    "due_to": "Fire",
+    "latitude": 30.23484,
+    "longitude": -92.18261
+  },
+  {
     "address": "107 BANDERA DR",
     "city": "LAFAYETTE",
     "time": "05/11/2020 - 8:31 PM",
