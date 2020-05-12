@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "210 E MONROE ST",
+    "city": "BROUSSARD",
+    "time": "05/11/2020 - 8:26 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.14554,
+    "longitude": -91.96319
+  }
+]
