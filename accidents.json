@@ -1,5 +1,13 @@
 [
   {
+    "address": "308 TORONTO DR",
+    "city": "LAFAYETTE",
+    "time": "05/12/2020 - 4:02 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.28129,
+    "longitude": -92.01283
+  },
+  {
     "address": "628 OAKLAWN AV",
     "city": "LAFAYETTE",
     "time": "05/12/2020 - 3:53 PM",
