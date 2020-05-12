@@ -1,5 +1,13 @@
 [
   {
+    "address": "3205 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "05/12/2020 - 12:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26515,
+    "longitude": -91.99301
+  },
+  {
     "address": "620 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "05/12/2020 - 12:20 PM",
