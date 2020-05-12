@@ -1,5 +1,13 @@
 [
   {
+    "address": "I10 WESTBOUND MM105 HW & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "05/12/2020 - 06:38 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.27944,
+    "longitude": -91.99217
+  },
+  {
     "address": "1500 ERASTE LANDRY RD",
     "city": "LAFAYETTE",
     "time": "05/12/2020 - 05:44 AM",
