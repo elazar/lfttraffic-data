@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "W CONGRESS ST & MYRTLE PL",
+    "city": "LAFAYETTE",
+    "time": "05/12/2020 - 11:29 AM",
+    "due_to": "Trash Fire",
+    "latitude": 30.22489,
+    "longitude": -92.03076
+  }
+]
