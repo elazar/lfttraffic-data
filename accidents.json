@@ -1,5 +1,13 @@
 [
   {
+    "address": "1900 HOFFPAUIR RD",
+    "city": "LAFAYETTE",
+    "time": "05/12/2020 - 12:24 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17209,
+    "longitude": -92.23298
+  },
+  {
     "address": "N UNIVERSITY AV & ALCIDE DOMINIQUE DR",
     "city": "LAFAYETTE",
     "time": "05/11/2020 - 11:36 PM",
