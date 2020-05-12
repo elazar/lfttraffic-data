@@ -1,5 +1,13 @@
 [
   {
+    "address": "JEFFERSON ST & E TAFT ST",
+    "city": "LAFAYETTE",
+    "time": "05/12/2020 - 09:08 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.21595,
+    "longitude": -92.01131
+  },
+  {
     "address": "N UNIVERSITY AV & BIRDSONG RD",
     "city": "LAFAYETTE",
     "time": "05/12/2020 - 09:08 AM",
