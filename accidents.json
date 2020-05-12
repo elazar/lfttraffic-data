@@ -1,5 +1,13 @@
 [
   {
+    "address": "208 LA 93 HW",
+    "city": "SCOTT",
+    "time": "05/12/2020 - 3:35 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2503719,
+    "longitude": -92.1079951
+  },
+  {
     "address": "2200 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "05/12/2020 - 2:54 PM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19597,
     "longitude": -92.07523
-  },
-  {
-    "address": "500 KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "05/12/2020 - 2:19 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1828829,
-    "longitude": -92.017461
   }
 ]
