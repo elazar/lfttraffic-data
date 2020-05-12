@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1500 ERASTE LANDRY RD",
+    "city": "LAFAYETTE",
+    "time": "05/12/2020 - 05:44 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.22189,
+    "longitude": -92.06346
+  }
+]
