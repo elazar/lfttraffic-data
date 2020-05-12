@@ -1,21 +1,5 @@
 [
   {
-    "address": "SOUTHPARK RD & US 90 EAST HW",
-    "city": "LAFAYETTE",
-    "time": "05/12/2020 - 1:21 PM",
-    "due_to": "Hazardous Material",
-    "latitude": 30.17092,
-    "longitude": -91.98031
-  },
-  {
-    "address": "3806 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "05/12/2020 - 1:09 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17072,
-    "longitude": -92.06613
-  },
-  {
     "address": "LOUISIANA AV & SURREY ST",
     "city": "LAFAYETTE",
     "time": "05/12/2020 - 12:58 PM",
