@@ -1,5 +1,21 @@
 [
   {
+    "address": "628 OAKLAWN AV",
+    "city": "LAFAYETTE",
+    "time": "05/12/2020 - 3:53 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.22602,
+    "longitude": -92.03275
+  },
+  {
+    "address": "OAKLAWN AV & W ST MARY BL",
+    "city": "LAFAYETTE",
+    "time": "05/12/2020 - 3:53 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.22573,
+    "longitude": -92.03274
+  },
+  {
     "address": "2200 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "05/12/2020 - 2:54 PM",
