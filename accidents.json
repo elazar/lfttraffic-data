@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "5725 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "05/13/2020 - 03:00 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.17353,
+    "longitude": -92.07732
+  }
+]
