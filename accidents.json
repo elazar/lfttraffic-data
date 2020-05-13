@@ -6,13 +6,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.19694,
     "longitude": -92.12497
-  },
-  {
-    "address": "W TAFT ST & JEFFERSON ST",
-    "city": "LAFAYETTE",
-    "time": "05/13/2020 - 06:29 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.21595,
-    "longitude": -92.01131
   }
 ]
