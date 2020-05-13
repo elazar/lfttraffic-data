@@ -1,27 +1,11 @@
 [
   {
-    "address": "TIFRERE RD & EQUIPMENT LN",
-    "city": "LAFAYETTE",
-    "time": "05/13/2020 - 2:38 PM",
-    "due_to": "Grass Fire",
-    "latitude": 30.34251,
-    "longitude": -91.99925
-  },
-  {
     "address": "NW EVANGELINE TW & E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "05/13/2020 - 2:31 PM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.23107,
     "longitude": -92.0138
-  },
-  {
-    "address": "4313 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "05/13/2020 - 2:23 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15909,
-    "longitude": -92.05066
   },
   {
     "address": "W CONGRESS ST & BERTRAND DR",
