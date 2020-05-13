@@ -1,27 +1,11 @@
 [
   {
-    "address": "1000 N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "05/13/2020 - 4:35 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24054,
-    "longitude": -92.03209
-  },
-  {
     "address": "1902 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/13/2020 - 4:23 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.2165334,
     "longitude": -92.0759849
-  },
-  {
-    "address": "1151 W WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "05/13/2020 - 4:17 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.244695,
-    "longitude": -92.0310765
   },
   {
     "address": "W WILLOW ST & N UNIVERSITY AV",
