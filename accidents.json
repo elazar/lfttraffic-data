@@ -3,7 +3,7 @@
     "address": "TIFRERE RD & EQUIPMENT LN",
     "city": "LAFAYETTE",
     "time": "05/13/2020 - 2:38 PM",
-    "due_to": "Incoming Call",
+    "due_to": "Grass Fire",
     "latitude": 30.34251,
     "longitude": -91.99925
   },
@@ -38,14 +38,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.21493,
     "longitude": -92.04696
-  },
-  {
-    "address": "215 E PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "05/13/2020 - 1:13 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21514,
-    "longitude": -92.00777
   },
   {
     "address": "1651 CAMERON ST",
