@@ -1,5 +1,13 @@
 [
   {
+    "address": "98 I10 EASTBOUND MM98 HW",
+    "city": "SCOTT",
+    "time": "05/13/2020 - 1:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24727,
+    "longitude": -92.09751
+  },
+  {
     "address": "215 E PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "05/13/2020 - 1:13 PM",
