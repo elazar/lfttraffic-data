@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "I10 EB EXIT RAMP HW & ST MARY ST",
+    "city": "SCOTT",
+    "time": "05/13/2020 - 07:39 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24239,
+    "longitude": -92.10183
+  }
+]
