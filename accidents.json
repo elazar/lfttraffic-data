@@ -1,5 +1,13 @@
 [
   {
+    "address": "LAUREN DR & NICKLAND DR",
+    "city": "SCOTT",
+    "time": "05/13/2020 - 01:05 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.22805,
+    "longitude": -92.08844
+  },
+  {
     "address": "2200 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "05/12/2020 - 2:54 PM",
