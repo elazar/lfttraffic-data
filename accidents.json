@@ -1,5 +1,13 @@
 [
   {
+    "address": "GUILBEAU RD & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "05/12/2020 - 8:32 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19375,
+    "longitude": -92.0586
+  },
+  {
     "address": "200 GOLDEN CYPRESS DR",
     "city": "YOUNGSVILLE",
     "time": "05/12/2020 - 7:24 PM",
