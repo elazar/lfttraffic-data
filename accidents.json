@@ -1,5 +1,21 @@
 [
   {
+    "address": "W PINHOOK RD & SOUTHPARK RD",
+    "city": "LAFAYETTE",
+    "time": "05/13/2020 - 09:40 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.16071,
+    "longitude": -91.99107
+  },
+  {
+    "address": "MOSS ST & VANBUREN DR",
+    "city": "LAFAYETTE",
+    "time": "05/13/2020 - 09:40 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.26967,
+    "longitude": -92.00812
+  },
+  {
     "address": "SW EVANGELINE TW & THIRTEENTH ST",
     "city": "LAFAYETTE",
     "time": "05/13/2020 - 09:26 AM",
