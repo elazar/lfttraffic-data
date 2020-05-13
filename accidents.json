@@ -1,5 +1,13 @@
 [
   {
+    "address": "519 S PIERCE ST",
+    "city": "LAFAYETTE",
+    "time": "05/13/2020 - 10:50 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22866,
+    "longitude": -92.01832
+  },
+  {
     "address": "700 DUHON RD",
     "city": "LAFAYETTE",
     "time": "05/13/2020 - 10:49 AM",
