@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "411 DULLES DR",
+    "city": "LAFAYETTE",
+    "time": "05/13/2020 - 05:56 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21624,
+    "longitude": -92.05945
+  }
+]
