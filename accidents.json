@@ -1,5 +1,21 @@
 [
   {
+    "address": "SWEETLAND AV & ALBERTSON PW",
+    "city": "BROUSSARD",
+    "time": "05/13/2020 - 12:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14079,
+    "longitude": -91.94732
+  },
+  {
+    "address": "3806 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "05/13/2020 - 12:24 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.17072,
+    "longitude": -92.06613
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "05/13/2020 - 12:23 PM",
@@ -14,14 +30,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.28006,
     "longitude": -92.02024
-  },
-  {
-    "address": "3807 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "05/13/2020 - 11:25 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17033,
-    "longitude": -92.06431
   },
   {
     "address": "519 S PIERCE ST",
