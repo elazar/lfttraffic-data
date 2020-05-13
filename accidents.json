@@ -1,5 +1,13 @@
 [
   {
+    "address": "1151 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "05/13/2020 - 4:17 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.244695,
+    "longitude": -92.0310765
+  },
+  {
     "address": "W WILLOW ST & N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "05/13/2020 - 4:13 PM",
