@@ -1,5 +1,13 @@
 [
   {
+    "address": "500 ORANGEWOOD DR",
+    "city": "LAFAYETTE",
+    "time": "05/13/2020 - 12:37 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.17083,
+    "longitude": -92.06147
+  },
+  {
     "address": "3 I49 SOUTHBOUND MM3 HW",
     "city": "CARENCRO",
     "time": "05/13/2020 - 12:35 PM",
