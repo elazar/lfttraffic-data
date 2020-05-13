@@ -1,5 +1,13 @@
 [
   {
+    "address": "400 HIGH MEADOWS BL",
+    "city": "LAFAYETTE",
+    "time": "05/13/2020 - 4:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.28103,
+    "longitude": -92.01676
+  },
+  {
     "address": "1151 W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "05/13/2020 - 4:35 PM",
