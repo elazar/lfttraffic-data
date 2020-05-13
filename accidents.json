@@ -1,5 +1,13 @@
 [
   {
+    "address": "4300 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "05/13/2020 - 08:25 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19526,
+    "longitude": -92.05821
+  },
+  {
     "address": "619 MCKINLEY ST",
     "city": "LAFAYETTE",
     "time": "05/13/2020 - 08:16 AM",
