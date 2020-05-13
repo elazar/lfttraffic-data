@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 CHURCHILL DR",
+    "city": "LAFAYETTE",
+    "time": "05/13/2020 - 07:14 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1954765,
+    "longitude": -92.0576058
+  },
+  {
     "address": "LAGNEAUX RD & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "05/13/2020 - 06:32 AM",
