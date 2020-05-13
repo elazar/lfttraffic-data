@@ -1,5 +1,13 @@
 [
   {
+    "address": "201 JEFFERSON ST",
+    "city": "LAFAYETTE",
+    "time": "05/13/2020 - 10:37 AM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.22704,
+    "longitude": -92.01583
+  },
+  {
     "address": "HECTOR CONNOLY RD & NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "05/13/2020 - 10:21 AM",
