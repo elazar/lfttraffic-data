@@ -1,5 +1,13 @@
 [
   {
+    "address": "801 MUDD AV",
+    "city": "LAFAYETTE",
+    "time": "05/14/2020 - 10:54 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.23383,
+    "longitude": -92.00785
+  },
+  {
     "address": "2411 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "05/14/2020 - 10:47 AM",
