@@ -1,5 +1,21 @@
 [
   {
+    "address": "2130 S FIELDSPAN RD",
+    "city": "LAFAYETTE",
+    "time": "05/14/2020 - 1:04 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.19274,
+    "longitude": -92.14177
+  },
+  {
+    "address": "PHILLIP AV & BLOCK AV",
+    "city": "LAFAYETTE",
+    "time": "05/14/2020 - 1:04 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.19776,
+    "longitude": -92.03182
+  },
+  {
     "address": "1300 S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "05/14/2020 - 1:02 PM",
