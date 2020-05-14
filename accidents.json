@@ -1,5 +1,13 @@
 [
   {
+    "address": "111 MIMOSA PL",
+    "city": "LAFAYETTE",
+    "time": "05/14/2020 - 11:31 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.19797,
+    "longitude": -92.05745
+  },
+  {
     "address": "7200 LANDRY RD",
     "city": "LAFAYETTE",
     "time": "05/14/2020 - 10:55 AM",
