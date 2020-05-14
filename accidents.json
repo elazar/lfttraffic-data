@@ -1,19 +1,19 @@
 [
   {
+    "address": "102 HIDEAWAY COVE",
+    "city": "LAFAYETTE",
+    "time": "05/14/2020 - 4:57 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.1623737,
+    "longitude": -92.0111104
+  },
+  {
     "address": "97 I10 EASTBOUND MM97 HW",
     "city": "LAFAYETTE",
     "time": "05/14/2020 - 4:55 PM",
     "due_to": "Stalled Vehicle",
     "latitude": null,
     "longitude": null
-  },
-  {
-    "address": "102 HIDEAWAY COVE",
-    "city": "LAFAYETTE",
-    "time": "05/14/2020 - 4:55 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.1623737,
-    "longitude": -92.0111104
   },
   {
     "address": "HEYMANN BL & OIL CENTER DR",
