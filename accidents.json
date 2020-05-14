@@ -32,14 +32,6 @@
     "longitude": -92.00551
   },
   {
-    "address": "SE EVANGELINE TW & FOURTEENTH ST",
-    "city": "LAFAYETTE",
-    "time": "05/14/2020 - 4:36 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.22088,
-    "longitude": -92.00731
-  },
-  {
     "address": "MUDD AV & NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "05/14/2020 - 4:31 PM",
@@ -62,14 +54,6 @@
     "due_to": "Wire Hazard",
     "latitude": 30.17068,
     "longitude": -91.99982
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & WESTMARK BL",
-    "city": "LAFAYETTE",
-    "time": "05/14/2020 - 4:20 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.18444,
-    "longitude": -92.07499
   },
   {
     "address": "2809 YOUNGSVILLE HW",
@@ -102,13 +86,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21504,
     "longitude": -92.07579
-  },
-  {
-    "address": "4415 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "05/14/2020 - 3:47 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15808,
-    "longitude": -92.04919
   }
 ]
