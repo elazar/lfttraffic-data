@@ -1,5 +1,13 @@
 [
   {
+    "address": "415 ELIAS G RD",
+    "city": "LAFAYETTE",
+    "time": "05/14/2020 - 5:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1429,
+    "longitude": -92.11344
+  },
+  {
     "address": "97 I10 WESTBOUND MM97 HW",
     "city": "LAFAYETTE",
     "time": "05/14/2020 - 5:35 PM",
@@ -62,14 +70,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1852775,
     "longitude": -92.0537287
-  },
-  {
-    "address": "600 E KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "05/14/2020 - 4:59 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19569,
-    "longitude": -92.00473
   },
   {
     "address": "2724 NE EVANGELINE TW",
