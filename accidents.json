@@ -8,18 +8,10 @@
     "longitude": -92.03182
   },
   {
-    "address": "1300 S COLLEGE RD",
-    "city": "LAFAYETTE",
-    "time": "05/14/2020 - 1:02 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.1999006,
-    "longitude": -92.022976
-  },
-  {
     "address": "900 LAGNEAUX RD",
     "city": "LAFAYETTE",
     "time": "05/14/2020 - 1:01 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Stalled Vehicle",
     "latitude": 30.16637,
     "longitude": -92.1250149
   }
