@@ -1,5 +1,13 @@
 [
   {
+    "address": "105 TAPESTRY CL",
+    "city": "LAFAYETTE",
+    "time": "05/14/2020 - 5:46 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.10864,
+    "longitude": -92.03487
+  },
+  {
     "address": "E UNIVERSITY AV & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "05/14/2020 - 5:44 PM",
@@ -70,14 +78,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.13678,
     "longitude": -92.00779
-  },
-  {
-    "address": "1904 ST MARY ST",
-    "city": "SCOTT",
-    "time": "05/14/2020 - 5:11 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.244338,
-    "longitude": -92.1068496
   },
   {
     "address": "700 MOUNT VERNON DR",
