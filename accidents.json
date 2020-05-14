@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & WESTMARK BL",
+    "city": "LAFAYETTE",
+    "time": "05/14/2020 - 4:20 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.18444,
+    "longitude": -92.07499
+  },
+  {
     "address": "2809 YOUNGSVILLE HW",
     "city": "YOUNGSVILLE",
     "time": "05/14/2020 - 4:16 PM",
