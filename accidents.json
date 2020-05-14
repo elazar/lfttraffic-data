@@ -1,5 +1,13 @@
 [
   {
+    "address": "NE EVANGELINE TW & MUDD AV",
+    "city": "LAFAYETTE",
+    "time": "05/14/2020 - 6:25 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.23296,
+    "longitude": -92.01278
+  },
+  {
     "address": "100 EDIE ANN DR",
     "city": "LAFAYETTE",
     "time": "05/14/2020 - 6:24 PM",
