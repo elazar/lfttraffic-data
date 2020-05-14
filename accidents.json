@@ -1,5 +1,13 @@
 [
   {
+    "address": "S EOLA RD & US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "05/14/2020 - 6:09 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15231,
+    "longitude": -91.95731
+  },
+  {
     "address": "CHERRY ST & BRASHEAR ST",
     "city": "LAFAYETTE",
     "time": "05/14/2020 - 6:04 PM",
