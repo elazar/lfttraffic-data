@@ -1,5 +1,13 @@
 [
   {
+    "address": "500 E VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "05/14/2020 - 4:45 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1805799,
+    "longitude": -91.9957301
+  },
+  {
     "address": "1500 W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "05/14/2020 - 4:41 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.26701,
     "longitude": -92.01591
-  },
-  {
-    "address": "2428 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "05/14/2020 - 4:38 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.17846,
-    "longitude": -92.00551
   },
   {
     "address": "MUDD AV & NW EVANGELINE TW",
