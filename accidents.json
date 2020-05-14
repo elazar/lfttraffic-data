@@ -1,13 +1,5 @@
 [
   {
-    "address": "NE EVANGELINE TW & MUDD AV",
-    "city": "LAFAYETTE",
-    "time": "05/14/2020 - 6:25 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.23296,
-    "longitude": -92.01278
-  },
-  {
     "address": "100 EDIE ANN DR",
     "city": "LAFAYETTE",
     "time": "05/14/2020 - 6:24 PM",
@@ -54,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.26255,
     "longitude": -92.00867
-  },
-  {
-    "address": "1500 BONIN RD",
-    "city": "YOUNGSVILLE",
-    "time": "05/14/2020 - 5:19 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.13678,
-    "longitude": -92.00779
   },
   {
     "address": "2724 NE EVANGELINE TW",
