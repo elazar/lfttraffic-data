@@ -1,18 +1,1 @@
-[
-  {
-    "address": "1000 YOUNGSVILLE HW",
-    "city": "BROUSSARD",
-    "time": "05/14/2020 - 07:37 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.14478,
-    "longitude": -91.99184
-  },
-  {
-    "address": "100 I10 WB EXIT RAMP HW",
-    "city": "LAFAYETTE",
-    "time": "05/14/2020 - 07:19 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.26255,
-    "longitude": -92.00867
-  }
-]
+[]
