@@ -1,5 +1,21 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "05/14/2020 - 5:58 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.15649,
+    "longitude": -92.04838
+  },
+  {
+    "address": "117 LIPPI BL",
+    "city": "LAFAYETTE",
+    "time": "05/14/2020 - 5:57 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.18258,
+    "longitude": -92.01977
+  },
+  {
     "address": "6722 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "05/14/2020 - 5:52 PM",
