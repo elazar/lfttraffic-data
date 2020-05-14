@@ -16,14 +16,6 @@
     "longitude": -92.04696
   },
   {
-    "address": "W CONGRESS ST & RUE DU BELIER",
-    "city": "SCOTT",
-    "time": "05/14/2020 - 5:10 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.19575,
-    "longitude": -92.09634
-  },
-  {
     "address": "106 WHITEWATER DR",
     "city": "BROUSSARD",
     "time": "05/14/2020 - 5:03 PM",
@@ -78,14 +70,6 @@
     "due_to": "Wire Hazard",
     "latitude": 30.17068,
     "longitude": -91.99982
-  },
-  {
-    "address": "2809 YOUNGSVILLE HW",
-    "city": "YOUNGSVILLE",
-    "time": "05/14/2020 - 4:16 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.10995,
-    "longitude": -91.98942
   },
   {
     "address": "N UNIVERSITY AV & ALCIDE DOMINIQUE DR",
