@@ -1,13 +1,5 @@
 [
   {
-    "address": "AMBASSADOR CAFFERY PW & KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "05/14/2020 - 5:58 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.15649,
-    "longitude": -92.04838
-  },
-  {
     "address": "117 LIPPI BL",
     "city": "LAFAYETTE",
     "time": "05/14/2020 - 5:57 PM",
@@ -70,14 +62,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.13678,
     "longitude": -92.00779
-  },
-  {
-    "address": "700 MOUNT VERNON DR",
-    "city": "LAFAYETTE",
-    "time": "05/14/2020 - 5:01 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1852775,
-    "longitude": -92.0537287
   },
   {
     "address": "2724 NE EVANGELINE TW",
