@@ -1,5 +1,21 @@
 [
   {
+    "address": "OAK HOLLOW DR & HIDDEN WOOD DR",
+    "city": "BROUSSARD",
+    "time": "05/14/2020 - 4:40 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.14456,
+    "longitude": -91.98741
+  },
+  {
+    "address": "2724 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "05/14/2020 - 4:40 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26701,
+    "longitude": -92.01591
+  },
+  {
     "address": "2428 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "05/14/2020 - 4:38 PM",
@@ -86,13 +102,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15808,
     "longitude": -92.04919
-  },
-  {
-    "address": "CAMERON ST & N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "05/14/2020 - 3:24 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23236,
-    "longitude": -92.03238
   }
 ]
