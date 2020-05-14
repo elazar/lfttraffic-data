@@ -16,14 +16,6 @@
     "longitude": -91.98349
   },
   {
-    "address": "6722 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "05/14/2020 - 5:52 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1537,
-    "longitude": -92.09319
-  },
-  {
     "address": "415 ELIAS G RD",
     "city": "LAFAYETTE",
     "time": "05/14/2020 - 5:39 PM",
@@ -38,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.26701,
     "longitude": -92.01591
-  },
-  {
-    "address": "3108 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "05/14/2020 - 4:28 PM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.17068,
-    "longitude": -91.99982
   }
 ]
