@@ -40,14 +40,6 @@
     "longitude": -92.1068496
   },
   {
-    "address": "W CONGRESS ST & BERTRAND DR",
-    "city": "LAFAYETTE",
-    "time": "05/14/2020 - 5:11 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.21493,
-    "longitude": -92.04696
-  },
-  {
     "address": "700 MOUNT VERNON DR",
     "city": "LAFAYETTE",
     "time": "05/14/2020 - 5:01 PM",
@@ -62,14 +54,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19569,
     "longitude": -92.00473
-  },
-  {
-    "address": "102 HIDEAWAY COVE",
-    "city": "LAFAYETTE",
-    "time": "05/14/2020 - 4:57 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.1623737,
-    "longitude": -92.0111104
   },
   {
     "address": "2724 NE EVANGELINE TW",
