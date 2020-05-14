@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & S FIELDSPAN RD",
+    "city": "LAFAYETTE",
+    "time": "05/14/2020 - 03:24 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23249,
+    "longitude": -92.05142
+  },
+  {
     "address": "ROBLEY DR & SOUTHCITY PW",
     "city": "LAFAYETTE",
     "time": "05/13/2020 - 11:22 PM",
