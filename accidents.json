@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 N MICHAUD ST",
+    "city": "CARENCRO",
+    "time": "05/13/2020 - 7:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.32226,
+    "longitude": -92.0446
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "05/13/2020 - 7:38 PM",
