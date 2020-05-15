@@ -1,5 +1,13 @@
 [
   {
+    "address": "3201 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "05/15/2020 - 6:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26447,
+    "longitude": -91.9931
+  },
+  {
     "address": "3835 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "05/15/2020 - 6:10 PM",
