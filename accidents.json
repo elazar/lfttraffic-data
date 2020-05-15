@@ -14,13 +14,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.26255,
     "longitude": -92.00867
-  },
-  {
-    "address": "337 ST CLAIR RD",
-    "city": "LAFAYETTE",
-    "time": "05/15/2020 - 1:34 PM",
-    "due_to": "Vehicle Fire",
-    "latitude": 30.30508,
-    "longitude": -91.97301
   }
 ]
