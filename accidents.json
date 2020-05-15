@@ -1,5 +1,13 @@
 [
   {
+    "address": "1200 RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "05/15/2020 - 5:17 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.18159,
+    "longitude": -92.1247
+  },
+  {
     "address": "2631 SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "05/15/2020 - 4:35 PM",
