@@ -16,14 +16,6 @@
     "longitude": -92.04838
   },
   {
-    "address": "710 S COLLEGE RD",
-    "city": "LAFAYETTE",
-    "time": "05/15/2020 - 09:40 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20198,
-    "longitude": -92.03264
-  },
-  {
     "address": "W BROUSSARD RD & RIDGE RD",
     "city": "LAFAYETTE",
     "time": "05/15/2020 - 09:34 AM",
@@ -38,13 +30,5 @@
     "due_to": "Fire Investigation",
     "latitude": 30.28404,
     "longitude": -91.98401
-  },
-  {
-    "address": "251 BENDEL RD",
-    "city": "LAFAYETTE",
-    "time": "05/15/2020 - 09:20 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.1995872,
-    "longitude": -92.0167858
   }
 ]
