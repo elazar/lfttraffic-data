@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "CAMERON ST & APOLLO RD",
+    "city": "SCOTT",
+    "time": "05/14/2020 - 9:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23485,
+    "longitude": -92.10742
+  }
+]
