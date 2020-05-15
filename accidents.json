@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & BENDEL RD",
+    "city": "LAFAYETTE",
+    "time": "05/15/2020 - 2:07 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19911,
+    "longitude": -92.01641
+  },
+  {
     "address": "104 I10 WESTBOUND MM104 HW",
     "city": "LAFAYETTE",
     "time": "05/15/2020 - 1:42 PM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Fire",
     "latitude": 30.30508,
     "longitude": -91.97301
-  },
-  {
-    "address": "2336 KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "05/15/2020 - 12:44 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.16023,
-    "longitude": -92.04582
   }
 ]
