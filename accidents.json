@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19585,
     "longitude": -92.05794
-  },
-  {
-    "address": "113 BENTON DR",
-    "city": "LAFAYETTE",
-    "time": "05/15/2020 - 09:20 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.28404,
-    "longitude": -91.98401
   }
 ]
