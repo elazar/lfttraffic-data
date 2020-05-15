@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "05/15/2020 - 08:41 AM",
+    "due_to": "Hazard",
+    "latitude": 30.24052,
+    "longitude": -92.03242
+  },
+  {
     "address": "ALBERTSON PW & US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "05/15/2020 - 08:33 AM",
