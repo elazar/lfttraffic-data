@@ -1,5 +1,13 @@
 [
   {
+    "address": "710 S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "05/15/2020 - 09:40 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20198,
+    "longitude": -92.03264
+  },
+  {
     "address": "W BROUSSARD RD & RIDGE RD",
     "city": "LAFAYETTE",
     "time": "05/15/2020 - 09:34 AM",
