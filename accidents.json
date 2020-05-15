@@ -1,5 +1,21 @@
 [
   {
+    "address": "113 BENTON DR",
+    "city": "LAFAYETTE",
+    "time": "05/15/2020 - 09:20 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.28404,
+    "longitude": -91.98401
+  },
+  {
+    "address": "1850 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "05/15/2020 - 09:20 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.18857,
+    "longitude": -92.01489
+  },
+  {
     "address": "301 LAFAYETTE ST",
     "city": "YOUNGSVILLE",
     "time": "05/15/2020 - 08:49 AM",
