@@ -6,5 +6,13 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.25022,
     "longitude": -92.06589
+  },
+  {
+    "address": "601 BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "05/15/2020 - 11:20 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21337,
+    "longitude": -92.04767
   }
 ]
