@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19911,
     "longitude": -92.01641
-  },
-  {
-    "address": "104 I10 WESTBOUND MM104 HW",
-    "city": "LAFAYETTE",
-    "time": "05/15/2020 - 1:42 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.26255,
-    "longitude": -92.00867
   }
 ]
