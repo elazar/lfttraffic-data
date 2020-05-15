@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & WALKER RD",
+    "city": "LAFAYETTE",
+    "time": "05/15/2020 - 08:18 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2359,
+    "longitude": -92.03241
+  },
+  {
     "address": "3200 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "05/15/2020 - 08:09 AM",
