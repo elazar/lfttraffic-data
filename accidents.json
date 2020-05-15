@@ -1,5 +1,13 @@
 [
   {
+    "address": "2404 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "05/15/2020 - 11:27 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21449,
+    "longitude": -92.04816
+  },
+  {
     "address": "1373 S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "05/15/2020 - 11:26 AM",
