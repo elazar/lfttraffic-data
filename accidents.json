@@ -1,5 +1,13 @@
 [
   {
+    "address": "1234 E PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "05/16/2020 - 1:46 PM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.27238,
+    "longitude": -91.99639
+  },
+  {
     "address": "4313 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/16/2020 - 1:37 PM",
