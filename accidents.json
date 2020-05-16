@@ -1,5 +1,13 @@
 [
   {
+    "address": "3537 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "05/16/2020 - 12:54 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17801,
+    "longitude": -92.07253
+  },
+  {
     "address": "S FIELDSPAN RD & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "05/16/2020 - 12:12 PM",
@@ -14,13 +22,5 @@
     "due_to": "Fire Investigation",
     "latitude": 30.15287,
     "longitude": -92.00329
-  },
-  {
-    "address": "NW EVANGELINE TW & BELLOT ST",
-    "city": "LAFAYETTE",
-    "time": "05/16/2020 - 11:42 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23646,
-    "longitude": -92.01352
   }
 ]
