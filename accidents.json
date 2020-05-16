@@ -1,5 +1,13 @@
 [
   {
+    "address": "113 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "05/16/2020 - 2:16 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24454,
+    "longitude": -92.01508
+  },
+  {
     "address": "4313 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/16/2020 - 1:37 PM",
