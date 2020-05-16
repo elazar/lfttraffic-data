@@ -1,9 +1,17 @@
 [
   {
+    "address": "LEBESQUE RD & SHANTEL RD",
+    "city": "SCOTT",
+    "time": "05/15/2020 - 9:38 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27578,
+    "longitude": -92.06621
+  },
+  {
     "address": "409 SAMPSON AV",
     "city": "LAFAYETTE",
     "time": "05/15/2020 - 9:36 PM",
-    "due_to": "Hazardous Situation",
+    "due_to": "Fire Investigation",
     "latitude": 30.23485,
     "longitude": -92.01337
   },
