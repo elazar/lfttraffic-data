@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & MADELINE AV",
+    "city": "LAFAYETTE",
+    "time": "05/16/2020 - 1:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23907,
+    "longitude": -92.03243
+  },
+  {
     "address": "N ST ANTOINE ST & BENOIT FALGOUT DR",
     "city": "LAFAYETTE",
     "time": "05/16/2020 - 12:56 PM",
