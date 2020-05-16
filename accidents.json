@@ -6,13 +6,5 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 40.50211,
     "longitude": -86.95026
-  },
-  {
-    "address": "3835 US 90 EAST HW",
-    "city": "BROUSSARD",
-    "time": "05/15/2020 - 6:10 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.15728,
-    "longitude": -91.96385
   }
 ]
