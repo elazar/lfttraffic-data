@@ -38,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23646,
     "longitude": -92.01352
-  },
-  {
-    "address": "510 LA FLAMME RD",
-    "city": "LAFAYETTE",
-    "time": "05/16/2020 - 09:08 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.1472,
-    "longitude": -91.93506
   }
 ]
