@@ -3,16 +3,8 @@
     "address": "BONIN RD & LA NEUVILLE RD",
     "city": "LAFAYETTE",
     "time": "05/15/2020 - 9:00 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.14488,
     "longitude": -92.00774
-  },
-  {
-    "address": "28 BNSF RAILROAD CG",
-    "city": "LAFAYETTE",
-    "time": "05/15/2020 - 8:24 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 40.50211,
-    "longitude": -86.95026
   }
 ]
