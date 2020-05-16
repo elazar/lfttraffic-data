@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "116 RESERVE DR",
+    "city": "LAFAYETTE",
+    "time": "05/16/2020 - 07:12 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.17141,
+    "longitude": -92.08046
+  }
+]
