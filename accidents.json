@@ -22,5 +22,13 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16681,
     "longitude": -92.06088
+  },
+  {
+    "address": "303 LORANGER DR",
+    "city": "LAFAYETTE",
+    "time": "05/17/2020 - 2:20 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.15798,
+    "longitude": -92.0001
   }
 ]
