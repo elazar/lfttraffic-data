@@ -1,5 +1,13 @@
 [
   {
+    "address": "2400 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "05/17/2020 - 5:20 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.1816713,
+    "longitude": -92.0058872
+  },
+  {
     "address": "504 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "05/17/2020 - 4:00 PM",
