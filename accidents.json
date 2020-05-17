@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.25401,
     "longitude": -92.07881
-  },
-  {
-    "address": "400 DORSET AV",
-    "city": "LAFAYETTE",
-    "time": "05/17/2020 - 01:52 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2111,
-    "longitude": -92.00407
   }
 ]
