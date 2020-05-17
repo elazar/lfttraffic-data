@@ -1,5 +1,13 @@
 [
   {
+    "address": "5803 CAMERON ST",
+    "city": "SCOTT",
+    "time": "05/17/2020 - 10:45 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.2334251,
+    "longitude": -92.0945463
+  },
+  {
     "address": "211 DENETTE DR",
     "city": "LAFAYETTE",
     "time": "05/17/2020 - 09:51 AM",
