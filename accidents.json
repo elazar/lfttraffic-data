@@ -1,5 +1,13 @@
 [
   {
+    "address": "302 S ST ANTOINE ST",
+    "city": "LAFAYETTE",
+    "time": "05/16/2020 - 8:06 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.23183,
+    "longitude": -92.02512
+  },
+  {
     "address": "2200 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "05/16/2020 - 7:36 PM",
