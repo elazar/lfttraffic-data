@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 ACADEMY RD",
+    "city": "LAFAYETTE",
+    "time": "05/16/2020 - 9:29 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1849786,
+    "longitude": -92.0502222
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "05/16/2020 - 9:28 PM",
