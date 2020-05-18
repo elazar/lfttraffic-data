@@ -1,18 +1,10 @@
 [
   {
-    "address": "2901 BONIN RD",
-    "city": "YOUNGSVILLE",
-    "time": "05/17/2020 - 6:58 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.10262,
-    "longitude": -92.00701
-  },
-  {
-    "address": "2400 W PINHOOK RD",
+    "address": "2430 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "05/17/2020 - 5:20 PM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.1816713,
-    "longitude": -92.0058872
+    "latitude": 30.1799915,
+    "longitude": -92.0040705
   }
 ]
