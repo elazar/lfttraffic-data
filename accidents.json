@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & CASON RD",
+    "city": "BROUSSARD",
+    "time": "05/18/2020 - 5:06 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16268,
+    "longitude": -91.97288
+  },
+  {
     "address": "NW EVANGELINE TW & E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "05/18/2020 - 4:48 PM",
