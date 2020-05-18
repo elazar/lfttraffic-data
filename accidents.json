@@ -1,5 +1,13 @@
 [
   {
+    "address": "926 VETERANS DR",
+    "city": "CARENCRO",
+    "time": "05/18/2020 - 5:46 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.32141,
+    "longitude": -92.03689
+  },
+  {
     "address": "1105 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "05/18/2020 - 5:36 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19597,
     "longitude": -92.06774
-  },
-  {
-    "address": "US 90 EAST HW & CASON RD",
-    "city": "BROUSSARD",
-    "time": "05/18/2020 - 5:06 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.16268,
-    "longitude": -91.97288
   },
   {
     "address": "NW EVANGELINE TW & E SIMCOE ST",
