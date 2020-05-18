@@ -1,5 +1,13 @@
 [
   {
+    "address": "MALAPART RD & MILLS ST",
+    "city": "LAFAYETTE",
+    "time": "05/18/2020 - 10:39 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29057,
+    "longitude": -92.09139
+  },
+  {
     "address": "300 SPRUCE DR",
     "city": "LAFAYETTE",
     "time": "05/18/2020 - 10:33 AM",
