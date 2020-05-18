@@ -1,5 +1,12 @@
 [
-  null,
+  {
+    "address": "MOSS ST & SOPHIE ST",
+    "city": "LAFAYETTE",
+    "time": "05/18/2020 - 5:25 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.23762,
+    "longitude": -92.0077
+  },
   {
     "address": "325 GUILBEAU RD",
     "city": "LAFAYETTE",
