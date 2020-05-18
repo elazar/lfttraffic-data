@@ -1,5 +1,13 @@
 [
   {
+    "address": "325 GUILBEAU RD",
+    "city": "LAFAYETTE",
+    "time": "05/18/2020 - 5:09 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19597,
+    "longitude": -92.06774
+  },
+  {
     "address": "US 90 EAST HW & CASON RD",
     "city": "BROUSSARD",
     "time": "05/18/2020 - 5:06 PM",
