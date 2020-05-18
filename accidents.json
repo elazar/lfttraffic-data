@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "914 BREAUX RD",
+    "city": "LAFAYETTE",
+    "time": "05/18/2020 - 10:15 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15238,
+    "longitude": -92.11244
+  }
+]
