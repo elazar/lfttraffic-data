@@ -1,5 +1,13 @@
 [
   {
+    "address": "1100 CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "05/18/2020 - 4:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17383,
+    "longitude": -92.04166
+  },
+  {
     "address": "SW EVANGELINE TW & E UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "05/18/2020 - 3:52 PM",
