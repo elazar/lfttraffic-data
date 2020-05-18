@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & N MORGAN AV",
+    "city": "BROUSSARD",
+    "time": "05/17/2020 - 7:34 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15291,
+    "longitude": -91.95943
+  },
+  {
     "address": "112 AZALEA ST",
     "city": "LAFAYETTE",
     "time": "05/17/2020 - 7:32 PM",
