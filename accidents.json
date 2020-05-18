@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 NORRIS RD",
+    "city": "LAFAYETTE",
+    "time": "05/18/2020 - 12:26 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19229,
+    "longitude": -92.13296
+  },
+  {
     "address": "CHEMIN METAIRIE PW & DETENTE RD",
     "city": "YOUNGSVILLE",
     "time": "05/17/2020 - 11:34 PM",
