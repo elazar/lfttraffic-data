@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 LEBESQUE RD",
+    "city": "LAFAYETTE",
+    "time": "05/18/2020 - 12:40 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27651,
+    "longitude": -92.05312
+  },
+  {
     "address": "4600 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/18/2020 - 12:35 PM",
