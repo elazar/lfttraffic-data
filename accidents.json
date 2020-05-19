@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & APOLLO RD",
+    "city": "SCOTT",
+    "time": "05/19/2020 - 08:21 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23485,
+    "longitude": -92.10742
+  },
+  {
     "address": "APOLLO RD & CAMERON ST",
     "city": "SCOTT",
     "time": "05/19/2020 - 08:10 AM",
@@ -22,14 +30,6 @@
     "due_to": "Traffic Control",
     "latitude": 30.24428,
     "longitude": -92.10699
-  },
-  {
-    "address": "501 W ST MARY BL",
-    "city": "LAFAYETTE",
-    "time": "05/19/2020 - 06:54 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21673,
-    "longitude": -92.02532
   },
   {
     "address": "99 I10 EASTBOUND MM99 HW",
