@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "05/19/2020 - 5:46 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19597,
+    "longitude": -92.07523
+  },
+  {
     "address": "730 LEBLANC RD",
     "city": "LAFAYETTE",
     "time": "05/19/2020 - 5:42 PM",
@@ -16,12 +24,12 @@
     "longitude": -92.09053
   },
   {
-    "address": "RENA DR & JOHNSTON DR",
+    "address": "100 RENA DR",
     "city": "LAFAYETTE",
     "time": "05/19/2020 - 5:19 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.19435,
-    "longitude": -92.05813
+    "latitude": 30.194098,
+    "longitude": -92.0578696
   },
   {
     "address": "2314 KALISTE SALOOM RD",
