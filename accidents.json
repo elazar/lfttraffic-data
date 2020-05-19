@@ -1,5 +1,13 @@
 [
   {
+    "address": "3407 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "05/19/2020 - 3:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1649,
+    "longitude": -91.97361
+  },
+  {
     "address": "N UNIVERSITY AV & W PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "05/19/2020 - 3:00 PM",
