@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & W PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "05/19/2020 - 3:00 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.27587,
+    "longitude": -92.04949
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & FREM BOUSTANY DR",
     "city": "LAFAYETTE",
     "time": "05/19/2020 - 2:57 PM",
