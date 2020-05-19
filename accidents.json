@@ -1,5 +1,13 @@
 [
   {
+    "address": "MOSS ST & E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "05/19/2020 - 11:51 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23069,
+    "longitude": -92.00911
+  },
+  {
     "address": "ERASTE LANDRY RD & WESTGATE RD",
     "city": "SCOTT",
     "time": "05/19/2020 - 11:42 AM",
