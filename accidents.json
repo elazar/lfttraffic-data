@@ -1,5 +1,13 @@
 [
   {
+    "address": "E UNIVERSITY AV & SPRING ST",
+    "city": "LAFAYETTE",
+    "time": "05/19/2020 - 1:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20963,
+    "longitude": -92.00859
+  },
+  {
     "address": "JOHNSTON ST & S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "05/19/2020 - 1:07 PM",
