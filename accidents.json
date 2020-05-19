@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & ERASTE LANDRY RD",
+    "city": "LAFAYETTE",
+    "time": "05/19/2020 - 12:16 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23242,
+    "longitude": -92.03921
+  },
+  {
     "address": "1900 CAMERON ST",
     "city": "LAFAYETTE",
     "time": "05/19/2020 - 12:14 PM",
