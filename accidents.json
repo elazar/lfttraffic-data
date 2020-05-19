@@ -1,5 +1,13 @@
 [
   {
+    "address": "SURREY ST & GRISSOM DR",
+    "city": "LAFAYETTE",
+    "time": "05/18/2020 - 11:19 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.21521,
+    "longitude": -91.99262
+  },
+  {
     "address": "RENAUD DR & N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "05/18/2020 - 9:59 PM",
