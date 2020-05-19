@@ -1,5 +1,13 @@
 [
   {
+    "address": "204 ENERGY PW",
+    "city": "LAFAYETTE",
+    "time": "05/19/2020 - 1:04 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.17939,
+    "longitude": -92.01123
+  },
+  {
     "address": "400 RAILROAD ST",
     "city": "LAFAYETTE",
     "time": "05/19/2020 - 12:44 PM",
