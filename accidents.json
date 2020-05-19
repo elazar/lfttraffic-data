@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "ROBLEY DR & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "05/18/2020 - 8:16 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17117,
+    "longitude": -92.06617
+  }
+]
