@@ -1,5 +1,13 @@
 [
   {
+    "address": "204 ENERGY PW",
+    "city": "LAFAYETTE",
+    "time": "05/19/2020 - 2:26 PM",
+    "due_to": "Fire Alarm-Unknown",
+    "latitude": 30.17939,
+    "longitude": -92.01123
+  },
+  {
     "address": "100 E GLORIA SWITCH RD",
     "city": "LAFAYETTE",
     "time": "05/19/2020 - 2:21 PM",
@@ -54,14 +62,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2320447,
     "longitude": -92.0324304
-  },
-  {
-    "address": "E UNIVERSITY AV & SPRING ST",
-    "city": "LAFAYETTE",
-    "time": "05/19/2020 - 1:20 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20963,
-    "longitude": -92.00859
   },
   {
     "address": "99 I10 EASTBOUND MM99 HW",
