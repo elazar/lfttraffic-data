@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMELLIA BL & SETTLERS TRACE BL",
+    "city": "LAFAYETTE",
+    "time": "05/19/2020 - 2:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16963,
+    "longitude": -92.039
+  },
+  {
     "address": "NE EVANGELINE TW & DONLON AV",
     "city": "LAFAYETTE",
     "time": "05/19/2020 - 2:00 PM",
@@ -24,14 +32,6 @@
     "longitude": -92.05813
   },
   {
-    "address": "JOHNSTON ST & S COLLEGE RD",
-    "city": "LAFAYETTE",
-    "time": "05/19/2020 - 1:48 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.20727,
-    "longitude": -92.03836
-  },
-  {
     "address": "2051 W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "05/19/2020 - 1:30 PM",
@@ -46,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20963,
     "longitude": -92.00859
-  },
-  {
-    "address": "JOHNSTON ST & S COLLEGE RD",
-    "city": "LAFAYETTE",
-    "time": "05/19/2020 - 1:07 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20727,
-    "longitude": -92.03836
   },
   {
     "address": "99 I10 EASTBOUND MM99 HW",
