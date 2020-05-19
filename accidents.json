@@ -1,5 +1,13 @@
 [
   {
+    "address": "MOSS ST & E GLORIA SWITCH RD",
+    "city": "LAFAYETTE",
+    "time": "05/19/2020 - 3:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29479,
+    "longitude": -92.00723
+  },
+  {
     "address": "3407 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "05/19/2020 - 3:13 PM",
