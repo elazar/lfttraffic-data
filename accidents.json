@@ -1,5 +1,13 @@
 [
   {
+    "address": "730 LEBLANC RD",
+    "city": "LAFAYETTE",
+    "time": "05/19/2020 - 5:42 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1233224,
+    "longitude": -92.1396714
+  },
+  {
     "address": "2512 ROBLEY DR",
     "city": "LAFAYETTE",
     "time": "05/19/2020 - 5:38 PM",
