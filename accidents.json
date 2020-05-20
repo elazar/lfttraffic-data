@@ -1,5 +1,13 @@
 [
   {
+    "address": "125 TECHE DR",
+    "city": "LAFAYETTE",
+    "time": "05/20/2020 - 09:59 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19928,
+    "longitude": -92.01188
+  },
+  {
     "address": "1902 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "05/20/2020 - 09:34 AM",
