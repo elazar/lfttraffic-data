@@ -1,5 +1,13 @@
 [
   {
+    "address": "1600 E PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "05/20/2020 - 3:47 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2251439,
+    "longitude": -91.9959419
+  },
+  {
     "address": "102 I10 WESTBOUND MM102 HW",
     "city": "LAFAYETTE",
     "time": "05/20/2020 - 3:04 PM",
