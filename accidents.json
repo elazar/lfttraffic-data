@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16457,
     "longitude": -92.06997
-  },
-  {
-    "address": "92 I10 EASTBOUND MM92 HW",
-    "city": "Lafayette",
-    "time": "05/19/2020 - 8:31 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": null,
-    "longitude": null
   }
 ]
