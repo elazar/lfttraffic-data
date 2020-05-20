@@ -1,5 +1,21 @@
 [
   {
+    "address": "509 LAFAYETTE ST",
+    "city": "YOUNGSVILLE",
+    "time": "05/20/2020 - 11:55 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.10459,
+    "longitude": -91.99102
+  },
+  {
+    "address": "E KALISTE SALOOM RD & S HUGH WALLIS RD",
+    "city": "LAFAYETTE",
+    "time": "05/20/2020 - 11:55 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19575,
+    "longitude": -92.00539
+  },
+  {
     "address": "3 I49 SOUTHBOUND MM3 HW",
     "city": "CARENCRO",
     "time": "05/20/2020 - 11:50 AM",
