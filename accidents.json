@@ -1,5 +1,13 @@
 [
   {
+    "address": "3810 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "05/20/2020 - 2:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16896,
+    "longitude": -92.06457
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & ERASTE LANDRY RD",
     "city": "LAFAYETTE",
     "time": "05/20/2020 - 2:23 PM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18327,
     "longitude": -92.07545
-  },
-  {
-    "address": "COOLIDGE ST & S COLLEGE RD",
-    "city": "LAFAYETTE",
-    "time": "05/20/2020 - 1:41 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.20144,
-    "longitude": -92.01936
   },
   {
     "address": "US 90 EAST HW & N EOLA RD",
