@@ -1,5 +1,13 @@
 [
   {
+    "address": "1000 BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "05/20/2020 - 12:45 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.21745,
+    "longitude": -92.04837
+  },
+  {
     "address": "2426 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "05/20/2020 - 12:41 PM",
