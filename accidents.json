@@ -1,5 +1,13 @@
 [
   {
+    "address": "4200 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "05/20/2020 - 11:10 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1960949,
+    "longitude": -92.075492
+  },
+  {
     "address": "8800 CAMERON ST",
     "city": "DUSON",
     "time": "05/20/2020 - 10:57 AM",
