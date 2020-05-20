@@ -1,5 +1,21 @@
 [
   {
+    "address": "111 ROYAL PALMS DR",
+    "city": "BROUSSARD",
+    "time": "05/20/2020 - 2:20 PM",
+    "due_to": "Fire Investigation",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "address": "DOUCET RD & W BAYOU PW",
+    "city": "LAFAYETTE",
+    "time": "05/20/2020 - 2:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19275,
+    "longitude": -92.03705
+  },
+  {
     "address": "3222 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/20/2020 - 2:03 PM",
