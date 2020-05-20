@@ -1,21 +1,5 @@
 [
   {
-    "address": "200 PILLETTE RD",
-    "city": "LAFAYETTE",
-    "time": "05/20/2020 - 11:24 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.17126,
-    "longitude": -92.00841
-  },
-  {
-    "address": "4200 W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "05/20/2020 - 11:10 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1960949,
-    "longitude": -92.075492
-  },
-  {
     "address": "CAMERON ST & ALFRED ST",
     "city": "SCOTT",
     "time": "05/20/2020 - 10:42 AM",
