@@ -15,14 +15,7 @@
     "latitude": 30.17511,
     "longitude": -92.04229
   },
-  {
-    "address": "1025 KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "05/20/2020 - 5:21 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17703,
-    "longitude": -92.02703
-  },
+  null,
   {
     "address": "VEROT SCHOOL RD & CAMELLIA BL",
     "city": "LAFAYETTE",
