@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "600 HECTOR CONNOLY RD",
+    "city": "CARENCRO",
+    "time": "05/20/2020 - 06:58 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.3212132,
+    "longitude": -92.0181551
+  }
+]
