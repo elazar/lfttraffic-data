@@ -1,5 +1,13 @@
 [
   {
+    "address": "COOLIDGE ST & S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "05/20/2020 - 1:41 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.20144,
+    "longitude": -92.01936
+  },
+  {
     "address": "JOHNSTON ST & E LEWIS ST",
     "city": "LAFAYETTE",
     "time": "05/20/2020 - 1:25 PM",
