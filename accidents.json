@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 JULIAN CL",
+    "city": "LAFAYETTE",
+    "time": "05/20/2020 - 10:56 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.26841,
+    "longitude": -92.00314
+  },
+  {
     "address": "615 EDISON ST",
     "city": "LAFAYETTE",
     "time": "05/20/2020 - 10:53 AM",
