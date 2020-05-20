@@ -1,5 +1,13 @@
 [
   {
+    "address": "509 FOX RN",
+    "city": "LAFAYETTE",
+    "time": "05/19/2020 - 9:23 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17084,
+    "longitude": -92.00613
+  },
+  {
     "address": "100 W CLEMENT ST",
     "city": "LAFAYETTE",
     "time": "05/19/2020 - 9:21 PM",
