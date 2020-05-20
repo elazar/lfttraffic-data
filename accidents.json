@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "05/20/2020 - 3:04 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24052,
+    "longitude": -92.03242
+  },
+  {
     "address": "W FOCH ST & LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "05/20/2020 - 2:56 PM",
