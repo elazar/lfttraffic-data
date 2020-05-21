@@ -34,7 +34,7 @@
   {
     "address": "2999 VEROT SCHOOL RD",
     "city": "LAFAYETTE",
-    "time": "05/21/2020 - 4:26 PM",
+    "time": "05/21/2020 - 4:28 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.1382204,
     "longitude": -92.0324051
@@ -54,14 +54,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.16043,
     "longitude": -92.02256
-  },
-  {
-    "address": "4200 CAMERON ST",
-    "city": "SCOTT",
-    "time": "05/21/2020 - 4:14 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2322849,
-    "longitude": -92.0700401
   },
   {
     "address": "3400 NW EVANGELINE TW",
