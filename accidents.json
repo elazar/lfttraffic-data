@@ -24,28 +24,12 @@
     "longitude": -92.01425
   },
   {
-    "address": "1414 MOSS ST",
-    "city": "LAFAYETTE",
-    "time": "05/21/2020 - 5:42 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24455,
-    "longitude": -92.00605
-  },
-  {
     "address": "3550 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/21/2020 - 5:32 PM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.17527,
     "longitude": -92.07228
-  },
-  {
-    "address": "727 RIDGE RD",
-    "city": "LAFAYETTE",
-    "time": "05/21/2020 - 4:33 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18046,
-    "longitude": -92.1046
   },
   {
     "address": "305 AVENUE B",
