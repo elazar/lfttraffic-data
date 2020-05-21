@@ -1,5 +1,13 @@
 [
   {
+    "address": "E SIMCOE ST & E PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "05/21/2020 - 11:28 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22623,
+    "longitude": -91.99507
+  },
+  {
     "address": "101 WESTWOOD DR",
     "city": "LAFAYETTE",
     "time": "05/21/2020 - 11:25 AM",
