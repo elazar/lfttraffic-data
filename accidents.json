@@ -1,19 +1,19 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & DULLES DR",
+    "city": "LAFAYETTE",
+    "time": "05/21/2020 - 1:06 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21054,
+    "longitude": -92.07569
+  },
+  {
     "address": "ERASTE LANDRY RD & WHITE OAK DR",
     "city": "LAFAYETTE",
     "time": "05/21/2020 - 1:05 PM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.23107,
     "longitude": -92.0407
-  },
-  {
-    "address": "VEROT SCHOOL RD & RURAL ST",
-    "city": "LAFAYETTE",
-    "time": "05/21/2020 - 12:58 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.17502,
-    "longitude": -92.00734
   },
   {
     "address": "VEROT SCHOOL RD & AYMAR RD",
