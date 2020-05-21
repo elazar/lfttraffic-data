@@ -1,5 +1,13 @@
 [
   {
+    "address": "ARNOULD BL & JACQUELINE ST",
+    "city": "LAFAYETTE",
+    "time": "05/21/2020 - 10:00 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20524,
+    "longitude": -92.05617
+  },
+  {
     "address": "VEROT SCHOOL RD & ARTISAN RD",
     "city": "LAFAYETTE",
     "time": "05/21/2020 - 09:15 AM",
