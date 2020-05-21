@@ -1,3 +1,10 @@
 [
-  null
+  {
+    "address": "1700 SE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "05/20/2020 - 7:37 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2053441,
+    "longitude": -92.00045
+  }
 ]
