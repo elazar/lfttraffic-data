@@ -1,5 +1,13 @@
 [
   {
+    "address": "136 LEBESQUE RD",
+    "city": "LAFAYETTE",
+    "time": "05/21/2020 - 10:08 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27652,
+    "longitude": -92.05275
+  },
+  {
     "address": "ARNOULD BL & JACQUELINE ST",
     "city": "LAFAYETTE",
     "time": "05/21/2020 - 10:00 AM",
