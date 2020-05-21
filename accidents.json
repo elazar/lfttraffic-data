@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "I49 NORTHBOUND HW & I10 OVERPASS MM103 HW",
+    "city": "LAFAYETTE",
+    "time": "05/21/2020 - 05:01 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  }
+]
