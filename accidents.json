@@ -1,5 +1,13 @@
 [
   {
+    "address": "2531 DULLES DR",
+    "city": "SCOTT",
+    "time": "05/21/2020 - 6:09 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20932,
+    "longitude": -92.10344
+  },
+  {
     "address": "NW EVANGELINE TW & CHALMETTE DR",
     "city": "LAFAYETTE",
     "time": "05/21/2020 - 5:53 PM",
