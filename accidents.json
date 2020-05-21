@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "VEROT SCHOOL RD & ARTISAN RD",
+    "city": "LAFAYETTE",
+    "time": "05/21/2020 - 09:15 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16043,
+    "longitude": -92.02256
+  }
+]
