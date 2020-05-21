@@ -1,5 +1,13 @@
 [
   {
+    "address": "727 RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "05/21/2020 - 4:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18046,
+    "longitude": -92.1046
+  },
+  {
     "address": "3700 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "05/21/2020 - 4:32 PM",
