@@ -1,5 +1,13 @@
 [
   {
+    "address": "VEROT SCHOOL RD & CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "05/21/2020 - 4:18 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.16043,
+    "longitude": -92.02256
+  },
+  {
     "address": "4200 CAMERON ST",
     "city": "SCOTT",
     "time": "05/21/2020 - 4:14 PM",
