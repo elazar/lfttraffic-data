@@ -1,5 +1,13 @@
 [
   {
+    "address": "BNSF RAILROAD CG & US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "05/21/2020 - 5:57 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.17354,
+    "longitude": -91.98255
+  },
+  {
     "address": "NW EVANGELINE TW & CHALMETTE DR",
     "city": "LAFAYETTE",
     "time": "05/21/2020 - 5:53 PM",
