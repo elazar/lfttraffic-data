@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & POST RD",
+    "city": "CARENCRO",
+    "time": "05/21/2020 - 4:39 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.32228,
+    "longitude": -92.04952
+  },
+  {
     "address": "SE EVANGELINE TW & SURREY ST",
     "city": "LAFAYETTE",
     "time": "05/21/2020 - 4:37 PM",
