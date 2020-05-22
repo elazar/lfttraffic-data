@@ -1,5 +1,13 @@
 [
   {
+    "address": "526 JOAN ST",
+    "city": "LAFAYETTE",
+    "time": "05/22/2020 - 6:51 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23842,
+    "longitude": -92.03177
+  },
+  {
     "address": "721 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "05/22/2020 - 6:41 PM",
