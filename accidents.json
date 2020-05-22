@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23236,
     "longitude": -92.03238
-  },
-  {
-    "address": "382 SUNSET DR",
-    "city": "LAFAYETTE",
-    "time": "05/21/2020 - 10:09 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.24068,
-    "longitude": -92.00358
   }
 ]
