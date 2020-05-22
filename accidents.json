@@ -1,5 +1,13 @@
 [
   {
+    "address": "107 SECOND ST",
+    "city": "CARENCRO",
+    "time": "05/22/2020 - 1:43 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.32467,
+    "longitude": -92.04796
+  },
+  {
     "address": "100 CAMELLIA BL",
     "city": "LAFAYETTE",
     "time": "05/22/2020 - 1:03 PM",
