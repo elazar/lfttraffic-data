@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 WOODSTONE DR",
+    "city": "LAFAYETTE",
+    "time": "05/22/2020 - 2:55 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.1308226,
+    "longitude": -92.0298382
+  },
+  {
     "address": "ERASTE LANDRY RD & CABLE DR",
     "city": "LAFAYETTE",
     "time": "05/22/2020 - 2:07 PM",
