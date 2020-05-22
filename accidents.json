@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "05/21/2020 - 10:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23236,
+    "longitude": -92.03238
+  },
+  {
     "address": "382 SUNSET DR",
     "city": "LAFAYETTE",
     "time": "05/21/2020 - 10:09 PM",
