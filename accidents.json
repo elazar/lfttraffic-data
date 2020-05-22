@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1774494,
     "longitude": -92.0028635
-  },
-  {
-    "address": "100 SWEETLAND AV",
-    "city": "BROUSSARD",
-    "time": "05/22/2020 - 3:18 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.1437673,
-    "longitude": -91.9485209
   }
 ]
