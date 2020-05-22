@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15011,
     "longitude": -92.05411
-  },
-  {
-    "address": "100 S MEYERS DR",
-    "city": "LAFAYETTE",
-    "time": "05/21/2020 - 8:48 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.1483,
-    "longitude": -92.05261
   }
 ]
