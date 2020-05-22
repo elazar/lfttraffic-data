@@ -1,5 +1,13 @@
 [
   {
+    "address": "1345 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "05/22/2020 - 09:57 AM",
+    "due_to": "Fire Alarm-Unknown",
+    "latitude": 30.24372,
+    "longitude": -92.03862
+  },
+  {
     "address": "4400 MOSS ST",
     "city": "LAFAYETTE",
     "time": "05/22/2020 - 09:57 AM",
