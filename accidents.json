@@ -1,5 +1,13 @@
 [
   {
+    "address": "1004 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "05/22/2020 - 12:51 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24593,
+    "longitude": -92.02838
+  },
+  {
     "address": "JOHNSTON ST & ALBERT ST",
     "city": "LAFAYETTE",
     "time": "05/22/2020 - 12:42 PM",
