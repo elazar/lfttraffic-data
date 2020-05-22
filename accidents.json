@@ -1,5 +1,13 @@
 [
   {
+    "address": "7000 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "05/22/2020 - 4:35 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1402902,
+    "longitude": -92.1023193
+  },
+  {
     "address": "JOHNSTON ST & E BROUSSARD RD",
     "city": "LAFAYETTE",
     "time": "05/22/2020 - 4:19 PM",
