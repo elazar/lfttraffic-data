@@ -1,5 +1,13 @@
 [
   {
+    "address": "4400 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "05/22/2020 - 09:57 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.28776,
+    "longitude": -92.00628
+  },
+  {
     "address": "RENAUD DR & BJ SERVICES DR",
     "city": "LAFAYETTE",
     "time": "05/22/2020 - 08:27 AM",
