@@ -1,5 +1,13 @@
 [
   {
+    "address": "RIDGE RD & W BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "05/22/2020 - 1:20 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1645,
+    "longitude": -92.09961
+  },
+  {
     "address": "JOHNSTON ST & CAMELLIA BL",
     "city": "LAFAYETTE",
     "time": "05/22/2020 - 1:03 PM",
