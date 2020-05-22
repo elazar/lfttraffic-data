@@ -1,18 +1,1 @@
-[
-  {
-    "address": "104 CARRIE ST",
-    "city": "LAFAYETTE",
-    "time": "05/21/2020 - 7:53 PM",
-    "due_to": "Trash Fire",
-    "latitude": 30.15046,
-    "longitude": -92.07913
-  },
-  {
-    "address": "804 MARTIN LUTHER KING JR DR",
-    "city": "LAFAYETTE",
-    "time": "05/21/2020 - 7:11 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.24849,
-    "longitude": -92.02399
-  }
-]
+[]
