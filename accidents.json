@@ -1,11 +1,11 @@
 [
   {
-    "address": "HALPERN RD & W CONGRESS ST",
+    "address": "6809 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "05/23/2020 - 3:00 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.19564,
-    "longitude": -92.14636
+    "due_to": "Vehicle Fire",
+    "latitude": 30.19526,
+    "longitude": -92.15175
   },
   {
     "address": "5622 JOHNSTON ST",
