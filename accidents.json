@@ -1,11 +1,19 @@
 [
   {
-    "address": "N UNIVERSITY AV & LEBESQUE RD",
+    "address": "NW EVANGELINE TW & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "05/23/2020 - 1:35 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.25098,
+    "longitude": -92.01403
+  },
+  {
+    "address": "5800 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "05/23/2020 - 1:32 PM",
     "due_to": "Stalled Vehicle",
-    "latitude": 30.27587,
-    "longitude": -92.04949
+    "latitude": 30.3431509,
+    "longitude": -92.0495151
   },
   {
     "address": "AMBASSADOR CAFFERY PW & LEMOINE DR",
