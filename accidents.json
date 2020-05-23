@@ -1,5 +1,13 @@
 [
   {
+    "address": "1100 CHEMIN AGREABLE",
+    "city": "LAFAYETTE",
+    "time": "05/23/2020 - 12:31 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.0657869,
+    "longitude": -92.0201302
+  },
+  {
     "address": "106 I10 EASTBOUND MM106 HW",
     "city": "LAFAYETTE",
     "time": "05/22/2020 - 11:46 PM",
