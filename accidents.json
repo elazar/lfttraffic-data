@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "100 KETTLE DR",
+    "city": "LAFAYETTE",
+    "time": "05/23/2020 - 08:06 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2526512,
+    "longitude": -92.0134412
+  }
+]
