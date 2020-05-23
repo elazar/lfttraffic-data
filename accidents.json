@@ -1,18 +1,18 @@
 [
   {
+    "address": "N UNIVERSITY AV & LEBESQUE RD",
+    "city": "LAFAYETTE",
+    "time": "05/23/2020 - 1:32 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.27587,
+    "longitude": -92.04949
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & LEMOINE DR",
     "city": "LAFAYETTE",
     "time": "05/23/2020 - 1:26 PM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.2048,
     "longitude": -92.07534
-  },
-  {
-    "address": "801 SAVOY RD",
-    "city": "YOUNGSVILLE",
-    "time": "05/23/2020 - 1:14 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.0946621,
-    "longitude": -92.011692
   }
 ]
