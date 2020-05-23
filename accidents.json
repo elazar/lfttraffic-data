@@ -1,5 +1,13 @@
 [
   {
+    "address": "HELLEN ST & HUVAL ST",
+    "city": "LAFAYETTE",
+    "time": "05/23/2020 - 12:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23498,
+    "longitude": -92.02616
+  },
+  {
     "address": "3200 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "05/23/2020 - 11:51 AM",
