@@ -1,5 +1,13 @@
 [
   {
+    "address": "BERTRAND DR & BANKS AV",
+    "city": "LAFAYETTE",
+    "time": "05/22/2020 - 11:50 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2271,
+    "longitude": -92.06076
+  },
+  {
     "address": "106 I10 EASTBOUND MM106 HW",
     "city": "LAFAYETTE",
     "time": "05/22/2020 - 11:46 PM",
