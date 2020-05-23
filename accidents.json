@@ -1,5 +1,13 @@
 [
   {
+    "address": "S COLLEGE RD & BENDEL RD",
+    "city": "LAFAYETTE",
+    "time": "05/23/2020 - 10:06 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.20144,
+    "longitude": -92.01936
+  },
+  {
     "address": "8800 CAMERON ST",
     "city": "DUSON",
     "time": "05/23/2020 - 09:55 AM",
