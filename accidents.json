@@ -14,21 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17764,
     "longitude": -92.07526
-  },
-  {
-    "address": "2010 GENDARME RD",
-    "city": "LAFAYETTE",
-    "time": "05/23/2020 - 2:30 PM",
-    "due_to": "Grass Fire",
-    "latitude": 30.3347,
-    "longitude": -92.08439
-  },
-  {
-    "address": "ARNOULD BL & JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "05/23/2020 - 1:36 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20186,
-    "longitude": -92.05312
   }
 ]
