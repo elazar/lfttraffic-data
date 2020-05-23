@@ -1,5 +1,13 @@
 [
   {
+    "address": "501 E PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "05/23/2020 - 6:15 PM",
+    "due_to": "Vehicle Fire",
+    "latitude": 30.2169483,
+    "longitude": -92.0056485
+  },
+  {
     "address": "129 LIONS CLUB RD",
     "city": "SCOTT",
     "time": "05/23/2020 - 5:56 PM",
