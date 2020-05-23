@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 HERLIL CL",
+    "city": "LAFAYETTE",
+    "time": "05/23/2020 - 2:30 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.33431,
+    "longitude": -92.08456
+  },
+  {
     "address": "4313 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/23/2020 - 2:14 PM",
