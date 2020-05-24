@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & BENDEL RD",
+    "city": "LAFAYETTE",
+    "time": "05/24/2020 - 1:38 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.19911,
+    "longitude": -92.01641
+  },
+  {
     "address": "1327 W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "05/24/2020 - 1:28 PM",
