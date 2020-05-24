@@ -1,5 +1,13 @@
 [
   {
+    "address": "S PIERCE ST & W SECOND ST",
+    "city": "LAFAYETTE",
+    "time": "05/24/2020 - 5:09 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22778,
+    "longitude": -92.01879
+  },
+  {
     "address": "100 ANDERSON RD",
     "city": "LAFAYETTE",
     "time": "05/24/2020 - 4:48 PM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.27359,
     "longitude": -92.05911
-  },
-  {
-    "address": "NE EVANGELINE TW & E WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "05/24/2020 - 4:30 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.24447,
-    "longitude": -92.01187
   },
   {
     "address": "AMBASSADOR CAFFERY PW & JOHNSTON ST",
