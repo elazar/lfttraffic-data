@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PONT DES MOUTON RD & I49 SOUTHBOUND MM1 HW",
+    "city": "LAFAYETTE",
+    "time": "05/24/2020 - 5:01 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.27587,
+    "longitude": -92.04949
+  },
+  {
     "address": "100 ANDERSON RD",
     "city": "LAFAYETTE",
     "time": "05/24/2020 - 4:48 PM",
