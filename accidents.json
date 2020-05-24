@@ -1,5 +1,13 @@
 [
   {
+    "address": "E PONT DES MOUTON RD & MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "05/24/2020 - 6:19 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.27304,
+    "longitude": -92.00812
+  },
+  {
     "address": "LOUISIANA AV & CARMEL DR",
     "city": "LAFAYETTE",
     "time": "05/24/2020 - 4:45 PM",
