@@ -1,5 +1,13 @@
 [
   {
+    "address": "219 STATEN ST",
+    "city": "LAFAYETTE",
+    "time": "05/24/2020 - 4:40 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.24666,
+    "longitude": -92.02966
+  },
+  {
     "address": "700 BROTHERS RD",
     "city": "LAFAYETTE",
     "time": "05/24/2020 - 4:36 PM",
