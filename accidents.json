@@ -1,5 +1,13 @@
 [
   {
+    "address": "1300 WESTGATE RD",
+    "city": "SCOTT",
+    "time": "05/24/2020 - 01:35 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2153314,
+    "longitude": -92.0871249
+  },
+  {
     "address": "93 I10 WESTBOUND MM93 HW",
     "city": "Lafayette",
     "time": "05/24/2020 - 12:52 AM",
