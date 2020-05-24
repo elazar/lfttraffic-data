@@ -1,5 +1,13 @@
 [
   {
+    "address": "LOUISIANA AV & CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "05/24/2020 - 4:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23457,
+    "longitude": -92.00231
+  },
+  {
     "address": "219 STATEN ST",
     "city": "LAFAYETTE",
     "time": "05/24/2020 - 4:40 PM",
