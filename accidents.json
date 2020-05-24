@@ -1,5 +1,13 @@
 [
   {
+    "address": "SURREY ST & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "05/24/2020 - 3:12 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22823,
+    "longitude": -92.00461
+  },
+  {
     "address": "98 I10 EASTBOUND MM98 HW",
     "city": "SCOTT",
     "time": "05/24/2020 - 3:07 PM",
