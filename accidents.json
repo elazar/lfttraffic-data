@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 ANDERSON RD",
+    "city": "LAFAYETTE",
+    "time": "05/24/2020 - 4:48 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.2405949,
+    "longitude": -92.1422882
+  },
+  {
     "address": "LOUISIANA AV & CARMEL DR",
     "city": "LAFAYETTE",
     "time": "05/24/2020 - 4:45 PM",
