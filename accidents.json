@@ -1,5 +1,13 @@
 [
   {
+    "address": "5725 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "05/23/2020 - 7:17 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.17353,
+    "longitude": -92.07732
+  },
+  {
     "address": "501 E PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "05/23/2020 - 6:15 PM",
