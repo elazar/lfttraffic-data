@@ -1,5 +1,21 @@
 [
   {
+    "address": "4792 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "05/24/2020 - 1:20 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.18619,
+    "longitude": -92.06709
+  },
+  {
+    "address": "215 REPUBLIC AV",
+    "city": "LAFAYETTE",
+    "time": "05/24/2020 - 1:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15709,
+    "longitude": -92.03808
+  },
+  {
     "address": "2600 SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "05/24/2020 - 1:16 PM",
