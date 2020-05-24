@@ -1,5 +1,13 @@
 [
   {
+    "address": "2600 SE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "05/24/2020 - 1:16 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1851153,
+    "longitude": -91.9904845
+  },
+  {
     "address": "W CONGRESS ST & MONTEIGNE DR",
     "city": "LAFAYETTE",
     "time": "05/24/2020 - 1:09 PM",
