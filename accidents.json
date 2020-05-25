@@ -1,5 +1,13 @@
 [
   {
+    "address": "2845 RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "05/25/2020 - 6:25 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.1808,
+    "longitude": -92.1727
+  },
+  {
     "address": "W CONGRESS ST & BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "05/25/2020 - 6:20 PM",
