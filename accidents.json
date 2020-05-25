@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "W PINHOOK RD & S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "05/25/2020 - 10:36 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20101,
+    "longitude": -92.01538
+  }
+]
