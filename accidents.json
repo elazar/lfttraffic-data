@@ -1,5 +1,13 @@
 [
   {
+    "address": "322 DOC DUHON ST",
+    "city": "LAFAYETTE",
+    "time": "05/25/2020 - 1:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2525329,
+    "longitude": -92.0084109
+  },
+  {
     "address": "5525 CAMERON ST",
     "city": "SCOTT",
     "time": "05/25/2020 - 12:53 PM",
