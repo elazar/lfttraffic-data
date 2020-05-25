@@ -1,5 +1,13 @@
 [
   {
+    "address": "500 APOLLO RD",
+    "city": "SCOTT",
+    "time": "05/25/2020 - 08:56 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2428701,
+    "longitude": -92.1073251
+  },
+  {
     "address": "506 MARTIN LUTHER KING JR DR",
     "city": "LAFAYETTE",
     "time": "05/25/2020 - 08:31 AM",
