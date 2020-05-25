@@ -1,5 +1,13 @@
 [
   {
+    "address": "DELHOMME AV & ANDRES RD",
+    "city": "LAFAYETTE",
+    "time": "05/25/2020 - 11:26 AM",
+    "due_to": "Vehicle Fire",
+    "latitude": 30.23985,
+    "longitude": -92.12495
+  },
+  {
     "address": "DULLES DR & J B RD",
     "city": "SCOTT",
     "time": "05/25/2020 - 11:24 AM",
