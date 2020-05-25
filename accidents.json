@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1400 LA 1252 HW",
+    "city": "LAFAYETTE",
+    "time": "05/25/2020 - 07:27 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.34998,
+    "longitude": -91.98968
+  }
+]
