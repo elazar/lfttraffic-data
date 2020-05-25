@@ -1,5 +1,13 @@
 [
   {
+    "address": "307 W BROUSSARD ST",
+    "city": "BROUSSARD",
+    "time": "05/25/2020 - 1:44 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.14528,
+    "longitude": -91.96718
+  },
+  {
     "address": "906 N BIENVILLE ST",
     "city": "LAFAYETTE",
     "time": "05/25/2020 - 1:40 PM",
