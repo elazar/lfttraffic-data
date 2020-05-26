@@ -1,5 +1,13 @@
 [
   {
+    "address": "500 N WASHINGTON ST",
+    "city": "LAFAYETTE",
+    "time": "05/26/2020 - 10:08 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.23826,
+    "longitude": -92.02149
+  },
+  {
     "address": "111 THIBODEAUX DR",
     "city": "LAFAYETTE",
     "time": "05/26/2020 - 10:04 AM",
