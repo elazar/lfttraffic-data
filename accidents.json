@@ -1,5 +1,13 @@
 [
   {
+    "address": "2428 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "05/26/2020 - 2:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17846,
+    "longitude": -92.00551
+  },
+  {
     "address": "2863 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/26/2020 - 2:24 PM",
