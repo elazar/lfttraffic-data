@@ -1,5 +1,13 @@
 [
   {
+    "address": "220 RIVER RD",
+    "city": "LAFAYETTE",
+    "time": "05/26/2020 - 4:54 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21685,
+    "longitude": -91.9887
+  },
+  {
     "address": "200 E ST MARY BL",
     "city": "LAFAYETTE",
     "time": "05/26/2020 - 4:50 PM",
