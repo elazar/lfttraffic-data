@@ -1,13 +1,5 @@
 [
   {
-    "address": "SW EVANGELINE TW & FIFTH ST",
-    "city": "LAFAYETTE",
-    "time": "05/26/2020 - 08:11 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.22783,
-    "longitude": -92.01208
-  },
-  {
     "address": "101 ST BRUNO ST",
     "city": "YOUNGSVILLE",
     "time": "05/26/2020 - 08:10 AM",
@@ -24,12 +16,12 @@
     "longitude": -92.01033
   },
   {
-    "address": "SURREY ST & E PINHOOK RD",
+    "address": "100 CHAMPAGNE ST",
     "city": "LAFAYETTE",
     "time": "05/26/2020 - 07:57 AM",
     "due_to": "Fire Investigation",
-    "latitude": 30.2236,
-    "longitude": -91.99821
+    "latitude": 30.22596,
+    "longitude": -91.99493
   },
   {
     "address": "1000 AMBASSADOR CAFFERY PW",
