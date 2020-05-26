@@ -1,18 +1,18 @@
 [
   {
+    "address": "CEDAR CREST CT & W SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "05/26/2020 - 3:09 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23015,
+    "longitude": -92.02879
+  },
+  {
     "address": "5633 CAMERON ST",
     "city": "SCOTT",
     "time": "05/26/2020 - 2:36 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.23318,
     "longitude": -92.09112
-  },
-  {
-    "address": "2863 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "05/26/2020 - 2:24 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19816,
-    "longitude": -92.07417
   }
 ]
