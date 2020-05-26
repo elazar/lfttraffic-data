@@ -1,5 +1,13 @@
 [
   {
+    "address": "508 S MAGNOLIA ST",
+    "city": "LAFAYETTE",
+    "time": "05/26/2020 - 12:01 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.22531,
+    "longitude": -92.00781
+  },
+  {
     "address": "LA 1252 HW & ANCESTRAL RD",
     "city": "LAFAYETTE",
     "time": "05/25/2020 - 10:55 PM",
