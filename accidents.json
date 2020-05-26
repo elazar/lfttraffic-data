@@ -1,5 +1,13 @@
 [
   {
+    "address": "TOBY MOUTON EXTENSION RD & RICELAND RD",
+    "city": "DUSON",
+    "time": "05/26/2020 - 12:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24035,
+    "longitude": -92.21018
+  },
+  {
     "address": "CARMEL DR & LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "05/26/2020 - 12:22 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.14594,
     "longitude": -92.03462
-  },
-  {
-    "address": "700 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "05/26/2020 - 11:25 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2069786,
-    "longitude": -92.0120135
   },
   {
     "address": "GUILBEAU RD & AMBASSADOR CAFFERY PW",
