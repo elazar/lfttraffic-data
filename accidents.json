@@ -1,5 +1,21 @@
 [
   {
+    "address": "3601 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "05/26/2020 - 09:44 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26998,
+    "longitude": -92.00847
+  },
+  {
+    "address": "2116 N WILDERNESS TL",
+    "city": "LAFAYETTE",
+    "time": "05/26/2020 - 09:44 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.33934,
+    "longitude": -91.96736
+  },
+  {
     "address": "98 I10 EASTBOUND MM98 HW",
     "city": "SCOTT",
     "time": "05/26/2020 - 09:38 AM",
