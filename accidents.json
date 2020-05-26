@@ -38,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20302,
     "longitude": -92.01418
-  },
-  {
-    "address": "N UNIVERSITY AV & I10 HW",
-    "city": "LAFAYETTE",
-    "time": "05/26/2020 - 12:42 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.24052,
-    "longitude": -92.03242
   }
 ]
