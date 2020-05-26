@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "05/26/2020 - 12:42 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24052,
+    "longitude": -92.03242
+  },
+  {
     "address": "3559 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/26/2020 - 12:39 PM",
