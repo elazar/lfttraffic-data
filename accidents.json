@@ -1,5 +1,13 @@
 [
   {
+    "address": "147 AMBROISE ST",
+    "city": "LAFAYETTE",
+    "time": "05/25/2020 - 9:46 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24128,
+    "longitude": -92.01551
+  },
+  {
     "address": "2390 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "05/25/2020 - 7:56 PM",
