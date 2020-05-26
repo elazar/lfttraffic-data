@@ -1,5 +1,13 @@
 [
   {
+    "address": "139 ANCELET ST",
+    "city": "LAFAYETTE",
+    "time": "05/26/2020 - 08:42 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.24201,
+    "longitude": -92.01574
+  },
+  {
     "address": "98 I10 EASTBOUND MM98 HW",
     "city": "SCOTT",
     "time": "05/26/2020 - 08:21 AM",
