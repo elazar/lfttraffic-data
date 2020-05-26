@@ -1,18 +1,18 @@
 [
   {
+    "address": "2390 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "05/25/2020 - 7:56 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21551,
+    "longitude": -92.04635
+  },
+  {
     "address": "W PINHOOK RD & E KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "05/25/2020 - 7:14 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.1886,
     "longitude": -92.0141
-  },
-  {
-    "address": "2845 RIDGE RD",
-    "city": "LAFAYETTE",
-    "time": "05/25/2020 - 6:25 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.1808,
-    "longitude": -92.1727
   }
 ]
