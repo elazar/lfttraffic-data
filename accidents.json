@@ -1,5 +1,21 @@
 [
   {
+    "address": "LA 1252 HW & N WILDERNESS TL",
+    "city": "LAFAYETTE",
+    "time": "05/26/2020 - 09:56 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.35027,
+    "longitude": -91.98032
+  },
+  {
+    "address": "MOSS ST & JULIAN CL",
+    "city": "LAFAYETTE",
+    "time": "05/26/2020 - 09:56 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26848,
+    "longitude": -92.0081
+  },
+  {
     "address": "3601 MOSS ST",
     "city": "LAFAYETTE",
     "time": "05/26/2020 - 09:44 AM",
