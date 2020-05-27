@@ -8,14 +8,6 @@
     "longitude": -92.05016
   },
   {
-    "address": "93 I10 WESTBOUND MM93-5 HW",
-    "city": "LAFAYETTE",
-    "time": "05/27/2020 - 6:00 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.26255,
-    "longitude": -92.00867
-  },
-  {
     "address": "100 I10 WESTBOUND MM100 HW",
     "city": "LAFAYETTE",
     "time": "05/27/2020 - 5:54 PM",
@@ -38,13 +30,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.1835,
     "longitude": -92.14318
-  },
-  {
-    "address": "95 I10 EASTBOUND MM95 HW",
-    "city": "LAFAYETTE",
-    "time": "05/27/2020 - 4:44 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": null,
-    "longitude": null
   }
 ]
