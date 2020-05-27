@@ -1,5 +1,13 @@
 [
   {
+    "address": "ST LANDRY ST & CALDER ST",
+    "city": "LAFAYETTE",
+    "time": "05/27/2020 - 1:29 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2188,
+    "longitude": -92.02541
+  },
+  {
     "address": "3000 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "05/27/2020 - 1:19 PM",
