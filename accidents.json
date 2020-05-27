@@ -3,17 +3,17 @@
     "address": "94 I10 WESTBOUND MM94 HW",
     "city": "LAFAYETTE",
     "time": "05/27/2020 - 5:48 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Stalled Vehicle",
     "latitude": 30.26255,
     "longitude": -92.00867
   },
   {
-    "address": "95 I10 EASTBOUND MM95 HW",
+    "address": "95 I10 WESTBOUND MM95 HW",
     "city": "LAFAYETTE",
     "time": "05/27/2020 - 5:47 PM",
     "due_to": "Vehicle Accident",
-    "latitude": null,
-    "longitude": null
+    "latitude": 30.26255,
+    "longitude": -92.00867
   },
   {
     "address": "505 EASY ROCK LANDING DR",
