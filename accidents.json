@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & ALCIDE DOMINIQUE DR",
+    "city": "LAFAYETTE",
+    "time": "05/27/2020 - 07:41 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24935,
+    "longitude": -92.03534
+  },
+  {
     "address": "1909 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "05/27/2020 - 07:40 AM",
