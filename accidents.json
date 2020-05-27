@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "300 ALCIDE DOMINIQUE DR",
+    "city": "LAFAYETTE",
+    "time": "05/27/2020 - 06:13 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2481213,
+    "longitude": -92.0433965
+  }
+]
