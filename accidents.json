@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & THELMA DR",
+    "city": "LAFAYETTE",
+    "time": "05/27/2020 - 4:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23248,
+    "longitude": -92.05113
+  },
+  {
     "address": "NE EVANGELINE TW & E PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "05/27/2020 - 4:38 PM",
