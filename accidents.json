@@ -1,5 +1,13 @@
 [
   {
+    "address": "111 MEADOW FARM RD",
+    "city": "LAFAYETTE",
+    "time": "05/27/2020 - 1:06 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15766,
+    "longitude": -92.04442
+  },
+  {
     "address": "CAMERON ST & ERASTE LANDRY RD",
     "city": "LAFAYETTE",
     "time": "05/27/2020 - 1:01 PM",
