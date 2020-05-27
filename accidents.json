@@ -1,5 +1,13 @@
 [
   {
+    "address": "W SECOND ST & S PIERCE ST",
+    "city": "LAFAYETTE",
+    "time": "05/27/2020 - 11:33 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22778,
+    "longitude": -92.01879
+  },
+  {
     "address": "6774 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "05/27/2020 - 11:27 AM",
