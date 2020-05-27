@@ -1,5 +1,21 @@
 [
   {
+    "address": "NE EVANGELINE TW & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "05/27/2020 - 12:17 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.29151,
+    "longitude": -92.02336
+  },
+  {
+    "address": "617 GENERAL MOUTON AV",
+    "city": "LAFAYETTE",
+    "time": "05/27/2020 - 12:16 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.21509,
+    "longitude": -92.01214
+  },
+  {
     "address": "MOSS ST & SIDNEY MARTIN RD",
     "city": "LAFAYETTE",
     "time": "05/27/2020 - 11:59 AM",
