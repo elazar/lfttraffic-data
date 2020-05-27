@@ -1,5 +1,13 @@
 [
   {
+    "address": "301 COOLIDGE ST",
+    "city": "LAFAYETTE",
+    "time": "05/27/2020 - 3:09 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21234,
+    "longitude": -92.00971
+  },
+  {
     "address": "105 I10 WESTBOUND MM105 HW",
     "city": "LAFAYETTE",
     "time": "05/27/2020 - 3:06 PM",
