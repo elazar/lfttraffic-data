@@ -1,5 +1,13 @@
 [
   {
+    "address": "5601 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "05/27/2020 - 1:51 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1172658,
+    "longitude": -91.9431503
+  },
+  {
     "address": "BENDEL RD & W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "05/27/2020 - 1:41 PM",
