@@ -1,5 +1,13 @@
 [
   {
+    "address": "402 GUILBEAU RD",
+    "city": "LAFAYETTE",
+    "time": "05/27/2020 - 6:40 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19777,
+    "longitude": -92.06878
+  },
+  {
     "address": "1308 BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "05/27/2020 - 6:17 PM",
