@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 DULLES DR",
+    "city": "LAFAYETTE",
+    "time": "05/27/2020 - 04:23 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.22114,
+    "longitude": -92.05496
+  },
+  {
     "address": "W SIMCOE ST & CEDAR CREST CT",
     "city": "LAFAYETTE",
     "time": "05/27/2020 - 01:41 AM",
