@@ -1,11 +1,11 @@
 [
   {
-    "address": "601 BERTRAND DR",
+    "address": "95 I10 EASTBOUND MM95 HW",
     "city": "LAFAYETTE",
-    "time": "05/27/2020 - 5:43 PM",
+    "time": "05/27/2020 - 5:47 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.21337,
-    "longitude": -92.04767
+    "latitude": null,
+    "longitude": null
   },
   {
     "address": "505 EASY ROCK LANDING DR",
