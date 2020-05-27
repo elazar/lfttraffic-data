@@ -1,5 +1,13 @@
 [
   {
+    "address": "NE EVANGELINE TW & E PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "05/27/2020 - 4:38 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.27334,
+    "longitude": -92.01718
+  },
+  {
     "address": "1820 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/27/2020 - 4:30 PM",
@@ -22,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22169,
     "longitude": -92.00775
-  },
-  {
-    "address": "200 W WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "05/27/2020 - 2:54 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24594,
-    "longitude": -92.0145
   }
 ]
