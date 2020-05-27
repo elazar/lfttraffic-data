@@ -1,5 +1,13 @@
 [
   {
+    "address": "129 RUE LOUIS XIV",
+    "city": "LAFAYETTE",
+    "time": "05/27/2020 - 11:40 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17218,
+    "longitude": -92.0282
+  },
+  {
     "address": "W SECOND ST & S PIERCE ST",
     "city": "LAFAYETTE",
     "time": "05/27/2020 - 11:33 AM",
