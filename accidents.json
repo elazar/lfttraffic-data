@@ -1,5 +1,13 @@
 [
   {
+    "address": "2300 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "05/26/2020 - 9:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25503,
+    "longitude": -92.0131
+  },
+  {
     "address": "3801 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/26/2020 - 9:01 PM",
