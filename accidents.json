@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "WHITE OAK DR & ALPHONSE DR",
+    "city": "LAFAYETTE",
+    "time": "05/27/2020 - 06:19 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.2286,
+    "longitude": -92.04045
+  }
+]
