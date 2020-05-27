@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "100 BROOKHAVEN DR",
+    "city": "YOUNGSVILLE",
+    "time": "05/27/2020 - 10:03 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.10598,
+    "longitude": -91.99636
+  }
+]
