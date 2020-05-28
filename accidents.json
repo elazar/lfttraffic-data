@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & WILBOURN BL",
+    "city": "LAFAYETTE",
+    "time": "05/28/2020 - 3:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20832,
+    "longitude": -92.07549
+  },
+  {
     "address": "W PINHOOK RD & JOMELA DR",
     "city": "LAFAYETTE",
     "time": "05/28/2020 - 3:29 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17252,
     "longitude": -92.068
-  },
-  {
-    "address": "JOHNSTON ST & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "05/28/2020 - 2:14 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17808,
-    "longitude": -92.07452
   },
   {
     "address": "SETTLERS TRACE BL & CAMELLIA BL",
