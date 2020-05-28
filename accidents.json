@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 INVERNESS LN",
+    "city": "LAFAYETTE",
+    "time": "05/28/2020 - 02:35 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.08878,
+    "longitude": -91.947
+  },
+  {
     "address": "5601 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "05/28/2020 - 01:58 AM",
