@@ -1,5 +1,13 @@
 [
   {
+    "address": "E SIMCOE ST & MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "05/28/2020 - 3:34 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.23069,
+    "longitude": -92.00911
+  },
+  {
     "address": "MOSS ST & MUDD AV",
     "city": "LAFAYETTE",
     "time": "05/28/2020 - 3:33 PM",
