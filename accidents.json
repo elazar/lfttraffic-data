@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "05/28/2020 - 12:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2261,
+    "longitude": -92.02828
+  },
+  {
     "address": "3810 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/28/2020 - 12:27 PM",
@@ -11,7 +19,7 @@
     "address": "W UNIVERSITY AV & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "05/28/2020 - 12:27 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.2261,
     "longitude": -92.02828
   },
