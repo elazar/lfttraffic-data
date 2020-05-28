@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19777,
     "longitude": -92.06878
-  },
-  {
-    "address": "1308 BERTRAND DR",
-    "city": "LAFAYETTE",
-    "time": "05/27/2020 - 6:17 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.2219,
-    "longitude": -92.05016
   }
 ]
