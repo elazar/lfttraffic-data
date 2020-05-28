@@ -1,5 +1,13 @@
 [
   {
+    "address": "2200 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "05/28/2020 - 1:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16487,
+    "longitude": -92.04047
+  },
+  {
     "address": "ALBERTSON PW & E MAIN ST",
     "city": "BROUSSARD",
     "time": "05/28/2020 - 12:53 PM",
@@ -30,13 +38,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.18268,
     "longitude": -91.99006
-  },
-  {
-    "address": "TOUCHET RD & JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "05/28/2020 - 11:48 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.14443,
-    "longitude": -92.09873
   }
 ]
