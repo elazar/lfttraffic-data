@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "CLARA VON DR & DOUCET RD",
+    "city": "LAFAYETTE",
+    "time": "05/28/2020 - 08:34 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20005,
+    "longitude": -92.0447
+  }
+]
