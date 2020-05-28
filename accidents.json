@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & S MORGAN AV",
+    "city": "BROUSSARD",
+    "time": "05/28/2020 - 6:08 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.13188,
+    "longitude": -91.96517
+  },
+  {
     "address": "RIDGE RD & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/28/2020 - 5:44 PM",
@@ -30,14 +38,6 @@
     "due_to": "Fire Investigation",
     "latitude": 30.20364,
     "longitude": -92.09884
-  },
-  {
-    "address": "2810 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "05/28/2020 - 5:07 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.19835,
-    "longitude": -92.07586
   },
   {
     "address": "312 W MILTON AV",
