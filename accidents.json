@@ -1,5 +1,13 @@
 [
   {
+    "address": "1012 JEFFERSON ST",
+    "city": "LAFAYETTE",
+    "time": "05/28/2020 - 4:51 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22006,
+    "longitude": -92.01779
+  },
+  {
     "address": "312 W MILTON AV",
     "city": "LAFAYETTE",
     "time": "05/28/2020 - 4:50 PM",
