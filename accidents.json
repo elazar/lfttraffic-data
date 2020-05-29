@@ -30,13 +30,5 @@
     "due_to": "Traffic Control",
     "latitude": 30.20436,
     "longitude": -92.02048
-  },
-  {
-    "address": "600 DILLON RD",
-    "city": "LAFAYETTE",
-    "time": "05/29/2020 - 07:27 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.31509,
-    "longitude": -92.07729
   }
 ]
