@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & SALSMAN ST",
+    "city": "LAFAYETTE",
+    "time": "05/29/2020 - 1:29 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.23258,
+    "longitude": -92.05575
+  },
+  {
     "address": "1401 SURREY ST",
     "city": "LAFAYETTE",
     "time": "05/29/2020 - 1:25 PM",
@@ -46,13 +54,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18313,
     "longitude": -92.09248
-  },
-  {
-    "address": "211 REPUBLIC AV",
-    "city": "LAFAYETTE",
-    "time": "05/29/2020 - 11:10 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15833,
-    "longitude": -92.04021
   }
 ]
