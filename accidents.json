@@ -1,21 +1,5 @@
 [
   {
-    "address": "700 MALAPART RD",
-    "city": "LAFAYETTE",
-    "time": "05/29/2020 - 08:24 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.2906849,
-    "longitude": -92.0748602
-  },
-  {
-    "address": "100 WESTMARK BL",
-    "city": "LAFAYETTE",
-    "time": "05/29/2020 - 08:19 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18292,
-    "longitude": -92.07045
-  },
-  {
     "address": "500 THOROUGHBRED DR",
     "city": "LAFAYETTE",
     "time": "05/29/2020 - 08:16 AM",
