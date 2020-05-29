@@ -1,5 +1,13 @@
 [
   {
+    "address": "500 THOROUGHBRED DR",
+    "city": "LAFAYETTE",
+    "time": "05/29/2020 - 08:16 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.3048481,
+    "longitude": -92.0158079
+  },
+  {
     "address": "HOSPITAL DR & GIRARD PARK DR",
     "city": "LAFAYETTE",
     "time": "05/29/2020 - 08:11 AM",
