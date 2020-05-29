@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 JOLI RD",
+    "city": "LAFAYETTE",
+    "time": "05/29/2020 - 1:23 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.32701,
+    "longitude": -92.0841
+  },
+  {
     "address": "311 VIEUX ORLEANS CL",
     "city": "LAFAYETTE",
     "time": "05/29/2020 - 1:23 PM",
@@ -14,14 +22,6 @@
     "due_to": "Fire Investigation",
     "latitude": 30.2213,
     "longitude": -92.01866
-  },
-  {
-    "address": "RIDGE RD & RUE DU BELIER",
-    "city": "LAFAYETTE",
-    "time": "05/29/2020 - 1:20 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.19636,
-    "longitude": -92.09204
   },
   {
     "address": "E AMEDEE DR & SAVONNE DR",
