@@ -1,5 +1,21 @@
 [
   {
+    "address": "311 VIEUX ORLEANS CL",
+    "city": "LAFAYETTE",
+    "time": "05/29/2020 - 1:23 PM",
+    "due_to": "Hazardous Situation",
+    "latitude": 30.16835,
+    "longitude": -92.00698
+  },
+  {
+    "address": "905 JEFFERSON ST",
+    "city": "LAFAYETTE",
+    "time": "05/29/2020 - 1:23 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.2213,
+    "longitude": -92.01866
+  },
+  {
     "address": "RIDGE RD & RUE DU BELIER",
     "city": "LAFAYETTE",
     "time": "05/29/2020 - 1:20 PM",
