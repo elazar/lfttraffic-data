@@ -1,5 +1,13 @@
 [
   {
+    "address": "EDISON ST & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "05/29/2020 - 1:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2396,
+    "longitude": -92.03243
+  },
+  {
     "address": "E PINHOOK RD & CLIFFORD RD",
     "city": "LAFAYETTE",
     "time": "05/29/2020 - 1:51 PM",
@@ -14,14 +22,6 @@
     "due_to": "Fire Investigation",
     "latitude": 30.23192,
     "longitude": -92.056
-  },
-  {
-    "address": "100 JOLI RD",
-    "city": "LAFAYETTE",
-    "time": "05/29/2020 - 1:23 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.32701,
-    "longitude": -92.0841
   },
   {
     "address": "311 VIEUX ORLEANS CL",
