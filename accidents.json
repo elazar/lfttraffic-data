@@ -1,5 +1,13 @@
 [
   {
+    "address": "321 BRADFORD DR",
+    "city": "LAFAYETTE",
+    "time": "05/28/2020 - 10:36 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.31787,
+    "longitude": -92.06286
+  },
+  {
     "address": "1400 E BROUSSARD RD",
     "city": "LAFAYETTE",
     "time": "05/28/2020 - 10:10 PM",
