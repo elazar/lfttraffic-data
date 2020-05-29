@@ -1,5 +1,13 @@
 [
   {
+    "address": "1401 SURREY ST",
+    "city": "LAFAYETTE",
+    "time": "05/29/2020 - 1:25 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.22147,
+    "longitude": -91.99427
+  },
+  {
     "address": "100 JOLI RD",
     "city": "LAFAYETTE",
     "time": "05/29/2020 - 1:23 PM",
@@ -38,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18313,
     "longitude": -92.09248
-  },
-  {
-    "address": "4315 MOSS ST",
-    "city": "LAFAYETTE",
-    "time": "05/29/2020 - 12:46 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2881,
-    "longitude": -92.00715
   },
   {
     "address": "211 REPUBLIC AV",
