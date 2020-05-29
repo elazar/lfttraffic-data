@@ -1,5 +1,13 @@
 [
   {
+    "address": "GUILBEAU RD & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "05/29/2020 - 3:44 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19375,
+    "longitude": -92.0586
+  },
+  {
     "address": "3636 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "05/29/2020 - 3:30 PM",
