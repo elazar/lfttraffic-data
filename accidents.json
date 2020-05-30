@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "2600 DULLES DR",
+    "city": "SCOTT",
+    "time": "05/29/2020 - 7:07 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2107449,
+    "longitude": -92.1059057
+  }
+]
