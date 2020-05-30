@@ -1,5 +1,13 @@
 [
   {
+    "address": "UPA DR & OAK CREST DR",
+    "city": "LAFAYETTE",
+    "time": "05/30/2020 - 12:01 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.2083,
+    "longitude": -92.02472
+  },
+  {
     "address": "1800 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "05/30/2020 - 11:49 AM",
