@@ -1,5 +1,13 @@
 [
   {
+    "address": "104 N GENERAL MARSHALL ST",
+    "city": "LAFAYETTE",
+    "time": "05/30/2020 - 1:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22832,
+    "longitude": -91.99762
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & RIDGE RD",
     "city": "LAFAYETTE",
     "time": "05/30/2020 - 12:38 PM",
