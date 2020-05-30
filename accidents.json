@@ -1,5 +1,13 @@
 [
   {
+    "address": "301 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "05/30/2020 - 10:59 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17488,
+    "longitude": -92.00705
+  },
+  {
     "address": "510 LA FLAMME RD",
     "city": "LAFAYETTE",
     "time": "05/30/2020 - 10:49 AM",
