@@ -8,14 +8,6 @@
     "longitude": -92.02712
   },
   {
-    "address": "200 OAK CREST DR",
-    "city": "LAFAYETTE",
-    "time": "05/30/2020 - 12:01 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.20807,
-    "longitude": -92.02445
-  },
-  {
     "address": "1800 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "05/30/2020 - 11:49 AM",
@@ -30,5 +22,13 @@
     "due_to": "Traffic Control",
     "latitude": 30.1472,
     "longitude": -91.93506
+  },
+  {
+    "address": "1151 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "05/30/2020 - 06:53 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.2456876,
+    "longitude": -92.0335184
   }
 ]
