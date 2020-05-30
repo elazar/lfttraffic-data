@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1325 DULLES DR",
+    "city": "LAFAYETTE",
+    "time": "05/30/2020 - 10:24 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.21051,
+    "longitude": -92.07364
+  }
+]
