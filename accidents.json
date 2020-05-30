@@ -1,5 +1,13 @@
 [
   {
+    "address": "3142 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "05/30/2020 - 4:05 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1873,
+    "longitude": -92.07797
+  },
+  {
     "address": "271 TOUCHET RD",
     "city": "LAFAYETTE",
     "time": "05/30/2020 - 2:34 PM",
