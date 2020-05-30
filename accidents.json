@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "AUSTRIA RD & FALTERMAN RD",
+    "city": "DUSON",
+    "time": "05/30/2020 - 12:38 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22713,
+    "longitude": -92.19299
+  }
+]
