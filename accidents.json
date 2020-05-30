@@ -1,5 +1,13 @@
 [
   {
+    "address": "126 GORDON CROCKETT DR",
+    "city": "LAFAYETTE",
+    "time": "05/29/2020 - 7:11 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.15207,
+    "longitude": -91.98498
+  },
+  {
     "address": "2600 DULLES DR",
     "city": "SCOTT",
     "time": "05/29/2020 - 7:07 PM",
