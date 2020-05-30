@@ -1,5 +1,13 @@
 [
   {
+    "address": "5770 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "05/30/2020 - 10:32 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1725,
+    "longitude": -92.0809
+  },
+  {
     "address": "1325 DULLES DR",
     "city": "LAFAYETTE",
     "time": "05/30/2020 - 10:24 AM",
