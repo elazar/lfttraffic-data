@@ -1,5 +1,13 @@
 [
   {
+    "address": "RIDGEVIEW DR & SUMMIT DR",
+    "city": "LAFAYETTE",
+    "time": "05/30/2020 - 11:15 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.27378,
+    "longitude": -92.00396
+  },
+  {
     "address": "CHEMIN METAIRIE & E MILTON AV",
     "city": "YOUNGSVILLE",
     "time": "05/30/2020 - 11:05 AM",
