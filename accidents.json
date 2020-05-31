@@ -1,5 +1,13 @@
 [
   {
+    "address": "SHAR MON RD & E GLORIA SWITCH RD",
+    "city": "CARENCRO",
+    "time": "05/31/2020 - 12:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29542,
+    "longitude": -92.01995
+  },
+  {
     "address": "SW EVANGELINE TW & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "05/31/2020 - 12:09 PM",
@@ -22,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1779,
     "longitude": -92.07559
-  },
-  {
-    "address": "3142 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "05/31/2020 - 10:36 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1873,
-    "longitude": -92.07797
   }
 ]
