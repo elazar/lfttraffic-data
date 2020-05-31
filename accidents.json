@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "NE EVANGELINE TW & DONLON AV",
+    "city": "LAFAYETTE",
+    "time": "05/31/2020 - 05:44 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23977,
+    "longitude": -92.01245
+  }
+]
