@@ -22,13 +22,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.25191,
     "longitude": -92.01425
-  },
-  {
-    "address": "800 N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "05/31/2020 - 5:30 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23916,
-    "longitude": -92.03205
   }
 ]
