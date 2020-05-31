@@ -1,5 +1,13 @@
 [
   {
+    "address": "105 W GLORIA SWITCH RD",
+    "city": "LAFAYETTE",
+    "time": "05/31/2020 - 12:37 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29526,
+    "longitude": -92.0274
+  },
+  {
     "address": "1500 DULLES DR",
     "city": "LAFAYETTE",
     "time": "05/30/2020 - 4:27 PM",
