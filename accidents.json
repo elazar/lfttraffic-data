@@ -1,11 +1,11 @@
 [
   {
-    "address": "N UNIVERSITY AV & MADELINE AV",
+    "address": "1000 MADELINE AV",
     "city": "LAFAYETTE",
     "time": "05/31/2020 - 5:30 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.23907,
-    "longitude": -92.03243
+    "latitude": 30.2392047,
+    "longitude": -92.0325717
   },
   {
     "address": "AMBASSADOR CAFFERY PW & ROBLEY DR",
