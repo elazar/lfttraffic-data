@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 CLEM DR",
+    "city": "LAFAYETTE",
+    "time": "05/31/2020 - 6:04 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2023889,
+    "longitude": -92.0318853
+  },
+  {
     "address": "NW EVANGELINE TW & CHALMETTE DR",
     "city": "LAFAYETTE",
     "time": "05/31/2020 - 6:03 PM",
