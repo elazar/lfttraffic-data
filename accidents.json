@@ -1,5 +1,13 @@
 [
   {
+    "address": "400 CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "05/31/2020 - 1:37 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18686,
+    "longitude": -92.05461
+  },
+  {
     "address": "98 I10 WESTBOUND MM98 HW",
     "city": "SCOTT",
     "time": "05/31/2020 - 1:19 PM",
