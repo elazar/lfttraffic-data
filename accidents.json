@@ -1,5 +1,13 @@
 [
   {
+    "address": "1300 CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "05/31/2020 - 6:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2327646,
+    "longitude": -91.9886642
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & DULLES DR",
     "city": "LAFAYETTE",
     "time": "05/31/2020 - 6:14 PM",
