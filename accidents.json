@@ -1,5 +1,13 @@
 [
   {
+    "address": "105 BOSSIER ST",
+    "city": "LAFAYETTE",
+    "time": "05/31/2020 - 3:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2412,
+    "longitude": -92.02371
+  },
+  {
     "address": "JEFFERSON BL & SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "05/31/2020 - 3:08 PM",
