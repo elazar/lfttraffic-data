@@ -1,5 +1,13 @@
 [
   {
+    "address": "130 PARK LN",
+    "city": "LAFAYETTE",
+    "time": "05/30/2020 - 7:31 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1173951,
+    "longitude": -92.0728427
+  },
+  {
     "address": "1500 DULLES DR",
     "city": "LAFAYETTE",
     "time": "05/30/2020 - 4:27 PM",
