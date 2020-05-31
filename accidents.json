@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1127 W GILMAN RD",
+    "city": "LAFAYETTE",
+    "time": "05/31/2020 - 06:13 AM",
+    "due_to": "Hazardous Situation",
+    "latitude": 30.24262,
+    "longitude": -92.03055
+  }
+]
