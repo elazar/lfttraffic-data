@@ -1,5 +1,13 @@
 [
   {
+    "address": "425 HECTOR CONNOLY RD",
+    "city": "LAFAYETTE",
+    "time": "05/31/2020 - 1:24 PM",
+    "due_to": "Hazard",
+    "latitude": 30.32239,
+    "longitude": -92.02299
+  },
+  {
     "address": "98 I10 WESTBOUND MM98 HW",
     "city": "SCOTT",
     "time": "05/31/2020 - 1:19 PM",
