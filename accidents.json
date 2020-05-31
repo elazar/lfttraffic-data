@@ -1,5 +1,13 @@
 [
   {
+    "address": "2817 S FIELDSPAN RD",
+    "city": "LAFAYETTE",
+    "time": "05/31/2020 - 6:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16102,
+    "longitude": -92.14113
+  },
+  {
     "address": "1300 CARMEL DR",
     "city": "LAFAYETTE",
     "time": "05/31/2020 - 6:18 PM",
