@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "200 HUGH WALLIS RD",
+    "city": "LAFAYETTE",
+    "time": "06/01/2020 - 2:14 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.20172,
+    "longitude": -92.00232
+  }
+]
