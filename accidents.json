@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "300 S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "06/01/2020 - 11:17 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2041004,
+    "longitude": -92.0347221
+  }
+]
