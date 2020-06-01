@@ -14,5 +14,13 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1663,
     "longitude": -92.06118
+  },
+  {
+    "address": "1800 W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "06/01/2020 - 5:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22956,
+    "longitude": -92.03028
   }
 ]
