@@ -1,5 +1,21 @@
 [
   {
+    "address": "3564 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "05/31/2020 - 10:28 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.17495,
+    "longitude": -92.07136
+  },
+  {
+    "address": "3801 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "05/31/2020 - 10:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27339,
+    "longitude": -92.00848
+  },
+  {
     "address": "KALISTE SALOOM RD & W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "05/31/2020 - 10:12 PM",
