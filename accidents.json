@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "W TAFT ST & E UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "06/01/2020 - 05:19 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.21296,
+    "longitude": -92.01316
+  }
+]
