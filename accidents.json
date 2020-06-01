@@ -1,11 +1,19 @@
 [
   {
-    "address": "JOHNSTON ST & MOUNT VERNON DR",
+    "address": "4670 JOHNSTON ST",
     "city": "LAFAYETTE",
-    "time": "06/01/2020 - 4:00 PM",
+    "time": "06/01/2020 - 4:02 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.1865021,
+    "longitude": -92.066192
+  },
+  {
+    "address": "JOHNSTON ST & ANTIGUA DR",
+    "city": "LAFAYETTE",
+    "time": "06/01/2020 - 4:02 PM",
     "due_to": "Incoming Call",
-    "latitude": 30.19138,
-    "longitude": -92.06103
+    "latitude": 30.18595,
+    "longitude": -92.06656
   },
   {
     "address": "709 ST JOHN ST",
