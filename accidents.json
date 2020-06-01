@@ -16,14 +16,6 @@
     "longitude": -92.05963
   },
   {
-    "address": "105 E CONVENT ST",
-    "city": "LAFAYETTE",
-    "time": "06/01/2020 - 12:12 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22163,
-    "longitude": -92.0177
-  },
-  {
     "address": "KALISTE SALOOM RD & MEADOW FARM RD",
     "city": "LAFAYETTE",
     "time": "06/01/2020 - 12:12 PM",
@@ -38,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15659,
     "longitude": -92.02866
-  },
-  {
-    "address": "E MILTON AV & VEROT SCHOOL RD",
-    "city": "YOUNGSVILLE",
-    "time": "06/01/2020 - 11:56 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.08575,
-    "longitude": -92.03246
   },
   {
     "address": "AMBASSADOR CAFFERY PW & VERMILION RIVER",
