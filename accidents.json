@@ -1,5 +1,13 @@
 [
   {
+    "address": "2300 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/01/2020 - 4:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2104321,
+    "longitude": -92.0758249
+  },
+  {
     "address": "4670 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/01/2020 - 4:02 PM",
@@ -54,13 +62,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19138,
     "longitude": -92.06103
-  },
-  {
-    "address": "JOHNSTON ST & W BRENTWOOD BL",
-    "city": "LAFAYETTE",
-    "time": "06/01/2020 - 2:59 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19632,
-    "longitude": -92.057
   }
 ]
