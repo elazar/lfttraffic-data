@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 SEA GULL CL",
+    "city": "LAFAYETTE",
+    "time": "06/01/2020 - 12:08 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15659,
+    "longitude": -92.02866
+  },
+  {
     "address": "CHARLES READ AV & W BAYOU PW",
     "city": "LAFAYETTE",
     "time": "06/01/2020 - 12:07 PM",
