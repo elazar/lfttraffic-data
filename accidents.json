@@ -1,13 +1,5 @@
 [
   {
-    "address": "200 DUNAND ST",
-    "city": "LAFAYETTE",
-    "time": "06/01/2020 - 6:19 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.2504137,
-    "longitude": -92.0040566
-  },
-  {
     "address": "4000 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/01/2020 - 5:44 PM",
@@ -22,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.25425,
     "longitude": -92.04768
-  },
-  {
-    "address": "SILKWOOD ST & W UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "06/01/2020 - 5:20 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23038,
-    "longitude": -92.03118
   }
 ]
