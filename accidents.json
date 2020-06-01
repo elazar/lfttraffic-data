@@ -1,5 +1,13 @@
 [
   {
+    "address": "120 ALCIDE DOMINIQUE DR",
+    "city": "LAFAYETTE",
+    "time": "06/01/2020 - 02:00 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24908,
+    "longitude": -92.03823
+  },
+  {
     "address": "ERASTE LANDRY RD & WESTGATE RD",
     "city": "SCOTT",
     "time": "06/01/2020 - 01:45 AM",
