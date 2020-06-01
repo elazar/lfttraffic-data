@@ -1,5 +1,13 @@
 [
   {
+    "address": "RENAUD DR & HARRY ST",
+    "city": "LAFAYETTE",
+    "time": "06/01/2020 - 5:42 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25425,
+    "longitude": -92.04768
+  },
+  {
     "address": "CAMERON ST & WOODROW ST",
     "city": "LAFAYETTE",
     "time": "06/01/2020 - 5:27 PM",
