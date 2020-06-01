@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & WOODROW ST",
+    "city": "LAFAYETTE",
+    "time": "06/01/2020 - 5:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23259,
+    "longitude": -92.05655
+  },
+  {
     "address": "SILKWOOD ST & W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "06/01/2020 - 5:20 PM",
