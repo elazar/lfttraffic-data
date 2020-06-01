@@ -1,5 +1,13 @@
 [
   {
+    "address": "301 DUNAND ST",
+    "city": "LAFAYETTE",
+    "time": "06/01/2020 - 6:19 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.25231,
+    "longitude": -92.00238
+  },
+  {
     "address": "4000 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/01/2020 - 5:44 PM",
