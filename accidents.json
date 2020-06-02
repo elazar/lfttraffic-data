@@ -6,21 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2326649,
     "longitude": -92.0539
-  },
-  {
-    "address": "VEROT SCHOOL RD & SIMON RD",
-    "city": "LAFAYETTE",
-    "time": "06/02/2020 - 09:23 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.08008,
-    "longitude": -92.03244
-  },
-  {
-    "address": "701 ST NAZAIRE RD",
-    "city": "BROUSSARD",
-    "time": "06/02/2020 - 07:45 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.13699,
-    "longitude": -91.93405
   }
 ]
