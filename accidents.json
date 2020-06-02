@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "JOHNSTON ST & VITAL ST",
+    "city": "LAFAYETTE",
+    "time": "06/01/2020 - 9:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20341,
+    "longitude": -92.04888
+  }
+]
