@@ -1,5 +1,13 @@
 [
   {
+    "address": "E SIMCOE ST & CHICKASAW RD",
+    "city": "LAFAYETTE",
+    "time": "06/02/2020 - 12:39 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.22046,
+    "longitude": -91.9873
+  },
+  {
     "address": "500 WHITMORE RD",
     "city": "LAFAYETTE",
     "time": "06/02/2020 - 12:37 PM",
