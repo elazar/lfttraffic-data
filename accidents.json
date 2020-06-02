@@ -1,11 +1,11 @@
 [
   {
-    "address": "LIONS CLUB RD & ST MARY ST",
-    "city": "SCOTT",
-    "time": "06/02/2020 - 12:26 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.24234,
-    "longitude": -92.09882
+    "address": "4505 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/02/2020 - 12:55 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19326,
+    "longitude": -92.05875
   },
   {
     "address": "600 E PONT DES MOUTON RD",
@@ -14,14 +14,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.27108,
     "longitude": -92.00388
-  },
-  {
-    "address": "W ST MARY BL & W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "06/02/2020 - 11:34 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22445,
-    "longitude": -92.03174
   },
   {
     "address": "W CONGRESS ST & HEATHEROAK AV",
