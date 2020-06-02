@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & ST PATRICK ST",
+    "city": "LAFAYETTE",
+    "time": "06/02/2020 - 11:00 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22307,
+    "longitude": -92.03395
+  },
+  {
     "address": "3100 CAMERON ST",
     "city": "LAFAYETTE",
     "time": "06/02/2020 - 10:41 AM",
