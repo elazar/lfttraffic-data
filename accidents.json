@@ -1,13 +1,5 @@
 [
   {
-    "address": "106 CAMRY DR",
-    "city": "LAFAYETTE",
-    "time": "06/02/2020 - 4:29 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.15898,
-    "longitude": -92.08189
-  },
-  {
     "address": "100 I10 EASTBOUND MM100 HW",
     "city": "LAFAYETTE",
     "time": "06/02/2020 - 4:26 PM",
@@ -32,12 +24,12 @@
     "longitude": -92.01187
   },
   {
-    "address": "W CONGRESS ST & GUILBEAU RD",
+    "address": "500 GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "06/02/2020 - 3:35 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.19826,
-    "longitude": -92.07007
+    "latitude": 30.1984388,
+    "longitude": -92.0701636
   },
   {
     "address": "W AVONDALE DR & AMBASSADOR CAFFERY PW",
