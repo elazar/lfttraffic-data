@@ -1,5 +1,21 @@
 [
   {
+    "address": "1013 PANDORA ST",
+    "city": "LAFAYETTE",
+    "time": "06/02/2020 - 11:01 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19994,
+    "longitude": -92.06841
+  },
+  {
+    "address": "GUILLIOT RD & CHEMIN AGREABLE",
+    "city": "YOUNGSVILLE",
+    "time": "06/02/2020 - 11:01 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.06828,
+    "longitude": -91.99061
+  },
+  {
     "address": "W CONGRESS ST & ST PATRICK ST",
     "city": "LAFAYETTE",
     "time": "06/02/2020 - 11:00 AM",
