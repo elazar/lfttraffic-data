@@ -14,21 +14,5 @@
     "due_to": "Trash Fire",
     "latitude": 30.12352,
     "longitude": -92.00046
-  },
-  {
-    "address": "617 S BIENVILLE ST",
-    "city": "LAFAYETTE",
-    "time": "06/02/2020 - 2:32 PM",
-    "due_to": "Vehicle Fire",
-    "latitude": 30.22745,
-    "longitude": -92.02369
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & OLD CAMP RD",
-    "city": "LAFAYETTE",
-    "time": "06/02/2020 - 2:01 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15486,
-    "longitude": -92.04636
   }
 ]
