@@ -1,5 +1,13 @@
 [
   {
+    "address": "16 BNSF RAILROAD CG",
+    "city": "LAFAYETTE",
+    "time": "06/02/2020 - 10:07 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.22014,
+    "longitude": -92.00629
+  },
+  {
     "address": "15 BNSF RAILROAD CG",
     "city": "LAFAYETTE",
     "time": "06/02/2020 - 10:05 AM",
