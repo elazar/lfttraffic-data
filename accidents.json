@@ -1,5 +1,13 @@
 [
   {
+    "address": "1124 FORTUNE RD",
+    "city": "YOUNGSVILLE",
+    "time": "06/02/2020 - 2:52 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.12352,
+    "longitude": -92.00046
+  },
+  {
     "address": "617 S BIENVILLE ST",
     "city": "LAFAYETTE",
     "time": "06/02/2020 - 2:32 PM",
