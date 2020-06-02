@@ -1,5 +1,13 @@
 [
   {
+    "address": "500 WHITMORE RD",
+    "city": "LAFAYETTE",
+    "time": "06/02/2020 - 12:37 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2805,
+    "longitude": -92.14958
+  },
+  {
     "address": "LIONS CLUB RD & ST MARY ST",
     "city": "SCOTT",
     "time": "06/02/2020 - 12:26 PM",
