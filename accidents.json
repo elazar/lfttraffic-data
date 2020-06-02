@@ -1,5 +1,13 @@
 [
   {
+    "address": "W ST MARY BL & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "06/02/2020 - 11:34 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22445,
+    "longitude": -92.03174
+  },
+  {
     "address": "NE EVANGELINE TW & E SECOND ST",
     "city": "LAFAYETTE",
     "time": "06/02/2020 - 11:32 AM",
