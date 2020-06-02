@@ -1,5 +1,13 @@
 [
   {
+    "address": "113 ST NAZAIRE RD",
+    "city": "BROUSSARD",
+    "time": "06/02/2020 - 4:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14134,
+    "longitude": -91.94341
+  },
+  {
     "address": "100 I10 EASTBOUND MM100 HW",
     "city": "LAFAYETTE",
     "time": "06/02/2020 - 4:26 PM",
