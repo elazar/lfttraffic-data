@@ -1,5 +1,13 @@
 [
   {
+    "address": "1211 COOLIDGE ST",
+    "city": "LAFAYETTE",
+    "time": "06/02/2020 - 3:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20239,
+    "longitude": -92.01825
+  },
+  {
     "address": "1124 FORTUNE RD",
     "city": "YOUNGSVILLE",
     "time": "06/02/2020 - 2:52 PM",
