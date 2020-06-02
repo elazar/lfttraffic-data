@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMRY DR & CRESTLAWN DR",
+    "city": "LAFAYETTE",
+    "time": "06/02/2020 - 4:28 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.15896,
+    "longitude": -92.08209
+  },
+  {
     "address": "100 I10 EASTBOUND MM100 HW",
     "city": "LAFAYETTE",
     "time": "06/02/2020 - 4:26 PM",
