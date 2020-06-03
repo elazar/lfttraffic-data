@@ -16,14 +16,6 @@
     "longitude": -92.08888
   },
   {
-    "address": "NW EVANGELINE TW & VETERANS DR",
-    "city": "CARENCRO",
-    "time": "06/03/2020 - 5:08 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.32204,
-    "longitude": -92.03574
-  },
-  {
     "address": "2429 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "06/03/2020 - 5:04 PM",
@@ -62,14 +54,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.28324,
     "longitude": -92.08316
-  },
-  {
-    "address": "JOHNSTON ST & MARILYN DR",
-    "city": "LAFAYETTE",
-    "time": "06/03/2020 - 4:20 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19878,
-    "longitude": -92.0558
   },
   {
     "address": "4310 AMBASSADOR CAFFERY PW",
