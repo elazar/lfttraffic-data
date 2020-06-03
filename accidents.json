@@ -1,5 +1,13 @@
 [
   {
+    "address": "3801 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "06/03/2020 - 4:08 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27339,
+    "longitude": -92.00848
+  },
+  {
     "address": "GENERAL MOUTON AV & W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "06/03/2020 - 4:07 PM",
@@ -30,14 +38,6 @@
     "due_to": "Hazardous Material",
     "latitude": 30.32185,
     "longitude": -92.03141
-  },
-  {
-    "address": "551 ROGER RD",
-    "city": "LAFAYETTE",
-    "time": "06/03/2020 - 3:57 PM",
-    "due_to": "Residential Fire",
-    "latitude": 30.2675543,
-    "longitude": -92.0827651
   },
   {
     "address": "1603 AMBASSADOR CAFFERY PW",
