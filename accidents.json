@@ -1,5 +1,13 @@
 [
   {
+    "address": "601 BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "06/03/2020 - 11:32 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21337,
+    "longitude": -92.04767
+  },
+  {
     "address": "1322 MOSS ST",
     "city": "LAFAYETTE",
     "time": "06/03/2020 - 11:31 AM",
