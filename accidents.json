@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & DEBONNAIRE RD",
+    "city": "SCOTT",
+    "time": "06/03/2020 - 6:12 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.23211,
+    "longitude": -92.08076
+  },
+  {
     "address": "3431 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "06/03/2020 - 5:46 PM",
