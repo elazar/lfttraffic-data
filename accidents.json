@@ -1,5 +1,13 @@
 [
   {
+    "address": "111 MEADOW FARM RD",
+    "city": "LAFAYETTE",
+    "time": "06/03/2020 - 11:53 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.15766,
+    "longitude": -92.04442
+  },
+  {
     "address": "NE EVANGELINE TW & E GLORIA SWITCH RD",
     "city": "LAFAYETTE",
     "time": "06/03/2020 - 11:49 AM",
