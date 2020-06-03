@@ -1,5 +1,13 @@
 [
   {
+    "address": "110 LA RUE DES FAMILLES",
+    "city": "LAFAYETTE",
+    "time": "06/03/2020 - 3:57 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.26759,
+    "longitude": -92.08479
+  },
+  {
     "address": "1603 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/03/2020 - 3:47 PM",
