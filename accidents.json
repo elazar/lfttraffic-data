@@ -1,5 +1,13 @@
 [
   {
+    "address": "707 N ST ANTOINE ST",
+    "city": "LAFAYETTE",
+    "time": "06/03/2020 - 1:19 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.23945,
+    "longitude": -92.02492
+  },
+  {
     "address": "3 I49 SOUTHBOUND MM3 HW",
     "city": "CARENCRO",
     "time": "06/03/2020 - 1:18 PM",
