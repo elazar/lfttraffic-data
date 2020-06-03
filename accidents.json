@@ -1,5 +1,13 @@
 [
   {
+    "address": "MILLS ST & RENAUD DR",
+    "city": "SCOTT",
+    "time": "06/02/2020 - 9:41 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.25423,
+    "longitude": -92.09108
+  },
+  {
     "address": "CAMERON ST & HANKS RD",
     "city": "LAFAYETTE",
     "time": "06/02/2020 - 9:37 PM",
