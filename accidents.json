@@ -1,5 +1,13 @@
 [
   {
+    "address": "4801 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "06/03/2020 - 1:57 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1408946,
+    "longitude": -91.9449366
+  },
+  {
     "address": "E BROUSSARD RD & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "06/03/2020 - 1:46 PM",
