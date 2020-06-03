@@ -1,19 +1,19 @@
 [
   {
+    "address": "KALISTE SALOOM RD & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/03/2020 - 10:09 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.15649,
+    "longitude": -92.04838
+  },
+  {
     "address": "4232 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/03/2020 - 10:08 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.15981,
     "longitude": -92.05452
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "06/03/2020 - 10:01 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.15649,
-    "longitude": -92.04838
   },
   {
     "address": "121 KAROLWOOD DR",
