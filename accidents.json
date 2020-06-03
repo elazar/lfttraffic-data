@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 W MILTON AV",
+    "city": "LAFAYETTE",
+    "time": "06/03/2020 - 12:31 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1047947,
+    "longitude": -92.0743515
+  },
+  {
     "address": "CAMELLIA BL & SILVERSTONE RD",
     "city": "LAFAYETTE",
     "time": "06/03/2020 - 11:46 AM",
