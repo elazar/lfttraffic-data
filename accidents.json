@@ -1,5 +1,13 @@
 [
   {
+    "address": "W TAFT ST & E ST MARY BL",
+    "city": "LAFAYETTE",
+    "time": "06/03/2020 - 09:15 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.21013,
+    "longitude": -92.01601
+  },
+  {
     "address": "121 KAROLWOOD DR",
     "city": "LAFAYETTE",
     "time": "06/03/2020 - 09:05 AM",
