@@ -1,13 +1,5 @@
 [
   {
-    "address": "123 BRINA LN",
-    "city": "LAFAYETTE",
-    "time": "06/03/2020 - 5:35 PM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.33355,
-    "longitude": -92.06212
-  },
-  {
     "address": "JOHNSTON ST & CAMINO REAL RD",
     "city": "LAFAYETTE",
     "time": "06/03/2020 - 5:23 PM",
@@ -78,14 +70,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19878,
     "longitude": -92.0558
-  },
-  {
-    "address": "ELMWOOD DR & ROBLEY DR",
-    "city": "LAFAYETTE",
-    "time": "06/03/2020 - 4:11 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17384,
-    "longitude": -92.06325
   },
   {
     "address": "GENERAL MOUTON AV & W PINHOOK RD",
