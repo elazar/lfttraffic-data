@@ -1,5 +1,13 @@
 [
   {
+    "address": "DUGAS RD & ROGER RD",
+    "city": "SCOTT",
+    "time": "06/03/2020 - 4:35 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.28324,
+    "longitude": -92.08316
+  },
+  {
     "address": "JOHNSTON ST & MARILYN DR",
     "city": "LAFAYETTE",
     "time": "06/03/2020 - 4:20 PM",
