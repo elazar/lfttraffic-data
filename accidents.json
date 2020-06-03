@@ -40,22 +40,6 @@
     "longitude": -92.00861
   },
   {
-    "address": "2500 W WILLOW ST",
-    "city": "SCOTT",
-    "time": "06/03/2020 - 4:04 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2431549,
-    "longitude": -92.0765
-  },
-  {
-    "address": "1500 VEROT SCHOOL RD",
-    "city": "LAFAYETTE",
-    "time": "06/03/2020 - 3:16 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.167471,
-    "longitude": -92.0200881
-  },
-  {
     "address": "4310 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/03/2020 - 04:50 AM",
