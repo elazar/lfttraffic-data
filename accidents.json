@@ -1,12 +1,13 @@
 [
   {
-    "address": "NW EVANGELINE TW & VETERANS DR",
-    "city": "CARENCRO",
-    "time": "06/03/2020 - 5:08 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.32204,
-    "longitude": -92.03574
+    "address": "JOHNSTON ST & CAMINO REAL RD",
+    "city": "LAFAYETTE",
+    "time": "06/03/2020 - 5:23 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.15585,
+    "longitude": -92.08888
   },
+  null,
   {
     "address": "2429 W PINHOOK RD",
     "city": "LAFAYETTE",
