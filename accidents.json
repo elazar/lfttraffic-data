@@ -1,5 +1,13 @@
 [
   {
+    "address": "CARVER ST & FOOTE ST",
+    "city": "LAFAYETTE",
+    "time": "06/03/2020 - 01:43 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.24858,
+    "longitude": -92.02807
+  },
+  {
     "address": "95 I10 WESTBOUND MM95 HW",
     "city": "LAFAYETTE",
     "time": "06/03/2020 - 01:34 AM",
