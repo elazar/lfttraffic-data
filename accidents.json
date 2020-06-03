@@ -1,5 +1,13 @@
 [
   {
+    "address": "ELMWOOD DR & ROBLEY DR",
+    "city": "LAFAYETTE",
+    "time": "06/03/2020 - 4:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17384,
+    "longitude": -92.06325
+  },
+  {
     "address": "3801 MOSS ST",
     "city": "LAFAYETTE",
     "time": "06/03/2020 - 4:08 PM",
