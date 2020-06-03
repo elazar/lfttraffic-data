@@ -1,5 +1,13 @@
 [
   {
+    "address": "1700 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "06/02/2020 - 10:29 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.25271,
+    "longitude": -92.03633
+  },
+  {
     "address": "551 N PIERCE ST",
     "city": "LAFAYETTE",
     "time": "06/02/2020 - 9:49 PM",
