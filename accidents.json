@@ -1,19 +1,19 @@
 [
   {
+    "address": "108 LAURELWOOD DR",
+    "city": "LAFAYETTE",
+    "time": "06/03/2020 - 10:33 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.23905,
+    "longitude": -91.97099
+  },
+  {
     "address": "4 I49 SOUTHBOUND MM4 HW",
     "city": "LAFAYETTE",
     "time": "06/03/2020 - 10:32 AM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.28006,
     "longitude": -92.02024
-  },
-  {
-    "address": "4232 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/03/2020 - 10:08 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15981,
-    "longitude": -92.05452
   },
   {
     "address": "121 KAROLWOOD DR",
