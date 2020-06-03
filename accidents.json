@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "address": "VEROT SCHOOL RD & AUSTIN VILLAGE BL",
+    "city": "LAFAYETTE",
+    "time": "06/03/2020 - 3:18 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.15046,
+    "longitude": -92.0289
+  },
+  {
+    "address": "900 HIGHLAND VIEW DR",
+    "city": "YOUNGSVILLE",
+    "time": "06/03/2020 - 3:17 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.07826,
+    "longitude": -91.99919
+  },
+  {
+    "address": "1500 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "06/03/2020 - 3:16 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.167471,
+    "longitude": -92.0200881
+  },
+  {
+    "address": "3721 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/03/2020 - 3:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17357,
+    "longitude": -92.0672
+  },
+  {
+    "address": "200 JEFFERSON BL",
+    "city": "LAFAYETTE",
+    "time": "06/03/2020 - 2:10 PM",
+    "due_to": "Vehicle Fire",
+    "latitude": 30.22812,
+    "longitude": -92.01312
+  },
+  {
+    "address": "4310 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/03/2020 - 04:50 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.15773,
+    "longitude": -92.05211
+  }
+]
