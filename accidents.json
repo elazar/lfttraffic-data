@@ -1,9 +1,17 @@
 [
   {
+    "address": "93 I10 EASTBOUND MM93 HW",
+    "city": "Lafayette",
+    "time": "06/02/2020 - 8:35 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "address": "4201 MOSS ST",
     "city": "LAFAYETTE",
     "time": "06/02/2020 - 8:34 PM",
-    "due_to": "Incoming Call",
+    "due_to": "Fire Investigation",
     "latitude": 30.28396,
     "longitude": -92.00813
   },
