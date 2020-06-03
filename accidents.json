@@ -1,5 +1,13 @@
 [
   {
+    "address": "4001 N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "06/03/2020 - 11:54 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.30965,
+    "longitude": -92.04989
+  },
+  {
     "address": "111 MEADOW FARM RD",
     "city": "LAFAYETTE",
     "time": "06/03/2020 - 11:53 AM",
