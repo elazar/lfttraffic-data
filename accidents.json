@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & MARILYN DR",
+    "city": "LAFAYETTE",
+    "time": "06/03/2020 - 4:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19878,
+    "longitude": -92.0558
+  },
+  {
     "address": "123 ST NAZAIRE RD",
     "city": "BROUSSARD",
     "time": "06/03/2020 - 4:13 PM",
