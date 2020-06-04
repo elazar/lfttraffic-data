@@ -1,5 +1,13 @@
 [
   {
+    "address": "2223 DULLES DR",
+    "city": "SCOTT",
+    "time": "06/04/2020 - 5:15 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.21032,
+    "longitude": -92.09617
+  },
+  {
     "address": "200 FREM BOUSTANY DR",
     "city": "LAFAYETTE",
     "time": "06/04/2020 - 5:12 PM",
