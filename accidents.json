@@ -1,5 +1,13 @@
 [
   {
+    "address": "175 MILAN CL",
+    "city": "LAFAYETTE",
+    "time": "06/04/2020 - 08:49 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1554,
+    "longitude": -92.05179
+  },
+  {
     "address": "4900 N UNIVERSITY AV",
     "city": "CARENCRO",
     "time": "06/04/2020 - 08:46 AM",
