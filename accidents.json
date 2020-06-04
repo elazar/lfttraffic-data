@@ -1,5 +1,13 @@
 [
   {
+    "address": "2600 W WILLOW ST",
+    "city": "SCOTT",
+    "time": "06/04/2020 - 5:02 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.24305,
+    "longitude": -92.07925
+  },
+  {
     "address": "155 HOSPITAL DR",
     "city": "LAFAYETTE",
     "time": "06/04/2020 - 4:51 PM",
