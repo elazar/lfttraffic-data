@@ -1,5 +1,13 @@
 [
   {
+    "address": "517 BEVERLY DR",
+    "city": "LAFAYETTE",
+    "time": "06/04/2020 - 09:40 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.19623,
+    "longitude": -92.02366
+  },
+  {
     "address": "5000 N UNIVERSITY AV",
     "city": "CARENCRO",
     "time": "06/04/2020 - 09:38 AM",
