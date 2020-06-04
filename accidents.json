@@ -2,6 +2,14 @@
   {
     "address": "4210 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
+    "time": "06/04/2020 - 5:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1621131,
+    "longitude": -92.055382
+  },
+  {
+    "address": "4210 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
     "time": "06/04/2020 - 5:26 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.1621131,
@@ -86,14 +94,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20333,
     "longitude": -92.02038
-  },
-  {
-    "address": "NW EVANGELINE TW & HOBSON ST",
-    "city": "LAFAYETTE",
-    "time": "06/04/2020 - 4:51 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.23394,
-    "longitude": -92.01394
   },
   {
     "address": "1820 CAMERON ST",
