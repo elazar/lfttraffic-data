@@ -1,11 +1,19 @@
 [
   {
-    "address": "W CONGRESS ST & FOREMAN DR",
+    "address": "6700 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/04/2020 - 5:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15516,
+    "longitude": -92.0934
+  },
+  {
+    "address": "2751 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "06/04/2020 - 5:16 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.20729,
-    "longitude": -92.05656
+    "latitude": 30.2079617,
+    "longitude": -92.0553169
   },
   {
     "address": "2216 AMBASSADOR CAFFERY PW",
