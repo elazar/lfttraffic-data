@@ -1,5 +1,13 @@
 [
   {
+    "address": "2315 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "06/04/2020 - 2:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18329,
+    "longitude": -92.00661
+  },
+  {
     "address": "S COLLEGE RD & BACQUE CRESCENT DR",
     "city": "LAFAYETTE",
     "time": "06/04/2020 - 1:52 PM",
