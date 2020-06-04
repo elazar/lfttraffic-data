@@ -1,5 +1,21 @@
 [
   {
+    "address": "W CONGRESS ST & FOREMAN DR",
+    "city": "LAFAYETTE",
+    "time": "06/04/2020 - 5:16 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20729,
+    "longitude": -92.05656
+  },
+  {
+    "address": "2216 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/04/2020 - 5:16 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.212,
+    "longitude": -92.07615
+  },
+  {
     "address": "2223 DULLES DR",
     "city": "SCOTT",
     "time": "06/04/2020 - 5:15 PM",
