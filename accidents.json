@@ -1,5 +1,21 @@
 [
   {
+    "address": "W PINHOOK RD & SOUTHPARK RD",
+    "city": "LAFAYETTE",
+    "time": "06/04/2020 - 12:50 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.16071,
+    "longitude": -91.99107
+  },
+  {
+    "address": "KALISTE SALOOM RD & RUE LOUIS XIV",
+    "city": "LAFAYETTE",
+    "time": "06/04/2020 - 12:50 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17285,
+    "longitude": -92.02989
+  },
+  {
     "address": "JOHNSTON ST & TARGET LP",
     "city": "LAFAYETTE",
     "time": "06/04/2020 - 12:49 PM",
