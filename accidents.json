@@ -1,5 +1,13 @@
 [
   {
+    "address": "703 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "06/04/2020 - 07:26 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23861,
+    "longitude": -92.03273
+  },
+  {
     "address": "VEROT SCHOOL RD & LA NEUVILLE RD",
     "city": "LAFAYETTE",
     "time": "06/04/2020 - 07:21 AM",
