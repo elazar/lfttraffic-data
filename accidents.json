@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & E LEWIS ST",
+    "city": "LAFAYETTE",
+    "time": "06/04/2020 - 5:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21228,
+    "longitude": -92.02543
+  },
+  {
     "address": "4210 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/04/2020 - 5:27 PM",
@@ -102,13 +110,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23306,
     "longitude": -92.03517
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & SUNSHINE ST",
-    "city": "LAFAYETTE",
-    "time": "06/04/2020 - 4:01 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21759,
-    "longitude": -92.07585
   }
 ]
