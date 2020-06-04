@@ -1,5 +1,13 @@
 [
   {
+    "address": "3200 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/04/2020 - 1:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20355,
+    "longitude": -92.04963
+  },
+  {
     "address": "311 ARNAUDVILLE RD",
     "city": "LAFAYETTE",
     "time": "06/04/2020 - 1:06 PM",
