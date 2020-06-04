@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "4301 N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "06/04/2020 - 08:40 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.31664,
+    "longitude": -92.05142
+  }
+]
