@@ -1,5 +1,13 @@
 [
   {
+    "address": "JEFFERSON ST & LAMAR ST",
+    "city": "LAFAYETTE",
+    "time": "06/04/2020 - 12:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21812,
+    "longitude": -92.01441
+  },
+  {
     "address": "GENERAL MOUTON AV & W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "06/04/2020 - 11:17 AM",
