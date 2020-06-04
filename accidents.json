@@ -1,5 +1,13 @@
 [
   {
+    "address": "155 HOSPITAL DR",
+    "city": "LAFAYETTE",
+    "time": "06/04/2020 - 07:31 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20333,
+    "longitude": -92.02038
+  },
+  {
     "address": "703 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "06/04/2020 - 07:26 AM",
