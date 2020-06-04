@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 FREM BOUSTANY DR",
+    "city": "LAFAYETTE",
+    "time": "06/04/2020 - 5:12 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1500957,
+    "longitude": -92.0403912
+  },
+  {
     "address": "6191 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/04/2020 - 5:08 PM",
