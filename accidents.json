@@ -46,13 +46,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17188,
     "longitude": -92.0808
-  },
-  {
-    "address": "VEROT SCHOOL RD & ARTISAN RD",
-    "city": "LAFAYETTE",
-    "time": "06/04/2020 - 10:55 AM",
-    "due_to": "Vehicle Fire",
-    "latitude": 30.16043,
-    "longitude": -92.02256
   }
 ]
