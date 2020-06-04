@@ -1,5 +1,21 @@
 [
   {
+    "address": "155 HOSPITAL DR",
+    "city": "LAFAYETTE",
+    "time": "06/04/2020 - 4:51 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20333,
+    "longitude": -92.02038
+  },
+  {
+    "address": "NW EVANGELINE TW & HOBSON ST",
+    "city": "LAFAYETTE",
+    "time": "06/04/2020 - 4:51 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.23394,
+    "longitude": -92.01394
+  },
+  {
     "address": "4210 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/04/2020 - 4:26 PM",
