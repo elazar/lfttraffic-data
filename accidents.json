@@ -1,5 +1,13 @@
 [
   {
+    "address": "S COLLEGE RD & BACQUE CRESCENT DR",
+    "city": "LAFAYETTE",
+    "time": "06/04/2020 - 1:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20076,
+    "longitude": -92.02897
+  },
+  {
     "address": "WESTMARK BL & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/04/2020 - 1:43 PM",
