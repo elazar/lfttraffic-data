@@ -1,5 +1,13 @@
 [
   {
+    "address": "3810 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/05/2020 - 4:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16896,
+    "longitude": -92.06457
+  },
+  {
     "address": "120 E GLORIA SWITCH RD",
     "city": "LAFAYETTE",
     "time": "06/05/2020 - 4:08 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24558,
     "longitude": -92.02342
-  },
-  {
-    "address": "NW EVANGELINE TW & E THIRD ST",
-    "city": "LAFAYETTE",
-    "time": "06/05/2020 - 3:57 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2295,
-    "longitude": -92.01298
   },
   {
     "address": "4415 AMBASSADOR CAFFERY PW",
