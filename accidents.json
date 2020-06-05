@@ -1,9 +1,17 @@
 [
   {
+    "address": "CAMERON ST & APOLLO RD",
+    "city": "SCOTT",
+    "time": "06/04/2020 - 11:46 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23485,
+    "longitude": -92.10742
+  },
+  {
     "address": "CAMERON ST & TRAHAN ST",
     "city": "LAFAYETTE",
     "time": "06/04/2020 - 11:00 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
+    "due_to": "Vehicle Accident",
     "latitude": 30.23242,
     "longitude": -92.04157
   }
