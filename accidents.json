@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.14589,
     "longitude": -92.03252
-  },
-  {
-    "address": "521 MALAPART RD",
-    "city": "LAFAYETTE",
-    "time": "06/05/2020 - 10:19 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.29018,
-    "longitude": -92.06784
   }
 ]
