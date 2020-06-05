@@ -3,7 +3,7 @@
     "address": "I10 EASTBOUND MM103A HW & NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "06/05/2020 - 2:10 PM",
-    "due_to": "Incoming Call",
+    "due_to": "Vehicle Fire",
     "latitude": 30.24339,
     "longitude": -92.0133
   },
@@ -30,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21158,
     "longitude": -92.07733
-  },
-  {
-    "address": "NE EVANGELINE TW & E WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "06/05/2020 - 1:18 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24447,
-    "longitude": -92.01187
   },
   {
     "address": "W PINHOOK RD & E KALISTE SALOOM RD",
