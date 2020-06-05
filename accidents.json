@@ -2,18 +2,10 @@
   {
     "address": "212 OXBOW DR",
     "city": "LAFAYETTE",
-    "time": "06/04/2020 - 10:26 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.2537307,
-    "longitude": -92.020399
-  },
-  {
-    "address": "OXBOW DR & OXWELL LN",
-    "city": "LAFAYETTE",
     "time": "06/04/2020 - 10:25 PM",
     "due_to": "Incoming Call",
-    "latitude": 30.25357,
-    "longitude": -92.02059
+    "latitude": 30.2537307,
+    "longitude": -92.020399
   },
   {
     "address": "ORCHID DR & MADELINE AV",
