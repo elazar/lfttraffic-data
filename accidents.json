@@ -1,5 +1,13 @@
 [
   {
+    "address": "903 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "06/05/2020 - 11:51 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24011,
+    "longitude": -92.03313
+  },
+  {
     "address": "US 90 EAST HW & SOUTHPARK RD",
     "city": "LAFAYETTE",
     "time": "06/05/2020 - 11:48 AM",
