@@ -1,5 +1,13 @@
 [
   {
+    "address": "SURREY ST & CHAMPAGNE ST",
+    "city": "LAFAYETTE",
+    "time": "06/05/2020 - 2:04 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22306,
+    "longitude": -91.99746
+  },
+  {
     "address": "3323 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/05/2020 - 1:42 PM",
