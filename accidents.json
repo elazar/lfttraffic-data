@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 THEATRE ST",
+    "city": "LAFAYETTE",
+    "time": "06/05/2020 - 2:43 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.21057,
+    "longitude": -92.0474
+  },
+  {
     "address": "1051 E WILLOW ST",
     "city": "LAFAYETTE",
     "time": "06/05/2020 - 2:33 PM",
