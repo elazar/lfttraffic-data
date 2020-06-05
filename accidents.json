@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 ROSELAWN BL",
+    "city": "LAFAYETTE",
+    "time": "06/05/2020 - 07:56 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.19147,
+    "longitude": -92.0422
+  },
+  {
     "address": "200 CANKTON RD",
     "city": "CARENCRO",
     "time": "06/05/2020 - 07:34 AM",
