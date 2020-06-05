@@ -1,5 +1,21 @@
 [
   {
+    "address": "100 NORMAN ST",
+    "city": "LAFAYETTE",
+    "time": "06/05/2020 - 2:33 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.18823,
+    "longitude": -92.01873
+  },
+  {
+    "address": "100 I10 EASTBOUND MM100 HW",
+    "city": "LAFAYETTE",
+    "time": "06/05/2020 - 2:33 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "3905 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/05/2020 - 2:12 PM",
