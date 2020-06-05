@@ -1,5 +1,13 @@
 [
   {
+    "address": "721 W BUTCHER SWITCH RD",
+    "city": "CARENCRO",
+    "time": "06/05/2020 - 3:03 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.28706,
+    "longitude": -92.04099
+  },
+  {
     "address": "SW EVANGELINE TW & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/05/2020 - 3:02 PM",
@@ -86,13 +94,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22306,
     "longitude": -91.99746
-  },
-  {
-    "address": "3323 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/05/2020 - 1:42 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18095,
-    "longitude": -92.07482
   }
 ]
