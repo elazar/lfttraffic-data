@@ -1,5 +1,13 @@
 [
   {
+    "address": "208 ANNUNCIATION ST",
+    "city": "LAFAYETTE",
+    "time": "06/05/2020 - 1:12 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.17369,
+    "longitude": -92.0379
+  },
+  {
     "address": "800 S BUCHANAN ST",
     "city": "LAFAYETTE",
     "time": "06/05/2020 - 1:07 PM",
