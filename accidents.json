@@ -1,13 +1,5 @@
 [
   {
-    "address": "S MORGAN AV & DUSTIN CL",
-    "city": "BROUSSARD",
-    "time": "06/05/2020 - 5:37 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.13602,
-    "longitude": -91.96516
-  },
-  {
     "address": "STATEN ST & W GILMAN RD",
     "city": "LAFAYETTE",
     "time": "06/05/2020 - 5:35 PM",
@@ -30,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16896,
     "longitude": -92.06457
-  },
-  {
-    "address": "4232 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/05/2020 - 4:08 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15981,
-    "longitude": -92.05452
   },
   {
     "address": "W WILLOW ST & N ST ANTOINE ST",
