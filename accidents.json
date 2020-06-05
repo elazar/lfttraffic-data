@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & E KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "06/05/2020 - 1:17 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1886,
+    "longitude": -92.0141
+  },
+  {
     "address": "800 S BUCHANAN ST",
     "city": "LAFAYETTE",
     "time": "06/05/2020 - 1:07 PM",
