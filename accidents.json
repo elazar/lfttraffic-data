@@ -1,5 +1,13 @@
 [
   {
+    "address": "302 HECTOR CONNOLY RD",
+    "city": "CARENCRO",
+    "time": "06/05/2020 - 11:09 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.32236,
+    "longitude": -92.02765
+  },
+  {
     "address": "2 I49 SOUTHBOUND MM2 HW",
     "city": "LAFAYETTE",
     "time": "06/05/2020 - 11:05 AM",
