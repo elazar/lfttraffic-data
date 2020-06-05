@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "200 CANKTON RD",
+    "city": "CARENCRO",
+    "time": "06/05/2020 - 07:34 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.31728,
+    "longitude": -92.07017
+  }
+]
