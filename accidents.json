@@ -1,5 +1,13 @@
 [
   {
+    "address": "S MORGAN AV & DUSTIN CL",
+    "city": "BROUSSARD",
+    "time": "06/05/2020 - 5:37 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.13602,
+    "longitude": -91.96516
+  },
+  {
     "address": "STATEN ST & W GILMAN RD",
     "city": "LAFAYETTE",
     "time": "06/05/2020 - 5:35 PM",
