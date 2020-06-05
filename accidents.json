@@ -1,5 +1,13 @@
 [
   {
+    "address": "811 HECTOR CONNOLY RD",
+    "city": "LAFAYETTE",
+    "time": "06/05/2020 - 2:57 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.3218,
+    "longitude": -92.01256
+  },
+  {
     "address": "2302 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/05/2020 - 2:56 PM",
@@ -62,14 +70,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18095,
     "longitude": -92.07482
-  },
-  {
-    "address": "2240 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/05/2020 - 1:31 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21158,
-    "longitude": -92.07733
   },
   {
     "address": "W PINHOOK RD & E KALISTE SALOOM RD",
