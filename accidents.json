@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & TRAHAN ST",
+    "city": "LAFAYETTE",
+    "time": "06/04/2020 - 11:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23242,
+    "longitude": -92.04157
+  },
+  {
     "address": "212 OXBOW DR",
     "city": "LAFAYETTE",
     "time": "06/04/2020 - 10:25 PM",
