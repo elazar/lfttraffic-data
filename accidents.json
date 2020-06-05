@@ -1,5 +1,13 @@
 [
   {
+    "address": "4445 RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "06/05/2020 - 09:11 AM",
+    "due_to": "Commercial Fire",
+    "latitude": 30.1831357,
+    "longitude": -92.2221882
+  },
+  {
     "address": "HECTOR CONNOLY RD & WALLACE BROUSSARD RD",
     "city": "CARENCRO",
     "time": "06/05/2020 - 09:04 AM",
