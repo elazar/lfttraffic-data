@@ -1,5 +1,13 @@
 [
   {
+    "address": "2314 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "06/05/2020 - 6:49 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16145,
+    "longitude": -92.04364
+  },
+  {
     "address": "4801 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/05/2020 - 6:10 PM",
