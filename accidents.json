@@ -1,5 +1,21 @@
 [
   {
+    "address": "W CONGRESS ST & MYRTLE PL",
+    "city": "LAFAYETTE",
+    "time": "06/05/2020 - 3:01 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.22489,
+    "longitude": -92.03076
+  },
+  {
+    "address": "AMBASSADOR CAFFERY PW & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "06/05/2020 - 3:01 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.19597,
+    "longitude": -92.07523
+  },
+  {
     "address": "MEADOW FARM RD & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "06/05/2020 - 2:58 PM",
