@@ -1,5 +1,13 @@
 [
   {
+    "address": "314 BRENTWOOD BL",
+    "city": "LAFAYETTE",
+    "time": "06/05/2020 - 3:57 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.19018,
+    "longitude": -92.0498
+  },
+  {
     "address": "100 I10 EASTBOUND MM100 HW",
     "city": "LAFAYETTE",
     "time": "06/05/2020 - 3:46 PM",
