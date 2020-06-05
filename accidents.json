@@ -1,5 +1,21 @@
 [
   {
+    "address": "NE EVANGELINE TW & E THIRD ST",
+    "city": "LAFAYETTE",
+    "time": "06/05/2020 - 3:57 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22987,
+    "longitude": -92.01213
+  },
+  {
+    "address": "NW EVANGELINE TW & E THIRD ST",
+    "city": "LAFAYETTE",
+    "time": "06/05/2020 - 3:57 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2295,
+    "longitude": -92.01298
+  },
+  {
     "address": "314 BRENTWOOD BL",
     "city": "LAFAYETTE",
     "time": "06/05/2020 - 3:57 PM",
