@@ -1,5 +1,13 @@
 [
   {
+    "address": "306 CASE LN",
+    "city": "LAFAYETTE",
+    "time": "06/05/2020 - 08:13 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2042,
+    "longitude": -92.07273
+  },
+  {
     "address": "600 ROSELAWN BL",
     "city": "LAFAYETTE",
     "time": "06/05/2020 - 07:56 AM",
