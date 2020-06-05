@@ -1,5 +1,13 @@
 [
   {
+    "address": "2 I49 SOUTHBOUND MM2 HW",
+    "city": "LAFAYETTE",
+    "time": "06/05/2020 - 11:05 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.28006,
+    "longitude": -92.02024
+  },
+  {
     "address": "6136 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/05/2020 - 10:43 AM",
