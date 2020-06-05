@@ -40,14 +40,6 @@
     "longitude": -92.04675
   },
   {
-    "address": "811 HECTOR CONNOLY RD",
-    "city": "LAFAYETTE",
-    "time": "06/05/2020 - 2:57 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.3218,
-    "longitude": -92.01256
-  },
-  {
     "address": "2302 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/05/2020 - 2:56 PM",
@@ -70,14 +62,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18386,
     "longitude": -92.07546
-  },
-  {
-    "address": "100 I10 EASTBOUND MM100 HW",
-    "city": "LAFAYETTE",
-    "time": "06/05/2020 - 2:33 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.26255,
-    "longitude": -92.00867
   },
   {
     "address": "3905 AMBASSADOR CAFFERY PW",
