@@ -14,21 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21504,
     "longitude": -92.07579
-  },
-  {
-    "address": "3810 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/05/2020 - 4:52 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.16896,
-    "longitude": -92.06457
-  },
-  {
-    "address": "W WILLOW ST & N ST ANTOINE ST",
-    "city": "LAFAYETTE",
-    "time": "06/05/2020 - 4:04 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24558,
-    "longitude": -92.02342
   }
 ]
