@@ -1,5 +1,13 @@
 [
   {
+    "address": "W WILLOW ST & N ST ANTOINE ST",
+    "city": "LAFAYETTE",
+    "time": "06/05/2020 - 4:04 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24558,
+    "longitude": -92.02342
+  },
+  {
     "address": "GUILLIOT RD & PIAT RD",
     "city": "YOUNGSVILLE",
     "time": "06/05/2020 - 4:01 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2295,
     "longitude": -92.01298
-  },
-  {
-    "address": "314 BRENTWOOD BL",
-    "city": "LAFAYETTE",
-    "time": "06/05/2020 - 3:57 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.19018,
-    "longitude": -92.0498
   },
   {
     "address": "6701 AMBASSADOR CAFFERY PW",
