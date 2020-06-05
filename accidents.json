@@ -1,5 +1,13 @@
 [
   {
+    "address": "I10 EASTBOUND MM100 HW & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/05/2020 - 10:30 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.21504,
+    "longitude": -92.07579
+  },
+  {
     "address": "VEROT SCHOOL RD & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/05/2020 - 10:29 AM",
