@@ -1,5 +1,13 @@
 [
   {
+    "address": "WYMAN RD & LA 93 HW",
+    "city": "LAFAYETTE",
+    "time": "06/06/2020 - 09:22 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.27603,
+    "longitude": -92.11231
+  },
+  {
     "address": "200 DESTINATION POINTE LN",
     "city": "SCOTT",
     "time": "06/06/2020 - 08:54 AM",
