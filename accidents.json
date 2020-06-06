@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 MARNE ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2020 - 6:12 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23219,
+    "longitude": -92.00017
+  },
+  {
     "address": "609 HAMMOND RD",
     "city": "LAFAYETTE",
     "time": "06/06/2020 - 6:04 PM",
