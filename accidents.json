@@ -1,5 +1,13 @@
 [
   {
+    "address": "4600 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/05/2020 - 10:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1882451,
+    "longitude": -92.0644104
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & ROBLEY DR",
     "city": "LAFAYETTE",
     "time": "06/05/2020 - 10:10 PM",
