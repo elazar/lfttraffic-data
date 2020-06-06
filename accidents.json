@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & FOREMAN DR",
+    "city": "LAFAYETTE",
+    "time": "06/05/2020 - 10:03 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.20729,
+    "longitude": -92.05656
+  },
+  {
     "address": "700 MILLS ST",
     "city": "SCOTT",
     "time": "06/05/2020 - 9:43 PM",
