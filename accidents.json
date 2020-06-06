@@ -22,21 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16145,
     "longitude": -92.04364
-  },
-  {
-    "address": "4801 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/05/2020 - 6:10 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15051,
-    "longitude": -92.03698
-  },
-  {
-    "address": "1215 CAMELLIA BL",
-    "city": "LAFAYETTE",
-    "time": "06/05/2020 - 6:06 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17207,
-    "longitude": -92.03963
   }
 ]
