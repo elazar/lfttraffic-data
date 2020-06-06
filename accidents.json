@@ -1,5 +1,13 @@
 [
   {
+    "address": "113 TRIWOOD CL",
+    "city": "LAFAYETTE",
+    "time": "06/05/2020 - 10:45 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.16555,
+    "longitude": -92.05593
+  },
+  {
     "address": "JOHNSTON ST & JEFFERSON ST",
     "city": "LAFAYETTE",
     "time": "06/05/2020 - 10:24 PM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1863897,
     "longitude": -92.0663044
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & ROBLEY DR",
-    "city": "LAFAYETTE",
-    "time": "06/05/2020 - 10:10 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17117,
-    "longitude": -92.06617
   }
 ]
