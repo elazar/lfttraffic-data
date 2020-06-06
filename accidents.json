@@ -1,5 +1,13 @@
 [
   {
+    "address": "3636 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/06/2020 - 2:40 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17314,
+    "longitude": -92.0697
+  },
+  {
     "address": "1200 MARTIN LUTHER KING JR DR",
     "city": "LAFAYETTE",
     "time": "06/06/2020 - 2:34 PM",
