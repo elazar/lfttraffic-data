@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1 I49 NORTHBOUND MM1 HW",
+    "city": "LAFAYETTE",
+    "time": "06/06/2020 - 08:51 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.28006,
+    "longitude": -92.02024
+  }
+]
