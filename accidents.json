@@ -1,5 +1,21 @@
 [
   {
+    "address": "NW EVANGELINE TW & E THIRD ST",
+    "city": "LAFAYETTE",
+    "time": "06/05/2020 - 8:54 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2295,
+    "longitude": -92.01298
+  },
+  {
+    "address": "E FOCH ST & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "06/05/2020 - 8:54 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23094,
+    "longitude": -92.00283
+  },
+  {
     "address": "500 W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "06/05/2020 - 8:49 PM",
