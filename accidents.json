@@ -1,19 +1,19 @@
 [
   {
+    "address": "2504 E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2020 - 12:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22273,
+    "longitude": -91.9912
+  },
+  {
     "address": "3500 E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "06/06/2020 - 12:26 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.21706,
     "longitude": -91.9833
-  },
-  {
-    "address": "3806 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/06/2020 - 12:17 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.17072,
-    "longitude": -92.06613
   },
   {
     "address": "CHEMIN METAIRIE PW & GUILLIOT RD",
