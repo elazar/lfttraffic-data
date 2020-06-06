@@ -1,5 +1,13 @@
 [
   {
+    "address": "307 GENEVIEVE DR",
+    "city": "LAFAYETTE",
+    "time": "06/06/2020 - 11:04 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.18222,
+    "longitude": -92.06453
+  },
+  {
     "address": "105 W GLORIA SWITCH RD",
     "city": "LAFAYETTE",
     "time": "06/06/2020 - 09:52 AM",
