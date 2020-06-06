@@ -1,5 +1,13 @@
 [
   {
+    "address": "301 BIRCH DR",
+    "city": "LAFAYETTE",
+    "time": "06/06/2020 - 3:54 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19044,
+    "longitude": -92.0656
+  },
+  {
     "address": "CLINTON ST & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/06/2020 - 3:13 PM",
