@@ -1,5 +1,13 @@
 [
   {
+    "address": "506 HARWELL ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2020 - 02:00 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17759,
+    "longitude": -92.05401
+  },
+  {
     "address": "200 NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "06/06/2020 - 01:36 AM",
