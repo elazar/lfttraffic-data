@@ -1,5 +1,13 @@
 [
   {
+    "address": "500 FOURTEENTH ST",
+    "city": "LAFAYETTE",
+    "time": "06/07/2020 - 05:48 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22179,
+    "longitude": -92.00453
+  },
+  {
     "address": "3001 W WILLOW ST",
     "city": "SCOTT",
     "time": "06/07/2020 - 04:30 AM",
