@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "110 CAJUN ST",
+    "city": "LAFAYETTE",
+    "time": "06/06/2020 - 8:33 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.10704,
+    "longitude": -91.95546
+  }
+]
