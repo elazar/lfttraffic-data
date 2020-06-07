@@ -1,5 +1,13 @@
 [
   {
+    "address": "308 N WASHINGTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/07/2020 - 1:18 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.23685,
+    "longitude": -92.02157
+  },
+  {
     "address": "3803 MOSS ST",
     "city": "LAFAYETTE",
     "time": "06/07/2020 - 12:09 PM",
