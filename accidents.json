@@ -1,5 +1,13 @@
 [
   {
+    "address": "E PINHOOK RD & CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "06/07/2020 - 08:58 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2334,
+    "longitude": -91.9927
+  },
+  {
     "address": "CAMERON ST & ALFRED ST",
     "city": "SCOTT",
     "time": "06/07/2020 - 08:46 AM",
