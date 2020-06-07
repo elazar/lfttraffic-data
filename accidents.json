@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 I10 EB EXIT RAMP HW",
+    "city": "LAFAYETTE",
+    "time": "06/07/2020 - 6:17 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "ERASTE LANDRY RD & WESTGATE RD",
     "city": "SCOTT",
     "time": "06/07/2020 - 6:15 PM",
