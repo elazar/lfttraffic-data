@@ -1,5 +1,13 @@
 [
   {
+    "address": "1422 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/07/2020 - 2:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21494,
+    "longitude": -92.02188
+  },
+  {
     "address": "101 ROBINS NEST LN",
     "city": "LAFAYETTE",
     "time": "06/07/2020 - 2:16 PM",
