@@ -1,5 +1,13 @@
 [
   {
+    "address": "2808 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/08/2020 - 1:09 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20635,
+    "longitude": -92.04036
+  },
+  {
     "address": "116 ALLEY NO 3",
     "city": "LAFAYETTE",
     "time": "06/08/2020 - 1:07 PM",
