@@ -6,5 +6,13 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.25423,
     "longitude": -92.02362
+  },
+  {
+    "address": "N UNIVERSITY AV & LEBESQUE RD",
+    "city": "LAFAYETTE",
+    "time": "06/07/2020 - 7:14 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.27587,
+    "longitude": -92.04949
   }
 ]
