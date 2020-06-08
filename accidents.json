@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "NW FRONTAGE RD & MARTIN LUTHER KING JR DR",
+    "city": "LAFAYETTE",
+    "time": "06/08/2020 - 07:33 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24806,
+    "longitude": -92.01355
+  }
+]
