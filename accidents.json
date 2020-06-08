@@ -1,5 +1,13 @@
 [
   {
+    "address": "307 GENEVIEVE DR",
+    "city": "LAFAYETTE",
+    "time": "06/07/2020 - 8:15 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.18222,
+    "longitude": -92.06453
+  },
+  {
     "address": "SW EVANGELINE TW & E UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "06/07/2020 - 7:59 PM",
