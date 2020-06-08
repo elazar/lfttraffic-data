@@ -1,5 +1,13 @@
 [
   {
+    "address": "1 I49 SOUTHBOUND MM1 HW",
+    "city": "LAFAYETTE",
+    "time": "06/08/2020 - 6:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.28006,
+    "longitude": -92.02024
+  },
+  {
     "address": "2700 NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "06/08/2020 - 6:06 PM",
