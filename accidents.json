@@ -1,5 +1,13 @@
 [
   {
+    "address": "1825 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "06/08/2020 - 2:29 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24164,
+    "longitude": -92.05437
+  },
+  {
     "address": "3155 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "06/08/2020 - 1:59 PM",
