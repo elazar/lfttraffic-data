@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "125 SHANTEL RD",
+    "city": "LAFAYETTE",
+    "time": "06/08/2020 - 09:57 AM",
+    "due_to": "Hazard",
+    "latitude": 30.28081,
+    "longitude": -92.06576
+  }
+]
