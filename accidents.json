@@ -1,5 +1,13 @@
 [
   {
+    "address": "1401 E BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "06/08/2020 - 3:56 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13091,
+    "longitude": -92.05536
+  },
+  {
     "address": "117 TYRONA ST",
     "city": "LAFAYETTE",
     "time": "06/08/2020 - 3:41 PM",
