@@ -1,19 +1,19 @@
 [
   {
+    "address": "WOODRICH LN & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "06/08/2020 - 4:05 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.27023,
+    "longitude": -92.04643
+  },
+  {
     "address": "1401 E BROUSSARD RD",
     "city": "LAFAYETTE",
     "time": "06/08/2020 - 3:56 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.13091,
     "longitude": -92.05536
-  },
-  {
-    "address": "1528 RIDGE RD",
-    "city": "LAFAYETTE",
-    "time": "06/08/2020 - 3:55 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.18172,
-    "longitude": -92.13334
   },
   {
     "address": "DUHON RD & S FIELDSPAN RD",
