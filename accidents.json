@@ -1,5 +1,21 @@
 [
   {
+    "address": "2700 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "06/08/2020 - 4:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2661,
+    "longitude": -92.0166
+  },
+  {
+    "address": "4040 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/08/2020 - 4:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16486,
+    "longitude": -92.05889
+  },
+  {
     "address": "VETERANS DR & NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "06/08/2020 - 4:21 PM",
