@@ -1,5 +1,13 @@
 [
   {
+    "address": "GOLDMAN ST & MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "06/07/2020 - 7:30 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23528,
+    "longitude": -92.00823
+  },
+  {
     "address": "N UNIVERSITY AV & LEBESQUE RD",
     "city": "LAFAYETTE",
     "time": "06/07/2020 - 7:14 PM",
@@ -14,13 +22,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.19364,
     "longitude": -92.0587
-  },
-  {
-    "address": "3000 NW EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "06/07/2020 - 6:24 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2855153,
-    "longitude": -92.022307
   }
 ]
