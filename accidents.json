@@ -1,5 +1,13 @@
 [
   {
+    "address": "218 TWELFTH ST",
+    "city": "LAFAYETTE",
+    "time": "06/08/2020 - 11:47 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.22258,
+    "longitude": -92.00735
+  },
+  {
     "address": "W CONGRESS ST & W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "06/08/2020 - 11:31 AM",
