@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & LEONIE ST",
+    "city": "LAFAYETTE",
+    "time": "06/08/2020 - 5:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20066,
+    "longitude": -92.05464
+  },
+  {
     "address": "W PINHOOK RD & BONIN RD",
     "city": "LAFAYETTE",
     "time": "06/08/2020 - 5:12 PM",
