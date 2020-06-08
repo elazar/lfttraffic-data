@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & LEBESQUE RD",
+    "city": "LAFAYETTE",
+    "time": "06/07/2020 - 7:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27587,
+    "longitude": -92.04949
+  },
+  {
     "address": "JOHNSTON ST & CAMELLIA BL",
     "city": "LAFAYETTE",
     "time": "06/07/2020 - 7:03 PM",
