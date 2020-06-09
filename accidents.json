@@ -1,5 +1,21 @@
 [
   {
+    "address": "300 W MAIN ST",
+    "city": "LAFAYETTE",
+    "time": "06/09/2020 - 12:54 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2230449,
+    "longitude": -92.0209644
+  },
+  {
+    "address": "4232 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/09/2020 - 12:54 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.15981,
+    "longitude": -92.05452
+  },
+  {
     "address": "1300 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "06/09/2020 - 12:53 PM",
