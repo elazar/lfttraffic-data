@@ -8,14 +8,6 @@
     "longitude": -92.070996
   },
   {
-    "address": "RIDGE RD & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/09/2020 - 11:57 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.21504,
-    "longitude": -92.07579
-  },
-  {
     "address": "509 SANDY BAY DR",
     "city": "BROUSSARD",
     "time": "06/09/2020 - 11:52 AM",
@@ -38,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20359,
     "longitude": -92.01679
-  },
-  {
-    "address": "JOHNSTON ST & DOUCET RD",
-    "city": "LAFAYETTE",
-    "time": "06/09/2020 - 11:10 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.20341,
-    "longitude": -92.04888
   },
   {
     "address": "SE EVANGELINE TW & E VEROT SCHOOL RD",
