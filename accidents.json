@@ -1,5 +1,21 @@
 [
   {
+    "address": "4500 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/09/2020 - 3:08 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.19141,
+    "longitude": -92.06196
+  },
+  {
+    "address": "104 I10 WESTBOUND MM104 HW",
+    "city": "LAFAYETTE",
+    "time": "06/09/2020 - 3:08 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "SW EVANGELINE TW & EIGHTH ST",
     "city": "LAFAYETTE",
     "time": "06/09/2020 - 3:04 PM",
