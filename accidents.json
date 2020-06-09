@@ -1,5 +1,13 @@
 [
   {
+    "address": "HECTOR CONNOLY",
+    "city": "Lafayette",
+    "time": "06/09/2020 - 4:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.31911,
+    "longitude": -92.00266
+  },
+  {
     "address": "700 I10 SOUTH FRONTAGE RD",
     "city": "SCOTT",
     "time": "06/09/2020 - 4:03 PM",
