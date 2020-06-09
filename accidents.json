@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & DOUCET RD",
+    "city": "LAFAYETTE",
+    "time": "06/09/2020 - 11:10 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.20341,
+    "longitude": -92.04888
+  },
+  {
     "address": "97 I10 WESTBOUND MM97 HW",
     "city": "LAFAYETTE",
     "time": "06/09/2020 - 11:06 AM",
