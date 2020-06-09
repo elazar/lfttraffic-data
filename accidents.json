@@ -1,5 +1,13 @@
 [
   {
+    "address": "211 LIBERTY AV",
+    "city": "LAFAYETTE",
+    "time": "06/09/2020 - 12:26 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.15928,
+    "longitude": -92.03934
+  },
+  {
     "address": "1100 WILTURNER RD",
     "city": "LAFAYETTE",
     "time": "06/09/2020 - 12:22 PM",
