@@ -1,5 +1,13 @@
 [
   {
+    "address": "RANDOLPH DR & MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "06/09/2020 - 4:00 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24346,
+    "longitude": -92.00643
+  },
+  {
     "address": "3520 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/09/2020 - 3:42 PM",
