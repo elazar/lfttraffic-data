@@ -1,5 +1,13 @@
 [
   {
+    "address": "311 PAUL BREAUX AV",
+    "city": "LAFAYETTE",
+    "time": "06/09/2020 - 07:54 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.24928,
+    "longitude": -92.02724
+  },
+  {
     "address": "701 ST NAZAIRE RD",
     "city": "BROUSSARD",
     "time": "06/09/2020 - 07:41 AM",
