@@ -1,5 +1,13 @@
 [
   {
+    "address": "1503 BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "06/09/2020 - 10:52 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22253,
+    "longitude": -92.05332
+  },
+  {
     "address": "SE EVANGELINE TW & E VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "06/09/2020 - 10:44 AM",
