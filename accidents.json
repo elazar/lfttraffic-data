@@ -1,5 +1,13 @@
 [
   {
+    "address": "500 ENGLISH DR",
+    "city": "LAFAYETTE",
+    "time": "06/08/2020 - 11:32 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.291684,
+    "longitude": -92.095991
+  },
+  {
     "address": "91 TEURLINGS DR",
     "city": "LAFAYETTE",
     "time": "06/08/2020 - 11:16 PM",
