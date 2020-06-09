@@ -1,5 +1,13 @@
 [
   {
+    "address": "207 OAKLEY DR",
+    "city": "LAFAYETTE",
+    "time": "06/09/2020 - 09:17 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.1777,
+    "longitude": -92.02956
+  },
+  {
     "address": "APOLLO RD & BENOIT PATIN RD",
     "city": "SCOTT",
     "time": "06/09/2020 - 09:06 AM",
