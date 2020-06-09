@@ -1,5 +1,13 @@
 [
   {
+    "address": "4201 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "06/09/2020 - 4:40 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.28396,
+    "longitude": -92.00813
+  },
+  {
     "address": "123 ST NAZAIRE RD",
     "city": "BROUSSARD",
     "time": "06/09/2020 - 4:39 PM",
@@ -30,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17657,
     "longitude": -92.07386
-  },
-  {
-    "address": "300 W MAIN ST",
-    "city": "LAFAYETTE",
-    "time": "06/09/2020 - 12:54 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2230449,
-    "longitude": -92.0209644
   }
 ]
