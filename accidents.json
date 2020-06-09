@@ -1,10 +1,18 @@
 [
   {
-    "address": "VEROT SCHOOL RD & FORTUNE RD",
+    "address": "KALISTE SALOOM RD & S BEADLE RD",
     "city": "LAFAYETTE",
-    "time": "06/09/2020 - 10:33 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.12372,
-    "longitude": -92.03243
+    "time": "06/09/2020 - 10:39 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18019,
+    "longitude": -92.02247
+  },
+  {
+    "address": "SW EVANGELINE TW & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/09/2020 - 10:38 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22457,
+    "longitude": -92.01033
   }
 ]
