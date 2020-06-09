@@ -6,13 +6,5 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.15314,
     "longitude": -92.04431
-  },
-  {
-    "address": "100 SHELL LN",
-    "city": "LAFAYETTE",
-    "time": "06/08/2020 - 7:28 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.23906,
-    "longitude": -92.07131
   }
 ]
