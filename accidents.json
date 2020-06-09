@@ -1,5 +1,13 @@
 [
   {
+    "address": "102 FEDERAL ST",
+    "city": "LAFAYETTE",
+    "time": "06/09/2020 - 10:25 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.21816,
+    "longitude": -92.07503
+  },
+  {
     "address": "131 REX ST",
     "city": "LAFAYETTE",
     "time": "06/09/2020 - 10:16 AM",
