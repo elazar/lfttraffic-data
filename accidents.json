@@ -1,18 +1,18 @@
 [
   {
+    "address": "VEROT SCHOOL RD & FORTUNE RD",
+    "city": "LAFAYETTE",
+    "time": "06/09/2020 - 10:33 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.12372,
+    "longitude": -92.03243
+  },
+  {
     "address": "ROBLEY DR & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/09/2020 - 09:39 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.17117,
     "longitude": -92.06617
-  },
-  {
-    "address": "701 ST NAZAIRE RD",
-    "city": "BROUSSARD",
-    "time": "06/09/2020 - 07:41 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.13699,
-    "longitude": -91.93405
   }
 ]
