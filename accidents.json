@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "821 HANKS RD",
+    "city": "LAFAYETTE",
+    "time": "06/09/2020 - 01:42 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.22637,
+    "longitude": -92.17473
+  }
+]
