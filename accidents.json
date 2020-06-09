@@ -1,5 +1,13 @@
 [
   {
+    "address": "ST NAZAIRE RD & US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "06/09/2020 - 5:59 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1406051,
+    "longitude": -91.9448999
+  },
+  {
     "address": "E PINHOOK RD & E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "06/09/2020 - 5:28 PM",
