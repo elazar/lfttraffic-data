@@ -1,5 +1,13 @@
 [
   {
+    "address": "CRESCENT RANCH BL & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/08/2020 - 8:21 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.15314,
+    "longitude": -92.04431
+  },
+  {
     "address": "100 SHELL LN",
     "city": "LAFAYETTE",
     "time": "06/08/2020 - 7:28 PM",
