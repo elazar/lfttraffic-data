@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "address": "4309 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/08/2020 - 7:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19514,
+    "longitude": -92.05659
+  },
+  {
+    "address": "SHELL LN & HEATH DR",
+    "city": "LAFAYETTE",
+    "time": "06/08/2020 - 7:28 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.23935,
+    "longitude": -92.07003
+  }
+]
