@@ -1,5 +1,21 @@
 [
   {
+    "address": "4232 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/09/2020 - 3:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15981,
+    "longitude": -92.05452
+  },
+  {
+    "address": "3142 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/09/2020 - 3:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1873,
+    "longitude": -92.07797
+  },
+  {
     "address": "N WILDERNESS TL & ST FIDELIS ST",
     "city": "LAFAYETTE",
     "time": "06/09/2020 - 3:01 PM",
