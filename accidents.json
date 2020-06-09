@@ -1,5 +1,13 @@
 [
   {
+    "address": "1100 WILTURNER RD",
+    "city": "LAFAYETTE",
+    "time": "06/09/2020 - 12:22 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.12949,
+    "longitude": -92.16201
+  },
+  {
     "address": "4002 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "06/09/2020 - 11:57 AM",
