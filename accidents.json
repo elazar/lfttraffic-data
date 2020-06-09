@@ -1,5 +1,13 @@
 [
   {
+    "address": "1100 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "06/09/2020 - 2:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24542,
+    "longitude": -92.03037
+  },
+  {
     "address": "2602 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/09/2020 - 1:17 PM",
