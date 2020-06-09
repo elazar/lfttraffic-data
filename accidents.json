@@ -1,5 +1,13 @@
 [
   {
+    "address": "3519 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "06/09/2020 - 2:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16204,
+    "longitude": -91.99221
+  },
+  {
     "address": "1100 W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "06/09/2020 - 2:10 PM",
