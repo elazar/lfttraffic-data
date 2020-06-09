@@ -1,5 +1,13 @@
 [
   {
+    "address": "509 SANDY BAY DR",
+    "city": "BROUSSARD",
+    "time": "06/09/2020 - 11:52 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.10958,
+    "longitude": -91.96635
+  },
+  {
     "address": "S BEADLE RD & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "06/09/2020 - 11:49 AM",
