@@ -1,5 +1,13 @@
 [
   {
+    "address": "97 I10 WESTBOUND MM97 HW",
+    "city": "LAFAYETTE",
+    "time": "06/09/2020 - 11:06 AM",
+    "due_to": "Hazard",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "1503 BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "06/09/2020 - 10:52 AM",
