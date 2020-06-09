@@ -1,5 +1,13 @@
 [
   {
+    "address": "103 I10 EASTBOUND MM103A HW",
+    "city": "LAFAYETTE",
+    "time": "06/09/2020 - 3:21 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "4500 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/09/2020 - 3:08 PM",
