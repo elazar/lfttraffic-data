@@ -1,5 +1,21 @@
 [
   {
+    "address": "MILLS ST & I10 HW",
+    "city": "SCOTT",
+    "time": "06/10/2020 - 1:05 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24463,
+    "longitude": -92.09131
+  },
+  {
+    "address": "3700 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/10/2020 - 1:05 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17256,
+    "longitude": -92.06915
+  },
+  {
     "address": "MAURICE ST & SUNNYVALE AV",
     "city": "LAFAYETTE",
     "time": "06/10/2020 - 12:55 PM",
@@ -22,14 +38,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.1986179,
     "longitude": -92.0753949
-  },
-  {
-    "address": "MOSS ST & DONLON AV",
-    "city": "LAFAYETTE",
-    "time": "06/10/2020 - 11:35 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23953,
-    "longitude": -92.0073
   },
   {
     "address": "E GLORIA SWITCH RD & NOTTINGHAM CL",
