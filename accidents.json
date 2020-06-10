@@ -2,6 +2,22 @@
   {
     "address": "202 BRAHMAN DR",
     "city": "YOUNGSVILLE",
+    "time": "06/10/2020 - 10:02 AM",
+    "due_to": "Residential Fire",
+    "latitude": 30.1241,
+    "longitude": -91.99562
+  },
+  {
+    "address": "I49 NORTHBOUND HW & I10 OVERPASS MM103 HW",
+    "city": "LAFAYETTE",
+    "time": "06/10/2020 - 10:02 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
+    "address": "202 BRAHMAN DR",
+    "city": "YOUNGSVILLE",
     "time": "06/10/2020 - 09:58 AM",
     "due_to": "Incoming Call",
     "latitude": 30.1241,
