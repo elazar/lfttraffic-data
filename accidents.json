@@ -1,13 +1,5 @@
 [
   {
-    "address": "W CONGRESS ST & BERTRAND DR",
-    "city": "LAFAYETTE",
-    "time": "06/10/2020 - 3:10 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.21493,
-    "longitude": -92.04696
-  },
-  {
     "address": "NE EVANGELINE TW & E WILLOW ST",
     "city": "LAFAYETTE",
     "time": "06/10/2020 - 2:50 PM",
@@ -56,11 +48,11 @@
     "longitude": -92.00813
   },
   {
-    "address": "NE EVANGELINE TW & E WILLOW ST",
+    "address": "2000 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "06/10/2020 - 1:10 PM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.24447,
-    "longitude": -92.01187
+    "latitude": 30.2489956,
+    "longitude": -92.0126867
   }
 ]
