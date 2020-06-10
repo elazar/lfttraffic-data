@@ -1,5 +1,13 @@
 [
   {
+    "address": "MOULIN RD & ST ETIENNE RD",
+    "city": "BROUSSARD",
+    "time": "06/10/2020 - 08:40 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.13283,
+    "longitude": -91.94767
+  },
+  {
     "address": "314 AUDUBON BL",
     "city": "LAFAYETTE",
     "time": "06/10/2020 - 08:27 AM",
