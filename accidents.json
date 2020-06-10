@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "BRAQUET RD & GENDARME RD",
+    "city": "LAFAYETTE",
+    "time": "06/10/2020 - 06:50 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.35914,
+    "longitude": -92.05815
+  }
+]
