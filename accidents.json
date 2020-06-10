@@ -6,13 +6,5 @@
     "due_to": "Road Hazard",
     "latitude": 30.2085651,
     "longitude": -92.0544117
-  },
-  {
-    "address": "W PINHOOK RD & BENDEL RD",
-    "city": "LAFAYETTE",
-    "time": "06/10/2020 - 07:19 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.19911,
-    "longitude": -92.01641
   }
 ]
