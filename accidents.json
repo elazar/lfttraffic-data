@@ -1,5 +1,13 @@
 [
   {
+    "address": "411 JEFFERSON ST",
+    "city": "LAFAYETTE",
+    "time": "06/09/2020 - 10:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22607,
+    "longitude": -92.01714
+  },
+  {
     "address": "5720 CAMERON ST",
     "city": "SCOTT",
     "time": "06/09/2020 - 9:03 PM",
