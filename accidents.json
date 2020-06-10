@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 GUSTAVE ST",
+    "city": "BROUSSARD",
+    "time": "06/10/2020 - 6:54 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14381,
+    "longitude": -91.95753
+  },
+  {
     "address": "ROBLEY DR & GUIDRY RD",
     "city": "LAFAYETTE",
     "time": "06/10/2020 - 6:31 PM",
