@@ -2,7 +2,7 @@
   {
     "address": "AMBASSADOR CAFFERY PW & VEROT SCHOOL RD",
     "city": "LAFAYETTE",
-    "time": "06/10/2020 - 10:37 AM",
+    "time": "06/10/2020 - 10:39 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.14589,
     "longitude": -92.03252
@@ -48,11 +48,11 @@
     "longitude": -91.99562
   },
   {
-    "address": "5593 JOHNSTON ST",
+    "address": "5600 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/10/2020 - 09:52 AM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.1785953,
-    "longitude": -92.0738257
+    "latitude": 30.1778133,
+    "longitude": -92.0751405
   }
 ]
