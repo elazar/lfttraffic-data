@@ -1,19 +1,19 @@
 [
   {
+    "address": "2106 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "06/10/2020 - 10:16 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25257,
+    "longitude": -92.01327
+  },
+  {
     "address": "237 DOUCET RD",
     "city": "LAFAYETTE",
     "time": "06/10/2020 - 10:15 AM",
     "due_to": "Commercial Fire",
     "latitude": 30.20046,
     "longitude": -92.0449
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & I10 HW",
-    "city": "LAFAYETTE",
-    "time": "06/10/2020 - 10:08 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.21504,
-    "longitude": -92.07579
   },
   {
     "address": "I49 NORTHBOUND HW & I10 OVERPASS MM103 HW",
