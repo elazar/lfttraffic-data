@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "100 TIGER CT",
+    "city": "BROUSSARD",
+    "time": "06/10/2020 - 03:45 AM",
+    "due_to": "Fire Investigation",
+    "latitude": null,
+    "longitude": null
+  }
+]
