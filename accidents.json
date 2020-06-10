@@ -24,14 +24,6 @@
     "longitude": -92.01261
   },
   {
-    "address": "200 LAJAUNIE RD",
-    "city": "LAFAYETTE",
-    "time": "06/10/2020 - 10:55 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2483616,
-    "longitude": -91.9845514
-  },
-  {
     "address": "E GLORIA SWITCH RD & NOTTINGHAM CL",
     "city": "LAFAYETTE",
     "time": "06/10/2020 - 10:43 AM",
@@ -54,14 +46,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.34824,
     "longitude": -92.04415
-  },
-  {
-    "address": "2106 NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "06/10/2020 - 10:16 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.25257,
-    "longitude": -92.01327
   },
   {
     "address": "I49 NORTHBOUND HW & I10 OVERPASS MM103 HW",
