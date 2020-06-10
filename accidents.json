@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "7221 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "06/09/2020 - 7:42 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.19123,
+    "longitude": -92.16393
+  }
+]
