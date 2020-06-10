@@ -1,5 +1,21 @@
 [
   {
+    "address": "LOUISIANA AV & MUDD AV",
+    "city": "LAFAYETTE",
+    "time": "06/10/2020 - 2:48 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23174,
+    "longitude": -92.0027
+  },
+  {
+    "address": "301 DOUCET RD",
+    "city": "LAFAYETTE",
+    "time": "06/10/2020 - 2:48 PM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.20032,
+    "longitude": -92.04365
+  },
+  {
     "address": "98 I10 EASTBOUND MM98 HW",
     "city": "SCOTT",
     "time": "06/10/2020 - 2:44 PM",
@@ -30,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.26669,
     "longitude": -92.00813
-  },
-  {
-    "address": "VERDUN ST & HAIG ST",
-    "city": "LAFAYETTE",
-    "time": "06/10/2020 - 1:40 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.23345,
-    "longitude": -92.00129
   },
   {
     "address": "NE EVANGELINE TW & E WILLOW ST",
