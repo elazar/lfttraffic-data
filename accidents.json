@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "100 GUILBEAU RD",
+    "city": "LAFAYETTE",
+    "time": "06/09/2020 - 8:04 PM",
+    "due_to": "Commercial Fire",
+    "latitude": 30.1939442,
+    "longitude": -92.058637
+  }
+]
