@@ -1,5 +1,13 @@
 [
   {
+    "address": "MOSS ST & DONLON AV",
+    "city": "LAFAYETTE",
+    "time": "06/10/2020 - 11:35 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23953,
+    "longitude": -92.0073
+  },
+  {
     "address": "NE EVANGELINE TW & E GLORIA SWITCH RD",
     "city": "LAFAYETTE",
     "time": "06/10/2020 - 11:28 AM",
