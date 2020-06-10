@@ -1,5 +1,13 @@
 [
   {
+    "address": "122 W PINE ST",
+    "city": "LAFAYETTE",
+    "time": "06/10/2020 - 07:41 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.2461,
+    "longitude": -92.00813
+  },
+  {
     "address": "2720 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "06/10/2020 - 07:41 AM",
