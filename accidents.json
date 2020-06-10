@@ -8,12 +8,12 @@
     "longitude": -92.04838
   },
   {
-    "address": "NE EVANGELINE TW & E WILLOW ST",
+    "address": "100 W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "06/10/2020 - 2:50 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.24447,
-    "longitude": -92.01187
+    "latitude": 30.2451239,
+    "longitude": -92.0146282
   },
   {
     "address": "LOUISIANA AV & MUDD AV",
@@ -22,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23174,
     "longitude": -92.0027
-  },
-  {
-    "address": "FEU FOLLET RD & KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "06/10/2020 - 2:43 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18289,
-    "longitude": -92.01725
   },
   {
     "address": "MOSS ST & MORELAN DR",
