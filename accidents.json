@@ -1,5 +1,13 @@
 [
   {
+    "address": "132 ODESSA RD",
+    "city": "LAFAYETTE",
+    "time": "06/10/2020 - 1:16 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13461,
+    "longitude": -92.15055
+  },
+  {
     "address": "NE EVANGELINE TW & E WILLOW ST",
     "city": "LAFAYETTE",
     "time": "06/10/2020 - 1:10 PM",
