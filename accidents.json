@@ -1,5 +1,13 @@
 [
   {
+    "address": "MOSS ST & MORELAN DR",
+    "city": "LAFAYETTE",
+    "time": "06/10/2020 - 1:57 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26669,
+    "longitude": -92.00813
+  },
+  {
     "address": "VERDUN ST & HAIG ST",
     "city": "LAFAYETTE",
     "time": "06/10/2020 - 1:40 PM",
