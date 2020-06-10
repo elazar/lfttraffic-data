@@ -1,5 +1,21 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "06/10/2020 - 11:27 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15649,
+    "longitude": -92.04838
+  },
+  {
+    "address": "W PINHOOK RD & JAMES COMEAUX RD",
+    "city": "LAFAYETTE",
+    "time": "06/10/2020 - 11:27 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18738,
+    "longitude": -92.01261
+  },
+  {
     "address": "200 LAJAUNIE RD",
     "city": "LAFAYETTE",
     "time": "06/10/2020 - 10:55 AM",
