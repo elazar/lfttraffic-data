@@ -1,5 +1,13 @@
 [
   {
+    "address": "1527 WESTGATE RD",
+    "city": "SCOTT",
+    "time": "06/11/2020 - 5:34 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21166,
+    "longitude": -92.08683
+  },
+  {
     "address": "1206 ALBERTSON PW",
     "city": "BROUSSARD",
     "time": "06/11/2020 - 5:30 PM",
