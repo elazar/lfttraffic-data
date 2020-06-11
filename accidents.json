@@ -1,5 +1,13 @@
 [
   {
+    "address": "3600 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/11/2020 - 2:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17443,
+    "longitude": -92.07092
+  },
+  {
     "address": "BERTRAND DR & DULLES DR",
     "city": "LAFAYETTE",
     "time": "06/11/2020 - 1:26 PM",
