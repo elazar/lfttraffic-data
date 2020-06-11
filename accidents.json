@@ -24,27 +24,11 @@
     "longitude": -91.97193
   },
   {
-    "address": "AMBASSADOR CAFFERY PW & KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "06/11/2020 - 4:15 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15649,
-    "longitude": -92.04838
-  },
-  {
     "address": "100 WILD CHERRY LN",
     "city": "LAFAYETTE",
     "time": "06/11/2020 - 4:13 PM",
     "due_to": "Fire Investigation",
     "latitude": 30.2190081,
     "longitude": -92.0214861
-  },
-  {
-    "address": "E PINHOOK RD & SURREY ST",
-    "city": "LAFAYETTE",
-    "time": "06/11/2020 - 4:05 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2236,
-    "longitude": -91.99821
   }
 ]
