@@ -46,13 +46,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.26255,
     "longitude": -92.00867
-  },
-  {
-    "address": "2000 RIDGE RD",
-    "city": "LAFAYETTE",
-    "time": "06/11/2020 - 1:20 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.1813049,
-    "longitude": -92.142405
   }
 ]
