@@ -1,5 +1,13 @@
 [
   {
+    "address": "BERTRAND DR & DULLES DR",
+    "city": "LAFAYETTE",
+    "time": "06/11/2020 - 1:26 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.22233,
+    "longitude": -92.05213
+  },
+  {
     "address": "102 I10 EASTBOUND MM102 HW",
     "city": "LAFAYETTE",
     "time": "06/11/2020 - 1:22 PM",
