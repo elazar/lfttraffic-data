@@ -1,5 +1,21 @@
 [
   {
+    "address": "1617 SURREY ST",
+    "city": "LAFAYETTE",
+    "time": "06/11/2020 - 11:47 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21467,
+    "longitude": -91.99173
+  },
+  {
+    "address": "SURREY ST & GRISSOM DR",
+    "city": "LAFAYETTE",
+    "time": "06/11/2020 - 11:47 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.21521,
+    "longitude": -91.99262
+  },
+  {
     "address": "S MORGAN AV & ALBERTSON PW",
     "city": "BROUSSARD",
     "time": "06/11/2020 - 11:21 AM",
