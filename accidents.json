@@ -1,18 +1,10 @@
 [
   {
-    "address": "304 DUSON ST",
-    "city": "LAFAYETTE",
+    "address": "300 FOURTH ST",
+    "city": "DUSON",
     "time": "06/11/2020 - 07:02 AM",
-    "due_to": "Incoming Call",
-    "latitude": 30.23026,
-    "longitude": -92.04451
-  },
-  {
-    "address": "3525 N UNIVERSITY AV",
-    "city": "CARENCRO",
-    "time": "06/11/2020 - 06:26 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.29592,
-    "longitude": -92.05
+    "due_to": "Residential Fire",
+    "latitude": 30.2381351,
+    "longitude": -92.1824195
   }
 ]
