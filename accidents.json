@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "MIMOSA PL & PARIS ST",
+    "city": "LAFAYETTE",
+    "time": "06/11/2020 - 03:01 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20702,
+    "longitude": -92.06534
+  }
+]
