@@ -1,5 +1,13 @@
 [
   {
+    "address": "221 ST NICHOLAS DR",
+    "city": "LAFAYETTE",
+    "time": "06/11/2020 - 08:36 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.20015,
+    "longitude": -92.08034
+  },
+  {
     "address": "S COLLEGE RD & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/11/2020 - 08:30 AM",
