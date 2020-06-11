@@ -1,5 +1,13 @@
 [
   {
+    "address": "2000 RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "06/11/2020 - 1:20 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1813049,
+    "longitude": -92.142405
+  },
+  {
     "address": "ERASTE LANDRY RD & WESTGATE RD",
     "city": "SCOTT",
     "time": "06/11/2020 - 1:17 PM",
