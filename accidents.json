@@ -1,5 +1,13 @@
 [
   {
+    "address": "101 BENOIT FALGOUT DR",
+    "city": "LAFAYETTE",
+    "time": "06/11/2020 - 5:46 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.25735,
+    "longitude": -92.0186
+  },
+  {
     "address": "1527 WESTGATE RD",
     "city": "SCOTT",
     "time": "06/11/2020 - 5:34 PM",
