@@ -1,5 +1,13 @@
 [
   {
+    "address": "117 S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "06/11/2020 - 09:52 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.20541,
+    "longitude": -92.03548
+  },
+  {
     "address": "S COLLEGE RD & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/11/2020 - 08:30 AM",
