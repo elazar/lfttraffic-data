@@ -1,5 +1,13 @@
 [
   {
+    "address": "PICARD RD & HOMEWOOD DR",
+    "city": "LAFAYETTE",
+    "time": "06/11/2020 - 4:13 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.1168,
+    "longitude": -92.07659
+  },
+  {
     "address": "E PINHOOK RD & SURREY ST",
     "city": "LAFAYETTE",
     "time": "06/11/2020 - 4:05 PM",
