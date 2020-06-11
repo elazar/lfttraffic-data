@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 W BAYOU PW",
+    "city": "LAFAYETTE",
+    "time": "06/11/2020 - 07:30 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.193,
+    "longitude": -92.03108
+  },
+  {
     "address": "GENERAL MOUTON AV & E UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "06/11/2020 - 07:23 AM",
