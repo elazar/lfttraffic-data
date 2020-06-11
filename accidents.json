@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.25511,
     "longitude": -91.99944
-  },
-  {
-    "address": "SURREY ST & GRISSOM DR",
-    "city": "LAFAYETTE",
-    "time": "06/11/2020 - 11:47 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.21521,
-    "longitude": -91.99262
   }
 ]
