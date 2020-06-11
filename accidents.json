@@ -1,5 +1,13 @@
 [
   {
+    "address": "E ALEXANDER ST & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "06/11/2020 - 12:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25511,
+    "longitude": -91.99944
+  },
+  {
     "address": "102 SWEETLAND AV",
     "city": "BROUSSARD",
     "time": "06/11/2020 - 12:04 PM",
