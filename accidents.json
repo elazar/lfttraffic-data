@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "3525 N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "06/11/2020 - 06:26 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.29592,
+    "longitude": -92.05
+  }
+]
