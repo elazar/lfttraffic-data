@@ -1,11 +1,11 @@
 [
   {
-    "address": "920 KALISTE SALOOM RD",
+    "address": "1920 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "06/11/2020 - 12:54 PM",
     "due_to": "Stalled Vehicle",
-    "latitude": 30.1802,
-    "longitude": -92.02384
+    "latitude": 30.168,
+    "longitude": -92.03614
   },
   {
     "address": "E ALEXANDER ST & LOUISIANA AV",
@@ -22,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18677,
     "longitude": -92.0132
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & ROBLEY DR",
-    "city": "LAFAYETTE",
-    "time": "06/11/2020 - 11:53 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.17117,
-    "longitude": -92.06617
   },
   {
     "address": "SURREY ST & GRISSOM DR",
