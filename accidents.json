@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 DESTINATION POINTE LN",
+    "city": "SCOTT",
+    "time": "06/12/2020 - 3:09 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2512,
+    "longitude": -92.10951
+  },
+  {
     "address": "411 N ST ANTOINE ST",
     "city": "LAFAYETTE",
     "time": "06/12/2020 - 3:07 PM",
