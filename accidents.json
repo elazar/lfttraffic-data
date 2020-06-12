@@ -1,5 +1,13 @@
 [
   {
+    "address": "BRADFORD DR & MOROCCO ST",
+    "city": "CARENCRO",
+    "time": "06/12/2020 - 12:44 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.31805,
+    "longitude": -92.05645
+  },
+  {
     "address": "101 BACON LN",
     "city": "LAFAYETTE",
     "time": "06/12/2020 - 12:41 PM",
@@ -22,14 +30,6 @@
     "due_to": "Fire Investigation",
     "latitude": 30.1908249,
     "longitude": -92.1457205
-  },
-  {
-    "address": "400 E WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "06/12/2020 - 12:09 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24378,
-    "longitude": -92.00441
   },
   {
     "address": "205 VENNARD AV",
