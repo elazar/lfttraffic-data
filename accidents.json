@@ -1,5 +1,13 @@
 [
   {
+    "address": "ST GEORGE ST & ST JULIEN AV",
+    "city": "LAFAYETTE",
+    "time": "06/12/2020 - 6:09 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21309,
+    "longitude": -92.02812
+  },
+  {
     "address": "316 W MAIN ST",
     "city": "LAFAYETTE",
     "time": "06/12/2020 - 6:00 PM",
