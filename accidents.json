@@ -3,7 +3,7 @@
     "address": "216 GUIDRY ST",
     "city": "LAFAYETTE",
     "time": "06/11/2020 - 9:06 PM",
-    "due_to": "Incoming Call",
+    "due_to": "Fire Investigation",
     "latitude": 30.21668,
     "longitude": -92.00762
   },
@@ -22,13 +22,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.16391,
     "longitude": -92.07503
-  },
-  {
-    "address": "134 SHANNON RD",
-    "city": "LAFAYETTE",
-    "time": "06/11/2020 - 8:28 PM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.19402,
-    "longitude": -92.03166
   }
 ]
