@@ -1,5 +1,21 @@
 [
   {
+    "address": "101 BACON LN",
+    "city": "LAFAYETTE",
+    "time": "06/12/2020 - 12:41 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.32869,
+    "longitude": -92.01422
+  },
+  {
+    "address": "3806 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/12/2020 - 12:41 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.17072,
+    "longitude": -92.06613
+  },
+  {
     "address": "5530 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/12/2020 - 12:36 PM",
