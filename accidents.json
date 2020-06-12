@@ -1,5 +1,13 @@
 [
   {
+    "address": "MOSS ST & E WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "06/12/2020 - 12:09 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24378,
+    "longitude": -92.00638
+  },
+  {
     "address": "205 VENNARD AV",
     "city": "LAFAYETTE",
     "time": "06/12/2020 - 11:54 AM",
