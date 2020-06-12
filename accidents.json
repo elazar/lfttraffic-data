@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "MOSS ST & E PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "06/11/2020 - 11:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27304,
+    "longitude": -92.00812
+  }
+]
