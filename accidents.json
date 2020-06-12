@@ -1,5 +1,13 @@
 [
   {
+    "address": "633 E ALEXANDER ST",
+    "city": "LAFAYETTE",
+    "time": "06/12/2020 - 6:21 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2549455,
+    "longitude": -91.9967785
+  },
+  {
     "address": "3222 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/12/2020 - 6:12 PM",
