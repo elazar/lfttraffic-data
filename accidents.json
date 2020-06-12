@@ -6,13 +6,5 @@
     "due_to": "Fire Alarm-Residential",
     "latitude": 30.19402,
     "longitude": -92.03166
-  },
-  {
-    "address": "BELLE FONTAINE DR & N WILLIAM DR",
-    "city": "LAFAYETTE",
-    "time": "06/11/2020 - 7:10 PM",
-    "due_to": "Commercial Fire",
-    "latitude": 30.18814,
-    "longitude": -92.06775
   }
 ]
