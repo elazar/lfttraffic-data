@@ -1,5 +1,13 @@
 [
   {
+    "address": "BELLE FONTAINE DR & N WILLIAM DR",
+    "city": "LAFAYETTE",
+    "time": "06/11/2020 - 7:10 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.18814,
+    "longitude": -92.06775
+  },
+  {
     "address": "4415 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/11/2020 - 6:57 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.21482,
     "longitude": -92.08699
-  },
-  {
-    "address": "ASHFORD LN & CHEMIN METAIRIE",
-    "city": "LAFAYETTE",
-    "time": "06/11/2020 - 6:19 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.11758,
-    "longitude": -92.01569
   },
   {
     "address": "3300 LOUISIANA AV",
