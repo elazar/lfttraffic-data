@@ -1,5 +1,13 @@
 [
   {
+    "address": "1127 N ST ANTOINE ST",
+    "city": "LAFAYETTE",
+    "time": "06/12/2020 - 4:25 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24354,
+    "longitude": -92.02396
+  },
+  {
     "address": "S BERNARD RD & W MAIN ST",
     "city": "BROUSSARD",
     "time": "06/12/2020 - 4:25 PM",
