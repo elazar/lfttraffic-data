@@ -1,5 +1,13 @@
 [
   {
+    "address": "150 RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "06/12/2020 - 3:49 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18173,
+    "longitude": -92.0739
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & S BERNARD RD",
     "city": "BROUSSARD",
     "time": "06/12/2020 - 3:47 PM",
