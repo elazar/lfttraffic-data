@@ -1,5 +1,13 @@
 [
   {
+    "address": "1103 JEFFERSON ST",
+    "city": "LAFAYETTE",
+    "time": "06/12/2020 - 3:12 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22017,
+    "longitude": -92.01681
+  },
+  {
     "address": "200 DESTINATION POINTE LN",
     "city": "SCOTT",
     "time": "06/12/2020 - 3:09 PM",
