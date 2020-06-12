@@ -1,5 +1,13 @@
 [
   {
+    "address": "CASTILLE AV & MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "06/12/2020 - 2:09 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24822,
+    "longitude": -92.00593
+  },
+  {
     "address": "US 90 EAST HW & N GIROUARD RD",
     "city": "BROUSSARD",
     "time": "06/12/2020 - 2:04 PM",
