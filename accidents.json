@@ -1,5 +1,13 @@
 [
   {
+    "address": "S COLLEGE RD & HORSESHOE DR",
+    "city": "LAFAYETTE",
+    "time": "06/12/2020 - 12:04 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20241,
+    "longitude": -92.03168
+  },
+  {
     "address": "MOSS ST & E PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "06/11/2020 - 11:30 PM",
