@@ -1,5 +1,13 @@
 [
   {
+    "address": "102 OFFORD ST",
+    "city": "SCOTT",
+    "time": "06/12/2020 - 10:55 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23185,
+    "longitude": -92.08611
+  },
+  {
     "address": "503 BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "06/12/2020 - 10:51 AM",
