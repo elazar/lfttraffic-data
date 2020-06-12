@@ -27,7 +27,7 @@
     "address": "150 RIDGE RD",
     "city": "LAFAYETTE",
     "time": "06/12/2020 - 3:49 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.18173,
     "longitude": -92.0739
   },
@@ -78,13 +78,5 @@
     "due_to": "Fire Investigation",
     "latitude": 30.23751,
     "longitude": -92.02511
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & RIDGE RD",
-    "city": "LAFAYETTE",
-    "time": "06/12/2020 - 2:53 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21504,
-    "longitude": -92.07579
   }
 ]
