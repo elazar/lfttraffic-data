@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & WECO LN",
+    "city": "BROUSSARD",
+    "time": "06/12/2020 - 10:39 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.09954,
+    "longitude": -91.94328
+  },
+  {
     "address": "KALISTE SALOOM RD & RUE LOUIS XIV",
     "city": "LAFAYETTE",
     "time": "06/12/2020 - 10:38 AM",
