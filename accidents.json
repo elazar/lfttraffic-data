@@ -1,3 +1,10 @@
 [
-  null
+  {
+    "address": "102 I10 WESTBOUND MM102 HW",
+    "city": "LAFAYETTE",
+    "time": "06/12/2020 - 09:04 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  }
 ]
