@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & GLOUCHESTER RD",
+    "city": "LAFAYETTE",
+    "time": "06/11/2020 - 9:23 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1883,
+    "longitude": -92.06416
+  },
+  {
     "address": "105 I10 WESTBOUND MM105 HW",
     "city": "LAFAYETTE",
     "time": "06/11/2020 - 9:19 PM",
