@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "HECTOR CONNOLY RD & NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "06/12/2020 - 03:52 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.32261,
+    "longitude": -92.0325
+  }
+]
