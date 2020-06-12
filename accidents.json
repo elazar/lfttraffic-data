@@ -1,5 +1,13 @@
 [
   {
+    "address": "AYRESHIRE DR & BRENTWOOD BL",
+    "city": "LAFAYETTE",
+    "time": "06/12/2020 - 4:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18795,
+    "longitude": -92.04651
+  },
+  {
     "address": "512 BRAQUET RD",
     "city": "LAFAYETTE",
     "time": "06/12/2020 - 4:40 PM",
