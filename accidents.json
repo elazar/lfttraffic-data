@@ -32,12 +32,12 @@
     "longitude": -92.01618
   },
   {
-    "address": "1065 N UNIVERSITY AV",
+    "address": "1251 W GILMAN RD",
     "city": "LAFAYETTE",
     "time": "06/12/2020 - 4:06 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.24283,
-    "longitude": -92.0335
+    "latitude": 30.242816,
+    "longitude": -92.0317783
   },
   {
     "address": "NW EVANGELINE TW & E SIMCOE ST",
@@ -46,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23107,
     "longitude": -92.0138
-  },
-  {
-    "address": "219 CONSTITUTION DR",
-    "city": "LAFAYETTE",
-    "time": "06/12/2020 - 3:56 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.13475,
-    "longitude": -92.097
   },
   {
     "address": "150 RIDGE RD",
