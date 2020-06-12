@@ -1,26 +1,5 @@
 [
-  {
-    "address": "203 WESTGATE RD",
-    "city": "SCOTT",
-    "time": "06/12/2020 - 10:55 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23107,
-    "longitude": -92.08656
-  },
-  {
-    "address": "503 BERTRAND DR",
-    "city": "LAFAYETTE",
-    "time": "06/12/2020 - 10:51 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21095,
-    "longitude": -92.04486
-  },
-  {
-    "address": "KALISTE SALOOM RD & RUE LOUIS XIV",
-    "city": "LAFAYETTE",
-    "time": "06/12/2020 - 10:38 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.17285,
-    "longitude": -92.02989
-  }
+  null,
+  null,
+  null
 ]
