@@ -1,5 +1,13 @@
 [
   {
+    "address": "503 BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "06/12/2020 - 10:51 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21095,
+    "longitude": -92.04486
+  },
+  {
     "address": "US 90 EAST HW & WECO LN",
     "city": "BROUSSARD",
     "time": "06/12/2020 - 10:39 AM",
