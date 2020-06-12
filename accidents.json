@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17942,
     "longitude": -92.07401
-  },
-  {
-    "address": "200 RAY PARDUE RD",
-    "city": "LAFAYETTE",
-    "time": "06/12/2020 - 12:31 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.1908249,
-    "longitude": -92.1457205
   }
 ]
