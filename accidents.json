@@ -1,5 +1,13 @@
 [
   {
+    "address": "MALAPART RD & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "06/12/2020 - 11:37 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.2905,
+    "longitude": -92.04991
+  },
+  {
     "address": "200 ENGLEWOOD DR",
     "city": "LAFAYETTE",
     "time": "06/12/2020 - 11:36 AM",
