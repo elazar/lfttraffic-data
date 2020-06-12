@@ -32,27 +32,11 @@
     "longitude": -92.07616
   },
   {
-    "address": "3300 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "06/12/2020 - 2:13 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20323,
-    "longitude": -92.05097
-  },
-  {
     "address": "CASTILLE AV & MOSS ST",
     "city": "LAFAYETTE",
     "time": "06/12/2020 - 2:09 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.24822,
     "longitude": -92.00593
-  },
-  {
-    "address": "RENA DR & AYRESHIRE DR",
-    "city": "LAFAYETTE",
-    "time": "06/12/2020 - 2:00 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18646,
-    "longitude": -92.04808
   }
 ]
