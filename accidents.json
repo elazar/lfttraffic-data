@@ -1,5 +1,13 @@
 [
   {
+    "address": "1000 ROBLEY DR",
+    "city": "LAFAYETTE",
+    "time": "06/12/2020 - 09:54 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.16852,
+    "longitude": -92.07057
+  },
+  {
     "address": "100 E VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "06/12/2020 - 09:50 AM",
