@@ -1,5 +1,13 @@
 [
   {
+    "address": "109 SANTA CRUZ DR",
+    "city": "LAFAYETTE",
+    "time": "06/12/2020 - 1:06 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.1374,
+    "longitude": -92.09112
+  },
+  {
     "address": "3559 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/12/2020 - 12:57 PM",
@@ -30,13 +38,5 @@
     "due_to": "Fire Investigation",
     "latitude": 30.1908249,
     "longitude": -92.1457205
-  },
-  {
-    "address": "205 VENNARD AV",
-    "city": "LAFAYETTE",
-    "time": "06/12/2020 - 11:54 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2203,
-    "longitude": -91.98394
   }
 ]
