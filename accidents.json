@@ -1,5 +1,13 @@
 [
   {
+    "address": "3600 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/12/2020 - 2:50 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.17443,
+    "longitude": -92.07092
+  },
+  {
     "address": "2256 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/12/2020 - 2:44 PM",
