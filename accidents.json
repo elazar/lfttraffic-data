@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": null,
     "longitude": null
-  },
-  {
-    "address": "200 FEU FOLLET RD",
-    "city": "LAFAYETTE",
-    "time": "06/12/2020 - 02:05 AM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.18077,
-    "longitude": -92.01613
   }
 ]
