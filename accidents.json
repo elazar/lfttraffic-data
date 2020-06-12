@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & JOMELA DR",
+    "city": "LAFAYETTE",
+    "time": "06/12/2020 - 4:23 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19961,
+    "longitude": -92.01618
+  },
+  {
     "address": "1065 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "06/12/2020 - 4:06 PM",
