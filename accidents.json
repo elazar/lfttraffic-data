@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 RAY PARDUE RD",
+    "city": "LAFAYETTE",
+    "time": "06/12/2020 - 12:31 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.1908249,
+    "longitude": -92.1457205
+  },
+  {
     "address": "400 E WILLOW ST",
     "city": "LAFAYETTE",
     "time": "06/12/2020 - 12:09 PM",
