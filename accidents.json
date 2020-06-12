@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "06/12/2020 - 3:28 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.20727,
+    "longitude": -92.03836
+  },
+  {
     "address": "201 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/12/2020 - 3:13 PM",
@@ -8,12 +16,12 @@
     "longitude": -92.06573
   },
   {
-    "address": "800 JOHNSTON ST",
+    "address": "815 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/12/2020 - 3:12 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.2212008,
-    "longitude": -92.0166616
+    "latitude": 30.22085,
+    "longitude": -92.01644
   },
   {
     "address": "200 DESTINATION POINTE LN",
@@ -46,13 +54,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21125,
     "longitude": -92.07616
-  },
-  {
-    "address": "CASTILLE AV & MOSS ST",
-    "city": "LAFAYETTE",
-    "time": "06/12/2020 - 2:09 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24822,
-    "longitude": -92.00593
   }
 ]
