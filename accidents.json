@@ -1,5 +1,13 @@
 [
   {
+    "address": "ROBLEY DR & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/12/2020 - 07:38 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.17117,
+    "longitude": -92.06617
+  },
+  {
     "address": "160 E LEWIS ST",
     "city": "LAFAYETTE",
     "time": "06/12/2020 - 07:33 AM",
