@@ -1,5 +1,13 @@
 [
   {
+    "address": "KALISTE SALOOM RD & RUE LOUIS XIV",
+    "city": "LAFAYETTE",
+    "time": "06/12/2020 - 11:10 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17285,
+    "longitude": -92.02989
+  },
+  {
     "address": "203 WESTGATE RD",
     "city": "SCOTT",
     "time": "06/12/2020 - 10:55 AM",
