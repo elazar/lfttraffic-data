@@ -1,19 +1,19 @@
 [
   {
+    "address": "3806 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/13/2020 - 1:20 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.17072,
+    "longitude": -92.06613
+  },
+  {
     "address": "3810 NE EVANGELINE TW",
     "city": "CARENCRO",
     "time": "06/13/2020 - 1:09 PM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.31876,
     "longitude": -92.03205
-  },
-  {
-    "address": "4310 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/13/2020 - 12:05 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15773,
-    "longitude": -92.05211
   },
   {
     "address": "W PINHOOK RD & BEAU PRE RD",
