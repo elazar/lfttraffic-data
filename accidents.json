@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOLI RD & MARDI GRAS RD",
+    "city": "LAFAYETTE",
+    "time": "06/13/2020 - 4:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.32845,
+    "longitude": -92.0748
+  },
+  {
     "address": "123 ST NAZAIRE RD",
     "city": "BROUSSARD",
     "time": "06/13/2020 - 3:56 PM",
