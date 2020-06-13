@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & BEAU PRE RD",
+    "city": "LAFAYETTE",
+    "time": "06/13/2020 - 12:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16563,
+    "longitude": -91.99797
+  },
+  {
     "address": "119 ARIZONA ST",
     "city": "LAFAYETTE",
     "time": "06/13/2020 - 11:45 AM",
