@@ -1,5 +1,21 @@
 [
   {
+    "address": "1800 SAVOY RD",
+    "city": "LAFAYETTE",
+    "time": "06/13/2020 - 12:16 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.09619,
+    "longitude": -92.04811
+  },
+  {
+    "address": "W GLORIA SWITCH RD & NW FRONTAGE RD",
+    "city": "LAFAYETTE",
+    "time": "06/13/2020 - 12:16 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29564,
+    "longitude": -92.02676
+  },
+  {
     "address": "103 SHANNON RD",
     "city": "LAFAYETTE",
     "time": "06/13/2020 - 12:14 PM",
@@ -30,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16563,
     "longitude": -91.99797
-  },
-  {
-    "address": "119 ARIZONA ST",
-    "city": "LAFAYETTE",
-    "time": "06/13/2020 - 11:45 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.23901,
-    "longitude": -91.99979
   },
   {
     "address": "AMBASSADOR CAFFERY PW & ROBLEY DR",
