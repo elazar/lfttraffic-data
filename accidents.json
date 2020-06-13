@@ -1,5 +1,13 @@
 [
   {
+    "address": "103 I10 EASTBOUND MM103A HW",
+    "city": "LAFAYETTE",
+    "time": "06/13/2020 - 2:43 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "JOHNSTON ST & MOUNT VERNON DR",
     "city": "LAFAYETTE",
     "time": "06/13/2020 - 2:41 PM",
