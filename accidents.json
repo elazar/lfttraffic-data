@@ -1,5 +1,13 @@
 [
   {
+    "address": "ERASTE LANDRY RD & WESTGATE RD",
+    "city": "SCOTT",
+    "time": "06/13/2020 - 2:55 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.2195,
+    "longitude": -92.08699
+  },
+  {
     "address": "2900 W WILLOW ST",
     "city": "SCOTT",
     "time": "06/13/2020 - 2:44 PM",
