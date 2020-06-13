@@ -1,5 +1,13 @@
 [
   {
+    "address": "4303 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/13/2020 - 3:35 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19461,
+    "longitude": -92.0562
+  },
+  {
     "address": "S COLLEGE RD & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/13/2020 - 3:34 PM",
