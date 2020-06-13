@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24229,
     "longitude": -92.10481
-  },
-  {
-    "address": "412 CANE DR",
-    "city": "LAFAYETTE",
-    "time": "06/12/2020 - 9:16 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.16599,
-    "longitude": -92.00414
   }
 ]
