@@ -1,5 +1,13 @@
 [
   {
+    "address": "2900 W WILLOW ST",
+    "city": "SCOTT",
+    "time": "06/13/2020 - 2:44 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24205,
+    "longitude": -92.08724
+  },
+  {
     "address": "103 I10 EASTBOUND MM103A HW",
     "city": "LAFAYETTE",
     "time": "06/13/2020 - 2:43 PM",
