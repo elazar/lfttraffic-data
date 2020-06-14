@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.2261,
     "longitude": -92.02828
-  },
-  {
-    "address": "W VERMILION ST & JEFFERSON ST",
-    "city": "LAFAYETTE",
-    "time": "06/14/2020 - 02:00 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.22407,
-    "longitude": -92.01877
   }
 ]
