@@ -30,13 +30,5 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.22407,
     "longitude": -92.01877
-  },
-  {
-    "address": "SW EVANGELINE TW & SEVENTH ST",
-    "city": "LAFAYETTE",
-    "time": "06/14/2020 - 12:11 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22617,
-    "longitude": -92.0112
   }
 ]
