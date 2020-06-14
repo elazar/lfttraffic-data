@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "210 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "06/14/2020 - 08:43 AM",
+    "due_to": "Grass Fire",
+    "latitude": 30.18661,
+    "longitude": -92.01618
+  }
+]
