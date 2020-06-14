@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & WESTGATE RD",
+    "city": "SCOTT",
+    "time": "06/14/2020 - 12:19 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.23274,
+    "longitude": -92.08691
+  },
+  {
     "address": "1400 N BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "06/14/2020 - 11:56 AM",
