@@ -1,5 +1,13 @@
 [
   {
+    "address": "ST JOHN ST & W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "06/14/2020 - 6:45 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.22067,
+    "longitude": -92.02351
+  },
+  {
     "address": "1500 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/14/2020 - 5:45 PM",
