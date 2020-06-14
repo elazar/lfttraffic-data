@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1300 S RICHFIELD RD",
+    "city": "LAFAYETTE",
+    "time": "06/14/2020 - 04:51 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.218,
+    "longitude": -92.18027
+  }
+]
