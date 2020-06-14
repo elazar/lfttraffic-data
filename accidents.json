@@ -1,5 +1,21 @@
 [
   {
+    "address": "ELISE DR & COPPER MEADOWS BL",
+    "city": "YOUNGSVILLE",
+    "time": "06/14/2020 - 5:42 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.10543,
+    "longitude": -91.98923
+  },
+  {
+    "address": "CAMELLIA DR & MOUNT VERNON DR",
+    "city": "LAFAYETTE",
+    "time": "06/14/2020 - 5:41 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.18558,
+    "longitude": -92.05388
+  },
+  {
     "address": "1002 ALBERTSON PW",
     "city": "BROUSSARD",
     "time": "06/14/2020 - 5:03 PM",
