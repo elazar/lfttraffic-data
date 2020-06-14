@@ -1,5 +1,13 @@
 [
   {
+    "address": "114 MEADOW FARM RD",
+    "city": "LAFAYETTE",
+    "time": "06/13/2020 - 10:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15785,
+    "longitude": -92.04645
+  },
+  {
     "address": "1407 SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "06/13/2020 - 9:59 PM",
@@ -16,12 +24,12 @@
     "longitude": -92.04696
   },
   {
-    "address": "900 ERASTE LANDRY RD",
+    "address": "1568 BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "06/13/2020 - 9:02 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.2243674,
-    "longitude": -92.0534998
+    "latitude": 30.2237228,
+    "longitude": -92.0534712
   },
   {
     "address": "2600 NW EVANGELINE TW",
