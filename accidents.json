@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & E KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "06/14/2020 - 12:29 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1886,
+    "longitude": -92.0141
+  },
+  {
     "address": "SW EVANGELINE TW & SEVENTH ST",
     "city": "LAFAYETTE",
     "time": "06/14/2020 - 12:11 AM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2961043,
     "longitude": -92.0234924
-  },
-  {
-    "address": "2420 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "06/13/2020 - 11:34 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17976,
-    "longitude": -92.00429
   }
 ]
