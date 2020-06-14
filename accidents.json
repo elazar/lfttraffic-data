@@ -1,5 +1,21 @@
 [
   {
+    "address": "BERTRAND DR & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "06/13/2020 - 9:02 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.21493,
+    "longitude": -92.04696
+  },
+  {
+    "address": "ERASTE LANDRY RD & N BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "06/13/2020 - 9:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22469,
+    "longitude": -92.05245
+  },
+  {
     "address": "710 ASTER DR",
     "city": "LAFAYETTE",
     "time": "06/13/2020 - 8:56 PM",
