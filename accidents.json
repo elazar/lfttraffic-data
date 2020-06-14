@@ -1,5 +1,13 @@
 [
   {
+    "address": "1400 N BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "06/14/2020 - 11:56 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22402,
+    "longitude": -92.0514
+  },
+  {
     "address": "609 SETTLERS TRACE BL",
     "city": "LAFAYETTE",
     "time": "06/14/2020 - 11:51 AM",
