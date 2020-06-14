@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "CAMELLIA BL & WAKEFIELD DR",
+    "city": "LAFAYETTE",
+    "time": "06/14/2020 - 4:08 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.18889,
+    "longitude": -92.05472
+  }
+]
