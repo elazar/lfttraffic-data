@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "100 BELLE FONTAINE DR",
+    "city": "LAFAYETTE",
+    "time": "06/15/2020 - 6:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18963,
+    "longitude": -92.06735
+  }
+]
