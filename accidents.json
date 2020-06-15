@@ -1,5 +1,13 @@
 [
   {
+    "address": "1600 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "06/15/2020 - 1:20 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.19462,
+    "longitude": -92.01667
+  },
+  {
     "address": "LA RUE FRANCE & W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "06/15/2020 - 1:19 PM",
