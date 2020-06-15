@@ -1,5 +1,13 @@
 [
   {
+    "address": "1506 SURREY ST",
+    "city": "LAFAYETTE",
+    "time": "06/15/2020 - 12:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21777,
+    "longitude": -91.99295
+  },
+  {
     "address": "LA 182 HW & LA 96 HW",
     "city": "BROUSSARD",
     "time": "06/15/2020 - 12:10 PM",
