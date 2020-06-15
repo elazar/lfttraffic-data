@@ -1,5 +1,13 @@
 [
   {
+    "address": "LA 182 HW & LA 96 HW",
+    "city": "BROUSSARD",
+    "time": "06/15/2020 - 12:10 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.12942,
+    "longitude": -91.94323
+  },
+  {
     "address": "3510 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "06/15/2020 - 11:43 AM",
