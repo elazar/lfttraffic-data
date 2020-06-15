@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "CAILLOUET PL & JEFFERSON ST",
+    "city": "LAFAYETTE",
+    "time": "06/14/2020 - 8:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22066,
+    "longitude": -92.01801
+  }
+]
