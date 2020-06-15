@@ -1,5 +1,13 @@
 [
   {
+    "address": "601 LAFAYETTE ST",
+    "city": "YOUNGSVILLE",
+    "time": "06/15/2020 - 11:10 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.10566,
+    "longitude": -91.99119
+  },
+  {
     "address": "JOHNSTON ST & BROADMOOR BL",
     "city": "LAFAYETTE",
     "time": "06/15/2020 - 10:51 AM",
