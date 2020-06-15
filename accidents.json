@@ -1,5 +1,13 @@
 [
   {
+    "address": "800 OAK ST",
+    "city": "SCOTT",
+    "time": "06/15/2020 - 1:48 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2378549,
+    "longitude": -92.0986995
+  },
+  {
     "address": "2601 SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "06/15/2020 - 1:46 PM",
