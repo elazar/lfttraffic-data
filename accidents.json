@@ -1,5 +1,13 @@
 [
   {
+    "address": "201 MEADOW FARM RD",
+    "city": "LAFAYETTE",
+    "time": "06/15/2020 - 4:13 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.15627,
+    "longitude": -92.04436
+  },
+  {
     "address": "3802 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/15/2020 - 3:57 PM",
