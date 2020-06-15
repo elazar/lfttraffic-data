@@ -1,5 +1,13 @@
 [
   {
+    "address": "203 HALLMARK AV",
+    "city": "LAFAYETTE",
+    "time": "06/15/2020 - 4:44 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.13216,
+    "longitude": -92.03394
+  },
+  {
     "address": "925 VETERANS DR",
     "city": "CARENCRO",
     "time": "06/15/2020 - 4:37 PM",
