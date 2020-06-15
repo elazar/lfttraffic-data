@@ -8,14 +8,6 @@
     "longitude": -92.07559
   },
   {
-    "address": "3806 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/15/2020 - 2:14 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.17072,
-    "longitude": -92.06613
-  },
-  {
     "address": "6200 AMBASSADOR CAFFERY PW",
     "city": "YOUNGSVILLE",
     "time": "06/15/2020 - 2:00 PM",
@@ -38,14 +30,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.2378549,
     "longitude": -92.0986995
-  },
-  {
-    "address": "2601 SE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "06/15/2020 - 1:46 PM",
-    "due_to": "Commercial Fire",
-    "latitude": 30.18655,
-    "longitude": -91.99071
   },
   {
     "address": "W WILLOW ST & NW EVANGELINE TW",
