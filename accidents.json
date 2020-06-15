@@ -1,5 +1,13 @@
 [
   {
+    "address": "1111 MUDD AV",
+    "city": "LAFAYETTE",
+    "time": "06/14/2020 - 9:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2320523,
+    "longitude": -92.0042088
+  },
+  {
     "address": "GUILBEAU RD & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/14/2020 - 9:12 PM",
