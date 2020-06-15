@@ -1,5 +1,13 @@
 [
   {
+    "address": "BNSF RAILROAD CG & S LOOP ST",
+    "city": "LAFAYETTE",
+    "time": "06/14/2020 - 11:32 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.2336,
+    "longitude": -92.03442
+  },
+  {
     "address": "E PONT DES MOUTON RD & MOSS ST",
     "city": "LAFAYETTE",
     "time": "06/14/2020 - 11:15 PM",
