@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.13475,
     "longitude": -92.00159
-  },
-  {
-    "address": "800 OAK ST",
-    "city": "SCOTT",
-    "time": "06/15/2020 - 1:48 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.2378549,
-    "longitude": -92.0986995
   }
 ]
