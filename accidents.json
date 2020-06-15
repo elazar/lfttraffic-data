@@ -1,5 +1,13 @@
 [
   {
+    "address": "HECTOR CONNOLY RD & NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "06/15/2020 - 5:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.32261,
+    "longitude": -92.0325
+  },
+  {
     "address": "101 HECTOR CONNOLY RD",
     "city": "CARENCRO",
     "time": "06/15/2020 - 5:02 PM",
