@@ -1,26 +1,10 @@
 [
   {
-    "address": "203 HALLMARK AV",
-    "city": "LAFAYETTE",
-    "time": "06/15/2020 - 4:44 PM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.13216,
-    "longitude": -92.03394
-  },
-  {
     "address": "925 VETERANS DR",
     "city": "CARENCRO",
     "time": "06/15/2020 - 4:37 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.32249,
     "longitude": -92.03625
-  },
-  {
-    "address": "201 MEADOW FARM RD",
-    "city": "LAFAYETTE",
-    "time": "06/15/2020 - 4:13 PM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.15627,
-    "longitude": -92.04436
   }
 ]
