@@ -1,5 +1,13 @@
 [
   {
+    "address": "E PINHOOK RD & SW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "06/15/2020 - 10:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21749,
+    "longitude": -92.00495
+  },
+  {
     "address": "6100 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "06/15/2020 - 10:04 PM",
