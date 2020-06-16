@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "120 E GLORIA SWITCH RD",
+    "city": "LAFAYETTE",
+    "time": "06/16/2020 - 6:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29346,
+    "longitude": -92.02171
+  }
+]
