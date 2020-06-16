@@ -1,5 +1,13 @@
 [
   {
+    "address": "5770 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/16/2020 - 11:36 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1725,
+    "longitude": -92.0809
+  },
+  {
     "address": "3110 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/16/2020 - 11:23 AM",
