@@ -1,5 +1,13 @@
 [
   {
+    "address": "3110 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/16/2020 - 11:23 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.18943,
+    "longitude": -92.07565
+  },
+  {
     "address": "W PINHOOK RD & S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "06/16/2020 - 11:18 AM",
@@ -11,7 +19,7 @@
     "address": "POLLY LN & VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "06/16/2020 - 11:05 AM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.1699,
     "longitude": -92.01917
   },
