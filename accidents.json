@@ -1,5 +1,13 @@
 [
   {
+    "address": "155 MIMOSA PL",
+    "city": "LAFAYETTE",
+    "time": "06/16/2020 - 08:48 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.20055,
+    "longitude": -92.06043
+  },
+  {
     "address": "120 BOYCE ST",
     "city": "LAFAYETTE",
     "time": "06/16/2020 - 08:37 AM",
