@@ -1,5 +1,13 @@
 [
   {
+    "address": "4321 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/16/2020 - 2:54 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15878,
+    "longitude": -92.0503
+  },
+  {
     "address": "US 90 EAST HW & YOUNG ST",
     "city": "BROUSSARD",
     "time": "06/16/2020 - 2:49 PM",
