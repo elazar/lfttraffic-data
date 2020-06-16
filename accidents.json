@@ -1,5 +1,13 @@
 [
   {
+    "address": "4350 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "06/15/2020 - 8:23 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1499,
+    "longitude": -91.95177
+  },
+  {
     "address": "BENDEL RD & W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "06/15/2020 - 8:09 PM",
