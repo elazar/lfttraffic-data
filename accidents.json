@@ -1,5 +1,13 @@
 [
   {
+    "address": "908 CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "06/16/2020 - 3:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23328,
+    "longitude": -91.99392
+  },
+  {
     "address": "2214 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "06/16/2020 - 2:14 PM",
