@@ -1,5 +1,13 @@
 [
   {
+    "address": "115 BISCAYNE LN",
+    "city": "LAFAYETTE",
+    "time": "06/15/2020 - 9:00 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.11215,
+    "longitude": -92.05013
+  },
+  {
     "address": "2240 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/15/2020 - 8:50 PM",
