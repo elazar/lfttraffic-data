@@ -1,5 +1,13 @@
 [
   {
+    "address": "W WILLOW ST & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "06/16/2020 - 5:23 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24448,
+    "longitude": -92.03275
+  },
+  {
     "address": "W UNIVERSITY AV & ST LANDRY ST",
     "city": "LAFAYETTE",
     "time": "06/16/2020 - 5:19 PM",
