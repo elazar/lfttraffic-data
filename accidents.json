@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "06/16/2020 - 3:08 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.20581,
+    "longitude": -92.04078
+  },
+  {
     "address": "4321 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/16/2020 - 2:54 PM",
