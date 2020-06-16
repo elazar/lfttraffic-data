@@ -1,18 +1,18 @@
 [
   {
+    "address": "201 ADALINE ST",
+    "city": "LAFAYETTE",
+    "time": "06/16/2020 - 3:41 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.33424,
+    "longitude": -91.97926
+  },
+  {
     "address": "908 CARMEL DR",
     "city": "LAFAYETTE",
     "time": "06/16/2020 - 3:39 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.23328,
     "longitude": -91.99392
-  },
-  {
-    "address": "2214 KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "06/16/2020 - 2:14 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.16454,
-    "longitude": -92.04143
   }
 ]
