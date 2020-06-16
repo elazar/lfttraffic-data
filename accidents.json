@@ -1,27 +1,19 @@
 [
   {
-    "address": "AMBASSADOR CAFFERY PW & W WILLOW ST",
+    "address": "120 BOYCE ST",
+    "city": "LAFAYETTE",
+    "time": "06/16/2020 - 08:37 AM",
+    "due_to": "Trash Fire",
+    "latitude": 30.1646169,
+    "longitude": -91.9788993
+  },
+  {
+    "address": "300 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/16/2020 - 08:36 AM",
     "due_to": "Vehicle Fire",
-    "latitude": 30.24324,
-    "longitude": -92.06626
-  },
-  {
-    "address": "200 PETROLEUM RD (SE)",
-    "city": "LAFAYETTE",
-    "time": "06/16/2020 - 08:34 AM",
-    "due_to": "Incoming Call",
-    "latitude": 30.1652665,
-    "longitude": -91.9840227
-  },
-  {
-    "address": "NW EVANGELINE TW & I10 HW",
-    "city": "LAFAYETTE",
-    "time": "06/16/2020 - 08:19 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.25098,
-    "longitude": -92.01403
+    "latitude": 30.2408957,
+    "longitude": -92.0662941
   },
   {
     "address": "POLARIS DR & JUPITER DR",
