@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & PERARD ST",
+    "city": "LAFAYETTE",
+    "time": "06/16/2020 - 09:58 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20301,
+    "longitude": -92.05026
+  },
+  {
     "address": "4108 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "06/16/2020 - 09:57 AM",
