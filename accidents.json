@@ -1,5 +1,13 @@
 [
   {
+    "address": "111 ANITA ST",
+    "city": "LAFAYETTE",
+    "time": "06/16/2020 - 08:50 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.2425462,
+    "longitude": -91.9848267
+  },
+  {
     "address": "155 MIMOSA PL",
     "city": "LAFAYETTE",
     "time": "06/16/2020 - 08:48 AM",
