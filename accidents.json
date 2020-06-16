@@ -1,5 +1,13 @@
 [
   {
+    "address": "117 ST NAZAIRE RD",
+    "city": "BROUSSARD",
+    "time": "06/16/2020 - 12:36 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14087,
+    "longitude": -91.94477
+  },
+  {
     "address": "E ST MARY BL & GIRARD PARK CL",
     "city": "LAFAYETTE",
     "time": "06/16/2020 - 12:23 PM",
