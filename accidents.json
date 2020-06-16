@@ -1,5 +1,13 @@
 [
   {
+    "address": "E ST MARY BL & GIRARD PARK CL",
+    "city": "LAFAYETTE",
+    "time": "06/16/2020 - 12:23 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21013,
+    "longitude": -92.01601
+  },
+  {
     "address": "1245 CAMELLIA BL",
     "city": "LAFAYETTE",
     "time": "06/16/2020 - 12:20 PM",
