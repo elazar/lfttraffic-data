@@ -8,27 +8,11 @@
     "longitude": -92.05871
   },
   {
-    "address": "900 E UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "06/17/2020 - 10:53 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.211,
-    "longitude": -92.01165
-  },
-  {
     "address": "7100 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/17/2020 - 10:46 AM",
     "due_to": "Fire Investigation",
     "latitude": 30.1371962,
     "longitude": -92.1046584
-  },
-  {
-    "address": "W CONGRESS ST & FOREMAN DR",
-    "city": "LAFAYETTE",
-    "time": "06/17/2020 - 10:43 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20729,
-    "longitude": -92.05656
   }
 ]
