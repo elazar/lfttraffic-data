@@ -1,5 +1,13 @@
 [
   {
+    "address": "730 E KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "06/17/2020 - 4:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19899,
+    "longitude": -92.00145
+  },
+  {
     "address": "4210 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/17/2020 - 4:21 PM",
@@ -24,12 +32,12 @@
     "longitude": -92.06735
   },
   {
-    "address": "MIDWAY ST & N UNIVERSITY AV",
+    "address": "200 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "06/17/2020 - 4:02 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.23358,
-    "longitude": -92.03241
+    "latitude": 30.2337102,
+    "longitude": -92.0322751
   },
   {
     "address": "W GLORIA SWITCH RD & FOURPARK RD",
