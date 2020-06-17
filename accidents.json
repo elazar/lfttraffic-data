@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 BURGESS DR",
+    "city": "BROUSSARD",
+    "time": "06/17/2020 - 08:49 AM",
+    "due_to": "Vehicle Fire",
+    "latitude": 30.15474,
+    "longitude": -91.95942
+  },
+  {
     "address": "E THIRD ST & E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "06/17/2020 - 08:03 AM",
