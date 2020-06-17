@@ -1,5 +1,13 @@
 [
   {
+    "address": "ERASTE LANDRY RD & CABLE DR",
+    "city": "LAFAYETTE",
+    "time": "06/16/2020 - 11:14 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.22546,
+    "longitude": -92.05105
+  },
+  {
     "address": "W WILLOW ST & N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "06/16/2020 - 11:06 PM",
