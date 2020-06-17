@@ -1,5 +1,13 @@
 [
   {
+    "address": "203 E WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "06/17/2020 - 2:21 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24446,
+    "longitude": -92.00937
+  },
+  {
     "address": "NE EVANGELINE TW & E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "06/17/2020 - 2:05 PM",
