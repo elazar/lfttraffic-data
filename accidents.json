@@ -1,5 +1,21 @@
 [
   {
+    "address": "N ST ANTOINE ST & W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "06/17/2020 - 6:31 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.24558,
+    "longitude": -92.02342
+  },
+  {
+    "address": "W CONGRESS ST & ST PATRICK ST",
+    "city": "LAFAYETTE",
+    "time": "06/17/2020 - 6:31 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22307,
+    "longitude": -92.03395
+  },
+  {
     "address": "104 RENA DR",
     "city": "LAFAYETTE",
     "time": "06/17/2020 - 6:10 PM",
