@@ -6,21 +6,5 @@
     "due_to": "Vehicle Fire",
     "latitude": 30.15474,
     "longitude": -91.95942
-  },
-  {
-    "address": "E THIRD ST & E SIMCOE ST",
-    "city": "LAFAYETTE",
-    "time": "06/17/2020 - 08:03 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23076,
-    "longitude": -92.00987
-  },
-  {
-    "address": "E UNIVERSITY AV & W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "06/17/2020 - 07:54 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21056,
-    "longitude": -92.00978
   }
 ]
