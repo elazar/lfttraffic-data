@@ -3,17 +3,9 @@
     "address": "5505 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/17/2020 - 2:00 PM",
-    "due_to": "Incoming Call",
+    "due_to": "Fire Investigation",
     "latitude": 30.1789,
     "longitude": -92.07258
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "06/17/2020 - 1:48 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.15649,
-    "longitude": -92.04838
   },
   {
     "address": "300 GUILBEAU RD",
