@@ -1,11 +1,11 @@
 [
   {
-    "address": "AMAPOLA LN & JOHNSTON ST",
+    "address": "7100 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/17/2020 - 10:46 AM",
-    "due_to": "Incoming Call",
-    "latitude": 30.13067,
-    "longitude": -92.11036
+    "due_to": "Fire Investigation",
+    "latitude": 30.1371962,
+    "longitude": -92.1046584
   },
   {
     "address": "4232 AMBASSADOR CAFFERY PW",
@@ -22,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20729,
     "longitude": -92.05656
-  },
-  {
-    "address": "KALISTE SALOOM RD & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/17/2020 - 10:14 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.15649,
-    "longitude": -92.04838
   },
   {
     "address": "1522 JOHNSTON ST",
