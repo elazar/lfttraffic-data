@@ -1,27 +1,11 @@
 [
   {
-    "address": "GARFIELD ST & TAYLOR ST",
-    "city": "LAFAYETTE",
-    "time": "06/16/2020 - 9:46 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.22556,
-    "longitude": -92.01602
-  },
-  {
     "address": "3617 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/16/2020 - 9:41 PM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.17644,
     "longitude": -92.06975
-  },
-  {
-    "address": "120 RUE LOUIS XIV",
-    "city": "LAFAYETTE",
-    "time": "06/16/2020 - 9:32 PM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.17055,
-    "longitude": -92.02843
   },
   {
     "address": "N UNIVERSITY AV & HOLLYWOOD DR",
