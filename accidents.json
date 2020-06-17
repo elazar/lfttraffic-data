@@ -8,14 +8,6 @@
     "longitude": -92.01944
   },
   {
-    "address": "S PIERCE ST & CAMERON ST",
-    "city": "LAFAYETTE",
-    "time": "06/17/2020 - 4:57 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.23315,
-    "longitude": -92.01913
-  },
-  {
     "address": "SE EVANGELINE TW & FOURTEENTH ST",
     "city": "LAFAYETTE",
     "time": "06/17/2020 - 4:50 PM",
@@ -54,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.14272,
     "longitude": -91.97777
-  },
-  {
-    "address": "100 BELLE FONTAINE DR",
-    "city": "LAFAYETTE",
-    "time": "06/17/2020 - 4:13 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18963,
-    "longitude": -92.06735
   },
   {
     "address": "200 N UNIVERSITY AV",
