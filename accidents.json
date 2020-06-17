@@ -1,5 +1,13 @@
 [
   {
+    "address": "MIDWAY ST & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "06/17/2020 - 4:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23358,
+    "longitude": -92.03241
+  },
+  {
     "address": "W GLORIA SWITCH RD & FOURPARK RD",
     "city": "LAFAYETTE",
     "time": "06/17/2020 - 3:37 PM",
