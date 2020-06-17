@@ -1,5 +1,13 @@
 [
   {
+    "address": "W WILLOW ST & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "06/16/2020 - 11:06 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24448,
+    "longitude": -92.03275
+  },
+  {
     "address": "100 WALKER RD",
     "city": "LAFAYETTE",
     "time": "06/16/2020 - 10:47 PM",
