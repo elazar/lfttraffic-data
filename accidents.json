@@ -1,5 +1,21 @@
 [
   {
+    "address": "216 S PIERCE ST",
+    "city": "LAFAYETTE",
+    "time": "06/17/2020 - 4:57 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23256,
+    "longitude": -92.01944
+  },
+  {
+    "address": "S PIERCE ST & CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "06/17/2020 - 4:57 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23315,
+    "longitude": -92.01913
+  },
+  {
     "address": "SE EVANGELINE TW & FOURTEENTH ST",
     "city": "LAFAYETTE",
     "time": "06/17/2020 - 4:50 PM",
