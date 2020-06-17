@@ -1,5 +1,13 @@
 [
   {
+    "address": "221 LOUL ST",
+    "city": "BROUSSARD",
+    "time": "06/17/2020 - 12:41 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14223,
+    "longitude": -91.95893
+  },
+  {
     "address": "4000 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/17/2020 - 12:16 PM",
