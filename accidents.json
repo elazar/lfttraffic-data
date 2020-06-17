@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 BELLE FONTAINE DR",
+    "city": "LAFAYETTE",
+    "time": "06/17/2020 - 4:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18963,
+    "longitude": -92.06735
+  },
+  {
     "address": "103 I10 EB EXIT RAMP HW",
     "city": "LAFAYETTE",
     "time": "06/17/2020 - 4:04 PM",
