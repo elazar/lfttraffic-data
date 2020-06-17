@@ -1,5 +1,13 @@
 [
   {
+    "address": "1214 COOLIDGE ST",
+    "city": "LAFAYETTE",
+    "time": "06/17/2020 - 5:09 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20234,
+    "longitude": -92.01863
+  },
+  {
     "address": "216 S PIERCE ST",
     "city": "LAFAYETTE",
     "time": "06/17/2020 - 4:57 PM",
@@ -46,13 +54,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.14272,
     "longitude": -91.97777
-  },
-  {
-    "address": "200 N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "06/17/2020 - 4:02 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2337102,
-    "longitude": -92.0322751
   }
 ]
