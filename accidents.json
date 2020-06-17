@@ -1,5 +1,13 @@
 [
   {
+    "address": "310 HERBERT RD",
+    "city": "LAFAYETTE",
+    "time": "06/16/2020 - 9:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2052,
+    "longitude": -92.09833
+  },
+  {
     "address": "W WILLOW ST & N ST ANTOINE ST",
     "city": "LAFAYETTE",
     "time": "06/16/2020 - 9:02 PM",
