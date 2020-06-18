@@ -1,5 +1,13 @@
 [
   {
+    "address": "11 CAMELLIA CL",
+    "city": "LAFAYETTE",
+    "time": "06/18/2020 - 10:59 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1798696,
+    "longitude": -92.050676
+  },
+  {
     "address": "615 RUE DU BELIER",
     "city": "LAFAYETTE",
     "time": "06/18/2020 - 10:56 AM",
