@@ -1,5 +1,13 @@
 [
   {
+    "address": "105 HAZELNUT DR",
+    "city": "LAFAYETTE",
+    "time": "06/18/2020 - 2:25 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.18585,
+    "longitude": -92.02035
+  },
+  {
     "address": "4232 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/18/2020 - 2:10 PM",
