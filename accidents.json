@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "address": "S MORGAN AV & E FAIRFIELD DR",
+    "city": "BROUSSARD",
+    "time": "06/18/2020 - 09:49 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.11646,
+    "longitude": -91.95656
+  },
+  {
+    "address": "116 MORELAN DR",
+    "city": "LAFAYETTE",
+    "time": "06/18/2020 - 09:32 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26715,
+    "longitude": -92.00993
+  }
+]
