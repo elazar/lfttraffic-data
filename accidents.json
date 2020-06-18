@@ -1,5 +1,13 @@
 [
   {
+    "address": "5725 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/18/2020 - 3:21 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17353,
+    "longitude": -92.07732
+  },
+  {
     "address": "800 S RICHFIELD RD",
     "city": "DUSON",
     "time": "06/18/2020 - 3:18 PM",
