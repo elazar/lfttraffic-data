@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "105 CORPORATE BL",
+    "city": "LAFAYETTE",
+    "time": "06/18/2020 - 08:43 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18373,
+    "longitude": -92.01003
+  }
+]
