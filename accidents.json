@@ -30,5 +30,13 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2865631,
     "longitude": -92.004223
+  },
+  {
+    "address": "116 MORELAN DR",
+    "city": "LAFAYETTE",
+    "time": "06/18/2020 - 09:32 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26715,
+    "longitude": -92.00993
   }
 ]
