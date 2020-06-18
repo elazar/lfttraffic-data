@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "E BROUSSARD RD & KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "06/18/2020 - 05:26 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.13792,
+    "longitude": -92.06754
+  }
+]
