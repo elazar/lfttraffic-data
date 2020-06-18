@@ -1,5 +1,13 @@
 [
   {
+    "address": "3555 N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "06/18/2020 - 5:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29754,
+    "longitude": -92.04984
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "06/18/2020 - 4:53 PM",
@@ -38,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.14488,
     "longitude": -91.99167
-  },
-  {
-    "address": "4401 N UNIVERSITY AV",
-    "city": "CARENCRO",
-    "time": "06/18/2020 - 4:28 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.31812,
-    "longitude": -92.04993
   },
   {
     "address": "2428 W PINHOOK RD",
