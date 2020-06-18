@@ -3,7 +3,7 @@
     "address": "AMBASSADOR CAFFERY PW & FEDERAL ST",
     "city": "LAFAYETTE",
     "time": "06/18/2020 - 5:07 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.21838,
     "longitude": -92.07586
   },
@@ -54,14 +54,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1087993,
     "longitude": -92.0555284
-  },
-  {
-    "address": "YOUNGSVILLE HW & LA NEUVILLE RD",
-    "city": "BROUSSARD",
-    "time": "06/18/2020 - 4:44 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.14488,
-    "longitude": -91.99167
   },
   {
     "address": "2428 W PINHOOK RD",
