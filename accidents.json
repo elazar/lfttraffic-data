@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 GALLET RD",
+    "city": "LAFAYETTE",
+    "time": "06/18/2020 - 4:47 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1087993,
+    "longitude": -92.0555284
+  },
+  {
     "address": "YOUNGSVILLE HW & LA NEUVILLE RD",
     "city": "BROUSSARD",
     "time": "06/18/2020 - 4:44 PM",
