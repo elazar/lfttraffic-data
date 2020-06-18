@@ -1,5 +1,13 @@
 [
   {
+    "address": "103 I10 WESTBOUND MM103A HW",
+    "city": "LAFAYETTE",
+    "time": "06/17/2020 - 8:53 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "1510 RUE DES BABINEAUX",
     "city": "LAFAYETTE",
     "time": "06/17/2020 - 8:53 PM",
