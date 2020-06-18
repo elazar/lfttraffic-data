@@ -1,5 +1,13 @@
 [
   {
+    "address": "3121 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/17/2020 - 8:56 PM",
+    "due_to": "Hazard",
+    "latitude": 30.20394,
+    "longitude": -92.04544
+  },
+  {
     "address": "103 I10 WESTBOUND MM103A HW",
     "city": "LAFAYETTE",
     "time": "06/17/2020 - 8:53 PM",
