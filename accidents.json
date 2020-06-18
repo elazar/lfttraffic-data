@@ -1,5 +1,13 @@
 [
   {
+    "address": "400 ARNAUDVILLE RD",
+    "city": "LAFAYETTE",
+    "time": "06/18/2020 - 6:06 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.36285,
+    "longitude": -91.99195
+  },
+  {
     "address": "3747 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/18/2020 - 6:05 PM",
@@ -30,21 +38,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.21838,
     "longitude": -92.07586
-  },
-  {
-    "address": "3555 N UNIVERSITY AV",
-    "city": "CARENCRO",
-    "time": "06/18/2020 - 5:03 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.29754,
-    "longitude": -92.04984
-  },
-  {
-    "address": "2428 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "06/18/2020 - 4:28 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17846,
-    "longitude": -92.00551
   }
 ]
