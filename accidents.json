@@ -1,5 +1,21 @@
 [
   {
+    "address": "4401 N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "06/18/2020 - 4:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.31812,
+    "longitude": -92.04993
+  },
+  {
+    "address": "2428 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "06/18/2020 - 4:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17846,
+    "longitude": -92.00551
+  },
+  {
     "address": "ANGELLOZ ST & N ST ANTOINE ST",
     "city": "LAFAYETTE",
     "time": "06/18/2020 - 3:52 PM",
