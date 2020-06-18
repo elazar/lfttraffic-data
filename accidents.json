@@ -24,12 +24,12 @@
     "longitude": -92.00763
   },
   {
-    "address": "5725 JOHNSTON ST",
+    "address": "3551 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/18/2020 - 3:21 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.17353,
-    "longitude": -92.07732
+    "latitude": 30.17661,
+    "longitude": -92.07249
   },
   {
     "address": "800 S RICHFIELD RD",
@@ -46,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24608,
     "longitude": -92.02292
-  },
-  {
-    "address": "MOSS ST & W PINE ST",
-    "city": "LAFAYETTE",
-    "time": "06/18/2020 - 1:45 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.24616,
-    "longitude": -92.0062
   },
   {
     "address": "116 MORELAN DR",
