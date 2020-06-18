@@ -1,5 +1,13 @@
 [
   {
+    "address": "104 BEAU MAISON DR",
+    "city": "LAFAYETTE",
+    "time": "06/18/2020 - 3:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24608,
+    "longitude": -92.02292
+  },
+  {
     "address": "MOSS ST & W PINE ST",
     "city": "LAFAYETTE",
     "time": "06/18/2020 - 1:45 PM",
