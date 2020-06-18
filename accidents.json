@@ -1,5 +1,13 @@
 [
   {
+    "address": "HECTOR CONNOLY RD & E ANGELLE ST",
+    "city": "CARENCRO",
+    "time": "06/18/2020 - 6:04 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.31911,
+    "longitude": -92.00266
+  },
+  {
     "address": "YOUNGSVILLE HW & AMBASSADOR CAFFERY PW",
     "city": "BROUSSARD",
     "time": "06/18/2020 - 5:32 PM",
@@ -30,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17846,
     "longitude": -92.00551
-  },
-  {
-    "address": "ANGELLOZ ST & N ST ANTOINE ST",
-    "city": "LAFAYETTE",
-    "time": "06/18/2020 - 3:52 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23685,
-    "longitude": -92.02493
   }
 ]
