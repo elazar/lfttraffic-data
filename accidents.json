@@ -70,13 +70,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23685,
     "longitude": -92.02493
-  },
-  {
-    "address": "2020 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "06/18/2020 - 3:50 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.18482,
-    "longitude": -92.01096
   }
 ]
