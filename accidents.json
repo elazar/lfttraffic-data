@@ -1,5 +1,13 @@
 [
   {
+    "address": "615 RUE DU BELIER",
+    "city": "LAFAYETTE",
+    "time": "06/18/2020 - 10:56 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19611,
+    "longitude": -92.09149
+  },
+  {
     "address": "LOUISIANA AV & SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "06/18/2020 - 10:50 AM",
