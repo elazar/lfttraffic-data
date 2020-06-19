@@ -1,5 +1,13 @@
 [
   {
+    "address": "E PONT DES MOUTON RD & MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "06/19/2020 - 09:20 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27304,
+    "longitude": -92.00812
+  },
+  {
     "address": "2001 NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "06/19/2020 - 08:44 AM",
