@@ -1,5 +1,13 @@
 [
   {
+    "address": "500 RAMPART ST",
+    "city": "CARENCRO",
+    "time": "06/19/2020 - 1:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.3119,
+    "longitude": -92.03724
+  },
+  {
     "address": "104 N GENERAL MARSHALL ST",
     "city": "LAFAYETTE",
     "time": "06/19/2020 - 1:12 PM",
