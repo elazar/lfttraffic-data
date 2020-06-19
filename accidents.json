@@ -1,5 +1,13 @@
 [
   {
+    "address": "1204 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "06/19/2020 - 3:57 PM",
+    "due_to": "Hazard",
+    "latitude": 30.24176,
+    "longitude": -92.00646
+  },
+  {
     "address": "804 MARTIN LUTHER KING JR DR",
     "city": "LAFAYETTE",
     "time": "06/19/2020 - 3:28 PM",
