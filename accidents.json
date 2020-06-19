@@ -1,5 +1,13 @@
 [
   {
+    "address": "E SECOND ST & N GRANT ST",
+    "city": "LAFAYETTE",
+    "time": "06/19/2020 - 10:19 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22956,
+    "longitude": -92.01531
+  },
+  {
     "address": "KALISTE SALOOM RD & CAMELLIA BL",
     "city": "LAFAYETTE",
     "time": "06/19/2020 - 09:59 AM",
