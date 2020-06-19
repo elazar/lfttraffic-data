@@ -15,14 +15,7 @@
     "latitude": 30.17459,
     "longitude": -92.07886
   },
-  {
-    "address": "JOHNSTON ST & PERARD ST",
-    "city": "LAFAYETTE",
-    "time": "06/19/2020 - 3:14 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20301,
-    "longitude": -92.05026
-  },
+  null,
   {
     "address": "KALISTE SALOOM RD & E BROUSSARD RD",
     "city": "LAFAYETTE",
