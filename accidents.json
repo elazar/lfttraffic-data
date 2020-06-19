@@ -1,5 +1,13 @@
 [
   {
+    "address": "3806 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/18/2020 - 7:19 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.17072,
+    "longitude": -92.06613
+  },
+  {
     "address": "9 TRILLIUM TRIANGLE",
     "city": "LAFAYETTE",
     "time": "06/18/2020 - 7:04 PM",
@@ -22,14 +30,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.30536,
     "longitude": -92.02016
-  },
-  {
-    "address": "400 ARNAUDVILLE RD",
-    "city": "LAFAYETTE",
-    "time": "06/18/2020 - 6:06 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.36285,
-    "longitude": -91.99195
   },
   {
     "address": "AMBASSADOR CAFFERY PW & FEDERAL ST",
