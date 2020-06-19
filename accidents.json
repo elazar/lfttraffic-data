@@ -16,14 +16,6 @@
     "longitude": -92.02804
   },
   {
-    "address": "101 THRU WAY PARK RD",
-    "city": "LAFAYETTE",
-    "time": "06/19/2020 - 4:01 PM",
-    "due_to": "Grass Fire",
-    "latitude": 30.16466,
-    "longitude": -91.97648
-  },
-  {
     "address": "500 TARGET LP",
     "city": "LAFAYETTE",
     "time": "06/19/2020 - 3:15 PM",
@@ -32,27 +24,11 @@
     "longitude": -92.0813351
   },
   {
-    "address": "JOHNSTON ST & PERARD ST",
-    "city": "LAFAYETTE",
-    "time": "06/19/2020 - 3:14 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20301,
-    "longitude": -92.05026
-  },
-  {
     "address": "KALISTE SALOOM RD & E BROUSSARD RD",
     "city": "LAFAYETTE",
     "time": "06/19/2020 - 2:44 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.13792,
     "longitude": -92.06754
-  },
-  {
-    "address": "4321 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/19/2020 - 2:12 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.15878,
-    "longitude": -92.0503
   }
 ]
