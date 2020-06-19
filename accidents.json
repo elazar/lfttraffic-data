@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "W WILLOW ST & ASTER DR",
+    "city": "LAFAYETTE",
+    "time": "06/18/2020 - 7:59 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.24441,
+    "longitude": -92.04204
+  }
+]
