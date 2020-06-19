@@ -1,5 +1,13 @@
 [
   {
+    "address": "104 BARON DR",
+    "city": "LAFAYETTE",
+    "time": "06/18/2020 - 7:21 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.23926,
+    "longitude": -91.97447
+  },
+  {
     "address": "9 TRILLIUM TRIANGLE",
     "city": "LAFAYETTE",
     "time": "06/18/2020 - 7:04 PM",
