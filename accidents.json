@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & PERARD ST",
+    "city": "LAFAYETTE",
+    "time": "06/19/2020 - 3:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20301,
+    "longitude": -92.05026
+  },
+  {
     "address": "609 SETTLERS TRACE BL",
     "city": "LAFAYETTE",
     "time": "06/19/2020 - 3:06 PM",
