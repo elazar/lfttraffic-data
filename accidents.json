@@ -1,5 +1,13 @@
 [
   {
+    "address": "201 LAJAUNIE RD",
+    "city": "LAFAYETTE",
+    "time": "06/18/2020 - 6:59 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.2486004,
+    "longitude": -91.9846967
+  },
+  {
     "address": "336 THOROUGHBRED DR",
     "city": "CARENCRO",
     "time": "06/18/2020 - 6:45 PM",
