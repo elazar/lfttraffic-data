@@ -1,5 +1,13 @@
 [
   {
+    "address": "1900 CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "06/19/2020 - 2:38 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2331,
+    "longitude": -92.03593
+  },
+  {
     "address": "2952 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/19/2020 - 2:28 PM",
