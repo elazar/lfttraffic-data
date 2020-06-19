@@ -1,5 +1,21 @@
 [
   {
+    "address": "5801 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/19/2020 - 3:15 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.1716,
+    "longitude": -92.08055
+  },
+  {
+    "address": "5732 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/19/2020 - 3:15 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.17459,
+    "longitude": -92.07886
+  },
+  {
     "address": "JOHNSTON ST & PERARD ST",
     "city": "LAFAYETTE",
     "time": "06/19/2020 - 3:14 PM",
