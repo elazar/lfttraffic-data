@@ -1,5 +1,13 @@
 [
   {
+    "address": "MOSS ST & E WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "06/19/2020 - 09:30 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24378,
+    "longitude": -92.00638
+  },
+  {
     "address": "E PONT DES MOUTON RD & MOSS ST",
     "city": "LAFAYETTE",
     "time": "06/19/2020 - 09:20 AM",
