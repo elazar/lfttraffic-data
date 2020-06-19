@@ -1,5 +1,13 @@
 [
   {
+    "address": "3810 NE EVANGELINE TW",
+    "city": "CARENCRO",
+    "time": "06/19/2020 - 2:05 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.31876,
+    "longitude": -92.03205
+  },
+  {
     "address": "ALBERTSON PW & RAILROAD TRACKS (BNSF)",
     "city": "BROUSSARD",
     "time": "06/19/2020 - 1:45 PM",
