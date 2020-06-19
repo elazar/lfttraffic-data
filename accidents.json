@@ -1,5 +1,13 @@
 [
   {
+    "address": "216 GINGER ST",
+    "city": "LAFAYETTE",
+    "time": "06/19/2020 - 6:25 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.25465,
+    "longitude": -92.01262
+  },
+  {
     "address": "1900 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "06/19/2020 - 6:08 PM",
