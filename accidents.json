@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & VERMILION RIVER",
+    "city": "LAFAYETTE",
+    "time": "06/18/2020 - 9:17 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20365,
+    "longitude": -92.01381
+  },
+  {
     "address": "1017 EIGHTH ST",
     "city": "LAFAYETTE",
     "time": "06/18/2020 - 9:00 PM",
