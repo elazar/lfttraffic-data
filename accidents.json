@@ -1,10 +1,10 @@
 [
   {
-    "address": "EIGHTH ST & SURREY ST",
+    "address": "1017 EIGHTH ST",
     "city": "LAFAYETTE",
     "time": "06/18/2020 - 9:00 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.22909,
-    "longitude": -92.00578
+    "due_to": "Fire Investigation",
+    "latitude": 30.22972,
+    "longitude": -92.00551
   }
 ]
