@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & E KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "06/19/2020 - 4:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1886,
+    "longitude": -92.0141
+  },
+  {
     "address": "BAYSIDE DR & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "06/19/2020 - 4:05 PM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.1729937,
     "longitude": -92.0813351
-  },
-  {
-    "address": "KALISTE SALOOM RD & E BROUSSARD RD",
-    "city": "LAFAYETTE",
-    "time": "06/19/2020 - 2:44 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.13792,
-    "longitude": -92.06754
   }
 ]
