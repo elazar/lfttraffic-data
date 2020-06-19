@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & N MORGAN AV",
+    "city": "BROUSSARD",
+    "time": "06/19/2020 - 6:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15291,
+    "longitude": -91.95943
+  },
+  {
     "address": "251 GINGER ST",
     "city": "LAFAYETTE",
     "time": "06/19/2020 - 6:25 PM",
