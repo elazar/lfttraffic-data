@@ -1,5 +1,13 @@
 [
   {
+    "address": "3909 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "06/19/2020 - 12:12 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27933,
+    "longitude": -92.00816
+  },
+  {
     "address": "4601 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/19/2020 - 10:59 AM",
