@@ -1,5 +1,13 @@
 [
   {
+    "address": "W GRANT ST & W SECOND ST",
+    "city": "LAFAYETTE",
+    "time": "06/19/2020 - 10:20 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22941,
+    "longitude": -92.01568
+  },
+  {
     "address": "E SECOND ST & N GRANT ST",
     "city": "LAFAYETTE",
     "time": "06/19/2020 - 10:19 AM",
