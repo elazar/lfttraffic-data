@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20365,
     "longitude": -92.01381
-  },
-  {
-    "address": "1017 EIGHTH ST",
-    "city": "LAFAYETTE",
-    "time": "06/18/2020 - 9:00 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.22972,
-    "longitude": -92.00551
   }
 ]
