@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2057804,
     "longitude": -92.0981849
-  },
-  {
-    "address": "LA 1252 HW & NE FRONTAGE RD",
-    "city": "LAFAYETTE",
-    "time": "06/20/2020 - 01:40 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.33647,
-    "longitude": -92.03849
   }
 ]
