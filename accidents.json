@@ -1,19 +1,19 @@
 [
   {
+    "address": "JOHNSTON ST & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/20/2020 - 5:02 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.17808,
+    "longitude": -92.07452
+  },
+  {
     "address": "CAMELLIA BL & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/20/2020 - 4:53 PM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.19364,
     "longitude": -92.0587
-  },
-  {
-    "address": "E BROUSSARD RD & ROUGEAU RD",
-    "city": "LAFAYETTE",
-    "time": "06/20/2020 - 4:53 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.12468,
-    "longitude": -92.05601
   },
   {
     "address": "ERASTE LANDRY RD & S LONG ST",
