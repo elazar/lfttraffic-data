@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "400 GUILBEAU RD",
+    "city": "LAFAYETTE",
+    "time": "06/19/2020 - 10:36 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1976,
+    "longitude": -92.06865
+  }
+]
