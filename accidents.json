@@ -8,27 +8,11 @@
     "longitude": -92.07452
   },
   {
-    "address": "ERASTE LANDRY RD & S LONG ST",
-    "city": "LAFAYETTE",
-    "time": "06/20/2020 - 4:45 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.224,
-    "longitude": -92.0552
-  },
-  {
     "address": "803 MARTIN LUTHER KING JR DR",
     "city": "LAFAYETTE",
     "time": "06/20/2020 - 4:20 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.24973,
     "longitude": -92.02367
-  },
-  {
-    "address": "406 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/20/2020 - 3:58 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.23994,
-    "longitude": -92.06637
   }
 ]
