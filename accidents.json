@@ -1,5 +1,13 @@
 [
   {
+    "address": "3000 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "06/20/2020 - 10:59 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.20752,
+    "longitude": -92.05827
+  },
+  {
     "address": "133 N AMBASSADOR CAFFERY PW",
     "city": "SCOTT",
     "time": "06/20/2020 - 10:36 AM",
