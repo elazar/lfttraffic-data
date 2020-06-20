@@ -1,5 +1,13 @@
 [
   {
+    "address": "ERASTE LANDRY RD & S LONG ST",
+    "city": "LAFAYETTE",
+    "time": "06/20/2020 - 4:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.224,
+    "longitude": -92.0552
+  },
+  {
     "address": "1920 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "06/20/2020 - 4:43 PM",
