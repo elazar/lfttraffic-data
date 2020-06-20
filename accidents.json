@@ -1,5 +1,21 @@
 [
   {
+    "address": "803 MARTIN LUTHER KING JR DR",
+    "city": "LAFAYETTE",
+    "time": "06/20/2020 - 4:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24973,
+    "longitude": -92.02367
+  },
+  {
+    "address": "111 PAUL BOUDREAUX RD",
+    "city": "SCOTT",
+    "time": "06/20/2020 - 4:20 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.22146,
+    "longitude": -92.08853
+  },
+  {
     "address": "406 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/20/2020 - 3:58 PM",
