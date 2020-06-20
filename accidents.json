@@ -1,5 +1,13 @@
 [
   {
+    "address": "BOURQUE RD & TOPPING RD",
+    "city": "LAFAYETTE",
+    "time": "06/20/2020 - 04:16 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13482,
+    "longitude": -92.11622
+  },
+  {
     "address": "400 DORSET AV",
     "city": "LAFAYETTE",
     "time": "06/20/2020 - 03:32 AM",
