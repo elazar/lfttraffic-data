@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & ARNOULD BL",
+    "city": "LAFAYETTE",
+    "time": "06/20/2020 - 4:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20186,
+    "longitude": -92.05312
+  },
+  {
     "address": "400 PATTERSON ST",
     "city": "LAFAYETTE",
     "time": "06/20/2020 - 4:24 PM",
