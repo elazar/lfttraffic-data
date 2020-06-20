@@ -1,5 +1,13 @@
 [
   {
+    "address": "E WILLOW ST & MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "06/20/2020 - 12:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24378,
+    "longitude": -92.00638
+  },
+  {
     "address": "3806 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/20/2020 - 11:46 AM",
