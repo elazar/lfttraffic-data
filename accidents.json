@@ -1,18 +1,18 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "06/20/2020 - 2:21 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21504,
+    "longitude": -92.07579
+  },
+  {
     "address": "304 ADONIS DR",
     "city": "LAFAYETTE",
     "time": "06/20/2020 - 1:54 PM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.20876,
     "longitude": -92.05098
-  },
-  {
-    "address": "NE EVANGELINE TW & E WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "06/20/2020 - 1:13 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.24447,
-    "longitude": -92.01187
   }
 ]
