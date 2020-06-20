@@ -1,5 +1,13 @@
 [
   {
+    "address": "210 S MORGAN AV",
+    "city": "BROUSSARD",
+    "time": "06/19/2020 - 7:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14666,
+    "longitude": -91.96507
+  },
+  {
     "address": "US 90 EAST HW & N MORGAN AV",
     "city": "BROUSSARD",
     "time": "06/19/2020 - 6:28 PM",
@@ -19,14 +27,6 @@
     "address": "1900 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "06/19/2020 - 6:08 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.16882,
-    "longitude": -92.035
-  },
-  {
-    "address": "1900 KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "06/19/2020 - 5:22 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.16882,
     "longitude": -92.035
