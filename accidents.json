@@ -1,5 +1,13 @@
 [
   {
+    "address": "617 VATICAN RD",
+    "city": "LAFAYETTE",
+    "time": "06/19/2020 - 10:29 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.30885,
+    "longitude": -92.10611
+  },
+  {
     "address": "JOHNSTON ST & JEFFERSON ST",
     "city": "LAFAYETTE",
     "time": "06/19/2020 - 9:53 PM",
