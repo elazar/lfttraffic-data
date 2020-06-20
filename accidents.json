@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "LA 1252 HW & NE FRONTAGE RD",
+    "city": "LAFAYETTE",
+    "time": "06/20/2020 - 01:40 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.33647,
+    "longitude": -92.03849
+  }
+]
