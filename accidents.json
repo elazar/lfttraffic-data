@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "NW EVANGELINE TW & W PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "06/19/2020 - 11:40 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27349,
+    "longitude": -92.02058
+  }
+]
