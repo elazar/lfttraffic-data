@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "149 SHADY OAKS DR",
+    "city": "LAFAYETTE",
+    "time": "06/20/2020 - 8:40 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20514,
+    "longitude": -92.04623
+  }
+]
