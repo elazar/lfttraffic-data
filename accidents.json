@@ -6,21 +6,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.24884,
     "longitude": -92.01282
-  },
-  {
-    "address": "400 LAJAUNIE RD",
-    "city": "LAFAYETTE",
-    "time": "06/20/2020 - 8:12 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.25541,
-    "longitude": -91.97582
-  },
-  {
-    "address": "DENMARK RD & TOPEKA RD",
-    "city": "LAFAYETTE",
-    "time": "06/20/2020 - 7:42 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22966,
-    "longitude": -92.12971
   }
 ]
