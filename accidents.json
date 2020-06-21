@@ -1,5 +1,13 @@
 [
   {
+    "address": "5620 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/21/2020 - 3:29 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1779,
+    "longitude": -92.07559
+  },
+  {
     "address": "106 HOBSON ST",
     "city": "LAFAYETTE",
     "time": "06/21/2020 - 3:20 PM",
