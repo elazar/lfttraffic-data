@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 IRA ST",
+    "city": "CARENCRO",
+    "time": "06/20/2020 - 9:35 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.32364,
+    "longitude": -92.05664
+  },
+  {
     "address": "1600 LA NEUVILLE RD",
     "city": "LAFAYETTE",
     "time": "06/20/2020 - 9:33 PM",
