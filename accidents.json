@@ -1,5 +1,13 @@
 [
   {
+    "address": "1600 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "06/20/2020 - 7:48 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24644,
+    "longitude": -92.00577
+  },
+  {
     "address": "DENMARK RD & TOPEKA RD",
     "city": "LAFAYETTE",
     "time": "06/20/2020 - 7:42 PM",
