@@ -1,5 +1,13 @@
 [
   {
+    "address": "CHEMIN METAIRIE PW & GUILLIOT RD",
+    "city": "YOUNGSVILLE",
+    "time": "06/21/2020 - 3:57 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.09013,
+    "longitude": -92.00377
+  },
+  {
     "address": "JOHNSTON ST & CAJUNDOME BL",
     "city": "LAFAYETTE",
     "time": "06/21/2020 - 3:47 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1779,
     "longitude": -92.07559
-  },
-  {
-    "address": "106 HOBSON ST",
-    "city": "LAFAYETTE",
-    "time": "06/21/2020 - 3:20 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.2338,
-    "longitude": -92.01704
   },
   {
     "address": "1009 MADELINE AV",
