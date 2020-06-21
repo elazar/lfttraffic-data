@@ -1,5 +1,13 @@
 [
   {
+    "address": "LOUISIANA AV & E WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "06/21/2020 - 6:34 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24552,
+    "longitude": -92.00037
+  },
+  {
     "address": "US 90 EAST HW & WECO LN",
     "city": "BROUSSARD",
     "time": "06/21/2020 - 6:14 PM",
