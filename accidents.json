@@ -1,19 +1,11 @@
 [
   {
-    "address": "6300 CAMERON ST",
-    "city": "SCOTT",
-    "time": "06/21/2020 - 5:31 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.2349849,
-    "longitude": -92.1039491
-  },
-  {
-    "address": "421 CRAWFORD ST",
+    "address": "3222 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
-    "time": "06/21/2020 - 5:26 PM",
-    "due_to": "Trash Fire",
-    "latitude": 30.20368,
-    "longitude": -92.0661
+    "time": "06/21/2020 - 5:36 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18327,
+    "longitude": -92.07545
   },
   {
     "address": "SW EVANGELINE TW & E ALLEY ST",
