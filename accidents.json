@@ -1,5 +1,13 @@
 [
   {
+    "address": "421 CRAWFORD ST",
+    "city": "LAFAYETTE",
+    "time": "06/21/2020 - 5:26 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.20368,
+    "longitude": -92.0661
+  },
+  {
     "address": "300 CRAWFORD ST",
     "city": "LAFAYETTE",
     "time": "06/21/2020 - 5:20 PM",
