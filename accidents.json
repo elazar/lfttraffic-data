@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 CRENSHAW DR",
+    "city": "LAFAYETTE",
+    "time": "06/21/2020 - 02:36 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.1139,
+    "longitude": -92.05255
+  },
+  {
     "address": "2375 RIDGE RD",
     "city": "LAFAYETTE",
     "time": "06/21/2020 - 02:33 AM",
