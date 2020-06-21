@@ -1,5 +1,13 @@
 [
   {
+    "address": "106 HOBSON ST",
+    "city": "LAFAYETTE",
+    "time": "06/21/2020 - 3:20 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.2338,
+    "longitude": -92.01704
+  },
+  {
     "address": "HOBSON ST & N BUCHANAN ST",
     "city": "LAFAYETTE",
     "time": "06/21/2020 - 3:19 PM",
