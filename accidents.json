@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 AL ROMERO JR RD",
+    "city": "LAFAYETTE",
+    "time": "06/20/2020 - 9:57 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.1255844,
+    "longitude": -92.1120106
+  },
+  {
     "address": "1800 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "06/20/2020 - 9:39 PM",
