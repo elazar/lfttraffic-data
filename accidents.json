@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "338 BELLOT ST",
+    "city": "LAFAYETTE",
+    "time": "06/21/2020 - 11:28 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23603,
+    "longitude": -92.01196
+  }
+]
