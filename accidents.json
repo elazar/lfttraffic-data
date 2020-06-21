@@ -8,28 +8,12 @@
     "longitude": -91.94328
   },
   {
-    "address": "200 VEROT SCHOOL RD",
-    "city": "LAFAYETTE",
-    "time": "06/21/2020 - 6:13 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.1766702,
-    "longitude": -92.0051799
-  },
-  {
     "address": "100 HECTOR CONNOLY RD",
     "city": "CARENCRO",
     "time": "06/21/2020 - 5:55 PM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.3225078,
     "longitude": -92.0323092
-  },
-  {
-    "address": "TELJEAN RD & ROBLEY DR",
-    "city": "LAFAYETTE",
-    "time": "06/21/2020 - 5:50 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.12996,
-    "longitude": -92.09207
   },
   {
     "address": "AMBASSADOR CAFFERY PW & W CONGRESS ST",
