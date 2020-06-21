@@ -1,5 +1,13 @@
 [
   {
+    "address": "2517 W WILLOW ST",
+    "city": "SCOTT",
+    "time": "06/20/2020 - 11:31 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.2427,
+    "longitude": -92.0782
+  },
+  {
     "address": "630 BROTHERS RD",
     "city": "LAFAYETTE",
     "time": "06/20/2020 - 10:25 PM",
