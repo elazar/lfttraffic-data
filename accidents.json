@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23897,
     "longitude": -92.03363
-  },
-  {
-    "address": "100 I10 EASTBOUND MM100 HW",
-    "city": "LAFAYETTE",
-    "time": "06/21/2020 - 2:52 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.26255,
-    "longitude": -92.00867
   }
 ]
