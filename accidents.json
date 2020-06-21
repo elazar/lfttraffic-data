@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "06/21/2020 - 6:13 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1766702,
+    "longitude": -92.0051799
+  },
+  {
     "address": "100 HECTOR CONNOLY RD",
     "city": "CARENCRO",
     "time": "06/21/2020 - 5:55 PM",
