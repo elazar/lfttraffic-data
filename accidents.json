@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "06/22/2020 - 4:51 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18136,
+    "longitude": -92.07126
+  },
+  {
     "address": "1600 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "06/22/2020 - 4:36 PM",
