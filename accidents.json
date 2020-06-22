@@ -1,5 +1,13 @@
 [
   {
+    "address": "ARCENEAUX RD & WALTER DR",
+    "city": "CARENCRO",
+    "time": "06/22/2020 - 2:05 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.30954,
+    "longitude": -92.04107
+  },
+  {
     "address": "W CONGRESS ST & MARIE ANTOINETTE ST",
     "city": "LAFAYETTE",
     "time": "06/22/2020 - 1:55 PM",
