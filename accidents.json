@@ -1,5 +1,13 @@
 [
   {
+    "address": "S ST ANTOINE ST & VOORHIES ST",
+    "city": "LAFAYETTE",
+    "time": "06/22/2020 - 1:21 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22811,
+    "longitude": -92.02492
+  },
+  {
     "address": "3100 W WILLOW ST",
     "city": "SCOTT",
     "time": "06/22/2020 - 1:04 PM",
