@@ -1,5 +1,13 @@
 [
   {
+    "address": "3700 CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "06/22/2020 - 6:55 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2326799,
+    "longitude": -92.0612622
+  },
+  {
     "address": "3801 MOSS ST",
     "city": "LAFAYETTE",
     "time": "06/22/2020 - 6:35 PM",
