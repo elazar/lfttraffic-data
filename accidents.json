@@ -1,5 +1,13 @@
 [
   {
+    "address": "610 ST ETIENNE RD",
+    "city": "BROUSSARD",
+    "time": "06/22/2020 - 09:32 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.12177,
+    "longitude": -91.94836
+  },
+  {
     "address": "501 FIRST ST",
     "city": "DUSON",
     "time": "06/22/2020 - 08:52 AM",
