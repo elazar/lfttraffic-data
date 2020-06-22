@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/22/2020 - 3:00 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.2224,
+    "longitude": -92.01603
+  },
+  {
     "address": "220 BISMARK DR",
     "city": "BROUSSARD",
     "time": "06/22/2020 - 2:59 PM",
