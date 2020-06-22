@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "200 RAYBURN ST",
+    "city": "LAFAYETTE",
+    "time": "06/22/2020 - 06:33 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2157869,
+    "longitude": -92.0494779
+  }
+]
