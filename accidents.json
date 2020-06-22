@@ -38,13 +38,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.25413,
     "longitude": -92.10813
-  },
-  {
-    "address": "501 FIRST ST",
-    "city": "DUSON",
-    "time": "06/22/2020 - 08:52 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23625,
-    "longitude": -92.18037
   }
 ]
