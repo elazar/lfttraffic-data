@@ -1,11 +1,11 @@
 [
   {
-    "address": "100 N UNIVERSITY AV",
+    "address": "2017 W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "06/22/2020 - 2:09 PM",
     "due_to": "Vehicle Fire",
-    "latitude": 30.2325156,
-    "longitude": -92.0322467
+    "latitude": 30.23144,
+    "longitude": -92.03292
   },
   {
     "address": "ARCENEAUX RD & WALTER DR",
@@ -22,14 +22,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.20584,
     "longitude": -92.05871
-  },
-  {
-    "address": "S ST ANTOINE ST & VOORHIES ST",
-    "city": "LAFAYETTE",
-    "time": "06/22/2020 - 1:21 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22811,
-    "longitude": -92.02492
   },
   {
     "address": "JOHNSTON ST & HAPSBURG LN",
