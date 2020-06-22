@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22457,
     "longitude": -92.01033
-  },
-  {
-    "address": "RENAUD DR & LA 93 HW",
-    "city": "SCOTT",
-    "time": "06/22/2020 - 09:36 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.25413,
-    "longitude": -92.10813
   }
 ]
