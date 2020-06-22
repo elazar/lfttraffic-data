@@ -1,5 +1,13 @@
 [
   {
+    "address": "W UNIVERSITY AV & JEANNE ST",
+    "city": "LAFAYETTE",
+    "time": "06/22/2020 - 2:09 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.23131,
+    "longitude": -92.03183
+  },
+  {
     "address": "ARCENEAUX RD & WALTER DR",
     "city": "CARENCRO",
     "time": "06/22/2020 - 2:05 PM",
