@@ -1,5 +1,13 @@
 [
   {
+    "address": "351 SURREY ST",
+    "city": "LAFAYETTE",
+    "time": "06/22/2020 - 4:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2288017,
+    "longitude": -92.0051629
+  },
+  {
     "address": "3200 US 90 EAST HW",
     "city": "LAFAYETTE",
     "time": "06/22/2020 - 4:23 PM",
