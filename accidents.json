@@ -1,5 +1,13 @@
 [
   {
+    "address": "SURREY ST & BLUE BL",
+    "city": "LAFAYETTE",
+    "time": "06/22/2020 - 5:37 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21106,
+    "longitude": -91.99499
+  },
+  {
     "address": "ARCENEAUX RD & AIMEE DR",
     "city": "CARENCRO",
     "time": "06/22/2020 - 5:31 PM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2019136,
     "longitude": -92.0146539
-  },
-  {
-    "address": "451 SURREY ST",
-    "city": "LAFAYETTE",
-    "time": "06/22/2020 - 4:26 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2284214,
-    "longitude": -92.0046409
   },
   {
     "address": "3200 US 90 EAST HW",
