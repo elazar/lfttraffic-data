@@ -1,5 +1,13 @@
 [
   {
+    "address": "W MARTIAL AV & SETTLERS TRACE BL",
+    "city": "LAFAYETTE",
+    "time": "06/22/2020 - 11:51 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16702,
+    "longitude": -92.0425
+  },
+  {
     "address": "W PINHOOK RD & VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "06/22/2020 - 11:46 AM",
@@ -22,13 +30,5 @@
     "due_to": "Fire Investigation",
     "latitude": 30.22041,
     "longitude": -92.01475
-  },
-  {
-    "address": "4313 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/22/2020 - 11:27 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15909,
-    "longitude": -92.05066
   }
 ]
