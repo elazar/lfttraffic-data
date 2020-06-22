@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 WINCHESTER DR",
+    "city": "LAFAYETTE",
+    "time": "06/22/2020 - 3:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19948,
+    "longitude": -92.06599
+  },
+  {
     "address": "600 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/22/2020 - 3:00 PM",
