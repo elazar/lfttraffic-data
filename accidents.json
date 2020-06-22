@@ -1,11 +1,11 @@
 [
   {
-    "address": "W UNIVERSITY AV & JEANNE ST",
+    "address": "100 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "06/22/2020 - 2:09 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.23131,
-    "longitude": -92.03183
+    "due_to": "Vehicle Fire",
+    "latitude": 30.2325156,
+    "longitude": -92.0322467
   },
   {
     "address": "ARCENEAUX RD & WALTER DR",
