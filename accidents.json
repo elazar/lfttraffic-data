@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 E KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "06/22/2020 - 1:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18852,
+    "longitude": -92.01347
+  },
+  {
     "address": "S ST ANTOINE ST & VOORHIES ST",
     "city": "LAFAYETTE",
     "time": "06/22/2020 - 1:21 PM",
