@@ -1,5 +1,13 @@
 [
   {
+    "address": "SAN CARLOS CL & VALENCIA DR",
+    "city": "LAFAYETTE",
+    "time": "06/21/2020 - 8:08 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.21329,
+    "longitude": -92.07089
+  },
+  {
     "address": "W UNIVERSITY AV & LEE AV",
     "city": "LAFAYETTE",
     "time": "06/21/2020 - 8:03 PM",
