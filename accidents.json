@@ -30,13 +30,5 @@
     "due_to": "Vehicle Fire",
     "latitude": 30.23144,
     "longitude": -92.03292
-  },
-  {
-    "address": "JOHNSTON ST & HAPSBURG LN",
-    "city": "LAFAYETTE",
-    "time": "06/22/2020 - 12:16 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.14359,
-    "longitude": -92.09937
   }
 ]
