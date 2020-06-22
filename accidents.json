@@ -38,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.14359,
     "longitude": -92.09937
-  },
-  {
-    "address": "517 GORDON ST",
-    "city": "LAFAYETTE",
-    "time": "06/22/2020 - 11:38 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.22041,
-    "longitude": -92.01475
   }
 ]
