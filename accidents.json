@@ -1,5 +1,13 @@
 [
   {
+    "address": "220 BISMARK DR",
+    "city": "BROUSSARD",
+    "time": "06/22/2020 - 2:59 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.16161,
+    "longitude": -91.96029
+  },
+  {
     "address": "2017 W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "06/22/2020 - 2:09 PM",
