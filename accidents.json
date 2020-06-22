@@ -1,5 +1,13 @@
 [
   {
+    "address": "1600 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "06/22/2020 - 4:36 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19462,
+    "longitude": -92.01667
+  },
+  {
     "address": "351 SURREY ST",
     "city": "LAFAYETTE",
     "time": "06/22/2020 - 4:26 PM",
