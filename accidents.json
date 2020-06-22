@@ -1,13 +1,5 @@
 [
   {
-    "address": "2700 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "06/22/2020 - 11:57 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.1774494,
-    "longitude": -92.0028635
-  },
-  {
     "address": "AMBASSADOR CAFFERY PW & DILLARD DR",
     "city": "LAFAYETTE",
     "time": "06/22/2020 - 11:56 AM",
@@ -22,14 +14,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16702,
     "longitude": -92.0425
-  },
-  {
-    "address": "W PINHOOK RD & VEROT SCHOOL RD",
-    "city": "LAFAYETTE",
-    "time": "06/22/2020 - 11:46 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.17673,
-    "longitude": -92.00239
   },
   {
     "address": "2500 NE EVANGELINE TW",
