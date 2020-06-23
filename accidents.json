@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20144,
     "longitude": -92.01936
-  },
-  {
-    "address": "701 ST NAZAIRE RD",
-    "city": "BROUSSARD",
-    "time": "06/23/2020 - 07:42 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.13699,
-    "longitude": -91.93405
   }
 ]
