@@ -1,5 +1,13 @@
 [
   {
+    "address": "110 HORIZON LN",
+    "city": "LAFAYETTE",
+    "time": "06/23/2020 - 10:54 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.28232,
+    "longitude": -92.08915
+  },
+  {
     "address": "1700 SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "06/23/2020 - 10:41 AM",
