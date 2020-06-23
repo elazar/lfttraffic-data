@@ -1,11 +1,11 @@
 [
   {
-    "address": "LA 182 HW & LA 96 HW",
+    "address": "0 LA 182 HW",
     "city": "BROUSSARD",
     "time": "06/23/2020 - 2:05 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.12942,
-    "longitude": -91.94323
+    "latitude": 30.09932,
+    "longitude": -91.91592
   },
   {
     "address": "W PINHOOK RD & BENDEL RD",
