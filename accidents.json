@@ -8,12 +8,12 @@
     "longitude": -92.07547
   },
   {
-    "address": "AMBASSADOR CAFFERY PW & CURRAN LN",
+    "address": "300 WESTMARK BL",
     "city": "LAFAYETTE",
     "time": "06/23/2020 - 5:53 PM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.18845,
-    "longitude": -92.07506
+    "latitude": 30.1845549,
+    "longitude": -92.0751405
   },
   {
     "address": "3915 NW EVANGELINE TW",
@@ -51,7 +51,7 @@
     "address": "MARTIN LUTHER KING JR DR & NW FRONTAGE RD",
     "city": "LAFAYETTE",
     "time": "06/23/2020 - 4:36 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.24806,
     "longitude": -92.01355
   },
