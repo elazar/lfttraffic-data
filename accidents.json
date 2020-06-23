@@ -1,5 +1,13 @@
 [
   {
+    "address": "101 I10 WESTBOUND MM101 HW",
+    "city": "LAFAYETTE",
+    "time": "06/23/2020 - 1:44 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "206 TRUMAN ST",
     "city": "BROUSSARD",
     "time": "06/23/2020 - 1:41 PM",
