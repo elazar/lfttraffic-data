@@ -48,12 +48,12 @@
     "longitude": -91.995891
   },
   {
-    "address": "MARTIN LUTHER KING JR DR & NW FRONTAGE RD",
+    "address": "300 NW FRONTAGE RD",
     "city": "LAFAYETTE",
     "time": "06/23/2020 - 4:36 PM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.24806,
-    "longitude": -92.01355
+    "latitude": 30.24833,
+    "longitude": -92.01356
   },
   {
     "address": "3225 LOUISIANA AV",
@@ -62,13 +62,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2657,
     "longitude": -91.99574
-  },
-  {
-    "address": "E WILLOW ST & MOSS ST",
-    "city": "LAFAYETTE",
-    "time": "06/23/2020 - 2:59 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.24378,
-    "longitude": -92.00638
   }
 ]
