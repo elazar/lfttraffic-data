@@ -1,5 +1,13 @@
 [
   {
+    "address": "109 BENTWATER DR",
+    "city": "BROUSSARD",
+    "time": "06/23/2020 - 3:34 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.14101,
+    "longitude": -91.97415
+  },
+  {
     "address": "200 HILLBROOKE DR",
     "city": "BROUSSARD",
     "time": "06/23/2020 - 3:33 PM",
