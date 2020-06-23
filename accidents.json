@@ -1,5 +1,13 @@
 [
   {
+    "address": "COOLIDGE ST & S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "06/23/2020 - 09:26 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20144,
+    "longitude": -92.01936
+  },
+  {
     "address": "GALLET RD & SAVOY RD",
     "city": "LAFAYETTE",
     "time": "06/23/2020 - 08:40 AM",
