@@ -1,5 +1,21 @@
 [
   {
+    "address": "W MAIN ST & LAFAYETTE ST",
+    "city": "LAFAYETTE",
+    "time": "06/23/2020 - 12:35 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.22258,
+    "longitude": -92.0208
+  },
+  {
+    "address": "4000 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/23/2020 - 12:35 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.1663,
+    "longitude": -92.06118
+  },
+  {
     "address": "MUDD AV & ELIZABETH AV",
     "city": "LAFAYETTE",
     "time": "06/23/2020 - 12:31 PM",
