@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "LAFAYETTE ST & COPPER MEADOWS BL",
+    "city": "YOUNGSVILLE",
+    "time": "06/23/2020 - 05:55 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.10543,
+    "longitude": -91.99057
+  }
+]
