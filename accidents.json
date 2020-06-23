@@ -1,11 +1,11 @@
 [
   {
-    "address": "4414 AMBASSADOR CAFFERY PW",
+    "address": "3220 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/23/2020 - 5:54 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.15672,
-    "longitude": -92.04938
+    "latitude": 30.18468,
+    "longitude": -92.07547
   },
   {
     "address": "AMBASSADOR CAFFERY PW & CURRAN LN",
@@ -62,14 +62,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2657,
     "longitude": -91.99574
-  },
-  {
-    "address": "208 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/23/2020 - 4:22 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.24213,
-    "longitude": -92.06669
   },
   {
     "address": "E WILLOW ST & MOSS ST",
