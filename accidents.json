@@ -1,5 +1,13 @@
 [
   {
+    "address": "E UNIVERSITY AV & MCKINLEY ST",
+    "city": "LAFAYETTE",
+    "time": "06/23/2020 - 11:45 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.21425,
+    "longitude": -92.01489
+  },
+  {
     "address": "6770 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/23/2020 - 11:32 AM",
