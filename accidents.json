@@ -1,13 +1,5 @@
 [
   {
-    "address": "102 I10 EASTBOUND MM102 HW",
-    "city": "LAFAYETTE",
-    "time": "06/23/2020 - 11:16 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.26255,
-    "longitude": -92.00867
-  },
-  {
     "address": "110 HORIZON LN",
     "city": "LAFAYETTE",
     "time": "06/23/2020 - 10:54 AM",
@@ -30,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22097,
     "longitude": -92.02344
-  },
-  {
-    "address": "COOLIDGE ST & S COLLEGE RD",
-    "city": "LAFAYETTE",
-    "time": "06/23/2020 - 09:26 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20144,
-    "longitude": -92.01936
   }
 ]
