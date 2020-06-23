@@ -1,11 +1,19 @@
 [
   {
-    "address": "AMBASSADOR CAFFERY PW & FREM BOUSTANY DR",
+    "address": "E SIMCOE ST & NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "06/22/2020 - 10:07 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23107,
+    "longitude": -92.0138
+  },
+  {
+    "address": "4601 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/22/2020 - 9:35 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.15011,
-    "longitude": -92.0406
+    "latitude": 30.15431,
+    "longitude": -92.0455
   },
   {
     "address": "2017 W UNIVERSITY AV",
