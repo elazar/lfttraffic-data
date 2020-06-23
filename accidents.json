@@ -1,5 +1,13 @@
 [
   {
+    "address": "111 HECTOR CONNOLY RD",
+    "city": "CARENCRO",
+    "time": "06/23/2020 - 6:20 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.323,
+    "longitude": -92.03167
+  },
+  {
     "address": "LAKE FARM RD & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "06/23/2020 - 6:07 PM",
