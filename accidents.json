@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 HILLBROOKE DR",
+    "city": "BROUSSARD",
+    "time": "06/23/2020 - 3:33 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.13989,
+    "longitude": -91.97446
+  },
+  {
     "address": "N WILDERNESS TL & WELCH RD",
     "city": "LAFAYETTE",
     "time": "06/23/2020 - 3:16 PM",
