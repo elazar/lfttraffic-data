@@ -1,5 +1,13 @@
 [
   {
+    "address": "MIMS DR & S RICHTER DR",
+    "city": "LAFAYETTE",
+    "time": "06/22/2020 - 7:07 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.2517,
+    "longitude": -92.02181
+  },
+  {
     "address": "916 LAFAYETTE ST",
     "city": "LAFAYETTE",
     "time": "06/22/2020 - 7:04 PM",
