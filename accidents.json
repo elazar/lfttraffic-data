@@ -1,5 +1,13 @@
 [
   {
+    "address": "W UNIVERSITY AV & CHERRY ST",
+    "city": "LAFAYETTE",
+    "time": "06/23/2020 - 10:17 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21903,
+    "longitude": -92.02127
+  },
+  {
     "address": "COOLIDGE ST & S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "06/23/2020 - 09:26 AM",
