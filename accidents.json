@@ -1,5 +1,13 @@
 [
   {
+    "address": "609 BROADMOOR BL",
+    "city": "LAFAYETTE",
+    "time": "06/22/2020 - 7:10 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.17256,
+    "longitude": -92.05858
+  },
+  {
     "address": "101 MIMS DR",
     "city": "LAFAYETTE",
     "time": "06/22/2020 - 7:07 PM",
