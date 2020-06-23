@@ -1,5 +1,13 @@
 [
   {
+    "address": "1206 ALBERTSON PW",
+    "city": "BROUSSARD",
+    "time": "06/23/2020 - 11:50 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14052,
+    "longitude": -91.94973
+  },
+  {
     "address": "W PINHOOK RD & OIL CENTER DR",
     "city": "LAFAYETTE",
     "time": "06/23/2020 - 11:47 AM",
