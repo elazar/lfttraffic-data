@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "403 CLAY RIDGE DR",
+    "city": "YOUNGSVILLE",
+    "time": "06/23/2020 - 01:56 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.09249,
+    "longitude": -91.97778
+  }
+]
