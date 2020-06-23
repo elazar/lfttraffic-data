@@ -1,5 +1,13 @@
 [
   {
+    "address": "GENERAL MOUTON AV & LAMAR ST",
+    "city": "LAFAYETTE",
+    "time": "06/23/2020 - 12:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21668,
+    "longitude": -92.0153
+  },
+  {
     "address": "RUE LOUIS XIV & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "06/23/2020 - 12:17 PM",
