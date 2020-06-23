@@ -1,19 +1,19 @@
 [
   {
+    "address": "916 LAFAYETTE ST",
+    "city": "LAFAYETTE",
+    "time": "06/22/2020 - 7:04 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.22351,
+    "longitude": -92.0214
+  },
+  {
     "address": "3700 CAMERON ST",
     "city": "LAFAYETTE",
     "time": "06/22/2020 - 6:55 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.2326799,
     "longitude": -92.0612622
-  },
-  {
-    "address": "RICHARDSON AV & S COLLEGE RD",
-    "city": "LAFAYETTE",
-    "time": "06/22/2020 - 6:46 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.20001,
-    "longitude": -92.02808
   },
   {
     "address": "2017 W UNIVERSITY AV",
