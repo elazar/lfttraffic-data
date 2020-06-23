@@ -1,21 +1,5 @@
 [
   {
-    "address": "122 WESTFIELD DR",
-    "city": "LAFAYETTE",
-    "time": "06/23/2020 - 4:52 PM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.16633,
-    "longitude": -92.07097
-  },
-  {
-    "address": "CHEMIN METAIRIE PW & GUILLIOT RD",
-    "city": "YOUNGSVILLE",
-    "time": "06/23/2020 - 4:51 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.09013,
-    "longitude": -92.00377
-  },
-  {
     "address": "BERTRAND DR & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/23/2020 - 4:46 PM",
