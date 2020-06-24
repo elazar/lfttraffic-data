@@ -1,19 +1,19 @@
 [
   {
+    "address": "510 GREYFORD DR",
+    "city": "LAFAYETTE",
+    "time": "06/24/2020 - 5:02 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.23544,
+    "longitude": -92.03566
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "06/24/2020 - 4:34 PM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.19597,
     "longitude": -92.07523
-  },
-  {
-    "address": "KALISTE SALOOM RD & RIVER RANCH BL",
-    "city": "LAFAYETTE",
-    "time": "06/24/2020 - 3:49 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1687,
-    "longitude": -92.03433
   },
   {
     "address": "FREM BOUSTANY DR & AMBASSADOR CAFFERY PW",
