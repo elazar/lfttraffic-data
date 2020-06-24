@@ -1,5 +1,13 @@
 [
   {
+    "address": "3600 N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "06/24/2020 - 12:42 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29894,
+    "longitude": -92.04876
+  },
+  {
     "address": "115 MAPLE DR",
     "city": "LAFAYETTE",
     "time": "06/24/2020 - 11:49 AM",
