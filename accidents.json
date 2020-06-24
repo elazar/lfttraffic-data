@@ -1,5 +1,13 @@
 [
   {
+    "address": "6521 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "06/23/2020 - 7:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19522,
+    "longitude": -92.14572
+  },
+  {
     "address": "401 EMBER GROVE CROSSING",
     "city": "LAFAYETTE",
     "time": "06/23/2020 - 7:10 PM",
