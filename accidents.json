@@ -1,19 +1,27 @@
 [
   {
+    "address": "S RICHFIELD RD & HANKS RD",
+    "city": "DUSON",
+    "time": "06/23/2020 - 8:00 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.22665,
+    "longitude": -92.17601
+  },
+  {
+    "address": "1200 GUILLIOT RD",
+    "city": "YOUNGSVILLE",
+    "time": "06/23/2020 - 8:00 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.0680383,
+    "longitude": -91.9907449
+  },
+  {
     "address": "4801 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/23/2020 - 7:33 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.15051,
     "longitude": -92.03698
-  },
-  {
-    "address": "6521 W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "06/23/2020 - 7:14 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19522,
-    "longitude": -92.14572
   },
   {
     "address": "401 EMBER GROVE CROSSING",
