@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "JOHNSTON ST & DUHON RD",
+    "city": "LAFAYETTE",
+    "time": "06/24/2020 - 01:04 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.16617,
+    "longitude": -92.08326
+  }
+]
