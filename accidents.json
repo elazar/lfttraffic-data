@@ -1,5 +1,13 @@
 [
   {
+    "address": "1211 COOLIDGE ST",
+    "city": "LAFAYETTE",
+    "time": "06/24/2020 - 08:44 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20239,
+    "longitude": -92.01825
+  },
+  {
     "address": "1500 CAMERON ST",
     "city": "LAFAYETTE",
     "time": "06/24/2020 - 08:21 AM",
