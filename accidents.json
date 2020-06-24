@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "06/24/2020 - 4:34 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.19597,
+    "longitude": -92.07523
+  },
+  {
     "address": "KALISTE SALOOM RD & RIVER RANCH BL",
     "city": "LAFAYETTE",
     "time": "06/24/2020 - 3:49 PM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15011,
     "longitude": -92.0406
-  },
-  {
-    "address": "MUDD AV & LOUISIANA AV",
-    "city": "LAFAYETTE",
-    "time": "06/24/2020 - 3:36 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.23174,
-    "longitude": -92.0027
   }
 ]
