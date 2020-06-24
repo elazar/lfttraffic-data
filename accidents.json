@@ -1,5 +1,13 @@
 [
   {
+    "address": "1500 CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "06/24/2020 - 08:21 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.23264,
+    "longitude": -92.03112
+  },
+  {
     "address": "N UNIVERSITY AV & I10 HW",
     "city": "LAFAYETTE",
     "time": "06/24/2020 - 08:12 AM",
