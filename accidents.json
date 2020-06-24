@@ -1,5 +1,13 @@
 [
   {
+    "address": "S COLLEGE RD & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/24/2020 - 10:29 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.20727,
+    "longitude": -92.03836
+  },
+  {
     "address": "722 FORTUNE RD",
     "city": "LAFAYETTE",
     "time": "06/24/2020 - 10:24 AM",
