@@ -1,5 +1,13 @@
 [
   {
+    "address": "105 IKE B ST",
+    "city": "LAFAYETTE",
+    "time": "06/24/2020 - 6:07 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.23434,
+    "longitude": -92.02916
+  },
+  {
     "address": "4105 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "06/24/2020 - 6:03 PM",
