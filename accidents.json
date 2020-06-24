@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & FOREMAN DR",
+    "city": "LAFAYETTE",
+    "time": "06/24/2020 - 3:08 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20233,
+    "longitude": -92.0521
+  },
+  {
     "address": "2200 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "06/24/2020 - 2:29 PM",
