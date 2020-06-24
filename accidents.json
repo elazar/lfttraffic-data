@@ -1,5 +1,13 @@
 [
   {
+    "address": "3800 N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "06/24/2020 - 12:51 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.3038104,
+    "longitude": -92.0492951
+  },
+  {
     "address": "3600 N UNIVERSITY AV",
     "city": "CARENCRO",
     "time": "06/24/2020 - 12:42 PM",
