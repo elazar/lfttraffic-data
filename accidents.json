@@ -1,5 +1,13 @@
 [
   {
+    "address": "4801 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/23/2020 - 7:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15051,
+    "longitude": -92.03698
+  },
+  {
     "address": "6521 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "06/23/2020 - 7:14 PM",
