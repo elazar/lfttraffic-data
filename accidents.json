@@ -1,21 +1,5 @@
 [
   {
-    "address": "500 BELL DOWNS DR",
-    "city": "LAFAYETTE",
-    "time": "06/24/2020 - 09:09 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.19971,
-    "longitude": -92.06696
-  },
-  {
-    "address": "1211 COOLIDGE ST",
-    "city": "LAFAYETTE",
-    "time": "06/24/2020 - 08:44 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20239,
-    "longitude": -92.01825
-  },
-  {
     "address": "701 ST NAZAIRE RD",
     "city": "BROUSSARD",
     "time": "06/24/2020 - 07:00 AM",
