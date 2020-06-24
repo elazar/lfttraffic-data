@@ -1,5 +1,29 @@
 [
   {
+    "address": "454 HEYMANN BL",
+    "city": "LAFAYETTE",
+    "time": "06/24/2020 - 10:36 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.20359,
+    "longitude": -92.01679
+  },
+  {
+    "address": "3520 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/24/2020 - 10:36 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.17657,
+    "longitude": -92.07386
+  },
+  {
+    "address": "3500 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/24/2020 - 10:36 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.1774019,
+    "longitude": -92.0739576
+  },
+  {
     "address": "S COLLEGE RD & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/24/2020 - 10:29 AM",
