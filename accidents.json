@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15317,
     "longitude": -92.0117
-  },
-  {
-    "address": "5 I49 NORTHBOUND MM5 HW",
-    "city": "CARENCRO",
-    "time": "06/23/2020 - 6:20 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.31396,
-    "longitude": -92.03118
   }
 ]
