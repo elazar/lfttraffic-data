@@ -1,5 +1,13 @@
 [
   {
+    "address": "MOULIN RD & NELLIES LN",
+    "city": "BROUSSARD",
+    "time": "06/25/2020 - 11:54 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13258,
+    "longitude": -91.95893
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & BROADMOOR BL",
     "city": "LAFAYETTE",
     "time": "06/25/2020 - 11:43 AM",
@@ -22,14 +30,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.17649,
     "longitude": -91.98442
-  },
-  {
-    "address": "CAMELLIA BL & KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "06/25/2020 - 11:27 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.16717,
-    "longitude": -92.03642
   },
   {
     "address": "3726 AMBASSADOR CAFFERY PW",
