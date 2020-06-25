@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.13258,
     "longitude": -91.95893
-  },
-  {
-    "address": "US 90 EAST HW & GARBER RD",
-    "city": "LAFAYETTE",
-    "time": "06/25/2020 - 11:36 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.17649,
-    "longitude": -91.98442
   }
 ]
