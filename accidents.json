@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1648,
     "longitude": -92.03985
-  },
-  {
-    "address": "200 GIRARD PARK DR",
-    "city": "LAFAYETTE",
-    "time": "06/25/2020 - 09:38 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.2086389,
-    "longitude": -92.0176725
   }
 ]
