@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & BENDEL RD",
+    "city": "LAFAYETTE",
+    "time": "06/25/2020 - 10:24 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.19911,
+    "longitude": -92.01641
+  },
+  {
     "address": "4610 MOSS ST",
     "city": "CARENCRO",
     "time": "06/25/2020 - 09:53 AM",
