@@ -1,5 +1,13 @@
 [
   {
+    "address": "2103 NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "06/25/2020 - 3:59 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25218,
+    "longitude": -92.01453
+  },
+  {
     "address": "106 W PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "06/25/2020 - 3:53 PM",
@@ -30,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22453,
     "longitude": -92.01428
-  },
-  {
-    "address": "910 GENDARME RD",
-    "city": "LAFAYETTE",
-    "time": "06/25/2020 - 2:38 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.35998,
-    "longitude": -92.0773
   }
 ]
