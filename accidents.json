@@ -1,5 +1,13 @@
 [
   {
+    "address": "134 TECHE DR",
+    "city": "LAFAYETTE",
+    "time": "06/25/2020 - 07:32 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.19792,
+    "longitude": -92.01115
+  },
+  {
     "address": "200 NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "06/25/2020 - 07:14 AM",
