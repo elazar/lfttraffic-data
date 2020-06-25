@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "06/25/2020 - 12:46 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20727,
+    "longitude": -92.03836
+  },
+  {
     "address": "MOULIN RD & NELLIES LN",
     "city": "BROUSSARD",
     "time": "06/25/2020 - 11:54 AM",
