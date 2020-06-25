@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1500 LA NEUVILLE RD",
+    "city": "LAFAYETTE",
+    "time": "06/24/2020 - 7:39 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.14309,
+    "longitude": -92.02429
+  }
+]
