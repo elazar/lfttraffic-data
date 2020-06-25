@@ -1,5 +1,13 @@
 [
   {
+    "address": "252 PEARL ST",
+    "city": "LAFAYETTE",
+    "time": "06/24/2020 - 7:40 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.23626,
+    "longitude": -92.02821
+  },
+  {
     "address": "1500 LA NEUVILLE RD",
     "city": "LAFAYETTE",
     "time": "06/24/2020 - 7:39 PM",
