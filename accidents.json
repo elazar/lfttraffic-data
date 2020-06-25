@@ -1,26 +1,10 @@
 [
   {
-    "address": "N UNIVERSITY AV & I10 HW",
-    "city": "LAFAYETTE",
-    "time": "06/24/2020 - 7:55 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.24052,
-    "longitude": -92.03242
-  },
-  {
     "address": "1700 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "06/24/2020 - 7:51 PM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.25271,
     "longitude": -92.03633
-  },
-  {
-    "address": "252 PEARL ST",
-    "city": "LAFAYETTE",
-    "time": "06/24/2020 - 7:40 PM",
-    "due_to": "Residential Fire",
-    "latitude": 30.23626,
-    "longitude": -92.02821
   }
 ]
