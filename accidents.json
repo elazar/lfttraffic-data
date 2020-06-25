@@ -1,5 +1,13 @@
 [
   {
+    "address": "202 POYDRAS ST",
+    "city": "LAFAYETTE",
+    "time": "06/25/2020 - 3:02 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.23333,
+    "longitude": -92.02721
+  },
+  {
     "address": "JOHNSTON ST & E CYPRESS ST",
     "city": "LAFAYETTE",
     "time": "06/25/2020 - 2:52 PM",
