@@ -1,11 +1,19 @@
 [
   {
-    "address": "200 PETROLEUM RD (W)",
+    "address": "132 PAIGE ST",
+    "city": "LAFAYETTE",
+    "time": "06/25/2020 - 6:45 PM",
+    "due_to": "Explosion",
+    "latitude": 30.18638,
+    "longitude": -92.12773
+  },
+  {
+    "address": "115 LA 89 HW",
     "city": "LAFAYETTE",
     "time": "06/25/2020 - 6:43 PM",
     "due_to": "Incoming Call",
-    "latitude": 30.1652665,
-    "longitude": -91.9840227
+    "latitude": 30.0436849,
+    "longitude": -91.980764
   },
   {
     "address": "1530 N WILDERNESS TL",
