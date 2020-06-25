@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 MEADOW LN",
+    "city": "LAFAYETTE",
+    "time": "06/25/2020 - 2:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20721,
+    "longitude": -92.05367
+  },
+  {
     "address": "910 GENDARME RD",
     "city": "LAFAYETTE",
     "time": "06/25/2020 - 2:38 PM",
