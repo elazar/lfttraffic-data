@@ -1,5 +1,13 @@
 [
   {
+    "address": "DULLES DR & WESTGATE RD",
+    "city": "SCOTT",
+    "time": "06/25/2020 - 12:56 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.21055,
+    "longitude": -92.087
+  },
+  {
     "address": "CHEMIN METAIRIE PW & DETENTE RD",
     "city": "YOUNGSVILLE",
     "time": "06/25/2020 - 12:50 PM",
