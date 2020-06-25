@@ -1,5 +1,13 @@
 [
   {
+    "address": "223 LAFAYETTE ST",
+    "city": "LAFAYETTE",
+    "time": "06/25/2020 - 3:23 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.23237,
+    "longitude": -92.02052
+  },
+  {
     "address": "4620 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "06/25/2020 - 3:19 PM",
