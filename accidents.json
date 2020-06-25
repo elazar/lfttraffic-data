@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "address": "1530 N WILDERNESS TL",
+    "city": "LAFAYETTE",
+    "time": "06/25/2020 - 6:06 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.32483,
+    "longitude": -91.9897
+  },
+  {
+    "address": "HECTOR CONNOLY RD & NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "06/25/2020 - 6:06 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.32261,
+    "longitude": -92.0325
+  }
+]
