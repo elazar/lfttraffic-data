@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "BRENTWOOD BL & ARLETTE DR",
+    "city": "LAFAYETTE",
+    "time": "06/25/2020 - 08:53 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18588,
+    "longitude": -92.04376
+  }
+]
