@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & DULLES DR",
+    "city": "LAFAYETTE",
+    "time": "06/25/2020 - 3:31 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21054,
+    "longitude": -92.07569
+  },
+  {
     "address": "223 LAFAYETTE ST",
     "city": "LAFAYETTE",
     "time": "06/25/2020 - 3:23 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.14513,
     "longitude": -91.94801
-  },
-  {
-    "address": "590 RIDGE RD",
-    "city": "LAFAYETTE",
-    "time": "06/25/2020 - 3:08 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.18301,
-    "longitude": -92.09947
   },
   {
     "address": "JOHNSTON ST & E CYPRESS ST",
