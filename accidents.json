@@ -1,5 +1,13 @@
 [
   {
+    "address": "VEROT SCHOOL RD & DIGBY AV",
+    "city": "LAFAYETTE",
+    "time": "06/25/2020 - 1:25 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.15267,
+    "longitude": -92.02665
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & DOVER BL",
     "city": "LAFAYETTE",
     "time": "06/25/2020 - 1:21 PM",
