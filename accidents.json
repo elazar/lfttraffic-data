@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2296971,
     "longitude": -92.0129119
-  },
-  {
-    "address": "800 JENKINS RD",
-    "city": "LAFAYETTE",
-    "time": "06/25/2020 - 06:33 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.22579,
-    "longitude": -92.12268
   }
 ]
