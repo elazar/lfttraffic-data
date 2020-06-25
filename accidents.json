@@ -8,28 +8,12 @@
     "longitude": -91.99807
   },
   {
-    "address": "CAMERON ST & N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "06/25/2020 - 06:38 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.23236,
-    "longitude": -92.03238
-  },
-  {
     "address": "800 JENKINS RD",
     "city": "LAFAYETTE",
     "time": "06/25/2020 - 06:33 AM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.22579,
     "longitude": -92.12268
-  },
-  {
-    "address": "316 W MAIN ST",
-    "city": "LAFAYETTE",
-    "time": "06/25/2020 - 06:15 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.22344,
-    "longitude": -92.02135
   },
   {
     "address": "135 BIG DAD LN (OMNI)",
