@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & E CYPRESS ST",
+    "city": "LAFAYETTE",
+    "time": "06/25/2020 - 2:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22453,
+    "longitude": -92.01428
+  },
+  {
     "address": "200 MEADOW LN",
     "city": "LAFAYETTE",
     "time": "06/25/2020 - 2:52 PM",
@@ -46,14 +54,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.14589,
     "longitude": -92.03252
-  },
-  {
-    "address": "KALISTE SALOOM RD & MEADOW FARM RD",
-    "city": "LAFAYETTE",
-    "time": "06/25/2020 - 1:33 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.15813,
-    "longitude": -92.04675
   },
   {
     "address": "SW EVANGELINE TW & E VEROT SCHOOL RD",
