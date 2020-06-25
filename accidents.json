@@ -1,5 +1,13 @@
 [
   {
+    "address": "1602 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "06/25/2020 - 2:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24958,
+    "longitude": -92.03503
+  },
+  {
     "address": "93 I10 WB EXIT RAMP HW",
     "city": "DUSON",
     "time": "06/25/2020 - 2:13 PM",
