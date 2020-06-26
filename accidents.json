@@ -1,5 +1,13 @@
 [
   {
+    "address": "516 CURTIS ST",
+    "city": "LAFAYETTE",
+    "time": "06/26/2020 - 6:13 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.21572,
+    "longitude": -92.03121
+  },
+  {
     "address": "203 BON VIE DR",
     "city": "LAFAYETTE",
     "time": "06/26/2020 - 5:57 PM",
