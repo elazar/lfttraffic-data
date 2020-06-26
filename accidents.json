@@ -1,5 +1,13 @@
 [
   {
+    "address": "3606 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/26/2020 - 11:05 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.17411,
+    "longitude": -92.07049
+  },
+  {
     "address": "3100 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/26/2020 - 10:40 AM",
@@ -38,13 +46,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23312,
     "longitude": -92.01407
-  },
-  {
-    "address": "W PINHOOK RD & SAGE GLENN LN",
-    "city": "LAFAYETTE",
-    "time": "06/26/2020 - 09:39 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.18032,
-    "longitude": -92.00412
   }
 ]
