@@ -1,5 +1,13 @@
 [
   {
+    "address": "2600 ROBLEY DR",
+    "city": "LAFAYETTE",
+    "time": "06/26/2020 - 12:11 PM",
+    "due_to": "Hazard",
+    "latitude": 30.1320289,
+    "longitude": -92.0909913
+  },
+  {
     "address": "4313 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/26/2020 - 11:48 AM",
