@@ -1,5 +1,13 @@
 [
   {
+    "address": "103 I10 WESTBOUND MM103A HW",
+    "city": "LAFAYETTE",
+    "time": "06/26/2020 - 10:15 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "MUDD AV & NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "06/26/2020 - 09:46 AM",
