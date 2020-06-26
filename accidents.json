@@ -1,5 +1,13 @@
 [
   {
+    "address": "GRIGGS AV & E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "06/26/2020 - 1:04 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.22757,
+    "longitude": -91.99691
+  },
+  {
     "address": "3747 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/26/2020 - 1:00 PM",
