@@ -1,5 +1,13 @@
 [
   {
+    "address": "BON VIE DR & LA BELLE DR",
+    "city": "LAFAYETTE",
+    "time": "06/26/2020 - 5:57 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.21102,
+    "longitude": -92.08063
+  },
+  {
     "address": "MOSS ST & PARKLANE RD",
     "city": "LAFAYETTE",
     "time": "06/26/2020 - 5:36 PM",
@@ -38,13 +46,5 @@
     "due_to": "Residential Fire",
     "latitude": 30.23006,
     "longitude": -91.99303
-  },
-  {
-    "address": "4401 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/26/2020 - 4:26 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15979,
-    "longitude": -92.04845
   }
 ]
