@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23637,
     "longitude": -92.01279
-  },
-  {
-    "address": "103 I10 WESTBOUND MM103A HW",
-    "city": "LAFAYETTE",
-    "time": "06/26/2020 - 10:15 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.26255,
-    "longitude": -92.00867
   }
 ]
