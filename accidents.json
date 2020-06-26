@@ -1,5 +1,13 @@
 [
   {
+    "address": "126 LEXINGTON DR",
+    "city": "DUSON",
+    "time": "06/26/2020 - 4:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25184,
+    "longitude": -92.19508
+  },
+  {
     "address": "222 MAYO ST",
     "city": "LAFAYETTE",
     "time": "06/26/2020 - 4:31 PM",
