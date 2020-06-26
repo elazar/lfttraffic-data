@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "06/26/2020 - 2:48 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.18136,
+    "longitude": -92.07126
+  },
+  {
     "address": "2429 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "06/26/2020 - 2:36 PM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1457735,
     "longitude": -92.0326834
-  },
-  {
-    "address": "CAMELLIA BL & EASTLAND DR",
-    "city": "LAFAYETTE",
-    "time": "06/26/2020 - 1:56 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1918,
-    "longitude": -92.05643
   },
   {
     "address": "LOUISIANA AV & SW EVANGELINE TW",
