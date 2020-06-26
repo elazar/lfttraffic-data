@@ -54,13 +54,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1803149,
     "longitude": -91.9885216
-  },
-  {
-    "address": "100 RIDGE RD",
-    "city": "LAFAYETTE",
-    "time": "06/26/2020 - 3:11 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1814949,
-    "longitude": -92.0714075
   }
 ]
