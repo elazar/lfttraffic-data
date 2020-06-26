@@ -1,5 +1,12 @@
 [
-  null,
+  {
+    "address": "3747 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/26/2020 - 1:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17254,
+    "longitude": -92.06583
+  },
   {
     "address": "E GLORIA SWITCH RD & NE EVANGELINE TW",
     "city": "LAFAYETTE",
