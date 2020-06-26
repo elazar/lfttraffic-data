@@ -1,5 +1,13 @@
 [
   {
+    "address": "6400 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/26/2020 - 4:53 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1578596,
+    "longitude": -92.0874854
+  },
+  {
     "address": "126 LEXINGTON DR",
     "city": "DUSON",
     "time": "06/26/2020 - 4:45 PM",
