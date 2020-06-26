@@ -1,5 +1,13 @@
 [
   {
+    "address": "215 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "06/26/2020 - 11:14 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.24469,
+    "longitude": -92.01605
+  },
+  {
     "address": "3606 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/26/2020 - 11:05 AM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23637,
     "longitude": -92.01279
-  },
-  {
-    "address": "100 BROADVIEW",
-    "city": "Lafayette",
-    "time": "06/26/2020 - 10:17 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.1328688,
-    "longitude": -91.9692688
   },
   {
     "address": "103 I10 WESTBOUND MM103A HW",
