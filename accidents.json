@@ -54,13 +54,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.25184,
     "longitude": -92.19508
-  },
-  {
-    "address": "222 MAYO ST",
-    "city": "LAFAYETTE",
-    "time": "06/26/2020 - 4:31 PM",
-    "due_to": "Residential Fire",
-    "latitude": 30.23006,
-    "longitude": -91.99303
   }
 ]
