@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "910 S MORGAN AV",
+    "city": "BROUSSARD",
+    "time": "06/26/2020 - 06:49 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.13727,
+    "longitude": -91.96616
+  }
+]
