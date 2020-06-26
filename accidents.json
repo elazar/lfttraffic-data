@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & E UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "06/26/2020 - 1:35 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21056,
+    "longitude": -92.00978
+  },
+  {
     "address": "NW EVANGELINE TW & VETERANS DR",
     "city": "CARENCRO",
     "time": "06/26/2020 - 1:31 PM",
