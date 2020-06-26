@@ -1,5 +1,13 @@
 [
   {
+    "address": "728 WESTGATE RD",
+    "city": "SCOTT",
+    "time": "06/26/2020 - 1:49 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22364,
+    "longitude": -92.08745
+  },
+  {
     "address": "100 GRIFFIN RD",
     "city": "YOUNGSVILLE",
     "time": "06/26/2020 - 1:40 PM",
