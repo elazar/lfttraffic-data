@@ -1,19 +1,19 @@
 [
   {
+    "address": "149 ARNOULD BL",
+    "city": "LAFAYETTE",
+    "time": "06/26/2020 - 11:15 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20321,
+    "longitude": -92.05468
+  },
+  {
     "address": "215 W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "06/26/2020 - 11:14 AM",
     "due_to": "Fire Investigation",
     "latitude": 30.24469,
     "longitude": -92.01605
-  },
-  {
-    "address": "3606 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/26/2020 - 11:05 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.17411,
-    "longitude": -92.07049
   },
   {
     "address": "3100 AMBASSADOR CAFFERY PW",
