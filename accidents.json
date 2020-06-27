@@ -1,5 +1,13 @@
 [
   {
+    "address": "400 PANDORA ST",
+    "city": "LAFAYETTE",
+    "time": "06/26/2020 - 11:24 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.20604,
+    "longitude": -92.0633
+  },
+  {
     "address": "5416 CAMERON ST",
     "city": "SCOTT",
     "time": "06/26/2020 - 11:16 PM",
