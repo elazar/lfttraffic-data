@@ -1,11 +1,27 @@
 [
   {
+    "address": "4600 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "06/27/2020 - 10:47 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1959929,
+    "longitude": -92.0837548
+  },
+  {
     "address": "CAMELLIA BL & WORTH AV",
     "city": "LAFAYETTE",
     "time": "06/27/2020 - 10:39 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.1701,
     "longitude": -92.03938
+  },
+  {
+    "address": "3799 GOLDEN GRAIN RD",
+    "city": "LAFAYETTE",
+    "time": "06/27/2020 - 10:31 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1664798,
+    "longitude": -92.259997
   },
   {
     "address": "BONIN RD & W PINHOOK RD",
