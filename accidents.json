@@ -1,5 +1,13 @@
 [
   {
+    "address": "110 STOCKTON DR",
+    "city": "LAFAYETTE",
+    "time": "06/27/2020 - 4:14 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.19024,
+    "longitude": -92.07471
+  },
+  {
     "address": "201 MEADOW FARM RD",
     "city": "LAFAYETTE",
     "time": "06/27/2020 - 3:42 PM",
