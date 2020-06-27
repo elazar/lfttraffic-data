@@ -1,5 +1,13 @@
 [
   {
+    "address": "MOSS ST & ESSEN DR",
+    "city": "LAFAYETTE",
+    "time": "06/27/2020 - 10:01 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.28781,
+    "longitude": -92.00669
+  },
+  {
     "address": "2426 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "06/27/2020 - 09:36 AM",
