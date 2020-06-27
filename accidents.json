@@ -1,5 +1,13 @@
 [
   {
+    "address": "BONIN RD & W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "06/27/2020 - 10:26 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16412,
+    "longitude": -91.9959
+  },
+  {
     "address": "W UNIVERSITY AV & PARKSIDE DR",
     "city": "LAFAYETTE",
     "time": "06/27/2020 - 10:21 AM",
