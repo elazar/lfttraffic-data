@@ -1,5 +1,13 @@
 [
   {
+    "address": "E SIMCOE ST & MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "06/27/2020 - 10:08 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23069,
+    "longitude": -92.00911
+  },
+  {
     "address": "MOSS ST & ESSEN DR",
     "city": "LAFAYETTE",
     "time": "06/27/2020 - 10:01 AM",
