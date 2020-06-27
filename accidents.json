@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & ST CHARLES ST",
+    "city": "CARENCRO",
+    "time": "06/27/2020 - 11:50 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.31912,
+    "longitude": -92.0495
+  },
+  {
     "address": "2007 NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "06/27/2020 - 11:07 AM",
@@ -14,13 +22,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.14506,
     "longitude": -92.1023
-  },
-  {
-    "address": "E SIMCOE ST & MOSS ST",
-    "city": "LAFAYETTE",
-    "time": "06/27/2020 - 10:08 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23069,
-    "longitude": -92.00911
   }
 ]
