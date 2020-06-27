@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & ANDRES RD",
+    "city": "LAFAYETTE",
+    "time": "06/27/2020 - 09:26 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23492,
+    "longitude": -92.12526
+  },
+  {
     "address": "NE EVANGELINE TW & MUDD AV",
     "city": "LAFAYETTE",
     "time": "06/27/2020 - 08:57 AM",
