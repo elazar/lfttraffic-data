@@ -1,5 +1,13 @@
 [
   {
+    "address": "201 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "06/26/2020 - 10:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24288,
+    "longitude": -92.06573
+  },
+  {
     "address": "4443 VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "06/26/2020 - 10:25 PM",
