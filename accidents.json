@@ -1,5 +1,13 @@
 [
   {
+    "address": "201 MEADOW FARM RD",
+    "city": "LAFAYETTE",
+    "time": "06/27/2020 - 3:42 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15627,
+    "longitude": -92.04436
+  },
+  {
     "address": "W CONGRESS ST & CAJUNDOME BL",
     "city": "LAFAYETTE",
     "time": "06/27/2020 - 3:34 PM",
