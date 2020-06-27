@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 SANTANDER DR",
+    "city": "LAFAYETTE",
+    "time": "06/27/2020 - 11:08 AM",
+    "due_to": "Hazard",
+    "latitude": 30.0712,
+    "longitude": -92.02965
+  },
+  {
     "address": "2007 NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "06/27/2020 - 11:07 AM",
