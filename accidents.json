@@ -1,5 +1,13 @@
 [
   {
+    "address": "500 W BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "06/27/2020 - 1:07 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1646003,
+    "longitude": -92.0994751
+  },
+  {
     "address": "3600 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/27/2020 - 12:57 PM",
