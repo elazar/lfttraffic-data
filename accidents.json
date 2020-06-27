@@ -1,5 +1,13 @@
 [
   {
+    "address": "W UNIVERSITY AV & PARKSIDE DR",
+    "city": "LAFAYETTE",
+    "time": "06/27/2020 - 10:21 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22241,
+    "longitude": -92.02585
+  },
+  {
     "address": "100 HAPSBURG LN",
     "city": "LAFAYETTE",
     "time": "06/27/2020 - 10:18 AM",
