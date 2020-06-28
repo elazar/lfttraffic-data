@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & FREM BOUSTANY DR",
+    "city": "LAFAYETTE",
+    "time": "06/28/2020 - 09:22 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.15011,
+    "longitude": -92.0406
+  },
+  {
     "address": "BONIN RD & TOLSON RD",
     "city": "LAFAYETTE",
     "time": "06/28/2020 - 09:10 AM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.26436,
     "longitude": -91.9926
-  },
-  {
-    "address": "100 HECTOR CONNOLY RD",
-    "city": "CARENCRO",
-    "time": "06/28/2020 - 08:41 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.3225078,
-    "longitude": -92.0323092
   }
 ]
