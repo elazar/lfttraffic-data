@@ -1,5 +1,13 @@
 [
   {
+    "address": "4555 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/28/2020 - 10:49 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18906,
+    "longitude": -92.06268
+  },
+  {
     "address": "5803 CAMERON ST",
     "city": "SCOTT",
     "time": "06/28/2020 - 10:39 AM",
