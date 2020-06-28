@@ -1,5 +1,13 @@
 [
   {
+    "address": "BONIN RD & TOLSON RD",
+    "city": "LAFAYETTE",
+    "time": "06/28/2020 - 09:10 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15204,
+    "longitude": -92.00654
+  },
+  {
     "address": "3200 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "06/28/2020 - 08:47 AM",
