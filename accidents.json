@@ -1,18 +1,18 @@
 [
   {
+    "address": "3200 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "06/28/2020 - 08:47 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26436,
+    "longitude": -91.9926
+  },
+  {
     "address": "100 HECTOR CONNOLY RD",
     "city": "CARENCRO",
     "time": "06/28/2020 - 08:41 AM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.3225078,
     "longitude": -92.0323092
-  },
-  {
-    "address": "5803 CAMERON ST",
-    "city": "SCOTT",
-    "time": "06/28/2020 - 08:40 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.2334251,
-    "longitude": -92.0945463
   }
 ]
