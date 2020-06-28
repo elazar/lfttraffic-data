@@ -1,5 +1,21 @@
 [
   {
+    "address": "AUBURN AV & HOOVER ST",
+    "city": "LAFAYETTE",
+    "time": "06/28/2020 - 1:17 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.20873,
+    "longitude": -92.01194
+  },
+  {
+    "address": "W PINHOOK RD & SOUTHPARK RD",
+    "city": "LAFAYETTE",
+    "time": "06/28/2020 - 1:17 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16071,
+    "longitude": -91.99107
+  },
+  {
     "address": "518 GOLDMAN ST",
     "city": "LAFAYETTE",
     "time": "06/28/2020 - 1:06 PM",
