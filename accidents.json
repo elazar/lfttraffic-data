@@ -8,28 +8,12 @@
     "longitude": -91.95971
   },
   {
-    "address": "200 PETROLEUM RD (SE)",
-    "city": "LAFAYETTE",
-    "time": "06/28/2020 - 2:25 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.1652665,
-    "longitude": -91.9840227
-  },
-  {
     "address": "300 RUE DE LA VACHE",
     "city": "LAFAYETTE",
     "time": "06/28/2020 - 2:20 PM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.2724471,
     "longitude": -92.0964733
-  },
-  {
-    "address": "E PINHOOK RD & SW EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "06/28/2020 - 2:14 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.21749,
-    "longitude": -92.00495
   },
   {
     "address": "2426 W CONGRESS ST",
