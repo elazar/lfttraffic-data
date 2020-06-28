@@ -1,5 +1,13 @@
 [
   {
+    "address": "205 RUE DE FREJUS",
+    "city": "BROUSSARD",
+    "time": "06/28/2020 - 3:36 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.14193,
+    "longitude": -91.98225
+  },
+  {
     "address": "N COLLEGE RD & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "06/28/2020 - 2:35 PM",
