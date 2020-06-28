@@ -1,11 +1,11 @@
 [
   {
-    "address": "AUBURN AV & HOOVER ST",
+    "address": "620 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "06/28/2020 - 1:17 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.20873,
-    "longitude": -92.01194
+    "due_to": "Fire Investigation",
+    "latitude": 30.2077,
+    "longitude": -92.01208
   },
   {
     "address": "W PINHOOK RD & SOUTHPARK RD",
