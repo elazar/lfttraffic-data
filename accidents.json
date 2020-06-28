@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "4406 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/28/2020 - 01:23 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.19367,
+    "longitude": -92.0594
+  }
+]
