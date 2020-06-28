@@ -1,5 +1,13 @@
 [
   {
+    "address": "111 DORA ST",
+    "city": "LAFAYETTE",
+    "time": "06/27/2020 - 8:21 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23626,
+    "longitude": -92.03837
+  },
+  {
     "address": "313 CALYPSO LN",
     "city": "LAFAYETTE",
     "time": "06/27/2020 - 5:36 PM",
