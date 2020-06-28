@@ -1,27 +1,11 @@
 [
   {
-    "address": "2300 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/27/2020 - 7:40 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2104321,
-    "longitude": -92.0758249
-  },
-  {
     "address": "1930 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "06/27/2020 - 7:27 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.18677,
     "longitude": -92.0132
-  },
-  {
-    "address": "9023 CAMERON ST",
-    "city": "DUSON",
-    "time": "06/27/2020 - 7:18 PM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.23481,
-    "longitude": -92.18318
   },
   {
     "address": "313 CALYPSO LN",
