@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "169 S BEADLE RD",
+    "city": "LAFAYETTE",
+    "time": "06/27/2020 - 11:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17766,
+    "longitude": -92.01508
+  }
+]
