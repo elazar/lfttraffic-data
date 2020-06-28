@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.12388,
     "longitude": -92.02282
-  },
-  {
-    "address": "313 CALYPSO LN",
-    "city": "LAFAYETTE",
-    "time": "06/27/2020 - 5:36 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.15279,
-    "longitude": -91.98578
   }
 ]
