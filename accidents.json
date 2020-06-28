@@ -1,5 +1,13 @@
 [
   {
+    "address": "518 GOLDMAN ST",
+    "city": "LAFAYETTE",
+    "time": "06/28/2020 - 1:06 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.2353,
+    "longitude": -92.01035
+  },
+  {
     "address": "W CONGRESS ST & MYRTLE PL",
     "city": "LAFAYETTE",
     "time": "06/28/2020 - 12:31 PM",
