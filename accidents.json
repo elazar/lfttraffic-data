@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 RUE DE LA VACHE",
+    "city": "LAFAYETTE",
+    "time": "06/28/2020 - 2:20 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2724471,
+    "longitude": -92.0964733
+  },
+  {
     "address": "E PINHOOK RD & SW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "06/28/2020 - 2:14 PM",
