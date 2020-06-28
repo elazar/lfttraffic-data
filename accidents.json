@@ -1,5 +1,13 @@
 [
   {
+    "address": "1100 S RICHFIELD RD",
+    "city": "DUSON",
+    "time": "06/28/2020 - 4:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2264099,
+    "longitude": -92.1761552
+  },
+  {
     "address": "W CONGRESS ST & THEATRE ST",
     "city": "LAFAYETTE",
     "time": "06/28/2020 - 4:02 PM",
