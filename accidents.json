@@ -1,5 +1,21 @@
 [
   {
+    "address": "DUNVEGAN CT & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "06/29/2020 - 2:38 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15259,
+    "longitude": -92.09191
+  },
+  {
+    "address": "2106 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "06/29/2020 - 2:38 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25257,
+    "longitude": -92.01327
+  },
+  {
     "address": "4400 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/29/2020 - 2:37 PM",
@@ -14,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.27764,
     "longitude": -92.05002
-  },
-  {
-    "address": "L PROVOST RD & PROVOST ST",
-    "city": "SCOTT",
-    "time": "06/29/2020 - 2:08 PM",
-    "due_to": "Vehicle Fire",
-    "latitude": 30.2262,
-    "longitude": -92.09837
   },
   {
     "address": "SW EVANGELINE TW & E UNIVERSITY AV",
