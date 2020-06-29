@@ -38,13 +38,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.1131515,
     "longitude": -91.9737865
-  },
-  {
-    "address": "2406 W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "06/29/2020 - 1:14 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21415,
-    "longitude": -92.04865
   }
 ]
