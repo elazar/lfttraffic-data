@@ -1,5 +1,13 @@
 [
   {
+    "address": "W UNIVERSITY AV & ST LANDRY ST",
+    "city": "LAFAYETTE",
+    "time": "06/29/2020 - 3:31 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22067,
+    "longitude": -92.02351
+  },
+  {
     "address": "3600 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "06/29/2020 - 3:14 PM",
