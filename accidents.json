@@ -1,5 +1,13 @@
 [
   {
+    "address": "RENAUD DR & ELMIRA RD",
+    "city": "SCOTT",
+    "time": "06/29/2020 - 11:29 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.25401,
+    "longitude": -92.07881
+  },
+  {
     "address": "400 IBERVILLE ST",
     "city": "LAFAYETTE",
     "time": "06/29/2020 - 11:20 AM",
