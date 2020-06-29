@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & AMBASSADOR CAFFERY PW",
+    "city": "BROUSSARD",
+    "time": "06/29/2020 - 6:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1174,
+    "longitude": -91.94361
+  },
+  {
     "address": "1600 E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "06/29/2020 - 5:24 PM",
