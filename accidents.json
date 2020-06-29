@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1000 APOLLO RD",
+    "city": "SCOTT",
+    "time": "06/29/2020 - 12:21 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2463,
+    "longitude": -92.10947
+  }
+]
