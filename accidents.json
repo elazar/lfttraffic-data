@@ -1,5 +1,13 @@
 [
   {
+    "address": "4605 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "06/29/2020 - 11:50 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1954,
+    "longitude": -92.08403
+  },
+  {
     "address": "127 MILDRED ST",
     "city": "LAFAYETTE",
     "time": "06/29/2020 - 11:46 AM",
