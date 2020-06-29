@@ -38,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15712,
     "longitude": -92.05125
-  },
-  {
-    "address": "500 N LARRIVIERE RD",
-    "city": "YOUNGSVILLE",
-    "time": "06/29/2020 - 1:53 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.1131515,
-    "longitude": -91.9737865
   }
 ]
