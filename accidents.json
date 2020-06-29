@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "address": "2406 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "06/29/2020 - 1:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21415,
+    "longitude": -92.04865
+  },
+  {
+    "address": "420 BERG CT",
+    "city": "YOUNGSVILLE",
+    "time": "06/29/2020 - 1:13 PM",
+    "due_to": "Incoming Call",
+    "latitude": null,
+    "longitude": null
+  }
+]
