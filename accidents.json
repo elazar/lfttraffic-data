@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & BIRDSONG RD",
+    "city": "LAFAYETTE",
+    "time": "06/29/2020 - 2:25 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27764,
+    "longitude": -92.05002
+  },
+  {
     "address": "L PROVOST RD & PROVOST ST",
     "city": "SCOTT",
     "time": "06/29/2020 - 2:08 PM",
