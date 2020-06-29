@@ -1,5 +1,13 @@
 [
   {
+    "address": "301 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "06/29/2020 - 12:28 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.22645,
+    "longitude": -92.01961
+  },
+  {
     "address": "3051 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "06/29/2020 - 12:03 PM",
