@@ -1,5 +1,13 @@
 [
   {
+    "address": "1600 E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "06/29/2020 - 5:24 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.22854,
+    "longitude": -91.99852
+  },
+  {
     "address": "106 ARABELLA BL",
     "city": "LAFAYETTE",
     "time": "06/29/2020 - 5:19 PM",
