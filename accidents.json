@@ -1,21 +1,5 @@
 [
   {
-    "address": "600 KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "06/29/2020 - 5:49 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.18161,
-    "longitude": -92.01922
-  },
-  {
-    "address": "700 APOLLO RD",
-    "city": "SCOTT",
-    "time": "06/29/2020 - 5:35 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2463,
-    "longitude": -92.10947
-  },
-  {
     "address": "1600 E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "06/29/2020 - 5:24 PM",
