@@ -1,5 +1,13 @@
 [
   {
+    "address": "LANDRY RD & TABB RD",
+    "city": "LAFAYETTE",
+    "time": "06/30/2020 - 1:28 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2119,
+    "longitude": -92.1207
+  },
+  {
     "address": "410 ERASTE LANDRY RD",
     "city": "LAFAYETTE",
     "time": "06/30/2020 - 1:25 PM",
