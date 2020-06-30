@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "BOURQUE RD & S FIELDSPAN RD",
+    "city": "LAFAYETTE",
+    "time": "06/30/2020 - 05:48 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13778,
+    "longitude": -92.14161
+  }
+]
