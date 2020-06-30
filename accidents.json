@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & CANBERRA RD",
+    "city": "LAFAYETTE",
+    "time": "06/30/2020 - 5:55 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15924,
+    "longitude": -92.08588
+  },
+  {
     "address": "MOSS ST & E PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "06/30/2020 - 5:39 PM",
