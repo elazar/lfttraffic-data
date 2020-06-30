@@ -16,14 +16,6 @@
     "longitude": -92.05813
   },
   {
-    "address": "101 SETTLERS TRACE BL",
-    "city": "LAFAYETTE",
-    "time": "06/30/2020 - 2:14 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17095,
-    "longitude": -92.03489
-  },
-  {
     "address": "JOHNSTON ST & W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "06/30/2020 - 2:13 PM",
@@ -38,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2657,
     "longitude": -91.99574
-  },
-  {
-    "address": "BENDEL RD & MARGUERITE BL",
-    "city": "LAFAYETTE",
-    "time": "06/30/2020 - 1:11 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20083,
-    "longitude": -92.0186
   }
 ]
