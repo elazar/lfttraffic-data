@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "06/30/2020 - 2:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21729,
+    "longitude": -92.01902
+  },
+  {
     "address": "200 ARTISAN RD",
     "city": "LAFAYETTE",
     "time": "06/30/2020 - 1:43 PM",
