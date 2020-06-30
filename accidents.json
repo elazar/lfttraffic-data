@@ -1,5 +1,13 @@
 [
   {
+    "address": "AVENUE AU NORD & FIFTH ST",
+    "city": "DUSON",
+    "time": "06/29/2020 - 10:07 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.23907,
+    "longitude": -92.18163
+  },
+  {
     "address": "JOHNSTON ST & SOUTHCITY PW",
     "city": "LAFAYETTE",
     "time": "06/29/2020 - 9:32 PM",
