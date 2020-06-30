@@ -1,5 +1,13 @@
 [
   {
+    "address": "GARFIELD ST & LEE AV",
+    "city": "LAFAYETTE",
+    "time": "06/30/2020 - 5:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22532,
+    "longitude": -92.01571
+  },
+  {
     "address": "SUSAN ST & MARIE ANTOINETTE ST",
     "city": "LAFAYETTE",
     "time": "06/30/2020 - 4:58 PM",
