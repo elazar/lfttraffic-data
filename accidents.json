@@ -1,5 +1,13 @@
 [
   {
+    "address": "1008 GOLDEN GRAIN RD",
+    "city": "LAFAYETTE",
+    "time": "06/30/2020 - 06:53 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16022,
+    "longitude": -92.17183
+  },
+  {
     "address": "104 I10 WESTBOUND MM104 HW",
     "city": "LAFAYETTE",
     "time": "06/30/2020 - 06:29 AM",
