@@ -40,27 +40,11 @@
     "longitude": -92.04422
   },
   {
-    "address": "GIRARD PARK DR & AUDUBON BL",
-    "city": "LAFAYETTE",
-    "time": "06/30/2020 - 1:14 PM",
-    "due_to": "Hazard",
-    "latitude": 30.20673,
-    "longitude": -92.01873
-  },
-  {
     "address": "BENDEL RD & MARGUERITE BL",
     "city": "LAFAYETTE",
     "time": "06/30/2020 - 1:11 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.20083,
     "longitude": -92.0186
-  },
-  {
-    "address": "ERASTE LANDRY RD & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "06/30/2020 - 1:07 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21912,
-    "longitude": -92.07587
   }
 ]
