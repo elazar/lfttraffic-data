@@ -1,5 +1,21 @@
 [
   {
+    "address": "1234 E PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "06/30/2020 - 4:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27238,
+    "longitude": -91.99639
+  },
+  {
+    "address": "117 BEAUCHAMP LN",
+    "city": "LAFAYETTE",
+    "time": "06/30/2020 - 4:19 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.1630643,
+    "longitude": -92.0970649
+  },
+  {
     "address": "PORTER LN & ST MARGARITE ST",
     "city": "LAFAYETTE",
     "time": "06/30/2020 - 4:08 PM",
