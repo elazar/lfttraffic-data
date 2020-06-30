@@ -1,5 +1,13 @@
 [
   {
+    "address": "304 FOURTH ST",
+    "city": "YOUNGSVILLE",
+    "time": "06/30/2020 - 08:17 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.09506,
+    "longitude": -91.99639
+  },
+  {
     "address": "6700 AMBASSADOR CAFFERY PW",
     "city": "BROUSSARD",
     "time": "06/30/2020 - 08:04 AM",
