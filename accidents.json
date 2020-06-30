@@ -1,5 +1,13 @@
 [
   {
+    "address": "1214 ST MARY ST",
+    "city": "SCOTT",
+    "time": "06/30/2020 - 1:34 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2379133,
+    "longitude": -92.0953789
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & GALBERT RD",
     "city": "LAFAYETTE",
     "time": "06/30/2020 - 1:31 PM",
