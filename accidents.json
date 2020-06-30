@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "LOUISIANA AV & PERSHING AV",
+    "city": "LAFAYETTE",
+    "time": "06/30/2020 - 11:54 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23231,
+    "longitude": -92.00261
+  }
+]
