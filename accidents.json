@@ -1,5 +1,13 @@
 [
   {
+    "address": "KALISTE SALOOM RD & E BAYOU PW",
+    "city": "LAFAYETTE",
+    "time": "06/30/2020 - 1:48 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.18289,
+    "longitude": -92.01725
+  },
+  {
     "address": "200 ARTISAN RD",
     "city": "LAFAYETTE",
     "time": "06/30/2020 - 1:43 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2657,
     "longitude": -91.99574
-  },
-  {
-    "address": "LA 93 HW & I10 HW",
-    "city": "SCOTT",
-    "time": "06/30/2020 - 1:36 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.23922,
-    "longitude": -92.10743
   },
   {
     "address": "1214 ST MARY ST",
