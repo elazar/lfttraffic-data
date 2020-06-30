@@ -1,5 +1,13 @@
 [
   {
+    "address": "GIRARD PARK DR & AUDUBON BL",
+    "city": "LAFAYETTE",
+    "time": "06/30/2020 - 1:14 PM",
+    "due_to": "Hazard",
+    "latitude": 30.20673,
+    "longitude": -92.01873
+  },
+  {
     "address": "S RICHFIELD RD & PEYTON LN",
     "city": "LAFAYETTE",
     "time": "06/30/2020 - 1:11 PM",
