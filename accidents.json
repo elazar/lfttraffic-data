@@ -1,5 +1,13 @@
 [
   {
+    "address": "SUSAN ST & MARIE ANTOINETTE ST",
+    "city": "LAFAYETTE",
+    "time": "06/30/2020 - 4:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20936,
+    "longitude": -92.06196
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & OLE COLONY RD",
     "city": "LAFAYETTE",
     "time": "06/30/2020 - 4:44 PM",
