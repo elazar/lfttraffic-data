@@ -3,7 +3,7 @@
     "address": "CORA ST & CARVER ST",
     "city": "LAFAYETTE",
     "time": "06/29/2020 - 7:40 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.24841,
     "longitude": -92.02657
   },
@@ -14,14 +14,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21148,
     "longitude": -92.0272653
-  },
-  {
-    "address": "200 PALERMO BL",
-    "city": "LAFAYETTE",
-    "time": "06/29/2020 - 7:17 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.1554394,
-    "longitude": -92.0018343
   },
   {
     "address": "NE EVANGELINE TW & MUDD AV",
