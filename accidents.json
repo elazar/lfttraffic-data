@@ -1,5 +1,13 @@
 [
   {
+    "address": "E BROUSSARD RD & MARTELE BL",
+    "city": "LAFAYETTE",
+    "time": "07/01/2020 - 1:45 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.14586,
+    "longitude": -92.08488
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "07/01/2020 - 1:26 PM",
