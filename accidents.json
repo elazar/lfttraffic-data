@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "07/01/2020 - 3:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2408957,
+    "longitude": -92.0662941
+  },
+  {
     "address": "SW EVANGELINE TW & E UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "07/01/2020 - 2:33 PM",
