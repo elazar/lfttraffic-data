@@ -1,5 +1,13 @@
 [
   {
+    "address": "SW EVANGELINE TW & E UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "07/01/2020 - 2:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20908,
+    "longitude": -92.00007
+  },
+  {
     "address": "3800 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/01/2020 - 2:28 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.25004,
     "longitude": -92.02892
-  },
-  {
-    "address": "100 EMBER GROVE CROSSING",
-    "city": "LAFAYETTE",
-    "time": "07/01/2020 - 1:02 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1546902,
-    "longitude": -92.0100889
   },
   {
     "address": "700 BENOIT RD",
