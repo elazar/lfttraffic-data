@@ -1,5 +1,21 @@
 [
   {
+    "address": "ALCIDE DOMINIQUE DR & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "07/01/2020 - 6:22 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.24935,
+    "longitude": -92.03534
+  },
+  {
+    "address": "3806 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "07/01/2020 - 6:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17072,
+    "longitude": -92.06613
+  },
+  {
     "address": "ROBLEY DR & LOWES CENTER DR",
     "city": "LAFAYETTE",
     "time": "07/01/2020 - 6:03 PM",
