@@ -1,5 +1,13 @@
 [
   {
+    "address": "4460 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/01/2020 - 12:37 PM",
+    "due_to": "Vehicle Fire",
+    "latitude": 30.192,
+    "longitude": -92.06098
+  },
+  {
     "address": "1500 GOLDEN GRAIN RD",
     "city": "LAFAYETTE",
     "time": "07/01/2020 - 12:21 PM",
