@@ -1,5 +1,21 @@
 [
   {
+    "address": "E MILTON AV & CHEMIN METAIRIE",
+    "city": "YOUNGSVILLE",
+    "time": "07/01/2020 - 6:43 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.10919,
+    "longitude": -92.02391
+  },
+  {
+    "address": "I49 NORTHBOUND MM4 HW & HECTOR CONNOLY RD",
+    "city": "LAFAYETTE",
+    "time": "07/01/2020 - 6:43 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.31911,
+    "longitude": -92.00266
+  },
+  {
     "address": "152 E GLORIA SWITCH RD",
     "city": "LAFAYETTE",
     "time": "07/01/2020 - 6:39 PM",
@@ -22,14 +38,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.2441004,
     "longitude": -92.0457951
-  },
-  {
-    "address": "3806 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "07/01/2020 - 6:22 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17072,
-    "longitude": -92.06613
   },
   {
     "address": "ROBLEY DR & LOWES CENTER DR",
