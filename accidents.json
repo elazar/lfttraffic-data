@@ -1,5 +1,13 @@
 [
   {
+    "address": "ROBLEY DR & LOWES CENTER DR",
+    "city": "LAFAYETTE",
+    "time": "07/01/2020 - 6:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1666,
+    "longitude": -92.07122
+  },
+  {
     "address": "W GLORIA SWITCH RD & NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/01/2020 - 4:55 PM",
