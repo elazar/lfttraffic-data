@@ -1,5 +1,21 @@
 [
   {
+    "address": "FIRST ST & S RICHFIELD RD",
+    "city": "DUSON",
+    "time": "07/01/2020 - 3:53 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23585,
+    "longitude": -92.17607
+  },
+  {
+    "address": "4310 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "07/01/2020 - 3:53 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15773,
+    "longitude": -92.05211
+  },
+  {
     "address": "3561 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/01/2020 - 3:48 PM",
