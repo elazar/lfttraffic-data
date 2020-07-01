@@ -1,5 +1,13 @@
 [
   {
+    "address": "AYMAR RD & W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "06/30/2020 - 8:37 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1785,
+    "longitude": -92.00318
+  },
+  {
     "address": "I10 EASTBOUND MM105 HW & LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "06/30/2020 - 8:16 PM",
