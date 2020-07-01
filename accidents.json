@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 EMBER GROVE CROSSING",
+    "city": "LAFAYETTE",
+    "time": "07/01/2020 - 1:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1546902,
+    "longitude": -92.0100889
+  },
+  {
     "address": "HECTOR CONNOLY RD & NE FRONTAGE RD",
     "city": "CARENCRO",
     "time": "07/01/2020 - 12:52 PM",
