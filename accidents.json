@@ -1,5 +1,13 @@
 [
   {
+    "address": "COOLIDGE ST & S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "06/30/2020 - 7:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20144,
+    "longitude": -92.01936
+  },
+  {
     "address": "SW EVANGELINE TW & E VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "06/30/2020 - 6:53 PM",
