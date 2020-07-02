@@ -1,5 +1,13 @@
 [
   {
+    "address": "603 N ST ANTOINE ST",
+    "city": "LAFAYETTE",
+    "time": "07/02/2020 - 09:57 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23842,
+    "longitude": -92.02514
+  },
+  {
     "address": "113 THIRD ST",
     "city": "CARENCRO",
     "time": "07/02/2020 - 09:53 AM",
@@ -30,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16717,
     "longitude": -92.03642
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & ROBLEY DR",
-    "city": "LAFAYETTE",
-    "time": "07/02/2020 - 09:03 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17117,
-    "longitude": -92.06617
   }
 ]
