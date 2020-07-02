@@ -1,5 +1,13 @@
 [
   {
+    "address": "2678 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/02/2020 - 3:44 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20852,
+    "longitude": -92.03842
+  },
+  {
     "address": "5622 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/02/2020 - 3:41 PM",
@@ -54,13 +62,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21306,
     "longitude": -92.05018
-  },
-  {
-    "address": "MILLS ST & W GLORIA SWITCH RD",
-    "city": "LAFAYETTE",
-    "time": "07/02/2020 - 1:40 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.29784,
-    "longitude": -92.09144
   }
 ]
