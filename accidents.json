@@ -1,5 +1,13 @@
 [
   {
+    "address": "340 RUE DES VIEUX CHENES",
+    "city": "LAFAYETTE",
+    "time": "07/02/2020 - 2:36 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.13804,
+    "longitude": -91.9931
+  },
+  {
     "address": "110 TUCKER DR",
     "city": "LAFAYETTE",
     "time": "07/02/2020 - 2:34 PM",
