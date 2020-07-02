@@ -1,5 +1,21 @@
 [
   {
+    "address": "NE EVANGELINE TW & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "07/02/2020 - 3:23 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.29151,
+    "longitude": -92.02336
+  },
+  {
+    "address": "200 WYMAN RD",
+    "city": "LAFAYETTE",
+    "time": "07/02/2020 - 3:23 PM",
+    "due_to": "Explosion",
+    "latitude": 30.27496,
+    "longitude": -92.12771
+  },
+  {
     "address": "221 W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "07/02/2020 - 3:21 PM",
