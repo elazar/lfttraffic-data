@@ -1,5 +1,13 @@
 [
   {
+    "address": "VEROT SCHOOL RD & FEU FOLLET RD",
+    "city": "LAFAYETTE",
+    "time": "07/02/2020 - 12:44 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17533,
+    "longitude": -92.00692
+  },
+  {
     "address": "3016 E MILTON AV",
     "city": "YOUNGSVILLE",
     "time": "07/02/2020 - 12:33 PM",
@@ -22,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2129084,
     "longitude": -92.0758453
-  },
-  {
-    "address": "1005 E BROUSSARD RD",
-    "city": "LAFAYETTE",
-    "time": "07/02/2020 - 10:59 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1380009,
-    "longitude": -92.0674081
   }
 ]
