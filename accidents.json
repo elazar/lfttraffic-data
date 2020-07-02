@@ -1,5 +1,13 @@
 [
   {
+    "address": "204 STANWELL AV",
+    "city": "LAFAYETTE",
+    "time": "07/01/2020 - 7:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "address": "E MILTON AV & CHEMIN METAIRIE",
     "city": "YOUNGSVILLE",
     "time": "07/01/2020 - 6:43 PM",
