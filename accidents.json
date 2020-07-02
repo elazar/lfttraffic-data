@@ -1,5 +1,13 @@
 [
   {
+    "address": "500 KIDDER RD",
+    "city": "LAFAYETTE",
+    "time": "07/02/2020 - 2:52 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.35245,
+    "longitude": -92.02888
+  },
+  {
     "address": "NE EVANGELINE TW & E THIRD ST",
     "city": "LAFAYETTE",
     "time": "07/02/2020 - 2:47 PM",
