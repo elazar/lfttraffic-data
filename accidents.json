@@ -1,5 +1,13 @@
 [
   {
+    "address": "2514 E MILTON AV",
+    "city": "YOUNGSVILLE",
+    "time": "07/01/2020 - 8:01 PM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.10849,
+    "longitude": -92.02346
+  },
+  {
     "address": "NE EVANGELINE TW & E WILLOW ST",
     "city": "LAFAYETTE",
     "time": "07/01/2020 - 7:36 PM",
