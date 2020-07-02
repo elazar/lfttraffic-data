@@ -1,5 +1,13 @@
 [
   {
+    "address": "S COLLEGE RD & HORSESHOE DR",
+    "city": "LAFAYETTE",
+    "time": "07/02/2020 - 11:13 AM",
+    "due_to": "Hazardous Situation",
+    "latitude": 30.20272,
+    "longitude": -92.03246
+  },
+  {
     "address": "KALISTE SALOOM RD & E BROUSSARD RD",
     "city": "LAFAYETTE",
     "time": "07/02/2020 - 10:59 AM",
