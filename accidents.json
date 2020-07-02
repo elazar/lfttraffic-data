@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "KALISTE SALOOM RD & E BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "07/02/2020 - 10:59 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13792,
+    "longitude": -92.06754
+  }
+]
