@@ -1,5 +1,13 @@
 [
   {
+    "address": "2901 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/02/2020 - 2:21 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20569,
+    "longitude": -92.04069
+  },
+  {
     "address": "100 ST NAZAIRE RD",
     "city": "BROUSSARD",
     "time": "07/02/2020 - 2:05 PM",
