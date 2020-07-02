@@ -1,5 +1,13 @@
 [
   {
+    "address": "99 I10 EASTBOUND MM99 HW",
+    "city": "SCOTT",
+    "time": "07/02/2020 - 11:26 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.24727,
+    "longitude": -92.09751
+  },
+  {
     "address": "CAJUNDOME BL & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "07/02/2020 - 11:25 AM",
