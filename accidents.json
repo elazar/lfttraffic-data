@@ -1,5 +1,13 @@
 [
   {
+    "address": "2702 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/01/2020 - 9:46 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2070249,
+    "longitude": -92.0390303
+  },
+  {
     "address": "811 FOREMAN DR",
     "city": "LAFAYETTE",
     "time": "07/01/2020 - 8:54 PM",
