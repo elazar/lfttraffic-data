@@ -54,13 +54,5 @@
     "due_to": "Vehicle Fire",
     "latitude": 30.24247,
     "longitude": -92.06063
-  },
-  {
-    "address": "2444 W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "07/02/2020 - 2:02 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21306,
-    "longitude": -92.05018
   }
 ]
