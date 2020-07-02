@@ -1,5 +1,13 @@
 [
   {
+    "address": "220 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "07/02/2020 - 6:49 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24166,
+    "longitude": -92.06671
+  },
+  {
     "address": "WALTER DR & ARCENEAUX RD",
     "city": "CARENCRO",
     "time": "07/02/2020 - 6:32 PM",
