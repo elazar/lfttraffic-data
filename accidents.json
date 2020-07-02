@@ -1,5 +1,13 @@
 [
   {
+    "address": "NINTH ST & E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "07/02/2020 - 11:57 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22734,
+    "longitude": -91.9966
+  },
+  {
     "address": "2200 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/02/2020 - 11:53 AM",
