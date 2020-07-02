@@ -1,5 +1,13 @@
 [
   {
+    "address": "2317 E MILTON AV",
+    "city": "YOUNGSVILLE",
+    "time": "07/02/2020 - 4:12 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.10947,
+    "longitude": -92.02864
+  },
+  {
     "address": "3151 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/02/2020 - 3:59 PM",
