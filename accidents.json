@@ -1,5 +1,13 @@
 [
   {
+    "address": "HARBOR BEND BL & S BEADLE RD",
+    "city": "LAFAYETTE",
+    "time": "07/01/2020 - 8:20 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.17401,
+    "longitude": -92.01499
+  },
+  {
     "address": "2514 E MILTON AV",
     "city": "YOUNGSVILLE",
     "time": "07/01/2020 - 8:01 PM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24447,
     "longitude": -92.01187
-  },
-  {
-    "address": "E MILTON AV & CHEMIN METAIRIE",
-    "city": "YOUNGSVILLE",
-    "time": "07/01/2020 - 6:43 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.10919,
-    "longitude": -92.02391
   }
 ]
