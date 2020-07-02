@@ -46,13 +46,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.17501,
     "longitude": -92.07082
-  },
-  {
-    "address": "128 N BUD ST",
-    "city": "LAFAYETTE",
-    "time": "07/02/2020 - 2:41 PM",
-    "due_to": "Vehicle Fire",
-    "latitude": 30.24247,
-    "longitude": -92.06063
   }
 ]
