@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "WALTER DR & ARCENEAUX RD",
+    "city": "CARENCRO",
+    "time": "07/02/2020 - 6:32 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.30954,
+    "longitude": -92.04107
+  }
+]
