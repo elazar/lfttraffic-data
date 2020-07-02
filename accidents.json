@@ -1,5 +1,13 @@
 [
   {
+    "address": "MOSS ST & MUDD AV",
+    "city": "LAFAYETTE",
+    "time": "07/02/2020 - 01:50 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23248,
+    "longitude": -92.00878
+  },
+  {
     "address": "TEURLINGS DR & E PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "07/02/2020 - 01:46 AM",
