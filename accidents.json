@@ -1,5 +1,13 @@
 [
   {
+    "address": "513 WILSON ST",
+    "city": "LAFAYETTE",
+    "time": "07/02/2020 - 09:45 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2117,
+    "longitude": -92.01273
+  },
+  {
     "address": "133 EVANS LN",
     "city": "LAFAYETTE",
     "time": "07/02/2020 - 09:42 AM",
