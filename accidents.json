@@ -1,5 +1,13 @@
 [
   {
+    "address": "1001 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "07/03/2020 - 2:17 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23683,
+    "longitude": -92.01315
+  },
+  {
     "address": "E BROUSSARD RD & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "07/03/2020 - 1:59 PM",
