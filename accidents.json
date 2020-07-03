@@ -1,19 +1,19 @@
 [
   {
+    "address": "330 FOREST GROVE DR",
+    "city": "YOUNGSVILLE",
+    "time": "07/03/2020 - 1:25 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.08126,
+    "longitude": -91.98504
+  },
+  {
     "address": "3700 NW EVANGELINE TW",
     "city": "CARENCRO",
     "time": "07/03/2020 - 1:19 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.3144207,
     "longitude": -92.0319899
-  },
-  {
-    "address": "301 FAUL RD",
-    "city": "LAFAYETTE",
-    "time": "07/03/2020 - 1:01 PM",
-    "due_to": "Trash Fire",
-    "latitude": 30.28057,
-    "longitude": -92.04514
   },
   {
     "address": "JOHNSTON ST & CHURCHILL DR",
