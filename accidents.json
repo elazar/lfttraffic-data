@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2455625,
     "longitude": -92.0279773
-  },
-  {
-    "address": "201 CHURCH ST",
-    "city": "YOUNGSVILLE",
-    "time": "07/03/2020 - 08:03 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.09752,
-    "longitude": -91.9907
   }
 ]
