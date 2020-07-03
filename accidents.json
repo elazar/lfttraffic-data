@@ -1,5 +1,21 @@
 [
   {
+    "address": "104 RIVER BEND CL",
+    "city": "LAFAYETTE",
+    "time": "07/02/2020 - 11:07 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.16891,
+    "longitude": -92.04804
+  },
+  {
+    "address": "W MARTIAL AV & RIVER BEND CL",
+    "city": "LAFAYETTE",
+    "time": "07/02/2020 - 11:07 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.16807,
+    "longitude": -92.04753
+  },
+  {
     "address": "104 I10 EASTBOUND MM104 HW",
     "city": "LAFAYETTE",
     "time": "07/02/2020 - 11:02 PM",
