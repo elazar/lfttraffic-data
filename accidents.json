@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.08125,
     "longitude": -91.98866
-  },
-  {
-    "address": "W PINHOOK RD & TULANE AV",
-    "city": "LAFAYETTE",
-    "time": "07/02/2020 - 10:23 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.20927,
-    "longitude": -92.01049
   }
 ]
