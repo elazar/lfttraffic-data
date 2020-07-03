@@ -1,5 +1,13 @@
 [
   {
+    "address": "301 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "07/02/2020 - 7:42 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17488,
+    "longitude": -92.00705
+  },
+  {
     "address": "422 DUCOTE DR",
     "city": "BROUSSARD",
     "time": "07/02/2020 - 7:33 PM",
