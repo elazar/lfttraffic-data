@@ -24,12 +24,12 @@
     "longitude": -92.00495
   },
   {
-    "address": "1600 LA 93 HW",
+    "address": "1525 LA 93 HW",
     "city": "LAFAYETTE",
     "time": "07/02/2020 - 7:21 PM",
     "due_to": "Trash Fire",
-    "latitude": 30.28188,
-    "longitude": -92.11004
+    "latitude": 30.28053,
+    "longitude": -92.11301
   },
   {
     "address": "1235 E PONT DES MOUTON RD",
@@ -38,13 +38,5 @@
     "due_to": "Fire Investigation",
     "latitude": 30.27417,
     "longitude": -91.99716
-  },
-  {
-    "address": "4309 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "07/02/2020 - 6:59 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.19514,
-    "longitude": -92.05659
   }
 ]
