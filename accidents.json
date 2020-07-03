@@ -1,5 +1,13 @@
 [
   {
+    "address": "151 JEFFERSON ST",
+    "city": "LAFAYETTE",
+    "time": "07/02/2020 - 7:52 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2274275,
+    "longitude": -92.0152593
+  },
+  {
     "address": "CHANCE ST & RICHARD ST",
     "city": "LAFAYETTE",
     "time": "07/02/2020 - 7:50 PM",
