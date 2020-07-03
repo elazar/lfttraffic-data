@@ -1,5 +1,13 @@
 [
   {
+    "address": "5700 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/03/2020 - 1:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1755,
+    "longitude": -92.07745
+  },
+  {
     "address": "LEE AV & AVENUE B",
     "city": "LAFAYETTE",
     "time": "07/03/2020 - 1:26 PM",
