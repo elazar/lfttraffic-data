@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 E BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "07/03/2020 - 3:29 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1503691,
+    "longitude": -92.0936841
+  },
+  {
     "address": "110 HAROLD GAUTHE DR",
     "city": "SCOTT",
     "time": "07/03/2020 - 3:18 PM",
