@@ -1,5 +1,21 @@
 [
   {
+    "address": "110 HAROLD GAUTHE DR",
+    "city": "SCOTT",
+    "time": "07/03/2020 - 3:18 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.24471,
+    "longitude": -92.10363
+  },
+  {
+    "address": "93 THEO ST",
+    "city": "LAFAYETTE",
+    "time": "07/03/2020 - 3:17 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1971,
+    "longitude": -92.00332
+  },
+  {
     "address": "100 DESPAIN ST",
     "city": "LAFAYETTE",
     "time": "07/03/2020 - 3:13 PM",
