@@ -1,5 +1,13 @@
 [
   {
+    "address": "900 TULANE AV",
+    "city": "LAFAYETTE",
+    "time": "07/03/2020 - 08:07 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2105778,
+    "longitude": -92.0124823
+  },
+  {
     "address": "NE EVANGELINE TW & E PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "07/03/2020 - 08:04 AM",
