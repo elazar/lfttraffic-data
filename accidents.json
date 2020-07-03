@@ -1,5 +1,21 @@
 [
   {
+    "address": "LEE AV & AVENUE B",
+    "city": "LAFAYETTE",
+    "time": "07/03/2020 - 1:26 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21918,
+    "longitude": -92.01995
+  },
+  {
+    "address": "201 SHELL LN",
+    "city": "SCOTT",
+    "time": "07/03/2020 - 1:26 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.23958,
+    "longitude": -92.07107
+  },
+  {
     "address": "330 FOREST GROVE DR",
     "city": "YOUNGSVILLE",
     "time": "07/03/2020 - 1:25 PM",
