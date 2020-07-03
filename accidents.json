@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & CHURCHILL DR",
+    "city": "LAFAYETTE",
+    "time": "07/03/2020 - 12:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19529,
+    "longitude": -92.05753
+  },
+  {
     "address": "100 S BEADLE RD",
     "city": "LAFAYETTE",
     "time": "07/03/2020 - 12:04 PM",
