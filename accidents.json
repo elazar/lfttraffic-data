@@ -2,6 +2,22 @@
   {
     "address": "2426 W CONGRESS ST",
     "city": "LAFAYETTE",
+    "time": "07/03/2020 - 3:13 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.21379,
+    "longitude": -92.04917
+  },
+  {
+    "address": "100 DESPAIN ST",
+    "city": "LAFAYETTE",
+    "time": "07/03/2020 - 3:13 PM",
+    "due_to": "Hazardous Situation",
+    "latitude": 30.20434,
+    "longitude": -92.09927
+  },
+  {
+    "address": "2426 W CONGRESS ST",
+    "city": "LAFAYETTE",
     "time": "07/03/2020 - 2:54 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.21379,
