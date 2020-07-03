@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "W PINHOOK RD & TULANE AV",
+    "city": "LAFAYETTE",
+    "time": "07/02/2020 - 10:23 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.20927,
+    "longitude": -92.01049
+  }
+]
