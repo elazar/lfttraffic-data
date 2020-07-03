@@ -2,6 +2,14 @@
   {
     "address": "800 TOLSON RD",
     "city": "LAFAYETTE",
+    "time": "07/03/2020 - 10:27 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1587056,
+    "longitude": -92.0144438
+  },
+  {
+    "address": "800 TOLSON RD",
+    "city": "LAFAYETTE",
     "time": "07/03/2020 - 10:23 AM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.1587056,
