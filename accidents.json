@@ -1,5 +1,13 @@
 [
   {
+    "address": "499 FAUL RD",
+    "city": "LAFAYETTE",
+    "time": "07/03/2020 - 1:01 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.2800247,
+    "longitude": -92.0442796
+  },
+  {
     "address": "JOHNSTON ST & CHURCHILL DR",
     "city": "LAFAYETTE",
     "time": "07/03/2020 - 12:24 PM",
