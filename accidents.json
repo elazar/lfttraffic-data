@@ -1,5 +1,13 @@
 [
   {
+    "address": "4000 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "07/03/2020 - 9:05 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19824,
+    "longitude": -92.07087
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & ERASTE LANDRY RD",
     "city": "LAFAYETTE",
     "time": "07/03/2020 - 7:13 PM",
