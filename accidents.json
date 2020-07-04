@@ -1,5 +1,13 @@
 [
   {
+    "address": "835 E MAIN ST",
+    "city": "BROUSSARD",
+    "time": "07/04/2020 - 5:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14752,
+    "longitude": -91.95203
+  },
+  {
     "address": "DILLON RD & MARDI GRAS RD",
     "city": "LAFAYETTE",
     "time": "07/04/2020 - 4:14 PM",
