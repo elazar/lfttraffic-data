@@ -6,13 +6,5 @@
     "due_to": "Hazardous Material",
     "latitude": 30.15709,
     "longitude": -92.03808
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & FREM BOUSTANY DR",
-    "city": "LAFAYETTE",
-    "time": "07/04/2020 - 06:12 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.15011,
-    "longitude": -92.0406
   }
 ]
