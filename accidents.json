@@ -1,5 +1,13 @@
 [
   {
+    "address": "215 REPUBLIC AV",
+    "city": "LAFAYETTE",
+    "time": "07/04/2020 - 06:43 AM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.15709,
+    "longitude": -92.03808
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & FREM BOUSTANY DR",
     "city": "LAFAYETTE",
     "time": "07/04/2020 - 06:12 AM",
