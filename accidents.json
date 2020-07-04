@@ -1,5 +1,21 @@
 [
   {
+    "address": "NE EVANGELINE TW & GINGER ST",
+    "city": "LAFAYETTE",
+    "time": "07/04/2020 - 02:42 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.25458,
+    "longitude": -92.01411
+  },
+  {
+    "address": "116 BOULDER CREEK PW",
+    "city": "LAFAYETTE",
+    "time": "07/04/2020 - 02:42 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.13364,
+    "longitude": -92.04656
+  },
+  {
     "address": "I10 WESTBOUND MM100 HW & N AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/04/2020 - 02:20 AM",
