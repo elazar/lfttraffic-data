@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & FREM BOUSTANY DR",
+    "city": "LAFAYETTE",
+    "time": "07/04/2020 - 06:12 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.15011,
+    "longitude": -92.0406
+  },
+  {
     "address": "111 MEADOW FARM RD",
     "city": "LAFAYETTE",
     "time": "07/04/2020 - 06:11 AM",
