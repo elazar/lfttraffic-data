@@ -1,18 +1,10 @@
 [
   {
-    "address": "200 W BLUEBIRD DR",
+    "address": "2400 VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "07/04/2020 - 05:23 AM",
     "due_to": "Wire Hazard",
-    "latitude": 30.155379,
-    "longitude": -92.0323641
-  },
-  {
-    "address": "3100 KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "07/04/2020 - 03:36 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.14944,
-    "longitude": -92.05542
+    "latitude": 30.1498081,
+    "longitude": -92.0298002
   }
 ]
