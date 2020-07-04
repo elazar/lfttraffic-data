@@ -1,5 +1,13 @@
 [
   {
+    "address": "110 RUE BON MOT",
+    "city": "LAFAYETTE",
+    "time": "07/04/2020 - 11:16 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.10355,
+    "longitude": -92.07492
+  },
+  {
     "address": "E SECOND ST & NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/04/2020 - 10:25 AM",
