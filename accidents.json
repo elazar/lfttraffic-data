@@ -1,5 +1,13 @@
 [
   {
+    "address": "1400 N BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "07/04/2020 - 3:24 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.22402,
+    "longitude": -92.0514
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & TUCKER DR",
     "city": "LAFAYETTE",
     "time": "07/04/2020 - 3:20 PM",
