@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "MOSS ST & E BUTCHER SWITCH RD",
+    "city": "LAFAYETTE",
+    "time": "07/04/2020 - 1:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.28681,
+    "longitude": -92.00661
+  }
+]
