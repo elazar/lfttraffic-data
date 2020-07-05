@@ -1,5 +1,13 @@
 [
   {
+    "address": "HIGH MEADOWS BL & TORONTO DR",
+    "city": "LAFAYETTE",
+    "time": "07/04/2020 - 10:15 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.27626,
+    "longitude": -92.01576
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "07/04/2020 - 9:50 PM",
