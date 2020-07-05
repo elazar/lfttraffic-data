@@ -1,5 +1,13 @@
 [
   {
+    "address": "RENAUD DR & ROGER RD",
+    "city": "SCOTT",
+    "time": "07/05/2020 - 12:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25424,
+    "longitude": -92.08305
+  },
+  {
     "address": "100 MICKEY RD",
     "city": "LAFAYETTE",
     "time": "07/05/2020 - 10:33 AM",
