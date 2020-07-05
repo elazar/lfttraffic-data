@@ -1,5 +1,21 @@
 [
   {
+    "address": "100 MICKEY RD",
+    "city": "LAFAYETTE",
+    "time": "07/05/2020 - 10:33 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.27698,
+    "longitude": -92.04423
+  },
+  {
+    "address": "100 MICKEY RD",
+    "city": "LAFAYETTE",
+    "time": "07/05/2020 - 10:33 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.27698,
+    "longitude": -92.04423
+  },
+  {
     "address": "E SIMCOE ST & SURREY ST",
     "city": "LAFAYETTE",
     "time": "07/05/2020 - 09:51 AM",
