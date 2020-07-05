@@ -1,5 +1,21 @@
 [
   {
+    "address": "700 ERASTE LANDRY RD",
+    "city": "LAFAYETTE",
+    "time": "07/05/2020 - 01:54 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22647,
+    "longitude": -92.05004
+  },
+  {
+    "address": "NINTH ST & E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "07/05/2020 - 01:54 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.22734,
+    "longitude": -91.9966
+  },
+  {
     "address": "JOHNSTON ST & GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "07/05/2020 - 01:47 AM",
