@@ -1,5 +1,13 @@
 [
   {
+    "address": "400 FAIRVIEW PW",
+    "city": "LAFAYETTE",
+    "time": "07/04/2020 - 7:52 PM",
+    "due_to": "Explosion",
+    "latitude": 30.1551034,
+    "longitude": -92.0217083
+  },
+  {
     "address": "7 I49 NORTHBOUND MM7 HW",
     "city": "LAFAYETTE",
     "time": "07/04/2020 - 7:18 PM",
