@@ -1,5 +1,13 @@
 [
   {
+    "address": "N GRANT ST & E THIRD ST",
+    "city": "LAFAYETTE",
+    "time": "07/05/2020 - 01:05 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22876,
+    "longitude": -92.01487
+  },
+  {
     "address": "DOCKSIDE DR & PORTSIDE DR",
     "city": "BROUSSARD",
     "time": "07/05/2020 - 12:16 AM",
