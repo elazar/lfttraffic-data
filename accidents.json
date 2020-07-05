@@ -1,5 +1,13 @@
 [
   {
+    "address": "HECTOR CONNOLY RD & NE FRONTAGE RD",
+    "city": "CARENCRO",
+    "time": "07/05/2020 - 12:22 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.32261,
+    "longitude": -92.0325
+  },
+  {
     "address": "500 MOSS ST",
     "city": "LAFAYETTE",
     "time": "07/05/2020 - 12:19 PM",
@@ -11,7 +19,7 @@
     "address": "RENAUD DR & ROGER RD",
     "city": "SCOTT",
     "time": "07/05/2020 - 12:13 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Stalled Vehicle",
     "latitude": 30.25424,
     "longitude": -92.08305
   }
