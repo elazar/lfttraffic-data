@@ -1,5 +1,13 @@
 [
   {
+    "address": "JEFFERSON BL & N GRANT ST",
+    "city": "LAFAYETTE",
+    "time": "07/05/2020 - 12:18 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.22783,
+    "longitude": -92.01482
+  },
+  {
     "address": "119 CHANNEL DR",
     "city": "BROUSSARD",
     "time": "07/05/2020 - 12:17 AM",
@@ -14,14 +22,6 @@
     "due_to": "Dumpster Fire",
     "latitude": 30.14391,
     "longitude": -91.97523
-  },
-  {
-    "address": "NEWSHIRE DR & OVERBROOK DR",
-    "city": "BROUSSARD",
-    "time": "07/05/2020 - 12:14 AM",
-    "due_to": "Incoming Call",
-    "latitude": 30.14332,
-    "longitude": -91.97732
   },
   {
     "address": "2 I49 NORTHBOUND MM2 HW",
