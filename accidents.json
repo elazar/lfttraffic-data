@@ -1,5 +1,13 @@
 [
   {
+    "address": "1400 ROBLEY DR",
+    "city": "LAFAYETTE",
+    "time": "07/05/2020 - 4:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.161876,
+    "longitude": -92.0759602
+  },
+  {
     "address": "W CONGRESS ST & THEATRE ST",
     "city": "LAFAYETTE",
     "time": "07/05/2020 - 3:42 PM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.18851,
     "longitude": -92.01417
-  },
-  {
-    "address": "4313 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "07/05/2020 - 3:18 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15909,
-    "longitude": -92.05066
   },
   {
     "address": "LOUISIANA AV & E WILLOW ST",
