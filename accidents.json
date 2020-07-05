@@ -1,5 +1,13 @@
 [
   {
+    "address": "1900 DULLES DR",
+    "city": "SCOTT",
+    "time": "07/04/2020 - 11:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21102,
+    "longitude": -92.08756
+  },
+  {
     "address": "302 FRANCIS PREJEAN CL",
     "city": "DUSON",
     "time": "07/04/2020 - 11:21 PM",
