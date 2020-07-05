@@ -1,5 +1,13 @@
 [
   {
+    "address": "GERALDINE DR & FIRMIN DR",
+    "city": "LAFAYETTE",
+    "time": "07/04/2020 - 10:33 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.18516,
+    "longitude": -92.06036
+  },
+  {
     "address": "HIGH MEADOWS BL & TORONTO DR",
     "city": "LAFAYETTE",
     "time": "07/04/2020 - 10:15 PM",
