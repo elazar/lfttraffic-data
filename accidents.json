@@ -15,14 +15,7 @@
     "latitude": 30.13651,
     "longitude": -91.9368
   },
-  {
-    "address": "2820 LOUISIANA AV",
-    "city": "LAFAYETTE",
-    "time": "07/04/2020 - 9:24 PM",
-    "due_to": "Dumpster Fire",
-    "latitude": 30.25584,
-    "longitude": -91.99812
-  },
+  null,
   {
     "address": "701 ST NAZAIRE RD",
     "city": "BROUSSARD",
