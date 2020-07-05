@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.13699,
     "longitude": -91.93405
-  },
-  {
-    "address": "407 HARBOR BEND BL",
-    "city": "LAFAYETTE",
-    "time": "07/04/2020 - 9:03 PM",
-    "due_to": "Residential Fire",
-    "latitude": 30.17601,
-    "longitude": -92.01174
   }
 ]
