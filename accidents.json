@@ -1,5 +1,13 @@
 [
   {
+    "address": "NEWSHIRE DR & OVERBROOK DR",
+    "city": "BROUSSARD",
+    "time": "07/05/2020 - 12:14 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.14332,
+    "longitude": -91.97732
+  },
+  {
     "address": "2 I49 NORTHBOUND MM2 HW",
     "city": "LAFAYETTE",
     "time": "07/04/2020 - 11:57 PM",
