@@ -6,13 +6,5 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.1174,
     "longitude": -91.94361
-  },
-  {
-    "address": "LOUISIANA AV & E WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "07/05/2020 - 3:10 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.24552,
-    "longitude": -92.00037
   }
 ]
