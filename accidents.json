@@ -1,5 +1,21 @@
 [
   {
+    "address": "E ALEXANDER ST & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "07/04/2020 - 9:24 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.25511,
+    "longitude": -91.99944
+  },
+  {
+    "address": "701 ST NAZAIRE RD",
+    "city": "BROUSSARD",
+    "time": "07/04/2020 - 9:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13699,
+    "longitude": -91.93405
+  },
+  {
     "address": "407 HARBOR BEND BL",
     "city": "LAFAYETTE",
     "time": "07/04/2020 - 9:03 PM",
