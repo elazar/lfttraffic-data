@@ -1,5 +1,13 @@
 [
   {
+    "address": "LOUISIANA AV & MUDD AV",
+    "city": "LAFAYETTE",
+    "time": "07/04/2020 - 8:01 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.23174,
+    "longitude": -92.0027
+  },
+  {
     "address": "400 FAIRVIEW PW",
     "city": "LAFAYETTE",
     "time": "07/04/2020 - 7:52 PM",
