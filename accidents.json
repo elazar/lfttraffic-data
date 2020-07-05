@@ -1,5 +1,13 @@
 [
   {
+    "address": "ST NAZAIRE RD & LA FLAMME RD",
+    "city": "BROUSSARD",
+    "time": "07/05/2020 - 01:58 AM",
+    "due_to": "Vehicle Fire",
+    "latitude": 30.14039,
+    "longitude": -91.93713
+  },
+  {
     "address": "1043 E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "07/05/2020 - 01:55 AM",
