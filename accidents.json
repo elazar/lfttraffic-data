@@ -14,13 +14,5 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.23174,
     "longitude": -92.0027
-  },
-  {
-    "address": "7 I49 NORTHBOUND MM7 HW",
-    "city": "LAFAYETTE",
-    "time": "07/04/2020 - 7:18 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.28006,
-    "longitude": -92.02024
   }
 ]
