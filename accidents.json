@@ -1,13 +1,5 @@
 [
   {
-    "address": "US 90 EAST HW & IDA RD",
-    "city": "BROUSSARD",
-    "time": "07/06/2020 - 10:54 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.14674,
-    "longitude": -91.94697
-  },
-  {
     "address": "4247 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/06/2020 - 10:49 AM",
@@ -22,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18289,
     "longitude": -92.01725
-  },
-  {
-    "address": "100 THRU WAY PARK RD",
-    "city": "LAFAYETTE",
-    "time": "07/06/2020 - 10:14 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.1649338,
-    "longitude": -91.9756036
   }
 ]
