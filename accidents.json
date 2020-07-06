@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & GALBERT ST",
+    "city": "SCOTT",
+    "time": "07/06/2020 - 3:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23367,
+    "longitude": -92.1002
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "07/06/2020 - 2:52 PM",
