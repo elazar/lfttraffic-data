@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 BENDEL RD",
+    "city": "LAFAYETTE",
+    "time": "07/06/2020 - 5:44 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2012203,
+    "longitude": -92.0193176
+  },
+  {
     "address": "JOHNSTON ST & CAMINO REAL RD",
     "city": "LAFAYETTE",
     "time": "07/06/2020 - 5:36 PM",
