@@ -6,13 +6,5 @@
     "due_to": "Residential Fire",
     "latitude": 30.25217,
     "longitude": -92.01546
-  },
-  {
-    "address": "CHALMETTE DR & PRISCILLA LN",
-    "city": "LAFAYETTE",
-    "time": "07/06/2020 - 12:25 AM",
-    "due_to": "Incoming Call",
-    "latitude": 30.25193,
-    "longitude": -92.01494
   }
 ]
