@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "BERTRAND DR & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "07/05/2020 - 7:21 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21493,
+    "longitude": -92.04696
+  }
+]
