@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 LIVE OAK BL",
+    "city": "LAFAYETTE",
+    "time": "07/06/2020 - 5:49 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1999463,
+    "longitude": -92.0549928
+  },
+  {
     "address": "100 BENDEL RD",
     "city": "LAFAYETTE",
     "time": "07/06/2020 - 5:44 PM",
