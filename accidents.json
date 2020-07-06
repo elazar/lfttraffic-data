@@ -1,5 +1,13 @@
 [
   {
+    "address": "5429 N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "07/06/2020 - 4:59 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.33538,
+    "longitude": -92.04881
+  },
+  {
     "address": "714 S STERLING ST",
     "city": "LAFAYETTE",
     "time": "07/06/2020 - 4:26 PM",
