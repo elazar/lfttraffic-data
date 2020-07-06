@@ -1,19 +1,19 @@
 [
   {
+    "address": "VEROT SCHOOL RD & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "07/06/2020 - 2:58 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.14589,
+    "longitude": -92.03252
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "07/06/2020 - 2:52 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.14589,
     "longitude": -92.03252
-  },
-  {
-    "address": "113 OLIVEWOOD DR",
-    "city": "LAFAYETTE",
-    "time": "07/06/2020 - 2:44 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.130762,
-    "longitude": -92.0270858
   },
   {
     "address": "110 LINARES ST",
