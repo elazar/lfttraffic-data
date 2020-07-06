@@ -1,5 +1,13 @@
 [
   {
+    "address": "THRU WAY PARK RD & SW FRONTAGE RD",
+    "city": "LAFAYETTE",
+    "time": "07/06/2020 - 09:55 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.16536,
+    "longitude": -91.97548
+  },
+  {
     "address": "5700 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "07/06/2020 - 09:41 AM",
