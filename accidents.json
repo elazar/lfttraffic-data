@@ -1,5 +1,13 @@
 [
   {
+    "address": "714 S STERLING ST",
+    "city": "LAFAYETTE",
+    "time": "07/06/2020 - 4:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22516,
+    "longitude": -92.00472
+  },
+  {
     "address": "US 90 EAST HW & ST NAZAIRE RD",
     "city": "BROUSSARD",
     "time": "07/06/2020 - 3:23 PM",
