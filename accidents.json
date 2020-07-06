@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & IDA RD",
+    "city": "BROUSSARD",
+    "time": "07/06/2020 - 10:54 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.14674,
+    "longitude": -91.94697
+  },
+  {
     "address": "W CONGRESS ST & BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "07/06/2020 - 10:53 AM",
