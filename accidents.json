@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "S RICHFIELD RD & GOLDEN GRAIN RD",
+    "city": "LAFAYETTE",
+    "time": "07/06/2020 - 07:11 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15923,
+    "longitude": -92.17568
+  }
+]
