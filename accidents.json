@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "215 CHALMETTE DR",
+    "city": "LAFAYETTE",
+    "time": "07/06/2020 - 12:26 AM",
+    "due_to": "Residential Fire",
+    "latitude": 30.25217,
+    "longitude": -92.01546
+  }
+]
