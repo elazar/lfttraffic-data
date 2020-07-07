@@ -1,5 +1,13 @@
 [
   {
+    "address": "W BROUSSARD RD & TOUCHET RD",
+    "city": "LAFAYETTE",
+    "time": "07/07/2020 - 3:09 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15262,
+    "longitude": -92.09763
+  },
+  {
     "address": "3000 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "07/07/2020 - 3:03 PM",
