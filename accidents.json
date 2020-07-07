@@ -1,5 +1,21 @@
 [
   {
+    "address": "EVANGELINE DR & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "07/07/2020 - 3:15 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.22658,
+    "longitude": -92.02744
+  },
+  {
+    "address": "LOUISIANA AV & SE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "07/07/2020 - 3:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22488,
+    "longitude": -92.00947
+  },
+  {
     "address": "W BROUSSARD RD & TOUCHET RD",
     "city": "LAFAYETTE",
     "time": "07/07/2020 - 3:09 PM",
