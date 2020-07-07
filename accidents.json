@@ -1,5 +1,13 @@
 [
   {
+    "address": "1512 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "07/07/2020 - 4:51 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23733,
+    "longitude": -92.00036
+  },
+  {
     "address": "4 I49 SOUTHBOUND MM4 HW",
     "city": "LAFAYETTE",
     "time": "07/07/2020 - 4:11 PM",
