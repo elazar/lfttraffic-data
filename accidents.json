@@ -1,5 +1,13 @@
 [
   {
+    "address": "4 I49 SOUTHBOUND MM4 HW",
+    "city": "LAFAYETTE",
+    "time": "07/07/2020 - 4:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.28006,
+    "longitude": -92.02024
+  },
+  {
     "address": "1112 LEBESQUE RD",
     "city": "SCOTT",
     "time": "07/07/2020 - 4:02 PM",
