@@ -3,14 +3,6 @@
     "address": "LINCOLN ST & DELANO ST",
     "city": "LAFAYETTE",
     "time": "07/07/2020 - 12:12 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.25204,
-    "longitude": -92.0244
-  },
-  {
-    "address": "LINCOLN ST & DELANO ST",
-    "city": "LAFAYETTE",
-    "time": "07/07/2020 - 12:12 PM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.25204,
     "longitude": -92.0244
