@@ -1,5 +1,13 @@
 [
   {
+    "address": "3000 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "07/07/2020 - 3:03 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.20752,
+    "longitude": -92.05827
+  },
+  {
     "address": "NE EVANGELINE TW & E PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "07/07/2020 - 3:02 PM",
