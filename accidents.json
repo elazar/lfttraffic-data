@@ -1,5 +1,13 @@
 [
   {
+    "address": "110 LINARES ST",
+    "city": "LAFAYETTE",
+    "time": "07/06/2020 - 7:51 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.31761,
+    "longitude": -92.0657
+  },
+  {
     "address": "228 MARTIN LUTHER KING JR DR",
     "city": "LAFAYETTE",
     "time": "07/06/2020 - 7:05 PM",
@@ -22,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.33538,
     "longitude": -92.04881
-  },
-  {
-    "address": "110 LINARES ST",
-    "city": "LAFAYETTE",
-    "time": "07/06/2020 - 2:27 PM",
-    "due_to": "Residential Fire",
-    "latitude": 30.31761,
-    "longitude": -92.0657
   }
 ]
