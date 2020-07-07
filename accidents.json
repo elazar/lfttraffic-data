@@ -1,11 +1,11 @@
 [
   {
-    "address": "300 LEBESQUE RD",
-    "city": "LAFAYETTE",
+    "address": "1100 LEBESQUE RD",
+    "city": "SCOTT",
     "time": "07/07/2020 - 10:55 AM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.2759649,
-    "longitude": -92.0578633
+    "latitude": 30.27579,
+    "longitude": -92.0811812
   },
   {
     "address": "VEROT SCHOOL RD & W PINHOOK RD",
@@ -14,14 +14,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.17673,
     "longitude": -92.00239
-  },
-  {
-    "address": "603 N ST ANTOINE ST",
-    "city": "LAFAYETTE",
-    "time": "07/07/2020 - 10:39 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23842,
-    "longitude": -92.02514
   },
   {
     "address": "450 E FARREL RD",
