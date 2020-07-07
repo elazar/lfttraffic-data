@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 VERDUN ST",
+    "city": "LAFAYETTE",
+    "time": "07/07/2020 - 1:56 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2309,
+    "longitude": -92.00146
+  },
+  {
     "address": "2017 W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "07/07/2020 - 1:55 PM",
