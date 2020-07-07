@@ -1,18 +1,1 @@
-[
-  {
-    "address": "1512 LOUISIANA AV",
-    "city": "LAFAYETTE",
-    "time": "07/07/2020 - 4:51 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23733,
-    "longitude": -92.00036
-  },
-  {
-    "address": "114 RUSHMORE LN",
-    "city": "YOUNGSVILLE",
-    "time": "07/07/2020 - 3:19 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.10832,
-    "longitude": -91.99544
-  }
-]
+[]
