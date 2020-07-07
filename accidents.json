@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 W BLUEBIRD DR",
+    "city": "LAFAYETTE",
+    "time": "07/07/2020 - 09:14 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.15625,
+    "longitude": -92.03097
+  },
+  {
     "address": "529 FORTUNE RD",
     "city": "LAFAYETTE",
     "time": "07/07/2020 - 08:56 AM",
