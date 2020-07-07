@@ -1,5 +1,13 @@
 [
   {
+    "address": "2017 W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "07/07/2020 - 1:55 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23144,
+    "longitude": -92.03292
+  },
+  {
     "address": "W CONGRESS ST & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/07/2020 - 1:20 PM",
