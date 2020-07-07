@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "2321 E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "07/06/2020 - 9:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22528,
+    "longitude": -91.99337
+  }
+]
