@@ -1,5 +1,13 @@
 [
   {
+    "address": "228 MARTIN LUTHER KING JR DR",
+    "city": "LAFAYETTE",
+    "time": "07/06/2020 - 7:05 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25006,
+    "longitude": -92.0306
+  },
+  {
     "address": "3222 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/06/2020 - 6:33 PM",
