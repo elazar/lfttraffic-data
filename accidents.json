@@ -1,5 +1,13 @@
 [
   {
+    "address": "4103 CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "07/07/2020 - 08:49 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23186,
+    "longitude": -92.06684
+  },
+  {
     "address": "701 ST NAZAIRE RD",
     "city": "BROUSSARD",
     "time": "07/07/2020 - 08:03 AM",
