@@ -30,13 +30,5 @@
     "due_to": "Fire Alarm-Residential",
     "latitude": 30.23969,
     "longitude": -91.9988
-  },
-  {
-    "address": "701 ST NAZAIRE RD",
-    "city": "BROUSSARD",
-    "time": "07/07/2020 - 08:03 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.13699,
-    "longitude": -91.93405
   }
 ]
