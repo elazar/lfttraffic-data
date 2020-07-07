@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.12372,
     "longitude": -92.03243
-  },
-  {
-    "address": "239 OKLAHOMA ST",
-    "city": "LAFAYETTE",
-    "time": "07/07/2020 - 10:01 AM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.24136,
-    "longitude": -91.99853
   }
 ]
