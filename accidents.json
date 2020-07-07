@@ -1,5 +1,13 @@
 [
   {
+    "address": "603 N ST ANTOINE ST",
+    "city": "LAFAYETTE",
+    "time": "07/07/2020 - 10:39 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23842,
+    "longitude": -92.02514
+  },
+  {
     "address": "S BEADLE RD & VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "07/07/2020 - 10:32 AM",
