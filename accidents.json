@@ -1,5 +1,13 @@
 [
   {
+    "address": "N DOMINGUE AV & GUILBEAU RD",
+    "city": "LAFAYETTE",
+    "time": "07/08/2020 - 4:49 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20263,
+    "longitude": -92.08363
+  },
+  {
     "address": "200 N DOMINGUE AV",
     "city": "LAFAYETTE",
     "time": "07/08/2020 - 4:42 PM",
