@@ -1,5 +1,21 @@
 [
   {
+    "address": "1700 SE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "07/07/2020 - 9:52 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.2053441,
+    "longitude": -92.00045
+  },
+  {
+    "address": "4415 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "07/07/2020 - 9:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15808,
+    "longitude": -92.04919
+  },
+  {
     "address": "4415 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/07/2020 - 9:35 PM",
