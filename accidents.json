@@ -1,5 +1,13 @@
 [
   {
+    "address": "215 ANNA ST",
+    "city": "SCOTT",
+    "time": "07/08/2020 - 08:42 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.22806,
+    "longitude": -92.09072
+  },
+  {
     "address": "1001 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/08/2020 - 08:32 AM",
