@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 VINCENT RD",
+    "city": "LAFAYETTE",
+    "time": "07/08/2020 - 5:56 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.1421,
+    "longitude": -92.04504
+  },
+  {
     "address": "3600 NE EVANGELINE TW",
     "city": "CARENCRO",
     "time": "07/08/2020 - 5:51 PM",
