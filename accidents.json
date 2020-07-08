@@ -1,5 +1,13 @@
 [
   {
+    "address": "W GILMAN RD & RUBRIA ST",
+    "city": "LAFAYETTE",
+    "time": "07/08/2020 - 09:47 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24255,
+    "longitude": -92.02853
+  },
+  {
     "address": "CAMERON ST & S PIERCE ST",
     "city": "LAFAYETTE",
     "time": "07/08/2020 - 09:46 AM",
