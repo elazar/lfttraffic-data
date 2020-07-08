@@ -1,5 +1,13 @@
 [
   {
+    "address": "404 VIEUX ORLEANS CL",
+    "city": "LAFAYETTE",
+    "time": "07/08/2020 - 2:59 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.16858,
+    "longitude": -92.00603
+  },
+  {
     "address": "414 VIEUX ORLEANS CL",
     "city": "LAFAYETTE",
     "time": "07/08/2020 - 2:58 PM",
@@ -38,22 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24466,
     "longitude": -92.01336
-  },
-  {
-    "address": "215 E PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "07/08/2020 - 2:40 PM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.21514,
-    "longitude": -92.00777
-  },
-  {
-    "address": "ERASTE LANDRY RD & FOREMAN DR",
-    "city": "LAFAYETTE",
-    "time": "07/08/2020 - 2:37 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2195,
-    "longitude": -92.06465
   },
   {
     "address": "E ST MARY BL & W PINHOOK RD",
