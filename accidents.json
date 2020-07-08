@@ -1,5 +1,13 @@
 [
   {
+    "address": "609 SETTLERS TRACE BL",
+    "city": "LAFAYETTE",
+    "time": "07/08/2020 - 2:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15845,
+    "longitude": -92.05388
+  },
+  {
     "address": "E ST MARY BL & W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "07/08/2020 - 2:19 PM",
