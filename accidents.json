@@ -1,5 +1,13 @@
 [
   {
+    "address": "503 MUDD AV",
+    "city": "LAFAYETTE",
+    "time": "07/08/2020 - 07:56 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23315,
+    "longitude": -92.01257
+  },
+  {
     "address": "204 ENERGY PW",
     "city": "LAFAYETTE",
     "time": "07/08/2020 - 07:50 AM",
