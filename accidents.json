@@ -1,19 +1,19 @@
 [
   {
+    "address": "E VEROT SCHOOL RD & S HUGH WALLIS RD",
+    "city": "LAFAYETTE",
+    "time": "07/08/2020 - 09:41 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1817,
+    "longitude": -91.99094
+  },
+  {
     "address": "100 SW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/08/2020 - 09:37 AM",
     "due_to": "Road Hazard",
     "latitude": 30.2284922,
     "longitude": -92.0126143
-  },
-  {
-    "address": "CAMELLIA BL & WOODS CROSSING",
-    "city": "LAFAYETTE",
-    "time": "07/08/2020 - 09:24 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.17802,
-    "longitude": -92.04581
   },
   {
     "address": "1001 NE EVANGELINE TW",
