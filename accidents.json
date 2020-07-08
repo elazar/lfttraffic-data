@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & N MORGAN AV",
+    "city": "BROUSSARD",
+    "time": "07/08/2020 - 2:49 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15291,
+    "longitude": -91.95943
+  },
+  {
     "address": "NW EVANGELINE TW & W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "07/08/2020 - 2:41 PM",
@@ -22,14 +30,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.2195,
     "longitude": -92.06465
-  },
-  {
-    "address": "609 SETTLERS TRACE BL",
-    "city": "LAFAYETTE",
-    "time": "07/08/2020 - 2:26 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15845,
-    "longitude": -92.05388
   },
   {
     "address": "E ST MARY BL & W PINHOOK RD",
