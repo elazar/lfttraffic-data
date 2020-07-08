@@ -1,5 +1,13 @@
 [
   {
+    "address": "W WILLOW ST & PATTERSON ST",
+    "city": "LAFAYETTE",
+    "time": "07/07/2020 - 10:35 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24518,
+    "longitude": -92.01841
+  },
+  {
     "address": "ORCHID DR & MARIGOLD LP",
     "city": "LAFAYETTE",
     "time": "07/07/2020 - 10:02 PM",
