@@ -1,5 +1,13 @@
 [
   {
+    "address": "2103 NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "07/08/2020 - 7:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25218,
+    "longitude": -92.01453
+  },
+  {
     "address": "400 S LARRIVIERE RD",
     "city": "LAFAYETTE",
     "time": "07/08/2020 - 6:29 PM",
