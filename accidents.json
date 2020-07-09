@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "300 PRINCETON WOODS LP",
+    "city": "LAFAYETTE",
+    "time": "07/09/2020 - 05:45 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.17814,
+    "longitude": -92.04958
+  }
+]
