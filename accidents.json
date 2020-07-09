@@ -1,5 +1,13 @@
 [
   {
+    "address": "2600 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "07/09/2020 - 12:23 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2566987,
+    "longitude": -92.0140974
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/09/2020 - 12:09 PM",
@@ -30,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15649,
     "longitude": -92.04838
-  },
-  {
-    "address": "210 DISTRIBUTION DR",
-    "city": "LAFAYETTE",
-    "time": "07/09/2020 - 10:04 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.26004,
-    "longitude": -92.02499
   }
 ]
