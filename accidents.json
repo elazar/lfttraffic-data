@@ -1,5 +1,13 @@
 [
   {
+    "address": "210 DISTRIBUTION DR",
+    "city": "LAFAYETTE",
+    "time": "07/09/2020 - 10:04 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.26004,
+    "longitude": -92.02499
+  },
+  {
     "address": "600 BAYOU TORTUE RD",
     "city": "LAFAYETTE",
     "time": "07/09/2020 - 10:02 AM",
