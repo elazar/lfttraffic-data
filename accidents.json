@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "07/09/2020 - 11:54 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21493,
+    "longitude": -92.04696
+  },
+  {
     "address": "MOSS ST & MUDD AV",
     "city": "LAFAYETTE",
     "time": "07/09/2020 - 11:51 AM",
@@ -11,7 +19,7 @@
     "address": "649 BELLEVUE PLANTATION RD",
     "city": "LAFAYETTE",
     "time": "07/09/2020 - 11:49 AM",
-    "due_to": "Incoming Call",
+    "due_to": "Fire Investigation",
     "latitude": 30.15201,
     "longitude": -92.07663
   },
