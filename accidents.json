@@ -1,5 +1,13 @@
 [
   {
+    "address": "700 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "07/10/2020 - 12:58 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.18127,
+    "longitude": -92.02024
+  },
+  {
     "address": "3609 CAMERON ST",
     "city": "LAFAYETTE",
     "time": "07/10/2020 - 12:47 PM",
@@ -30,13 +38,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.13541,
     "longitude": -92.01582
-  },
-  {
-    "address": "3221 CAMERON ST",
-    "city": "LAFAYETTE",
-    "time": "07/10/2020 - 10:25 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23232,
-    "longitude": -92.05774
   }
 ]
