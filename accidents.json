@@ -32,27 +32,11 @@
     "longitude": -92.0557393
   },
   {
-    "address": "3103 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "07/10/2020 - 10:32 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2041349,
-    "longitude": -92.04513
-  },
-  {
     "address": "3221 CAMERON ST",
     "city": "LAFAYETTE",
     "time": "07/10/2020 - 10:25 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.23232,
     "longitude": -92.05774
-  },
-  {
-    "address": "1318 S RICHFIELD RD",
-    "city": "LAFAYETTE",
-    "time": "07/10/2020 - 08:05 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.2168353,
-    "longitude": -92.1760659
   }
 ]
