@@ -1,5 +1,13 @@
 [
   {
+    "address": "GUILBEAU RD & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/10/2020 - 2:47 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.19375,
+    "longitude": -92.0586
+  },
+  {
     "address": "302 RUE LOUIS XIV",
     "city": "LAFAYETTE",
     "time": "07/10/2020 - 2:43 PM",
