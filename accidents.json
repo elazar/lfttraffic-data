@@ -1,5 +1,13 @@
 [
   {
+    "address": "400 WESTGATE RD",
+    "city": "SCOTT",
+    "time": "07/10/2020 - 09:45 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.22876,
+    "longitude": -92.08781
+  },
+  {
     "address": "1200 S RICHFIELD RD",
     "city": "LAFAYETTE",
     "time": "07/10/2020 - 09:44 AM",
