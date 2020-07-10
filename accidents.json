@@ -1,5 +1,13 @@
 [
   {
+    "address": "2800 RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "07/10/2020 - 6:55 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1810849,
+    "longitude": -92.1706985
+  },
+  {
     "address": "BENDEL RD & W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "07/10/2020 - 6:53 PM",
