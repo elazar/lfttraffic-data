@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "W UNIVERSITY AV & AMELIA ST",
+    "city": "LAFAYETTE",
+    "time": "07/10/2020 - 06:00 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21793,
+    "longitude": -92.01983
+  }
+]
