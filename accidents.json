@@ -1,5 +1,13 @@
 [
   {
+    "address": "HELLEN ST & MARIE ST",
+    "city": "LAFAYETTE",
+    "time": "07/10/2020 - 11:37 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23722,
+    "longitude": -92.02614
+  },
+  {
     "address": "510 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "07/10/2020 - 11:35 AM",
