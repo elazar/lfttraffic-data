@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 DUGAS RD",
+    "city": "LAFAYETTE",
+    "time": "07/09/2020 - 11:44 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2098973,
+    "longitude": -92.0459358
+  },
+  {
     "address": "VEROT SCHOOL RD & CAMELLIA BL",
     "city": "LAFAYETTE",
     "time": "07/09/2020 - 10:03 PM",
