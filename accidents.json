@@ -1,5 +1,13 @@
 [
   {
+    "address": "135 MARTIN ST",
+    "city": "LAFAYETTE",
+    "time": "07/10/2020 - 6:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23645,
+    "longitude": -92.02143
+  },
+  {
     "address": "N UNIVERSITY AV & CAMERON ST",
     "city": "LAFAYETTE",
     "time": "07/10/2020 - 5:47 PM",
