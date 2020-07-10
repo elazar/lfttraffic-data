@@ -1,5 +1,21 @@
 [
   {
+    "address": "102 I10 EB ENTRANCE RAMP HW",
+    "city": "LAFAYETTE",
+    "time": "07/10/2020 - 04:14 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
+    "address": "1521 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "07/10/2020 - 04:13 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.19637,
+    "longitude": -92.01545
+  },
+  {
     "address": "LA 182 HW & LA 96 HW",
     "city": "BROUSSARD",
     "time": "07/10/2020 - 01:52 AM",
