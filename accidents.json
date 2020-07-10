@@ -1,5 +1,13 @@
 [
   {
+    "address": "1200 S RICHFIELD RD",
+    "city": "LAFAYETTE",
+    "time": "07/10/2020 - 09:44 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.21972,
+    "longitude": -92.18193
+  },
+  {
     "address": "410 HANOVER SQ",
     "city": "LAFAYETTE",
     "time": "07/10/2020 - 09:37 AM",
