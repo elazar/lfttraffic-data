@@ -38,13 +38,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.2459,
     "longitude": -92.03998
-  },
-  {
-    "address": "204 BRIARFIELD DR",
-    "city": "LAFAYETTE",
-    "time": "07/10/2020 - 5:35 PM",
-    "due_to": "Vehicle Fire",
-    "latitude": 30.32882,
-    "longitude": -92.06123
   }
 ]
