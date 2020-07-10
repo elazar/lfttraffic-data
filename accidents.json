@@ -22,13 +22,5 @@
     "due_to": "Fire Alarm-Commercial",
     "latitude": 30.19637,
     "longitude": -92.01545
-  },
-  {
-    "address": "LA 182 HW & LA 96 HW",
-    "city": "BROUSSARD",
-    "time": "07/10/2020 - 01:52 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.12942,
-    "longitude": -91.94323
   }
 ]
