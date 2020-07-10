@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "258 BENDEL RD",
+    "city": "LAFAYETTE",
+    "time": "07/10/2020 - 12:49 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.19928,
+    "longitude": -92.01704
+  }
+]
