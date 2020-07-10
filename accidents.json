@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 DUGAS RD",
+    "city": "LAFAYETTE",
+    "time": "07/09/2020 - 11:46 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2109732,
+    "longitude": -92.0445186
+  },
+  {
     "address": "300 DUGAS RD",
     "city": "LAFAYETTE",
     "time": "07/09/2020 - 11:44 PM",
