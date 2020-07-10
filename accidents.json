@@ -22,21 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18714,
     "longitude": -92.0599
-  },
-  {
-    "address": "3630 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "07/10/2020 - 3:42 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17372,
-    "longitude": -92.06992
-  },
-  {
-    "address": "4351 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "07/10/2020 - 2:24 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.1942507,
-    "longitude": -92.0580216
   }
 ]
