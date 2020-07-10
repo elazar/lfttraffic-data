@@ -1,5 +1,13 @@
 [
   {
+    "address": "103 I10 WESTBOUND MM103B HW",
+    "city": "LAFAYETTE",
+    "time": "07/10/2020 - 02:36 AM",
+    "due_to": "Vehicle Fire",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "LA 182 HW & LA 96 HW",
     "city": "BROUSSARD",
     "time": "07/10/2020 - 01:52 AM",
