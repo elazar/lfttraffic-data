@@ -1,5 +1,13 @@
 [
   {
+    "address": "204 BRIARFIELD DR",
+    "city": "LAFAYETTE",
+    "time": "07/10/2020 - 5:35 PM",
+    "due_to": "Vehicle Fire",
+    "latitude": 30.32882,
+    "longitude": -92.06123
+  },
+  {
     "address": "E PONT DES MOUTON RD & RIDGEVIEW DR",
     "city": "LAFAYETTE",
     "time": "07/10/2020 - 5:19 PM",
