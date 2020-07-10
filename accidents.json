@@ -1,5 +1,13 @@
 [
   {
+    "address": "1920 W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "07/10/2020 - 6:15 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.23127,
+    "longitude": -92.03099
+  },
+  {
     "address": "135 MARTIN ST",
     "city": "LAFAYETTE",
     "time": "07/10/2020 - 6:01 PM",
