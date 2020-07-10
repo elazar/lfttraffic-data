@@ -1,17 +1,9 @@
 [
   {
-    "address": "2426 W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "07/10/2020 - 11:41 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.21379,
-    "longitude": -92.04917
-  },
-  {
     "address": "HELLEN ST & MARIE ST",
     "city": "LAFAYETTE",
     "time": "07/10/2020 - 11:37 AM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.23722,
     "longitude": -92.02614
   },
