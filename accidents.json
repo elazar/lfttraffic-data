@@ -1,19 +1,19 @@
 [
   {
+    "address": "800 ST CHARLES ST",
+    "city": "LAFAYETTE",
+    "time": "07/11/2020 - 5:21 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22412,
+    "longitude": -92.00198
+  },
+  {
     "address": "130 CARLTON DR",
     "city": "LAFAYETTE",
     "time": "07/11/2020 - 5:16 PM",
     "due_to": "Hazardous Situation",
     "latitude": 30.24151,
     "longitude": -92.00441
-  },
-  {
-    "address": "E PONT DES MOUTON RD & LOUISIANA AV",
-    "city": "LAFAYETTE",
-    "time": "07/11/2020 - 5:13 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.27233,
-    "longitude": -91.99249
   },
   {
     "address": "DOVER BL & AMBASSADOR CAFFERY PW",
