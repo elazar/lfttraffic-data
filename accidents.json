@@ -1,18 +1,1 @@
-[
-  {
-    "address": "BERTRAND DR & ERASTE LANDRY RD",
-    "city": "LAFAYETTE",
-    "time": "07/11/2020 - 06:41 AM",
-    "due_to": "Hazardous Material",
-    "latitude": 30.22405,
-    "longitude": -92.05469
-  },
-  {
-    "address": "3726 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "07/11/2020 - 06:40 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17252,
-    "longitude": -92.068
-  }
-]
+[]
