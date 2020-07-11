@@ -1,27 +1,11 @@
 [
   {
-    "address": "116 ALLEY NO 3",
-    "city": "LAFAYETTE",
-    "time": "07/10/2020 - 7:03 PM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.2172587,
-    "longitude": -92.0060964
-  },
-  {
     "address": "SE EVANGELINE TW & LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "07/10/2020 - 7:02 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.22488,
     "longitude": -92.00947
-  },
-  {
-    "address": "NW EVANGELINE TW & W WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "07/10/2020 - 7:01 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24466,
-    "longitude": -92.01336
   },
   {
     "address": "2800 RIDGE RD",
