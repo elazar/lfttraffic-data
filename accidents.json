@@ -1,5 +1,13 @@
 [
   {
+    "address": "3013 CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "07/11/2020 - 2:16 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23217,
+    "longitude": -92.05172
+  },
+  {
     "address": "200 MAGNATE DR",
     "city": "LAFAYETTE",
     "time": "07/11/2020 - 2:11 PM",
