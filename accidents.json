@@ -1,5 +1,21 @@
 [
   {
+    "address": "1441 SE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "07/10/2020 - 7:45 PM",
+    "due_to": "Vehicle Fire",
+    "latitude": 30.2168564,
+    "longitude": -92.003308
+  },
+  {
+    "address": "5733 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/10/2020 - 7:45 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.17321,
+    "longitude": -92.07761
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & CAMERON ST",
     "city": "LAFAYETTE",
     "time": "07/10/2020 - 7:34 PM",
