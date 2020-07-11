@@ -1,5 +1,21 @@
 [
   {
+    "address": "JOHNSTON ST & DOUCET RD",
+    "city": "LAFAYETTE",
+    "time": "07/11/2020 - 4:23 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20341,
+    "longitude": -92.04888
+  },
+  {
+    "address": "5803 CAMERON ST",
+    "city": "SCOTT",
+    "time": "07/11/2020 - 4:22 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.2334251,
+    "longitude": -92.0945463
+  },
+  {
     "address": "110 REX ST",
     "city": "LAFAYETTE",
     "time": "07/11/2020 - 4:14 PM",
