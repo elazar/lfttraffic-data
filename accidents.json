@@ -1,5 +1,13 @@
 [
   {
+    "address": "110 CASCADE RD",
+    "city": "LAFAYETTE",
+    "time": "07/10/2020 - 9:20 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.1636327,
+    "longitude": -92.198521
+  },
+  {
     "address": "120 LASALLE ST",
     "city": "LAFAYETTE",
     "time": "07/10/2020 - 9:01 PM",
