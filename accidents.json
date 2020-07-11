@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15208,
     "longitude": -92.05206
-  },
-  {
-    "address": "135 MARTIN ST",
-    "city": "LAFAYETTE",
-    "time": "07/10/2020 - 6:01 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23645,
-    "longitude": -92.02143
   }
 ]
