@@ -1,5 +1,13 @@
 [
   {
+    "address": "1441 SE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "07/10/2020 - 8:23 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.2168564,
+    "longitude": -92.003308
+  },
+  {
     "address": "312 VALCOUR PL",
     "city": "YOUNGSVILLE",
     "time": "07/10/2020 - 8:14 PM",
@@ -30,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.13734,
     "longitude": -91.94658
-  },
-  {
-    "address": "1441 SE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "07/10/2020 - 7:45 PM",
-    "due_to": "Vehicle Fire",
-    "latitude": 30.2168564,
-    "longitude": -92.003308
   }
 ]
