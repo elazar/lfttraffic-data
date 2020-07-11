@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & IRA ST",
+    "city": "CARENCRO",
+    "time": "07/11/2020 - 6:26 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.32123,
+    "longitude": -92.04954
+  },
+  {
     "address": "132 BRADFORD DR",
     "city": "CARENCRO",
     "time": "07/11/2020 - 6:17 PM",
