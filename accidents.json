@@ -1,5 +1,13 @@
 [
   {
+    "address": "ERASTE LANDRY RD & CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "07/11/2020 - 11:07 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23242,
+    "longitude": -92.03921
+  },
+  {
     "address": "FEU FOLLET RD & EXECUTIVE RW",
     "city": "LAFAYETTE",
     "time": "07/11/2020 - 11:04 AM",
