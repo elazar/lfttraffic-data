@@ -1,5 +1,13 @@
 [
   {
+    "address": "PACKARD ST & MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "07/10/2020 - 8:05 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.25257,
+    "longitude": -92.00531
+  },
+  {
     "address": "1812 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "07/10/2020 - 8:04 PM",
@@ -30,14 +38,6 @@
     "due_to": "Fire Alarm-Commercial",
     "latitude": 30.17321,
     "longitude": -92.07761
-  },
-  {
-    "address": "BENDEL RD & W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "07/10/2020 - 6:53 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19911,
-    "longitude": -92.01641
   },
   {
     "address": "2805 KALISTE SALOOM RD",
