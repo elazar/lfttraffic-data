@@ -1,5 +1,13 @@
 [
   {
+    "address": "500 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "07/11/2020 - 4:38 PM",
+    "due_to": "Vehicle Fire",
+    "latitude": 30.2355502,
+    "longitude": -92.0080251
+  },
+  {
     "address": "BELLOT ST & MOSS ST",
     "city": "LAFAYETTE",
     "time": "07/11/2020 - 4:37 PM",
