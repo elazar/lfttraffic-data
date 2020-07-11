@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 PEPPERMILL DR",
+    "city": "LAFAYETTE",
+    "time": "07/11/2020 - 5:08 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24683,
+    "longitude": -92.02322
+  },
+  {
     "address": "W UNIVERSITY AV & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "07/11/2020 - 5:03 PM",
