@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1174,
     "longitude": -91.94361
-  },
-  {
-    "address": "5803 CAMERON ST",
-    "city": "SCOTT",
-    "time": "07/11/2020 - 4:22 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.2334251,
-    "longitude": -92.0945463
   }
 ]
