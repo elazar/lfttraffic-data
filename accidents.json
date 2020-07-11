@@ -1,5 +1,13 @@
 [
   {
+    "address": "110 REX ST",
+    "city": "LAFAYETTE",
+    "time": "07/11/2020 - 4:14 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.21296,
+    "longitude": -92.02124
+  },
+  {
     "address": "111 BROOKHAVEN DR",
     "city": "YOUNGSVILLE",
     "time": "07/11/2020 - 4:03 PM",
