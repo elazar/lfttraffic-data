@@ -1,13 +1,5 @@
 [
   {
-    "address": "KALISTE SALOOM RD & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "07/11/2020 - 5:24 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15649,
-    "longitude": -92.04838
-  },
-  {
     "address": "AMBASSADOR CAFFERY PW & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "07/11/2020 - 5:22 PM",
@@ -70,13 +62,5 @@
     "due_to": "Vehicle Fire",
     "latitude": 30.2355502,
     "longitude": -92.0080251
-  },
-  {
-    "address": "1845 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "07/11/2020 - 4:33 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.18959,
-    "longitude": -92.01452
   }
 ]
