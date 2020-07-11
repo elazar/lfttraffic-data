@@ -1,5 +1,13 @@
 [
   {
+    "address": "119 CHARLES READ AV",
+    "city": "LAFAYETTE",
+    "time": "07/11/2020 - 08:42 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.19649,
+    "longitude": -92.02615
+  },
+  {
     "address": "800 PRISCILLA LN",
     "city": "LAFAYETTE",
     "time": "07/11/2020 - 08:05 AM",
