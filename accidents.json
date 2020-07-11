@@ -1,5 +1,13 @@
 [
   {
+    "address": "FRANCOIS RD & BREAUX RD",
+    "city": "CARENCRO",
+    "time": "07/11/2020 - 11:31 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.30724,
+    "longitude": -92.03196
+  },
+  {
     "address": "W CONGRESS ST & GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "07/11/2020 - 11:25 AM",
