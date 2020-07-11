@@ -1,5 +1,13 @@
 [
   {
+    "address": "111 EDIE ANN DR",
+    "city": "LAFAYETTE",
+    "time": "07/11/2020 - 01:45 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15863,
+    "longitude": -92.00149
+  },
+  {
     "address": "RIDGE RD & S FIELDSPAN RD",
     "city": "LAFAYETTE",
     "time": "07/11/2020 - 01:19 AM",
