@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & DOROTHY ST",
+    "city": "LAFAYETTE",
+    "time": "07/12/2020 - 6:20 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23613,
+    "longitude": -92.03241
+  },
+  {
     "address": "2317 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "07/12/2020 - 5:04 PM",
