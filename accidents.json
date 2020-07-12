@@ -1,5 +1,13 @@
 [
   {
+    "address": "3002 DAULAT DR",
+    "city": "DUSON",
+    "time": "07/12/2020 - 5:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24588,
+    "longitude": -92.19461
+  },
+  {
     "address": "2317 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "07/12/2020 - 5:04 PM",
