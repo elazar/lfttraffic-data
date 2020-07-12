@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20727,
     "longitude": -92.03836
-  },
-  {
-    "address": "612 BAYOU TORTUE RD",
-    "city": "LAFAYETTE",
-    "time": "07/12/2020 - 11:21 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.15281,
-    "longitude": -91.92343
   }
 ]
