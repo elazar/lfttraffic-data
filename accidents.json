@@ -1,5 +1,13 @@
 [
   {
+    "address": "5700 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/11/2020 - 7:14 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.1755,
+    "longitude": -92.07745
+  },
+  {
     "address": "W WILLOW ST & PATTERSON ST",
     "city": "LAFAYETTE",
     "time": "07/11/2020 - 7:07 PM",
