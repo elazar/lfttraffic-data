@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1014 NINTH ST",
+    "city": "LAFAYETTE",
+    "time": "07/12/2020 - 07:40 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.22893,
+    "longitude": -92.00447
+  }
+]
