@@ -1,5 +1,13 @@
 [
   {
+    "address": "3902 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/12/2020 - 01:33 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19904,
+    "longitude": -92.0562
+  },
+  {
     "address": "BONIN RD & E MILTON AV",
     "city": "YOUNGSVILLE",
     "time": "07/12/2020 - 01:02 AM",
