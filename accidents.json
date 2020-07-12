@@ -1,5 +1,13 @@
 [
   {
+    "address": "118 COUNTRY LN",
+    "city": "LAFAYETTE",
+    "time": "07/12/2020 - 4:34 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14783,
+    "longitude": -92.01806
+  },
+  {
     "address": "2002 E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "07/12/2020 - 3:51 PM",
