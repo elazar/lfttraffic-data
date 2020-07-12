@@ -1,5 +1,21 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "07/11/2020 - 7:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1174,
+    "longitude": -91.94361
+  },
+  {
+    "address": "100 BROOKVIEW PL",
+    "city": "LAFAYETTE",
+    "time": "07/11/2020 - 7:18 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.19327,
+    "longitude": -91.99819
+  },
+  {
     "address": "5700 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/11/2020 - 7:14 PM",
@@ -8,12 +24,12 @@
     "longitude": -92.07745
   },
   {
-    "address": "W WILLOW ST & PATTERSON ST",
+    "address": "900 N PIERCE ST",
     "city": "LAFAYETTE",
     "time": "07/11/2020 - 7:07 PM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.24518,
-    "longitude": -92.01841
+    "latitude": 30.2454576,
+    "longitude": -92.0178645
   },
   {
     "address": "200 MALAPART RD",
