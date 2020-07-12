@@ -1,5 +1,13 @@
 [
   {
+    "address": "5700 CAMERON STREET",
+    "city": "Lafayette",
+    "time": "07/12/2020 - 10:41 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.2337177,
+    "longitude": -92.093022
+  },
+  {
     "address": "1014 NINTH ST",
     "city": "LAFAYETTE",
     "time": "07/12/2020 - 07:40 AM",
