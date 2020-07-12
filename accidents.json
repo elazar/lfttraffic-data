@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "07/12/2020 - 11:33 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20727,
+    "longitude": -92.03836
+  },
+  {
     "address": "612 BAYOU TORTUE RD",
     "city": "LAFAYETTE",
     "time": "07/12/2020 - 11:21 AM",
