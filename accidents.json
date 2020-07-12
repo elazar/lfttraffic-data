@@ -1,5 +1,13 @@
 [
   {
+    "address": "2002 E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "07/12/2020 - 3:51 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.22643,
+    "longitude": -91.99559
+  },
+  {
     "address": "208 NORTON ST",
     "city": "LAFAYETTE",
     "time": "07/12/2020 - 3:43 PM",
