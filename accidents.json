@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "STATEN ST & W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "07/11/2020 - 11:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24549,
+    "longitude": -92.02422
+  }
+]
