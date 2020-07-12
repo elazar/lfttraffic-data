@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 BROOKVIEW PL",
+    "city": "LAFAYETTE",
+    "time": "07/11/2020 - 9:04 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.19327,
+    "longitude": -91.99819
+  },
+  {
     "address": "208 MAPLEWOOD DR",
     "city": "LAFAYETTE",
     "time": "07/11/2020 - 9:02 PM",
