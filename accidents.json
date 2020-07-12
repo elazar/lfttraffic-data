@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "HEBERT RD & WALKER RD",
+    "city": "LAFAYETTE",
+    "time": "07/11/2020 - 10:46 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23558,
+    "longitude": -92.04969
+  }
+]
