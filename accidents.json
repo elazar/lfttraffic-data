@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 DOUCET RD",
+    "city": "LAFAYETTE",
+    "time": "07/11/2020 - 9:34 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2017511,
+    "longitude": -92.0470327
+  },
+  {
     "address": "SW EVANGELINE TW & E KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "07/11/2020 - 9:28 PM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15649,
     "longitude": -92.04838
-  },
-  {
-    "address": "8100 AMBASSADOR CAFFERY PW",
-    "city": "BROUSSARD",
-    "time": "07/11/2020 - 7:44 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.11692,
-    "longitude": -91.94684
   }
 ]
