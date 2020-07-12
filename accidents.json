@@ -1,5 +1,13 @@
 [
   {
+    "address": "113 W GRANT ST",
+    "city": "LAFAYETTE",
+    "time": "07/12/2020 - 01:00 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.22821,
+    "longitude": -92.01535
+  },
+  {
     "address": "W THIRD ST & W GRANT ST",
     "city": "LAFAYETTE",
     "time": "07/12/2020 - 12:48 AM",
