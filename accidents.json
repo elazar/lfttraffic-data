@@ -1,19 +1,19 @@
 [
   {
+    "address": "SW EVANGELINE TW & E KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "07/11/2020 - 9:28 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.20067,
+    "longitude": -91.99958
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "07/11/2020 - 9:26 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.15649,
     "longitude": -92.04838
-  },
-  {
-    "address": "100 BROOKVIEW PL",
-    "city": "LAFAYETTE",
-    "time": "07/11/2020 - 9:04 PM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.19327,
-    "longitude": -91.99819
   },
   {
     "address": "8100 AMBASSADOR CAFFERY PW",
