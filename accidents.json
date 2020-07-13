@@ -1,19 +1,19 @@
 [
   {
+    "address": "KALISTE SALOOM RD & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "07/13/2020 - 6:53 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15649,
+    "longitude": -92.04838
+  },
+  {
     "address": "201 BAYSIDE DR",
     "city": "LAFAYETTE",
     "time": "07/13/2020 - 6:45 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.17583,
     "longitude": -92.02917
-  },
-  {
-    "address": "E UNIVERSITY AV & SW EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "07/13/2020 - 6:30 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.20908,
-    "longitude": -92.00007
   },
   {
     "address": "1105 W WILLOW ST",
