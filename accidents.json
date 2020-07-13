@@ -1,5 +1,13 @@
 [
   {
+    "address": "1500 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "07/13/2020 - 12:06 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19738,
+    "longitude": -92.01677
+  },
+  {
     "address": "N UNIVERSITY AV & CAMERON ST",
     "city": "LAFAYETTE",
     "time": "07/13/2020 - 12:03 PM",
