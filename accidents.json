@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & DOVER BL",
+    "city": "LAFAYETTE",
+    "time": "07/13/2020 - 1:41 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16681,
+    "longitude": -92.06088
+  },
+  {
     "address": "RENA DR & JOHNSTON DR",
     "city": "LAFAYETTE",
     "time": "07/13/2020 - 1:30 PM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16617,
     "longitude": -92.08326
-  },
-  {
-    "address": "1321 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "07/13/2020 - 12:00 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19968,
-    "longitude": -92.0156
   }
 ]
