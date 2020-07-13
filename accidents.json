@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 E ST MARY BL",
+    "city": "LAFAYETTE",
+    "time": "07/13/2020 - 10:04 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.21034,
+    "longitude": -92.01737
+  },
+  {
     "address": "1211 COOLIDGE ST",
     "city": "LAFAYETTE",
     "time": "07/13/2020 - 09:25 AM",
