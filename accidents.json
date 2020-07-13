@@ -1,5 +1,13 @@
 [
   {
+    "address": "6214 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/13/2020 - 1:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16005,
+    "longitude": -92.08679
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & DOVER BL",
     "city": "LAFAYETTE",
     "time": "07/13/2020 - 1:41 PM",
