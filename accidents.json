@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17117,
     "longitude": -92.06617
-  },
-  {
-    "address": "5200 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "07/13/2020 - 11:41 AM",
-    "due_to": "Hazardous Situation",
-    "latitude": 30.1823886,
-    "longitude": -92.0703955
   }
 ]
