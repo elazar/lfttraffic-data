@@ -1,5 +1,13 @@
 [
   {
+    "address": "538 ST CLAIR RD",
+    "city": "LAFAYETTE",
+    "time": "07/13/2020 - 4:49 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.30166,
+    "longitude": -91.96435
+  },
+  {
     "address": "200 AMITE DR",
     "city": "LAFAYETTE",
     "time": "07/13/2020 - 4:44 PM",
