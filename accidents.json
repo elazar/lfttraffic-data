@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 CEDAR CREST CT",
+    "city": "LAFAYETTE",
+    "time": "07/13/2020 - 08:38 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.225682,
+    "longitude": -92.0252375
+  },
+  {
     "address": "CHEMIN METAIRIE & LAUREL GROVE BL",
     "city": "YOUNGSVILLE",
     "time": "07/13/2020 - 07:54 AM",
