@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20239,
     "longitude": -92.01825
-  },
-  {
-    "address": "201 TRAVIS ST",
-    "city": "LAFAYETTE",
-    "time": "07/13/2020 - 08:56 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.20535,
-    "longitude": -92.01525
   }
 ]
