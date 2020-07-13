@@ -1,5 +1,21 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "07/13/2020 - 11:53 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.19597,
+    "longitude": -92.07523
+  },
+  {
+    "address": "AMBASSADOR CAFFERY PW & ROBLEY DR",
+    "city": "LAFAYETTE",
+    "time": "07/13/2020 - 11:53 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17117,
+    "longitude": -92.06617
+  },
+  {
     "address": "2223 DULLES DR",
     "city": "SCOTT",
     "time": "07/13/2020 - 11:48 AM",
