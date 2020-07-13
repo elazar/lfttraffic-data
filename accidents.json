@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "E BAYOU PW & KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "07/12/2020 - 8:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18289,
+    "longitude": -92.01725
+  }
+]
