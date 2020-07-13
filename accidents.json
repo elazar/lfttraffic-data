@@ -1,5 +1,21 @@
 [
   {
+    "address": "SW EVANGELINE TW & E KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "07/13/2020 - 4:50 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.20067,
+    "longitude": -91.99958
+  },
+  {
+    "address": "403 GERALD DR",
+    "city": "LAFAYETTE",
+    "time": "07/13/2020 - 4:49 PM",
+    "due_to": "Grass Fire",
+    "latitude": 30.17862,
+    "longitude": -92.06302
+  },
+  {
     "address": "538 ST CLAIR RD",
     "city": "LAFAYETTE",
     "time": "07/13/2020 - 4:49 PM",
