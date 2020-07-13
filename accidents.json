@@ -1,5 +1,13 @@
 [
   {
+    "address": "214 CHURCH ST",
+    "city": "YOUNGSVILLE",
+    "time": "07/13/2020 - 3:48 PM",
+    "due_to": "Grass Fire",
+    "latitude": 30.09845,
+    "longitude": -91.99214
+  },
+  {
     "address": "204 ADELAIDE DR",
     "city": "LAFAYETTE",
     "time": "07/13/2020 - 3:42 PM",
