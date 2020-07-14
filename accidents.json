@@ -1,5 +1,13 @@
 [
   {
+    "address": "ELMIRA RD & RENAUD DR",
+    "city": "SCOTT",
+    "time": "07/14/2020 - 1:44 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25401,
+    "longitude": -92.07881
+  },
+  {
     "address": "W WILLOW ST & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/14/2020 - 1:40 PM",
