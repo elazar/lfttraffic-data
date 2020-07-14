@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 N GIROUARD RD",
+    "city": "BROUSSARD",
+    "time": "07/13/2020 - 10:27 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.15112,
+    "longitude": -91.94771
+  },
+  {
     "address": "CAMERON ST & ALFRED ST",
     "city": "SCOTT",
     "time": "07/13/2020 - 9:29 PM",
