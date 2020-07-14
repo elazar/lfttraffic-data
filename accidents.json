@@ -1,5 +1,13 @@
 [
   {
+    "address": "RIDGE RD & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "07/14/2020 - 4:45 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.21504,
+    "longitude": -92.07579
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "07/14/2020 - 4:26 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21125,
     "longitude": -92.07616
-  },
-  {
-    "address": "KALISTE SALOOM RD & REPUBLIC AV",
-    "city": "LAFAYETTE",
-    "time": "07/14/2020 - 3:41 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.16074,
-    "longitude": -92.04415
   },
   {
     "address": "1997 LA 93 HW",
