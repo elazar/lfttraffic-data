@@ -1,5 +1,13 @@
 [
   {
+    "address": "BELLEVUE ST & EVANGELINE DR",
+    "city": "LAFAYETTE",
+    "time": "07/14/2020 - 3:16 PM",
+    "due_to": "Hazard",
+    "latitude": 30.22726,
+    "longitude": -92.02793
+  },
+  {
     "address": "97 I10 EB EXIT RAMP HW",
     "city": "SCOTT",
     "time": "07/14/2020 - 3:15 PM",
