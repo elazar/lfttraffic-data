@@ -1,5 +1,13 @@
 [
   {
+    "address": "E PONT DES MOUTON RD & HIGH MEADOWS BL",
+    "city": "LAFAYETTE",
+    "time": "07/13/2020 - 9:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27337,
+    "longitude": -92.01605
+  },
+  {
     "address": "CAMERON ST & ALFRED ST",
     "city": "SCOTT",
     "time": "07/13/2020 - 9:29 PM",
