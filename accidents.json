@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & ALFRED ST",
+    "city": "SCOTT",
+    "time": "07/13/2020 - 9:29 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23357,
+    "longitude": -92.09381
+  },
+  {
     "address": "201 BAYSIDE DR",
     "city": "LAFAYETTE",
     "time": "07/13/2020 - 6:45 PM",
