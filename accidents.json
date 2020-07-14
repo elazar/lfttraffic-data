@@ -1,5 +1,13 @@
 [
   {
+    "address": "S COLLEGE RD & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/14/2020 - 12:38 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20727,
+    "longitude": -92.03836
+  },
+  {
     "address": "VEROT SCHOOL RD & ARTISAN RD",
     "city": "LAFAYETTE",
     "time": "07/14/2020 - 12:12 PM",
