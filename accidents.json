@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "I49 NORTHBOUND MM4 HW & HECTOR CONNOLY RD",
+    "city": "LAFAYETTE",
+    "time": "07/14/2020 - 07:36 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.31911,
+    "longitude": -92.00266
+  }
+]
