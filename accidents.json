@@ -38,13 +38,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.20248,
     "longitude": -92.07527
-  },
-  {
-    "address": "0 FIRE DEPARTMENT",
-    "city": "LAFAYETTE",
-    "time": "07/14/2020 - 2:48 PM",
-    "due_to": "Commercial Fire",
-    "latitude": null,
-    "longitude": null
   }
 ]
