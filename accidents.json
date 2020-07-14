@@ -1,5 +1,13 @@
 [
   {
+    "address": "1600 GENDARME RD",
+    "city": "LAFAYETTE",
+    "time": "07/14/2020 - 5:01 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.34385,
+    "longitude": -92.08505
+  },
+  {
     "address": "308 YOUNGSVILLE HW",
     "city": "LAFAYETTE",
     "time": "07/14/2020 - 4:55 PM",
