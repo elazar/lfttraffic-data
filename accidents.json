@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19835,
     "longitude": -92.07586
-  },
-  {
-    "address": "801 POPLAR ST",
-    "city": "LAFAYETTE",
-    "time": "07/14/2020 - 10:44 AM",
-    "due_to": "Vehicle Fire",
-    "latitude": 30.23907,
-    "longitude": -92.03075
   }
 ]
