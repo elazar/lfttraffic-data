@@ -1,5 +1,13 @@
 [
   {
+    "address": "W WILLOW ST & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "07/14/2020 - 1:40 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24324,
+    "longitude": -92.06626
+  },
+  {
     "address": "CARMEL DR & E PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "07/14/2020 - 1:38 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1687,
     "longitude": -92.03433
-  },
-  {
-    "address": "3555 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "07/14/2020 - 1:03 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17648,
-    "longitude": -92.07234
   },
   {
     "address": "4000 AMBASSADOR CAFFERY PW",
