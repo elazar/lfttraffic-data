@@ -1,5 +1,13 @@
 [
   {
+    "address": "301 DOUCET RD",
+    "city": "LAFAYETTE",
+    "time": "07/15/2020 - 10:17 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.20032,
+    "longitude": -92.04365
+  },
+  {
     "address": "MILLS ST & I10 HW",
     "city": "SCOTT",
     "time": "07/15/2020 - 10:16 AM",
