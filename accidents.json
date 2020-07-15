@@ -1,5 +1,13 @@
 [
   {
+    "address": "120 CURRAN LN",
+    "city": "LAFAYETTE",
+    "time": "07/15/2020 - 11:58 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.18925,
+    "longitude": -92.07734
+  },
+  {
     "address": "5646 CAMERON ST",
     "city": "SCOTT",
     "time": "07/15/2020 - 11:38 AM",
