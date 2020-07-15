@@ -1,5 +1,13 @@
 [
   {
+    "address": "120 CURRAN LN",
+    "city": "LAFAYETTE",
+    "time": "07/15/2020 - 10:43 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.18925,
+    "longitude": -92.07734
+  },
+  {
     "address": "301 DOUCET RD",
     "city": "LAFAYETTE",
     "time": "07/15/2020 - 10:17 AM",
