@@ -1,5 +1,13 @@
 [
   {
+    "address": "206 NORTHPOINTE DR",
+    "city": "CARENCRO",
+    "time": "07/15/2020 - 4:36 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.3196,
+    "longitude": -92.03993
+  },
+  {
     "address": "GOUDCHAUX DR & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/15/2020 - 4:35 PM",
