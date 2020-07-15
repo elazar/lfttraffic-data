@@ -1,5 +1,13 @@
 [
   {
+    "address": "COOLIDGE ST & S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "07/15/2020 - 6:09 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20144,
+    "longitude": -92.01936
+  },
+  {
     "address": "225 GINA DR",
     "city": "LAFAYETTE",
     "time": "07/15/2020 - 5:49 PM",
