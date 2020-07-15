@@ -24,27 +24,11 @@
     "longitude": -92.03275
   },
   {
-    "address": "301 DOUCET RD",
-    "city": "LAFAYETTE",
-    "time": "07/15/2020 - 10:17 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.20032,
-    "longitude": -92.04365
-  },
-  {
     "address": "MILLS ST & I10 HW",
     "city": "SCOTT",
     "time": "07/15/2020 - 10:16 AM",
     "due_to": "Road Hazard",
     "latitude": 30.24463,
     "longitude": -92.09131
-  },
-  {
-    "address": "4950 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "07/15/2020 - 09:59 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18513,
-    "longitude": -92.06812
   }
 ]
