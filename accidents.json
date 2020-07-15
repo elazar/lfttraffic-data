@@ -1,5 +1,13 @@
 [
   {
+    "address": "E BROUSSARD RD & GOSHEN LN",
+    "city": "LAFAYETTE",
+    "time": "07/15/2020 - 5:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13629,
+    "longitude": -92.06492
+  },
+  {
     "address": "5741 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/15/2020 - 4:37 PM",
