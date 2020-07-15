@@ -1,26 +1,10 @@
 [
   {
-    "address": "SW EVANGELINE TW & E PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "07/14/2020 - 5:59 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21749,
-    "longitude": -92.00495
-  },
-  {
     "address": "NE FRONTAGE RD & CASTILLE AV",
     "city": "LAFAYETTE",
     "time": "07/14/2020 - 5:29 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.24884,
     "longitude": -92.01282
-  },
-  {
-    "address": "308 YOUNGSVILLE HW",
-    "city": "LAFAYETTE",
-    "time": "07/14/2020 - 4:55 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15651,
-    "longitude": -91.99151
   }
 ]
