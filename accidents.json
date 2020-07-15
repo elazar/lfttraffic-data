@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22198,
     "longitude": -92.00492
-  },
-  {
-    "address": "300 LEBESQUE RD",
-    "city": "LAFAYETTE",
-    "time": "07/15/2020 - 3:42 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2759649,
-    "longitude": -92.0578633
   }
 ]
