@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "address": "111 RUE GAMBETTA",
+    "city": "LAFAYETTE",
+    "time": "07/15/2020 - 3:15 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.271,
+    "longitude": -92.02648
+  },
+  {
+    "address": "3555 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "07/15/2020 - 3:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17648,
+    "longitude": -92.07234
+  }
+]
