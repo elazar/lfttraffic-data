@@ -1,5 +1,21 @@
 [
   {
+    "address": "E ST MARY BL & COOLIDGE ST",
+    "city": "LAFAYETTE",
+    "time": "07/15/2020 - 5:43 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.20849,
+    "longitude": -92.0138
+  },
+  {
+    "address": "JOHNSTON ST & DRIFTWOOD ST",
+    "city": "LAFAYETTE",
+    "time": "07/15/2020 - 5:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15436,
+    "longitude": -92.09026
+  },
+  {
     "address": "NW EVANGELINE TW & DONLON AV",
     "city": "LAFAYETTE",
     "time": "07/15/2020 - 5:38 PM",
