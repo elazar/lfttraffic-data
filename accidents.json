@@ -1,5 +1,13 @@
 [
   {
+    "address": "1100 CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "07/15/2020 - 12:23 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.17383,
+    "longitude": -92.04166
+  },
+  {
     "address": "W GILMAN RD & N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "07/15/2020 - 12:19 PM",
