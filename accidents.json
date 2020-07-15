@@ -1,5 +1,13 @@
 [
   {
+    "address": "6100 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "07/15/2020 - 6:23 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.10118,
+    "longitude": -91.94283
+  },
+  {
     "address": "COOLIDGE ST & S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "07/15/2020 - 6:09 PM",
