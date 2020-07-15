@@ -1,5 +1,13 @@
 [
   {
+    "address": "1020 APPLE ST",
+    "city": "LAFAYETTE",
+    "time": "07/15/2020 - 4:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22198,
+    "longitude": -92.00492
+  },
+  {
     "address": "300 LEBESQUE RD",
     "city": "LAFAYETTE",
     "time": "07/15/2020 - 3:42 PM",
