@@ -38,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.13629,
     "longitude": -92.06492
-  },
-  {
-    "address": "1020 APPLE ST",
-    "city": "LAFAYETTE",
-    "time": "07/15/2020 - 4:11 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22198,
-    "longitude": -92.00492
   }
 ]
