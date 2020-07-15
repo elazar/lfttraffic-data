@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 BEAULLIEU DR",
+    "city": "LAFAYETTE",
+    "time": "07/15/2020 - 12:59 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.16347,
+    "longitude": -92.04487
+  },
+  {
     "address": "S DOMINGUE AV & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "07/15/2020 - 12:37 PM",
