@@ -6,21 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16895,
     "longitude": -92.00667
-  },
-  {
-    "address": "300 ANDOVER RD",
-    "city": "LAFAYETTE",
-    "time": "07/14/2020 - 8:39 PM",
-    "due_to": "Hazardous Situation",
-    "latitude": 30.16616,
-    "longitude": -92.16601
-  },
-  {
-    "address": "NE FRONTAGE RD & CASTILLE AV",
-    "city": "LAFAYETTE",
-    "time": "07/14/2020 - 5:29 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24884,
-    "longitude": -92.01282
   }
 ]
