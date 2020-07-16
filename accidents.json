@@ -1,5 +1,13 @@
 [
   {
+    "address": "103 I10 WESTBOUND MM103A HW",
+    "city": "LAFAYETTE",
+    "time": "07/16/2020 - 12:17 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "400 AUSTRIA RD",
     "city": "DUSON",
     "time": "07/15/2020 - 10:33 PM",
