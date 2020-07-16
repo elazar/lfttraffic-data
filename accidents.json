@@ -1,11 +1,19 @@
 [
   {
-    "address": "NW EVANGELINE TW & W PONT DES MOUTON RD",
+    "address": "5540 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/15/2020 - 8:43 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.17895,
+    "longitude": -92.07447
+  },
+  {
+    "address": "2724 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/15/2020 - 8:35 PM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.27349,
-    "longitude": -92.02058
+    "latitude": 30.26701,
+    "longitude": -92.01591
   },
   {
     "address": "609 MARIGNY CL",
