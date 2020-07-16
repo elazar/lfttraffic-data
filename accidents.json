@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & S WESTMARK BL",
+    "city": "LAFAYETTE",
+    "time": "07/16/2020 - 12:47 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1824,
+    "longitude": -92.07019
+  },
+  {
     "address": "JOHNSTON ST & FRIER LN",
     "city": "LAFAYETTE",
     "time": "07/16/2020 - 12:45 PM",
