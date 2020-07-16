@@ -1,5 +1,21 @@
 [
   {
+    "address": "800 E BUTCHER SWITCH RD",
+    "city": "LAFAYETTE",
+    "time": "07/16/2020 - 5:21 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.2865631,
+    "longitude": -92.004223
+  },
+  {
+    "address": "2600 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "07/16/2020 - 5:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2720128,
+    "longitude": -92.0472285
+  },
+  {
     "address": "E PINHOOK RD & SW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/16/2020 - 5:09 PM",
