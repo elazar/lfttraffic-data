@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 ST MARGARITE ST",
+    "city": "LAFAYETTE",
+    "time": "07/16/2020 - 10:10 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23265,
+    "longitude": -91.98653
+  },
+  {
     "address": "NW EVANGELINE TW & BELLOT ST",
     "city": "LAFAYETTE",
     "time": "07/16/2020 - 08:27 AM",
