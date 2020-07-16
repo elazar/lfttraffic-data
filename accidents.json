@@ -1,5 +1,13 @@
 [
   {
+    "address": "106 HENNING RD",
+    "city": "SCOTT",
+    "time": "07/16/2020 - 6:21 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21224,
+    "longitude": -92.10838
+  },
+  {
     "address": "W WILLOW ST & NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/16/2020 - 6:03 PM",
