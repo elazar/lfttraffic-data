@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "500 LA FLAMME RD",
+    "city": "BROUSSARD",
+    "time": "07/16/2020 - 11:42 AM",
+    "due_to": "Hazard",
+    "latitude": 30.1458039,
+    "longitude": -91.9356397
+  }
+]
