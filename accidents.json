@@ -1,5 +1,21 @@
 [
   {
+    "address": "W GLORIA SWITCH RD & N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "07/16/2020 - 5:40 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29785,
+    "longitude": -92.04941
+  },
+  {
+    "address": "GORDON ST & E UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "07/16/2020 - 5:40 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21625,
+    "longitude": -92.0176
+  },
+  {
     "address": "E VEROT SCHOOL RD & SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/16/2020 - 5:36 PM",
