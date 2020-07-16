@@ -1,5 +1,21 @@
 [
   {
+    "address": "1801 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "07/16/2020 - 3:22 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.19294,
+    "longitude": -92.0145
+  },
+  {
+    "address": "3809 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "07/16/2020 - 3:22 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.16998,
+    "longitude": -92.06374
+  },
+  {
     "address": "W PINHOOK RD & E UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "07/16/2020 - 2:37 PM",
