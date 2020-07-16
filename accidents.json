@@ -1,5 +1,13 @@
 [
   {
+    "address": "E PINHOOK RD & SW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "07/16/2020 - 5:09 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21749,
+    "longitude": -92.00495
+  },
+  {
     "address": "MOSS ST & E GLORIA SWITCH RD",
     "city": "LAFAYETTE",
     "time": "07/16/2020 - 4:53 PM",
@@ -22,14 +30,6 @@
     "due_to": "Wire Hazard",
     "latitude": 30.25474,
     "longitude": -92.00899
-  },
-  {
-    "address": "W CONGRESS ST & CAJUNDOME BL",
-    "city": "LAFAYETTE",
-    "time": "07/16/2020 - 4:23 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21871,
-    "longitude": -92.04139
   },
   {
     "address": "302 HARDWARE RD",
