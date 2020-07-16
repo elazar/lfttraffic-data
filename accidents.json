@@ -1,5 +1,13 @@
 [
   {
+    "address": "S COLLEGE RD & W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "07/16/2020 - 07:28 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20101,
+    "longitude": -92.01538
+  },
+  {
     "address": "CAMERON ST & TOPEKA RD",
     "city": "LAFAYETTE",
     "time": "07/16/2020 - 06:50 AM",
