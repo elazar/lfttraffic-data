@@ -54,13 +54,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18268,
     "longitude": -91.99006
-  },
-  {
-    "address": "302 HARDWARE RD",
-    "city": "BROUSSARD",
-    "time": "07/16/2020 - 3:49 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.1211739,
-    "longitude": -91.9511651
   }
 ]
