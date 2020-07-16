@@ -1,5 +1,13 @@
 [
   {
+    "address": "1825 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "07/16/2020 - 11:03 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.24164,
+    "longitude": -92.05437
+  },
+  {
     "address": "105 I10 EASTBOUND MM105 HW",
     "city": "LAFAYETTE",
     "time": "07/16/2020 - 10:56 AM",
