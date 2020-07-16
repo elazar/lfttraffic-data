@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & TOPEKA RD",
+    "city": "LAFAYETTE",
+    "time": "07/16/2020 - 06:50 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23494,
+    "longitude": -92.12982
+  },
+  {
     "address": "WESTGATE RD & OLIVE VISTA DR",
     "city": "SCOTT",
     "time": "07/16/2020 - 06:42 AM",
