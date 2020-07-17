@@ -1,19 +1,19 @@
 [
   {
+    "address": "1407 E PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "07/17/2020 - 1:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22411,
+    "longitude": -91.99797
+  },
+  {
     "address": "W PINHOOK RD & VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "07/17/2020 - 1:13 PM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.17673,
     "longitude": -92.00239
-  },
-  {
-    "address": "5600 US 90 EAST HW",
-    "city": "BROUSSARD",
-    "time": "07/17/2020 - 1:10 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.1171839,
-    "longitude": -91.94374
   },
   {
     "address": "1404 CARMEL DR",
