@@ -1,5 +1,13 @@
 [
   {
+    "address": "RAYMOND ST & HIDDEN ACRES DR",
+    "city": "LAFAYETTE",
+    "time": "07/17/2020 - 09:24 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14994,
+    "longitude": -92.08126
+  },
+  {
     "address": "LAFAYETTE ST & YOUNG ST",
     "city": "YOUNGSVILLE",
     "time": "07/17/2020 - 08:53 AM",
