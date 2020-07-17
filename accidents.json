@@ -1,5 +1,13 @@
 [
   {
+    "address": "2500 SW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "07/17/2020 - 11:10 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.18685,
+    "longitude": -91.99352
+  },
+  {
     "address": "MOSS ST & RANDOLPH DR",
     "city": "LAFAYETTE",
     "time": "07/17/2020 - 10:47 AM",
@@ -8,12 +16,12 @@
     "longitude": -92.00643
   },
   {
-    "address": "KALISTE SALOOM RD & E BROUSSARD RD",
+    "address": "3003 VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "07/17/2020 - 10:08 AM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.13792,
-    "longitude": -92.06754
+    "latitude": 30.1376015,
+    "longitude": -92.0323725
   },
   {
     "address": "614 GREENBRIAR RD",
