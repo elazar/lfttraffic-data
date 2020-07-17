@@ -1,5 +1,13 @@
 [
   {
+    "address": "404 GUILBEAU RD",
+    "city": "LAFAYETTE",
+    "time": "07/17/2020 - 3:37 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19857,
+    "longitude": -92.06848
+  },
+  {
     "address": "3326 VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "07/17/2020 - 3:11 PM",
