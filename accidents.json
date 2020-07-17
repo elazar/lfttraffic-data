@@ -32,20 +32,12 @@
     "longitude": -92.066948
   },
   {
-    "address": "SHELL LN & HEATH DR",
-    "city": "LAFAYETTE",
-    "time": "07/17/2020 - 2:37 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23935,
-    "longitude": -92.07003
-  },
-  {
-    "address": "3600 AMBASSADOR CAFFERY PW",
+    "address": "3500 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/17/2020 - 2:22 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.17443,
-    "longitude": -92.07092
+    "latitude": 30.1774019,
+    "longitude": -92.0739576
   },
   {
     "address": "JOHNSTON ST & E BROUSSARD RD",
