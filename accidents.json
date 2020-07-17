@@ -16,14 +16,6 @@
     "longitude": -92.03529
   },
   {
-    "address": "266 BERTRAND ST",
-    "city": "LAFAYETTE",
-    "time": "07/17/2020 - 3:03 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.20437,
-    "longitude": -92.03162
-  },
-  {
     "address": "AMBASSADOR CAFFERY PW & DULLES DR",
     "city": "LAFAYETTE",
     "time": "07/17/2020 - 2:59 PM",
@@ -32,12 +24,12 @@
     "longitude": -92.07569
   },
   {
-    "address": "3816 W CONGRESS ST",
+    "address": "3851 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "07/17/2020 - 2:52 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.20214,
-    "longitude": -92.06451
+    "latitude": 30.2001679,
+    "longitude": -92.066948
   },
   {
     "address": "300 RIDGE RD",
