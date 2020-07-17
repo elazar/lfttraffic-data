@@ -1,5 +1,13 @@
 [
   {
+    "address": "E WILLOW ST & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "07/17/2020 - 5:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24552,
+    "longitude": -92.00037
+  },
+  {
     "address": "LOUISIANA AV & ARDOIN MEMORIAL DR",
     "city": "LAFAYETTE",
     "time": "07/17/2020 - 5:20 PM",
