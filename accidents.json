@@ -1,5 +1,13 @@
 [
   {
+    "address": "125 RIVERVIEW RD",
+    "city": "LAFAYETTE",
+    "time": "07/17/2020 - 11:24 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.14764,
+    "longitude": -92.07455
+  },
+  {
     "address": "2500 SW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/17/2020 - 11:10 AM",
