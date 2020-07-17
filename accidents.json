@@ -1,5 +1,13 @@
 [
   {
+    "address": "NW EVANGELINE TW & DONLON AV",
+    "city": "LAFAYETTE",
+    "time": "07/17/2020 - 2:44 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.24026,
+    "longitude": -92.01299
+  },
+  {
     "address": "SHELL LN & HEATH DR",
     "city": "LAFAYETTE",
     "time": "07/17/2020 - 2:37 PM",
