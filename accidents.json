@@ -1,5 +1,13 @@
 [
   {
+    "address": "6705 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "07/17/2020 - 4:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.36828,
+    "longitude": -92.04675
+  },
+  {
     "address": "3721 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/17/2020 - 4:17 PM",
