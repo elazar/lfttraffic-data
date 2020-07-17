@@ -1,5 +1,13 @@
 [
   {
+    "address": "3600 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "07/17/2020 - 07:55 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17443,
+    "longitude": -92.07092
+  },
+  {
     "address": "3721 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/17/2020 - 07:52 AM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21211,
     "longitude": -92.04493
-  },
-  {
-    "address": "2810 NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "07/17/2020 - 06:46 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.27651,
-    "longitude": -92.01856
   }
 ]
