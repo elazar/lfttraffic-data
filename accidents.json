@@ -1,13 +1,5 @@
 [
   {
-    "address": "3103 LOUISIANA AV",
-    "city": "LAFAYETTE",
-    "time": "07/16/2020 - 8:17 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.26306,
-    "longitude": -91.9938
-  },
-  {
     "address": "AMBASSADOR CAFFERY PW & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/16/2020 - 8:07 PM",
@@ -22,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.28605,
     "longitude": -92.02288
-  },
-  {
-    "address": "1214 ALBERTSON PW",
-    "city": "BROUSSARD",
-    "time": "07/16/2020 - 6:28 PM",
-    "due_to": "Vehicle Fire",
-    "latitude": 30.1406521,
-    "longitude": -91.9472891
   }
 ]
