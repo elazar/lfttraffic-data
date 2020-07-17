@@ -1,5 +1,13 @@
 [
   {
+    "address": "405 N MICHOT RD",
+    "city": "LAFAYETTE",
+    "time": "07/16/2020 - 9:00 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.15685,
+    "longitude": -92.01557
+  },
+  {
     "address": "1512 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "07/16/2020 - 8:48 PM",
