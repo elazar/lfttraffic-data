@@ -1,5 +1,13 @@
 [
   {
+    "address": "WESTGATE RD & DULLES DR",
+    "city": "SCOTT",
+    "time": "07/17/2020 - 2:47 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.21055,
+    "longitude": -92.087
+  },
+  {
     "address": "SHELL LN & HEATH DR",
     "city": "LAFAYETTE",
     "time": "07/17/2020 - 2:37 PM",
