@@ -1,5 +1,13 @@
 [
   {
+    "address": "240 ST NAZAIRE RD",
+    "city": "BROUSSARD",
+    "time": "07/17/2020 - 11:19 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.14,
+    "longitude": -91.93979
+  },
+  {
     "address": "2500 SW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/17/2020 - 11:10 AM",
