@@ -1,5 +1,13 @@
 [
   {
+    "address": "N ST ANTOINE ST & W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "07/17/2020 - 2:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24558,
+    "longitude": -92.02342
+  },
+  {
     "address": "4247 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/17/2020 - 1:56 PM",
