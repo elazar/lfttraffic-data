@@ -1,11 +1,19 @@
 [
   {
-    "address": "WESTGATE RD & DULLES DR",
+    "address": "300 RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "07/17/2020 - 2:48 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18186,
+    "longitude": -92.08133
+  },
+  {
+    "address": "1900 DULLES DR",
     "city": "SCOTT",
     "time": "07/17/2020 - 2:47 PM",
     "due_to": "Wire Hazard",
-    "latitude": 30.21055,
-    "longitude": -92.087
+    "latitude": 30.21102,
+    "longitude": -92.08756
   },
   {
     "address": "SHELL LN & HEATH DR",
