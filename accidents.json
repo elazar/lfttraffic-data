@@ -1,5 +1,13 @@
 [
   {
+    "address": "1512 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "07/16/2020 - 8:48 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23733,
+    "longitude": -92.00036
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/16/2020 - 8:07 PM",
