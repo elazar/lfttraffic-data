@@ -1,9 +1,17 @@
 [
   {
+    "address": "LAFAYETTE ST & YOUNG ST",
+    "city": "YOUNGSVILLE",
+    "time": "07/17/2020 - 08:53 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1001,
+    "longitude": -91.99057
+  },
+  {
     "address": "3600 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/17/2020 - 07:55 AM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.17443,
     "longitude": -92.07092
   },
