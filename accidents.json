@@ -1,5 +1,13 @@
 [
   {
+    "address": "609 S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "07/17/2020 - 3:03 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.20322,
+    "longitude": -92.03238
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & DULLES DR",
     "city": "LAFAYETTE",
     "time": "07/17/2020 - 2:59 PM",
@@ -62,14 +70,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2482607,
     "longitude": -92.0246095
-  },
-  {
-    "address": "600 E PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "07/17/2020 - 1:14 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21775,
-    "longitude": -92.00292
   },
   {
     "address": "1404 CARMEL DR",
