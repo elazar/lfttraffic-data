@@ -78,13 +78,5 @@
     "due_to": "Hazardous Material",
     "latitude": 30.26255,
     "longitude": -92.00867
-  },
-  {
-    "address": "115 AUDUBON BL",
-    "city": "LAFAYETTE",
-    "time": "07/17/2020 - 12:19 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20307,
-    "longitude": -92.01446
   }
 ]
