@@ -23,5 +23,12 @@
     "latitude": 30.2355,
     "longitude": -92.01257
   },
-  null
+  {
+    "address": "E PONT DES MOUTON RD & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "07/18/2020 - 05:30 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.27233,
+    "longitude": -91.99249
+  }
 ]
