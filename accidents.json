@@ -1,5 +1,13 @@
 [
   {
+    "address": "E SIMCOE ST & ELEVENTH ST",
+    "city": "LAFAYETTE",
+    "time": "07/17/2020 - 10:32 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22974,
+    "longitude": -92.00096
+  },
+  {
     "address": "4309 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/17/2020 - 10:16 PM",
