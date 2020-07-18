@@ -1,5 +1,13 @@
 [
   {
+    "address": "104 I10 WESTBOUND MM104 HW",
+    "city": "LAFAYETTE",
+    "time": "07/18/2020 - 5:41 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "I10 WESTBOUND MM105 HW & LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "07/18/2020 - 5:23 PM",
