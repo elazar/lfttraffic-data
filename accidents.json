@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 ST CLAIR RD",
+    "city": "LAFAYETTE",
+    "time": "07/17/2020 - 10:35 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.3045715,
+    "longitude": -91.9843581
+  },
+  {
     "address": "E SIMCOE ST & ELEVENTH ST",
     "city": "LAFAYETTE",
     "time": "07/17/2020 - 10:32 PM",
