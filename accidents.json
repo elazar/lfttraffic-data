@@ -1,5 +1,13 @@
 [
   {
+    "address": "3300 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "07/18/2020 - 3:29 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18135,
+    "longitude": -92.07515
+  },
+  {
     "address": "501 W SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "07/18/2020 - 3:02 PM",
