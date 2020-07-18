@@ -1,5 +1,13 @@
 [
   {
+    "address": "301 ANTONIA RD",
+    "city": "LAFAYETTE",
+    "time": "07/18/2020 - 07:24 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23888,
+    "longitude": -92.15544
+  },
+  {
     "address": "3619 MOSS ST",
     "city": "LAFAYETTE",
     "time": "07/18/2020 - 06:06 AM",
