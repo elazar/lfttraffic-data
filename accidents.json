@@ -1,5 +1,13 @@
 [
   {
+    "address": "4309 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/17/2020 - 7:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19514,
+    "longitude": -92.05659
+  },
+  {
     "address": "300 VINCENT RD",
     "city": "LAFAYETTE",
     "time": "07/17/2020 - 7:10 PM",
