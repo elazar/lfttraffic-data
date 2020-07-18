@@ -8,19 +8,19 @@
     "longitude": -91.97604
   },
   {
+    "address": "501 W SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "07/18/2020 - 3:02 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.23041,
+    "longitude": -92.02094
+  },
+  {
     "address": "5028 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/18/2020 - 2:40 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.14631,
     "longitude": -92.03488
-  },
-  {
-    "address": "3142 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "07/18/2020 - 2:36 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1873,
-    "longitude": -92.07797
   }
 ]
