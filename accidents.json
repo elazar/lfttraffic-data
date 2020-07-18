@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19409,
     "longitude": -92.05855
-  },
-  {
-    "address": "NW EVANGELINE TW & CHALMETTE DR",
-    "city": "LAFAYETTE",
-    "time": "07/17/2020 - 9:58 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.25191,
-    "longitude": -92.01425
   }
 ]
