@@ -1,5 +1,13 @@
 [
   {
+    "address": "2522 RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "07/18/2020 - 1:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18177,
+    "longitude": -92.1612
+  },
+  {
     "address": "104 I10 WESTBOUND MM104 HW",
     "city": "LAFAYETTE",
     "time": "07/18/2020 - 12:40 PM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17357,
     "longitude": -92.0672
-  },
-  {
-    "address": "DUHON RD & S FIELDSPAN RD",
-    "city": "LAFAYETTE",
-    "time": "07/18/2020 - 12:23 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.16665,
-    "longitude": -92.14182
   }
 ]
