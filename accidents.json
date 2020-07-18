@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "S COLLEGE RD & GIRARD PARK DR",
+    "city": "LAFAYETTE",
+    "time": "07/18/2020 - 10:43 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19998,
+    "longitude": -92.02317
+  }
+]
