@@ -1,5 +1,13 @@
 [
   {
+    "address": "721 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "07/18/2020 - 9:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22825,
+    "longitude": -92.00502
+  },
+  {
     "address": "1600 SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/18/2020 - 9:37 PM",
