@@ -1,11 +1,11 @@
 [
   {
-    "address": "MARYVIEW FARM RD & ST ANTHONY DR",
+    "address": "4 I49 SOUTHBOUND MM4 HW",
     "city": "LAFAYETTE",
-    "time": "07/18/2020 - 11:54 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.27888,
-    "longitude": -91.99658
+    "time": "07/18/2020 - 11:59 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.28006,
+    "longitude": -92.02024
   },
   {
     "address": "CREEK FARM RD & AMBASSADOR CAFFERY PW",
@@ -22,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24051,
     "longitude": -92.00696
-  },
-  {
-    "address": "221 LA NEUVILLE RD",
-    "city": "LAFAYETTE",
-    "time": "07/18/2020 - 10:45 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.14415,
-    "longitude": -91.99728
   },
   {
     "address": "LOUISIANA AV & S ORANGE ST",
