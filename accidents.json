@@ -1,5 +1,13 @@
 [
   {
+    "address": "E PINE ST & MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "07/19/2020 - 11:58 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24616,
+    "longitude": -92.0062
+  },
+  {
     "address": "302 WEST MAIN",
     "city": "Lafayette",
     "time": "07/19/2020 - 11:49 AM",
