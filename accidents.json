@@ -1,5 +1,13 @@
 [
   {
+    "address": "5100 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "07/19/2020 - 2:46 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19514,
+    "longitude": -92.1054
+  },
+  {
     "address": "0 POLICE DEPARTMENT",
     "city": "LAFAYETTE",
     "time": "07/19/2020 - 2:43 PM",
