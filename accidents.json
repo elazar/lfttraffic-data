@@ -1,26 +1,10 @@
 [
   {
-    "address": "104 I10 EASTBOUND MM104 HW",
-    "city": "LAFAYETTE",
-    "time": "07/19/2020 - 4:46 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.26255,
-    "longitude": -92.00867
-  },
-  {
     "address": "111 THERIOT ST",
     "city": "LAFAYETTE",
     "time": "07/19/2020 - 3:45 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.2195942,
     "longitude": -92.0009309
-  },
-  {
-    "address": "3142 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "07/19/2020 - 3:32 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1873,
-    "longitude": -92.07797
   }
 ]
