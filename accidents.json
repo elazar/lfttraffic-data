@@ -1,19 +1,19 @@
 [
   {
+    "address": "101 I10 EASTBOUND MM101 HW",
+    "city": "LAFAYETTE",
+    "time": "07/19/2020 - 12:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "2433 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "07/19/2020 - 12:37 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.21255,
     "longitude": -92.04901
-  },
-  {
-    "address": "851 LA 93 HW",
-    "city": "LAFAYETTE",
-    "time": "07/19/2020 - 12:26 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.26444,
-    "longitude": -92.11224
   },
   {
     "address": "105 I10 EASTBOUND MM105 HW",
