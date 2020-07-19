@@ -1,5 +1,13 @@
 [
   {
+    "address": "117 FRANK ST",
+    "city": "LAFAYETTE",
+    "time": "07/18/2020 - 7:47 PM",
+    "due_to": "Hazard",
+    "latitude": 30.22743,
+    "longitude": -91.99757
+  },
+  {
     "address": "I10 WESTBOUND MM105 HW & LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "07/18/2020 - 5:23 PM",
