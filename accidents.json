@@ -1,19 +1,19 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & W SAUL DR",
+    "city": "LAFAYETTE",
+    "time": "07/19/2020 - 11:19 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2379,
+    "longitude": -92.06484
+  },
+  {
     "address": "120 WATERVIEW RD",
     "city": "YOUNGSVILLE",
     "time": "07/19/2020 - 11:09 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.10247,
     "longitude": -92.00973
-  },
-  {
-    "address": "1900 VEROT SCHOOL RD",
-    "city": "LAFAYETTE",
-    "time": "07/19/2020 - 09:56 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1600375,
-    "longitude": -92.0228951
   },
   {
     "address": "3439 W PINHOOK RD",
