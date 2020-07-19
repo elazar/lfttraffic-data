@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 SPRUCE DR",
+    "city": "LAFAYETTE",
+    "time": "07/19/2020 - 2:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19174,
+    "longitude": -92.06684
+  },
+  {
     "address": "119 TUCKER DR",
     "city": "LAFAYETTE",
     "time": "07/19/2020 - 1:56 PM",
