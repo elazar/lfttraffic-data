@@ -1,5 +1,13 @@
 [
   {
+    "address": "221 LA NEUVILLE RD",
+    "city": "LAFAYETTE",
+    "time": "07/18/2020 - 10:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14415,
+    "longitude": -91.99728
+  },
+  {
     "address": "LOUISIANA AV & S ORANGE ST",
     "city": "LAFAYETTE",
     "time": "07/18/2020 - 10:44 PM",
