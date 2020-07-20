@@ -1,5 +1,21 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "07/20/2020 - 2:06 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24324,
+    "longitude": -92.06626
+  },
+  {
+    "address": "NW EVANGELINE TW & W PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "07/20/2020 - 2:06 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27349,
+    "longitude": -92.02058
+  },
+  {
     "address": "NE EVANGELINE TW & E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "07/20/2020 - 1:51 PM",
