@@ -1,5 +1,13 @@
 [
   {
+    "address": "507 HERBERT RD",
+    "city": "SCOTT",
+    "time": "07/20/2020 - 6:19 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.20357,
+    "longitude": -92.0966
+  },
+  {
     "address": "RUE DU BELIER & RIDGE RD",
     "city": "LAFAYETTE",
     "time": "07/20/2020 - 5:56 PM",
@@ -22,6 +30,14 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18542,
     "longitude": -92.07418
+  },
+  {
+    "address": "1 E PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "07/20/2020 - 5:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2736627,
+    "longitude": -92.0176181
   },
   {
     "address": "WILSON ST & E ST MARY BL",
