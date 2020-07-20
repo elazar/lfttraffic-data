@@ -1,5 +1,13 @@
 [
   {
+    "address": "1100 GORDON ST",
+    "city": "LAFAYETTE",
+    "time": "07/20/2020 - 11:14 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2168921,
+    "longitude": -92.0173506
+  },
+  {
     "address": "541 BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "07/20/2020 - 11:11 AM",
