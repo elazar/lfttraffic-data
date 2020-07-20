@@ -46,13 +46,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2736627,
     "longitude": -92.0176181
-  },
-  {
-    "address": "WILSON ST & E ST MARY BL",
-    "city": "LAFAYETTE",
-    "time": "07/20/2020 - 5:24 PM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.20951,
-    "longitude": -92.01517
   }
 ]
