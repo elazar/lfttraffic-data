@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "N UNIVERSITY AV & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "07/20/2020 - 05:26 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.24052,
+    "longitude": -92.03242
+  }
+]
