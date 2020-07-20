@@ -1,5 +1,13 @@
 [
   {
+    "address": "1800 BONIN RD",
+    "city": "LAFAYETTE",
+    "time": "07/20/2020 - 3:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1273,
+    "longitude": -92.00957
+  },
+  {
     "address": "300 VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "07/20/2020 - 3:05 PM",
