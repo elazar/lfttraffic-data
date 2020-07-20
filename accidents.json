@@ -1,5 +1,21 @@
 [
   {
+    "address": "VEROT SCHOOL RD & FORTUNE RD",
+    "city": "LAFAYETTE",
+    "time": "07/20/2020 - 4:01 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.12372,
+    "longitude": -92.03243
+  },
+  {
+    "address": "104 I10 EASTBOUND MM104 HW",
+    "city": "LAFAYETTE",
+    "time": "07/20/2020 - 4:01 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "BERTRAND DR & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/20/2020 - 3:52 PM",
