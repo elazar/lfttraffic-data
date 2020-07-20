@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17254,
     "longitude": -92.06583
-  },
-  {
-    "address": "200 BENDEL RD",
-    "city": "LAFAYETTE",
-    "time": "07/20/2020 - 12:13 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.2005946,
-    "longitude": -92.0185246
   }
 ]
