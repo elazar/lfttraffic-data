@@ -16,14 +16,6 @@
     "longitude": -92.05536
   },
   {
-    "address": "RUE DU BELIER & RIDGE RD",
-    "city": "LAFAYETTE",
-    "time": "07/20/2020 - 5:56 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19636,
-    "longitude": -92.09204
-  },
-  {
     "address": "1700 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/20/2020 - 5:45 PM",
@@ -40,11 +32,11 @@
     "longitude": -92.07418
   },
   {
-    "address": "1 E PONT DES MOUTON RD",
+    "address": "100 W GLORIA SWITCH RD",
     "city": "LAFAYETTE",
     "time": "07/20/2020 - 5:30 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.2736627,
-    "longitude": -92.0176181
+    "latitude": 30.2959239,
+    "longitude": -92.0264909
   }
 ]
