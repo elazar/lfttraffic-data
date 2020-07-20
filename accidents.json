@@ -1,5 +1,13 @@
 [
   {
+    "address": "MUDD AV & NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "07/20/2020 - 2:55 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23312,
+    "longitude": -92.01407
+  },
+  {
     "address": "700 CAMERON ST",
     "city": "LAFAYETTE",
     "time": "07/20/2020 - 2:50 PM",
