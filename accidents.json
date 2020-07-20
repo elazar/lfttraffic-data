@@ -54,13 +54,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20581,
     "longitude": -92.04078
-  },
-  {
-    "address": "3010 N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "07/20/2020 - 2:36 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.28411,
-    "longitude": -92.04985
   }
 ]
