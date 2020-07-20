@@ -1,5 +1,13 @@
 [
   {
+    "address": "BERTRAND DR & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/20/2020 - 3:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20581,
+    "longitude": -92.04078
+  },
+  {
     "address": "1800 BONIN RD",
     "city": "LAFAYETTE",
     "time": "07/20/2020 - 3:45 PM",
