@@ -1,5 +1,13 @@
 [
   {
+    "address": "541 BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "07/20/2020 - 11:11 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.21379,
+    "longitude": -92.04637
+  },
+  {
     "address": "3142 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/20/2020 - 10:41 AM",
