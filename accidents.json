@@ -1,5 +1,21 @@
 [
   {
+    "address": "4000 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "07/19/2020 - 7:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1663,
+    "longitude": -92.06118
+  },
+  {
+    "address": "149 ARNOULD BL",
+    "city": "LAFAYETTE",
+    "time": "07/19/2020 - 7:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20321,
+    "longitude": -92.05468
+  },
+  {
     "address": "200 DESTINATION POINTE LN",
     "city": "SCOTT",
     "time": "07/19/2020 - 6:42 PM",
