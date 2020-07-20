@@ -1,5 +1,13 @@
 [
   {
+    "address": "WILSON ST & E ST MARY BL",
+    "city": "LAFAYETTE",
+    "time": "07/20/2020 - 5:24 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.20951,
+    "longitude": -92.01517
+  },
+  {
     "address": "215 W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "07/20/2020 - 5:01 PM",
