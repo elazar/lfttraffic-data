@@ -1,5 +1,13 @@
 [
   {
+    "address": "2300 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "07/20/2020 - 03:01 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2214883,
+    "longitude": -92.0372476
+  },
+  {
     "address": "3142 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/20/2020 - 02:43 AM",
