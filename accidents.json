@@ -1,5 +1,13 @@
 [
   {
+    "address": "215 LAKEN LN",
+    "city": "LAFAYETTE",
+    "time": "07/20/2020 - 08:16 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.11353,
+    "longitude": -92.058
+  },
+  {
     "address": "400 WOODVALE AV",
     "city": "LAFAYETTE",
     "time": "07/20/2020 - 08:02 AM",
