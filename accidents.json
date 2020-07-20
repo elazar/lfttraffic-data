@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 E PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "07/20/2020 - 5:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.273,
+    "longitude": -92.01677
+  },
+  {
     "address": "WILSON ST & E ST MARY BL",
     "city": "LAFAYETTE",
     "time": "07/20/2020 - 5:24 PM",
