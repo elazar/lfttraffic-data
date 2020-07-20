@@ -1,5 +1,13 @@
 [
   {
+    "address": "OLD SPANISH TL & BREAUX ST",
+    "city": "SCOTT",
+    "time": "07/20/2020 - 4:21 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23215,
+    "longitude": -92.09568
+  },
+  {
     "address": "3747 MOSS ST",
     "city": "LAFAYETTE",
     "time": "07/20/2020 - 4:16 PM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.21058,
     "longitude": -92.09218
-  },
-  {
-    "address": "VEROT SCHOOL RD & FORTUNE RD",
-    "city": "LAFAYETTE",
-    "time": "07/20/2020 - 4:01 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.12372,
-    "longitude": -92.03243
   },
   {
     "address": "BERTRAND DR & JOHNSTON ST",
