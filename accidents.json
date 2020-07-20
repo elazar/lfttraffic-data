@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "07/20/2020 - 3:05 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17573,
+    "longitude": -92.00798
+  },
+  {
     "address": "485 RIDGE RD",
     "city": "LAFAYETTE",
     "time": "07/20/2020 - 3:03 PM",
