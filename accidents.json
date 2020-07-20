@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 TOUCHET RD",
+    "city": "LAFAYETTE",
+    "time": "07/20/2020 - 4:41 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1469883,
+    "longitude": -92.0984777
+  },
+  {
     "address": "E KALISTE SALOOM RD & S HUGH WALLIS RD",
     "city": "LAFAYETTE",
     "time": "07/20/2020 - 4:31 PM",
