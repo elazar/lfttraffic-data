@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1873,
     "longitude": -92.07797
-  },
-  {
-    "address": "111 BANISTER CT",
-    "city": "LAFAYETTE",
-    "time": "07/20/2020 - 10:30 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.27301,
-    "longitude": -92.02895
   }
 ]
