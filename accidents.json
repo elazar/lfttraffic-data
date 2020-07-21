@@ -1,5 +1,21 @@
 [
   {
+    "address": "US 90 EAST HW & SOUTHPARK RD",
+    "city": "LAFAYETTE",
+    "time": "07/21/2020 - 3:01 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.17092,
+    "longitude": -91.98031
+  },
+  {
+    "address": "600 SE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "07/21/2020 - 3:01 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2246665,
+    "longitude": -92.0095254
+  },
+  {
     "address": "655 MARIE ANTOINETTE ST",
     "city": "LAFAYETTE",
     "time": "07/21/2020 - 3:00 PM",
