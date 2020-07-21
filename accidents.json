@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "ASHLAND PARK DR & DURHAM DR",
+    "city": "LAFAYETTE",
+    "time": "07/20/2020 - 10:43 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.15825,
+    "longitude": -92.03703
+  }
+]
