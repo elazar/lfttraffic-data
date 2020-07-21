@@ -1,5 +1,13 @@
 [
   {
+    "address": "305 STEINER RD",
+    "city": "LAFAYETTE",
+    "time": "07/20/2020 - 7:52 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.1763,
+    "longitude": -92.0408
+  },
+  {
     "address": "112 STEINER RD",
     "city": "LAFAYETTE",
     "time": "07/20/2020 - 7:51 PM",
