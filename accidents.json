@@ -1,19 +1,11 @@
 [
   {
-    "address": "SE EVANGELINE TW & E KALISTE SALOOM RD",
+    "address": "2100 SE EVANGELINE TW",
     "city": "LAFAYETTE",
-    "time": "07/21/2020 - 5:15 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.20067,
-    "longitude": -91.99958
-  },
-  {
-    "address": "SE EVANGELINE TW & E KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "07/21/2020 - 5:15 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.20067,
-    "longitude": -91.99958
+    "time": "07/21/2020 - 5:16 PM",
+    "due_to": "Vehicle Fire",
+    "latitude": 30.1994219,
+    "longitude": -91.9984044
   },
   {
     "address": "E GLORIA SWITCH RD & NE FRONTAGE RD",
