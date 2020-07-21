@@ -1,10 +1,10 @@
 [
   {
-    "address": "3221 AMBASSADOR CAFFERY PW",
+    "address": "MILLS ST & EMILE DR",
     "city": "LAFAYETTE",
-    "time": "07/20/2020 - 5:42 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18542,
-    "longitude": -92.07418
+    "time": "07/20/2020 - 7:11 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.27224,
+    "longitude": -92.09127
   }
 ]
