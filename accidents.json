@@ -1,5 +1,13 @@
 [
   {
+    "address": "CARRIAGE LAKES DR & LA NEUVILLE RD",
+    "city": "BROUSSARD",
+    "time": "07/21/2020 - 4:25 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14488,
+    "longitude": -92.00607
+  },
+  {
     "address": "N UNIVERSITY AV & MIDWAY ST",
     "city": "LAFAYETTE",
     "time": "07/21/2020 - 4:24 PM",
