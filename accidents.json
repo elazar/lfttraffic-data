@@ -1,18 +1,1 @@
-[
-  {
-    "address": "3220 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "07/21/2020 - 3:17 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18468,
-    "longitude": -92.07547
-  },
-  {
-    "address": "US 90 EAST HW & SOUTHPARK RD",
-    "city": "LAFAYETTE",
-    "time": "07/21/2020 - 3:01 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.17092,
-    "longitude": -91.98031
-  }
-]
+[]
