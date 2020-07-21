@@ -1,5 +1,13 @@
 [
   {
+    "address": "215 ROUSSEAU RD",
+    "city": "LAFAYETTE",
+    "time": "07/21/2020 - 6:11 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.13166,
+    "longitude": -91.99499
+  },
+  {
     "address": "326 ELWICK DR",
     "city": "CARENCRO",
     "time": "07/21/2020 - 6:10 PM",
