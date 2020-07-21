@@ -1,5 +1,13 @@
 [
   {
+    "address": "W WILLOW ST & N ST ANTOINE ST",
+    "city": "LAFAYETTE",
+    "time": "07/21/2020 - 3:39 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24558,
+    "longitude": -92.02342
+  },
+  {
     "address": "131 REX ST",
     "city": "LAFAYETTE",
     "time": "07/21/2020 - 3:20 PM",
