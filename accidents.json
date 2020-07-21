@@ -1,5 +1,13 @@
 [
   {
+    "address": "655 MARIE ANTOINETTE ST",
+    "city": "LAFAYETTE",
+    "time": "07/21/2020 - 3:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20969,
+    "longitude": -92.06417
+  },
+  {
     "address": "E PONT DES MOUTON RD & LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "07/21/2020 - 2:12 PM",
