@@ -1,5 +1,13 @@
 [
   {
+    "address": "5627 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/21/2020 - 5:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17587,
+    "longitude": -92.07468
+  },
+  {
     "address": "2100 SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/21/2020 - 5:16 PM",
