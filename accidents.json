@@ -1,5 +1,21 @@
 [
   {
+    "address": "CAMERON ST & TOPEKA RD",
+    "city": "LAFAYETTE",
+    "time": "07/21/2020 - 12:27 PM",
+    "due_to": "Hazard",
+    "latitude": 30.23494,
+    "longitude": -92.12982
+  },
+  {
+    "address": "E PONT DES MOUTON RD & NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "07/21/2020 - 12:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27334,
+    "longitude": -92.01718
+  },
+  {
     "address": "121 E PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "07/21/2020 - 12:24 PM",
