@@ -1,5 +1,13 @@
 [
   {
+    "address": "4000 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "07/21/2020 - 12:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1663,
+    "longitude": -92.06118
+  },
+  {
     "address": "CAMERON ST & TOPEKA RD",
     "city": "LAFAYETTE",
     "time": "07/21/2020 - 12:27 PM",
