@@ -1,5 +1,13 @@
 [
   {
+    "address": "2390 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "07/21/2020 - 09:39 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21551,
+    "longitude": -92.04635
+  },
+  {
     "address": "701 ST NAZAIRE RD",
     "city": "BROUSSARD",
     "time": "07/21/2020 - 08:20 AM",
