@@ -1,5 +1,13 @@
 [
   {
+    "address": "5100 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/21/2020 - 11:25 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1828653,
+    "longitude": -92.0699099
+  },
+  {
     "address": "330 FEU FOLLET RD",
     "city": "LAFAYETTE",
     "time": "07/21/2020 - 11:24 AM",
