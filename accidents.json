@@ -1,5 +1,13 @@
 [
   {
+    "address": "330 FEU FOLLET RD",
+    "city": "LAFAYETTE",
+    "time": "07/21/2020 - 11:24 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.17909,
+    "longitude": -92.01341
+  },
+  {
     "address": "701 ST NAZAIRE RD",
     "city": "BROUSSARD",
     "time": "07/21/2020 - 08:20 AM",
