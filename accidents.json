@@ -1,5 +1,13 @@
 [
   {
+    "address": "WESTGATE RD & DULLES DR",
+    "city": "SCOTT",
+    "time": "07/21/2020 - 6:02 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.21055,
+    "longitude": -92.087
+  },
+  {
     "address": "MOSS ST & E PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "07/21/2020 - 5:49 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2940098,
     "longitude": -91.9835703
-  },
-  {
-    "address": "152 E GLORIA SWITCH RD",
-    "city": "LAFAYETTE",
-    "time": "07/21/2020 - 5:14 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2953451,
-    "longitude": -92.0208614
   },
   {
     "address": "3142 AMBASSADOR CAFFERY PW",
