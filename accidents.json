@@ -1,5 +1,13 @@
 [
   {
+    "address": "201 MEADOW FARM RD",
+    "city": "LAFAYETTE",
+    "time": "07/21/2020 - 1:07 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15627,
+    "longitude": -92.04436
+  },
+  {
     "address": "3806 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/21/2020 - 1:03 PM",
