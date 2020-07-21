@@ -1,5 +1,13 @@
 [
   {
+    "address": "2411 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "07/21/2020 - 4:50 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24707,
+    "longitude": -92.00076
+  },
+  {
     "address": "800 FARMINGTON DR",
     "city": "LAFAYETTE",
     "time": "07/21/2020 - 4:44 PM",
