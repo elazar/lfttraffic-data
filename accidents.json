@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMELLIA DR & MOUNT VERNON DR",
+    "city": "LAFAYETTE",
+    "time": "07/21/2020 - 08:00 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.18558,
+    "longitude": -92.05388
+  },
+  {
     "address": "726 LE VIOLON RD",
     "city": "SCOTT",
     "time": "07/21/2020 - 06:57 AM",
