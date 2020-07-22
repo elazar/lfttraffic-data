@@ -1,19 +1,11 @@
 [
   {
-    "address": "CAJUNDOME BL & CAMERON ST",
+    "address": "1005 CAJUNDOME BL",
     "city": "LAFAYETTE",
     "time": "07/21/2020 - 8:12 PM",
     "due_to": "Fire Investigation",
-    "latitude": 30.23244,
-    "longitude": -92.04675
-  },
-  {
-    "address": "2431 W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "07/21/2020 - 7:46 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.21336,
-    "longitude": -92.04894
+    "latitude": 30.23141,
+    "longitude": -92.0471
   },
   {
     "address": "100 I10 EASTBOUND MM100 HW",
