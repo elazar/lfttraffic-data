@@ -1,5 +1,13 @@
 [
   {
+    "address": "6920 AMBASSADOR CAFFERY PW",
+    "city": "BROUSSARD",
+    "time": "07/22/2020 - 5:41 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.13159,
+    "longitude": -91.96437
+  },
+  {
     "address": "120 E GLORIA SWITCH RD",
     "city": "LAFAYETTE",
     "time": "07/22/2020 - 5:36 PM",
@@ -40,28 +48,12 @@
     "longitude": -86.9208806
   },
   {
-    "address": "201 ADALINE ST",
-    "city": "LAFAYETTE",
-    "time": "07/22/2020 - 5:19 PM",
-    "due_to": "Trash Fire",
-    "latitude": 30.33424,
-    "longitude": -91.97926
-  },
-  {
     "address": "3600 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "07/22/2020 - 5:19 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.14068,
     "longitude": -92.06221
-  },
-  {
-    "address": "200 DORSET AV",
-    "city": "LAFAYETTE",
-    "time": "07/22/2020 - 5:15 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2126892,
-    "longitude": -92.0064047
   },
   {
     "address": "151 W SIMCOE ST",
