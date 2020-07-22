@@ -3,7 +3,7 @@
     "address": "201 ADALINE ST",
     "city": "LAFAYETTE",
     "time": "07/22/2020 - 5:19 PM",
-    "due_to": "Incoming Call",
+    "due_to": "Trash Fire",
     "latitude": 30.33424,
     "longitude": -91.97926
   },
@@ -40,12 +40,12 @@
     "longitude": -92.00734
   },
   {
-    "address": "W SIMCOE ST & S PIERCE ST",
+    "address": "151 W SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "07/22/2020 - 5:01 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.23067,
-    "longitude": -92.01881
+    "latitude": 30.2308936,
+    "longitude": -92.0171683
   },
   {
     "address": "S RICHFIELD RD & CAMERON ST",
