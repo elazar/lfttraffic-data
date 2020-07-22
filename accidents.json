@@ -1,5 +1,13 @@
 [
   {
+    "address": "4310 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "07/22/2020 - 6:42 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.15773,
+    "longitude": -92.05211
+  },
+  {
     "address": "3721 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/22/2020 - 6:15 PM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17648,
     "longitude": -92.07234
-  },
-  {
-    "address": "3600 KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "07/22/2020 - 5:19 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.14068,
-    "longitude": -92.06221
   }
 ]
