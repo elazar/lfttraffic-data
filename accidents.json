@@ -1,5 +1,13 @@
 [
   {
+    "address": "W SIMCOE ST & S PIERCE ST",
+    "city": "LAFAYETTE",
+    "time": "07/22/2020 - 5:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23067,
+    "longitude": -92.01881
+  },
+  {
     "address": "S RICHFIELD RD & CAMERON ST",
     "city": "DUSON",
     "time": "07/22/2020 - 4:54 PM",
