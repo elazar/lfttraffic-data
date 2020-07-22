@@ -16,28 +16,12 @@
     "longitude": -91.99535
   },
   {
-    "address": "3200 LOUISIANA AV",
-    "city": "LAFAYETTE",
-    "time": "07/22/2020 - 06:32 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.26436,
-    "longitude": -91.9926
-  },
-  {
     "address": "320 BRASSEAUX RD",
     "city": "LAFAYETTE",
     "time": "07/22/2020 - 06:17 AM",
     "due_to": "Road Hazard",
     "latitude": 30.35857,
     "longitude": -92.0379
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & RIDGE RD",
-    "city": "LAFAYETTE",
-    "time": "07/22/2020 - 05:55 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21504,
-    "longitude": -92.07579
   },
   {
     "address": "103 I10 EASTBOUND MM103A HW",
