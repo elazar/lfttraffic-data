@@ -1,5 +1,13 @@
 [
   {
+    "address": "110 MARLA DR",
+    "city": "LAFAYETTE",
+    "time": "07/22/2020 - 10:45 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15219,
+    "longitude": -92.05824
+  },
+  {
     "address": "825 W PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "07/22/2020 - 10:36 AM",
