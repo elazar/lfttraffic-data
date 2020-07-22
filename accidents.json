@@ -1,5 +1,13 @@
 [
   {
+    "address": "222 TOWER DR",
+    "city": "LAFAYETTE",
+    "time": "07/22/2020 - 5:27 PM",
+    "due_to": "Fire",
+    "latitude": 40.4331016,
+    "longitude": -86.9208806
+  },
+  {
     "address": "201 ADALINE ST",
     "city": "LAFAYETTE",
     "time": "07/22/2020 - 5:19 PM",
