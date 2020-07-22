@@ -1,13 +1,5 @@
 [
   {
-    "address": "1 I49 SOUTHBOUND MM1 HW",
-    "city": "LAFAYETTE",
-    "time": "07/22/2020 - 11:10 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.28006,
-    "longitude": -92.02024
-  },
-  {
     "address": "110 MARLA DR",
     "city": "LAFAYETTE",
     "time": "07/22/2020 - 10:45 AM",
@@ -24,7 +16,7 @@
     "longitude": -92.0422
   },
   {
-    "address": "105 I10 EASTBOUND MM105 HW",
+    "address": "104 I10 EASTBOUND MM104 HW",
     "city": "LAFAYETTE",
     "time": "07/22/2020 - 10:21 AM",
     "due_to": "Vehicle Accident",
