@@ -1,5 +1,13 @@
 [
   {
+    "address": "111 MASTERSPOINT DR",
+    "city": "LAFAYETTE",
+    "time": "07/22/2020 - 12:07 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.08646,
+    "longitude": -91.94838
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & ROBLEY DR",
     "city": "LAFAYETTE",
     "time": "07/22/2020 - 12:04 PM",
