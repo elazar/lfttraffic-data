@@ -1,5 +1,13 @@
 [
   {
+    "address": "151 INDUSTRIAL PW",
+    "city": "LAFAYETTE",
+    "time": "07/22/2020 - 5:02 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.18807,
+    "longitude": -92.00734
+  },
+  {
     "address": "W SIMCOE ST & S PIERCE ST",
     "city": "LAFAYETTE",
     "time": "07/22/2020 - 5:01 PM",
