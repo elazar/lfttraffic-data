@@ -1,5 +1,13 @@
 [
   {
+    "address": "127 BRINA LN",
+    "city": "LAFAYETTE",
+    "time": "07/22/2020 - 09:19 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.33315,
+    "longitude": -92.06234
+  },
+  {
     "address": "1912 JEFFERSON ST",
     "city": "LAFAYETTE",
     "time": "07/22/2020 - 09:17 AM",
