@@ -56,26 +56,10 @@
     "longitude": -92.0171683
   },
   {
-    "address": "S RICHFIELD RD & CAMERON ST",
-    "city": "DUSON",
-    "time": "07/22/2020 - 4:54 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.23496,
-    "longitude": -92.17607
-  },
-  {
     "address": "209 LODGE DR",
     "city": "LAFAYETTE",
     "time": "07/22/2020 - 4:52 PM",
     "due_to": "Fire Investigation",
-    "latitude": 30.21528,
-    "longitude": -92.07923
-  },
-  {
-    "address": "209 LODGE DR",
-    "city": "LAFAYETTE",
-    "time": "07/22/2020 - 4:50 PM",
-    "due_to": "Incoming Call",
     "latitude": 30.21528,
     "longitude": -92.07923
   },
