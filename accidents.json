@@ -1,5 +1,13 @@
 [
   {
+    "address": "11 BNSF RAILROAD CG",
+    "city": "LAFAYETTE",
+    "time": "07/22/2020 - 12:42 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.22412,
+    "longitude": -92.00662
+  },
+  {
     "address": "J B RD & DULLES DR",
     "city": "SCOTT",
     "time": "07/22/2020 - 12:15 PM",
