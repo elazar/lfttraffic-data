@@ -1,5 +1,21 @@
 [
   {
+    "address": "2817 S FIELDSPAN RD",
+    "city": "LAFAYETTE",
+    "time": "07/21/2020 - 8:25 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.16102,
+    "longitude": -92.14113
+  },
+  {
+    "address": "3211 S FIELDSPAN RD",
+    "city": "LAFAYETTE",
+    "time": "07/21/2020 - 8:25 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.14727,
+    "longitude": -92.14095
+  },
+  {
     "address": "1326 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "07/21/2020 - 8:22 PM",
