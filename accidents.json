@@ -1,5 +1,13 @@
 [
   {
+    "address": "99 I10 EASTBOUND MM99 HW",
+    "city": "SCOTT",
+    "time": "07/21/2020 - 7:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24727,
+    "longitude": -92.09751
+  },
+  {
     "address": "900 VETERANS DR",
     "city": "CARENCRO",
     "time": "07/21/2020 - 7:18 PM",
