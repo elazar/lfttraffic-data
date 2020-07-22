@@ -1,5 +1,21 @@
 [
   {
+    "address": "609 BROADMOOR BL",
+    "city": "LAFAYETTE",
+    "time": "07/22/2020 - 11:39 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17256,
+    "longitude": -92.05858
+  },
+  {
+    "address": "1100 E MAIN ST",
+    "city": "BROUSSARD",
+    "time": "07/22/2020 - 11:39 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14307,
+    "longitude": -91.94791
+  },
+  {
     "address": "110 MARLA DR",
     "city": "LAFAYETTE",
     "time": "07/22/2020 - 10:45 AM",
