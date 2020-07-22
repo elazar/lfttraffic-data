@@ -1,5 +1,13 @@
 [
   {
+    "address": "2425 RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "07/22/2020 - 09:42 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1808,
+    "longitude": -92.15634
+  },
+  {
     "address": "127 BRINA LN",
     "city": "LAFAYETTE",
     "time": "07/22/2020 - 09:19 AM",
