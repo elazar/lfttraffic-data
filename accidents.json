@@ -1,36 +1,8 @@
 [
-  {
-    "address": "151 INDUSTRIAL PW",
-    "city": "LAFAYETTE",
-    "time": "07/22/2020 - 5:02 PM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.18807,
-    "longitude": -92.00734
-  },
-  {
-    "address": "W SIMCOE ST & S PIERCE ST",
-    "city": "LAFAYETTE",
-    "time": "07/22/2020 - 5:01 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23067,
-    "longitude": -92.01881
-  },
-  {
-    "address": "S RICHFIELD RD & CAMERON ST",
-    "city": "DUSON",
-    "time": "07/22/2020 - 4:54 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.23496,
-    "longitude": -92.17607
-  },
-  {
-    "address": "209 LODGE DR",
-    "city": "LAFAYETTE",
-    "time": "07/22/2020 - 4:52 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.21528,
-    "longitude": -92.07923
-  },
+  null,
+  null,
+  null,
+  null,
   {
     "address": "209 LODGE DR",
     "city": "LAFAYETTE",
@@ -47,12 +19,5 @@
     "latitude": 30.26255,
     "longitude": -92.00867
   },
-  {
-    "address": "VEROT SCHOOL RD & NEWBURG DR",
-    "city": "LAFAYETTE",
-    "time": "07/22/2020 - 3:51 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.13555,
-    "longitude": -92.03252
-  }
+  null
 ]
