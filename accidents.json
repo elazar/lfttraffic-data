@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 LA 93 HW",
+    "city": "SCOTT",
+    "time": "07/22/2020 - 5:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2348501,
+    "longitude": -92.1072851
+  },
+  {
     "address": "200 DORSET AV",
     "city": "LAFAYETTE",
     "time": "07/22/2020 - 5:15 PM",
