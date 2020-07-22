@@ -1,5 +1,13 @@
 [
   {
+    "address": "BAJAT RD & WINTERFIELD DR",
+    "city": "LAFAYETTE",
+    "time": "07/21/2020 - 10:08 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.32999,
+    "longitude": -92.0664
+  },
+  {
     "address": "3215 S FIELDSPAN RD",
     "city": "LAFAYETTE",
     "time": "07/21/2020 - 8:25 PM",
