@@ -2,6 +2,14 @@
   {
     "address": "209 LODGE DR",
     "city": "LAFAYETTE",
+    "time": "07/22/2020 - 4:52 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.21528,
+    "longitude": -92.07923
+  },
+  {
+    "address": "209 LODGE DR",
+    "city": "LAFAYETTE",
     "time": "07/22/2020 - 4:50 PM",
     "due_to": "Incoming Call",
     "latitude": 30.21528,
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.26255,
     "longitude": -92.00867
-  },
-  {
-    "address": "FOUNTAINHEAD DR & JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "07/22/2020 - 4:11 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17405,
-    "longitude": -92.07875
   },
   {
     "address": "VEROT SCHOOL RD & NEWBURG DR",
