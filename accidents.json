@@ -1,11 +1,11 @@
 [
   {
-    "address": "LA 93 HW & W GLORIA SWITCH RD",
+    "address": "VEROT SCHOOL RD & NEWBURG DR",
     "city": "LAFAYETTE",
-    "time": "07/22/2020 - 3:48 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.2954852,
-    "longitude": -92.0263656
+    "time": "07/22/2020 - 3:51 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13555,
+    "longitude": -92.03252
   },
   {
     "address": "105 STILL WATERS RD",
@@ -22,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22785,
     "longitude": -91.9976
-  },
-  {
-    "address": "N UNIVERSITY AV & PREJEAN RD",
-    "city": "CARENCRO",
-    "time": "07/22/2020 - 3:15 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.30943,
-    "longitude": -92.04946
   },
   {
     "address": "1734 W PINHOOK RD",
