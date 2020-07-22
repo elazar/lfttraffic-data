@@ -1,5 +1,13 @@
 [
   {
+    "address": "SE EVANGELINE TW & TWELFTH ST",
+    "city": "LAFAYETTE",
+    "time": "07/22/2020 - 3:01 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.22249,
+    "longitude": -92.00818
+  },
+  {
     "address": "W SIMCOE ST & MADISON ST",
     "city": "LAFAYETTE",
     "time": "07/22/2020 - 2:25 PM",
