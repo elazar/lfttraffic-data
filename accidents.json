@@ -1,5 +1,13 @@
 [
   {
+    "address": "1700 E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "07/22/2020 - 3:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22785,
+    "longitude": -91.9976
+  },
+  {
     "address": "N UNIVERSITY AV & PREJEAN RD",
     "city": "CARENCRO",
     "time": "07/22/2020 - 3:15 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19275,
     "longitude": -92.01639
-  },
-  {
-    "address": "SE EVANGELINE TW & TWELFTH ST",
-    "city": "LAFAYETTE",
-    "time": "07/22/2020 - 3:01 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.22249,
-    "longitude": -92.00818
   },
   {
     "address": "W SIMCOE ST & MADISON ST",
