@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18444,
     "longitude": -92.07499
-  },
-  {
-    "address": "437 HEYMANN BL",
-    "city": "LAFAYETTE",
-    "time": "07/23/2020 - 10:20 AM",
-    "due_to": "Vehicle Fire",
-    "latitude": 30.20318,
-    "longitude": -92.01587
   }
 ]
