@@ -30,13 +30,5 @@
     "due_to": "Vehicle Fire",
     "latitude": 30.20318,
     "longitude": -92.01587
-  },
-  {
-    "address": "402 RAMPART ST",
-    "city": "CARENCRO",
-    "time": "07/23/2020 - 10:13 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.3119,
-    "longitude": -92.03806
   }
 ]
