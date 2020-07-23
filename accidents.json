@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "RENA DR & JOHNSTON DR",
+    "city": "LAFAYETTE",
+    "time": "07/22/2020 - 11:32 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19435,
+    "longitude": -92.05813
+  }
+]
