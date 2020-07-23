@@ -1,5 +1,13 @@
 [
   {
+    "address": "402 RAMPART ST",
+    "city": "CARENCRO",
+    "time": "07/23/2020 - 10:13 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.3119,
+    "longitude": -92.03806
+  },
+  {
     "address": "KALISTE SALOOM RD & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/23/2020 - 09:58 AM",
