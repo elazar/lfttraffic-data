@@ -1,5 +1,13 @@
 [
   {
+    "address": "121 S AUDUBON BL",
+    "city": "LAFAYETTE",
+    "time": "07/23/2020 - 10:20 AM",
+    "due_to": "Vehicle Fire",
+    "latitude": 30.20273,
+    "longitude": -92.01333
+  },
+  {
     "address": "HEYMANN BL & AUDUBON BL",
     "city": "LAFAYETTE",
     "time": "07/23/2020 - 10:19 AM",
