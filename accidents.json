@@ -1,5 +1,13 @@
 [
   {
+    "address": "5100 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "07/23/2020 - 10:58 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14527,
+    "longitude": -92.03182
+  },
+  {
     "address": "3222 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/23/2020 - 10:50 AM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Fire",
     "latitude": 30.20318,
     "longitude": -92.01587
-  },
-  {
-    "address": "105 ST LANDRY ST",
-    "city": "LAFAYETTE",
-    "time": "07/23/2020 - 10:14 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22009,
-    "longitude": -92.02377
   },
   {
     "address": "402 RAMPART ST",
