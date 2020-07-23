@@ -1,5 +1,13 @@
 [
   {
+    "address": "3951 N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "07/23/2020 - 11:49 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.3091215,
+    "longitude": -92.0495849
+  },
+  {
     "address": "SOUTHPARK RD & DERRICK RD",
     "city": "LAFAYETTE",
     "time": "07/23/2020 - 11:31 AM",
