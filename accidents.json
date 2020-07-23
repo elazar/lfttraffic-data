@@ -1,11 +1,11 @@
 [
   {
-    "address": "LEE AV & BRASHEAR ST",
+    "address": "1318 LEE AV",
     "city": "LAFAYETTE",
     "time": "07/22/2020 - 10:04 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.21753,
-    "longitude": -92.02153
+    "due_to": "Commercial Fire",
+    "latitude": 30.21797,
+    "longitude": -92.02133
   },
   {
     "address": "JOHNSTON ST & S COLLEGE RD",
