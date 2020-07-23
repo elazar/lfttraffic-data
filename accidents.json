@@ -1,5 +1,13 @@
 [
   {
+    "address": "1131 LEBESQUE RD",
+    "city": "LAFAYETTE",
+    "time": "07/23/2020 - 10:33 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2754,
+    "longitude": -92.08243
+  },
+  {
     "address": "5720 CAMERON ST",
     "city": "SCOTT",
     "time": "07/23/2020 - 10:24 AM",
