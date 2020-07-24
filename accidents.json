@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & RENAUD DR",
+    "city": "LAFAYETTE",
+    "time": "07/24/2020 - 1:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25425,
+    "longitude": -92.03783
+  },
+  {
     "address": "TOBY MOUTON RD & N A ST",
     "city": "DUSON",
     "time": "07/24/2020 - 1:10 PM",
@@ -46,14 +54,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20323,
     "longitude": -92.05097
-  },
-  {
-    "address": "4401 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "07/24/2020 - 12:09 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15979,
-    "longitude": -92.04845
   },
   {
     "address": "MARTIN LUTHER KING JR DR & N ST ANTOINE ST",
