@@ -1,5 +1,21 @@
 [
   {
+    "address": "400 HOMEWOOD DR",
+    "city": "LAFAYETTE",
+    "time": "07/24/2020 - 11:59 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1212505,
+    "longitude": -92.0744864
+  },
+  {
+    "address": "MARTIN LUTHER KING JR DR & N ST ANTOINE ST",
+    "city": "LAFAYETTE",
+    "time": "07/24/2020 - 11:59 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.24967,
+    "longitude": -92.02554
+  },
+  {
     "address": "NE EVANGELINE TW & E WILLOW ST",
     "city": "LAFAYETTE",
     "time": "07/24/2020 - 11:58 AM",
