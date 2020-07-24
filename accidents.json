@@ -1,5 +1,13 @@
 [
   {
+    "address": "ROPER DR & REKHA DR",
+    "city": "SCOTT",
+    "time": "07/23/2020 - 9:40 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26421,
+    "longitude": -92.06303
+  },
+  {
     "address": "W CONGRESS ST & NORRIS RD",
     "city": "LAFAYETTE",
     "time": "07/23/2020 - 7:22 PM",
