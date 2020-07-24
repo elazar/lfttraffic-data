@@ -1,5 +1,13 @@
 [
   {
+    "address": "LOUISIANA AV & S STERLING ST",
+    "city": "LAFAYETTE",
+    "time": "07/23/2020 - 10:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2269,
+    "longitude": -92.00658
+  },
+  {
     "address": "W CONGRESS ST & NORRIS RD",
     "city": "LAFAYETTE",
     "time": "07/23/2020 - 7:22 PM",
