@@ -1,5 +1,21 @@
 [
   {
+    "address": "NE EVANGELINE TW & E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "07/24/2020 - 12:37 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23103,
+    "longitude": -92.01313
+  },
+  {
+    "address": "126 LEXINGTON DR",
+    "city": "DUSON",
+    "time": "07/24/2020 - 12:37 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25184,
+    "longitude": -92.19508
+  },
+  {
     "address": "100 MADELINE AV",
     "city": "LAFAYETTE",
     "time": "07/24/2020 - 12:27 PM",
@@ -14,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20323,
     "longitude": -92.05097
-  },
-  {
-    "address": "2800 NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "07/24/2020 - 12:16 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.27537,
-    "longitude": -92.01772
   },
   {
     "address": "SW EVANGELINE TW & SEVENTH ST",
