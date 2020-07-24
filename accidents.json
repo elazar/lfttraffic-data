@@ -1,11 +1,11 @@
 [
   {
-    "address": "JOHNSTON ST & AQUEDUCT DR",
+    "address": "COULEE SHORE DR & S COLLEGE RD",
     "city": "LAFAYETTE",
-    "time": "07/24/2020 - 6:33 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.14621,
-    "longitude": -92.09738
+    "time": "07/24/2020 - 6:37 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.20097,
+    "longitude": -92.02921
   },
   {
     "address": "JOHNSTON ST & LEBLANC RD",
@@ -70,13 +70,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.14156,
     "longitude": -92.03255
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & BONIN RD",
-    "city": "YOUNGSVILLE",
-    "time": "07/24/2020 - 4:53 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.13528,
-    "longitude": -92.00763
   }
 ]
