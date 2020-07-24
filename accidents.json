@@ -1,5 +1,13 @@
 [
   {
+    "address": "6874 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/24/2020 - 6:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14668,
+    "longitude": -92.09778
+  },
+  {
     "address": "1001 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/24/2020 - 5:58 PM",
