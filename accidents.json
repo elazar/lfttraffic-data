@@ -1,5 +1,13 @@
 [
   {
+    "address": "3600 NW EVANGELINE TW",
+    "city": "CARENCRO",
+    "time": "07/24/2020 - 11:27 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.3107549,
+    "longitude": -92.0307663
+  },
+  {
     "address": "W UNIVERSITY AV & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "07/24/2020 - 11:17 AM",
@@ -30,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15556,
     "longitude": -91.9831
-  },
-  {
-    "address": "4300 NW EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "07/24/2020 - 10:39 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.3360129,
-    "longitude": -92.0392365
   }
 ]
