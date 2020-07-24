@@ -1,5 +1,13 @@
 [
   {
+    "address": "4600 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "07/24/2020 - 10:32 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1465067,
+    "longitude": -91.9473074
+  },
+  {
     "address": "1901 ERASTE LANDRY RD",
     "city": "LAFAYETTE",
     "time": "07/24/2020 - 10:12 AM",
