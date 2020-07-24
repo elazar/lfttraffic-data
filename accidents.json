@@ -8,12 +8,12 @@
     "longitude": -92.04949
   },
   {
-    "address": "1400 LA NEUVILLE RD",
+    "address": "1600 LA NEUVILLE RD",
     "city": "LAFAYETTE",
     "time": "07/24/2020 - 6:46 PM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.1433749,
-    "longitude": -92.0192888
+    "latitude": 30.14049,
+    "longitude": -92.02514
   },
   {
     "address": "FOREMAN DR & W CONGRESS ST",
@@ -30,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22405,
     "longitude": -92.05469
-  },
-  {
-    "address": "COULEE SHORE DR & S COLLEGE RD",
-    "city": "LAFAYETTE",
-    "time": "07/24/2020 - 6:37 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.20097,
-    "longitude": -92.02921
   },
   {
     "address": "NW EVANGELINE TW & W WILLOW ST",
