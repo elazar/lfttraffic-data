@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 MADELINE AV",
+    "city": "LAFAYETTE",
+    "time": "07/24/2020 - 12:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2380839,
+    "longitude": -92.0203504
+  },
+  {
     "address": "3300 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/24/2020 - 12:23 PM",
