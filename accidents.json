@@ -1,3 +1,10 @@
 [
-  null
+  {
+    "address": "W CONGRESS ST & NORRIS RD",
+    "city": "LAFAYETTE",
+    "time": "07/23/2020 - 7:22 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.19562,
+    "longitude": -92.13349
+  }
 ]
