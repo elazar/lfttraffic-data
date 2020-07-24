@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "07/24/2020 - 1:02 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.2029035,
+    "longitude": -92.0331783
+  },
+  {
     "address": "US 90 EAST HW & N MORGAN AV",
     "city": "BROUSSARD",
     "time": "07/24/2020 - 12:46 PM",
