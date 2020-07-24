@@ -8,27 +8,11 @@
     "longitude": -92.06883
   },
   {
-    "address": "900 ST LANDRY ST",
-    "city": "LAFAYETTE",
-    "time": "07/24/2020 - 10:06 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.214664,
-    "longitude": -92.02967
-  },
-  {
     "address": "CAMERON ST & GALBERT ST",
     "city": "SCOTT",
     "time": "07/24/2020 - 09:49 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.23367,
     "longitude": -92.1002
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "07/24/2020 - 09:35 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.17808,
-    "longitude": -92.07452
   }
 ]
