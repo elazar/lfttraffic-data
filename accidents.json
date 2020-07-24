@@ -1,5 +1,21 @@
 [
   {
+    "address": "LA NEUVILLE RD & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "07/24/2020 - 6:46 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.14065,
+    "longitude": -92.02448
+  },
+  {
+    "address": "1400 LA NEUVILLE RD",
+    "city": "LAFAYETTE",
+    "time": "07/24/2020 - 6:46 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.1433749,
+    "longitude": -92.0192888
+  },
+  {
     "address": "FOREMAN DR & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "07/24/2020 - 6:45 PM",
@@ -54,14 +70,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23683,
     "longitude": -92.01315
-  },
-  {
-    "address": "601 E PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "07/24/2020 - 5:46 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.21846,
-    "longitude": -92.00391
   },
   {
     "address": "VEROT SCHOOL RD & BRIARMEADOW DR",
