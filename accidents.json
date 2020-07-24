@@ -1,5 +1,13 @@
 [
   {
+    "address": "2209 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "07/24/2020 - 1:47 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24221,
+    "longitude": -92.06743
+  },
+  {
     "address": "E PINHOOK RD & SW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/24/2020 - 1:45 PM",
