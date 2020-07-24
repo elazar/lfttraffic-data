@@ -1,5 +1,13 @@
 [
   {
+    "address": "KALISTE SALOOM RD & S MEYERS DR",
+    "city": "LAFAYETTE",
+    "time": "07/24/2020 - 3:59 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15061,
+    "longitude": -92.05423
+  },
+  {
     "address": "105 I10 EASTBOUND MM105 HW",
     "city": "LAFAYETTE",
     "time": "07/24/2020 - 3:10 PM",
@@ -22,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2470753,
     "longitude": -91.9884078
-  },
-  {
-    "address": "1925 DULLES DR",
-    "city": "LAFAYETTE",
-    "time": "07/24/2020 - 2:37 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21029,
-    "longitude": -92.09004
   }
 ]
