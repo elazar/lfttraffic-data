@@ -1,5 +1,21 @@
 [
   {
+    "address": "3529 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "07/24/2020 - 10:39 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.1773,
+    "longitude": -92.07333
+  },
+  {
+    "address": "4300 NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "07/24/2020 - 10:39 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.3360129,
+    "longitude": -92.0392365
+  },
+  {
     "address": "4400 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "07/24/2020 - 10:32 AM",
