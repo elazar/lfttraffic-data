@@ -1,5 +1,13 @@
 [
   {
+    "address": "FOREMAN DR & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "07/24/2020 - 6:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20729,
+    "longitude": -92.05656
+  },
+  {
     "address": "ERASTE LANDRY RD & BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "07/24/2020 - 6:41 PM",
@@ -14,14 +22,6 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.20097,
     "longitude": -92.02921
-  },
-  {
-    "address": "JOHNSTON ST & LEBLANC RD",
-    "city": "LAFAYETTE",
-    "time": "07/24/2020 - 6:29 PM",
-    "due_to": "Vehicle Fire",
-    "latitude": 30.12611,
-    "longitude": -92.115
   },
   {
     "address": "NW EVANGELINE TW & W WILLOW ST",
