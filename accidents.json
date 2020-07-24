@@ -1,5 +1,21 @@
 [
   {
+    "address": "DETENTE RD & CHEMIN METAIRIE PW",
+    "city": "YOUNGSVILLE",
+    "time": "07/24/2020 - 6:52 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.09053,
+    "longitude": -92.00515
+  },
+  {
+    "address": "ST JULIEN AV & ST LANDRY ST",
+    "city": "LAFAYETTE",
+    "time": "07/24/2020 - 6:52 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.21468,
+    "longitude": -92.02946
+  },
+  {
     "address": "W PONT DES MOUTON RD & I49 SB ENT RAMP",
     "city": "LAFAYETTE",
     "time": "07/24/2020 - 6:51 PM",
