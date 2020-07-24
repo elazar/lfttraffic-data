@@ -1,5 +1,13 @@
 [
   {
+    "address": "ERASTE LANDRY RD & BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "07/24/2020 - 6:41 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22405,
+    "longitude": -92.05469
+  },
+  {
     "address": "COULEE SHORE DR & S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "07/24/2020 - 6:37 PM",
@@ -30,14 +38,6 @@
     "due_to": "Fire Investigation",
     "latitude": 30.25114,
     "longitude": -92.01121
-  },
-  {
-    "address": "N UNIVERSITY AV & W PONT DES MOUTON RD",
-    "city": "LAFAYETTE",
-    "time": "07/24/2020 - 6:10 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.27587,
-    "longitude": -92.04949
   },
   {
     "address": "6874 JOHNSTON ST",
