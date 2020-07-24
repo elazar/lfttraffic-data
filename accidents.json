@@ -1,5 +1,13 @@
 [
   {
+    "address": "KALISTE SALOOM RD & MEADOW FARM RD",
+    "city": "LAFAYETTE",
+    "time": "07/24/2020 - 11:30 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15813,
+    "longitude": -92.04675
+  },
+  {
     "address": "3600 NW EVANGELINE TW",
     "city": "CARENCRO",
     "time": "07/24/2020 - 11:27 AM",
