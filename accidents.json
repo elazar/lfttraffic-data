@@ -1,13 +1,5 @@
 [
   {
-    "address": "105 I10 WB ENTRANCE RAMP HW",
-    "city": "LAFAYETTE",
-    "time": "07/24/2020 - 12:00 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.26255,
-    "longitude": -92.00867
-  },
-  {
     "address": "400 HOMEWOOD DR",
     "city": "LAFAYETTE",
     "time": "07/24/2020 - 11:59 AM",
@@ -40,7 +32,7 @@
     "longitude": -92.00723
   },
   {
-    "address": "105 I10 EB ENTRANCE RAMP HW",
+    "address": "105 I10 WESTBOUND MM105 HW",
     "city": "LAFAYETTE",
     "time": "07/24/2020 - 11:37 AM",
     "due_to": "Vehicle Accident",
