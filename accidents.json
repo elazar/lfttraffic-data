@@ -1,11 +1,11 @@
 [
   {
-    "address": "E PONT DES MOUTON RD & LAJAUNIE RD",
+    "address": "1000 W PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "07/24/2020 - 5:47 PM",
     "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.27198,
-    "longitude": -91.98363
+    "latitude": 30.275643,
+    "longitude": -92.0451643
   },
   {
     "address": "601 E PINHOOK RD",
