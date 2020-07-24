@@ -48,20 +48,12 @@
     "longitude": -92.0112
   },
   {
-    "address": "4600 AMBASSADOR CAFFERY PW",
+    "address": "4401 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/24/2020 - 12:09 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.15321,
-    "longitude": -92.04515
-  },
-  {
-    "address": "400 RUE FOSSE",
-    "city": "LAFAYETTE",
-    "time": "07/24/2020 - 11:59 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.120312,
-    "longitude": -92.0718665
+    "latitude": 30.15979,
+    "longitude": -92.04845
   },
   {
     "address": "MARTIN LUTHER KING JR DR & N ST ANTOINE ST",
