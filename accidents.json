@@ -1,13 +1,5 @@
 [
   {
-    "address": "N UNIVERSITY AV & RENAUD DR",
-    "city": "LAFAYETTE",
-    "time": "07/24/2020 - 1:22 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.25425,
-    "longitude": -92.03783
-  },
-  {
     "address": "TOBY MOUTON RD & N A ST",
     "city": "DUSON",
     "time": "07/24/2020 - 1:10 PM",
@@ -24,12 +16,12 @@
     "longitude": -92.0331783
   },
   {
-    "address": "E UNIVERSITY AV & JOHNSTON ST",
+    "address": "100 W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "07/24/2020 - 12:41 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.21729,
-    "longitude": -92.01902
+    "latitude": 30.2174998,
+    "longitude": -92.0190582
   },
   {
     "address": "NE EVANGELINE TW & E SIMCOE ST",
