@@ -1,5 +1,13 @@
 [
   {
+    "address": "W UNIVERSITY AV & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "07/24/2020 - 11:17 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2261,
+    "longitude": -92.02828
+  },
+  {
     "address": "1801 CHEMIN METAIRIE PW",
     "city": "YOUNGSVILLE",
     "time": "07/24/2020 - 11:15 AM",
