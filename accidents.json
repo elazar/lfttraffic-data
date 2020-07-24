@@ -1,5 +1,13 @@
 [
   {
+    "address": "105 I10 WB ENTRANCE RAMP HW",
+    "city": "LAFAYETTE",
+    "time": "07/24/2020 - 12:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "400 HOMEWOOD DR",
     "city": "LAFAYETTE",
     "time": "07/24/2020 - 11:59 AM",
@@ -38,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.26255,
     "longitude": -92.00867
-  },
-  {
-    "address": "KALISTE SALOOM RD & MEADOW FARM RD",
-    "city": "LAFAYETTE",
-    "time": "07/24/2020 - 11:30 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15813,
-    "longitude": -92.04675
   },
   {
     "address": "4 I49 SOUTHBOUND MM4 HW",
