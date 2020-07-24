@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PONT DES MOUTON RD & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "07/24/2020 - 5:56 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.27587,
+    "longitude": -92.04949
+  },
+  {
     "address": "3900 NE EVANGELINE TW",
     "city": "CARENCRO",
     "time": "07/24/2020 - 5:52 PM",
