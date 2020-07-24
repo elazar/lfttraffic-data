@@ -54,13 +54,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1780028,
     "longitude": -92.0460148
-  },
-  {
-    "address": "101 JEFFERSON ST",
-    "city": "LAFAYETTE",
-    "time": "07/24/2020 - 2:00 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22672,
-    "longitude": -92.01491
   }
 ]
