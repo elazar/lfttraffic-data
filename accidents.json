@@ -1,5 +1,13 @@
 [
   {
+    "address": "1925 DULLES DR",
+    "city": "LAFAYETTE",
+    "time": "07/24/2020 - 2:37 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21029,
+    "longitude": -92.09004
+  },
+  {
     "address": "CAMBRIDGE DR & CAMELLIA BL",
     "city": "LAFAYETTE",
     "time": "07/24/2020 - 2:22 PM",
