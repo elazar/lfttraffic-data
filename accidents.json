@@ -1,18 +1,10 @@
 [
   {
-    "address": "351 SW EVANGELINE TW",
+    "address": "W CONGRESS ST & NORRIS RD",
     "city": "LAFAYETTE",
-    "time": "07/23/2020 - 2:00 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2266386,
-    "longitude": -92.0112771
-  },
-  {
-    "address": "COULEE SHORE DR & S COLLEGE RD",
-    "city": "LAFAYETTE",
-    "time": "07/23/2020 - 12:48 PM",
+    "time": "07/23/2020 - 7:22 PM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.20097,
-    "longitude": -92.02921
+    "latitude": 30.19562,
+    "longitude": -92.13349
   }
 ]
