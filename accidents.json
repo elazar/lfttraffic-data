@@ -1,19 +1,19 @@
 [
   {
+    "address": "VEROT SCHOOL RD & BRIARMEADOW DR",
+    "city": "LAFAYETTE",
+    "time": "07/24/2020 - 5:36 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14156,
+    "longitude": -92.03255
+  },
+  {
     "address": "W WILLOW ST & NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/24/2020 - 5:33 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.24481,
     "longitude": -92.01456
-  },
-  {
-    "address": "5725 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "07/24/2020 - 5:04 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17353,
-    "longitude": -92.07732
   },
   {
     "address": "AMBASSADOR CAFFERY PW & BONIN RD",
