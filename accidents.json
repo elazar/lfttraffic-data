@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "311 BRADFORD DR",
+    "city": "LAFAYETTE",
+    "time": "07/24/2020 - 07:34 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.31787,
+    "longitude": -92.06247
+  }
+]
