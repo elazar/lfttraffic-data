@@ -1,5 +1,13 @@
 [
   {
+    "address": "1801 CHEMIN METAIRIE PW",
+    "city": "YOUNGSVILLE",
+    "time": "07/24/2020 - 11:15 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.10457,
+    "longitude": -92.0155
+  },
+  {
     "address": "118 HOLLY ST",
     "city": "LAFAYETTE",
     "time": "07/24/2020 - 11:10 AM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15556,
     "longitude": -91.9831
-  },
-  {
-    "address": "6 I49 SOUTHBOUND MM6 HW",
-    "city": "LAFAYETTE",
-    "time": "07/24/2020 - 11:08 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.28006,
-    "longitude": -92.02024
   },
   {
     "address": "3529 AMBASSADOR CAFFERY PW",
