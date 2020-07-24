@@ -1,5 +1,13 @@
 [
   {
+    "address": "TOBY MOUTON RD & N A ST",
+    "city": "DUSON",
+    "time": "07/24/2020 - 1:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24125,
+    "longitude": -92.18466
+  },
+  {
     "address": "600 S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "07/24/2020 - 1:02 PM",
