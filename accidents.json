@@ -1,5 +1,13 @@
 [
   {
+    "address": "118 HOLLY ST",
+    "city": "LAFAYETTE",
+    "time": "07/24/2020 - 11:10 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.23286,
+    "longitude": -91.99398
+  },
+  {
     "address": "W PINHOOK RD & MAJESTIC BL",
     "city": "LAFAYETTE",
     "time": "07/24/2020 - 11:09 AM",
