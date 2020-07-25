@@ -1,5 +1,13 @@
 [
   {
+    "address": "E UNIVERSITY AV & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/25/2020 - 3:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21729,
+    "longitude": -92.01902
+  },
+  {
     "address": "1111 ROPER DR",
     "city": "LAFAYETTE",
     "time": "07/25/2020 - 3:12 PM",
