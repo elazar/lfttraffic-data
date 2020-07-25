@@ -1,5 +1,13 @@
 [
   {
+    "address": "450 E FARREL RD",
+    "city": "LAFAYETTE",
+    "time": "07/25/2020 - 3:53 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14575,
+    "longitude": -92.04088
+  },
+  {
     "address": "108 RAVEN CLIFF LN",
     "city": "BROUSSARD",
     "time": "07/25/2020 - 3:50 PM",
