@@ -1,5 +1,13 @@
 [
   {
+    "address": "111 MCARTHUR CT",
+    "city": "BROUSSARD",
+    "time": "07/25/2020 - 2:28 PM",
+    "due_to": "Fire Investigation",
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "address": "W ST MARY BL & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/25/2020 - 2:27 PM",
