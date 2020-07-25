@@ -1,5 +1,13 @@
 [
   {
+    "address": "314 ANDOVER RD",
+    "city": "LAFAYETTE",
+    "time": "07/25/2020 - 4:48 PM",
+    "due_to": "Explosion",
+    "latitude": 30.16546,
+    "longitude": -92.1645
+  },
+  {
     "address": "5800 CAMERON ST",
     "city": "SCOTT",
     "time": "07/25/2020 - 4:45 PM",
