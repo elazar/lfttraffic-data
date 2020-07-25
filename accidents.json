@@ -1,5 +1,13 @@
 [
   {
+    "address": "1912 CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "07/25/2020 - 01:48 AM",
+    "due_to": "Hazardous Situation",
+    "latitude": 30.23664,
+    "longitude": -91.9725
+  },
+  {
     "address": "329 LEBESQUE RD",
     "city": "LAFAYETTE",
     "time": "07/25/2020 - 12:59 AM",
