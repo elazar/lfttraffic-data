@@ -1,5 +1,13 @@
 [
   {
+    "address": "W ST MARY BL & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/25/2020 - 2:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21449,
+    "longitude": -92.02175
+  },
+  {
     "address": "101 I10 WESTBOUND MM101 HW",
     "city": "LAFAYETTE",
     "time": "07/25/2020 - 1:33 PM",
