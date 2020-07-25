@@ -1,5 +1,13 @@
 [
   {
+    "address": "108 RAVEN CLIFF LN",
+    "city": "BROUSSARD",
+    "time": "07/25/2020 - 3:50 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.12151,
+    "longitude": -91.96374
+  },
+  {
     "address": "NW EVANGELINE TW & VETERANS DR",
     "city": "CARENCRO",
     "time": "07/25/2020 - 3:46 PM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21729,
     "longitude": -92.01902
-  },
-  {
-    "address": "3222 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "07/25/2020 - 3:03 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18327,
-    "longitude": -92.07545
   },
   {
     "address": "ERASTE LANDRY RD & AMBASSADOR CAFFERY PW",
