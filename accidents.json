@@ -1,5 +1,13 @@
 [
   {
+    "address": "NW EVANGELINE TW & VETERANS DR",
+    "city": "CARENCRO",
+    "time": "07/25/2020 - 3:46 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.32204,
+    "longitude": -92.03574
+  },
+  {
     "address": "218 ST NAZAIRE RD",
     "city": "BROUSSARD",
     "time": "07/25/2020 - 3:29 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21729,
     "longitude": -92.01902
-  },
-  {
-    "address": "1111 ROPER DR",
-    "city": "LAFAYETTE",
-    "time": "07/25/2020 - 3:12 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.26346,
-    "longitude": -92.06283
   },
   {
     "address": "3222 AMBASSADOR CAFFERY PW",
