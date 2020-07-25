@@ -3,7 +3,7 @@
     "address": "218 ST NAZAIRE RD",
     "city": "BROUSSARD",
     "time": "07/25/2020 - 3:29 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.14066,
     "longitude": -91.94055
   },
@@ -38,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18327,
     "longitude": -92.07545
-  },
-  {
-    "address": "E PINHOOK RD & SURREY ST",
-    "city": "LAFAYETTE",
-    "time": "07/25/2020 - 2:50 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2236,
-    "longitude": -91.99821
   },
   {
     "address": "ERASTE LANDRY RD & AMBASSADOR CAFFERY PW",
