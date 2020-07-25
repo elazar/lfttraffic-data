@@ -1,5 +1,13 @@
 [
   {
+    "address": "ST LANDRY ST & W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "07/24/2020 - 8:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22067,
+    "longitude": -92.02351
+  },
+  {
     "address": "800 CAMELLIA BL",
     "city": "LAFAYETTE",
     "time": "07/24/2020 - 7:59 PM",
