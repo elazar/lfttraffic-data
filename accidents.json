@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "100 SHERWOOD DR",
+    "city": "LAFAYETTE",
+    "time": "07/25/2020 - 11:42 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2425789,
+    "longitude": -92.0064103
+  }
+]
