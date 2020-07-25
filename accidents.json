@@ -1,5 +1,13 @@
 [
   {
+    "address": "110 VIEUX ORLEANS CL",
+    "city": "LAFAYETTE",
+    "time": "07/25/2020 - 6:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16803,
+    "longitude": -92.00817
+  },
+  {
     "address": "4100 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/25/2020 - 4:05 PM",
