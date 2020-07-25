@@ -1,5 +1,13 @@
 [
   {
+    "address": "E PINHOOK RD & SURREY ST",
+    "city": "LAFAYETTE",
+    "time": "07/25/2020 - 2:50 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2236,
+    "longitude": -91.99821
+  },
+  {
     "address": "ERASTE LANDRY RD & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/25/2020 - 2:44 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21449,
     "longitude": -92.02175
-  },
-  {
-    "address": "111 MCARTHUR CT",
-    "city": "BROUSSARD",
-    "time": "07/25/2020 - 2:28 PM",
-    "due_to": "Fire Investigation",
-    "latitude": null,
-    "longitude": null
   },
   {
     "address": "W ST MARY BL & JOHNSTON ST",
