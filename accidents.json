@@ -1,5 +1,13 @@
 [
   {
+    "address": "105 EDWIS ST",
+    "city": "LAFAYETTE",
+    "time": "07/25/2020 - 02:35 AM",
+    "due_to": "Vehicle Fire",
+    "latitude": 30.22722,
+    "longitude": -92.05086
+  },
+  {
     "address": "JOHNSTON ST & WESTMARK BL",
     "city": "LAFAYETTE",
     "time": "07/25/2020 - 02:24 AM",
