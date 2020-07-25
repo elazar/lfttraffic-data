@@ -1,5 +1,13 @@
 [
   {
+    "address": "315 MARTIN OAKS DR",
+    "city": "LAFAYETTE",
+    "time": "07/25/2020 - 4:55 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.25206,
+    "longitude": -91.99699
+  },
+  {
     "address": "314 ANDOVER RD",
     "city": "LAFAYETTE",
     "time": "07/25/2020 - 4:48 PM",
