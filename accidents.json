@@ -1,5 +1,13 @@
 [
   {
+    "address": "900 GENDARME RD",
+    "city": "LAFAYETTE",
+    "time": "07/24/2020 - 8:59 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.3588157,
+    "longitude": -92.0761804
+  },
+  {
     "address": "3601 MOSS ST",
     "city": "LAFAYETTE",
     "time": "07/24/2020 - 8:48 PM",
