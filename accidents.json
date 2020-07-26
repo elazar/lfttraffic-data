@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "VEROT SCHOOL RD & TWIN LAKES DR",
+    "city": "LAFAYETTE",
+    "time": "07/26/2020 - 05:27 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.10314,
+    "longitude": -92.03245
+  }
+]
