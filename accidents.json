@@ -2,6 +2,14 @@
   {
     "address": "AMBASSADOR CAFFERY PW & ROBLEY DR",
     "city": "LAFAYETTE",
+    "time": "07/26/2020 - 6:05 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17117,
+    "longitude": -92.06617
+  },
+  {
+    "address": "AMBASSADOR CAFFERY PW & ROBLEY DR",
+    "city": "LAFAYETTE",
     "time": "07/26/2020 - 6:04 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.17117,
