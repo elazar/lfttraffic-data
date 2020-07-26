@@ -1,5 +1,13 @@
 [
   {
+    "address": "301 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "07/26/2020 - 12:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24142,
+    "longitude": -92.06551
+  },
+  {
     "address": "DULLES DR & RUE DU BELIER",
     "city": "SCOTT",
     "time": "07/26/2020 - 12:35 PM",
