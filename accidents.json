@@ -1,5 +1,13 @@
 [
   {
+    "address": "202 UPPERLINE AV",
+    "city": "LAFAYETTE",
+    "time": "07/26/2020 - 12:12 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.2456611,
+    "longitude": -91.9823367
+  },
+  {
     "address": "NE EVANGELINE TW & HOBSON ST",
     "city": "LAFAYETTE",
     "time": "07/26/2020 - 11:55 AM",
