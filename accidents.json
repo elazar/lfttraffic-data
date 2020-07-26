@@ -1,5 +1,21 @@
 [
   {
+    "address": "LANDRY RD & HENNING RD",
+    "city": "SCOTT",
+    "time": "07/26/2020 - 11:53 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21193,
+    "longitude": -92.10868
+  },
+  {
+    "address": "NW EVANGELINE TW & JEFFERSON BL",
+    "city": "LAFAYETTE",
+    "time": "07/26/2020 - 11:53 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22867,
+    "longitude": -92.01254
+  },
+  {
     "address": "2520 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "07/26/2020 - 11:43 AM",
