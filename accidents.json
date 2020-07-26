@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2173042,
     "longitude": -92.00536
-  },
-  {
-    "address": "104 SUGAR DR",
-    "city": "BROUSSARD",
-    "time": "07/25/2020 - 8:15 PM",
-    "due_to": "Vehicle Fire",
-    "latitude": 30.14588,
-    "longitude": -91.95728
   }
 ]
