@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 I10 WESTBOUND MM100 HW",
+    "city": "LAFAYETTE",
+    "time": "07/25/2020 - 7:34 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "CAMELLIA DR & MOUNT VERNON DR",
     "city": "LAFAYETTE",
     "time": "07/25/2020 - 7:00 PM",
