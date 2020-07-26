@@ -7,14 +7,7 @@
     "latitude": 30.15008,
     "longitude": -91.96331
   },
-  {
-    "address": "CARMEL DR & ST MARGARITE ST",
-    "city": "LAFAYETTE",
-    "time": "07/26/2020 - 6:16 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23267,
-    "longitude": -91.98671
-  },
+  null,
   {
     "address": "302 RUE LOUIS XIV",
     "city": "LAFAYETTE",
