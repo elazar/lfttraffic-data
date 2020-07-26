@@ -46,13 +46,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.27349,
     "longitude": -92.02058
-  },
-  {
-    "address": "130 PERCY RD",
-    "city": "SCOTT",
-    "time": "07/26/2020 - 5:47 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.19876,
-    "longitude": -92.09621
   }
 ]
