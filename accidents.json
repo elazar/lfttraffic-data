@@ -1,5 +1,13 @@
 [
   {
+    "address": "NE EVANGELINE TW & HOBSON ST",
+    "city": "LAFAYETTE",
+    "time": "07/26/2020 - 11:55 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23377,
+    "longitude": -92.01265
+  },
+  {
     "address": "LANDRY RD & HENNING RD",
     "city": "SCOTT",
     "time": "07/26/2020 - 11:53 AM",
