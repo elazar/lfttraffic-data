@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMELLIA DR & MOUNT VERNON DR",
+    "city": "LAFAYETTE",
+    "time": "07/25/2020 - 7:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18558,
+    "longitude": -92.05388
+  },
+  {
     "address": "110 VIEUX ORLEANS CL",
     "city": "LAFAYETTE",
     "time": "07/25/2020 - 6:27 PM",
