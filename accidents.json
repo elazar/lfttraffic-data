@@ -1,5 +1,13 @@
 [
   {
+    "address": "302 RUE LOUIS XIV",
+    "city": "LAFAYETTE",
+    "time": "07/26/2020 - 6:08 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.1683131,
+    "longitude": -92.0246251
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & ROBLEY DR",
     "city": "LAFAYETTE",
     "time": "07/26/2020 - 6:04 PM",
