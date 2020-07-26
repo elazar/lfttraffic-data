@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "S COLLEGE RD & BACQUE CRESCENT DR",
+    "city": "LAFAYETTE",
+    "time": "07/26/2020 - 03:47 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.20076,
+    "longitude": -92.02897
+  }
+]
