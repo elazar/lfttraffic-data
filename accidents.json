@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "W FAIRFIELD DR & WATERBERRY DR",
+    "city": "BROUSSARD",
+    "time": "07/25/2020 - 11:57 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.11653,
+    "longitude": -91.96885
+  }
+]
