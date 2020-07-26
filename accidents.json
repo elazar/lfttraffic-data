@@ -1,5 +1,13 @@
 [
   {
+    "address": "E PINHOOK RD & FRED ST",
+    "city": "LAFAYETTE",
+    "time": "07/25/2020 - 9:34 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.23257,
+    "longitude": -91.9931
+  },
+  {
     "address": "NW EVANGELINE TW & CHALMETTE DR",
     "city": "LAFAYETTE",
     "time": "07/25/2020 - 9:30 PM",
