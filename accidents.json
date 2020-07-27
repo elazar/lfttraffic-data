@@ -40,27 +40,11 @@
     "longitude": -92.00222
   },
   {
-    "address": "W WILLOW ST & N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "07/27/2020 - 12:11 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24448,
-    "longitude": -92.03275
-  },
-  {
     "address": "4500 MOSS ST",
     "city": "LAFAYETTE",
     "time": "07/27/2020 - 11:44 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.28957,
     "longitude": -92.00222
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & ROBLEY DR",
-    "city": "LAFAYETTE",
-    "time": "07/27/2020 - 11:36 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17117,
-    "longitude": -92.06617
   }
 ]
