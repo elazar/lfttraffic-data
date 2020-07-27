@@ -1,5 +1,13 @@
 [
   {
+    "address": "4200 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "07/27/2020 - 11:44 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2829322,
+    "longitude": -92.0065671
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & ROBLEY DR",
     "city": "LAFAYETTE",
     "time": "07/27/2020 - 11:36 AM",
