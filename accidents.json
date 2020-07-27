@@ -1,5 +1,13 @@
 [
   {
+    "address": "W WILLOW ST & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "07/27/2020 - 12:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24448,
+    "longitude": -92.03275
+  },
+  {
     "address": "ST NICHOLAS DR & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "07/27/2020 - 12:01 PM",
