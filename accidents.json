@@ -1,4 +1,18 @@
 [
-  null,
-  null
+  {
+    "address": "140 NANOKE LN",
+    "city": "LAFAYETTE",
+    "time": "07/26/2020 - 8:56 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.33206,
+    "longitude": -92.06193
+  },
+  {
+    "address": "111 WESTGATE RD",
+    "city": "SCOTT",
+    "time": "07/26/2020 - 8:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23229,
+    "longitude": -92.08694
+  }
 ]
