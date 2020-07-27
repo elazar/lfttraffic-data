@@ -1,5 +1,13 @@
 [
   {
+    "address": "6001 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/27/2020 - 12:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16752,
+    "longitude": -92.08204
+  },
+  {
     "address": "1115 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/27/2020 - 12:34 PM",
