@@ -1,5 +1,13 @@
 [
   {
+    "address": "629 CAMELLIA DR",
+    "city": "LAFAYETTE",
+    "time": "07/27/2020 - 08:20 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17975,
+    "longitude": -92.05034
+  },
+  {
     "address": "N GIROUARD RD & BAYOU TORTUE RD",
     "city": "LAFAYETTE",
     "time": "07/27/2020 - 07:57 AM",
