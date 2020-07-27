@@ -1,5 +1,13 @@
 [
   {
+    "address": "MILLS ST & DUGAS RD",
+    "city": "LAFAYETTE",
+    "time": "07/27/2020 - 1:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.28326,
+    "longitude": -92.09135
+  },
+  {
     "address": "N UNIVERSITY AV & COURET DR",
     "city": "LAFAYETTE",
     "time": "07/27/2020 - 12:50 PM",
