@@ -1,3 +1,10 @@
 [
-  null
+  {
+    "address": "104 WINBOURNE AV",
+    "city": "SCOTT",
+    "time": "07/27/2020 - 12:00 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.2274,
+    "longitude": -92.0921
+  }
 ]
