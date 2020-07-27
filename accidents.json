@@ -1,5 +1,13 @@
 [
   {
+    "address": "LAMAR ST & GENERAL MOUTON AV",
+    "city": "LAFAYETTE",
+    "time": "07/27/2020 - 1:07 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21668,
+    "longitude": -92.0153
+  },
+  {
     "address": "MILLS ST & DUGAS RD",
     "city": "LAFAYETTE",
     "time": "07/27/2020 - 1:03 PM",
