@@ -1,5 +1,13 @@
 [
   {
+    "address": "5743 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "07/27/2020 - 2:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17281,
+    "longitude": -92.07852
+  },
+  {
     "address": "US 90 EAST HW & YOUNG ST",
     "city": "BROUSSARD",
     "time": "07/27/2020 - 2:05 PM",
