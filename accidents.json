@@ -1,5 +1,13 @@
 [
   {
+    "address": "BERTRAND DR & BANKS AV",
+    "city": "LAFAYETTE",
+    "time": "07/27/2020 - 2:30 PM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.2271,
+    "longitude": -92.06076
+  },
+  {
     "address": "5743 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/27/2020 - 2:26 PM",
