@@ -1,5 +1,13 @@
 [
   {
+    "address": "LA 1252 HW & NE FRONTAGE RD",
+    "city": "LAFAYETTE",
+    "time": "07/27/2020 - 10:47 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.33647,
+    "longitude": -92.03849
+  },
+  {
     "address": "202 ACORN DR",
     "city": "LAFAYETTE",
     "time": "07/27/2020 - 10:45 AM",
