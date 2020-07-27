@@ -1,5 +1,13 @@
 [
   {
+    "address": "S MORGAN AV & E MADISON ST",
+    "city": "BROUSSARD",
+    "time": "07/27/2020 - 11:14 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14706,
+    "longitude": -91.96443
+  },
+  {
     "address": "BERTRAND DR & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/27/2020 - 10:40 AM",
