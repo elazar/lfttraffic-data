@@ -1,5 +1,12 @@
 [
-  null,
+  {
+    "address": "PLUM ST & ELEVENTH ST",
+    "city": "LAFAYETTE",
+    "time": "07/27/2020 - 03:26 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.22365,
+    "longitude": -92.00775
+  },
   {
     "address": "104 I10 EASTBOUND MM104 HW",
     "city": "LAFAYETTE",
