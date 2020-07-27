@@ -1,5 +1,13 @@
 [
   {
+    "address": "MUDD AV & EIGHTH ST",
+    "city": "LAFAYETTE",
+    "time": "07/27/2020 - 3:40 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23194,
+    "longitude": -92.0044
+  },
+  {
     "address": "N UNIVERSITY AV & W GLORIA SWITCH RD",
     "city": "CARENCRO",
     "time": "07/27/2020 - 3:18 PM",
