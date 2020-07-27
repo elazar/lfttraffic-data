@@ -7,5 +7,12 @@
     "latitude": 30.17808,
     "longitude": -92.07452
   },
-  null
+  {
+    "address": "CARMEL DR & ST MARGARITE ST",
+    "city": "LAFAYETTE",
+    "time": "07/26/2020 - 6:16 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23267,
+    "longitude": -91.98671
+  }
 ]
