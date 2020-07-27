@@ -1,5 +1,13 @@
 [
   {
+    "address": "2317 N UNIVERSITY AV",
+    "city": "SCOTT",
+    "time": "07/27/2020 - 4:04 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26512,
+    "longitude": -92.04661
+  },
+  {
     "address": "3000 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "07/27/2020 - 4:02 PM",
