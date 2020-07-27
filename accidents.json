@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & ROBLEY DR",
+    "city": "LAFAYETTE",
+    "time": "07/27/2020 - 11:36 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17117,
+    "longitude": -92.06617
+  },
+  {
     "address": "3806 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/27/2020 - 11:32 AM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2093,
     "longitude": -92.01087
-  },
-  {
-    "address": "S MORGAN AV & E MADISON ST",
-    "city": "BROUSSARD",
-    "time": "07/27/2020 - 11:14 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.14706,
-    "longitude": -91.96443
   },
   {
     "address": "BERTRAND DR & AMBASSADOR CAFFERY PW",
