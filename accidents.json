@@ -1,3 +1,10 @@
 [
-  null
+  {
+    "address": "316 W MAIN ST",
+    "city": "LAFAYETTE",
+    "time": "07/27/2020 - 05:42 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.22344,
+    "longitude": -92.02135
+  }
 ]
