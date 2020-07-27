@@ -38,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15585,
     "longitude": -92.08888
-  },
-  {
-    "address": "110 E MARTIAL AV",
-    "city": "LAFAYETTE",
-    "time": "07/27/2020 - 09:08 AM",
-    "due_to": "Commercial Fire",
-    "latitude": 30.1623,
-    "longitude": -92.03853
   }
 ]
