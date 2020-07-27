@@ -1,5 +1,13 @@
 [
   {
+    "address": "120 CURRAN LN",
+    "city": "LAFAYETTE",
+    "time": "07/27/2020 - 3:46 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.18925,
+    "longitude": -92.07734
+  },
+  {
     "address": "MUDD AV & EIGHTH ST",
     "city": "LAFAYETTE",
     "time": "07/27/2020 - 3:40 PM",
