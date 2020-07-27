@@ -1,3 +1,10 @@
 [
-  null
+  {
+    "address": "2810 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "07/27/2020 - 12:50 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.27651,
+    "longitude": -92.01856
+  }
 ]
