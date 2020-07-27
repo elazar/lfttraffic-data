@@ -1,5 +1,21 @@
 [
   {
+    "address": "2500 SE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "07/27/2020 - 09:33 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.19114,
+    "longitude": -91.9916
+  },
+  {
+    "address": "N AMBASSADOR CAFFERY PW & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "07/27/2020 - 09:33 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.25163,
+    "longitude": -92.0663
+  },
+  {
     "address": "110 E MARTIAL AV",
     "city": "LAFAYETTE",
     "time": "07/27/2020 - 09:08 AM",
