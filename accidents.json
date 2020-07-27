@@ -8,14 +8,6 @@
     "longitude": -92.06617
   },
   {
-    "address": "3806 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "07/27/2020 - 11:32 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.17072,
-    "longitude": -92.06613
-  },
-  {
     "address": "KALISTE SALOOM RD & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/27/2020 - 11:32 AM",
@@ -24,12 +16,12 @@
     "longitude": -92.04838
   },
   {
-    "address": "500 W PINHOOK RD",
+    "address": "400 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "07/27/2020 - 11:25 AM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.2093,
-    "longitude": -92.01087
+    "latitude": 30.2099972,
+    "longitude": -92.0102456
   },
   {
     "address": "BERTRAND DR & AMBASSADOR CAFFERY PW",
