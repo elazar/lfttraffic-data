@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "609 BROADMOOR BL",
+    "city": "LAFAYETTE",
+    "time": "07/27/2020 - 07:17 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17256,
+    "longitude": -92.05858
+  }
+]
