@@ -1,5 +1,13 @@
 [
   {
+    "address": "4500 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "07/27/2020 - 12:25 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.28957,
+    "longitude": -92.00222
+  },
+  {
     "address": "W WILLOW ST & N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "07/27/2020 - 12:11 PM",
