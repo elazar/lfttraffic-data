@@ -1,5 +1,13 @@
 [
   {
+    "address": "500 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "07/27/2020 - 11:25 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2093,
+    "longitude": -92.01087
+  },
+  {
     "address": "S MORGAN AV & E MADISON ST",
     "city": "BROUSSARD",
     "time": "07/27/2020 - 11:14 AM",
