@@ -1,5 +1,13 @@
 [
   {
+    "address": "ST NICHOLAS DR & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "07/27/2020 - 12:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19594,
+    "longitude": -92.08004
+  },
+  {
     "address": "US 90 EAST HW & AMBASSADOR CAFFERY PW",
     "city": "BROUSSARD",
     "time": "07/27/2020 - 11:53 AM",
