@@ -1,5 +1,13 @@
 [
   {
+    "address": "1815 ST MARY ST",
+    "city": "SCOTT",
+    "time": "07/27/2020 - 1:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24424,
+    "longitude": -92.10709
+  },
+  {
     "address": "N UNIVERSITY AV & COURET DR",
     "city": "LAFAYETTE",
     "time": "07/27/2020 - 1:21 PM",
