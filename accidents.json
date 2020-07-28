@@ -1,5 +1,13 @@
 [
   {
+    "address": "VETERANS DR & NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "07/28/2020 - 4:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.32204,
+    "longitude": -92.03574
+  },
+  {
     "address": "S COLLEGE RD & W BAYOU PW",
     "city": "LAFAYETTE",
     "time": "07/28/2020 - 4:17 PM",
@@ -30,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23457,
     "longitude": -92.00231
-  },
-  {
-    "address": "4 I49 SOUTHBOUND MM4 HW",
-    "city": "LAFAYETTE",
-    "time": "07/28/2020 - 1:39 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.28006,
-    "longitude": -92.02024
   }
 ]
