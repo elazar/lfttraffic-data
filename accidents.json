@@ -1,5 +1,13 @@
 [
   {
+    "address": "ROBLEY DR & BROADMOOR BL",
+    "city": "LAFAYETTE",
+    "time": "07/28/2020 - 12:08 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17441,
+    "longitude": -92.06263
+  },
+  {
     "address": "GUILBEAU RD & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "07/28/2020 - 11:57 AM",
