@@ -1,5 +1,21 @@
 [
   {
+    "address": "2600 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "07/28/2020 - 5:40 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2720128,
+    "longitude": -92.0472285
+  },
+  {
+    "address": "JOHNSTON ST & E ST MARY BL",
+    "city": "LAFAYETTE",
+    "time": "07/28/2020 - 5:40 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21449,
+    "longitude": -92.02175
+  },
+  {
     "address": "103 I10 WESTBOUND MM103A HW",
     "city": "LAFAYETTE",
     "time": "07/28/2020 - 5:30 PM",
