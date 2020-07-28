@@ -1,5 +1,21 @@
 [
   {
+    "address": "KALISTE SALOOM RD & S MEYERS DR",
+    "city": "LAFAYETTE",
+    "time": "07/28/2020 - 4:51 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.15061,
+    "longitude": -92.05423
+  },
+  {
+    "address": "MARIE ANTOINETTE ST & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "07/28/2020 - 4:50 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20609,
+    "longitude": -92.05834
+  },
+  {
     "address": "201 JEFFREY DR",
     "city": "LAFAYETTE",
     "time": "07/28/2020 - 4:43 PM",
