@@ -1,5 +1,13 @@
 [
   {
+    "address": "3000 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "07/28/2020 - 5:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2612691,
+    "longitude": -91.9957801
+  },
+  {
     "address": "COOLIDGE ST & S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "07/28/2020 - 5:45 PM",
@@ -54,14 +62,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.16071,
     "longitude": -91.99107
-  },
-  {
-    "address": "3521 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "07/28/2020 - 5:04 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.16169,
-    "longitude": -91.99173
   },
   {
     "address": "AMBASSADOR CAFFERY PW & TUCKER DR",
