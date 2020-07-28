@@ -1,5 +1,13 @@
 [
   {
+    "address": "201 JEFFREY DR",
+    "city": "LAFAYETTE",
+    "time": "07/28/2020 - 4:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18714,
+    "longitude": -92.0599
+  },
+  {
     "address": "100 RACINE DR",
     "city": "LAFAYETTE",
     "time": "07/28/2020 - 4:39 PM",
