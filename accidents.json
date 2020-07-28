@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 RACINE DR",
+    "city": "LAFAYETTE",
+    "time": "07/28/2020 - 4:39 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2430809,
+    "longitude": -92.0004251
+  },
+  {
     "address": "VETERANS DR & NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/28/2020 - 4:27 PM",
