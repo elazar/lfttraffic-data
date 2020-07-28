@@ -1,5 +1,13 @@
 [
   {
+    "address": "I10 WESTBOUND MM106 HW & OLD WESTBOUND REST AREA",
+    "city": "LAFAYETTE",
+    "time": "07/28/2020 - 06:27 AM",
+    "due_to": "Hazardous Situation",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "OLD MAURICE RD & HARPER AV",
     "city": "LAFAYETTE",
     "time": "07/28/2020 - 06:10 AM",
