@@ -1,5 +1,13 @@
 [
   {
+    "address": "4 I49 SOUTHBOUND MM4 HW",
+    "city": "LAFAYETTE",
+    "time": "07/28/2020 - 1:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.28006,
+    "longitude": -92.02024
+  },
+  {
     "address": "603 N A ST",
     "city": "DUSON",
     "time": "07/28/2020 - 1:35 PM",
@@ -38,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.26255,
     "longitude": -92.00867
-  },
-  {
-    "address": "3142 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "07/28/2020 - 12:47 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1873,
-    "longitude": -92.07797
   },
   {
     "address": "105 I10 WESTBOUND MM105 HW",
