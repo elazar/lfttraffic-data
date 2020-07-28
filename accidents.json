@@ -1,5 +1,13 @@
 [
   {
+    "address": "BNSF RAILROAD CG & E TAFT ST",
+    "city": "LAFAYETTE",
+    "time": "07/28/2020 - 07:03 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21847,
+    "longitude": -92.01004
+  },
+  {
     "address": "9600 CAMERON ST",
     "city": "DUSON",
     "time": "07/28/2020 - 06:32 AM",
