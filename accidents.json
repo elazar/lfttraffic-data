@@ -1,5 +1,13 @@
 [
   {
+    "address": "GUILBEAU RD & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "07/28/2020 - 6:47 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.19826,
+    "longitude": -92.07007
+  },
+  {
     "address": "444 CAJUNDOME BL",
     "city": "LAFAYETTE",
     "time": "07/28/2020 - 6:39 PM",
