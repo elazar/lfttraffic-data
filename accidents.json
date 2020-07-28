@@ -1,11 +1,11 @@
 [
   {
-    "address": "VEROT SCHOOL RD & TOLSON RD",
+    "address": "1100 VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "07/28/2020 - 10:42 AM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.17099,
-    "longitude": -92.01877
+    "latitude": 30.1709231,
+    "longitude": -92.0189565
   },
   {
     "address": "103 I10 EASTBOUND MM103B HW",
@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2105771,
     "longitude": -92.011154
-  },
-  {
-    "address": "600 SW EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "07/28/2020 - 10:05 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22417,
-    "longitude": -92.01052
   }
 ]
