@@ -1,5 +1,13 @@
 [
   {
+    "address": "N ST ANTOINE ST & MARTIN LUTHER KING JR DR",
+    "city": "LAFAYETTE",
+    "time": "07/28/2020 - 6:08 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.24967,
+    "longitude": -92.02554
+  },
+  {
     "address": "1605 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "07/28/2020 - 6:05 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2612691,
     "longitude": -91.9957801
-  },
-  {
-    "address": "COOLIDGE ST & S COLLEGE RD",
-    "city": "LAFAYETTE",
-    "time": "07/28/2020 - 5:45 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20144,
-    "longitude": -92.01936
   },
   {
     "address": "JOHNSTON ST & E ST MARY BL",
