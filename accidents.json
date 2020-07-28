@@ -1,5 +1,13 @@
 [
   {
+    "address": "1605 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "07/28/2020 - 6:05 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24962,
+    "longitude": -92.03656
+  },
+  {
     "address": "3842 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "07/28/2020 - 5:59 PM",
@@ -48,35 +56,11 @@
     "longitude": -92.07019
   },
   {
-    "address": "W PINHOOK RD & YOUNGSVILLE HW",
-    "city": "LAFAYETTE",
-    "time": "07/28/2020 - 5:07 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.16071,
-    "longitude": -91.99107
-  },
-  {
     "address": "AMBASSADOR CAFFERY PW & TUCKER DR",
     "city": "LAFAYETTE",
     "time": "07/28/2020 - 4:54 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.17501,
     "longitude": -92.07082
-  },
-  {
-    "address": "E FAIRFIELD DR & S MORGAN AV",
-    "city": "BROUSSARD",
-    "time": "07/28/2020 - 4:52 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.11646,
-    "longitude": -91.95656
-  },
-  {
-    "address": "500 MARIE ANTOINETTE ST",
-    "city": "LAFAYETTE",
-    "time": "07/28/2020 - 4:50 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2078321,
-    "longitude": -92.060338
   }
 ]
