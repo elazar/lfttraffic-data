@@ -1,5 +1,29 @@
 [
   {
+    "address": "3842 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "07/28/2020 - 5:59 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.20075,
+    "longitude": -92.06753
+  },
+  {
+    "address": "3842 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "07/28/2020 - 5:59 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.20075,
+    "longitude": -92.06753
+  },
+  {
+    "address": "3842 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "07/28/2020 - 5:59 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.20075,
+    "longitude": -92.06753
+  },
+  {
     "address": "3000 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "07/28/2020 - 5:52 PM",
@@ -14,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20144,
     "longitude": -92.01936
-  },
-  {
-    "address": "2600 N UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "07/28/2020 - 5:40 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2720128,
-    "longitude": -92.0472285
   },
   {
     "address": "JOHNSTON ST & E ST MARY BL",
