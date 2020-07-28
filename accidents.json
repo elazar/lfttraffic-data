@@ -1,5 +1,13 @@
 [
   {
+    "address": "103 MOUNT HOPE AV",
+    "city": "LAFAYETTE",
+    "time": "07/28/2020 - 08:27 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.14326,
+    "longitude": -92.07242
+  },
+  {
     "address": "251 SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/28/2020 - 08:25 AM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22735,
     "longitude": -92.01079
-  },
-  {
-    "address": "ROBLEY DR & GUIDRY RD",
-    "city": "LAFAYETTE",
-    "time": "07/28/2020 - 08:13 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.16329,
-    "longitude": -92.07416
   },
   {
     "address": "701 ST NAZAIRE RD",
