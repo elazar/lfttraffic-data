@@ -1,5 +1,13 @@
 [
   {
+    "address": "3205 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "07/27/2020 - 10:07 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.26515,
+    "longitude": -91.99301
+  },
+  {
     "address": "CAMERON ST & S FIELDSPAN RD",
     "city": "LAFAYETTE",
     "time": "07/27/2020 - 10:04 PM",
