@@ -1,5 +1,21 @@
 [
   {
+    "address": "COOLIDGE ST & TULANE AV",
+    "city": "LAFAYETTE",
+    "time": "07/28/2020 - 10:28 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21021,
+    "longitude": -92.01174
+  },
+  {
+    "address": "COOLIDGE ST & E UNIVERSITY ST",
+    "city": "LAFAYETTE",
+    "time": "07/28/2020 - 10:27 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21119,
+    "longitude": -92.01076
+  },
+  {
     "address": "600 SW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "07/28/2020 - 10:05 AM",
