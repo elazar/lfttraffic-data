@@ -1,5 +1,13 @@
 [
   {
+    "address": "W WILLOW ST & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "07/28/2020 - 2:55 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24448,
+    "longitude": -92.03275
+  },
+  {
     "address": "JOHNSTON ST & DUHON RD",
     "city": "LAFAYETTE",
     "time": "07/28/2020 - 2:42 PM",
