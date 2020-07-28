@@ -1,5 +1,13 @@
 [
   {
+    "address": "COOLIDGE ST & S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "07/28/2020 - 5:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20144,
+    "longitude": -92.01936
+  },
+  {
     "address": "2600 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "07/28/2020 - 5:40 PM",
