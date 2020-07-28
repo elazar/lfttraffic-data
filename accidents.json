@@ -1,5 +1,13 @@
 [
   {
+    "address": "E FAIRFIELD DR & S MORGAN AV",
+    "city": "BROUSSARD",
+    "time": "07/28/2020 - 4:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.11646,
+    "longitude": -91.95656
+  },
+  {
     "address": "KALISTE SALOOM RD & S MEYERS DR",
     "city": "LAFAYETTE",
     "time": "07/28/2020 - 4:51 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18714,
     "longitude": -92.0599
-  },
-  {
-    "address": "100 RACINE DR",
-    "city": "LAFAYETTE",
-    "time": "07/28/2020 - 4:39 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.2430809,
-    "longitude": -92.0004251
   },
   {
     "address": "VETERANS DR & NW EVANGELINE TW",
