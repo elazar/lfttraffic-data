@@ -72,27 +72,11 @@
     "longitude": -91.95656
   },
   {
-    "address": "KALISTE SALOOM RD & S MEYERS DR",
-    "city": "LAFAYETTE",
-    "time": "07/28/2020 - 4:51 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.15061,
-    "longitude": -92.05423
-  },
-  {
     "address": "500 MARIE ANTOINETTE ST",
     "city": "LAFAYETTE",
     "time": "07/28/2020 - 4:50 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.2078321,
     "longitude": -92.060338
-  },
-  {
-    "address": "LOUISIANA AV & CARMEL DR",
-    "city": "LAFAYETTE",
-    "time": "07/28/2020 - 3:33 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23457,
-    "longitude": -92.00231
   }
 ]
