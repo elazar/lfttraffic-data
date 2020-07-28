@@ -24,12 +24,12 @@
     "longitude": -92.02175
   },
   {
-    "address": "103 I10 WESTBOUND MM103A HW",
+    "address": "3300 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "07/28/2020 - 5:30 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.26255,
-    "longitude": -92.00867
+    "latitude": 30.2694378,
+    "longitude": -91.9921841
   },
   {
     "address": "W CONGRESS ST & CAJUNDOME BL",
@@ -94,14 +94,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2078321,
     "longitude": -92.060338
-  },
-  {
-    "address": "VETERANS DR & NW EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "07/28/2020 - 4:27 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.32204,
-    "longitude": -92.03574
   },
   {
     "address": "LOUISIANA AV & CARMEL DR",
