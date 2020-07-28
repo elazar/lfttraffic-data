@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & WESTMARK BL",
+    "city": "LAFAYETTE",
+    "time": "07/28/2020 - 5:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1824,
+    "longitude": -92.07019
+  },
+  {
     "address": "W PINHOOK RD & YOUNGSVILLE HW",
     "city": "LAFAYETTE",
     "time": "07/28/2020 - 5:07 PM",
