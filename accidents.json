@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "N UNIVERSITY AV & ROSEWOOD AV",
+    "city": "LAFAYETTE",
+    "time": "07/28/2020 - 9:52 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.24676,
+    "longitude": -92.03392
+  }
+]
