@@ -1,5 +1,13 @@
 [
   {
+    "address": "96 I10 WESTBOUND MM96 HW",
+    "city": "LAFAYETTE",
+    "time": "07/29/2020 - 2:53 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "221 VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "07/29/2020 - 2:42 PM",
@@ -16,11 +24,11 @@
     "longitude": -92.075
   },
   {
-    "address": "W CONGRESS ST & GUILBEAU RD",
+    "address": "3921 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "07/29/2020 - 1:53 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.19826,
-    "longitude": -92.07007
+    "latitude": 30.1991827,
+    "longitude": -92.0683891
   }
 ]
