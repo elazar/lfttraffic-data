@@ -1,5 +1,13 @@
 [
   {
+    "address": "309 SETTLERS TRACE BL",
+    "city": "LAFAYETTE",
+    "time": "07/29/2020 - 08:26 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.16868,
+    "longitude": -92.03963
+  },
+  {
     "address": "100 N LARRIVIERE RD",
     "city": "YOUNGSVILLE",
     "time": "07/29/2020 - 08:19 AM",
