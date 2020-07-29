@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "119 AMBIANCE CL",
+    "city": "LAFAYETTE",
+    "time": "07/29/2020 - 11:30 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.13657,
+    "longitude": -92.03075
+  }
+]
