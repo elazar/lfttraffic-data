@@ -1,5 +1,13 @@
 [
   {
+    "address": "601 BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "07/29/2020 - 2:54 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21337,
+    "longitude": -92.04767
+  },
+  {
     "address": "96 I10 WESTBOUND MM96 HW",
     "city": "LAFAYETTE",
     "time": "07/29/2020 - 2:53 PM",
