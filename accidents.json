@@ -1,5 +1,13 @@
 [
   {
+    "address": "204 E FARREL RD",
+    "city": "LAFAYETTE",
+    "time": "07/28/2020 - 11:30 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.15242,
+    "longitude": -92.04869
+  },
+  {
     "address": "124 RADCLIFFE DR",
     "city": "LAFAYETTE",
     "time": "07/28/2020 - 11:14 PM",
