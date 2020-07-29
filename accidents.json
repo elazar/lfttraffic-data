@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.26255,
     "longitude": -92.00867
-  },
-  {
-    "address": "2631 LOUISIANA AV",
-    "city": "LAFAYETTE",
-    "time": "07/29/2020 - 04:56 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.25199,
-    "longitude": -92.00023
   }
 ]
