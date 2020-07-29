@@ -1,5 +1,13 @@
 [
   {
+    "address": "1600 E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "07/28/2020 - 8:29 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22854,
+    "longitude": -91.99852
+  },
+  {
     "address": "2700 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/28/2020 - 8:27 PM",
