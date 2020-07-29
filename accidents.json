@@ -1,5 +1,13 @@
 [
   {
+    "address": "LOUISIANA AV & S ORANGE ST",
+    "city": "LAFAYETTE",
+    "time": "07/29/2020 - 06:54 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22633,
+    "longitude": -92.00728
+  },
+  {
     "address": "105 I10 WESTBOUND MM105 HW",
     "city": "LAFAYETTE",
     "time": "07/29/2020 - 06:29 AM",
