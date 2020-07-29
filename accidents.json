@@ -3,7 +3,7 @@
     "address": "AMBASSADOR CAFFERY PW & TARGET LP",
     "city": "LAFAYETTE",
     "time": "07/29/2020 - 2:11 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.17959,
     "longitude": -92.075
   },
@@ -24,12 +24,12 @@
     "longitude": null
   },
   {
-    "address": "1809 W PINHOOK RD",
+    "address": "1401 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "07/29/2020 - 1:22 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.19232,
-    "longitude": -92.01526
+    "latitude": 30.19906,
+    "longitude": -92.01623
   },
   {
     "address": "AMBASSADOR CAFFERY PW & KALISTE SALOOM RD",
