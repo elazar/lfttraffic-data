@@ -1,5 +1,13 @@
 [
   {
+    "address": "2900 W WILLOW ST",
+    "city": "SCOTT",
+    "time": "07/29/2020 - 3:50 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24205,
+    "longitude": -92.08724
+  },
+  {
     "address": "N UNIVERSITY AV & W GILMAN RD",
     "city": "LAFAYETTE",
     "time": "07/29/2020 - 3:39 PM",
