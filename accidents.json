@@ -1,5 +1,13 @@
 [
   {
+    "address": "1816 ST MARY ST",
+    "city": "SCOTT",
+    "time": "07/29/2020 - 12:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2441423,
+    "longitude": -92.1067607
+  },
+  {
     "address": "1815 ST MARY ST",
     "city": "SCOTT",
     "time": "07/29/2020 - 12:39 PM",
