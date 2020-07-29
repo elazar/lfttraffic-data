@@ -38,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15649,
     "longitude": -92.04838
-  },
-  {
-    "address": "JOHNSTON ST & ARNOULD BL",
-    "city": "LAFAYETTE",
-    "time": "07/29/2020 - 1:05 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.20186,
-    "longitude": -92.05312
   }
 ]
