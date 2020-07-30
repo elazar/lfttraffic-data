@@ -1,5 +1,13 @@
 [
   {
+    "address": "SIXTEENTH ST & E VERMILION ST",
+    "city": "LAFAYETTE",
+    "time": "07/30/2020 - 09:43 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.21829,
+    "longitude": -92.00849
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & RIDGE RD",
     "city": "LAFAYETTE",
     "time": "07/30/2020 - 09:42 AM",
