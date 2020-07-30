@@ -1,5 +1,21 @@
 [
   {
+    "address": "800 ALICE DR",
+    "city": "LAFAYETTE",
+    "time": "07/30/2020 - 12:13 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.17653,
+    "longitude": -92.05691
+  },
+  {
+    "address": "200 BILTMORE WAY",
+    "city": "LAFAYETTE",
+    "time": "07/30/2020 - 12:12 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16875,
+    "longitude": -92.04069
+  },
+  {
     "address": "3806 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/30/2020 - 12:06 PM",
