@@ -16,14 +16,6 @@
     "longitude": -92.07386
   },
   {
-    "address": "103 I10 EB ENTRANCE RAMP 103 HW",
-    "city": "LAFAYETTE",
-    "time": "07/30/2020 - 4:06 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.26255,
-    "longitude": -92.00867
-  },
-  {
     "address": "101 I10 EASTBOUND MM101 HW",
     "city": "LAFAYETTE",
     "time": "07/30/2020 - 4:03 PM",
@@ -54,13 +46,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19007,
     "longitude": -92.07509
-  },
-  {
-    "address": "CAMERON ST & S RICHFIELD RD",
-    "city": "DUSON",
-    "time": "07/30/2020 - 2:46 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23496,
-    "longitude": -92.17607
   }
 ]
