@@ -1,5 +1,13 @@
 [
   {
+    "address": "CARMEL DR & HOLLY ST",
+    "city": "LAFAYETTE",
+    "time": "07/30/2020 - 10:58 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23351,
+    "longitude": -91.9936
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & ENGLEWOOD DR",
     "city": "LAFAYETTE",
     "time": "07/30/2020 - 10:46 AM",
