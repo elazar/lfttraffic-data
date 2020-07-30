@@ -1,5 +1,13 @@
 [
   {
+    "address": "E WILLOW ST & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "07/30/2020 - 1:15 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24552,
+    "longitude": -92.00037
+  },
+  {
     "address": "CAMERON ST & TOPEKA RD",
     "city": "LAFAYETTE",
     "time": "07/30/2020 - 12:55 PM",
