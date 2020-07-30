@@ -1,9 +1,17 @@
 [
   {
+    "address": "NW EVANGELINE TW & CHALMETTE DR",
+    "city": "LAFAYETTE",
+    "time": "07/30/2020 - 5:25 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25191,
+    "longitude": -92.01425
+  },
+  {
     "address": "JUSTIN ST & NW FRONTAGE RD",
     "city": "LAFAYETTE",
     "time": "07/30/2020 - 5:22 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.25536,
     "longitude": -92.01508
   },
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1217771,
     "longitude": -91.9911294
-  },
-  {
-    "address": "I10 EASTBOUND MM105 HW & LOUISIANA AV",
-    "city": "LAFAYETTE",
-    "time": "07/30/2020 - 4:36 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.27944,
-    "longitude": -91.99217
   },
   {
     "address": "3520 AMBASSADOR CAFFERY PW",
