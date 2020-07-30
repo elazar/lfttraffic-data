@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "900 ALFRED ST",
+    "city": "SCOTT",
+    "time": "07/30/2020 - 02:10 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.2337,
+    "longitude": -92.0939449
+  }
+]
