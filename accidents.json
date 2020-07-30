@@ -1,5 +1,13 @@
 [
   {
+    "address": "4415 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "07/30/2020 - 12:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15808,
+    "longitude": -92.04919
+  },
+  {
     "address": "105 I10 EASTBOUND MM105 HW",
     "city": "LAFAYETTE",
     "time": "07/30/2020 - 12:16 PM",
@@ -62,5 +70,13 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17645,
     "longitude": -92.01628
+  },
+  {
+    "address": "AMBASSADOR CAFFERY PW & ENGLEWOOD DR",
+    "city": "LAFAYETTE",
+    "time": "07/30/2020 - 10:46 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16799,
+    "longitude": -92.0623
   }
 ]
