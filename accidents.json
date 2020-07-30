@@ -1,5 +1,13 @@
 [
   {
+    "address": "E PONT DES MOUTON RD & NE FRONTAGE RD",
+    "city": "LAFAYETTE",
+    "time": "07/30/2020 - 1:49 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27334,
+    "longitude": -92.01718
+  },
+  {
     "address": "105 I10 EASTBOUND MM105 HW",
     "city": "LAFAYETTE",
     "time": "07/30/2020 - 12:16 PM",
