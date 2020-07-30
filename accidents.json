@@ -1,5 +1,13 @@
 [
   {
+    "address": "LAKESIDE DR & RUE CHAVANIAC",
+    "city": "LAFAYETTE",
+    "time": "07/30/2020 - 05:07 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.15381,
+    "longitude": -92.06075
+  },
+  {
     "address": "3903 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/30/2020 - 04:50 AM",
