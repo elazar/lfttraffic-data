@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & S RICHFIELD RD",
+    "city": "DUSON",
+    "time": "07/30/2020 - 2:46 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23496,
+    "longitude": -92.17607
+  },
+  {
     "address": "1214 COOLIDGE ST",
     "city": "LAFAYETTE",
     "time": "07/30/2020 - 2:34 PM",
