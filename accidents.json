@@ -1,5 +1,13 @@
 [
   {
+    "address": "3806 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "07/30/2020 - 12:06 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17072,
+    "longitude": -92.06613
+  },
+  {
     "address": "ST ESPRIT RD & RUE DES ETOILES",
     "city": "LAFAYETTE",
     "time": "07/30/2020 - 11:56 AM",
@@ -54,14 +62,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18618,
     "longitude": -92.02183
-  },
-  {
-    "address": "CARMEL DR & HOLLY ST",
-    "city": "LAFAYETTE",
-    "time": "07/30/2020 - 10:58 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23351,
-    "longitude": -91.9936
   },
   {
     "address": "AMBASSADOR CAFFERY PW & ENGLEWOOD DR",
