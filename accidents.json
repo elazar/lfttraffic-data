@@ -1,5 +1,13 @@
 [
   {
+    "address": "E SIMCOE ST & NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "07/30/2020 - 6:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23107,
+    "longitude": -92.0138
+  },
+  {
     "address": "LAGNEAUX RD & RIDGE RD",
     "city": "LAFAYETTE",
     "time": "07/30/2020 - 5:57 PM",
