@@ -1,5 +1,13 @@
 [
   {
+    "address": "110 CRAWFORD ST",
+    "city": "LAFAYETTE",
+    "time": "07/30/2020 - 5:40 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.19956,
+    "longitude": -92.06156
+  },
+  {
     "address": "4000 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "07/30/2020 - 5:36 PM",
