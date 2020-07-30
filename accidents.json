@@ -1,5 +1,13 @@
 [
   {
+    "address": "105 I10 EASTBOUND MM105 HW",
+    "city": "LAFAYETTE",
+    "time": "07/30/2020 - 12:16 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & SETTLERS TRACE BL",
     "city": "LAFAYETTE",
     "time": "07/30/2020 - 12:13 PM",
@@ -54,13 +62,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17645,
     "longitude": -92.01628
-  },
-  {
-    "address": "E BAYOU PW & SILVERBELL PW",
-    "city": "LAFAYETTE",
-    "time": "07/30/2020 - 11:16 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18618,
-    "longitude": -92.02183
   }
 ]
