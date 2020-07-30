@@ -1,19 +1,19 @@
 [
   {
+    "address": "1335 LA 93 HW",
+    "city": "LAFAYETTE",
+    "time": "07/30/2020 - 3:58 PM",
+    "due_to": "Hazard",
+    "latitude": 30.27569,
+    "longitude": -92.11257
+  },
+  {
     "address": "WESTMARK BL & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/30/2020 - 3:33 PM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.18444,
     "longitude": -92.07499
-  },
-  {
-    "address": "BENDEL RD & W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "07/30/2020 - 3:09 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19911,
-    "longitude": -92.01641
   },
   {
     "address": "100 DILLARD DR",
