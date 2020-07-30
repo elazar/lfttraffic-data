@@ -1,5 +1,13 @@
 [
   {
+    "address": "N ST ANTOINE ST & W GILMAN RD",
+    "city": "LAFAYETTE",
+    "time": "07/30/2020 - 10:01 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24202,
+    "longitude": -92.02408
+  },
+  {
     "address": "SIXTEENTH ST & E VERMILION ST",
     "city": "LAFAYETTE",
     "time": "07/30/2020 - 09:43 AM",
