@@ -1,5 +1,13 @@
 [
   {
+    "address": "BONIN RD & E MILTON AV",
+    "city": "YOUNGSVILLE",
+    "time": "07/30/2020 - 2:26 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.10919,
+    "longitude": -92.02391
+  },
+  {
     "address": "W PINHOOK RD & BENDEL RD",
     "city": "LAFAYETTE",
     "time": "07/30/2020 - 2:25 PM",
