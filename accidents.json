@@ -1,5 +1,21 @@
 [
   {
+    "address": "501 E PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "07/30/2020 - 6:29 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.2169483,
+    "longitude": -92.0056485
+  },
+  {
+    "address": "W CONGRESS ST & PERCY RD",
+    "city": "LAFAYETTE",
+    "time": "07/30/2020 - 6:29 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19575,
+    "longitude": -92.1002
+  },
+  {
     "address": "2428 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "07/30/2020 - 6:07 PM",
