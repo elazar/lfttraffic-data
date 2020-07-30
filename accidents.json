@@ -1,11 +1,11 @@
 [
   {
-    "address": "800 ALICE DR",
+    "address": "AMBASSADOR CAFFERY PW & SETTLERS TRACE BL",
     "city": "LAFAYETTE",
     "time": "07/30/2020 - 12:13 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.17653,
-    "longitude": -92.05691
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15969,
+    "longitude": -92.05229
   },
   {
     "address": "200 BILTMORE WAY",
