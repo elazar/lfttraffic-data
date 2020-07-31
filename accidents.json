@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "MOSS ST & W ALEXANDER ST",
+    "city": "LAFAYETTE",
+    "time": "07/31/2020 - 10:06 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2556,
+    "longitude": -92.00554
+  }
+]
