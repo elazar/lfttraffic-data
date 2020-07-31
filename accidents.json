@@ -1,5 +1,13 @@
 [
   {
+    "address": "LAKEVIEW RD & LA 182 HW",
+    "city": "BROUSSARD",
+    "time": "07/31/2020 - 4:35 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1173316,
+    "longitude": -91.9340498
+  },
+  {
     "address": "E WILLOW ST & E PINE ST",
     "city": "LAFAYETTE",
     "time": "07/31/2020 - 4:03 PM",
