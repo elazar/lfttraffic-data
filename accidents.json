@@ -1,5 +1,13 @@
 [
   {
+    "address": "102 RANGE DR",
+    "city": "LAFAYETTE",
+    "time": "07/31/2020 - 6:32 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.12236,
+    "longitude": -92.05319
+  },
+  {
     "address": "3559 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/31/2020 - 6:30 PM",
