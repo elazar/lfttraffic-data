@@ -1,5 +1,21 @@
 [
   {
+    "address": "E WILLOW ST & E PINE ST",
+    "city": "LAFAYETTE",
+    "time": "07/31/2020 - 4:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24545,
+    "longitude": -92.00194
+  },
+  {
+    "address": "3617 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "07/31/2020 - 4:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17644,
+    "longitude": -92.06975
+  },
+  {
     "address": "3310 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/31/2020 - 3:56 PM",
