@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & DOUCET RD",
+    "city": "LAFAYETTE",
+    "time": "07/31/2020 - 2:21 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20341,
+    "longitude": -92.04888
+  },
+  {
     "address": "200 PETROLEUM RD (SE)",
     "city": "LAFAYETTE",
     "time": "07/31/2020 - 2:20 PM",
