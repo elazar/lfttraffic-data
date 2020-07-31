@@ -1,11 +1,11 @@
 [
   {
-    "address": "102 I10 WESTBOUND MM102 HW",
+    "address": "LOUISIANA AV & S MAGNOLIA ST",
     "city": "LAFAYETTE",
-    "time": "07/30/2020 - 7:40 PM",
-    "due_to": "Hazard",
-    "latitude": 30.26255,
-    "longitude": -92.00867
+    "time": "07/30/2020 - 7:41 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22571,
+    "longitude": -92.00791
   },
   {
     "address": "FOURTEENTH ST & S ORANGE ST",
