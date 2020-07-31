@@ -1,5 +1,13 @@
 [
   {
+    "address": "113 FLAGG PL",
+    "city": "LAFAYETTE",
+    "time": "07/31/2020 - 2:23 PM",
+    "due_to": "Grass Fire",
+    "latitude": 30.14774,
+    "longitude": -92.0445
+  },
+  {
     "address": "JOHNSTON ST & DOUCET RD",
     "city": "LAFAYETTE",
     "time": "07/31/2020 - 2:21 PM",
