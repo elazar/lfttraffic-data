@@ -1,19 +1,27 @@
 [
   {
+    "address": "VEROT SCHOOL RD & MILLCREEK RD",
+    "city": "LAFAYETTE",
+    "time": "07/31/2020 - 12:44 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13109,
+    "longitude": -92.03248
+  },
+  {
+    "address": "W WILLOW ST & NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "07/31/2020 - 12:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24466,
+    "longitude": -92.01336
+  },
+  {
     "address": "202 POYDRAS ST",
     "city": "LAFAYETTE",
     "time": "07/31/2020 - 12:42 PM",
     "due_to": "Fire Investigation",
     "latitude": 30.23333,
     "longitude": -92.02721
-  },
-  {
-    "address": "POYDRAS ST & HOPKINS ST",
-    "city": "LAFAYETTE",
-    "time": "07/31/2020 - 12:41 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.23338,
-    "longitude": -92.02702
   },
   {
     "address": "ERASTE LANDRY RD & AMBASSADOR CAFFERY PW",
