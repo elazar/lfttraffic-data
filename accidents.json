@@ -15,7 +15,14 @@
     "latitude": 30.14443,
     "longitude": -92.09873
   },
-  null,
+  {
+    "address": "4000 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "07/31/2020 - 2:38 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.1663,
+    "longitude": -92.06118
+  },
   {
     "address": "1845 W PINHOOK RD",
     "city": "LAFAYETTE",
