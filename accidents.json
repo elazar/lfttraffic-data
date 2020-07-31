@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & TOUCHET RD",
+    "city": "LAFAYETTE",
+    "time": "07/31/2020 - 2:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14443,
+    "longitude": -92.09873
+  },
+  {
     "address": "4000 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/31/2020 - 2:38 PM",
@@ -46,14 +54,6 @@
     "due_to": "Fire Investigation",
     "latitude": 30.32871,
     "longitude": -92.04768
-  },
-  {
-    "address": "3747 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "07/31/2020 - 2:14 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17254,
-    "longitude": -92.06583
   },
   {
     "address": "SE EVANGELINE TW & E PINHOOK RD",
