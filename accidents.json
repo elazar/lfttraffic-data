@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & GUILBEAU RD",
+    "city": "LAFAYETTE",
+    "time": "07/31/2020 - 10:10 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19826,
+    "longitude": -92.07007
+  },
+  {
     "address": "N UNIVERSITY AV & CAMERON ST",
     "city": "LAFAYETTE",
     "time": "07/31/2020 - 10:09 AM",
