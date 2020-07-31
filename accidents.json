@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 TENTH ST",
+    "city": "LAFAYETTE",
+    "time": "07/31/2020 - 06:13 AM",
+    "due_to": "Residential Fire",
+    "latitude": 30.2237022,
+    "longitude": -92.0097101
+  },
+  {
     "address": "TENTH ST & HAZEL ST",
     "city": "LAFAYETTE",
     "time": "07/31/2020 - 06:12 AM",
