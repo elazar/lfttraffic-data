@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "07/31/2020 - 10:09 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23236,
+    "longitude": -92.03238
+  },
+  {
     "address": "MOSS ST & W ALEXANDER ST",
     "city": "LAFAYETTE",
     "time": "07/31/2020 - 10:06 AM",
