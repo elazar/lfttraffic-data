@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & BAYOU ST",
+    "city": "LAFAYETTE",
+    "time": "07/31/2020 - 4:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20584,
+    "longitude": -92.01251
+  },
+  {
     "address": "LAKEVIEW RD & LA 182 HW",
     "city": "BROUSSARD",
     "time": "07/31/2020 - 4:35 PM",
