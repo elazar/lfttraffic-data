@@ -1,5 +1,13 @@
 [
   {
+    "address": "5700 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/01/2020 - 2:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1755,
+    "longitude": -92.07745
+  },
+  {
     "address": "S ORANGE ST & E PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "08/01/2020 - 2:12 PM",
