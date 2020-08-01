@@ -1,5 +1,13 @@
 [
   {
+    "address": "6701 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/01/2020 - 11:49 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15398,
+    "longitude": -92.09018
+  },
+  {
     "address": "I49 NORTHBOUND MM4 HW & HECTOR CONNOLY RD",
     "city": "LAFAYETTE",
     "time": "08/01/2020 - 11:38 AM",
