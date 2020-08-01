@@ -1,5 +1,13 @@
 [
   {
+    "address": "5732 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/01/2020 - 2:44 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17459,
+    "longitude": -92.07886
+  },
+  {
     "address": "5700 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/01/2020 - 2:20 PM",
