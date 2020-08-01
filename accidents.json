@@ -1,18 +1,18 @@
 [
   {
+    "address": "1400 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "08/01/2020 - 09:48 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2416658,
+    "longitude": -92.0116864
+  },
+  {
     "address": "402 GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "08/01/2020 - 09:17 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.19777,
     "longitude": -92.06878
-  },
-  {
-    "address": "6701 AMBASSADOR CAFFERY PW",
-    "city": "BROUSSARD",
-    "time": "08/01/2020 - 09:15 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.13493,
-    "longitude": -91.98161
   }
 ]
