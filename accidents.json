@@ -1,5 +1,13 @@
 [
   {
+    "address": "S RICHFIELD RD & GOLDEN GRAIN RD",
+    "city": "LAFAYETTE",
+    "time": "08/01/2020 - 2:48 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.15923,
+    "longitude": -92.17568
+  },
+  {
     "address": "601 BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "08/01/2020 - 2:47 PM",
