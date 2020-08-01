@@ -1,5 +1,13 @@
 [
   {
+    "address": "E VERMILION ST & GARFIELD ST",
+    "city": "LAFAYETTE",
+    "time": "07/31/2020 - 6:44 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2204,
+    "longitude": -92.01103
+  },
+  {
     "address": "2822 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "07/31/2020 - 6:39 PM",
