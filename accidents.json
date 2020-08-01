@@ -1,5 +1,13 @@
 [
   {
+    "address": "RUE LOUIS XIV & DRURY LN",
+    "city": "LAFAYETTE",
+    "time": "08/01/2020 - 3:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17055,
+    "longitude": -92.02711
+  },
+  {
     "address": "S RICHFIELD RD & GOLDEN GRAIN RD",
     "city": "LAFAYETTE",
     "time": "08/01/2020 - 2:48 PM",
