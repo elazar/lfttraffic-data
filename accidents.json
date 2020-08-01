@@ -1,5 +1,13 @@
 [
   {
+    "address": "1700 BEAU BASSIN RD",
+    "city": "LAFAYETTE",
+    "time": "08/01/2020 - 11:58 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.3245391,
+    "longitude": -91.9996325
+  },
+  {
     "address": "102 VANBUREN DR",
     "city": "LAFAYETTE",
     "time": "08/01/2020 - 11:56 AM",
