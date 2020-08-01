@@ -1,5 +1,21 @@
 [
   {
+    "address": "S COLLEGE RD & S ARLINGTON DR",
+    "city": "LAFAYETTE",
+    "time": "08/01/2020 - 6:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20433,
+    "longitude": -92.03478
+  },
+  {
+    "address": "BROADMOOR BL & ROBLEY DR",
+    "city": "LAFAYETTE",
+    "time": "08/01/2020 - 6:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17441,
+    "longitude": -92.06263
+  },
+  {
     "address": "DULLES DR & RUE DU BELIER",
     "city": "SCOTT",
     "time": "08/01/2020 - 6:08 PM",
