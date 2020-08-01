@@ -1,11 +1,19 @@
 [
   {
-    "address": "E ST MARY BL & WILSON ST",
+    "address": "SW EVANGELINE TW & E UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "07/31/2020 - 11:10 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.20951,
-    "longitude": -92.01517
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.20908,
+    "longitude": -92.00007
+  },
+  {
+    "address": "805 E ST MARY BL",
+    "city": "LAFAYETTE",
+    "time": "07/31/2020 - 11:10 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.20952,
+    "longitude": -92.0147
   },
   {
     "address": "105 I10 EASTBOUND MM105 HW",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.25511,
     "longitude": -91.99944
-  },
-  {
-    "address": "HOLDEN AV & JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "07/31/2020 - 10:24 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.20447,
-    "longitude": -92.04432
   },
   {
     "address": "5522 AMBASSADOR CAFFERY PW",
