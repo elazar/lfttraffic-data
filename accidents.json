@@ -1,5 +1,13 @@
 [
   {
+    "address": "4307 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "08/01/2020 - 1:04 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15928,
+    "longitude": -92.05096
+  },
+  {
     "address": "201 PECAN ORCHARD RD",
     "city": "LAFAYETTE",
     "time": "08/01/2020 - 12:53 PM",
