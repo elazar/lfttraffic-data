@@ -1,5 +1,13 @@
 [
   {
+    "address": "102 VANBUREN DR",
+    "city": "LAFAYETTE",
+    "time": "08/01/2020 - 11:56 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26982,
+    "longitude": -92.00823
+  },
+  {
     "address": "6701 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/01/2020 - 11:49 AM",
