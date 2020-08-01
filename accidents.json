@@ -38,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15398,
     "longitude": -92.09018
-  },
-  {
-    "address": "4040 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "08/01/2020 - 11:29 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.16486,
-    "longitude": -92.05889
   }
 ]
