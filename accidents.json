@@ -1,5 +1,13 @@
 [
   {
+    "address": "S ST ANTOINE ST & CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "08/02/2020 - 07:25 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.23198,
+    "longitude": -92.02496
+  },
+  {
     "address": "1912 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "08/02/2020 - 05:48 AM",
