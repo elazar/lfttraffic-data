@@ -1,26 +1,10 @@
 [
   {
-    "address": "N ST ANTOINE ST & HAMMOND RD",
+    "address": "1912 NE EVANGELINE TW",
     "city": "LAFAYETTE",
-    "time": "08/01/2020 - 11:08 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.25301,
-    "longitude": -92.02687
-  },
-  {
-    "address": "3801 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "08/01/2020 - 9:57 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.17122,
-    "longitude": -92.06566
-  },
-  {
-    "address": "1500 NW EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "08/01/2020 - 9:55 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.2451127,
-    "longitude": -92.0146249
+    "time": "08/02/2020 - 05:48 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.24852,
+    "longitude": -92.01209
   }
 ]
