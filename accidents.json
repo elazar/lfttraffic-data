@@ -1,5 +1,13 @@
 [
   {
+    "address": "127 NANOKE LN",
+    "city": "LAFAYETTE",
+    "time": "08/02/2020 - 6:17 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.33324,
+    "longitude": -92.06142
+  },
+  {
     "address": "NANOKE LN & WHITMA DR",
     "city": "LAFAYETTE",
     "time": "08/02/2020 - 6:16 PM",
