@@ -1,5 +1,13 @@
 [
   {
+    "address": "1700 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "08/02/2020 - 1:05 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24612,
+    "longitude": -92.01083
+  },
+  {
     "address": "S REFINERY ST & PETRO ST",
     "city": "LAFAYETTE",
     "time": "08/02/2020 - 1:01 PM",
@@ -22,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.31573,
     "longitude": -92.08763
-  },
-  {
-    "address": "MOUNT VERNON DR & CAMELLIA DR",
-    "city": "LAFAYETTE",
-    "time": "08/02/2020 - 11:39 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.18558,
-    "longitude": -92.05388
   }
 ]
