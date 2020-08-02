@@ -1,27 +1,11 @@
 [
   {
-    "address": "W ST MARY BL & W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "08/02/2020 - 07:43 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.22445,
-    "longitude": -92.03174
-  },
-  {
     "address": "106 BLOSSOM CL",
     "city": "LAFAYETTE",
     "time": "08/02/2020 - 07:27 AM",
     "due_to": "Fire Alarm-Residential",
     "latitude": 30.29709,
     "longitude": -92.10873
-  },
-  {
-    "address": "S ST ANTOINE ST & CAMERON ST",
-    "city": "LAFAYETTE",
-    "time": "08/02/2020 - 07:25 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.23198,
-    "longitude": -92.02496
   },
   {
     "address": "1912 NE EVANGELINE TW",
