@@ -1,5 +1,13 @@
 [
   {
+    "address": "101 PARADISE ST",
+    "city": "LAFAYETTE",
+    "time": "08/02/2020 - 6:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24267,
+    "longitude": -92.02736
+  },
+  {
     "address": "107 HOPKINS ST",
     "city": "LAFAYETTE",
     "time": "08/02/2020 - 6:38 PM",
