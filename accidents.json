@@ -1,5 +1,13 @@
 [
   {
+    "address": "MOUNT VERNON DR & CAMELLIA DR",
+    "city": "LAFAYETTE",
+    "time": "08/02/2020 - 11:39 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.18558,
+    "longitude": -92.05388
+  },
+  {
     "address": "101 BANCROFT DR",
     "city": "LAFAYETTE",
     "time": "08/02/2020 - 11:38 AM",
