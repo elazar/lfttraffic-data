@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17808,
     "longitude": -92.07452
-  },
-  {
-    "address": "2000 KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "08/02/2020 - 2:21 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.16724,
-    "longitude": -92.03711
   }
 ]
