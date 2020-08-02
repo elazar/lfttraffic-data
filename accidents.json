@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOMELA DR & W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "08/01/2020 - 9:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19961,
+    "longitude": -92.01618
+  },
+  {
     "address": "HIGH MEADOWS BL & TORONTO DR",
     "city": "LAFAYETTE",
     "time": "08/01/2020 - 8:28 PM",
