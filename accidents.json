@@ -22,13 +22,5 @@
     "due_to": "Hazardous Material",
     "latitude": 30.23252,
     "longitude": -92.06264
-  },
-  {
-    "address": "GENDARME RD & DILLON RD",
-    "city": "LAFAYETTE",
-    "time": "08/02/2020 - 12:56 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.31573,
-    "longitude": -92.08763
   }
 ]
