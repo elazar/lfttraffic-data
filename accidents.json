@@ -14,13 +14,5 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.15969,
     "longitude": -92.05229
-  },
-  {
-    "address": "SE EVANGELINE TW & THIRTEENTH ST",
-    "city": "LAFAYETTE",
-    "time": "08/02/2020 - 1:18 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22169,
-    "longitude": -92.00775
   }
 ]
