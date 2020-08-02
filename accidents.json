@@ -1,5 +1,13 @@
 [
   {
+    "address": "N ST ANTOINE ST & HAMMOND RD",
+    "city": "LAFAYETTE",
+    "time": "08/01/2020 - 11:08 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25301,
+    "longitude": -92.02687
+  },
+  {
     "address": "3801 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/01/2020 - 9:57 PM",
