@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19961,
     "longitude": -92.01618
-  },
-  {
-    "address": "200 HIGH MEADOWS BL",
-    "city": "LAFAYETTE",
-    "time": "08/01/2020 - 8:28 PM",
-    "due_to": "Commercial Fire",
-    "latitude": 30.27702,
-    "longitude": -92.01548
   }
 ]
