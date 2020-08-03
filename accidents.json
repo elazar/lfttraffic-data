@@ -1,5 +1,13 @@
 [
   {
+    "address": "E PINE ST & CHESTER ST",
+    "city": "LAFAYETTE",
+    "time": "08/02/2020 - 7:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.246,
+    "longitude": -92.00482
+  },
+  {
     "address": "CAMERON ST & RENDEZVOUS RD",
     "city": "LAFAYETTE",
     "time": "08/02/2020 - 7:06 PM",
@@ -40,12 +48,12 @@
     "longitude": -92.00042
   },
   {
-    "address": "127 NANOKE LN",
+    "address": "124 NANOKE LN",
     "city": "LAFAYETTE",
     "time": "08/02/2020 - 6:17 PM",
     "due_to": "Residential Fire",
-    "latitude": 30.33324,
-    "longitude": -92.06142
+    "latitude": 30.33339,
+    "longitude": -92.06194
   },
   {
     "address": "121 CHARLES DR",
