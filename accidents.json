@@ -1,5 +1,13 @@
 [
   {
+    "address": "CANKTON RD & JOLI RD",
+    "city": "LAFAYETTE",
+    "time": "08/02/2020 - 11:31 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.32848,
+    "longitude": -92.0706
+  },
+  {
     "address": "COOLIDGE ST & OIL CENTER DR",
     "city": "LAFAYETTE",
     "time": "08/02/2020 - 10:41 PM",
