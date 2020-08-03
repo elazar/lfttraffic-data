@@ -1,5 +1,13 @@
 [
   {
+    "address": "NW EVANGELINE TW & W PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "08/03/2020 - 3:06 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27349,
+    "longitude": -92.02058
+  },
+  {
     "address": "620 LAFAYETTE ST",
     "city": "YOUNGSVILLE",
     "time": "08/03/2020 - 3:02 PM",
