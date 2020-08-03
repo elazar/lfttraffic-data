@@ -1,5 +1,13 @@
 [
   {
+    "address": "2600 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/03/2020 - 10:50 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20918,
+    "longitude": -92.03679
+  },
+  {
     "address": "3108 E MILTON AV",
     "city": "YOUNGSVILLE",
     "time": "08/03/2020 - 10:34 AM",
