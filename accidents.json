@@ -1,21 +1,5 @@
 [
   {
-    "address": "JOHNSTON ST & GENERAL MOUTON AV",
-    "city": "LAFAYETTE",
-    "time": "08/03/2020 - 10:38 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21859,
-    "longitude": -92.01816
-  },
-  {
-    "address": "113 CLAY RD",
-    "city": "SCOTT",
-    "time": "08/03/2020 - 10:35 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.23776,
-    "longitude": -92.07057
-  },
-  {
     "address": "3108 E MILTON AV",
     "city": "YOUNGSVILLE",
     "time": "08/03/2020 - 10:34 AM",
