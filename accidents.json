@@ -1,5 +1,13 @@
 [
   {
+    "address": "RENAUD DR & N GENTILLY RD",
+    "city": "LAFAYETTE",
+    "time": "08/03/2020 - 1:57 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2542,
+    "longitude": -92.05018
+  },
+  {
     "address": "CHEMIN METAIRIE & KIRKWOOD LN",
     "city": "YOUNGSVILLE",
     "time": "08/03/2020 - 12:46 PM",
