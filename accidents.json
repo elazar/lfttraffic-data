@@ -1,5 +1,13 @@
 [
   {
+    "address": "1300 RUE DU BELIER",
+    "city": "LAFAYETTE",
+    "time": "08/03/2020 - 6:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1805304,
+    "longitude": -92.092012
+  },
+  {
     "address": "RIDGE RD & W BROUSSARD RD",
     "city": "LAFAYETTE",
     "time": "08/03/2020 - 4:51 PM",
