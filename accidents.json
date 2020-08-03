@@ -16,18 +16,10 @@
     "longitude": -92.04838
   },
   {
-    "address": "E PINE ST & CHESTER ST",
-    "city": "LAFAYETTE",
-    "time": "08/02/2020 - 7:10 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.246,
-    "longitude": -92.00482
-  },
-  {
     "address": "409 CHEMIN AGREABLE",
     "city": "YOUNGSVILLE",
     "time": "08/02/2020 - 6:31 PM",
-    "due_to": "Commercial Fire",
+    "due_to": "Trash Fire",
     "latitude": 30.06508,
     "longitude": -92.00042
   },
