@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "100 THEODORA BL",
+    "city": "LAFAYETTE",
+    "time": "08/03/2020 - 01:02 AM",
+    "due_to": "Explosion",
+    "latitude": 30.2064248,
+    "longitude": -92.0098605
+  }
+]
