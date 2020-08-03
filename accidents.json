@@ -1,5 +1,13 @@
 [
   {
+    "address": "206 WHITMA DR",
+    "city": "LAFAYETTE",
+    "time": "08/03/2020 - 4:56 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.33151,
+    "longitude": -92.06178
+  },
+  {
     "address": "JOHNSTON ST & GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "08/03/2020 - 4:55 PM",
