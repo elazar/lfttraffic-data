@@ -23,7 +23,14 @@
     "latitude": 30.11686,
     "longitude": -92.01568
   },
-  null,
+  {
+    "address": "KALISTE SALOOM RD & POLLY LN",
+    "city": "LAFAYETTE",
+    "time": "08/03/2020 - 12:37 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17702,
+    "longitude": -92.02767
+  },
   {
     "address": "VINCENT RD & VEROT SCHOOL RD",
     "city": "LAFAYETTE",
