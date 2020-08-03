@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "08/03/2020 - 11:39 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2261,
+    "longitude": -92.02828
+  },
+  {
     "address": "320 DEVALCOURT ST",
     "city": "LAFAYETTE",
     "time": "08/03/2020 - 11:11 AM",
