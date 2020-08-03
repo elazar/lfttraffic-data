@@ -1,5 +1,13 @@
 [
   {
+    "address": "MOSS ST & E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "08/03/2020 - 4:14 PM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.23069,
+    "longitude": -92.00911
+  },
+  {
     "address": "196 CHEMIN METAIRIE",
     "city": "LAFAYETTE",
     "time": "08/03/2020 - 3:54 PM",
