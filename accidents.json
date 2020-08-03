@@ -1,5 +1,13 @@
 [
   {
+    "address": "MILLS ST & I10 HW",
+    "city": "SCOTT",
+    "time": "08/03/2020 - 3:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24463,
+    "longitude": -92.09131
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & RIDGE RD",
     "city": "LAFAYETTE",
     "time": "08/03/2020 - 3:08 PM",
