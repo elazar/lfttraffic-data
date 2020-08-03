@@ -1,5 +1,13 @@
 [
   {
+    "address": "2390 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "08/03/2020 - 2:09 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21551,
+    "longitude": -92.04635
+  },
+  {
     "address": "851 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "08/03/2020 - 12:37 PM",
