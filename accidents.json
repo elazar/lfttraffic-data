@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "W UNIVERSITY AV & AGNES ST",
+    "city": "LAFAYETTE",
+    "time": "08/03/2020 - 09:37 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22931,
+    "longitude": -92.03045
+  }
+]
