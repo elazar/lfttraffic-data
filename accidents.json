@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 CREDIT DR",
+    "city": "SCOTT",
+    "time": "08/02/2020 - 9:36 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2404,
+    "longitude": -92.08357
+  },
+  {
     "address": "221 LARCHWOOD DR",
     "city": "LAFAYETTE",
     "time": "08/02/2020 - 9:26 PM",
