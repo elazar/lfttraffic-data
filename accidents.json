@@ -1,5 +1,13 @@
 [
   {
+    "address": "3550 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "08/04/2020 - 1:44 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17527,
+    "longitude": -92.07228
+  },
+  {
     "address": "MOULIN RD & AMBASSADOR CAFFERY PW",
     "city": "BROUSSARD",
     "time": "08/04/2020 - 1:33 PM",
