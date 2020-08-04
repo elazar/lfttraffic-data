@@ -1,5 +1,13 @@
 [
   {
+    "address": "CANKTON RD & JOLI RD",
+    "city": "LAFAYETTE",
+    "time": "08/03/2020 - 8:54 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.32848,
+    "longitude": -92.0706
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & I10 HW",
     "city": "LAFAYETTE",
     "time": "08/03/2020 - 8:36 PM",
