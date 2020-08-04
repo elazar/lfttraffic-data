@@ -1,5 +1,13 @@
 [
   {
+    "address": "131 IRA ST",
+    "city": "CARENCRO",
+    "time": "08/04/2020 - 12:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.32102,
+    "longitude": -92.05326
+  },
+  {
     "address": "W PINHOOK RD & BENDEL RD",
     "city": "LAFAYETTE",
     "time": "08/04/2020 - 11:59 AM",
@@ -30,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2694378,
     "longitude": -91.9921841
-  },
-  {
-    "address": "JOHNSTON ST & MILDRED ST",
-    "city": "LAFAYETTE",
-    "time": "08/04/2020 - 10:47 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21323,
-    "longitude": -92.02354
   }
 ]
