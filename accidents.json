@@ -1,5 +1,13 @@
 [
   {
+    "address": "AUDUBON BL & COOLIDGE ST",
+    "city": "LAFAYETTE",
+    "time": "08/04/2020 - 1:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20484,
+    "longitude": -92.01642
+  },
+  {
     "address": "RIDGE RD & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/04/2020 - 1:09 PM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1657,
     "longitude": -92.08478
-  },
-  {
-    "address": "W PINHOOK RD & BENDEL RD",
-    "city": "LAFAYETTE",
-    "time": "08/04/2020 - 11:59 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19911,
-    "longitude": -92.01641
   }
 ]
