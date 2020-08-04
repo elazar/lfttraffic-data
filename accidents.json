@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22821,
     "longitude": -92.09721
-  },
-  {
-    "address": "3000 US 90 EAST HW",
-    "city": "LAFAYETTE",
-    "time": "08/04/2020 - 4:37 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2333,
-    "longitude": -92.05071
   }
 ]
