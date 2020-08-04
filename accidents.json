@@ -1,5 +1,21 @@
 [
   {
+    "address": "4310 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "08/04/2020 - 3:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15773,
+    "longitude": -92.05211
+  },
+  {
+    "address": "JEFFERSON BL & MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "08/04/2020 - 3:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23005,
+    "longitude": -92.00918
+  },
+  {
     "address": "5700 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/04/2020 - 3:21 PM",
