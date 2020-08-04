@@ -1,5 +1,13 @@
 [
   {
+    "address": "105 I10 WB EXIT RAMP HW",
+    "city": "LAFAYETTE",
+    "time": "08/04/2020 - 11:37 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "601 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/04/2020 - 11:29 AM",
