@@ -1,5 +1,13 @@
 [
   {
+    "address": "140 ONYX ST",
+    "city": "SCOTT",
+    "time": "08/04/2020 - 1:33 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.20747,
+    "longitude": -92.10453
+  },
+  {
     "address": "101 ARIZONA ST",
     "city": "LAFAYETTE",
     "time": "08/04/2020 - 1:14 PM",
