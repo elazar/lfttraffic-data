@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 ST ETIENNE RD",
+    "city": "BROUSSARD",
+    "time": "08/04/2020 - 5:42 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.12447,
+    "longitude": -91.94864
+  },
+  {
     "address": "6500 CAMERON ST",
     "city": "SCOTT",
     "time": "08/04/2020 - 5:14 PM",
