@@ -1,5 +1,13 @@
 [
   {
+    "address": "1914 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "08/04/2020 - 4:17 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24889,
+    "longitude": -92.00548
+  },
+  {
     "address": "900 VETERANS DR",
     "city": "CARENCRO",
     "time": "08/04/2020 - 3:50 PM",
