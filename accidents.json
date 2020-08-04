@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "address": "S ORANGE ST & TWELFTH ST",
+    "city": "LAFAYETTE",
+    "time": "08/03/2020 - 8:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22444,
+    "longitude": -92.00479
+  },
+  {
+    "address": "4301 N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "08/03/2020 - 8:02 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.31664,
+    "longitude": -92.05142
+  }
+]
