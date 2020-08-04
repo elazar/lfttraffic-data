@@ -1,26 +1,10 @@
 [
   {
-    "address": "1700 NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "08/04/2020 - 12:26 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24612,
-    "longitude": -92.01083
-  },
-  {
     "address": "W PINHOOK RD & BENDEL RD",
     "city": "LAFAYETTE",
     "time": "08/04/2020 - 11:59 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.19911,
     "longitude": -92.01641
-  },
-  {
-    "address": "US 90 EAST HW & S BERNARD RD",
-    "city": "BROUSSARD",
-    "time": "08/04/2020 - 11:45 AM",
-    "due_to": "Hazardous Material",
-    "latitude": 30.16055,
-    "longitude": -91.97136
   }
 ]
