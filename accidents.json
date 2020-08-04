@@ -1,5 +1,21 @@
 [
   {
+    "address": "3328 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "08/04/2020 - 08:17 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1808935,
+    "longitude": -92.0751349
+  },
+  {
+    "address": "GREIG ST & NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "08/04/2020 - 08:17 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23213,
+    "longitude": -92.01406
+  },
+  {
     "address": "701 ST NAZAIRE RD",
     "city": "BROUSSARD",
     "time": "08/04/2020 - 08:12 AM",
