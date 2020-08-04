@@ -1,5 +1,13 @@
 [
   {
+    "address": "1700 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "08/04/2020 - 12:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24612,
+    "longitude": -92.01083
+  },
+  {
     "address": "131 IRA ST",
     "city": "CARENCRO",
     "time": "08/04/2020 - 12:10 PM",
