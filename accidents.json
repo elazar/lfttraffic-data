@@ -1,5 +1,13 @@
 [
   {
+    "address": "101 ARIZONA ST",
+    "city": "LAFAYETTE",
+    "time": "08/04/2020 - 1:14 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.23847,
+    "longitude": -91.99988
+  },
+  {
     "address": "AUDUBON BL & COOLIDGE ST",
     "city": "LAFAYETTE",
     "time": "08/04/2020 - 1:11 PM",
