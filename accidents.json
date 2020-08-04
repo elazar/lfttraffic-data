@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & BENDEL RD",
+    "city": "LAFAYETTE",
+    "time": "08/04/2020 - 11:59 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19911,
+    "longitude": -92.01641
+  },
+  {
     "address": "1820 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/04/2020 - 11:50 AM",
