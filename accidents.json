@@ -1,5 +1,13 @@
 [
   {
+    "address": "2700 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "08/05/2020 - 12:09 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1774494,
+    "longitude": -92.0028635
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & CURRAN LN",
     "city": "LAFAYETTE",
     "time": "08/05/2020 - 12:03 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2357009,
     "longitude": -92.0484819
-  },
-  {
-    "address": "W CONGRESS ST & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "08/05/2020 - 11:39 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19597,
-    "longitude": -92.07523
   },
   {
     "address": "3201 KALISTE SALOOM RD",
