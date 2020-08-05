@@ -1,5 +1,21 @@
 [
   {
+    "address": "LA 1252 HW & TIFRERE RD",
+    "city": "LAFAYETTE",
+    "time": "08/05/2020 - 6:24 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.34488,
+    "longitude": -92.01624
+  },
+  {
+    "address": "4526 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "08/05/2020 - 6:22 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.1960106,
+    "longitude": -92.0822465
+  },
+  {
     "address": "GUILBEAU RD & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/05/2020 - 6:20 PM",
