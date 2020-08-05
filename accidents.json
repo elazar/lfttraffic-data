@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "W CONGRESS ST & LE VIOLON RD",
+    "city": "LAFAYETTE",
+    "time": "08/04/2020 - 6:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.196,
+    "longitude": -92.10823
+  }
+]
