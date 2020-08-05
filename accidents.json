@@ -1,5 +1,21 @@
 [
   {
+    "address": "MOSS ST & PARKLANE RD",
+    "city": "LAFAYETTE",
+    "time": "08/05/2020 - 5:48 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.30073,
+    "longitude": -92.00847
+  },
+  {
+    "address": "PLAZA VILLAGE DR & PANDORA ST",
+    "city": "LAFAYETTE",
+    "time": "08/05/2020 - 5:48 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20283,
+    "longitude": -92.06703
+  },
+  {
     "address": "417 LOUVETEAU RD",
     "city": "LAFAYETTE",
     "time": "08/05/2020 - 5:39 PM",
