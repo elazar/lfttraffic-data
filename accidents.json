@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 DIEU DONNE DR",
+    "city": "LAFAYETTE",
+    "time": "08/05/2020 - 3:19 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2611863,
+    "longitude": -92.0045439
+  },
+  {
     "address": "500 KILCHRIST RD",
     "city": "LAFAYETTE",
     "time": "08/05/2020 - 2:51 PM",
