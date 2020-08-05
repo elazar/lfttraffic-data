@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "307 FLORES CT",
+    "city": "LAFAYETTE",
+    "time": "08/04/2020 - 9:59 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.26921,
+    "longitude": -92.02659
+  }
+]
