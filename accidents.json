@@ -1,5 +1,13 @@
 [
   {
+    "address": "SOUTHPARK RD & SIGNAL CL",
+    "city": "LAFAYETTE",
+    "time": "08/05/2020 - 08:13 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16797,
+    "longitude": -91.98296
+  },
+  {
     "address": "612 BEAU PRE RD",
     "city": "LAFAYETTE",
     "time": "08/05/2020 - 08:10 AM",
