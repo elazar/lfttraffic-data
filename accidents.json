@@ -1,13 +1,5 @@
 [
   {
-    "address": "E KALISTE SALOOM RD & RAILROAD TRACKS",
-    "city": "LAFAYETTE",
-    "time": "08/05/2020 - 12:49 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.19538,
-    "longitude": -92.00655
-  },
-  {
     "address": "100 E KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "08/05/2020 - 12:41 PM",
@@ -22,14 +14,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17117,
     "longitude": -92.06617
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & CURRAN LN",
-    "city": "LAFAYETTE",
-    "time": "08/05/2020 - 12:03 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18845,
-    "longitude": -92.07506
   },
   {
     "address": "1320 WALKER RD",
