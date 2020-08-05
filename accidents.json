@@ -1,5 +1,21 @@
 [
   {
+    "address": "YOUNGSVILLE HW & AMBASSADOR CAFFERY PW",
+    "city": "BROUSSARD",
+    "time": "08/05/2020 - 6:04 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13508,
+    "longitude": -91.99044
+  },
+  {
+    "address": "200 FELONISE ST",
+    "city": "LAFAYETTE",
+    "time": "08/05/2020 - 6:04 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.2911042,
+    "longitude": -91.9754925
+  },
+  {
     "address": "2700 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "08/05/2020 - 6:03 PM",
