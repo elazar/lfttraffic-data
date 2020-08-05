@@ -1,5 +1,13 @@
 [
   {
+    "address": "1100 ROBLEY DR",
+    "city": "LAFAYETTE",
+    "time": "08/05/2020 - 4:48 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1672,
+    "longitude": -92.07079
+  },
+  {
     "address": "6770 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/05/2020 - 4:30 PM",
