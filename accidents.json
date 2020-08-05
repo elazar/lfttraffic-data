@@ -1,5 +1,13 @@
 [
   {
+    "address": "E PONT DES MOUTON RD & HIGH MEADOWS BL",
+    "city": "LAFAYETTE",
+    "time": "08/05/2020 - 6:49 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.27337,
+    "longitude": -92.01605
+  },
+  {
     "address": "246 SHANTEL RD",
     "city": "LAFAYETTE",
     "time": "08/05/2020 - 6:48 PM",
