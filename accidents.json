@@ -1,5 +1,13 @@
 [
   {
+    "address": "GUILBEAU RD & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/05/2020 - 6:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19375,
+    "longitude": -92.0586
+  },
+  {
     "address": "1726 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "08/05/2020 - 6:17 PM",
