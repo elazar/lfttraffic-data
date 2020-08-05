@@ -1,5 +1,13 @@
 [
   {
+    "address": "501 SURREY ST",
+    "city": "LAFAYETTE",
+    "time": "08/04/2020 - 7:40 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22839,
+    "longitude": -92.00397
+  },
+  {
     "address": "216 MITALI RD",
     "city": "LAFAYETTE",
     "time": "08/04/2020 - 7:36 PM",
