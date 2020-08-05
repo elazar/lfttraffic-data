@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "08/05/2020 - 07:52 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2456044,
+    "longitude": -92.024996
+  },
+  {
     "address": "JOHNSTON ST & CRESTLAWN DR",
     "city": "LAFAYETTE",
     "time": "08/05/2020 - 07:31 AM",
