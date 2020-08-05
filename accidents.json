@@ -1,5 +1,13 @@
 [
   {
+    "address": "2900 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "08/05/2020 - 5:54 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1957392,
+    "longitude": -92.0753655
+  },
+  {
     "address": "4700 MOSS ST",
     "city": "CARENCRO",
     "time": "08/05/2020 - 5:49 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20283,
     "longitude": -92.06703
-  },
-  {
-    "address": "8831 CAMERON ST",
-    "city": "DUSON",
-    "time": "08/05/2020 - 5:36 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2349851,
-    "longitude": -92.1790545
   },
   {
     "address": "6501 AMBASSADOR CAFFERY PW",
