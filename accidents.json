@@ -32,28 +32,12 @@
     "longitude": -91.99217
   },
   {
-    "address": "N UNIVERSITY AV & I10 HW",
-    "city": "LAFAYETTE",
-    "time": "08/05/2020 - 5:58 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.24052,
-    "longitude": -92.03242
-  },
-  {
     "address": "PERSHING AV & VERDUN ST",
     "city": "LAFAYETTE",
     "time": "08/05/2020 - 5:56 PM",
     "due_to": "Fire Investigation",
     "latitude": 30.23218,
     "longitude": -92.00153
-  },
-  {
-    "address": "2900 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "08/05/2020 - 5:54 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1957392,
-    "longitude": -92.0753655
   },
   {
     "address": "4700 MOSS ST",
@@ -102,13 +86,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.35161,
     "longitude": -92.0718
-  },
-  {
-    "address": "2800 SE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "08/05/2020 - 06:12 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.1780151,
-    "longitude": -91.9866033
   }
 ]
