@@ -56,14 +56,6 @@
     "longitude": -91.99217
   },
   {
-    "address": "PERSHING AV & VERDUN ST",
-    "city": "LAFAYETTE",
-    "time": "08/05/2020 - 5:56 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.23218,
-    "longitude": -92.00153
-  },
-  {
     "address": "4700 MOSS ST",
     "city": "CARENCRO",
     "time": "08/05/2020 - 5:49 PM",
@@ -86,14 +78,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20283,
     "longitude": -92.06703
-  },
-  {
-    "address": "6501 AMBASSADOR CAFFERY PW",
-    "city": "BROUSSARD",
-    "time": "08/05/2020 - 5:23 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.13538,
-    "longitude": -91.98957
   },
   {
     "address": "1100 ROBLEY DR",
