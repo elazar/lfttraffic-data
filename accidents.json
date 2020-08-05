@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & STEWART ST",
+    "city": "LAFAYETTE",
+    "time": "08/05/2020 - 2:38 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22125,
+    "longitude": -92.01646
+  },
+  {
     "address": "313 DEVALCOURT ST",
     "city": "LAFAYETTE",
     "time": "08/05/2020 - 1:41 PM",
