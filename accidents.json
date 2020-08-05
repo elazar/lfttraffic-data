@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "UPA DR & OAK CREST DR",
+    "city": "LAFAYETTE",
+    "time": "08/05/2020 - 01:19 AM",
+    "due_to": "Hazardous Situation",
+    "latitude": 30.2083,
+    "longitude": -92.02472
+  }
+]
