@@ -1,5 +1,13 @@
 [
   {
+    "address": "612 BEAU PRE RD",
+    "city": "LAFAYETTE",
+    "time": "08/05/2020 - 08:10 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17637,
+    "longitude": -91.98611
+  },
+  {
     "address": "600 W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "08/05/2020 - 07:52 AM",
