@@ -1,19 +1,27 @@
 [
   {
+    "address": "JEFFERSON ST & GARFIELD ST",
+    "city": "LAFAYETTE",
+    "time": "08/05/2020 - 6:10 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2266,
+    "longitude": -92.01743
+  },
+  {
+    "address": "112 CHESTER ST",
+    "city": "LAFAYETTE",
+    "time": "08/05/2020 - 6:10 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.24717,
+    "longitude": -92.0044
+  },
+  {
     "address": "ALBERTSON PW & S BERNARD RD",
     "city": "BROUSSARD",
     "time": "08/05/2020 - 6:09 PM",
     "due_to": "Road Hazard",
     "latitude": 30.15654,
     "longitude": -91.97409
-  },
-  {
-    "address": "CHESTER ST & MATTHIEU ST",
-    "city": "LAFAYETTE",
-    "time": "08/05/2020 - 6:08 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.24829,
-    "longitude": -92.00453
   },
   {
     "address": "YOUNGSVILLE HW & AMBASSADOR CAFFERY PW",
