@@ -1,5 +1,13 @@
 [
   {
+    "address": "5500 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "08/05/2020 - 11:54 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19908,
+    "longitude": -92.11743
+  },
+  {
     "address": "1320 WALKER RD",
     "city": "LAFAYETTE",
     "time": "08/05/2020 - 11:46 AM",
