@@ -1,5 +1,13 @@
 [
   {
+    "address": "8831 CAMERON ST",
+    "city": "DUSON",
+    "time": "08/05/2020 - 5:36 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2349851,
+    "longitude": -92.1790545
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & BONIN RD",
     "city": "YOUNGSVILLE",
     "time": "08/05/2020 - 5:29 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.13538,
     "longitude": -91.98957
-  },
-  {
-    "address": "E PINHOOK RD & SE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "08/05/2020 - 5:09 PM",
-    "due_to": "Hazardous Situation",
-    "latitude": 30.21749,
-    "longitude": -92.00495
   },
   {
     "address": "1100 ROBLEY DR",
