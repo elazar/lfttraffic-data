@@ -1,5 +1,13 @@
 [
   {
+    "address": "E KALISTE SALOOM RD & RAILROAD TRACKS",
+    "city": "LAFAYETTE",
+    "time": "08/05/2020 - 12:49 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.19538,
+    "longitude": -92.00655
+  },
+  {
     "address": "100 E KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "08/05/2020 - 12:41 PM",
