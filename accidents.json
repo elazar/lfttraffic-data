@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1200 BONIN RD",
+    "city": "BROUSSARD",
+    "time": "08/05/2020 - 03:16 AM",
+    "due_to": "Hazard",
+    "latitude": 30.1436779,
+    "longitude": -92.0078756
+  }
+]
