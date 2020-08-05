@@ -1,5 +1,13 @@
 [
   {
+    "address": "BERTRAND DR & BANKS AV",
+    "city": "LAFAYETTE",
+    "time": "08/05/2020 - 12:28 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2271,
+    "longitude": -92.06076
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & ROBLEY DR",
     "city": "LAFAYETTE",
     "time": "08/05/2020 - 12:18 PM",
@@ -24,12 +32,12 @@
     "longitude": -92.0484819
   },
   {
-    "address": "3201 KALISTE SALOOM RD",
+    "address": "3600 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "08/05/2020 - 11:37 AM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.14718,
-    "longitude": -92.05637
+    "latitude": 30.14068,
+    "longitude": -92.06221
   },
   {
     "address": "2800 SE EVANGELINE TW",
