@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.2657,
     "longitude": -91.99574
-  },
-  {
-    "address": "97 I10 EASTBOUND MM97 HW",
-    "city": "LAFAYETTE",
-    "time": "08/06/2020 - 3:00 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": null,
-    "longitude": null
   }
 ]
