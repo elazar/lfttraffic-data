@@ -1,5 +1,13 @@
 [
   {
+    "address": "N GIROUARD RD & US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "08/05/2020 - 7:22 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.14877,
+    "longitude": -91.94905
+  },
+  {
     "address": "N ST ANTOINE ST & W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "08/05/2020 - 7:10 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15649,
     "longitude": -92.04838
-  },
-  {
-    "address": "GUILBEAU RD & JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "08/05/2020 - 6:20 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19375,
-    "longitude": -92.0586
   },
   {
     "address": "200 FELONISE ST",
