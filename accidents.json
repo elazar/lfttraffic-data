@@ -1,9 +1,17 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "08/05/2020 - 7:09 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15649,
+    "longitude": -92.04838
+  },
+  {
     "address": "4000 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "08/05/2020 - 7:02 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Stalled Vehicle",
     "latitude": 30.19824,
     "longitude": -92.07087
   },
