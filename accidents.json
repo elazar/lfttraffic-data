@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19178,
     "longitude": -92.02082
-  },
-  {
-    "address": "W MAIN ST & CLARA ST",
-    "city": "BROUSSARD",
-    "time": "08/06/2020 - 08:07 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.14888,
-    "longitude": -91.96861
   }
 ]
