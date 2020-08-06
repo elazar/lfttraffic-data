@@ -1,5 +1,13 @@
 [
   {
+    "address": "N ST ANTOINE ST & W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "08/05/2020 - 7:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24558,
+    "longitude": -92.02342
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "08/05/2020 - 7:09 PM",
@@ -14,22 +22,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.19824,
     "longitude": -92.07087
-  },
-  {
-    "address": "246 SHANTEL RD",
-    "city": "LAFAYETTE",
-    "time": "08/05/2020 - 6:48 PM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.27528,
-    "longitude": -92.06635
-  },
-  {
-    "address": "210 E CLINTON ST",
-    "city": "LAFAYETTE",
-    "time": "08/05/2020 - 6:32 PM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.21841,
-    "longitude": -92.00788
   },
   {
     "address": "GUILBEAU RD & JOHNSTON ST",
