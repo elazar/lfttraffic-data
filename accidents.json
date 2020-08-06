@@ -1,5 +1,13 @@
 [
   {
+    "address": "314 BEVERLY DR",
+    "city": "LAFAYETTE",
+    "time": "08/06/2020 - 10:20 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19178,
+    "longitude": -92.02082
+  },
+  {
     "address": "I10 WESTBOUND MM102 HW & N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "08/06/2020 - 10:14 AM",
