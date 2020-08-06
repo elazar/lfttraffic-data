@@ -1,5 +1,13 @@
 [
   {
+    "address": "RENA DR & JOHNSTON DR",
+    "city": "LAFAYETTE",
+    "time": "08/06/2020 - 10:53 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19435,
+    "longitude": -92.05813
+  },
+  {
     "address": "721 LEBESQUE RD",
     "city": "SCOTT",
     "time": "08/06/2020 - 10:46 AM",
