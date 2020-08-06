@@ -1,5 +1,13 @@
 [
   {
+    "address": "800 S BUCHANAN ST",
+    "city": "LAFAYETTE",
+    "time": "08/06/2020 - 12:37 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22289,
+    "longitude": -92.02033
+  },
+  {
     "address": "100 CHAPPUIS DR",
     "city": "LAFAYETTE",
     "time": "08/06/2020 - 12:25 PM",
