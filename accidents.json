@@ -1,5 +1,13 @@
 [
   {
+    "address": "S DOMINGUE AV & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "08/05/2020 - 7:49 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.19586,
+    "longitude": -92.08353
+  },
+  {
     "address": "600 E KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "08/05/2020 - 7:32 PM",
