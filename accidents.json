@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 CHAPPUIS DR",
+    "city": "LAFAYETTE",
+    "time": "08/06/2020 - 12:25 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2410919,
+    "longitude": -92.0071271
+  },
+  {
     "address": "W GLORIA SWITCH RD & N UNIVERSITY AV",
     "city": "CARENCRO",
     "time": "08/06/2020 - 12:03 PM",
