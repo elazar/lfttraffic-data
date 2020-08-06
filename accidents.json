@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & W PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "08/06/2020 - 3:22 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.27587,
+    "longitude": -92.04949
+  },
+  {
     "address": "913 BREAUX RD",
     "city": "LAFAYETTE",
     "time": "08/06/2020 - 3:21 PM",
