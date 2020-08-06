@@ -1,5 +1,13 @@
 [
   {
+    "address": "NW EVANGELINE TW & BELLOT ST",
+    "city": "LAFAYETTE",
+    "time": "08/06/2020 - 12:56 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23646,
+    "longitude": -92.01352
+  },
+  {
     "address": "1500 W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "08/06/2020 - 12:53 PM",
