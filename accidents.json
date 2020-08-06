@@ -1,19 +1,19 @@
 [
   {
-    "address": "314 BEVERLY DR",
-    "city": "LAFAYETTE",
-    "time": "08/06/2020 - 10:20 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19178,
-    "longitude": -92.02082
-  },
-  {
     "address": "I10 WESTBOUND MM102 HW & N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "08/06/2020 - 10:14 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.24052,
     "longitude": -92.03242
+  },
+  {
+    "address": "MAPLE DR & ALYENE DR",
+    "city": "LAFAYETTE",
+    "time": "08/06/2020 - 10:06 AM",
+    "due_to": "Hazard",
+    "latitude": 30.1944,
+    "longitude": -92.07099
   },
   {
     "address": "JOHNSTON ST & RIDGE RD",
