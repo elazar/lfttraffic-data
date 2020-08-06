@@ -1,5 +1,13 @@
 [
   {
+    "address": "97 I10 EASTBOUND MM97 HW",
+    "city": "LAFAYETTE",
+    "time": "08/06/2020 - 3:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "address": "BERTRAND DR & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/06/2020 - 1:57 PM",
