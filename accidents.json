@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "200 BRIDGEWAY DR",
+    "city": "LAFAYETTE",
+    "time": "08/06/2020 - 04:40 AM",
+    "due_to": "Hazardous Situation",
+    "latitude": 30.21464,
+    "longitude": -92.06032
+  }
+]
