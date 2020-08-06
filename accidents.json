@@ -1,5 +1,13 @@
 [
   {
+    "address": "406 SILKWOOD ST",
+    "city": "LAFAYETTE",
+    "time": "08/06/2020 - 4:35 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23037,
+    "longitude": -92.03155
+  },
+  {
     "address": "3559 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/06/2020 - 4:05 PM",
