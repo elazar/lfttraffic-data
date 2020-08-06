@@ -1,5 +1,13 @@
 [
   {
+    "address": "913 BREAUX RD",
+    "city": "LAFAYETTE",
+    "time": "08/06/2020 - 3:21 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.15384,
+    "longitude": -92.11772
+  },
+  {
     "address": "97 I10 EASTBOUND MM97 HW",
     "city": "LAFAYETTE",
     "time": "08/06/2020 - 3:00 PM",
