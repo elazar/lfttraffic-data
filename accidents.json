@@ -1,5 +1,21 @@
 [
   {
+    "address": "LOUISIANA AV & E ALEXANDER ST",
+    "city": "LAFAYETTE",
+    "time": "08/06/2020 - 4:42 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25511,
+    "longitude": -91.99944
+  },
+  {
+    "address": "JOHNSTON ST & W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "08/06/2020 - 4:42 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21729,
+    "longitude": -92.01902
+  },
+  {
     "address": "406 SILKWOOD ST",
     "city": "LAFAYETTE",
     "time": "08/06/2020 - 4:35 PM",
