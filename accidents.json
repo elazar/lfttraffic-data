@@ -1,5 +1,13 @@
 [
   {
+    "address": "204 RIESLING CL",
+    "city": "BROUSSARD",
+    "time": "08/06/2020 - 01:00 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.16304,
+    "longitude": -91.96116
+  },
+  {
     "address": "1700 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "08/05/2020 - 11:46 PM",
