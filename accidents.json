@@ -1,5 +1,21 @@
 [
   {
+    "address": "317 GUILBEAU RD",
+    "city": "LAFAYETTE",
+    "time": "08/06/2020 - 5:17 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.19478,
+    "longitude": -92.06642
+  },
+  {
+    "address": "317 GUILBEAU RD",
+    "city": "LAFAYETTE",
+    "time": "08/06/2020 - 5:17 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19478,
+    "longitude": -92.06642
+  },
+  {
     "address": "W SECOND ST & W GRANT ST",
     "city": "LAFAYETTE",
     "time": "08/06/2020 - 4:52 PM",
