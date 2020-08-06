@@ -1,5 +1,13 @@
 [
   {
+    "address": "208 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "08/06/2020 - 08:58 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24213,
+    "longitude": -92.06669
+  },
+  {
     "address": "1373 S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "08/06/2020 - 08:30 AM",
