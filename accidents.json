@@ -1,5 +1,13 @@
 [
   {
+    "address": "E UNIVERSITY AV & LAMAR ST",
+    "city": "LAFAYETTE",
+    "time": "08/05/2020 - 10:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21527,
+    "longitude": -92.01626
+  },
+  {
     "address": "405 E UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "08/05/2020 - 10:48 PM",
