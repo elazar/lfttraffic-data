@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 MILLCREEK RD",
+    "city": "LAFAYETTE",
+    "time": "08/07/2020 - 10:54 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1317,
+    "longitude": -92.03355
+  },
+  {
     "address": "300 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "08/07/2020 - 09:21 AM",
