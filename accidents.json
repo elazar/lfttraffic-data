@@ -40,36 +40,12 @@
     "longitude": -92.0765
   },
   {
-    "address": "1004 SURREY ST",
-    "city": "LAFAYETTE",
-    "time": "08/07/2020 - 3:26 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2251,
-    "longitude": -92.00082
-  },
-  {
-    "address": "3810 NE EVANGELINE TW",
-    "city": "CARENCRO",
-    "time": "08/07/2020 - 3:21 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.31876,
-    "longitude": -92.03205
-  },
-  {
     "address": "100 WESTGATE RD",
     "city": "SCOTT",
     "time": "08/07/2020 - 3:11 PM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.2323757,
     "longitude": -92.0872249
-  },
-  {
-    "address": "803 E MAIN ST",
-    "city": "BROUSSARD",
-    "time": "08/07/2020 - 2:57 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1449897,
-    "longitude": -91.9536122
   },
   {
     "address": "2428 W PINHOOK RD",
