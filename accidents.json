@@ -1,5 +1,13 @@
 [
   {
+    "address": "1004 SURREY ST",
+    "city": "LAFAYETTE",
+    "time": "08/07/2020 - 3:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2251,
+    "longitude": -92.00082
+  },
+  {
     "address": "3810 NE EVANGELINE TW",
     "city": "CARENCRO",
     "time": "08/07/2020 - 3:21 PM",
