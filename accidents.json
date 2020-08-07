@@ -1,5 +1,13 @@
 [
   {
+    "address": "620 MCKINLEY ST",
+    "city": "LAFAYETTE",
+    "time": "08/06/2020 - 9:15 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.21307,
+    "longitude": -92.01733
+  },
+  {
     "address": "LOUISIANA AV & LAUREL ST",
     "city": "LAFAYETTE",
     "time": "08/06/2020 - 8:20 PM",
