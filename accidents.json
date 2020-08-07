@@ -1,5 +1,21 @@
 [
   {
+    "address": "101 I10 WESTBOUND MM101 HW",
+    "city": "LAFAYETTE",
+    "time": "08/07/2020 - 4:55 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
+    "address": "101 FIELD CREST PW",
+    "city": "YOUNGSVILLE",
+    "time": "08/07/2020 - 4:55 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1095,
+    "longitude": -92.01125
+  },
+  {
     "address": "500 PARKLANE RD",
     "city": "LAFAYETTE",
     "time": "08/07/2020 - 4:38 PM",
