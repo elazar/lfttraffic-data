@@ -1,5 +1,13 @@
 [
   {
+    "address": "4313 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "08/07/2020 - 3:41 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.15909,
+    "longitude": -92.05066
+  },
+  {
     "address": "627 LAFAYETTE ST",
     "city": "YOUNGSVILLE",
     "time": "08/07/2020 - 3:36 PM",
@@ -62,13 +70,5 @@
     "due_to": "Fire Investigation",
     "latitude": 30.17846,
     "longitude": -92.00551
-  },
-  {
-    "address": "3630 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "08/07/2020 - 2:37 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17372,
-    "longitude": -92.06992
   }
 ]
