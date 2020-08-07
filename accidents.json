@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "W GLORIA SWITCH RD & FINESSE RD",
+    "city": "LAFAYETTE",
+    "time": "08/06/2020 - 7:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29799,
+    "longitude": -92.11312
+  }
+]
