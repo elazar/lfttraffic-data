@@ -1,5 +1,13 @@
 [
   {
+    "address": "1000 RENAUD DR",
+    "city": "LAFAYETTE",
+    "time": "08/06/2020 - 9:26 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.25424,
+    "longitude": -92.06083
+  },
+  {
     "address": "LOUISIANA AV & LAUREL ST",
     "city": "LAFAYETTE",
     "time": "08/06/2020 - 8:20 PM",
