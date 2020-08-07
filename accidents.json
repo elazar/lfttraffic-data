@@ -1,5 +1,13 @@
 [
   {
+    "address": "803 E MAIN ST",
+    "city": "BROUSSARD",
+    "time": "08/07/2020 - 2:57 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1449897,
+    "longitude": -91.9536122
+  },
+  {
     "address": "2428 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "08/07/2020 - 2:39 PM",
