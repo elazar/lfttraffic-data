@@ -1,5 +1,13 @@
 [
   {
+    "address": "500 PARKLANE RD",
+    "city": "LAFAYETTE",
+    "time": "08/07/2020 - 4:38 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.3,
+    "longitude": -91.99657
+  },
+  {
     "address": "W PINHOOK RD & E UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "08/07/2020 - 4:21 PM",
