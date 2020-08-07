@@ -1,5 +1,13 @@
 [
   {
+    "address": "504 GUILBEAU RD",
+    "city": "LAFAYETTE",
+    "time": "08/07/2020 - 12:20 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.19921,
+    "longitude": -92.07145
+  },
+  {
     "address": "1300 WESTGATE RD",
     "city": "SCOTT",
     "time": "08/07/2020 - 12:18 PM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.19878,
     "longitude": -92.0692
-  },
-  {
-    "address": "504 GUILBEAU RD",
-    "city": "LAFAYETTE",
-    "time": "08/07/2020 - 12:00 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19921,
-    "longitude": -92.07145
   },
   {
     "address": "AMBASSADOR CAFFERY PW & SETTLERS TRACE BL",
