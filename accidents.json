@@ -1,5 +1,21 @@
 [
   {
+    "address": "3 I49 SOUTHBOUND MM3 HW",
+    "city": "CARENCRO",
+    "time": "08/07/2020 - 12:00 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.31396,
+    "longitude": -92.03118
+  },
+  {
+    "address": "504 GUILBEAU RD",
+    "city": "LAFAYETTE",
+    "time": "08/07/2020 - 12:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19921,
+    "longitude": -92.07145
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & SETTLERS TRACE BL",
     "city": "LAFAYETTE",
     "time": "08/07/2020 - 11:59 AM",
