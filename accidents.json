@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2106,
     "longitude": -92.10832
-  },
-  {
-    "address": "1000 RENAUD DR",
-    "city": "LAFAYETTE",
-    "time": "08/06/2020 - 9:26 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.25424,
-    "longitude": -92.06083
   }
 ]
