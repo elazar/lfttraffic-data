@@ -1,5 +1,13 @@
 [
   {
+    "address": "101 ASHFORD LN",
+    "city": "LAFAYETTE",
+    "time": "08/07/2020 - 07:19 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.11779,
+    "longitude": -92.0155
+  },
+  {
     "address": "CHEMIN METAIRIE & ASHFORD LN",
     "city": "YOUNGSVILLE",
     "time": "08/07/2020 - 07:17 AM",
