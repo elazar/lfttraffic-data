@@ -1,5 +1,13 @@
 [
   {
+    "address": "206 KING ARTHURS WAY",
+    "city": "LAFAYETTE",
+    "time": "08/07/2020 - 4:00 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.10688,
+    "longitude": -92.05824
+  },
+  {
     "address": "W WILLOW ST & NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "08/07/2020 - 3:59 PM",
