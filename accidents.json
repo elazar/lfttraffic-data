@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "2420 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "08/07/2020 - 01:05 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.17976,
+    "longitude": -92.00429
+  }
+]
