@@ -46,5 +46,13 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15969,
     "longitude": -92.05229
+  },
+  {
+    "address": "805 BEVERLY DR",
+    "city": "LAFAYETTE",
+    "time": "08/07/2020 - 11:30 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20051,
+    "longitude": -92.02073
   }
 ]
