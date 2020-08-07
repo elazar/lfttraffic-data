@@ -1,5 +1,13 @@
 [
   {
+    "address": "1809 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "08/07/2020 - 6:41 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19232,
+    "longitude": -92.01526
+  },
+  {
     "address": "E PINHOOK RD & S MAGNOLIA ST",
     "city": "LAFAYETTE",
     "time": "08/07/2020 - 6:31 PM",
