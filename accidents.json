@@ -1,19 +1,19 @@
 [
   {
+    "address": "2300 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "08/07/2020 - 12:29 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2104321,
+    "longitude": -92.0758249
+  },
+  {
     "address": "504 GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "08/07/2020 - 12:20 PM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.19921,
     "longitude": -92.07145
-  },
-  {
-    "address": "1300 WESTGATE RD",
-    "city": "SCOTT",
-    "time": "08/07/2020 - 12:18 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.2153314,
-    "longitude": -92.0871249
   },
   {
     "address": "JOLI RD & CANKTON RD",
