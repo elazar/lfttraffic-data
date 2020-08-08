@@ -1,5 +1,13 @@
 [
   {
+    "address": "217 BRADFORD DR",
+    "city": "CARENCRO",
+    "time": "08/08/2020 - 2:17 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.31788,
+    "longitude": -92.05842
+  },
+  {
     "address": "200 THEATRE ST",
     "city": "LAFAYETTE",
     "time": "08/08/2020 - 2:07 PM",
