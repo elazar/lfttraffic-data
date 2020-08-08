@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "JOHNSTON ST & CAJUNDOME BL",
+    "city": "LAFAYETTE",
+    "time": "08/08/2020 - 07:57 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20919,
+    "longitude": -92.0338
+  }
+]
