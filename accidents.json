@@ -2,6 +2,14 @@
   {
     "address": "CAMELLIA BL & SILVERSTONE RD",
     "city": "LAFAYETTE",
+    "time": "08/08/2020 - 10:24 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.17311,
+    "longitude": -92.04017
+  },
+  {
+    "address": "CAMELLIA BL & SILVERSTONE RD",
+    "city": "LAFAYETTE",
     "time": "08/08/2020 - 10:23 AM",
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.17311,
