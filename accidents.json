@@ -1,5 +1,13 @@
 [
   {
+    "address": "5620 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/08/2020 - 1:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1779,
+    "longitude": -92.07559
+  },
+  {
     "address": "107 HECTOR CONNOLY RD",
     "city": "CARENCRO",
     "time": "08/08/2020 - 1:22 PM",
