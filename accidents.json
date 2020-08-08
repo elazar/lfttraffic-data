@@ -1,5 +1,13 @@
 [
   {
+    "address": "1020 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "08/08/2020 - 11:05 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23689,
+    "longitude": -92.01261
+  },
+  {
     "address": "FORTUNE RD & BONIN RD",
     "city": "YOUNGSVILLE",
     "time": "08/08/2020 - 10:08 AM",
