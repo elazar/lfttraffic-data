@@ -1,5 +1,21 @@
 [
   {
+    "address": "CAMELLIA BL & SILVERSTONE RD",
+    "city": "LAFAYETTE",
+    "time": "08/08/2020 - 10:23 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.17311,
+    "longitude": -92.04017
+  },
+  {
+    "address": "2810 BONIN RD",
+    "city": "YOUNGSVILLE",
+    "time": "08/08/2020 - 10:23 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.10388,
+    "longitude": -92.00776
+  },
+  {
     "address": "2810 BONIN RD",
     "city": "YOUNGSVILLE",
     "time": "08/08/2020 - 10:21 AM",
