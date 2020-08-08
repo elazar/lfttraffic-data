@@ -1,5 +1,13 @@
 [
   {
+    "address": "1400 N BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "08/08/2020 - 04:32 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.22402,
+    "longitude": -92.0514
+  },
+  {
     "address": "100 GENDARME RD",
     "city": "LAFAYETTE",
     "time": "08/08/2020 - 04:16 AM",
