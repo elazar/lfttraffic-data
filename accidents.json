@@ -1,5 +1,13 @@
 [
   {
+    "address": "BONIN RD & AL PEARSON RD",
+    "city": "LAFAYETTE",
+    "time": "08/08/2020 - 3:43 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.15799,
+    "longitude": -92.00089
+  },
+  {
     "address": "104 I10 WESTBOUND MM104 HW",
     "city": "LAFAYETTE",
     "time": "08/08/2020 - 3:40 PM",
