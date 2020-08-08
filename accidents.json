@@ -1,5 +1,13 @@
 [
   {
+    "address": "FORTUNE RD & BONIN RD",
+    "city": "YOUNGSVILLE",
+    "time": "08/08/2020 - 10:08 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.12376,
+    "longitude": -92.02002
+  },
+  {
     "address": "200 MERCHANTS BL",
     "city": "LAFAYETTE",
     "time": "08/08/2020 - 09:31 AM",
