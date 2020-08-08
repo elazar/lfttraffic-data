@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "W UNIVERSITY AV & OAKLAWN AV",
+    "city": "LAFAYETTE",
+    "time": "08/07/2020 - 10:07 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22754,
+    "longitude": -92.02923
+  }
+]
