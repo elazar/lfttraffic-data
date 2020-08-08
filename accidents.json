@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 TUCKER DR",
+    "city": "LAFAYETTE",
+    "time": "08/08/2020 - 11:36 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1749183,
+    "longitude": -92.0711078
+  },
+  {
     "address": "1020 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "08/08/2020 - 11:05 AM",
