@@ -1,5 +1,13 @@
 [
   {
+    "address": "3200 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "08/08/2020 - 3:08 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26436,
+    "longitude": -91.9926
+  },
+  {
     "address": "W CONGRESS ST & FOREMAN DR",
     "city": "LAFAYETTE",
     "time": "08/08/2020 - 2:58 PM",
