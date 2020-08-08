@@ -1,5 +1,13 @@
 [
   {
+    "address": "2700 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "08/07/2020 - 7:36 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1546036,
+    "longitude": -92.0503988
+  },
+  {
     "address": "100 CASTILLE AV",
     "city": "LAFAYETTE",
     "time": "08/07/2020 - 6:57 PM",
