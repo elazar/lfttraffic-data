@@ -1,5 +1,13 @@
 [
   {
+    "address": "112 WINSOR DR",
+    "city": "LAFAYETTE",
+    "time": "08/08/2020 - 08:27 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27175,
+    "longitude": -92.00117
+  },
+  {
     "address": "TEURLINGS DR & WEBB ST",
     "city": "LAFAYETTE",
     "time": "08/08/2020 - 08:22 AM",
