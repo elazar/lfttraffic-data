@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "200 MERCHANTS BL",
+    "city": "LAFAYETTE",
+    "time": "08/08/2020 - 09:31 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17259,
+    "longitude": -92.00349
+  }
+]
