@@ -1,5 +1,21 @@
 [
   {
+    "address": "2900 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "08/08/2020 - 2:35 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1957392,
+    "longitude": -92.0753655
+  },
+  {
+    "address": "VEROT SCHOOL RD & RURAL ST",
+    "city": "LAFAYETTE",
+    "time": "08/08/2020 - 2:35 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17502,
+    "longitude": -92.00734
+  },
+  {
     "address": "E ALEXANDER ST & TEURLINGS DR",
     "city": "LAFAYETTE",
     "time": "08/08/2020 - 2:34 PM",
