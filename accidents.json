@@ -1,5 +1,21 @@
 [
   {
+    "address": "W CONGRESS ST & FOREMAN DR",
+    "city": "LAFAYETTE",
+    "time": "08/08/2020 - 2:58 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20729,
+    "longitude": -92.05656
+  },
+  {
+    "address": "W CONGRESS ST & FOREMAN DR",
+    "city": "LAFAYETTE",
+    "time": "08/08/2020 - 2:58 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.20729,
+    "longitude": -92.05656
+  },
+  {
     "address": "LOUISIANA AV & MARYVIEW FARM RD",
     "city": "LAFAYETTE",
     "time": "08/08/2020 - 2:56 PM",
@@ -62,13 +78,5 @@
     "due_to": "Wire Hazard",
     "latitude": 30.25402,
     "longitude": -91.98977
-  },
-  {
-    "address": "5620 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "08/08/2020 - 1:33 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1779,
-    "longitude": -92.07559
   }
 ]
