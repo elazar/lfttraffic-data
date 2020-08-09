@@ -1,5 +1,13 @@
 [
   {
+    "address": "486 LA 93 HW",
+    "city": "SCOTT",
+    "time": "08/09/2020 - 12:36 PM",
+    "due_to": "Grass Fire",
+    "latitude": 30.2574832,
+    "longitude": -92.1079851
+  },
+  {
     "address": "97 I10 WESTBOUND MM97 HW",
     "city": "LAFAYETTE",
     "time": "08/09/2020 - 12:30 PM",
