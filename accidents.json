@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 LOCKETT PL",
+    "city": "LAFAYETTE",
+    "time": "08/09/2020 - 12:03 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2311449,
+    "longitude": -92.0628084
+  },
+  {
     "address": "400 AUSTRIA RD",
     "city": "DUSON",
     "time": "08/08/2020 - 11:59 PM",
