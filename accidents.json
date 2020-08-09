@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15321,
     "longitude": -92.04515
-  },
-  {
-    "address": "ALFRED ST & ST MARY ST",
-    "city": "SCOTT",
-    "time": "08/09/2020 - 11:50 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.23434,
-    "longitude": -92.09387
   }
 ]
