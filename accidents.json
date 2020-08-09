@@ -1,5 +1,13 @@
 [
   {
+    "address": "E UNIVERSITY AV & ROOSEVELT ST",
+    "city": "LAFAYETTE",
+    "time": "08/08/2020 - 10:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2136,
+    "longitude": -92.01401
+  },
+  {
     "address": "433 DAFFODIL LP",
     "city": "LAFAYETTE",
     "time": "08/08/2020 - 10:02 PM",
