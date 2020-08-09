@@ -1,5 +1,13 @@
 [
   {
+    "address": "S FIELDSPAN RD & JENKINS RD",
+    "city": "LAFAYETTE",
+    "time": "08/09/2020 - 3:15 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.22102,
+    "longitude": -92.14205
+  },
+  {
     "address": "JOHNSTON ST & SEARS DR",
     "city": "LAFAYETTE",
     "time": "08/09/2020 - 3:13 PM",
