@@ -1,5 +1,13 @@
 [
   {
+    "address": "1600 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "08/09/2020 - 2:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24644,
+    "longitude": -92.00577
+  },
+  {
     "address": "1100 RENAUD DR",
     "city": "LAFAYETTE",
     "time": "08/09/2020 - 1:56 PM",
