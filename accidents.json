@@ -1,5 +1,13 @@
 [
   {
+    "address": "1117 DUGAS RD",
+    "city": "LAFAYETTE",
+    "time": "08/08/2020 - 7:15 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.283,
+    "longitude": -92.08465
+  },
+  {
     "address": "4801 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/08/2020 - 6:48 PM",
