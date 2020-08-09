@@ -6,13 +6,5 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.23434,
     "longitude": -92.09387
-  },
-  {
-    "address": "624 LAFAYETTE ST",
-    "city": "YOUNGSVILLE",
-    "time": "08/09/2020 - 11:48 AM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.10799,
-    "longitude": -91.99
   }
 ]
