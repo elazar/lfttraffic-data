@@ -1,5 +1,13 @@
 [
   {
+    "address": "2916 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "08/10/2020 - 4:35 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.28223,
+    "longitude": -92.0455
+  },
+  {
     "address": "CAMELLIA BL & MOUNT VERNON DR",
     "city": "LAFAYETTE",
     "time": "08/10/2020 - 4:19 PM",
