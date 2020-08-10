@@ -1,5 +1,13 @@
 [
   {
+    "address": "NE EVANGELINE TW & E GLORIA SWITCH RD",
+    "city": "LAFAYETTE",
+    "time": "08/10/2020 - 11:12 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2955,
+    "longitude": -92.02362
+  },
+  {
     "address": "CARMEL DR & OVEY ST",
     "city": "LAFAYETTE",
     "time": "08/10/2020 - 11:11 AM",
@@ -14,13 +22,5 @@
     "due_to": "Hazard",
     "latitude": 30.22258,
     "longitude": -92.00735
-  },
-  {
-    "address": "109 MCARTHUR CT",
-    "city": "BROUSSARD",
-    "time": "08/10/2020 - 10:00 AM",
-    "due_to": "Hazardous Situation",
-    "latitude": null,
-    "longitude": null
   }
 ]
