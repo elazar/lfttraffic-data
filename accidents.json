@@ -1,5 +1,21 @@
 [
   {
+    "address": "1800 CHEMIN METAIRIE PW",
+    "city": "YOUNGSVILLE",
+    "time": "08/10/2020 - 12:14 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.1046,
+    "longitude": -92.01597
+  },
+  {
+    "address": "4120 NE EVANGELINE TW",
+    "city": "CARENCRO",
+    "time": "08/10/2020 - 12:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.3296006,
+    "longitude": -92.0370776
+  },
+  {
     "address": "KALISTE SALOOM RD & CAMELLIA BL",
     "city": "LAFAYETTE",
     "time": "08/10/2020 - 12:12 PM",
