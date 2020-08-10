@@ -1,5 +1,13 @@
 [
   {
+    "address": "3142 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "08/10/2020 - 1:08 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1873,
+    "longitude": -92.07797
+  },
+  {
     "address": "1700 RUE DU BELIER",
     "city": "LAFAYETTE",
     "time": "08/10/2020 - 12:54 PM",
