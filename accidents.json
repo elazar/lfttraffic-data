@@ -16,12 +16,12 @@
     "longitude": -92.01626
   },
   {
-    "address": "W PINHOOK RD & BEAU PRE RD",
+    "address": "1100 BONIN RD",
     "city": "LAFAYETTE",
     "time": "08/10/2020 - 11:50 AM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.16563,
-    "longitude": -91.99797
+    "latitude": 30.1447252,
+    "longitude": -92.0078649
   },
   {
     "address": "2314 KALISTE SALOOM RD",
@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16145,
     "longitude": -92.04364
-  },
-  {
-    "address": "CARMEL DR & OVEY ST",
-    "city": "LAFAYETTE",
-    "time": "08/10/2020 - 11:11 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23328,
-    "longitude": -91.99175
   }
 ]
