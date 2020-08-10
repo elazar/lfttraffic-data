@@ -1,5 +1,13 @@
 [
   {
+    "address": "1100 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "08/10/2020 - 08:07 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24542,
+    "longitude": -92.03037
+  },
+  {
     "address": "W UNIVERSITY AV & LEE AV",
     "city": "LAFAYETTE",
     "time": "08/10/2020 - 07:39 AM",
