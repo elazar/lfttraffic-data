@@ -1,5 +1,13 @@
 [
   {
+    "address": "1700 RUE DU BELIER",
+    "city": "LAFAYETTE",
+    "time": "08/10/2020 - 12:54 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16719,
+    "longitude": -92.0914349
+  },
+  {
     "address": "4120 NE EVANGELINE TW",
     "city": "CARENCRO",
     "time": "08/10/2020 - 12:14 PM",
