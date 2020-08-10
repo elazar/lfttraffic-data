@@ -1,5 +1,13 @@
 [
   {
+    "address": "1400 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "08/10/2020 - 12:57 PM",
+    "due_to": "Hazard",
+    "latitude": 30.2438934,
+    "longitude": -92.006205
+  },
+  {
     "address": "1700 RUE DU BELIER",
     "city": "LAFAYETTE",
     "time": "08/10/2020 - 12:54 PM",
