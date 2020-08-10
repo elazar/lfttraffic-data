@@ -1,5 +1,13 @@
 [
   {
+    "address": "109 MCARTHUR CT",
+    "city": "BROUSSARD",
+    "time": "08/10/2020 - 10:00 AM",
+    "due_to": "Hazardous Situation",
+    "latitude": null,
+    "longitude": null
+  },
+  {
     "address": "US 90 EAST HW & N SOUTHPARK RD",
     "city": "LAFAYETTE",
     "time": "08/10/2020 - 08:34 AM",
