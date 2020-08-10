@@ -1,5 +1,13 @@
 [
   {
+    "address": "W UNIVERSITY AV & LEE AV",
+    "city": "LAFAYETTE",
+    "time": "08/10/2020 - 07:39 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21849,
+    "longitude": -92.02057
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & VIVIAN DR",
     "city": "YOUNGSVILLE",
     "time": "08/10/2020 - 07:18 AM",
