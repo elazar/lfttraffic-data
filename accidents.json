@@ -1,5 +1,13 @@
 [
   {
+    "address": "3000 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "08/09/2020 - 8:56 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.13775,
+    "longitude": -92.03312
+  },
+  {
     "address": "115 HOGAN DR",
     "city": "LAFAYETTE",
     "time": "08/09/2020 - 8:29 PM",
