@@ -1,5 +1,13 @@
 [
   {
+    "address": "CARMEL DR & OVEY ST",
+    "city": "LAFAYETTE",
+    "time": "08/10/2020 - 11:11 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23328,
+    "longitude": -91.99175
+  },
+  {
     "address": "218 TWELFTH ST",
     "city": "LAFAYETTE",
     "time": "08/10/2020 - 11:07 AM",
