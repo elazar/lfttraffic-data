@@ -1,5 +1,13 @@
 [
   {
+    "address": "E PINHOOK RD & TEURLINGS DR",
+    "city": "LAFAYETTE",
+    "time": "08/10/2020 - 06:33 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23911,
+    "longitude": -91.98929
+  },
+  {
     "address": "LPD,",
     "city": "Lafayette",
     "time": "08/10/2020 - 05:20 AM",
