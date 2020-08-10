@@ -1,13 +1,5 @@
 [
   {
-    "address": "1400 MOSS ST",
-    "city": "LAFAYETTE",
-    "time": "08/10/2020 - 12:57 PM",
-    "due_to": "Hazard",
-    "latitude": 30.2438934,
-    "longitude": -92.006205
-  },
-  {
     "address": "1700 RUE DU BELIER",
     "city": "LAFAYETTE",
     "time": "08/10/2020 - 12:54 PM",
@@ -30,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21527,
     "longitude": -92.01626
-  },
-  {
-    "address": "1100 BONIN RD",
-    "city": "LAFAYETTE",
-    "time": "08/10/2020 - 11:50 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1447252,
-    "longitude": -92.0078649
   }
 ]
