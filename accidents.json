@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 STIRLING CENTER DR",
+    "city": "LAFAYETTE",
+    "time": "08/10/2020 - 12:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22966,
+    "longitude": -92.01009
+  },
+  {
     "address": "LAMAR ST & E UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "08/10/2020 - 12:04 PM",
