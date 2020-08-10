@@ -1,5 +1,13 @@
 [
   {
+    "address": "105 PARK WEST DR",
+    "city": "SCOTT",
+    "time": "08/10/2020 - 4:46 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24303,
+    "longitude": -92.10058
+  },
+  {
     "address": "W PINHOOK RD & JAMES COMEAUX RD",
     "city": "LAFAYETTE",
     "time": "08/10/2020 - 4:44 PM",
@@ -38,13 +46,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16252,
     "longitude": -92.08599
-  },
-  {
-    "address": "211 BELLE DAME DR",
-    "city": "LAFAYETTE",
-    "time": "08/10/2020 - 3:50 PM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.1873,
-    "longitude": -92.07005
   }
 ]
