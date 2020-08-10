@@ -1,5 +1,13 @@
 [
   {
+    "address": "NW FRONTAGE RD & CHALMETTE DR",
+    "city": "LAFAYETTE",
+    "time": "08/10/2020 - 09:11 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25191,
+    "longitude": -92.01425
+  },
+  {
     "address": "99 I10 WESTBOUND MM99 HW",
     "city": "SCOTT",
     "time": "08/10/2020 - 09:01 AM",
