@@ -1,5 +1,13 @@
 [
   {
+    "address": "321 E MUSIQUE RD",
+    "city": "LAFAYETTE",
+    "time": "08/10/2020 - 08:55 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.32501,
+    "longitude": -92.01583
+  },
+  {
     "address": "SE EVANGELINE TW & SIXTH ST",
     "city": "LAFAYETTE",
     "time": "08/10/2020 - 08:50 AM",
