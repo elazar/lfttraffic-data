@@ -1,5 +1,13 @@
 [
   {
+    "address": "800 S BUCHANAN ST",
+    "city": "LAFAYETTE",
+    "time": "08/10/2020 - 10:49 AM",
+    "due_to": "Fire Alarm-Unknown",
+    "latitude": 30.22289,
+    "longitude": -92.02033
+  },
+  {
     "address": "109 MCARTHUR CT",
     "city": "BROUSSARD",
     "time": "08/10/2020 - 10:00 AM",
