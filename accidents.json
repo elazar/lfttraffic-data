@@ -1,5 +1,13 @@
 [
   {
+    "address": "LAMAR ST & E UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "08/10/2020 - 12:04 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21527,
+    "longitude": -92.01626
+  },
+  {
     "address": "W PINHOOK RD & BEAU PRE RD",
     "city": "LAFAYETTE",
     "time": "08/10/2020 - 11:50 AM",
