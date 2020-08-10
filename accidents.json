@@ -1,5 +1,13 @@
 [
   {
+    "address": "4706 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "08/10/2020 - 3:54 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.1965,
+    "longitude": -92.08982
+  },
+  {
     "address": "5425 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/10/2020 - 3:51 PM",
