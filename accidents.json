@@ -1,11 +1,11 @@
 [
   {
-    "address": "800 S BUCHANAN ST",
+    "address": "218 TWELFTH ST",
     "city": "LAFAYETTE",
-    "time": "08/10/2020 - 10:49 AM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.22289,
-    "longitude": -92.02033
+    "time": "08/10/2020 - 11:07 AM",
+    "due_to": "Hazard",
+    "latitude": 30.22258,
+    "longitude": -92.00735
   },
   {
     "address": "109 MCARTHUR CT",
