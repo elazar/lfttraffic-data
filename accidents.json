@@ -1,5 +1,13 @@
 [
   {
+    "address": "PAT ST & E AMEDEE DR",
+    "city": "LAFAYETTE",
+    "time": "08/10/2020 - 8:11 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.2402,
+    "longitude": -92.05786
+  },
+  {
     "address": "300 MOSS ST",
     "city": "LAFAYETTE",
     "time": "08/10/2020 - 7:32 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.27333,
     "longitude": -92.0291
-  },
-  {
-    "address": "212 GUILBEAU RD",
-    "city": "LAFAYETTE",
-    "time": "08/10/2020 - 6:59 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.19574,
-    "longitude": -92.06226
   },
   {
     "address": "CAMELLIA BL & SETTLERS TRACE BL",
