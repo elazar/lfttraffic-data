@@ -1,5 +1,13 @@
 [
   {
+    "address": "4500 DECON RD",
+    "city": "LAFAYETTE",
+    "time": "08/10/2020 - 8:18 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.08632,
+    "longitude": -92.02416
+  },
+  {
     "address": "111 PAT ST",
     "city": "LAFAYETTE",
     "time": "08/10/2020 - 8:14 PM",
