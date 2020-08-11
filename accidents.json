@@ -1,5 +1,13 @@
 [
   {
+    "address": "4031 N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "08/11/2020 - 6:31 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.31166,
+    "longitude": -92.04989
+  },
+  {
     "address": "VETERANS DR & N UNIVERSITY AV",
     "city": "CARENCRO",
     "time": "08/11/2020 - 6:14 PM",
