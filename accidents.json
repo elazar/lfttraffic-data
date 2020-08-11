@@ -1,19 +1,19 @@
 [
   {
+    "address": "100 CARRIE ST",
+    "city": "LAFAYETTE",
+    "time": "08/11/2020 - 6:35 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.1498537,
+    "longitude": -92.0790924
+  },
+  {
     "address": "JOHNSTON ST & LANA DR",
     "city": "LAFAYETTE",
     "time": "08/11/2020 - 6:34 PM",
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.18888,
     "longitude": -92.06358
-  },
-  {
-    "address": "120 GREEN MEADOW RD",
-    "city": "LAFAYETTE",
-    "time": "08/11/2020 - 6:33 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.15085,
-    "longitude": -92.07896
   },
   {
     "address": "4031 N UNIVERSITY AV",
