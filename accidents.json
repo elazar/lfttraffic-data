@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "08/11/2020 - 4:26 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21493,
+    "longitude": -92.04696
+  },
+  {
     "address": "W PINHOOK RD & E UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "08/11/2020 - 4:24 PM",
