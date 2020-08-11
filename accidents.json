@@ -1,5 +1,13 @@
 [
   {
+    "address": "103 I10 WESTBOUND MM103A HW",
+    "city": "LAFAYETTE",
+    "time": "08/11/2020 - 5:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "330 FEU FOLLET RD",
     "city": "LAFAYETTE",
     "time": "08/11/2020 - 5:35 PM",
