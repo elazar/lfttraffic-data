@@ -1,18 +1,10 @@
 [
   {
-    "address": "200 S FIELDSPAN RD",
-    "city": "LAFAYETTE",
-    "time": "08/11/2020 - 3:17 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2443748,
-    "longitude": -92.1422925
-  },
-  {
-    "address": "2968 JOHNSTON ST",
+    "address": "2974 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/11/2020 - 1:54 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.20501,
-    "longitude": -92.04378
+    "latitude": 30.20483,
+    "longitude": -92.04344
   }
 ]
