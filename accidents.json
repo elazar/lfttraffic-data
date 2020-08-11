@@ -48,14 +48,6 @@
     "longitude": -92.00867
   },
   {
-    "address": "VEROT SCHOOL RD & E FARREL RD",
-    "city": "LAFAYETTE",
-    "time": "08/11/2020 - 4:32 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.14527,
-    "longitude": -92.03255
-  },
-  {
     "address": "W CONGRESS ST & BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "08/11/2020 - 4:26 PM",
@@ -70,13 +62,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18187,
     "longitude": -92.0695381
-  },
-  {
-    "address": "516 ERASTE LANDRY RD",
-    "city": "LAFAYETTE",
-    "time": "08/11/2020 - 4:00 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22744,
-    "longitude": -92.04868
   }
 ]
