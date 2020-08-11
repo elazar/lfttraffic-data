@@ -1,5 +1,13 @@
 [
   {
+    "address": "111 PAT ST",
+    "city": "LAFAYETTE",
+    "time": "08/10/2020 - 8:14 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.24267,
+    "longitude": -92.05799
+  },
+  {
     "address": "PAT ST & E AMEDEE DR",
     "city": "LAFAYETTE",
     "time": "08/10/2020 - 8:11 PM",
