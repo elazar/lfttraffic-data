@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "08/11/2020 - 4:16 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23252,
+    "longitude": -92.06264
+  },
+  {
     "address": "EMPIRE DR & BROADMOOR BL",
     "city": "LAFAYETTE",
     "time": "08/11/2020 - 4:15 PM",
