@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "08/11/2020 - 6:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17808,
+    "longitude": -92.07452
+  },
+  {
     "address": "103 I10 WESTBOUND MM103A HW",
     "city": "LAFAYETTE",
     "time": "08/11/2020 - 5:52 PM",
@@ -70,13 +78,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22744,
     "longitude": -92.04868
-  },
-  {
-    "address": "KALISTE SALOOM RD & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "08/11/2020 - 3:58 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15649,
-    "longitude": -92.04838
   }
 ]
