@@ -1,5 +1,13 @@
 [
   {
+    "address": "511 BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "08/11/2020 - 4:37 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21225,
+    "longitude": -92.04638
+  },
+  {
     "address": "VEROT SCHOOL RD & E FARREL RD",
     "city": "LAFAYETTE",
     "time": "08/11/2020 - 4:32 PM",
