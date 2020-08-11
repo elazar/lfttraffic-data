@@ -1,5 +1,13 @@
 [
   {
+    "address": "EMPIRE DR & BROADMOOR BL",
+    "city": "LAFAYETTE",
+    "time": "08/11/2020 - 4:15 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18121,
+    "longitude": -92.07006
+  },
+  {
     "address": "103 MARSH DR",
     "city": "LAFAYETTE",
     "time": "08/11/2020 - 4:02 PM",
