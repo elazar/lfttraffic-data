@@ -1,5 +1,13 @@
 [
   {
+    "address": "NE EVANGELINE TW & SAMPSON AV",
+    "city": "LAFAYETTE",
+    "time": "08/11/2020 - 07:59 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23458,
+    "longitude": -92.01252
+  },
+  {
     "address": "W MAIN ST & S JEFFERSON ST",
     "city": "BROUSSARD",
     "time": "08/11/2020 - 06:55 AM",
