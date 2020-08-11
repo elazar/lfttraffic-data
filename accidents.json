@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PONT DES MOUTON RD & BANISTER CT",
+    "city": "LAFAYETTE",
+    "time": "08/10/2020 - 7:15 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.27333,
+    "longitude": -92.0291
+  },
+  {
     "address": "212 GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "08/10/2020 - 6:59 PM",
