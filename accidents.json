@@ -1,5 +1,13 @@
 [
   {
+    "address": "W PINHOOK RD & VERMILION RIVER",
+    "city": "LAFAYETTE",
+    "time": "08/11/2020 - 12:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20365,
+    "longitude": -92.01381
+  },
+  {
     "address": "1800 CHEMIN METAIRIE PW",
     "city": "YOUNGSVILLE",
     "time": "08/11/2020 - 12:19 PM",
