@@ -1,5 +1,13 @@
 [
   {
+    "address": "ERASTE LANDRY RD & LUKE ST",
+    "city": "LAFAYETTE",
+    "time": "08/11/2020 - 08:17 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.22233,
+    "longitude": -92.06178
+  },
+  {
     "address": "701 ST NAZAIRE RD",
     "city": "BROUSSARD",
     "time": "08/11/2020 - 08:12 AM",
