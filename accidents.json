@@ -1,5 +1,13 @@
 [
   {
+    "address": "126 LEXINGTON DR",
+    "city": "DUSON",
+    "time": "08/10/2020 - 8:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25184,
+    "longitude": -92.19508
+  },
+  {
     "address": "104 MARSH DR",
     "city": "LAFAYETTE",
     "time": "08/10/2020 - 8:39 PM",
