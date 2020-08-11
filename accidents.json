@@ -1,5 +1,13 @@
 [
   {
+    "address": "452 J B RD",
+    "city": "SCOTT",
+    "time": "08/11/2020 - 08:11 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.2181099,
+    "longitude": -92.0994041
+  },
+  {
     "address": "701 ST NAZAIRE RD",
     "city": "BROUSSARD",
     "time": "08/11/2020 - 08:09 AM",
