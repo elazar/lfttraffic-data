@@ -1,5 +1,13 @@
 [
   {
+    "address": "1108 E MAIN ST",
+    "city": "BROUSSARD",
+    "time": "08/12/2020 - 5:49 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14181,
+    "longitude": -91.94705
+  },
+  {
     "address": "7 I49 NORTHBOUND MM7 HW",
     "city": "LAFAYETTE",
     "time": "08/12/2020 - 5:40 PM",
