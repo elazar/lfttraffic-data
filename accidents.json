@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & E BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "08/12/2020 - 12:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15059,
+    "longitude": -92.09379
+  },
+  {
     "address": "E DEVALCOURT ST & CAJUNDOME BL",
     "city": "LAFAYETTE",
     "time": "08/12/2020 - 12:02 PM",
