@@ -1,5 +1,13 @@
 [
   {
+    "address": "170 N ARLINGTON DR",
+    "city": "LAFAYETTE",
+    "time": "08/12/2020 - 3:12 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.20434,
+    "longitude": -92.03665
+  },
+  {
     "address": "W CONGRESS ST & W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "08/12/2020 - 2:56 PM",
@@ -38,14 +46,6 @@
     "due_to": "Traffic Control",
     "latitude": 30.1046,
     "longitude": -92.01597
-  },
-  {
-    "address": "1920 KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "08/12/2020 - 2:23 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.168,
-    "longitude": -92.03614
   },
   {
     "address": "1800 NE EVANGELINE TW",
