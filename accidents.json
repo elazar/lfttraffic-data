@@ -1,5 +1,13 @@
 [
   {
+    "address": "I49 SOUTHBOUND MM8 HW & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "08/12/2020 - 6:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24052,
+    "longitude": -92.03242
+  },
+  {
     "address": "1108 E MAIN ST",
     "city": "BROUSSARD",
     "time": "08/12/2020 - 5:49 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.28006,
     "longitude": -92.02024
-  },
-  {
-    "address": "1600 GOLDEN GRAIN RD",
-    "city": "LAFAYETTE",
-    "time": "08/12/2020 - 5:14 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.1592644,
-    "longitude": -92.192783
   },
   {
     "address": "101 W GLORIA SWITCH RD",
