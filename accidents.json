@@ -1,5 +1,13 @@
 [
   {
+    "address": "6507 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/12/2020 - 3:19 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.15517,
+    "longitude": -92.08877
+  },
+  {
     "address": "170 N ARLINGTON DR",
     "city": "LAFAYETTE",
     "time": "08/12/2020 - 3:12 PM",
