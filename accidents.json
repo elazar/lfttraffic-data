@@ -1,5 +1,13 @@
 [
   {
+    "address": "812 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "08/11/2020 - 9:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23943,
+    "longitude": -92.03187
+  },
+  {
     "address": "D ARCENEAUX RD & GUMBLETON MALLET RD",
     "city": "LAFAYETTE",
     "time": "08/11/2020 - 8:58 PM",
