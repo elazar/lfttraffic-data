@@ -1,5 +1,13 @@
 [
   {
+    "address": "MELODY DR & PALMWOOD DR",
+    "city": "LAFAYETTE",
+    "time": "08/12/2020 - 3:23 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.16495,
+    "longitude": -92.07745
+  },
+  {
     "address": "6507 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/12/2020 - 3:19 PM",
@@ -38,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20803,
     "longitude": -92.01319
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & CRESCENT RANCH BL",
-    "city": "LAFAYETTE",
-    "time": "08/12/2020 - 2:34 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15314,
-    "longitude": -92.04431
   },
   {
     "address": "1800 NE EVANGELINE TW",
