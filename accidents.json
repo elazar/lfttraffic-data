@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "2300 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "08/12/2020 - 05:56 AM",
+    "due_to": "Hazard",
+    "latitude": 30.2214883,
+    "longitude": -92.0372476
+  }
+]
