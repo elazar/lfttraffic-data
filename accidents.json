@@ -1,13 +1,5 @@
 [
   {
-    "address": "104 I10 EASTBOUND MM104 HW",
-    "city": "LAFAYETTE",
-    "time": "08/12/2020 - 4:11 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.26255,
-    "longitude": -92.00867
-  },
-  {
     "address": "BERTRAND DR & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "08/12/2020 - 4:08 PM",
@@ -54,14 +46,6 @@
     "due_to": "Residential Fire",
     "latitude": 30.16504,
     "longitude": -92.07715
-  },
-  {
-    "address": "W CONGRESS ST & W UNIVERSITY AV",
-    "city": "LAFAYETTE",
-    "time": "08/12/2020 - 2:56 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2261,
-    "longitude": -92.02828
   },
   {
     "address": "1003 E ST MARY BL",
