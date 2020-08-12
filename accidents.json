@@ -1,5 +1,13 @@
 [
   {
+    "address": "173 S BEADLE RD",
+    "city": "LAFAYETTE",
+    "time": "08/12/2020 - 12:56 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17645,
+    "longitude": -92.01628
+  },
+  {
     "address": "4415 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/12/2020 - 12:42 PM",
