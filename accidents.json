@@ -1,5 +1,13 @@
 [
   {
+    "address": "2803 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "08/12/2020 - 09:49 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1451,
+    "longitude": -92.03232
+  },
+  {
     "address": "5750 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "08/12/2020 - 09:45 AM",
