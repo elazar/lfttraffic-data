@@ -1,5 +1,13 @@
 [
   {
+    "address": "ST ETIENNE RD & YOUNG ST",
+    "city": "LAFAYETTE",
+    "time": "08/11/2020 - 9:16 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.10186,
+    "longitude": -91.94768
+  },
+  {
     "address": "812 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "08/11/2020 - 9:00 PM",
