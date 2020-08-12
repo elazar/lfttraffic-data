@@ -1,19 +1,19 @@
 [
   {
+    "address": "101 I10 WESTBOUND MM101 HW",
+    "city": "LAFAYETTE",
+    "time": "08/12/2020 - 4:21 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "97 I10 EASTBOUND MM97 HW",
     "city": "LAFAYETTE",
     "time": "08/12/2020 - 4:03 PM",
     "due_to": "Vehicle Accident",
     "latitude": null,
     "longitude": null
-  },
-  {
-    "address": "2105 KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "08/12/2020 - 3:58 PM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.16581,
-    "longitude": -92.03769
   },
   {
     "address": "105 I10 EASTBOUND MM105 HW",
