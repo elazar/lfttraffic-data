@@ -1,5 +1,21 @@
 [
   {
+    "address": "2310 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "08/12/2020 - 11:55 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21029,
+    "longitude": -92.07578
+  },
+  {
+    "address": "NW EVANGELINE TW & CASTILLE AV",
+    "city": "LAFAYETTE",
+    "time": "08/12/2020 - 11:55 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.2488,
+    "longitude": -92.01297
+  },
+  {
     "address": "1800 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "08/12/2020 - 11:53 AM",
