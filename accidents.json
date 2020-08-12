@@ -1,5 +1,13 @@
 [
   {
+    "address": "502 KEVIN DR",
+    "city": "LAFAYETTE",
+    "time": "08/12/2020 - 11:51 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.27613,
+    "longitude": -92.00055
+  },
+  {
     "address": "204 ENERGY PW",
     "city": "LAFAYETTE",
     "time": "08/12/2020 - 11:28 AM",
