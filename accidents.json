@@ -1,5 +1,13 @@
 [
   {
+    "address": "505 SCOTSDALE ST",
+    "city": "LAFAYETTE",
+    "time": "08/12/2020 - 06:30 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2033,
+    "longitude": -92.1009
+  },
+  {
     "address": "FRONTAGE RD & MIRE HW",
     "city": "Lafayette",
     "time": "08/12/2020 - 06:18 AM",
