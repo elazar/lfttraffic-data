@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "08/12/2020 - 2:56 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2261,
+    "longitude": -92.02828
+  },
+  {
     "address": "1301 OLD SPANISH TL",
     "city": "SCOTT",
     "time": "08/12/2020 - 2:48 PM",
