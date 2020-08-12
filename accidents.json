@@ -1,5 +1,13 @@
 [
   {
+    "address": "RIDGE RD & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "08/12/2020 - 1:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21504,
+    "longitude": -92.07579
+  },
+  {
     "address": "173 S BEADLE RD",
     "city": "LAFAYETTE",
     "time": "08/12/2020 - 12:56 PM",
