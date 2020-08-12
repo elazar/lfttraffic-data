@@ -8,14 +8,6 @@
     "longitude": -92.04919
   },
   {
-    "address": "123 S ST LOUIS ST",
-    "city": "LAFAYETTE",
-    "time": "08/12/2020 - 12:34 PM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.22585,
-    "longitude": -92.03512
-  },
-  {
     "address": "JEFFERSON ST & GARFIELD ST",
     "city": "LAFAYETTE",
     "time": "08/12/2020 - 12:31 PM",
@@ -54,13 +46,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.24592,
     "longitude": -92.01176
-  },
-  {
-    "address": "503 KEVIN DR",
-    "city": "LAFAYETTE",
-    "time": "08/12/2020 - 11:51 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.27669,
-    "longitude": -92.00055
   }
 ]
