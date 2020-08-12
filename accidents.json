@@ -1,5 +1,13 @@
 [
   {
+    "address": "JEFFERSON ST & GARFIELD ST",
+    "city": "LAFAYETTE",
+    "time": "08/12/2020 - 12:31 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2266,
+    "longitude": -92.01743
+  },
+  {
     "address": "MUDD AV & SHIRLEY PICARD DR",
     "city": "LAFAYETTE",
     "time": "08/12/2020 - 12:23 PM",
