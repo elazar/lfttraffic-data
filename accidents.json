@@ -1,5 +1,13 @@
 [
   {
+    "address": "116 LISTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/13/2020 - 6:09 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25063,
+    "longitude": -92.02527
+  },
+  {
     "address": "1850 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "08/13/2020 - 6:07 PM",
