@@ -1,5 +1,13 @@
 [
   {
+    "address": "1850 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "08/13/2020 - 6:07 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18857,
+    "longitude": -92.01489
+  },
+  {
     "address": "LA 96 HW & LA 182 HW",
     "city": "BROUSSARD",
     "time": "08/13/2020 - 6:04 PM",
@@ -22,22 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17357,
     "longitude": -92.0672
-  },
-  {
-    "address": "1751 E BROUSSARD RD",
-    "city": "LAFAYETTE",
-    "time": "08/13/2020 - 5:34 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1223261,
-    "longitude": -92.057602
-  },
-  {
-    "address": "1400 BONIN RD",
-    "city": "LAFAYETTE",
-    "time": "08/13/2020 - 5:31 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1387993,
-    "longitude": -92.0078356
   },
   {
     "address": "900 E UNIVERSITY AV",
