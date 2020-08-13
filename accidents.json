@@ -1,5 +1,21 @@
 [
   {
+    "address": "104 I10 EASTBOUND MM104 HW",
+    "city": "LAFAYETTE",
+    "time": "08/13/2020 - 07:27 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
+    "address": "E BROUSSARD RD & KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "08/13/2020 - 07:27 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.13792,
+    "longitude": -92.06754
+  },
+  {
     "address": "1301 OLD SPANISH TL",
     "city": "SCOTT",
     "time": "08/13/2020 - 07:18 AM",
