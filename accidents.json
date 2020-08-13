@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 VATICAN RD",
+    "city": "LAFAYETTE",
+    "time": "08/12/2020 - 8:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.3081908,
+    "longitude": -92.0916566
+  },
+  {
     "address": "JOHNSTON ST & FOREMAN DR",
     "city": "LAFAYETTE",
     "time": "08/12/2020 - 8:17 PM",
