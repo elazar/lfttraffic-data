@@ -1,5 +1,13 @@
 [
   {
+    "address": "123 ST NAZAIRE RD",
+    "city": "BROUSSARD",
+    "time": "08/13/2020 - 6:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14362,
+    "longitude": -91.94369
+  },
+  {
     "address": "116 LISTON ST",
     "city": "LAFAYETTE",
     "time": "08/13/2020 - 6:09 PM",
