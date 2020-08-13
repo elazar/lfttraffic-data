@@ -62,13 +62,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16998,
     "longitude": -92.06374
-  },
-  {
-    "address": "100 WOODWARD DR",
-    "city": "LAFAYETTE",
-    "time": "08/13/2020 - 3:48 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.123797,
-    "longitude": -92.0729532
   }
 ]
