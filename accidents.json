@@ -1,5 +1,13 @@
 [
   {
+    "address": "ERASTE LANDRY RD & WESTGATE RD",
+    "city": "SCOTT",
+    "time": "08/13/2020 - 12:28 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.2195,
+    "longitude": -92.08699
+  },
+  {
     "address": "NW EVANGELINE TW & VETERANS DR",
     "city": "CARENCRO",
     "time": "08/13/2020 - 12:10 PM",
