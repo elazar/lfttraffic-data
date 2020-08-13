@@ -1,5 +1,13 @@
 [
   {
+    "address": "E MILTON AV & E BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "08/13/2020 - 07:55 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1087,
+    "longitude": -92.05963
+  },
+  {
     "address": "105 W GLORIA SWITCH RD",
     "city": "LAFAYETTE",
     "time": "08/13/2020 - 07:28 AM",
@@ -14,14 +22,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.26255,
     "longitude": -92.00867
-  },
-  {
-    "address": "1301 OLD SPANISH TL",
-    "city": "SCOTT",
-    "time": "08/13/2020 - 07:18 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.23099,
-    "longitude": -92.09015
   },
   {
     "address": "1301 OLD SPANISH TL",
