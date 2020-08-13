@@ -1,5 +1,13 @@
 [
   {
+    "address": "E BAYOU PW & KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "08/12/2020 - 7:09 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.18289,
+    "longitude": -92.01725
+  },
+  {
     "address": "1800 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "08/12/2020 - 11:53 AM",
