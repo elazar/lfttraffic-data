@@ -1,5 +1,13 @@
 [
   {
+    "address": "105 W GLORIA SWITCH RD",
+    "city": "LAFAYETTE",
+    "time": "08/13/2020 - 07:28 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29526,
+    "longitude": -92.0274
+  },
+  {
     "address": "104 I10 EASTBOUND MM104 HW",
     "city": "LAFAYETTE",
     "time": "08/13/2020 - 07:27 AM",
