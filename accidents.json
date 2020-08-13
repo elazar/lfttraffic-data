@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & GUILBEAU RD",
+    "city": "LAFAYETTE",
+    "time": "08/13/2020 - 5:12 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19826,
+    "longitude": -92.07007
+  },
+  {
     "address": "105 I10 EASTBOUND MM105 HW",
     "city": "LAFAYETTE",
     "time": "08/13/2020 - 4:42 PM",
