@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "900 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "08/12/2020 - 11:16 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.22925,
+    "longitude": -92.0033
+  }
+]
