@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 FOX RN",
+    "city": "LAFAYETTE",
+    "time": "08/13/2020 - 08:07 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17139,
+    "longitude": -92.0039
+  },
+  {
     "address": "105 W GLORIA SWITCH RD",
     "city": "LAFAYETTE",
     "time": "08/13/2020 - 07:28 AM",
