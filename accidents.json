@@ -16,14 +16,6 @@
     "longitude": -92.00758
   },
   {
-    "address": "E KALISTE SALOOM RD & SW EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "08/13/2020 - 6:25 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.20067,
-    "longitude": -91.99958
-  },
-  {
     "address": "1850 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "08/13/2020 - 6:07 PM",
@@ -56,11 +48,11 @@
     "longitude": -92.01425
   },
   {
-    "address": "W CONGRESS ST & GUILBEAU RD",
+    "address": "3921 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "08/13/2020 - 5:12 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.19826,
-    "longitude": -92.07007
+    "latitude": 30.1991827,
+    "longitude": -92.0683891
   }
 ]
