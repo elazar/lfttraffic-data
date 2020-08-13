@@ -46,21 +46,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.22781,
     "longitude": -92.04687
-  },
-  {
-    "address": "KALISTE SALOOM RD & E BAYOU PW",
-    "city": "LAFAYETTE",
-    "time": "08/13/2020 - 2:12 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18289,
-    "longitude": -92.01725
-  },
-  {
-    "address": "N WASHINGTON ST & E RAILROAD ST",
-    "city": "BROUSSARD",
-    "time": "08/13/2020 - 1:37 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.14845,
-    "longitude": -91.96179
   }
 ]
