@@ -1,5 +1,13 @@
 [
   {
+    "address": "1400 N BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "08/13/2020 - 2:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22402,
+    "longitude": -92.0514
+  },
+  {
     "address": "1800 CHEMIN METAIRIE PW",
     "city": "YOUNGSVILLE",
     "time": "08/13/2020 - 2:36 PM",
