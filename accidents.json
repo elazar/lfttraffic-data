@@ -1,5 +1,13 @@
 [
   {
+    "address": "1500 E BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "08/13/2020 - 5:34 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1286495,
+    "longitude": -92.0556993
+  },
+  {
     "address": "205 SANDHURST DR",
     "city": "LAFAYETTE",
     "time": "08/13/2020 - 5:31 PM",
