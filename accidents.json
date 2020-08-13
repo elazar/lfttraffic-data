@@ -1,5 +1,13 @@
 [
   {
+    "address": "N WASHINGTON ST & E RAILROAD ST",
+    "city": "BROUSSARD",
+    "time": "08/13/2020 - 1:37 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14845,
+    "longitude": -91.96179
+  },
+  {
     "address": "ERASTE LANDRY RD & CAMERON ST",
     "city": "LAFAYETTE",
     "time": "08/13/2020 - 12:31 PM",
