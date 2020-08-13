@@ -1,19 +1,19 @@
 [
   {
+    "address": "200 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "08/13/2020 - 4:00 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2422064,
+    "longitude": -92.0664188
+  },
+  {
     "address": "100 WOODWARD DR",
     "city": "LAFAYETTE",
     "time": "08/13/2020 - 3:48 PM",
     "due_to": "Road Hazard",
     "latitude": 30.123797,
     "longitude": -92.0729532
-  },
-  {
-    "address": "KALISTE SALOOM RD & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "08/13/2020 - 2:50 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15649,
-    "longitude": -92.04838
   },
   {
     "address": "3810 AMBASSADOR CAFFERY PW",
