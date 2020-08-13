@@ -16,14 +16,6 @@
     "longitude": -92.00758
   },
   {
-    "address": "1850 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "08/13/2020 - 6:07 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18857,
-    "longitude": -92.01489
-  },
-  {
     "address": "W CONGRESS ST & WINCHESTER ST",
     "city": "LAFAYETTE",
     "time": "08/13/2020 - 5:48 PM",
@@ -38,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.211,
     "longitude": -92.01165
-  },
-  {
-    "address": "CHALMETTE DR & NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "08/13/2020 - 5:18 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.25191,
-    "longitude": -92.01425
   },
   {
     "address": "3921 W CONGRESS ST",
