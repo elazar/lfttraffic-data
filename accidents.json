@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 WOODWARD DR",
+    "city": "LAFAYETTE",
+    "time": "08/13/2020 - 3:48 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.123797,
+    "longitude": -92.0729532
+  },
+  {
     "address": "KALISTE SALOOM RD & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/13/2020 - 2:50 PM",
