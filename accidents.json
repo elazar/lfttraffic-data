@@ -1,5 +1,13 @@
 [
   {
+    "address": "NW FRONTAGE RD & MARTIN LUTHER KING JR DR",
+    "city": "LAFAYETTE",
+    "time": "08/13/2020 - 11:16 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24806,
+    "longitude": -92.01355
+  },
+  {
     "address": "4 I49 SOUTHBOUND MM4 HW",
     "city": "LAFAYETTE",
     "time": "08/13/2020 - 11:13 AM",
