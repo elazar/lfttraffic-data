@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 GLYNNWOOD AV",
+    "city": "LAFAYETTE",
+    "time": "08/14/2020 - 1:08 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.20577,
+    "longitude": -92.04732
+  },
+  {
     "address": "3726 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/14/2020 - 1:04 PM",
