@@ -1,5 +1,13 @@
 [
   {
+    "address": "103 E MILTON AV",
+    "city": "LAFAYETTE",
+    "time": "08/14/2020 - 4:45 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.1056093,
+    "longitude": -92.0731342
+  },
+  {
     "address": "2863 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/14/2020 - 4:35 PM",
