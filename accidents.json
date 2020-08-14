@@ -1,18 +1,18 @@
 [
   {
+    "address": "6100 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "08/14/2020 - 08:44 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.10118,
+    "longitude": -91.94283
+  },
+  {
     "address": "W WILLOW ST & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/14/2020 - 07:58 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.24324,
     "longitude": -92.06626
-  },
-  {
-    "address": "2100 ERASTE LANDRY RD",
-    "city": "LAFAYETTE",
-    "time": "08/14/2020 - 07:56 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2193149,
-    "longitude": -92.0745107
   }
 ]
