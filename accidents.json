@@ -1,5 +1,13 @@
 [
   {
+    "address": "2814 E MILTON AV",
+    "city": "YOUNGSVILLE",
+    "time": "08/14/2020 - 12:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.10868,
+    "longitude": -92.01703
+  },
+  {
     "address": "831 E BROUSSARD RD",
     "city": "LAFAYETTE",
     "time": "08/14/2020 - 12:19 PM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17808,
     "longitude": -92.07452
-  },
-  {
-    "address": "2427 W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "08/14/2020 - 11:33 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2135068,
-    "longitude": -92.0487784
   }
 ]
