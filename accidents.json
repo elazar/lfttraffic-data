@@ -1,5 +1,13 @@
 [
   {
+    "address": "WESTGATE RD & ERASTE LANDRY RD",
+    "city": "SCOTT",
+    "time": "08/13/2020 - 8:25 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2195,
+    "longitude": -92.08699
+  },
+  {
     "address": "EASY ROCK LANDING DR & OLD CYPRESS DR",
     "city": "BROUSSARD",
     "time": "08/13/2020 - 8:13 PM",
