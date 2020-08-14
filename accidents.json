@@ -24,22 +24,6 @@
     "longitude": -92.0175693
   },
   {
-    "address": "300 ALMONASTER RD",
-    "city": "YOUNGSVILLE",
-    "time": "08/14/2020 - 2:06 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.0874849,
-    "longitude": -91.9678498
-  },
-  {
-    "address": "CAMERON ST & APOLLO RD",
-    "city": "SCOTT",
-    "time": "08/14/2020 - 2:01 PM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.23485,
-    "longitude": -92.10742
-  },
-  {
     "address": "N UNIVERSITY AV & I10 HW",
     "city": "LAFAYETTE",
     "time": "08/14/2020 - 1:47 PM",
