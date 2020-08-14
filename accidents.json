@@ -1,13 +1,5 @@
 [
   {
-    "address": "6501 AMBASSADOR CAFFERY PW",
-    "city": "BROUSSARD",
-    "time": "08/14/2020 - 6:29 PM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.13538,
-    "longitude": -91.98957
-  },
-  {
     "address": "1000 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "08/14/2020 - 6:13 PM",
@@ -46,13 +38,5 @@
     "due_to": "Vehicle Fire",
     "latitude": 30.2601,
     "longitude": -92.04062
-  },
-  {
-    "address": "BONIN RD & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "08/14/2020 - 4:32 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.13528,
-    "longitude": -92.00763
   }
 ]
