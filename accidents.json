@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "DELORD ST & HOPKINS ST",
+    "city": "LAFAYETTE",
+    "time": "08/13/2020 - 11:12 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.23333,
+    "longitude": -92.02597
+  }
+]
