@@ -1,5 +1,13 @@
 [
   {
+    "address": "JEFFERSON ST & E VERMILION ST",
+    "city": "LAFAYETTE",
+    "time": "08/14/2020 - 4:24 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.22407,
+    "longitude": -92.01877
+  },
+  {
     "address": "5600 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/14/2020 - 3:25 PM",
