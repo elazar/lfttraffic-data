@@ -1,5 +1,13 @@
 [
   {
+    "address": "1000 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "08/14/2020 - 6:13 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23664,
+    "longitude": -92.01284
+  },
+  {
     "address": "NE EVANGELINE TW & BELLOT ST",
     "city": "LAFAYETTE",
     "time": "08/14/2020 - 6:07 PM",
