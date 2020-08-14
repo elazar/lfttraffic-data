@@ -1,5 +1,13 @@
 [
   {
+    "address": "3220 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "08/13/2020 - 8:36 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29303,
+    "longitude": -92.02305
+  },
+  {
     "address": "WESTGATE RD & ERASTE LANDRY RD",
     "city": "SCOTT",
     "time": "08/13/2020 - 8:25 PM",
