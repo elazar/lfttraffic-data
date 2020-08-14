@@ -1,5 +1,13 @@
 [
   {
+    "address": "2400 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "08/14/2020 - 11:33 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21494,
+    "longitude": -92.04748
+  },
+  {
     "address": "3806 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/14/2020 - 11:15 AM",
