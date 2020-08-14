@@ -1,5 +1,13 @@
 [
   {
+    "address": "CHEMIN AGREABLE & DECON RD",
+    "city": "LAFAYETTE",
+    "time": "08/13/2020 - 9:23 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.06564,
+    "longitude": -92.02385
+  },
+  {
     "address": "100 RUFFIAN DR",
     "city": "LAFAYETTE",
     "time": "08/13/2020 - 9:21 PM",
