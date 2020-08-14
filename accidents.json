@@ -1,5 +1,13 @@
 [
   {
+    "address": "ORCHID DR & MADELINE AV",
+    "city": "LAFAYETTE",
+    "time": "08/14/2020 - 3:44 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23853,
+    "longitude": -92.03941
+  },
+  {
     "address": "CAMERON ST & AUSTRIA RD",
     "city": "DUSON",
     "time": "08/14/2020 - 3:42 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1789,
     "longitude": -92.07258
-  },
-  {
-    "address": "92 I10 EB EXIT RAMP HW",
-    "city": "DUSON",
-    "time": "08/14/2020 - 3:20 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.24757,
-    "longitude": -92.14845
   },
   {
     "address": "AUSTRIA RD & I10 MM93 HW",
