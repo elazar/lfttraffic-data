@@ -1,5 +1,13 @@
 [
   {
+    "address": "606 HECTOR CONNOLY RD",
+    "city": "CARENCRO",
+    "time": "08/14/2020 - 4:55 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.32118,
+    "longitude": -92.01795
+  },
+  {
     "address": "LOUISIANA AV & WEBB ST",
     "city": "LAFAYETTE",
     "time": "08/14/2020 - 4:54 PM",
@@ -46,13 +54,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.16717,
     "longitude": -92.03642
-  },
-  {
-    "address": "5600 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "08/14/2020 - 3:25 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1778133,
-    "longitude": -92.0751405
   }
 ]
