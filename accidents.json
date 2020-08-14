@@ -1,19 +1,11 @@
 [
   {
-    "address": "CHEMIN AGREABLE & DECON RD",
-    "city": "LAFAYETTE",
+    "address": "4800 DECON RD",
+    "city": "YOUNGSVILLE",
     "time": "08/13/2020 - 9:23 PM",
     "due_to": "Road Hazard",
-    "latitude": 30.06564,
-    "longitude": -92.02385
-  },
-  {
-    "address": "1500 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "08/13/2020 - 8:56 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19738,
-    "longitude": -92.01677
+    "latitude": 30.07571,
+    "longitude": -92.02452
   },
   {
     "address": "3601 MOSS ST",
