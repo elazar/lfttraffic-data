@@ -1,5 +1,13 @@
 [
   {
+    "address": "107 I10 WESTBOUND MM107 HW",
+    "city": "LAFAYETTE",
+    "time": "08/14/2020 - 5:00 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "1512 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "08/14/2020 - 4:55 PM",
