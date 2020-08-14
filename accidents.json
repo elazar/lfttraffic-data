@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "SETTLERS TRACE BL & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "08/14/2020 - 05:09 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.15969,
+    "longitude": -92.05229
+  }
+]
