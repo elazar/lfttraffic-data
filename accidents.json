@@ -1,5 +1,13 @@
 [
   {
+    "address": "215 STILL WATERS RD",
+    "city": "BROUSSARD",
+    "time": "08/13/2020 - 10:04 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.11144,
+    "longitude": -91.96363
+  },
+  {
     "address": "4800 DECON RD",
     "city": "YOUNGSVILLE",
     "time": "08/13/2020 - 9:23 PM",
