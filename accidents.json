@@ -1,5 +1,13 @@
 [
   {
+    "address": "1500 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "08/13/2020 - 8:56 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19738,
+    "longitude": -92.01677
+  },
+  {
     "address": "3601 MOSS ST",
     "city": "LAFAYETTE",
     "time": "08/13/2020 - 8:37 PM",
