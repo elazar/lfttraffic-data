@@ -1,5 +1,13 @@
 [
   {
+    "address": "LOUISIANA AV & CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "08/14/2020 - 5:22 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23457,
+    "longitude": -92.00231
+  },
+  {
     "address": "HECTOR CONNOLY RD & NE FRONTAGE RD",
     "city": "CARENCRO",
     "time": "08/14/2020 - 5:18 PM",
