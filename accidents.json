@@ -1,5 +1,13 @@
 [
   {
+    "address": "1411 ALICE DR",
+    "city": "LAFAYETTE",
+    "time": "08/14/2020 - 2:39 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.17246,
+    "longitude": -92.05169
+  },
+  {
     "address": "166 VERMILION CL",
     "city": "YOUNGSVILLE",
     "time": "08/14/2020 - 2:21 PM",
