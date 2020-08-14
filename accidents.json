@@ -1,5 +1,21 @@
 [
   {
+    "address": "N UNIVERSITY AV & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "08/14/2020 - 1:47 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24052,
+    "longitude": -92.03242
+  },
+  {
+    "address": "VEROT SCHOOL RD & NEWBURG DR",
+    "city": "LAFAYETTE",
+    "time": "08/14/2020 - 1:47 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13555,
+    "longitude": -92.03252
+  },
+  {
     "address": "500 YOUNGSVILLE HW",
     "city": "LAFAYETTE",
     "time": "08/14/2020 - 1:44 PM",
