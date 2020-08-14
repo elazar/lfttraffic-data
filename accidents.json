@@ -14,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2193149,
     "longitude": -92.0745107
-  },
-  {
-    "address": "302 W MAIN ST",
-    "city": "BROUSSARD",
-    "time": "08/14/2020 - 07:20 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.14924,
-    "longitude": -91.96592
   }
 ]
