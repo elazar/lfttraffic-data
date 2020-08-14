@@ -1,5 +1,13 @@
 [
   {
+    "address": "6100 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "08/14/2020 - 5:48 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.10118,
+    "longitude": -91.94283
+  },
+  {
     "address": "100 HAIG ST",
     "city": "LAFAYETTE",
     "time": "08/14/2020 - 5:24 PM",
