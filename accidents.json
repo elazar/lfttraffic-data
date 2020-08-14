@@ -1,5 +1,13 @@
 [
   {
+    "address": "LOUISIANA AV & WEBB ST",
+    "city": "LAFAYETTE",
+    "time": "08/14/2020 - 4:54 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.23857,
+    "longitude": -92.00143
+  },
+  {
     "address": "2106 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "08/14/2020 - 4:46 PM",
