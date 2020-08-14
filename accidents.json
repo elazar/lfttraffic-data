@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 RUFFIAN DR",
+    "city": "LAFAYETTE",
+    "time": "08/13/2020 - 9:21 PM",
+    "due_to": "Vehicle Fire",
+    "latitude": 30.3011749,
+    "longitude": -92.0705205
+  },
+  {
     "address": "1500 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "08/13/2020 - 8:56 PM",
