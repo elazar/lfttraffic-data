@@ -1,19 +1,19 @@
 [
   {
-    "address": "606 HECTOR CONNOLY RD",
+    "address": "1512 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "08/14/2020 - 4:55 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.23733,
+    "longitude": -92.00036
+  },
+  {
+    "address": "109 LITEON LN",
     "city": "CARENCRO",
     "time": "08/14/2020 - 4:55 PM",
     "due_to": "Incoming Call",
-    "latitude": 30.32118,
-    "longitude": -92.01795
-  },
-  {
-    "address": "LOUISIANA AV & WEBB ST",
-    "city": "LAFAYETTE",
-    "time": "08/14/2020 - 4:54 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.23857,
-    "longitude": -92.00143
+    "latitude": 30.32261,
+    "longitude": -92.02764
   },
   {
     "address": "2106 N UNIVERSITY AV",
