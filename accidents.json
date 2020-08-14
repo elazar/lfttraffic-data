@@ -1,5 +1,13 @@
 [
   {
+    "address": "2863 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "08/13/2020 - 8:02 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19816,
+    "longitude": -92.07417
+  },
+  {
     "address": "6200 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/13/2020 - 7:49 PM",
