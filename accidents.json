@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "103 E MILTON AV",
+    "city": "LAFAYETTE",
+    "time": "08/14/2020 - 11:47 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.1056093,
+    "longitude": -92.0731342
+  }
+]
