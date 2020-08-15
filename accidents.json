@@ -1,5 +1,13 @@
 [
   {
+    "address": "1400 N BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "08/15/2020 - 2:04 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22402,
+    "longitude": -92.0514
+  },
+  {
     "address": "1551 SE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "08/15/2020 - 1:47 PM",
