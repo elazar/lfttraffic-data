@@ -2,14 +2,6 @@
   {
     "address": "314 BILTMORE WAY",
     "city": "LAFAYETTE",
-    "time": "08/15/2020 - 2:21 PM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.17127,
-    "longitude": -92.04383
-  },
-  {
-    "address": "314 BILTMORE WAY",
-    "city": "LAFAYETTE",
     "time": "08/15/2020 - 2:10 PM",
     "due_to": "Fire Alarm-Residential",
     "latitude": 30.17127,
@@ -22,14 +14,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17281,
     "longitude": -92.07852
-  },
-  {
-    "address": "1400 N BERTRAND DR",
-    "city": "LAFAYETTE",
-    "time": "08/15/2020 - 2:04 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22402,
-    "longitude": -92.0514
   },
   {
     "address": "LAKE FARM RD & KALISTE SALOOM RD",
