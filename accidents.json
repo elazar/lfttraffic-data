@@ -1,5 +1,13 @@
 [
   {
+    "address": "LAKE FARM RD & KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "08/15/2020 - 1:23 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15936,
+    "longitude": -92.0455
+  },
+  {
     "address": "3619 MOSS ST",
     "city": "LAFAYETTE",
     "time": "08/15/2020 - 12:56 PM",
