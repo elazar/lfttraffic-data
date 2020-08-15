@@ -1,5 +1,13 @@
 [
   {
+    "address": "E SIMCOE ST & MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "08/15/2020 - 07:54 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.23069,
+    "longitude": -92.00911
+  },
+  {
     "address": "501 N LARRIVIERE RD",
     "city": "YOUNGSVILLE",
     "time": "08/15/2020 - 07:06 AM",
