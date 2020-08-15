@@ -1,5 +1,13 @@
 [
   {
+    "address": "GENERAL MOUTON AV & MCKINLEY ST",
+    "city": "LAFAYETTE",
+    "time": "08/14/2020 - 7:49 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21575,
+    "longitude": -92.01396
+  },
+  {
     "address": "2001 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/14/2020 - 7:43 PM",
