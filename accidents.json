@@ -1,5 +1,13 @@
 [
   {
+    "address": "2001 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/14/2020 - 7:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21101,
+    "longitude": -92.02699
+  },
+  {
     "address": "120 WILTZ ST",
     "city": "LAFAYETTE",
     "time": "08/14/2020 - 6:52 PM",
