@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & CAMINO REAL RD",
+    "city": "LAFAYETTE",
+    "time": "08/15/2020 - 11:12 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.15585,
+    "longitude": -92.08888
+  },
+  {
     "address": "505 CYPRESS COVE",
     "city": "LAFAYETTE",
     "time": "08/15/2020 - 11:10 AM",
@@ -38,13 +46,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18552,
     "longitude": -92.0096
-  },
-  {
-    "address": "615 LA 93 HW",
-    "city": "SCOTT",
-    "time": "08/15/2020 - 09:45 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.2609,
-    "longitude": -92.1087
   }
 ]
