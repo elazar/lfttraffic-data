@@ -1,5 +1,13 @@
 [
   {
+    "address": "MOSS ST & JEFFERSON BL",
+    "city": "LAFAYETTE",
+    "time": "08/16/2020 - 11:04 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23005,
+    "longitude": -92.00918
+  },
+  {
     "address": "5800 CAMERON ST",
     "city": "SCOTT",
     "time": "08/16/2020 - 10:57 AM",
