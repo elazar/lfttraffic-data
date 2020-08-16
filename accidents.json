@@ -1,5 +1,13 @@
 [
   {
+    "address": "AUBURN DR & ALBRIGHT DR",
+    "city": "CARENCRO",
+    "time": "08/16/2020 - 11:18 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.31877,
+    "longitude": -92.05241
+  },
+  {
     "address": "515 S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "08/16/2020 - 10:25 AM",
