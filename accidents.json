@@ -1,5 +1,13 @@
 [
   {
+    "address": "MEAUX BL & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/15/2020 - 9:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20674,
+    "longitude": -92.03924
+  },
+  {
     "address": "MOSS ST & E PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "08/15/2020 - 8:43 PM",
