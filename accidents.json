@@ -1,5 +1,13 @@
 [
   {
+    "address": "MOSS ST & SOULIER ST",
+    "city": "LAFAYETTE",
+    "time": "08/15/2020 - 7:15 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.25419,
+    "longitude": -92.00529
+  },
+  {
     "address": "300 IRA ST",
     "city": "CARENCRO",
     "time": "08/15/2020 - 7:11 PM",
