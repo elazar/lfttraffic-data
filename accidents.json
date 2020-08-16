@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "615 LA HW 93",
+    "city": "Lafayette",
+    "time": "08/16/2020 - 08:42 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.08784,
+    "longitude": -90.48121
+  }
+]
