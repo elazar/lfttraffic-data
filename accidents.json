@@ -24,19 +24,11 @@
     "longitude": -92.00529
   },
   {
-    "address": "300 IRA ST",
+    "address": "131 IRA ST",
     "city": "CARENCRO",
     "time": "08/15/2020 - 7:11 PM",
     "due_to": "Fire Investigation",
-    "latitude": 30.32221,
-    "longitude": -92.0571
-  },
-  {
-    "address": "2314 KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "08/15/2020 - 6:33 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.16145,
-    "longitude": -92.04364
+    "latitude": 30.32102,
+    "longitude": -92.05326
   }
 ]
