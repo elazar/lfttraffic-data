@@ -1,5 +1,21 @@
 [
   {
+    "address": "215 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "08/15/2020 - 9:49 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24469,
+    "longitude": -92.01605
+  },
+  {
+    "address": "AMBASSADOR CAFFERY PW & ERASTE LANDRY RD",
+    "city": "LAFAYETTE",
+    "time": "08/15/2020 - 9:49 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.21912,
+    "longitude": -92.07587
+  },
+  {
     "address": "100 S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "08/15/2020 - 9:13 PM",
