@@ -1,5 +1,13 @@
 [
   {
+    "address": "AUBURN AV & W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "08/16/2020 - 12:34 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.20815,
+    "longitude": -92.01115
+  },
+  {
     "address": "1105 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/16/2020 - 12:06 AM",
