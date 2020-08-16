@@ -1,17 +1,9 @@
 [
   {
-    "address": "100 N RICHFIELD RD",
-    "city": "LAFAYETTE",
-    "time": "08/15/2020 - 7:06 PM",
-    "due_to": "Vehicle Fire",
-    "latitude": 30.24762,
-    "longitude": -92.17616
-  },
-  {
     "address": "2314 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "08/15/2020 - 6:33 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
+    "due_to": "Vehicle Accident",
     "latitude": 30.16145,
     "longitude": -92.04364
   }
