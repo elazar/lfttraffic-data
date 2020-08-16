@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "221 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "08/16/2020 - 11:59 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.176,
+    "longitude": -92.00509
+  }
+]
