@@ -1,5 +1,21 @@
 [
   {
+    "address": "FORTUNE RD & CHEMIN METAIRIE",
+    "city": "LAFAYETTE",
+    "time": "08/16/2020 - 5:45 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.12377,
+    "longitude": -92.01577
+  },
+  {
+    "address": "4732 LANDRY RD",
+    "city": "LAFAYETTE",
+    "time": "08/16/2020 - 5:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21253,
+    "longitude": -92.1445
+  },
+  {
     "address": "S LARRIVIERE RD & ALMONASTER RD",
     "city": "YOUNGSVILLE",
     "time": "08/16/2020 - 5:05 PM",
