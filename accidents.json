@@ -1,5 +1,13 @@
 [
   {
+    "address": "107 E UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "08/17/2020 - 4:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21739,
+    "longitude": -92.01854
+  },
+  {
     "address": "W PINHOOK RD & CALCO BL",
     "city": "LAFAYETTE",
     "time": "08/17/2020 - 3:42 PM",
