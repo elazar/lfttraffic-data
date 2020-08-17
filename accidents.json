@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "111 SUNFLOWER DR",
+    "city": "LAFAYETTE",
+    "time": "08/17/2020 - 1:15 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.13373,
+    "longitude": -92.04996
+  }
+]
