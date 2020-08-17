@@ -38,13 +38,5 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.2191797,
     "longitude": -92.0201531
-  },
-  {
-    "address": "400 RUE SCHOLASTIQUE",
-    "city": "LAFAYETTE",
-    "time": "08/17/2020 - 2:11 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.28848,
-    "longitude": -92.09653
   }
 ]
