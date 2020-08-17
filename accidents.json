@@ -1,5 +1,13 @@
 [
   {
+    "address": "W THIRD ST & W CYPRESS ST",
+    "city": "LAFAYETTE",
+    "time": "08/17/2020 - 08:49 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2282,
+    "longitude": -92.01626
+  },
+  {
     "address": "105 APRIL ST",
     "city": "LAFAYETTE",
     "time": "08/17/2020 - 08:45 AM",
