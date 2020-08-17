@@ -1,5 +1,13 @@
 [
   {
+    "address": "400 DUGAS RD",
+    "city": "LAFAYETTE",
+    "time": "08/17/2020 - 3:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.209435,
+    "longitude": -92.0465616
+  },
+  {
     "address": "129 GENERAL MACARTHUR ST",
     "city": "LAFAYETTE",
     "time": "08/17/2020 - 2:54 PM",
