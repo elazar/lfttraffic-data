@@ -1,5 +1,13 @@
 [
   {
+    "address": "YOUNG ST & MARTEAU RD",
+    "city": "LAFAYETTE",
+    "time": "08/17/2020 - 09:47 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.10184,
+    "longitude": -91.95675
+  },
+  {
     "address": "109 E WILLOW ST",
     "city": "LAFAYETTE",
     "time": "08/17/2020 - 09:00 AM",
