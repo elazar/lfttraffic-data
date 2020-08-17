@@ -1,5 +1,13 @@
 [
   {
+    "address": "129 GENERAL MACARTHUR ST",
+    "city": "LAFAYETTE",
+    "time": "08/17/2020 - 2:54 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22974,
+    "longitude": -91.9987
+  },
+  {
     "address": "1800 CHEMIN METAIRIE PW",
     "city": "YOUNGSVILLE",
     "time": "08/17/2020 - 2:43 PM",
