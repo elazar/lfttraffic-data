@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & W GLORIA SWITCH RD",
+    "city": "CARENCRO",
+    "time": "08/16/2020 - 9:11 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29785,
+    "longitude": -92.04941
+  },
+  {
     "address": "705 BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "08/16/2020 - 8:43 PM",
@@ -14,6 +22,14 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.2597332,
     "longitude": -92.0769749
+  },
+  {
+    "address": "2300 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "08/16/2020 - 7:52 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2214883,
+    "longitude": -92.0372476
   },
   {
     "address": "PRISCILLA LN & MARTIN LUTHER KING JR DR",
