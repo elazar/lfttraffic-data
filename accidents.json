@@ -1,5 +1,13 @@
 [
   {
+    "address": "400 MUDD AV",
+    "city": "LAFAYETTE",
+    "time": "08/17/2020 - 08:50 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23287,
+    "longitude": -92.01403
+  },
+  {
     "address": "W THIRD ST & W CYPRESS ST",
     "city": "LAFAYETTE",
     "time": "08/17/2020 - 08:49 AM",
