@@ -1,5 +1,13 @@
 [
   {
+    "address": "1800 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "08/16/2020 - 9:48 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.24592,
+    "longitude": -92.01176
+  },
+  {
     "address": "N UNIVERSITY AV & W GLORIA SWITCH RD",
     "city": "CARENCRO",
     "time": "08/16/2020 - 9:11 PM",
