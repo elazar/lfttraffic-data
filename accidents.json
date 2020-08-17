@@ -1,5 +1,13 @@
 [
   {
+    "address": "1200 LEE AV",
+    "city": "LAFAYETTE",
+    "time": "08/17/2020 - 5:32 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2191797,
+    "longitude": -92.0201531
+  },
+  {
     "address": "105 I10 EASTBOUND MM105 HW",
     "city": "LAFAYETTE",
     "time": "08/17/2020 - 5:15 PM",
