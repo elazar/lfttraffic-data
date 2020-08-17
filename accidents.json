@@ -1,5 +1,13 @@
 [
   {
+    "address": "705 BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "08/16/2020 - 8:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21359,
+    "longitude": -92.04764
+  },
+  {
     "address": "700 HEIDE CL",
     "city": "SCOTT",
     "time": "08/16/2020 - 8:42 PM",
