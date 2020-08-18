@@ -1,5 +1,13 @@
 [
   {
+    "address": "5000 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "08/18/2020 - 4:36 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.147,
+    "longitude": -92.03539
+  },
+  {
     "address": "105 W GLORIA SWITCH RD",
     "city": "LAFAYETTE",
     "time": "08/18/2020 - 4:15 PM",
