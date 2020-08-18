@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & BRASHEAR ST",
+    "city": "LAFAYETTE",
+    "time": "08/18/2020 - 07:18 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21632,
+    "longitude": -92.01997
+  },
+  {
     "address": "1522 CARMEL DR",
     "city": "LAFAYETTE",
     "time": "08/18/2020 - 07:16 AM",
