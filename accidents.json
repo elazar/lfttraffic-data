@@ -1,5 +1,13 @@
 [
   {
+    "address": "I10 WESTBOUND MM100 HW & N AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "08/18/2020 - 4:35 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.21504,
+    "longitude": -92.07579
+  },
+  {
     "address": "105 W GLORIA SWITCH RD",
     "city": "LAFAYETTE",
     "time": "08/18/2020 - 4:15 PM",
@@ -16,19 +24,11 @@
     "longitude": -91.93486
   },
   {
-    "address": "100 IRA ST",
-    "city": "CARENCRO",
-    "time": "08/18/2020 - 4:00 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.32152,
-    "longitude": -92.05198
-  },
-  {
-    "address": "1521 W PINHOOK RD",
+    "address": "1401 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "08/18/2020 - 3:39 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.19637,
-    "longitude": -92.01545
+    "latitude": 30.19906,
+    "longitude": -92.01623
   }
 ]
