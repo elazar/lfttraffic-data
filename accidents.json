@@ -1,5 +1,13 @@
 [
   {
+    "address": "S ORANGE ST & SIXTH ST",
+    "city": "LAFAYETTE",
+    "time": "08/18/2020 - 10:59 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.2283,
+    "longitude": -92.00987
+  },
+  {
     "address": "4100 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "08/18/2020 - 10:53 AM",
