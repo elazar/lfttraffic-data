@@ -1,5 +1,13 @@
 [
   {
+    "address": "4100 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "08/18/2020 - 10:53 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.1975404,
+    "longitude": -92.0719439
+  },
+  {
     "address": "6914 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/18/2020 - 10:50 AM",
