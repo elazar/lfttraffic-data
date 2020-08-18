@@ -1,5 +1,13 @@
 [
   {
+    "address": "BERTRAND DR & E DEVALCOURT ST",
+    "city": "LAFAYETTE",
+    "time": "08/18/2020 - 08:45 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21831,
+    "longitude": -92.04931
+  },
+  {
     "address": "1512 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "08/18/2020 - 08:39 AM",
