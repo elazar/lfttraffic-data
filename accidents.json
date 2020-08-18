@@ -1,5 +1,13 @@
 [
   {
+    "address": "900 E UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "08/18/2020 - 5:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.211,
+    "longitude": -92.01165
+  },
+  {
     "address": "S COLLEGE RD & BENDEL RD",
     "city": "LAFAYETTE",
     "time": "08/18/2020 - 5:18 PM",
