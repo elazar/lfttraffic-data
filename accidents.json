@@ -1,19 +1,19 @@
 [
   {
+    "address": "TOBY MOUTON RD & S RICHFIELD RD",
+    "city": "DUSON",
+    "time": "08/18/2020 - 2:43 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24106,
+    "longitude": -92.17608
+  },
+  {
     "address": "DEMPSEY DR & DAMON DR",
     "city": "LAFAYETTE",
     "time": "08/18/2020 - 2:37 PM",
     "due_to": "Road Hazard",
     "latitude": 30.1643,
     "longitude": -92.07688
-  },
-  {
-    "address": "TREESCAPE DR & REDFERN ST",
-    "city": "LAFAYETTE",
-    "time": "08/18/2020 - 2:25 PM",
-    "due_to": "Fire Investigation",
-    "latitude": null,
-    "longitude": null
   },
   {
     "address": "1900 W WILLOW ST",
