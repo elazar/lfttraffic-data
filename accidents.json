@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 TWELFTH ST",
+    "city": "LAFAYETTE",
+    "time": "08/18/2020 - 10:09 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.22234,
+    "longitude": -92.00793
+  },
+  {
     "address": "NW EVANGELINE TW & W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "08/18/2020 - 10:02 AM",
