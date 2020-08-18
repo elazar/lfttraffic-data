@@ -1,5 +1,13 @@
 [
   {
+    "address": "E PONT DES MOUTON RD & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "08/17/2020 - 7:43 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.27233,
+    "longitude": -91.99249
+  },
+  {
     "address": "800 I10 SOUTH FRONTAGE RD",
     "city": "SCOTT",
     "time": "08/17/2020 - 7:30 PM",
