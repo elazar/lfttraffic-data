@@ -8,6 +8,14 @@
     "longitude": null
   },
   {
+    "address": "1900 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "08/18/2020 - 2:22 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.2437649,
+    "longitude": -92.057765
+  },
+  {
     "address": "3300 NE EVANGELINE TW",
     "city": "CARENCRO",
     "time": "08/18/2020 - 2:13 PM",
