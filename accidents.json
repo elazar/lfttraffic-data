@@ -1,5 +1,21 @@
 [
   {
+    "address": "800 I10 SOUTH FRONTAGE RD",
+    "city": "SCOTT",
+    "time": "08/17/2020 - 7:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24625,
+    "longitude": -92.1004
+  },
+  {
+    "address": "98 I10 EASTBOUND MM98 HW",
+    "city": "SCOTT",
+    "time": "08/17/2020 - 7:30 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24727,
+    "longitude": -92.09751
+  },
+  {
     "address": "3142 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/17/2020 - 7:10 PM",
