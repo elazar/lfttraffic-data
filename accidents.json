@@ -1,5 +1,13 @@
 [
   {
+    "address": "105 W GLORIA SWITCH RD",
+    "city": "LAFAYETTE",
+    "time": "08/18/2020 - 4:15 PM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.29526,
+    "longitude": -92.0274
+  },
+  {
     "address": "LA 96 HW & ST NAZAIRE RD",
     "city": "BROUSSARD",
     "time": "08/18/2020 - 4:12 PM",
