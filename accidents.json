@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & LEBESQUE RD",
+    "city": "LAFAYETTE",
+    "time": "08/18/2020 - 2:23 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.27587,
+    "longitude": -92.04949
+  },
+  {
     "address": "6770 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/18/2020 - 1:46 PM",
