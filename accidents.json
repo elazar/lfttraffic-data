@@ -1,5 +1,13 @@
 [
   {
+    "address": "SPRUCE DR & MAPLE DR",
+    "city": "LAFAYETTE",
+    "time": "08/17/2020 - 11:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1923,
+    "longitude": -92.06606
+  },
+  {
     "address": "W GLORIA SWITCH RD & LUMINA DR",
     "city": "CARENCRO",
     "time": "08/17/2020 - 10:07 PM",
