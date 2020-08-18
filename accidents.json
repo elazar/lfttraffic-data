@@ -1,5 +1,13 @@
 [
   {
+    "address": "3142 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "08/17/2020 - 7:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1873,
+    "longitude": -92.07797
+  },
+  {
     "address": "1734 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "08/17/2020 - 6:09 PM",
