@@ -1,5 +1,13 @@
 [
   {
+    "address": "225 CONRAD ST",
+    "city": "LAFAYETTE",
+    "time": "08/19/2020 - 6:43 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.25604,
+    "longitude": -92.01796
+  },
+  {
     "address": "GLOUCHESTER RD & BIRCH DR",
     "city": "LAFAYETTE",
     "time": "08/19/2020 - 6:39 PM",
