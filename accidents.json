@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 MALVEAUX RD",
+    "city": "LAFAYETTE",
+    "time": "08/18/2020 - 10:28 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.13968,
+    "longitude": -92.10652
+  },
+  {
     "address": "812 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "08/18/2020 - 9:52 PM",
