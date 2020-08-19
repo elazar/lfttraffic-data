@@ -1,5 +1,21 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "08/19/2020 - 3:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24324,
+    "longitude": -92.06626
+  },
+  {
+    "address": "800 ROBLEY DR",
+    "city": "LAFAYETTE",
+    "time": "08/19/2020 - 3:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1712326,
+    "longitude": -92.066409
+  },
+  {
     "address": "W PINHOOK RD & E KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "08/19/2020 - 3:25 PM",
