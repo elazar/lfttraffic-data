@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 DIJON DR",
+    "city": "LAFAYETTE",
+    "time": "08/19/2020 - 6:13 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20859,
+    "longitude": -92.07076
+  },
+  {
     "address": "4505 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/19/2020 - 5:51 PM",
@@ -38,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.3139417,
     "longitude": -92.0354016
-  },
-  {
-    "address": "2314 KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "08/19/2020 - 3:37 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.16145,
-    "longitude": -92.04364
   },
   {
     "address": "1000 COOLIDGE ST",
