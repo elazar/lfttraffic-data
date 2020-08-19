@@ -1,5 +1,13 @@
 [
   {
+    "address": "1211 COOLIDGE ST",
+    "city": "LAFAYETTE",
+    "time": "08/19/2020 - 10:47 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20239,
+    "longitude": -92.01825
+  },
+  {
     "address": "3222 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/19/2020 - 10:37 AM",
