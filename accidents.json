@@ -16,14 +16,6 @@
     "longitude": -92.01343
   },
   {
-    "address": "CAMELLIA BL & VEROT SCHOOL RD",
-    "city": "LAFAYETTE",
-    "time": "08/19/2020 - 5:27 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.16043,
-    "longitude": -92.02256
-  },
-  {
     "address": "2144 W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "08/19/2020 - 5:27 PM",
@@ -46,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.3139417,
     "longitude": -92.0354016
-  },
-  {
-    "address": "629 LA 96 HW",
-    "city": "BROUSSARD",
-    "time": "08/19/2020 - 5:01 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1301815,
-    "longitude": -91.9288744
   },
   {
     "address": "W PINHOOK RD & JOMELA DR",
