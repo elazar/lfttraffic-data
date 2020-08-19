@@ -1,11 +1,11 @@
 [
   {
-    "address": "1320 N UNIVERSITY AV",
+    "address": "1001 NE EVANGELINE TW",
     "city": "LAFAYETTE",
-    "time": "08/19/2020 - 1:53 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.24703,
-    "longitude": -92.0334
+    "time": "08/19/2020 - 1:59 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23683,
+    "longitude": -92.01315
   },
   {
     "address": "SE EVANGELINE TW & E PINHOOK RD",
