@@ -1,13 +1,5 @@
 [
   {
-    "address": "4 I49 NORTHBOUND MM4 HW",
-    "city": "LAFAYETTE",
-    "time": "08/19/2020 - 6:19 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.28006,
-    "longitude": -92.02024
-  },
-  {
     "address": "200 DIJON DR",
     "city": "LAFAYETTE",
     "time": "08/19/2020 - 6:13 PM",
@@ -30,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23033,
     "longitude": -92.01343
-  },
-  {
-    "address": "2144 W WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "08/19/2020 - 5:27 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24465,
-    "longitude": -92.06505
   },
   {
     "address": "300 GUILBEAU RD",
