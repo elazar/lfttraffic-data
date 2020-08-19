@@ -1,5 +1,13 @@
 [
   {
+    "address": "117 N GENERAL MARSHALL ST",
+    "city": "LAFAYETTE",
+    "time": "08/19/2020 - 3:21 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22882,
+    "longitude": -91.99804
+  },
+  {
     "address": "700 ANDOVER RD",
     "city": "LAFAYETTE",
     "time": "08/19/2020 - 3:18 PM",
