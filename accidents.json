@@ -1,11 +1,11 @@
 [
   {
-    "address": "2300 KALISTE SALOOM RD",
+    "address": "JOHNSTON ST & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
-    "time": "08/19/2020 - 4:04 PM",
+    "time": "08/19/2020 - 4:07 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.16277,
-    "longitude": -92.04331
+    "latitude": 30.17808,
+    "longitude": -92.07452
   },
   {
     "address": "2314 KALISTE SALOOM RD",
@@ -46,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19911,
     "longitude": -92.01641
-  },
-  {
-    "address": "117 N GENERAL MARSHALL ST",
-    "city": "LAFAYETTE",
-    "time": "08/19/2020 - 3:21 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22882,
-    "longitude": -91.99804
   },
   {
     "address": "700 ANDOVER RD",
