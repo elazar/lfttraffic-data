@@ -1,5 +1,13 @@
 [
   {
+    "address": "2300 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "08/19/2020 - 4:04 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16277,
+    "longitude": -92.04331
+  },
+  {
     "address": "2314 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "08/19/2020 - 3:37 PM",
