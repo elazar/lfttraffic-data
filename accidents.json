@@ -1,5 +1,13 @@
 [
   {
+    "address": "700 ANDOVER RD",
+    "city": "LAFAYETTE",
+    "time": "08/19/2020 - 3:18 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.1773228,
+    "longitude": -92.1628765
+  },
+  {
     "address": "123 ST NAZAIRE RD",
     "city": "BROUSSARD",
     "time": "08/19/2020 - 3:08 PM",
