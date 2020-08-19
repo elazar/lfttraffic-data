@@ -1,5 +1,13 @@
 [
   {
+    "address": "MARTIN LUTHER KING JR DR & FITZGERALD ST",
+    "city": "LAFAYETTE",
+    "time": "08/18/2020 - 11:08 PM",
+    "due_to": "Hazardous Situation",
+    "latitude": 30.24948,
+    "longitude": -92.02398
+  },
+  {
     "address": "100 MALVEAUX RD",
     "city": "LAFAYETTE",
     "time": "08/18/2020 - 10:28 PM",
