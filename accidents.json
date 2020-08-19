@@ -1,5 +1,13 @@
 [
   {
+    "address": "NW EVANGELINE TW & E SECOND ST",
+    "city": "LAFAYETTE",
+    "time": "08/19/2020 - 5:25 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23033,
+    "longitude": -92.01343
+  },
+  {
     "address": "900 E UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "08/19/2020 - 5:21 PM",
