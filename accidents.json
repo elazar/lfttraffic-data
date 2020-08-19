@@ -1,27 +1,11 @@
 [
   {
-    "address": "N DOMINGUE AV & GUILBEAU RD",
-    "city": "LAFAYETTE",
-    "time": "08/19/2020 - 11:32 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.20263,
-    "longitude": -92.08363
-  },
-  {
     "address": "KALISTE SALOOM RD & MEADOW FARM RD",
     "city": "LAFAYETTE",
     "time": "08/19/2020 - 11:20 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.15813,
     "longitude": -92.04675
-  },
-  {
-    "address": "AMBASSADOR CAFFERY PW & KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "08/19/2020 - 10:50 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15649,
-    "longitude": -92.04838
   },
   {
     "address": "4210 AMBASSADOR CAFFERY PW",
