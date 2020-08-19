@@ -1,19 +1,19 @@
 [
   {
+    "address": "ANDERSON RD & SACALAIT RD",
+    "city": "LAFAYETTE",
+    "time": "08/18/2020 - 7:25 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.24005,
+    "longitude": -92.16755
+  },
+  {
     "address": "200 THEATRE ST",
     "city": "LAFAYETTE",
     "time": "08/18/2020 - 7:24 PM",
     "due_to": "Commercial Fire",
     "latitude": 30.21057,
     "longitude": -92.0474
-  },
-  {
-    "address": "DUGAS RD & URBANA DR",
-    "city": "LLAFAYETTE",
-    "time": "08/18/2020 - 7:22 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.20924,
-    "longitude": -92.04661
   },
   {
     "address": "LOUISIANA AV & I10 HW",
