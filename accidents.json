@@ -1,5 +1,21 @@
 [
   {
+    "address": "CAMELLIA BL & VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "08/19/2020 - 5:27 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.16043,
+    "longitude": -92.02256
+  },
+  {
+    "address": "2144 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "08/19/2020 - 5:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24465,
+    "longitude": -92.06505
+  },
+  {
     "address": "NW EVANGELINE TW & E SECOND ST",
     "city": "LAFAYETTE",
     "time": "08/19/2020 - 5:25 PM",
