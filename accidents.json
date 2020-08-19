@@ -1,5 +1,13 @@
 [
   {
+    "address": "812 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "08/18/2020 - 9:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23943,
+    "longitude": -92.03187
+  },
+  {
     "address": "BERTRAND DR & ERASTE LANDRY RD",
     "city": "LAFAYETTE",
     "time": "08/18/2020 - 9:37 PM",
