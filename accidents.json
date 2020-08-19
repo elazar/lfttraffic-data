@@ -1,5 +1,13 @@
 [
   {
+    "address": "1320 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "08/19/2020 - 1:53 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.24703,
+    "longitude": -92.0334
+  },
+  {
     "address": "SE EVANGELINE TW & E PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "08/19/2020 - 1:50 PM",
