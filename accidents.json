@@ -1,5 +1,13 @@
 [
   {
+    "address": "2511 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "08/18/2020 - 9:18 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15727,
+    "longitude": -92.0468
+  },
+  {
     "address": "2900 CHEMIN METAIRIE PW",
     "city": "YOUNGSVILLE",
     "time": "08/18/2020 - 9:05 PM",
