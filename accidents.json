@@ -1,5 +1,13 @@
 [
   {
+    "address": "BERTRAND DR & ERASTE LANDRY RD",
+    "city": "LAFAYETTE",
+    "time": "08/18/2020 - 9:37 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22405,
+    "longitude": -92.05469
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & CRESCENT RANCH BL",
     "city": "LAFAYETTE",
     "time": "08/18/2020 - 8:27 PM",
