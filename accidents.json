@@ -1,26 +1,10 @@
 [
   {
-    "address": "327 FOREST GROVE DR",
-    "city": "YOUNGSVILLE",
-    "time": "08/20/2020 - 09:26 AM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.08154,
-    "longitude": -91.98512
-  },
-  {
     "address": "HUGH WALLIS RD & E KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "08/20/2020 - 09:06 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.19971,
     "longitude": -92.00181
-  },
-  {
-    "address": "1500 KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "08/20/2020 - 08:10 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1719417,
-    "longitude": -92.0309524
   }
 ]
