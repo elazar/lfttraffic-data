@@ -1,5 +1,13 @@
 [
   {
+    "address": "4950 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/20/2020 - 4:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18513,
+    "longitude": -92.06812
+  },
+  {
     "address": "103 MCNARY ST",
     "city": "BROUSSARD",
     "time": "08/20/2020 - 4:27 PM",
@@ -46,14 +54,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2154387,
     "longitude": -92.0471344
-  },
-  {
-    "address": "OLD CAMP RD & MEADOW FARM RD",
-    "city": "LAFAYETTE",
-    "time": "08/20/2020 - 3:23 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15755,
-    "longitude": -92.0433
   },
   {
     "address": "300 JESSICA ST",
