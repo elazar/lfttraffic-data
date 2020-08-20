@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 JUSTIN ST",
+    "city": "LAFAYETTE",
+    "time": "08/20/2020 - 2:06 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2556,
+    "longitude": -92.01656
+  },
+  {
     "address": "BEAU BASSIN RD & FARMVIEW DR",
     "city": "LAFAYETTE",
     "time": "08/20/2020 - 2:00 PM",
