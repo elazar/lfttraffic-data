@@ -1,5 +1,13 @@
 [
   {
+    "address": "ST CHARLES ST & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "08/20/2020 - 3:55 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22449,
+    "longitude": -92.00205
+  },
+  {
     "address": "W CONGRESS ST & BERTRAND DR",
     "city": "LAFAYETTE",
     "time": "08/20/2020 - 3:45 PM",
