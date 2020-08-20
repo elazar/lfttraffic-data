@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "GLOUCHESTER RD & BIRCH DR",
+    "city": "LAFAYETTE",
+    "time": "08/19/2020 - 6:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18944,
+    "longitude": -92.06548
+  }
+]
