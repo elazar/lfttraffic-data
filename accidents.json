@@ -1,5 +1,13 @@
 [
   {
+    "address": "1211 COOLIDGE ST",
+    "city": "LAFAYETTE",
+    "time": "08/20/2020 - 3:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20239,
+    "longitude": -92.01825
+  },
+  {
     "address": "2469 RICELAND RD",
     "city": "LAFAYETTE",
     "time": "08/20/2020 - 2:53 PM",
