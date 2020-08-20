@@ -1,5 +1,13 @@
 [
   {
+    "address": "1500 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "08/20/2020 - 08:10 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1719417,
+    "longitude": -92.0309524
+  },
+  {
     "address": "W WILLOW ST & N PIERCE ST",
     "city": "LAFAYETTE",
     "time": "08/20/2020 - 07:40 AM",
