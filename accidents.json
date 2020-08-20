@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & ST JULIEN AV",
+    "city": "LAFAYETTE",
+    "time": "08/20/2020 - 3:14 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21151,
+    "longitude": -92.02691
+  },
+  {
     "address": "2400 RICELAND RD",
     "city": "LAFAYETTE",
     "time": "08/20/2020 - 3:11 PM",
@@ -22,13 +30,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.2554159,
     "longitude": -92.0229627
-  },
-  {
-    "address": "2600 MOSS ST",
-    "city": "LAFAYETTE",
-    "time": "08/20/2020 - 1:35 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.25598,
-    "longitude": -92.00498
   }
 ]
