@@ -1,5 +1,13 @@
 [
   {
+    "address": "655 MARIE ANTOINETTE ST",
+    "city": "LAFAYETTE",
+    "time": "08/20/2020 - 5:05 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20969,
+    "longitude": -92.06417
+  },
+  {
     "address": "LOUISIANA AV & WALLACE DR",
     "city": "LAFAYETTE",
     "time": "08/20/2020 - 4:51 PM",
