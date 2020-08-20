@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19326,
     "longitude": -92.05875
-  },
-  {
-    "address": "1000 COOLIDGE ST",
-    "city": "LAFAYETTE",
-    "time": "08/19/2020 - 12:31 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20586,
-    "longitude": -92.01586
   }
 ]
