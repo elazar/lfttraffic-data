@@ -1,5 +1,13 @@
 [
   {
+    "address": "BOCAGE CL & MACKEY DR",
+    "city": "LAFAYETTE",
+    "time": "08/20/2020 - 12:03 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.18373,
+    "longitude": -92.04825
+  },
+  {
     "address": "3616 N UNIVERSITY AV",
     "city": "CARENCRO",
     "time": "08/20/2020 - 11:58 AM",
