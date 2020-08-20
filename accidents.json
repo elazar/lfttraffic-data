@@ -1,5 +1,13 @@
 [
   {
+    "address": "2469 RICELAND RD",
+    "city": "LAFAYETTE",
+    "time": "08/20/2020 - 2:53 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.1836562,
+    "longitude": -92.2093651
+  },
+  {
     "address": "1800 CHEMIN METAIRIE PW",
     "city": "YOUNGSVILLE",
     "time": "08/20/2020 - 2:42 PM",
