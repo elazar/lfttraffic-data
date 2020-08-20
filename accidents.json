@@ -1,5 +1,13 @@
 [
   {
+    "address": "E MILTON AV & VEROT SCHOOL RD",
+    "city": "YOUNGSVILLE",
+    "time": "08/20/2020 - 5:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.08575,
+    "longitude": -92.03246
+  },
+  {
     "address": "655 MARIE ANTOINETTE ST",
     "city": "LAFAYETTE",
     "time": "08/20/2020 - 5:05 PM",
