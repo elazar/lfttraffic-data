@@ -1,5 +1,13 @@
 [
   {
+    "address": "154 JOMELA DR",
+    "city": "LAFAYETTE",
+    "time": "08/20/2020 - 02:27 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1970167,
+    "longitude": -92.0128037
+  },
+  {
     "address": "W BRENTWOOD BL & ESSEX ST",
     "city": "LAFAYETTE",
     "time": "08/19/2020 - 11:58 PM",
