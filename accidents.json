@@ -1,5 +1,13 @@
 [
   {
+    "address": "1700 SW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "08/20/2020 - 10:38 AM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.2057678,
+    "longitude": -92.0009227
+  },
+  {
     "address": "5633 CAMERON ST",
     "city": "SCOTT",
     "time": "08/20/2020 - 10:28 AM",
