@@ -1,5 +1,13 @@
 [
   {
+    "address": "5633 CAMERON ST",
+    "city": "SCOTT",
+    "time": "08/20/2020 - 10:28 AM",
+    "due_to": "Hazardous Material",
+    "latitude": 30.23318,
+    "longitude": -92.09112
+  },
+  {
     "address": "JANVIER RD & RUE DES BABINEAUX",
     "city": "LAFAYETTE",
     "time": "08/20/2020 - 10:11 AM",
