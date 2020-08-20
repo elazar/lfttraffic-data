@@ -1,5 +1,13 @@
 [
   {
+    "address": "2400 RICELAND RD",
+    "city": "LAFAYETTE",
+    "time": "08/20/2020 - 3:11 PM",
+    "due_to": "Grass Fire",
+    "latitude": 30.18664,
+    "longitude": -92.20966
+  },
+  {
     "address": "1211 COOLIDGE ST",
     "city": "LAFAYETTE",
     "time": "08/20/2020 - 3:01 PM",
