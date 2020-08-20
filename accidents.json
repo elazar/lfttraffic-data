@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "08/20/2020 - 10:42 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.19597,
+    "longitude": -92.07523
+  },
+  {
     "address": "100 I10 EASTBOUND MM100 HW",
     "city": "LAFAYETTE",
     "time": "08/20/2020 - 10:39 AM",
@@ -11,7 +19,7 @@
     "address": "717 HELLEN ST",
     "city": "LAFAYETTE",
     "time": "08/20/2020 - 10:39 AM",
-    "due_to": "Incoming Call",
+    "due_to": "Fire Investigation",
     "latitude": 30.24211,
     "longitude": -92.02624
   },
