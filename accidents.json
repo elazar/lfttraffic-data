@@ -1,5 +1,13 @@
 [
   {
+    "address": "5545 CAMERON ST",
+    "city": "SCOTT",
+    "time": "08/20/2020 - 1:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2327,
+    "longitude": -92.08829
+  },
+  {
     "address": "MARYVIEW FARM RD & MOSS ST",
     "city": "LAFAYETTE",
     "time": "08/20/2020 - 1:43 PM",
