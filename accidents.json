@@ -1,5 +1,13 @@
 [
   {
+    "address": "2309 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "08/20/2020 - 1:49 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.18393,
+    "longitude": -92.00677
+  },
+  {
     "address": "5545 CAMERON ST",
     "city": "SCOTT",
     "time": "08/20/2020 - 1:45 PM",
