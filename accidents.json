@@ -1,5 +1,13 @@
 [
   {
+    "address": "I10 EASTBOUND MM103A HW & NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "08/21/2020 - 2:55 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24339,
+    "longitude": -92.0133
+  },
+  {
     "address": "BERTRAND DR & BILLEAUD LN",
     "city": "LAFAYETTE",
     "time": "08/21/2020 - 2:44 PM",
