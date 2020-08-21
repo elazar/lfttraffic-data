@@ -1,5 +1,13 @@
 [
   {
+    "address": "BERTRAND DR & BILLEAUD LN",
+    "city": "LAFAYETTE",
+    "time": "08/21/2020 - 2:44 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22233,
+    "longitude": -92.05213
+  },
+  {
     "address": "1800 CHEMIN METAIRIE PW",
     "city": "YOUNGSVILLE",
     "time": "08/21/2020 - 2:43 PM",
