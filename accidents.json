@@ -1,5 +1,21 @@
 [
   {
+    "address": "3700 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "08/21/2020 - 3:32 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.1588529,
+    "longitude": -91.969704
+  },
+  {
+    "address": "4000 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "08/21/2020 - 3:31 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.15286,
+    "longitude": -91.96153
+  },
+  {
     "address": "3205 LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "08/21/2020 - 3:30 PM",
