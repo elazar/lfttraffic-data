@@ -1,19 +1,11 @@
 [
   {
-    "address": "600 ROSELAWN BL",
-    "city": "LAFAYETTE",
-    "time": "08/21/2020 - 1:39 PM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.19147,
-    "longitude": -92.0422
-  },
-  {
-    "address": "3826 MOSS ST",
+    "address": "100 CLAUSE LN",
     "city": "LAFAYETTE",
     "time": "08/21/2020 - 1:38 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.27735,
-    "longitude": -92.00727
+    "latitude": 30.2776424,
+    "longitude": -92.0076394
   },
   {
     "address": "AMBASSADOR CAFFERY PW & BONAIRE DR",
