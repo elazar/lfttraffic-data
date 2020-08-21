@@ -1,13 +1,5 @@
 [
   {
-    "address": "1400 GENDARME RD",
-    "city": "LAFAYETTE",
-    "time": "08/21/2020 - 09:56 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.34997,
-    "longitude": -92.08524
-  },
-  {
     "address": "E PONT DES MOUTON RD & NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "08/21/2020 - 09:54 AM",
@@ -38,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20151,
     "longitude": -92.05367
-  },
-  {
-    "address": "4401 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "08/21/2020 - 08:55 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15979,
-    "longitude": -92.04845
   }
 ]
