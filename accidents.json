@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "3500 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "08/21/2020 - 06:51 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1774019,
+    "longitude": -92.0739576
+  }
+]
