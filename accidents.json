@@ -8,12 +8,12 @@
     "longitude": -91.99897
   },
   {
-    "address": "MOSSWOOD CL & BROADMOOR BL",
+    "address": "109 MOSSWOOD CL",
     "city": "LAFAYETTE",
     "time": "08/21/2020 - 12:13 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.16704,
-    "longitude": -92.0577
+    "due_to": "Fire Investigation",
+    "latitude": 30.16694,
+    "longitude": -92.05633
   },
   {
     "address": "ST ESPRIT RD & CATHOLIQUE RD",
@@ -22,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.33603,
     "longitude": -92.01824
-  },
-  {
-    "address": "3300 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "08/21/2020 - 12:07 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.1653346,
-    "longitude": -91.9978278
   },
   {
     "address": "JOHNSTON ST & E CYPRESS ST",
