@@ -1,5 +1,13 @@
 [
   {
+    "address": "228 INDUSTRIAL PW",
+    "city": "LAFAYETTE",
+    "time": "08/20/2020 - 7:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18681,
+    "longitude": -92.00347
+  },
+  {
     "address": "VANBUREN DR & MOSS ST",
     "city": "LAFAYETTE",
     "time": "08/20/2020 - 7:29 PM",
