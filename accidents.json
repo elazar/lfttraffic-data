@@ -1,5 +1,13 @@
 [
   {
+    "address": "1900 LA 93 HW",
+    "city": "LAFAYETTE",
+    "time": "08/21/2020 - 6:44 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.21102,
+    "longitude": -92.08756
+  },
+  {
     "address": "2600 E MILTON AV",
     "city": "YOUNGSVILLE",
     "time": "08/21/2020 - 6:15 PM",
