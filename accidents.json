@@ -1,5 +1,13 @@
 [
   {
+    "address": "5600 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "08/21/2020 - 6:18 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.19735,
+    "longitude": -92.1194
+  },
+  {
     "address": "2600 E MILTON AV",
     "city": "YOUNGSVILLE",
     "time": "08/21/2020 - 6:15 PM",
