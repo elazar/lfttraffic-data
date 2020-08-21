@@ -1,5 +1,13 @@
 [
   {
+    "address": "E SIMCOE ST & MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "08/21/2020 - 1:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23069,
+    "longitude": -92.00911
+  },
+  {
     "address": "105 I10 EASTBOUND MM105 HW",
     "city": "LAFAYETTE",
     "time": "08/21/2020 - 12:47 PM",
