@@ -1,5 +1,13 @@
 [
   {
+    "address": "CLIFFORD RD & NORA ST",
+    "city": "LAFAYETTE",
+    "time": "08/21/2020 - 5:35 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.22862,
+    "longitude": -91.99739
+  },
+  {
     "address": "100 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "08/21/2020 - 5:19 PM",
