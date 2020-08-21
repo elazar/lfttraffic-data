@@ -1,5 +1,21 @@
 [
   {
+    "address": "RAILROAD ST & AVENUE B",
+    "city": "YOUNGSVILLE",
+    "time": "08/21/2020 - 12:13 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.09585,
+    "longitude": -91.99897
+  },
+  {
+    "address": "MOSSWOOD CL & BROADMOOR BL",
+    "city": "LAFAYETTE",
+    "time": "08/21/2020 - 12:13 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.16704,
+    "longitude": -92.0577
+  },
+  {
     "address": "ST ESPRIT RD & CATHOLIQUE RD",
     "city": "LAFAYETTE",
     "time": "08/21/2020 - 12:08 PM",
