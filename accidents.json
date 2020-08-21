@@ -1,5 +1,21 @@
 [
   {
+    "address": "3300 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "08/21/2020 - 12:07 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1653346,
+    "longitude": -91.9978278
+  },
+  {
+    "address": "JOHNSTON ST & E CYPRESS ST",
+    "city": "LAFAYETTE",
+    "time": "08/21/2020 - 12:06 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22453,
+    "longitude": -92.01428
+  },
+  {
     "address": "2810 E MILTON AV",
     "city": "YOUNGSVILLE",
     "time": "08/21/2020 - 11:48 AM",
