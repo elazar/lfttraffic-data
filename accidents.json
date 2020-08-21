@@ -1,19 +1,19 @@
 [
   {
+    "address": "4105 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "08/21/2020 - 12:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15359,
+    "longitude": -91.95889
+  },
+  {
     "address": "1904 ST MARY ST",
     "city": "SCOTT",
     "time": "08/21/2020 - 12:33 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.244338,
     "longitude": -92.1068496
-  },
-  {
-    "address": "109 MOSSWOOD CL",
-    "city": "LAFAYETTE",
-    "time": "08/21/2020 - 12:13 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.16694,
-    "longitude": -92.05633
   },
   {
     "address": "ST ESPRIT RD & CATHOLIQUE RD",
@@ -30,13 +30,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22453,
     "longitude": -92.01428
-  },
-  {
-    "address": "2810 E MILTON AV",
-    "city": "YOUNGSVILLE",
-    "time": "08/21/2020 - 11:48 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.10907,
-    "longitude": -92.01743
   }
 ]
