@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 ROSELAWN BL",
+    "city": "LAFAYETTE",
+    "time": "08/21/2020 - 1:39 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.19147,
+    "longitude": -92.0422
+  },
+  {
     "address": "3826 MOSS ST",
     "city": "LAFAYETTE",
     "time": "08/21/2020 - 1:38 PM",
