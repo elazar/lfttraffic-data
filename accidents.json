@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "08/22/2020 - 12:18 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21729,
+    "longitude": -92.01902
+  },
+  {
     "address": "1200 MILLS ST",
     "city": "SCOTT",
     "time": "08/22/2020 - 12:16 AM",
