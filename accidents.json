@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 LEE AV",
+    "city": "LAFAYETTE",
+    "time": "08/22/2020 - 1:08 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22686,
+    "longitude": -92.01444
+  },
+  {
     "address": "509 LAFAYETTE ST",
     "city": "YOUNGSVILLE",
     "time": "08/22/2020 - 12:58 PM",
