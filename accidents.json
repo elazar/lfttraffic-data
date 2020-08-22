@@ -1,5 +1,13 @@
 [
   {
+    "address": "ST JOHN ST & W CONVENT ST",
+    "city": "LAFAYETTE",
+    "time": "08/22/2020 - 2:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22171,
+    "longitude": -92.02285
+  },
+  {
     "address": "8200 CAMERON ST",
     "city": "LAFAYETTE",
     "time": "08/22/2020 - 2:22 PM",
