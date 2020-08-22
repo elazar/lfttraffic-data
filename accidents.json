@@ -1,5 +1,13 @@
 [
   {
+    "address": "3806 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "08/22/2020 - 2:03 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17072,
+    "longitude": -92.06613
+  },
+  {
     "address": "100 HANCHEY ST",
     "city": "LAFAYETTE",
     "time": "08/22/2020 - 1:47 PM",
