@@ -1,26 +1,10 @@
 [
   {
-    "address": "6774 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "08/22/2020 - 10:38 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1515091,
-    "longitude": -92.0933988
-  },
-  {
     "address": "W GLORIA SWITCH RD & WALTER DR",
     "city": "CARENCRO",
     "time": "08/22/2020 - 10:25 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.29783,
     "longitude": -92.03873
-  },
-  {
-    "address": "501 MARIE ANTOINETTE ST",
-    "city": "LAFAYETTE",
-    "time": "08/22/2020 - 09:48 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20775,
-    "longitude": -92.0608
   }
 ]
