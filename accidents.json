@@ -1,5 +1,13 @@
 [
   {
+    "address": "1200 MILLS ST",
+    "city": "SCOTT",
+    "time": "08/22/2020 - 12:16 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2529902,
+    "longitude": -92.0909451
+  },
+  {
     "address": "LA NEUVILLE RD & BONIN RD",
     "city": "LAFAYETTE",
     "time": "08/21/2020 - 11:49 PM",
