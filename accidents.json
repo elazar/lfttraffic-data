@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & CRAWFORD ST",
+    "city": "LAFAYETTE",
+    "time": "08/22/2020 - 3:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20213,
+    "longitude": -92.06433
+  },
+  {
     "address": "422 W TAFT ST",
     "city": "LAFAYETTE",
     "time": "08/22/2020 - 3:24 PM",
