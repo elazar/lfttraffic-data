@@ -1,5 +1,13 @@
 [
   {
+    "address": "720 I10 SOUTH FRONTAGE RD",
+    "city": "SCOTT",
+    "time": "08/21/2020 - 9:19 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24612,
+    "longitude": -92.1052
+  },
+  {
     "address": "219 AMITE DR",
     "city": "LAFAYETTE",
     "time": "08/21/2020 - 9:08 PM",
