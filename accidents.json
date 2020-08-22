@@ -1,5 +1,13 @@
 [
   {
+    "address": "310 HERBERT RD",
+    "city": "LAFAYETTE",
+    "time": "08/22/2020 - 12:57 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2052,
+    "longitude": -92.09833
+  },
+  {
     "address": "JOHNSTON ST & W UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "08/22/2020 - 12:18 AM",
