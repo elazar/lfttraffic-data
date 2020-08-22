@@ -1,5 +1,13 @@
 [
   {
+    "address": "S FIELDSPAN RD & CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "08/22/2020 - 2:24 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.23499,
+    "longitude": -92.14208
+  },
+  {
     "address": "CAMERON ST & HOLLIER RD",
     "city": "LAFAYETTE",
     "time": "08/22/2020 - 2:22 PM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17072,
     "longitude": -92.06613
-  },
-  {
-    "address": "5 I49 NORTHBOUND MM5 HW",
-    "city": "LAFAYETTE",
-    "time": "08/22/2020 - 1:35 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.28006,
-    "longitude": -92.02024
   }
 ]
