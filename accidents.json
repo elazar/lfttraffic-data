@@ -1,5 +1,21 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & WESTMARK BL",
+    "city": "LAFAYETTE",
+    "time": "08/22/2020 - 5:04 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.18444,
+    "longitude": -92.07499
+  },
+  {
+    "address": "800 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/22/2020 - 5:04 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.2212008,
+    "longitude": -92.0166616
+  },
+  {
     "address": "200 DESTINATION POINTE LN",
     "city": "SCOTT",
     "time": "08/22/2020 - 4:38 PM",
