@@ -8,14 +8,6 @@
     "longitude": -91.95651
   },
   {
-    "address": "E KALISTE SALOOM RD & RAILROAD TRACKS",
-    "city": "LAFAYETTE",
-    "time": "08/22/2020 - 1:38 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.19538,
-    "longitude": -92.00655
-  },
-  {
     "address": "5 I49 NORTHBOUND MM5 HW",
     "city": "LAFAYETTE",
     "time": "08/22/2020 - 1:35 PM",
@@ -30,13 +22,5 @@
     "due_to": "Hazardous Situation",
     "latitude": 30.24319,
     "longitude": -92.03925
-  },
-  {
-    "address": "BONIN RD & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "08/22/2020 - 12:43 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.13528,
-    "longitude": -92.00763
   }
 ]
