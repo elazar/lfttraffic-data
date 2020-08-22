@@ -1,5 +1,13 @@
 [
   {
+    "address": "501 MARIE ANTOINETTE ST",
+    "city": "LAFAYETTE",
+    "time": "08/22/2020 - 09:48 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20775,
+    "longitude": -92.0608
+  },
+  {
     "address": "SE EVANGELINE TW & EIGHTH ST",
     "city": "LAFAYETTE",
     "time": "08/22/2020 - 09:00 AM",
