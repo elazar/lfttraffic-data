@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & LOCKETT PL",
+    "city": "LAFAYETTE",
+    "time": "08/22/2020 - 12:34 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23101,
+    "longitude": -92.06265
+  },
+  {
     "address": "200 DESTINATION POINTE LN",
     "city": "SCOTT",
     "time": "08/22/2020 - 12:09 PM",
