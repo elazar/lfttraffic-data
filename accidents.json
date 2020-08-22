@@ -1,5 +1,13 @@
 [
   {
+    "address": "203 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "08/22/2020 - 11:56 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24249,
+    "longitude": -92.06552
+  },
+  {
     "address": "116 CAMELLIA BL",
     "city": "LAFAYETTE",
     "time": "08/22/2020 - 11:50 AM",
