@@ -8,12 +8,12 @@
     "longitude": -92.0753949
   },
   {
-    "address": "100 COLORADO RD",
+    "address": "751 COLORADO RD",
     "city": "LAFAYETTE",
     "time": "08/22/2020 - 2:59 PM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.18135,
-    "longitude": -92.11709
+    "latitude": 30.1948738,
+    "longitude": -92.1109214
   },
   {
     "address": "W UNIVERSITY AV & ST JOHN ST",
@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22067,
     "longitude": -92.02351
-  },
-  {
-    "address": "3806 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "08/22/2020 - 2:03 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.17072,
-    "longitude": -92.06613
   }
 ]
