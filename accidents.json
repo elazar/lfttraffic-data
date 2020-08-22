@@ -2,6 +2,14 @@
   {
     "address": "219 AMITE DR",
     "city": "LAFAYETTE",
+    "time": "08/21/2020 - 9:08 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.157,
+    "longitude": -91.99982
+  },
+  {
+    "address": "219 AMITE DR",
+    "city": "LAFAYETTE",
     "time": "08/21/2020 - 9:07 PM",
     "due_to": "Incoming Call",
     "latitude": 30.157,
