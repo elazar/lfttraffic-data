@@ -1,5 +1,13 @@
 [
   {
+    "address": "PETUNIA LP & ASTER DR",
+    "city": "LAFAYETTE",
+    "time": "08/22/2020 - 12:52 PM",
+    "due_to": "Hazardous Situation",
+    "latitude": 30.24319,
+    "longitude": -92.03925
+  },
+  {
     "address": "BONIN RD & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/22/2020 - 12:43 PM",
@@ -16,12 +24,12 @@
     "longitude": -92.06265
   },
   {
-    "address": "CAMERON ST & AMBASSADOR CAFFERY PW",
+    "address": "800 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/22/2020 - 12:22 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.23252,
-    "longitude": -92.06264
+    "latitude": 30.2316407,
+    "longitude": -92.0627849
   },
   {
     "address": "203 AMBASSADOR CAFFERY PW",
