@@ -1,5 +1,13 @@
 [
   {
+    "address": "422 W TAFT ST",
+    "city": "LAFAYETTE",
+    "time": "08/22/2020 - 3:24 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.2133,
+    "longitude": -92.01318
+  },
+  {
     "address": "2800 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/22/2020 - 3:05 PM",
