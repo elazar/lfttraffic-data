@@ -1,5 +1,13 @@
 [
   {
+    "address": "116 CAMELLIA BL",
+    "city": "LAFAYETTE",
+    "time": "08/22/2020 - 11:50 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1922054,
+    "longitude": -92.0570948
+  },
+  {
     "address": "KALISTE SALOOM RD & RUE LOUIS XIV",
     "city": "LAFAYETTE",
     "time": "08/22/2020 - 11:46 AM",
