@@ -1,5 +1,13 @@
 [
   {
+    "address": "E ALEXANDER ST & TEURLINGS DR",
+    "city": "LAFAYETTE",
+    "time": "08/23/2020 - 10:51 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25402,
+    "longitude": -91.98977
+  },
+  {
     "address": "92 I10 WESTBOUND MM92 HW",
     "city": "Lafayette",
     "time": "08/23/2020 - 10:02 AM",
