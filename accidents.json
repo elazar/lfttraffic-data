@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "KALISTE SALOOM RD & N BEADLE RD",
+    "city": "LAFAYETTE",
+    "time": "08/22/2020 - 7:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18019,
+    "longitude": -92.02247
+  }
+]
