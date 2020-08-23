@@ -1,19 +1,11 @@
 [
   {
-    "address": "307 GENEVIEVE DR",
-    "city": "LAFAYETTE",
-    "time": "08/22/2020 - 10:05 PM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.18222,
-    "longitude": -92.06453
-  },
-  {
-    "address": "3808 JOHNSTON ST",
+    "address": "3809 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/22/2020 - 10:02 PM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.19949,
-    "longitude": -92.05584
+    "latitude": 30.19876,
+    "longitude": -92.05524
   },
   {
     "address": "1820 AMBASSADOR CAFFERY PW",
