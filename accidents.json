@@ -46,13 +46,5 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.18037,
     "longitude": -92.02318
-  },
-  {
-    "address": "W WILLOW ST & ESSIE ST",
-    "city": "LAFAYETTE",
-    "time": "08/22/2020 - 8:44 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24519,
-    "longitude": -92.01727
   }
 ]
