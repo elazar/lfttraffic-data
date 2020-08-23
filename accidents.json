@@ -1,5 +1,13 @@
 [
   {
+    "address": "2000 W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "08/23/2020 - 4:45 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23161,
+    "longitude": -92.03168
+  },
+  {
     "address": "BRADBURY CROSSING & STONEMONT RD",
     "city": "LAFAYETTE",
     "time": "08/23/2020 - 3:42 PM",
