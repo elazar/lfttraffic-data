@@ -1,5 +1,13 @@
 [
   {
+    "address": "107 MARTIN OAKS DR",
+    "city": "LAFAYETTE",
+    "time": "08/22/2020 - 10:30 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.24587,
+    "longitude": -91.99808
+  },
+  {
     "address": "906 S FIELDSPAN RD",
     "city": "LAFAYETTE",
     "time": "08/22/2020 - 10:18 PM",
