@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "WHITE OAK DR & JEANNE ST",
+    "city": "LAFAYETTE",
+    "time": "08/23/2020 - 07:52 AM",
+    "due_to": "Grass Fire",
+    "latitude": 30.22733,
+    "longitude": -92.03958
+  }
+]
