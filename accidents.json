@@ -1,5 +1,13 @@
 [
   {
+    "address": "W WILLOW ST & ESSIE ST",
+    "city": "LAFAYETTE",
+    "time": "08/22/2020 - 8:44 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24519,
+    "longitude": -92.01727
+  },
+  {
     "address": "NW EVANGELINE TW & CASTILLE AV",
     "city": "LAFAYETTE",
     "time": "08/22/2020 - 8:38 PM",
