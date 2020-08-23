@@ -1,5 +1,21 @@
 [
   {
+    "address": "1700 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "08/22/2020 - 9:03 PM",
+    "due_to": "Hazardous Situation",
+    "latitude": 30.24612,
+    "longitude": -92.01083
+  },
+  {
+    "address": "900 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "08/22/2020 - 9:03 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.18037,
+    "longitude": -92.02318
+  },
+  {
     "address": "W WILLOW ST & ESSIE ST",
     "city": "LAFAYETTE",
     "time": "08/22/2020 - 8:44 PM",
