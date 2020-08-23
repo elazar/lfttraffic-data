@@ -1,5 +1,13 @@
 [
   {
+    "address": "307 GENEVIEVE DR",
+    "city": "LAFAYETTE",
+    "time": "08/22/2020 - 10:05 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.18222,
+    "longitude": -92.06453
+  },
+  {
     "address": "3808 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/22/2020 - 10:02 PM",
