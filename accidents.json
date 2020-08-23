@@ -1,5 +1,13 @@
 [
   {
+    "address": "E PONT DES MOUTON RD & MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "08/23/2020 - 2:32 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.27304,
+    "longitude": -92.00812
+  },
+  {
     "address": "98 I10 EASTBOUND MM98 HW",
     "city": "SCOTT",
     "time": "08/23/2020 - 2:24 PM",
