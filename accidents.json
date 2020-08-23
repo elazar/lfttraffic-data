@@ -1,5 +1,13 @@
 [
   {
+    "address": "JEFFERSON ST & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/23/2020 - 3:34 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.2201,
+    "longitude": -92.0172
+  },
+  {
     "address": "E MILTON AV & VEROT SCHOOL RD",
     "city": "YOUNGSVILLE",
     "time": "08/23/2020 - 3:05 PM",
