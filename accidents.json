@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "W UNIVERSITY AV & PARKSIDE DR",
+    "city": "LAFAYETTE",
+    "time": "08/23/2020 - 09:37 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22241,
+    "longitude": -92.02585
+  }
+]
