@@ -1,18 +1,10 @@
 [
   {
-    "address": "N WILDERNESS",
-    "city": "Lafayette",
+    "address": "100 N WILDERNESS TL",
+    "city": "LAFAYETTE",
     "time": "08/23/2020 - 6:54 PM",
     "due_to": "Hazardous Situation",
-    "latitude": 30.32476,
-    "longitude": -91.99002
-  },
-  {
-    "address": "701 S COLLEGE RD",
-    "city": "LAFAYETTE",
-    "time": "08/23/2020 - 6:27 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2031,
-    "longitude": -92.03159
+    "latitude": 30.29501,
+    "longitude": -91.98083
   }
 ]
