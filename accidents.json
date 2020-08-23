@@ -1,5 +1,13 @@
 [
   {
+    "address": "GUILBEAU RD & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "08/23/2020 - 11:08 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19826,
+    "longitude": -92.07007
+  },
+  {
     "address": "E ALEXANDER ST & TEURLINGS DR",
     "city": "LAFAYETTE",
     "time": "08/23/2020 - 10:51 AM",
