@@ -1,5 +1,13 @@
 [
   {
+    "address": "208 ROSETTE LN",
+    "city": "LAFAYETTE",
+    "time": "08/23/2020 - 1:37 PM",
+    "due_to": "Grass Fire",
+    "latitude": 30.33842,
+    "longitude": -92.07065
+  },
+  {
     "address": "907 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "08/23/2020 - 1:15 PM",
