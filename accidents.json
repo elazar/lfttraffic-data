@@ -1,5 +1,13 @@
 [
   {
+    "address": "92 I10 WESTBOUND MM92 HW",
+    "city": "Lafayette",
+    "time": "08/23/2020 - 10:02 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "W UNIVERSITY AV & PARKSIDE DR",
     "city": "LAFAYETTE",
     "time": "08/23/2020 - 09:37 AM",
