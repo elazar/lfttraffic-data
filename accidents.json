@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 LULA LN",
+    "city": "LAFAYETTE",
+    "time": "08/23/2020 - 2:51 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.0533934,
+    "longitude": -92.0032149
+  },
+  {
     "address": "W CONGRESS ST & RUE DU BELIER",
     "city": "SCOTT",
     "time": "08/23/2020 - 2:50 PM",
