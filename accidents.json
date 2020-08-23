@@ -1,5 +1,29 @@
 [
   {
+    "address": "W CONGRESS ST & HUGGINS RD",
+    "city": "LAFAYETTE",
+    "time": "08/23/2020 - 12:00 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.19582,
+    "longitude": -92.0889
+  },
+  {
+    "address": "ELMIRA RD & HEIDE CL",
+    "city": "SCOTT",
+    "time": "08/23/2020 - 12:00 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25761,
+    "longitude": -92.07882
+  },
+  {
+    "address": "5700 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "08/23/2020 - 12:00 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.114,
+    "longitude": -91.94592
+  },
+  {
     "address": "GUILBEAU RD & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "08/23/2020 - 11:08 AM",
