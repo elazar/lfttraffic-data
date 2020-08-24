@@ -1,5 +1,13 @@
 [
   {
+    "address": "3561 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/23/2020 - 7:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2020846,
+    "longitude": -92.0522987
+  },
+  {
     "address": "W CONGRESS ST & ST JOHN ST",
     "city": "LAFAYETTE",
     "time": "08/23/2020 - 7:17 PM",
