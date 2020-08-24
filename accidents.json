@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22701,
     "longitude": -92.02287
-  },
-  {
-    "address": "200 ROSETTE LN",
-    "city": "LAFAYETTE",
-    "time": "08/23/2020 - 7:11 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.33841,
-    "longitude": -92.06946
   }
 ]
