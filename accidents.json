@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 LAJAUNIE RD",
+    "city": "LAFAYETTE",
+    "time": "08/23/2020 - 11:42 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2470753,
+    "longitude": -91.9884078
+  },
+  {
     "address": "1812 NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "08/23/2020 - 11:23 PM",
