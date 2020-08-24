@@ -1,5 +1,13 @@
 [
   {
+    "address": "144 MATHEWS BL",
+    "city": "LAFAYETTE",
+    "time": "08/24/2020 - 03:38 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17102,
+    "longitude": -92.0217
+  },
+  {
     "address": "1812 NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "08/23/2020 - 11:23 PM",
