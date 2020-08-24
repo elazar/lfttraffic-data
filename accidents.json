@@ -24,14 +24,6 @@
     "longitude": -92.08133
   },
   {
-    "address": "2645 S FIELDSPAN RD",
-    "city": "LAFAYETTE",
-    "time": "08/24/2020 - 4:04 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.16823,
-    "longitude": -92.14148
-  },
-  {
     "address": "1015 E MILTON AV",
     "city": "LAFAYETTE",
     "time": "08/24/2020 - 3:58 PM",
@@ -54,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2053441,
     "longitude": -92.00045
-  },
-  {
-    "address": "W AVONDALE DR & LODGE DR",
-    "city": "LAFAYETTE",
-    "time": "08/24/2020 - 3:11 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21649,
-    "longitude": -92.07927
   },
   {
     "address": "1300 MOSS ST",
