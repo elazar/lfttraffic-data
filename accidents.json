@@ -1,5 +1,13 @@
 [
   {
+    "address": "5010 N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "08/24/2020 - 6:12 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.32539,
+    "longitude": -92.04922
+  },
+  {
     "address": "3600 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "08/24/2020 - 6:10 PM",
