@@ -1,5 +1,21 @@
 [
   {
+    "address": "JOHNSTON ST & E BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "08/24/2020 - 3:47 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15059,
+    "longitude": -92.09379
+  },
+  {
+    "address": "JOHNSTON ST & E BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "08/24/2020 - 3:47 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15059,
+    "longitude": -92.09379
+  },
+  {
     "address": "701 VETERANS DR",
     "city": "CARENCRO",
     "time": "08/24/2020 - 3:30 PM",
