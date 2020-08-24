@@ -38,13 +38,5 @@
     "due_to": "Road Hazard",
     "latitude": 30.06625,
     "longitude": -91.97813
-  },
-  {
-    "address": "201 THEATRE ST",
-    "city": "LAFAYETTE",
-    "time": "08/24/2020 - 10:25 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2118376,
-    "longitude": -92.0471517
   }
 ]
