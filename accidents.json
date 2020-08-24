@@ -6,21 +6,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.29769,
     "longitude": -92.0387
-  },
-  {
-    "address": "551 SW EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "08/24/2020 - 07:59 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2250262,
-    "longitude": -92.0104021
-  },
-  {
-    "address": "3806 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "08/24/2020 - 06:54 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.17072,
-    "longitude": -92.06613
   }
 ]
