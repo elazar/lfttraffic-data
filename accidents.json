@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 CASTILLE AV",
+    "city": "LAFAYETTE",
+    "time": "08/23/2020 - 10:50 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.24906,
+    "longitude": -92.00691
+  },
+  {
     "address": "SE EVANGELINE TW & LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "08/23/2020 - 8:34 PM",
