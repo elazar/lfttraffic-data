@@ -1,18 +1,18 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & WESTMARK BL",
+    "city": "LAFAYETTE",
+    "time": "08/24/2020 - 10:51 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.18444,
+    "longitude": -92.07499
+  },
+  {
     "address": "BERTRAND DR & THEATRE ST",
     "city": "LAFAYETTE",
     "time": "08/24/2020 - 10:25 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.21243,
     "longitude": -92.04526
-  },
-  {
-    "address": "E BROUSSARD RD & JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "08/24/2020 - 09:24 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15059,
-    "longitude": -92.09379
   }
 ]
