@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 WESTGATE RD",
+    "city": "SCOTT",
+    "time": "08/24/2020 - 2:51 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23175,
+    "longitude": -92.08748
+  },
+  {
     "address": "1800 CHEMIN METAIRIE PW",
     "city": "YOUNGSVILLE",
     "time": "08/24/2020 - 2:37 PM",
