@@ -1,5 +1,13 @@
 [
   {
+    "address": "175 FRONTAGE RD",
+    "city": "DUSON",
+    "time": "08/24/2020 - 1:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25025,
+    "longitude": -92.19221
+  },
+  {
     "address": "405 IDLEWOOD BL",
     "city": "LAFAYETTE",
     "time": "08/24/2020 - 1:22 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.17263,
     "longitude": -92.03011
-  },
-  {
-    "address": "RICH ANGEL DR & ARPENT ST",
-    "city": "LAFAYETTE",
-    "time": "08/24/2020 - 12:59 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.29591,
-    "longitude": -92.10695
   },
   {
     "address": "AMBASSADOR CAFFERY PW & CHEMIN METAIRIE",
