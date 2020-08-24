@@ -1,18 +1,1 @@
-[
-  {
-    "address": "4400 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "08/24/2020 - 1:38 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15712,
-    "longitude": -92.05125
-  },
-  {
-    "address": "700 PIAT RD",
-    "city": "LAFAYETTE",
-    "time": "08/24/2020 - 12:16 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.06625,
-    "longitude": -91.97813
-  }
-]
+[]
