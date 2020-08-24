@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 BELFAST ST",
+    "city": "LAFAYETTE",
+    "time": "08/24/2020 - 1:45 PM",
+    "due_to": "Commercial Fire",
+    "latitude": 30.20378,
+    "longitude": -92.10351
+  },
+  {
     "address": "4400 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/24/2020 - 1:38 PM",
