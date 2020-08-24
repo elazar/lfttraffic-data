@@ -1,5 +1,13 @@
 [
   {
+    "address": "MOSS ST & E WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "08/24/2020 - 2:53 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24378,
+    "longitude": -92.00638
+  },
+  {
     "address": "200 WESTGATE RD",
     "city": "SCOTT",
     "time": "08/24/2020 - 2:51 PM",
