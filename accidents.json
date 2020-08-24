@@ -1,11 +1,11 @@
 [
   {
-    "address": "CAMP RD & WILTURNER RD",
+    "address": "900 WILTURNER RD",
     "city": "LAFAYETTE",
     "time": "08/24/2020 - 4:54 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.14844,
-    "longitude": -92.15868
+    "due_to": "Fire Investigation",
+    "latitude": 30.1361,
+    "longitude": -92.1593
   },
   {
     "address": "600 E PINHOOK RD",
@@ -43,7 +43,7 @@
     "address": "1015 E MILTON AV",
     "city": "LAFAYETTE",
     "time": "08/24/2020 - 3:58 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Stalled Vehicle",
     "latitude": 30.10963,
     "longitude": -92.05365
   },
