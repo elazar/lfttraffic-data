@@ -1,5 +1,13 @@
 [
   {
+    "address": "E MILTON AV & MIRAMAR BL",
+    "city": "LAFAYETTE",
+    "time": "08/23/2020 - 9:05 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.10921,
+    "longitude": -92.05082
+  },
+  {
     "address": "SPRUCE DR & MAPLE DR",
     "city": "LAFAYETTE",
     "time": "08/23/2020 - 9:04 PM",
