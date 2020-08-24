@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "08/23/2020 - 7:38 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20581,
+    "longitude": -92.04078
+  },
+  {
     "address": "3451 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/23/2020 - 7:28 PM",
