@@ -1,5 +1,13 @@
 [
   {
+    "address": "213 E VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "08/25/2020 - 1:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17836,
+    "longitude": -92.00058
+  },
+  {
     "address": "1510 WESTGATE RD",
     "city": "SCOTT",
     "time": "08/25/2020 - 12:47 PM",
