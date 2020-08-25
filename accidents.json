@@ -1,5 +1,13 @@
 [
   {
+    "address": "5750 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "08/24/2020 - 9:51 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.11136,
+    "longitude": -91.94426
+  },
+  {
     "address": "KALISTE SALOOM RD & S BEADLE RD",
     "city": "LAFAYETTE",
     "time": "08/24/2020 - 9:28 PM",
