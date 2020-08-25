@@ -1,19 +1,11 @@
 [
   {
-    "address": "W WILLOW ST & N UNIVERSITY AV",
+    "address": "104 HOGAN DR",
     "city": "LAFAYETTE",
     "time": "08/25/2020 - 01:03 AM",
-    "due_to": "Fire",
-    "latitude": 30.24448,
-    "longitude": -92.03275
-  },
-  {
-    "address": "MURRAY CL & W WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "08/25/2020 - 01:03 AM",
-    "due_to": "Incoming Call",
-    "latitude": 30.24428,
-    "longitude": -92.03587
+    "due_to": "Fire Investigation",
+    "latitude": 30.2388714,
+    "longitude": -92.0377841
   },
   {
     "address": "104 HOGAN DR",
