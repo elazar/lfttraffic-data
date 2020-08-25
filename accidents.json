@@ -1,5 +1,13 @@
 [
   {
+    "address": "NW EVANGELINE TW & CASTILLE AV",
+    "city": "LAFAYETTE",
+    "time": "08/24/2020 - 10:20 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2488,
+    "longitude": -92.01297
+  },
+  {
     "address": "5750 US 90 EAST HW",
     "city": "BROUSSARD",
     "time": "08/24/2020 - 9:51 PM",
