@@ -1,10 +1,10 @@
 [
   {
-    "address": "HOGAN DR & MADELINE AV",
+    "address": "104 HOGAN DR",
     "city": "LAFAYETTE",
     "time": "08/25/2020 - 01:01 AM",
-    "due_to": "Incoming Call",
-    "latitude": 30.23866,
-    "longitude": -92.03787
+    "due_to": "Residential Fire",
+    "latitude": 30.2388714,
+    "longitude": -92.0377841
   }
 ]
