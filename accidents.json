@@ -1,5 +1,13 @@
 [
   {
+    "address": "S FIELDSPAN RD & BOURQUE RD",
+    "city": "LAFAYETTE",
+    "time": "08/24/2020 - 7:52 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.13778,
+    "longitude": -92.14161
+  },
+  {
     "address": "609 COLORADO RD",
     "city": "LAFAYETTE",
     "time": "08/24/2020 - 7:41 PM",
