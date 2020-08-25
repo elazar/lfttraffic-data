@@ -1,5 +1,13 @@
 [
   {
+    "address": "2300 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "08/25/2020 - 07:46 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15088,
+    "longitude": -92.02934
+  },
+  {
     "address": "W WILLOW ST & N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "08/25/2020 - 07:44 AM",
