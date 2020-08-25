@@ -1,5 +1,13 @@
 [
   {
+    "address": "1370 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "08/25/2020 - 1:34 PM",
+    "due_to": "Commercial Fire",
+    "latitude": 30.2446828,
+    "longitude": -92.0386096
+  },
+  {
     "address": "BLAINE ST & N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "08/25/2020 - 1:29 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15649,
     "longitude": -92.04838
-  },
-  {
-    "address": "JEFFERSON ST & JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "08/25/2020 - 12:17 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2201,
-    "longitude": -92.0172
   },
   {
     "address": "2390 W CONGRESS ST",
