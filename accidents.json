@@ -1,5 +1,13 @@
 [
   {
+    "address": "E ALEXANDER ST & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "08/25/2020 - 09:11 AM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.25511,
+    "longitude": -91.99944
+  },
+  {
     "address": "900 VETERANS DR",
     "city": "CARENCRO",
     "time": "08/25/2020 - 09:01 AM",
