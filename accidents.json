@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 MIMOSA PL",
+    "city": "LAFAYETTE",
+    "time": "08/25/2020 - 4:08 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.1974495,
+    "longitude": -92.0565447
+  },
+  {
     "address": "W PONT DES MOUTON RD & NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "08/25/2020 - 4:01 PM",
