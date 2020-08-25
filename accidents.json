@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "AMBASSADOR CAFFERY PW & BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "08/25/2020 - 07:24 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22941,
+    "longitude": -92.06262
+  }
+]
