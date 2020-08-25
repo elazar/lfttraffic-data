@@ -1,11 +1,19 @@
 [
   {
-    "address": "3100 VEROT SCHOOL RD",
+    "address": "2937 US 90 EAST HW",
+    "city": "BROUSSARD",
+    "time": "08/25/2020 - 4:36 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17462,
+    "longitude": -91.9821
+  },
+  {
+    "address": "3623 VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "08/25/2020 - 4:34 PM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.13315,
-    "longitude": -92.03283
+    "latitude": 30.11383,
+    "longitude": -92.03189
   },
   {
     "address": "W PONT DES MOUTON RD & N UNIVERSITY AV",
