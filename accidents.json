@@ -38,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16023,
     "longitude": -92.04582
-  },
-  {
-    "address": "166 BLAINE ST",
-    "city": "LAFAYETTE",
-    "time": "08/25/2020 - 1:29 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.26111,
-    "longitude": -92.0369
   }
 ]
