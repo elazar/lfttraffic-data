@@ -1,5 +1,13 @@
 [
   {
+    "address": "900 VETERANS DR",
+    "city": "CARENCRO",
+    "time": "08/25/2020 - 09:01 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.3217651,
+    "longitude": -92.0367998
+  },
+  {
     "address": "E WILLOW ST & NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "08/25/2020 - 08:11 AM",
