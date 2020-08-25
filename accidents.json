@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 ANDRES RD",
+    "city": "LAFAYETTE",
+    "time": "08/25/2020 - 3:49 PM",
+    "due_to": "Residential Fire",
+    "latitude": 30.24206,
+    "longitude": -92.12428
+  },
+  {
     "address": "1810 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "08/25/2020 - 3:28 PM",
