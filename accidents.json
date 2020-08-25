@@ -1,5 +1,21 @@
 [
   {
+    "address": "W PONT DES MOUTON RD & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "08/25/2020 - 4:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.27587,
+    "longitude": -92.04949
+  },
+  {
+    "address": "816 MILLS ST",
+    "city": "SCOTT",
+    "time": "08/25/2020 - 4:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2488422,
+    "longitude": -92.0910621
+  },
+  {
     "address": "MINOLTA RD & E MILTON AV",
     "city": "YOUNGSVILLE",
     "time": "08/25/2020 - 4:19 PM",
@@ -38,13 +54,5 @@
     "due_to": "Residential Fire",
     "latitude": 30.24206,
     "longitude": -92.12428
-  },
-  {
-    "address": "298 WESTGATE RD",
-    "city": "SCOTT",
-    "time": "08/25/2020 - 3:12 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23044,
-    "longitude": -92.08759
   }
 ]
