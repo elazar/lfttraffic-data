@@ -1,5 +1,13 @@
 [
   {
+    "address": "E THIRD ST & E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "08/25/2020 - 09:29 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23076,
+    "longitude": -92.00987
+  },
+  {
     "address": "1051 E ALEXANDER ST",
     "city": "LAFAYETTE",
     "time": "08/25/2020 - 09:11 AM",
