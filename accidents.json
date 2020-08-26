@@ -1,5 +1,13 @@
 [
   {
+    "address": "105 W GLORIA SWITCH RD",
+    "city": "LAFAYETTE",
+    "time": "08/26/2020 - 2:08 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29526,
+    "longitude": -92.0274
+  },
+  {
     "address": "1001 NE EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "08/26/2020 - 2:01 PM",
@@ -30,13 +38,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.13978,
     "longitude": -91.95466
-  },
-  {
-    "address": "W PINHOOK RD & E ST MARY BL",
-    "city": "LAFAYETTE",
-    "time": "08/26/2020 - 12:53 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.20703,
-    "longitude": -92.01181
   }
 ]
