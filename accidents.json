@@ -1,16 +1,16 @@
 [
   {
-    "address": "LOUISIANA AV & E WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "08/26/2020 - 3:00 PM",
+    "address": "N UNIVERSITY AV & PREJEAN RD",
+    "city": "CARENCRO",
+    "time": "08/26/2020 - 3:10 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.24552,
-    "longitude": -92.00037
+    "latitude": 30.30943,
+    "longitude": -92.04946
   },
   {
     "address": "LOUISIANA AV & E WILLOW ST",
     "city": "LAFAYETTE",
-    "time": "08/26/2020 - 2:42 PM",
+    "time": "08/26/2020 - 3:00 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.24552,
     "longitude": -92.00037
