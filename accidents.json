@@ -1,13 +1,5 @@
 [
   {
-    "address": "1225 CARMEL DR",
-    "city": "LAFAYETTE",
-    "time": "08/26/2020 - 1:35 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.23385,
-    "longitude": -91.99115
-  },
-  {
     "address": "1019 ALBERTSON PW",
     "city": "BROUSSARD",
     "time": "08/26/2020 - 1:21 PM",
@@ -22,13 +14,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.20703,
     "longitude": -92.01181
-  },
-  {
-    "address": "3400 LOUISIANA AV",
-    "city": "LAFAYETTE",
-    "time": "08/26/2020 - 12:50 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2701963,
-    "longitude": -91.9922198
   }
 ]
