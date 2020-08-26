@@ -1,5 +1,13 @@
 [
   {
+    "address": "213 ST NAZAIRE RD",
+    "city": "BROUSSARD",
+    "time": "08/26/2020 - 10:45 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.14343,
+    "longitude": -91.94092
+  },
+  {
     "address": "HECTOR CONNOLY RD & ANTE BELLUM RD",
     "city": "LAFAYETTE",
     "time": "08/26/2020 - 09:50 AM",
