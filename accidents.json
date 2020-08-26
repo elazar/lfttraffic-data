@@ -1,5 +1,13 @@
 [
   {
+    "address": "2428 W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "08/26/2020 - 12:48 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17846,
+    "longitude": -92.00551
+  },
+  {
     "address": "LA 93 HW & I10 HW",
     "city": "SCOTT",
     "time": "08/26/2020 - 12:43 PM",
