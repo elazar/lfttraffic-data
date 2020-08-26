@@ -7,5 +7,12 @@
     "latitude": 30.14826,
     "longitude": -92.09072
   },
-  null
+  {
+    "address": "LAFAYETTE ST & SHERMAN ST",
+    "city": "LAFAYETTE",
+    "time": "08/25/2020 - 8:54 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.23198,
+    "longitude": -92.02082
+  }
 ]
