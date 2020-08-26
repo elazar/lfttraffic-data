@@ -1,5 +1,13 @@
 [
   {
+    "address": "1800 ST MARY ST",
+    "city": "SCOTT",
+    "time": "08/26/2020 - 12:31 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.24331,
+    "longitude": -92.10524
+  },
+  {
     "address": "100 I10 EASTBOUND MM100 HW",
     "city": "LAFAYETTE",
     "time": "08/26/2020 - 12:30 PM",
