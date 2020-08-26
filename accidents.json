@@ -22,21 +22,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.2195,
     "longitude": -92.06465
-  },
-  {
-    "address": "105 W GLORIA SWITCH RD",
-    "city": "LAFAYETTE",
-    "time": "08/26/2020 - 2:08 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.29526,
-    "longitude": -92.0274
-  },
-  {
-    "address": "2200 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "08/26/2020 - 1:59 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.1846,
-    "longitude": -92.00945
   }
 ]
