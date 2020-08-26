@@ -1,5 +1,13 @@
 [
   {
+    "address": "1301 JEFFERSON ST",
+    "city": "LAFAYETTE",
+    "time": "08/26/2020 - 12:24 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21922,
+    "longitude": -92.01549
+  },
+  {
     "address": "100 S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "08/26/2020 - 11:53 AM",
