@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "08/25/2020 - 8:34 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22457,
+    "longitude": -92.00959
+  },
+  {
     "address": "200 THEATRE ST",
     "city": "LAFAYETTE",
     "time": "08/25/2020 - 8:16 PM",
