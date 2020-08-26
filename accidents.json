@@ -1,5 +1,13 @@
 [
   {
+    "address": "310 BELL DOWNS DR",
+    "city": "LAFAYETTE",
+    "time": "08/26/2020 - 3:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19861,
+    "longitude": -92.06734
+  },
+  {
     "address": "N UNIVERSITY AV & PREJEAN RD",
     "city": "CARENCRO",
     "time": "08/26/2020 - 3:10 PM",
