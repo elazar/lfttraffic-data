@@ -1,11 +1,11 @@
 [
   {
-    "address": "100 I10 EASTBOUND MM100 HW",
-    "city": "LAFAYETTE",
-    "time": "08/26/2020 - 12:30 PM",
-    "due_to": "Road Hazard",
-    "latitude": 30.26255,
-    "longitude": -92.00867
+    "address": "831 RUE BON SECOURS",
+    "city": "SCOTT",
+    "time": "08/26/2020 - 12:38 PM",
+    "due_to": "Grass Fire",
+    "latitude": 30.25819,
+    "longitude": -92.13255
   },
   {
     "address": "6100 JOHNSTON ST",
@@ -14,14 +14,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.1671553,
     "longitude": -92.08305
-  },
-  {
-    "address": "1301 JEFFERSON ST",
-    "city": "LAFAYETTE",
-    "time": "08/26/2020 - 12:24 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21922,
-    "longitude": -92.01549
   },
   {
     "address": "100 N COLLEGE RD",
