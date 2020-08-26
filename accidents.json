@@ -32,27 +32,11 @@
     "longitude": -92.0274
   },
   {
-    "address": "1001 NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "08/26/2020 - 2:01 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23683,
-    "longitude": -92.01315
-  },
-  {
     "address": "2200 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "08/26/2020 - 1:59 PM",
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.1846,
     "longitude": -92.00945
-  },
-  {
-    "address": "300 BONIN RD",
-    "city": "LAFAYETTE",
-    "time": "08/26/2020 - 1:57 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.16093,
-    "longitude": -91.99939
   }
 ]
