@@ -1,5 +1,13 @@
 [
   {
+    "address": "400 POST RD",
+    "city": "CARENCRO",
+    "time": "08/27/2020 - 08:53 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.3263,
+    "longitude": -92.05263
+  },
+  {
     "address": "DULLES DR & RUE DU BELIER",
     "city": "SCOTT",
     "time": "08/27/2020 - 08:52 AM",
