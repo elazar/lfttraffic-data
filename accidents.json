@@ -1,5 +1,13 @@
 [
   {
+    "address": "5004 CAMERON ST",
+    "city": "SCOTT",
+    "time": "08/27/2020 - 08:18 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.23275,
+    "longitude": -92.08311
+  },
+  {
     "address": "2617 ROBLEY DR",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 08:13 AM",
@@ -11,7 +19,7 @@
     "address": "600 AZALEA ST",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 08:12 AM",
-    "due_to": "Road Hazard",
+    "due_to": "Wire Hazard",
     "latitude": 30.21916,
     "longitude": -92.02881
   },
