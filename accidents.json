@@ -1,11 +1,11 @@
 [
   {
-    "address": "S PIERCE ST & CAMERON ST",
+    "address": "700 GIRARD PARK DR",
     "city": "LAFAYETTE",
-    "time": "08/27/2020 - 03:51 AM",
+    "time": "08/27/2020 - 03:52 AM",
     "due_to": "Road Hazard",
-    "latitude": 30.23315,
-    "longitude": -92.01913
+    "latitude": 30.202956,
+    "longitude": -92.0226084
   },
   {
     "address": "421 W MAIN ST",
@@ -38,14 +38,6 @@
     "due_to": "Residential Fire",
     "latitude": 30.19584,
     "longitude": -92.05858
-  },
-  {
-    "address": "131 REX ST",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 03:38 AM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.21153,
-    "longitude": -92.0211
   },
   {
     "address": "2812 VEROT SCHOOL RD",
