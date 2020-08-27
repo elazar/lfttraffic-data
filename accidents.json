@@ -1,5 +1,13 @@
 [
   {
+    "address": "123 FARMERS MARKET DR",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 3:21 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.16155,
+    "longitude": -92.19851
+  },
+  {
     "address": "111 LIBERTY AV",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 3:16 PM",
