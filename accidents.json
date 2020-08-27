@@ -1,5 +1,13 @@
 [
   {
+    "address": "4300 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 08:56 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.28727,
+    "longitude": -92.00629
+  },
+  {
     "address": "217 LA RUE FRANCE",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 08:55 AM",
@@ -30,14 +38,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.2734903,
     "longitude": -92.0157742
-  },
-  {
-    "address": "400 POST RD",
-    "city": "CARENCRO",
-    "time": "08/27/2020 - 08:53 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.3263,
-    "longitude": -92.05263
   },
   {
     "address": "DULLES DR & RUE DU BELIER",
@@ -134,14 +134,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.10781,
     "longitude": -92.05562
-  },
-  {
-    "address": "2414 BONIN RD",
-    "city": "YOUNGSVILLE",
-    "time": "08/27/2020 - 08:07 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.11357,
-    "longitude": -92.00702
   },
   {
     "address": "W WILLOW ST & AMBASSADOR CAFFERY PW",
