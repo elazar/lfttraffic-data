@@ -1,11 +1,11 @@
 [
   {
-    "address": "4300 MOSS ST",
+    "address": "W WILLOW ST & PATTERSON ST",
     "city": "LAFAYETTE",
-    "time": "08/27/2020 - 08:56 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.28727,
-    "longitude": -92.00629
+    "time": "08/27/2020 - 08:57 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.24518,
+    "longitude": -92.01841
   },
   {
     "address": "217 LA RUE FRANCE",
