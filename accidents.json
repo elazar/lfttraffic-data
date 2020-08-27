@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMY ST & PORTLOCK ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 07:24 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.2366,
+    "longitude": -92.02824
+  },
+  {
     "address": "PEARL ST & HELLEN ST",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 07:23 AM",
@@ -30,14 +38,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.28326,
     "longitude": -92.08884
-  },
-  {
-    "address": "LAKEVIEW RD & LA 182 HW",
-    "city": "BROUSSARD",
-    "time": "08/27/2020 - 06:53 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.1173316,
-    "longitude": -91.9340498
   },
   {
     "address": "E TAFT ST & REID ST",
