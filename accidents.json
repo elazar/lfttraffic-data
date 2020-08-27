@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 HIGH MEADOWS BL",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 03:10 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.27702,
+    "longitude": -92.01548
+  },
+  {
     "address": "LOUISIANA AV & E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 03:09 AM",
