@@ -1,5 +1,21 @@
 [
   {
+    "address": "300 ARCENEAUX RD",
+    "city": "CARENCRO",
+    "time": "08/27/2020 - 07:02 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.30983,
+    "longitude": -92.04101
+  },
+  {
+    "address": "AMBASSADOR CAFFERY PW & S MORGAN AV",
+    "city": "BROUSSARD",
+    "time": "08/27/2020 - 07:02 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.13188,
+    "longitude": -91.96517
+  },
+  {
     "address": "LAKEVIEW RD & LA 182 HW",
     "city": "BROUSSARD",
     "time": "08/27/2020 - 06:53 AM",
