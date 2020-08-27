@@ -1,5 +1,13 @@
 [
   {
+    "address": "2812 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 03:25 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.14448,
+    "longitude": -92.03297
+  },
+  {
     "address": "200 LARK DR",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 03:24 AM",
@@ -64,14 +72,6 @@
     "longitude": -92.0137
   },
   {
-    "address": "JOHNSTON ST & CALDER ST",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 03:14 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.21541,
-    "longitude": -92.02086
-  },
-  {
     "address": "300 MIDWAY ST",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 03:13 AM",
@@ -110,14 +110,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.17117,
     "longitude": -92.06617
-  },
-  {
-    "address": "JEFFERSON ST & RAILROAD UNDERPASS",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 03:07 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.21999,
-    "longitude": -92.01705
   },
   {
     "address": "3500 AMBASSADOR CAFFERY PW",
