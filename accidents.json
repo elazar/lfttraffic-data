@@ -1,5 +1,13 @@
 [
   {
+    "address": "E TAFT ST & REID ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 06:28 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2168,
+    "longitude": -92.01095
+  },
+  {
     "address": "100 S GIROUARD RD",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 06:22 AM",
