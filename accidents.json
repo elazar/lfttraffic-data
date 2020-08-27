@@ -1,5 +1,13 @@
 [
   {
+    "address": "102 E SHAMROCK DR",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 11:48 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.17916,
+    "longitude": -92.01562
+  },
+  {
     "address": "324 COUNTRY RUN DR",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 11:47 AM",
