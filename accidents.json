@@ -1,5 +1,21 @@
 [
   {
+    "address": "LOUISIANA AV & E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 03:09 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23002,
+    "longitude": -92.00303
+  },
+  {
+    "address": "1214 COOLIDGE ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 03:08 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.20234,
+    "longitude": -92.01863
+  },
+  {
     "address": "1200 N LARRIVIERE RD",
     "city": "BROUSSARD",
     "time": "08/27/2020 - 03:08 AM",
