@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 E GLORIA SWITCH RD",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 08:49 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.29439,
+    "longitude": -92.0091
+  },
+  {
     "address": "400 POST RD",
     "city": "CARENCRO",
     "time": "08/27/2020 - 08:47 AM",
@@ -30,14 +38,6 @@
     "due_to": "Fire Investigation",
     "latitude": 30.19546,
     "longitude": -92.13999
-  },
-  {
-    "address": "700 RIDGE RD",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 08:37 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.1817,
-    "longitude": -92.10413
   },
   {
     "address": "100 MERMENTAU RD",
@@ -102,14 +102,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.23746,
     "longitude": -92.17887
-  },
-  {
-    "address": "HORIZON LN & DUGAS RD",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 07:07 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.28326,
-    "longitude": -92.08884
   },
   {
     "address": "AMBASSADOR CAFFERY PW & DULLES DR",
