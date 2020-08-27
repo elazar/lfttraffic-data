@@ -1,11 +1,19 @@
 [
   {
-    "address": "KALISTE SALOOM RD & LONG PLANTATION BL",
+    "address": "100 TEURLINGS DR",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 11:54 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2422188,
+    "longitude": -91.9891758
+  },
+  {
+    "address": "917 W BROUSSARD RD",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 11:53 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.1687,
-    "longitude": -92.03433
+    "due_to": "Road Hazard",
+    "latitude": 30.1787972,
+    "longitude": -92.1000723
   },
   {
     "address": "407 ST CLAIR RD",
