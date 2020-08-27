@@ -1,5 +1,21 @@
 [
   {
+    "address": "107 LAZY CREEK DR",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 07:28 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.20669,
+    "longitude": -92.08129
+  },
+  {
+    "address": "300 ST PIERRE BL",
+    "city": "CARENCRO",
+    "time": "08/27/2020 - 07:28 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.31992,
+    "longitude": -92.05688
+  },
+  {
     "address": "100 SUSAN ST",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 07:27 AM",
