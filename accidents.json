@@ -1,5 +1,21 @@
 [
   {
+    "address": "E WILLOW ST & ANITA ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 03:44 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.24345,
+    "longitude": -91.98451
+  },
+  {
+    "address": "110 CHURCHILL DR",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 03:44 AM",
+    "due_to": "Residential Fire",
+    "latitude": 30.19584,
+    "longitude": -92.05858
+  },
+  {
     "address": "110 CHURCHILL DR",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 03:43 AM",
