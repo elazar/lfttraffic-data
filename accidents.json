@@ -1,5 +1,29 @@
 [
   {
+    "address": "121 LEGEND CREEK DR",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 08:10 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.10781,
+    "longitude": -92.05562
+  },
+  {
+    "address": "E FOCH ST & N GENERAL MARSHALL ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 08:10 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.23027,
+    "longitude": -91.99761
+  },
+  {
+    "address": "104 ALVA RD",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 08:09 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.09349,
+    "longitude": -91.95737
+  },
+  {
     "address": "2414 BONIN RD",
     "city": "YOUNGSVILLE",
     "time": "08/27/2020 - 08:07 AM",
@@ -30,14 +54,6 @@
     "due_to": "Fire Investigation",
     "latitude": 30.24536,
     "longitude": -91.99588
-  },
-  {
-    "address": "200 TRAPPEY RD",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 07:32 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.3607537,
-    "longitude": -92.017558
   },
   {
     "address": "F ST & THIRD ST",
