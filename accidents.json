@@ -1,5 +1,13 @@
 [
   {
+    "address": "S PIERCE ST & CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 03:51 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23315,
+    "longitude": -92.01913
+  },
+  {
     "address": "421 W MAIN ST",
     "city": "BROUSSARD",
     "time": "08/27/2020 - 03:50 AM",
@@ -46,14 +54,6 @@
     "due_to": "Fire Alarm-Commercial",
     "latitude": 30.14448,
     "longitude": -92.03297
-  },
-  {
-    "address": "2228 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 03:23 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.21158,
-    "longitude": -92.07725
   },
   {
     "address": "1817 E WILLOW ST",
