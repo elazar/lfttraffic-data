@@ -1,5 +1,13 @@
 [
   {
+    "address": "111 LIBERTY AV",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 3:16 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.1611,
+    "longitude": -92.04147
+  },
+  {
     "address": "MOSS ST & E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 3:11 PM",
