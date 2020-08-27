@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 THIRD ST",
+    "city": "CARENCRO",
+    "time": "08/27/2020 - 10:17 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.32435,
+    "longitude": -92.04698
+  },
+  {
     "address": "JOHNSTON ST & E BROUSSARD RD",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 10:15 AM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Fire",
     "latitude": 32.7625166,
     "longitude": -91.907104
-  },
-  {
-    "address": "131 DEMETTE RD",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 09:57 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.1372,
-    "longitude": -92.04625
   },
   {
     "address": "124 VENUS DR",
