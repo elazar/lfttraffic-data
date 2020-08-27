@@ -1,5 +1,21 @@
 [
   {
+    "address": "217 LA RUE FRANCE",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 08:55 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.19484,
+    "longitude": -92.0115
+  },
+  {
+    "address": "STEVENSON ST & W TAFT ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 08:55 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.21385,
+    "longitude": -92.01258
+  },
+  {
     "address": "706 PICARD RD",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 08:54 AM",
@@ -78,6 +94,14 @@
     "due_to": "Fire Investigation",
     "latitude": 30.19546,
     "longitude": -92.13999
+  },
+  {
+    "address": "400 POST RD",
+    "city": "CARENCRO",
+    "time": "08/27/2020 - 08:31 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.3263,
+    "longitude": -92.05263
   },
   {
     "address": "100 MERMENTAU RD",
