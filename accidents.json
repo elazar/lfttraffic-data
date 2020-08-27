@@ -1,5 +1,13 @@
 [
   {
+    "address": "5700 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 03:01 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1755,
+    "longitude": -92.07745
+  },
+  {
     "address": "201 DOIRON DR",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 02:56 AM",
