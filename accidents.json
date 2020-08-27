@@ -1,5 +1,13 @@
 [
   {
+    "address": "1324 DULLES DR",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 03:59 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2111,
+    "longitude": -92.07361
+  },
+  {
     "address": "110 STATESMAN DR",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 03:56 AM",
