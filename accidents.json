@@ -1,5 +1,29 @@
 [
   {
+    "address": "600 NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 03:14 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23332,
+    "longitude": -92.0137
+  },
+  {
+    "address": "JOHNSTON ST & CALDER ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 03:14 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.21541,
+    "longitude": -92.02086
+  },
+  {
+    "address": "JOHNSTON ST & W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 03:13 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.21729,
+    "longitude": -92.01902
+  },
+  {
     "address": "300 MIDWAY ST",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 03:13 AM",
