@@ -1,5 +1,13 @@
 [
   {
+    "address": "221 PEARL ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 04:08 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.23582,
+    "longitude": -92.02705
+  },
+  {
     "address": "1324 DULLES DR",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 03:59 AM",
@@ -22,14 +30,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.15908,
     "longitude": -92.00027
-  },
-  {
-    "address": "421 W MAIN ST",
-    "city": "BROUSSARD",
-    "time": "08/27/2020 - 03:50 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.14849,
-    "longitude": -91.96838
   },
   {
     "address": "527 DULLES DR",
