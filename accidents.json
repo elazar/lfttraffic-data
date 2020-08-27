@@ -1,5 +1,13 @@
 [
   {
+    "address": "1020 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 3:32 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.17843,
+    "longitude": -92.02724
+  },
+  {
     "address": "500 TOLSON RD",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 3:30 PM",
@@ -14,14 +22,6 @@
     "due_to": "Fire Investigation",
     "latitude": 30.16155,
     "longitude": -92.19851
-  },
-  {
-    "address": "111 LIBERTY AV",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 3:16 PM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.1611,
-    "longitude": -92.04147
   },
   {
     "address": "MOSS ST & E SIMCOE ST",
