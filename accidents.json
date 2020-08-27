@@ -1,5 +1,13 @@
 [
   {
+    "address": "1200 S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 02:28 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.19859,
+    "longitude": -92.02572
+  },
+  {
     "address": "2905 E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 02:21 AM",
