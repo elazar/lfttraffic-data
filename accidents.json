@@ -1,5 +1,13 @@
 [
   {
+    "address": "4500 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 06:16 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.28957,
+    "longitude": -92.00222
+  },
+  {
     "address": "MONTE RD & LAGNEAUX RD",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 06:14 AM",
