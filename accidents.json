@@ -1,5 +1,29 @@
 [
   {
+    "address": "JEFFERSON ST & RAILROAD UNDERPASS",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 03:07 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.21999,
+    "longitude": -92.01705
+  },
+  {
+    "address": "2700 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 03:07 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1546036,
+    "longitude": -92.0503988
+  },
+  {
+    "address": "GUILBEAU RD & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 03:07 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.19826,
+    "longitude": -92.07007
+  },
+  {
     "address": "3500 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 03:06 AM",
