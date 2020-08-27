@@ -1,5 +1,13 @@
 [
   {
+    "address": "NE EVANGELINE TW & MUDD AV",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 03:28 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.23296,
+    "longitude": -92.01278
+  },
+  {
     "address": "2812 VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 03:25 AM",
@@ -62,14 +70,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.2419,
     "longitude": -91.99274
-  },
-  {
-    "address": "600 NW EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 03:14 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.23332,
-    "longitude": -92.0137
   },
   {
     "address": "300 MIDWAY ST",
