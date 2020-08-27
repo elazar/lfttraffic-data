@@ -1,5 +1,13 @@
 [
   {
+    "address": "107 CARMEL DR",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 6:31 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23468,
+    "longitude": -92.00219
+  },
+  {
     "address": "1112 LEBESQUE RD",
     "city": "SCOTT",
     "time": "08/27/2020 - 6:29 PM",
@@ -38,14 +46,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.18852,
     "longitude": -92.01347
-  },
-  {
-    "address": "102 SUNNY OAK TL",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 5:44 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.31032,
-    "longitude": -92.08379
   },
   {
     "address": "1212 N WILDERNESS TL",
