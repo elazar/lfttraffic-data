@@ -1,5 +1,13 @@
 [
   {
+    "address": "211 S ORANGE ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 09:12 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.22821,
+    "longitude": -92.00933
+  },
+  {
     "address": "110 BOULDER DR",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 09:08 AM",
