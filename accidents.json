@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 GUIDRY RD",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 04:02 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1692416,
+    "longitude": -92.0817161
+  },
+  {
     "address": "1324 DULLES DR",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 03:59 AM",
