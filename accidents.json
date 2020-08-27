@@ -1,13 +1,5 @@
 [
   {
-    "address": "WESTMARK BL & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 08:29 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.18444,
-    "longitude": -92.07499
-  },
-  {
     "address": "100 MERMENTAU RD",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 08:28 AM",
@@ -22,14 +14,6 @@
     "due_to": "Grass Fire",
     "latitude": 30.20653,
     "longitude": -92.05144
-  },
-  {
-    "address": "W UNIVERSITY AV & W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 08:25 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.2261,
-    "longitude": -92.02828
   },
   {
     "address": "5004 CAMERON ST",
