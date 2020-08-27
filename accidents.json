@@ -1,5 +1,13 @@
 [
   {
+    "address": "KNOLLWOOD DR & STRASBOURG DR",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 04:15 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.20251,
+    "longitude": -92.07365
+  },
+  {
     "address": "121 LEGEND CREEK DR",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 04:14 AM",
