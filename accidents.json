@@ -1,5 +1,13 @@
 [
   {
+    "address": "W WILLOW ST & AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 07:56 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24324,
+    "longitude": -92.06626
+  },
+  {
     "address": "W CONGRESS ST & ALYENE DR",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 07:50 AM",
@@ -14,14 +22,6 @@
     "due_to": "Fire Investigation",
     "latitude": 30.24536,
     "longitude": -91.99588
-  },
-  {
-    "address": "213 LA RUE RHIEMS",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 07:44 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.22876,
-    "longitude": -92.13957
   },
   {
     "address": "109 GENERAL GARDNER AV",
