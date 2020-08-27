@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 TONBRIDGE DR",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 04:34 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1577414,
+    "longitude": -92.0361736
+  },
+  {
     "address": "100 DURHAM DR",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 04:33 AM",
@@ -54,14 +62,6 @@
     "due_to": "Stalled Vehicle",
     "latitude": 30.23213,
     "longitude": -92.01406
-  },
-  {
-    "address": "100 DENVER CL",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 03:15 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.2419,
-    "longitude": -91.99274
   },
   {
     "address": "N UNIVERSITY AV & RAILROAD UNDERPASS",
