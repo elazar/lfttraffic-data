@@ -1,5 +1,29 @@
 [
   {
+    "address": "400 POST RD",
+    "city": "CARENCRO",
+    "time": "08/27/2020 - 08:31 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.3263,
+    "longitude": -92.05263
+  },
+  {
+    "address": "200 PEARL ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 08:31 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.2361349,
+    "longitude": -92.0262994
+  },
+  {
+    "address": "GENEVIEVE DR & CRESTWOOD DR",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 08:30 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.18003,
+    "longitude": -92.06224
+  },
+  {
     "address": "100 MERMENTAU RD",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 08:28 AM",
