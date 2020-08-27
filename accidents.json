@@ -1,5 +1,21 @@
 [
   {
+    "address": "N UNIVERSITY AV & PREJEAN RD",
+    "city": "CARENCRO",
+    "time": "08/27/2020 - 08:26 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.30943,
+    "longitude": -92.04946
+  },
+  {
+    "address": "102 DUNLIETH DR",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 08:25 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.20684,
+    "longitude": -92.05171
+  },
+  {
     "address": "W UNIVERSITY AV & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 08:25 AM",
