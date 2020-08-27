@@ -1,5 +1,13 @@
 [
   {
+    "address": "301 E VERMILION ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 12:27 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.22447,
+    "longitude": -92.01665
+  },
+  {
     "address": "370 CAMUS RD",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 12:10 PM",
