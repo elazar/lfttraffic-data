@@ -1,5 +1,21 @@
 [
   {
+    "address": "421 W MAIN ST",
+    "city": "BROUSSARD",
+    "time": "08/27/2020 - 03:50 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.14849,
+    "longitude": -91.96838
+  },
+  {
+    "address": "527 DULLES DR",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 03:50 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.21464,
+    "longitude": -92.06215
+  },
+  {
     "address": "E WILLOW ST & ANITA ST",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 03:44 AM",
