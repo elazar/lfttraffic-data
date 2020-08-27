@@ -1,5 +1,13 @@
 [
   {
+    "address": "2812 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 09:25 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.14448,
+    "longitude": -92.03297
+  },
+  {
     "address": "N WILDERNESS TL & BEAU BASSIN BRIDGE",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 09:15 AM",
@@ -30,14 +38,6 @@
     "due_to": "Fire Investigation",
     "latitude": 30.22821,
     "longitude": -92.00933
-  },
-  {
-    "address": "110 BOULDER DR",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 09:08 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.17062,
-    "longitude": -92.00217
   },
   {
     "address": "400 POST RD",
