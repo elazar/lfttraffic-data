@@ -1,5 +1,13 @@
 [
   {
+    "address": "WHITTINGTON DR & LEPONT ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 09:26 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.2072,
+    "longitude": -92.02443
+  },
+  {
     "address": "2812 VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 09:25 AM",
