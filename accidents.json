@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 TIMBER CREEK DR",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 01:00 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.208884,
+    "longitude": -92.0789955
+  },
+  {
     "address": "BONIN RD & PEGASUS BL",
     "city": "YOUNGSVILLE",
     "time": "08/27/2020 - 12:49 AM",
