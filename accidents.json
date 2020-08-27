@@ -1,11 +1,11 @@
 [
   {
-    "address": "MARTEAU",
-    "city": "Lafayette",
+    "address": "700 MARTEAU RD",
+    "city": "LAFAYETTE",
     "time": "08/27/2020 - 01:14 AM",
     "due_to": "Road Hazard",
-    "latitude": 30.10551,
-    "longitude": -91.95678
+    "latitude": 30.1036586,
+    "longitude": -91.9569466
   },
   {
     "address": "W ST MARY BL & AZALEA ST",
