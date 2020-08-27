@@ -24,14 +24,6 @@
     "longitude": -92.01406
   },
   {
-    "address": "HUVAL ST & N ST ANTOINE ST",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 03:17 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.23508,
-    "longitude": -92.02493
-  },
-  {
     "address": "300 RIVER RD",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 03:16 AM",
@@ -78,14 +70,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.2338,
     "longitude": -92.03391
-  },
-  {
-    "address": "CAMELLIA BL & JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 03:13 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.19364,
-    "longitude": -92.0587
   },
   {
     "address": "LOUISIANA AV & E SIMCOE ST",
