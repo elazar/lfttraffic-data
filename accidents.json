@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & GUILBEAU RD",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 03:19 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.20248,
+    "longitude": -92.07527
+  },
+  {
     "address": "1817 E WILLOW ST",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 03:18 AM",
@@ -78,14 +86,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.19364,
     "longitude": -92.0587
-  },
-  {
-    "address": "200 HIGH MEADOWS BL",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 03:10 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.27702,
-    "longitude": -92.01548
   },
   {
     "address": "LOUISIANA AV & E SIMCOE ST",
