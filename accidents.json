@@ -1,5 +1,13 @@
 [
   {
+    "address": "106 MARGARET ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 09:05 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.24372,
+    "longitude": -91.99309
+  },
+  {
     "address": "50 BNSF RAILROAD CG",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 09:05 AM",
