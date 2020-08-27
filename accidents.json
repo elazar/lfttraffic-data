@@ -1,5 +1,13 @@
 [
   {
+    "address": "500 TOLSON RD",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 3:30 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1645,
+    "longitude": -92.01723
+  },
+  {
     "address": "123 FARMERS MARKET DR",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 3:21 PM",
