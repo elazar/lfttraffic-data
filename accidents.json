@@ -1,5 +1,13 @@
 [
   {
+    "address": "LOUISIANA AV & I10 HW",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 01:21 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.27944,
+    "longitude": -91.99217
+  },
+  {
     "address": "106 GOSHEN LN",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 01:19 AM",
@@ -22,14 +30,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.1036586,
     "longitude": -91.9569466
-  },
-  {
-    "address": "W ST MARY BL & AZALEA ST",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 01:07 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.21949,
-    "longitude": -92.0278
   },
   {
     "address": "BONIN RD & PEGASUS BL",
