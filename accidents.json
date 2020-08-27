@@ -16,14 +16,6 @@
     "longitude": -92.04101
   },
   {
-    "address": "AMBASSADOR CAFFERY PW & S MORGAN AV",
-    "city": "BROUSSARD",
-    "time": "08/27/2020 - 07:02 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.13188,
-    "longitude": -91.96517
-  },
-  {
     "address": "LAKEVIEW RD & LA 182 HW",
     "city": "BROUSSARD",
     "time": "08/27/2020 - 06:53 AM",
@@ -54,14 +46,6 @@
     "due_to": "Wire Hazard",
     "latitude": 30.35989,
     "longitude": -91.9865
-  },
-  {
-    "address": "306 W WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 06:31 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.24545,
-    "longitude": -92.01756
   },
   {
     "address": "E TAFT ST & REID ST",
