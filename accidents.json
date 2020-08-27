@@ -1,21 +1,5 @@
 [
   {
-    "address": "100 TONBRIDGE DR",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 04:34 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.1577414,
-    "longitude": -92.0361736
-  },
-  {
-    "address": "100 DURHAM DR",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 04:33 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.15639,
-    "longitude": -92.03448
-  },
-  {
     "address": "RUE BEAUREGARD & E KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 04:17 AM",
