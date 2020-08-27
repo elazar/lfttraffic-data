@@ -1,5 +1,13 @@
 [
   {
+    "address": "110 BOULDER DR",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 09:08 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.17062,
+    "longitude": -92.00217
+  },
+  {
     "address": "1800 E WILLOW ST",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 09:06 AM",
