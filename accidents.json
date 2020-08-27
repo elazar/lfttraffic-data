@@ -1,5 +1,13 @@
 [
   {
+    "address": "204 WOODVALE AV",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 2:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19927,
+    "longitude": -92.04887
+  },
+  {
     "address": "1900 BONIN RD",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 2:27 PM",
