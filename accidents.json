@@ -1,5 +1,13 @@
 [
   {
+    "address": "207 DOYLE DR",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 10:05 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.14649,
+    "longitude": -92.0487
+  },
+  {
     "address": "315 BENMAN RD",
     "city": "SCOTT",
     "time": "08/27/2020 - 09:59 AM",
