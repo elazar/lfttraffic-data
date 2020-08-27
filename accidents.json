@@ -1,5 +1,13 @@
 [
   {
+    "address": "627 EVANGELINE DR",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 11:56 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.23044,
+    "longitude": -92.03042
+  },
+  {
     "address": "100 TEURLINGS DR",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 11:54 AM",
@@ -54,14 +62,6 @@
     "due_to": "Fire Alarm-Commercial",
     "latitude": 30.25431,
     "longitude": -92.01545
-  },
-  {
-    "address": "KALISTE SALOOM RD & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 10:52 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15649,
-    "longitude": -92.04838
   },
   {
     "address": "700 STEVENSON ST",
