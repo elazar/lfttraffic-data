@@ -1,5 +1,21 @@
 [
   {
+    "address": "112 BJ SERVICES DR",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 04:54 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.2538765,
+    "longitude": -92.0440082
+  },
+  {
+    "address": "1500 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 04:54 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.24455,
+    "longitude": -92.04208
+  },
+  {
     "address": "131 REX ST",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 04:51 AM",
