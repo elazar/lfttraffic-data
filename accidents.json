@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 LARK DR",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 03:24 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1605286,
+    "longitude": -92.0315122
+  },
+  {
     "address": "2228 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 03:23 AM",
@@ -126,14 +134,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.24052,
     "longitude": -92.03242
-  },
-  {
-    "address": "5700 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 03:01 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.1755,
-    "longitude": -92.07745
   },
   {
     "address": "S LARRIVIERE RD & INVESTMENT DR",
