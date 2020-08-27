@@ -1,5 +1,13 @@
 [
   {
+    "address": "1817 E WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 03:18 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.24378,
+    "longitude": -91.98283
+  },
+  {
     "address": "NW EVANGELINE TW & GREIG ST",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 03:17 AM",
@@ -150,14 +158,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.1755,
     "longitude": -92.07745
-  },
-  {
-    "address": "201 DOIRON DR",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 02:56 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.25101,
-    "longitude": -92.02827
   },
   {
     "address": "S LARRIVIERE RD & INVESTMENT DR",
