@@ -1,5 +1,13 @@
 [
   {
+    "address": "3800 N UNIVERSITY AV",
+    "city": "CARENCRO",
+    "time": "08/27/2020 - 06:51 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.3038104,
+    "longitude": -92.0492951
+  },
+  {
     "address": "1900 W BAYOU PW",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 06:47 AM",
