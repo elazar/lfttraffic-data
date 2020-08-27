@@ -1,5 +1,21 @@
 [
   {
+    "address": "300 MIDWAY ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 03:13 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2338,
+    "longitude": -92.03391
+  },
+  {
+    "address": "CAMELLIA BL & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 03:13 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.19364,
+    "longitude": -92.0587
+  },
+  {
     "address": "200 HIGH MEADOWS BL",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 03:10 AM",
