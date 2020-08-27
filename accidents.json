@@ -1,5 +1,13 @@
 [
   {
+    "address": "400 IBERVILLE ST",
+    "city": "LAFAYETTE",
+    "time": "08/26/2020 - 7:23 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.19933,
+    "longitude": -92.08897
+  },
+  {
     "address": "ROSEBUD LN & WIND HAVEN LN",
     "city": "LAFAYETTE",
     "time": "08/26/2020 - 7:19 PM",
