@@ -1,5 +1,21 @@
 [
   {
+    "address": "N ST ANTOINE ST & HUVAL ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 07:44 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.23508,
+    "longitude": -92.02493
+  },
+  {
+    "address": "213 LA RUE RHIEMS",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 07:44 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.22876,
+    "longitude": -92.13957
+  },
+  {
     "address": "109 GENERAL GARDNER AV",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 07:40 AM",
@@ -30,14 +46,6 @@
     "due_to": "Wire Hazard",
     "latitude": 30.1933,
     "longitude": -92.04856
-  },
-  {
-    "address": "VEROT SCHOOL RD & FORTUNE RD",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 07:33 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.12372,
-    "longitude": -92.03243
   },
   {
     "address": "200 TRAPPEY RD",
