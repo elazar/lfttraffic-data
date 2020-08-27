@@ -1,5 +1,21 @@
 [
   {
+    "address": "NW EVANGELINE TW & GREIG ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 03:17 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.23213,
+    "longitude": -92.01406
+  },
+  {
+    "address": "HUVAL ST & N ST ANTOINE ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 03:17 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.23508,
+    "longitude": -92.02493
+  },
+  {
     "address": "300 RIVER RD",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 03:16 AM",
