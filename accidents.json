@@ -1,5 +1,13 @@
 [
   {
+    "address": "THEO ST & MICHAUD ST",
+    "city": "CARENCRO",
+    "time": "08/27/2020 - 1:31 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.32745,
+    "longitude": -92.04289
+  },
+  {
     "address": "2100 YOUNGSVILLE HW",
     "city": "YOUNGSVILLE",
     "time": "08/27/2020 - 12:10 PM",
