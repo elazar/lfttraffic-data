@@ -1,5 +1,21 @@
 [
   {
+    "address": "N A ST & CAMERON ST",
+    "city": "DUSON",
+    "time": "08/27/2020 - 07:37 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.23496,
+    "longitude": -92.19307
+  },
+  {
+    "address": "315 MARILYN DR",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 07:37 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.1933,
+    "longitude": -92.04856
+  },
+  {
     "address": "VEROT SCHOOL RD & FORTUNE RD",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 07:33 AM",
