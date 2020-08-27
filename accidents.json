@@ -1,19 +1,19 @@
 [
   {
+    "address": "2863 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 04:59 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.19816,
+    "longitude": -92.07417
+  },
+  {
     "address": "DEBONNAIRE RD & COONS AL",
     "city": "SCOTT",
     "time": "08/27/2020 - 04:57 AM",
     "due_to": "Road Hazard",
     "latitude": 30.2367,
     "longitude": -92.08038
-  },
-  {
-    "address": "DULLES DR & AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 04:56 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21054,
-    "longitude": -92.07569
   },
   {
     "address": "112 BJ SERVICES DR",
@@ -54,14 +54,6 @@
     "due_to": "Fire Investigation",
     "latitude": 30.1942463,
     "longitude": -92.0158649
-  },
-  {
-    "address": "1900 W BAYOU PW",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 04:45 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.1873926,
-    "longitude": -92.0439713
   },
   {
     "address": "ODESSA RD & LEBLANC RD",
