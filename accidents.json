@@ -1,13 +1,5 @@
 [
   {
-    "address": "WHITTINGTON DR & LEPONT ST",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 09:26 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.2072,
-    "longitude": -92.02443
-  },
-  {
     "address": "2812 VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 09:25 AM",
@@ -22,14 +14,6 @@
     "due_to": "Wire Hazard",
     "latitude": 30.30944,
     "longitude": -91.98912
-  },
-  {
-    "address": "345 MOSS ST",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 09:14 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.23417,
-    "longitude": -92.0088
   },
   {
     "address": "400 POST RD",
@@ -62,14 +46,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.3263,
     "longitude": -92.05263
-  },
-  {
-    "address": "121 LEGEND CREEK DR",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 08:10 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.10781,
-    "longitude": -92.05562
   },
   {
     "address": "F ST & THIRD ST",
