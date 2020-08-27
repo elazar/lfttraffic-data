@@ -1,19 +1,11 @@
 [
   {
-    "address": "TAPESTRY CL & VESTIGE CL",
-    "city": "LAFAYETTE",
+    "address": "2100 E MILTON AV",
+    "city": "YOUNGSVILLE",
     "time": "08/27/2020 - 4:32 PM",
     "due_to": "Road Hazard",
-    "latitude": 30.10736,
-    "longitude": -92.03591
-  },
-  {
-    "address": "163 ESSIE ST",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 4:23 PM",
-    "due_to": "Hazard",
-    "latitude": 30.24792,
-    "longitude": -92.01725
+    "latitude": 30.1091951,
+    "longitude": -92.0318337
   },
   {
     "address": "DELPHINE ST & PANDORA ST",
