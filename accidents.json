@@ -1,5 +1,13 @@
 [
   {
+    "address": "50 BNSF RAILROAD CG",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 09:05 AM",
+    "due_to": "Road Hazard",
+    "latitude": 40.50211,
+    "longitude": -86.95026
+  },
+  {
     "address": "300 S LARRIVIERE RD",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 08:59 AM",
@@ -96,14 +104,6 @@
     "longitude": -92.05263
   },
   {
-    "address": "103 LINDEN DR",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 08:25 AM",
-    "due_to": "Grass Fire",
-    "latitude": 30.20653,
-    "longitude": -92.05144
-  },
-  {
     "address": "600 AZALEA ST",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 08:12 AM",
@@ -118,14 +118,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.10781,
     "longitude": -92.05562
-  },
-  {
-    "address": "103 BEGNAUD DR",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 07:47 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.24536,
-    "longitude": -91.99588
   },
   {
     "address": "F ST & THIRD ST",
