@@ -1,29 +1,5 @@
 [
   {
-    "address": "1801 E SIMCOE ST",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 08:34 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.22751,
-    "longitude": -91.9966
-  },
-  {
-    "address": "400 POST RD",
-    "city": "CARENCRO",
-    "time": "08/27/2020 - 08:31 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.3263,
-    "longitude": -92.05263
-  },
-  {
-    "address": "200 PEARL ST",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 08:31 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.2361349,
-    "longitude": -92.0262994
-  },
-  {
     "address": "GENEVIEVE DR & CRESTWOOD DR",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 08:30 AM",
@@ -46,14 +22,6 @@
     "due_to": "Grass Fire",
     "latitude": 30.20653,
     "longitude": -92.05144
-  },
-  {
-    "address": "5004 CAMERON ST",
-    "city": "SCOTT",
-    "time": "08/27/2020 - 08:18 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.23275,
-    "longitude": -92.08311
   },
   {
     "address": "2617 ROBLEY DR",
