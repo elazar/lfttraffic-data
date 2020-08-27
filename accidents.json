@@ -1,5 +1,21 @@
 [
   {
+    "address": "109 GENERAL GARDNER AV",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 07:40 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.21896,
+    "longitude": -92.01634
+  },
+  {
+    "address": "3200 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 07:40 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.13072,
+    "longitude": -92.03316
+  },
+  {
     "address": "N A ST & CAMERON ST",
     "city": "DUSON",
     "time": "08/27/2020 - 07:37 AM",
