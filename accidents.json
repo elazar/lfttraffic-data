@@ -1,5 +1,13 @@
 [
   {
+    "address": "GALLET RD & E MILTON AV",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 09:37 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1092,
+    "longitude": -92.05566
+  },
+  {
     "address": "RIDGE RD & ILE DES CANNES RD",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 09:35 AM",
