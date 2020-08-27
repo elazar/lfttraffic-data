@@ -64,14 +64,6 @@
     "longitude": -92.01095
   },
   {
-    "address": "100 S GIROUARD RD",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 06:22 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.1483685,
-    "longitude": -91.948972
-  },
-  {
     "address": "AMBASSADOR CAFFERY PW & DULLES DR",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 06:20 AM",
@@ -88,28 +80,12 @@
     "longitude": -91.9822502
   },
   {
-    "address": "MONTE RD & LAGNEAUX RD",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 06:14 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.15221,
-    "longitude": -92.1291
-  },
-  {
     "address": "CARMEL DR & LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 06:08 AM",
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.23457,
     "longitude": -92.00231
-  },
-  {
-    "address": "700 HEART D FARM RD",
-    "city": "BROUSSARD",
-    "time": "08/27/2020 - 06:07 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.1306,
-    "longitude": -91.98066
   },
   {
     "address": "146 E KALISTE SALOOM RD",
