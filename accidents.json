@@ -22,13 +22,5 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.27944,
     "longitude": -91.99217
-  },
-  {
-    "address": "700 MARTEAU RD",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 01:14 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.1036586,
-    "longitude": -91.9569466
   }
 ]
