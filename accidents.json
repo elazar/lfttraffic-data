@@ -1,5 +1,21 @@
 [
   {
+    "address": "JOHNSTON ST & W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 6:48 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21729,
+    "longitude": -92.01902
+  },
+  {
+    "address": "NE EVANGELINE TW & E WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 6:48 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24447,
+    "longitude": -92.01187
+  },
+  {
     "address": "YOUNGSVILLE HW & SABAL PALMS RW",
     "city": "YOUNGSVILLE",
     "time": "08/27/2020 - 6:46 PM",
@@ -22,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23468,
     "longitude": -92.00219
-  },
-  {
-    "address": "1112 LEBESQUE RD",
-    "city": "SCOTT",
-    "time": "08/27/2020 - 6:29 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.2758,
-    "longitude": -92.08111
   },
   {
     "address": "228 ODESSA RD",
