@@ -1,5 +1,13 @@
 [
   {
+    "address": "105 BLAKELAND DR",
+    "city": "SCOTT",
+    "time": "08/27/2020 - 02:49 AM",
+    "due_to": "Hazard",
+    "latitude": 30.24192,
+    "longitude": -92.10547
+  },
+  {
     "address": "2905 E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 02:21 AM",
