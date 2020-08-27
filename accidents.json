@@ -1,5 +1,13 @@
 [
   {
+    "address": "N UNIVERSITY AV & DOROTHY ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 10:50 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23613,
+    "longitude": -92.03241
+  },
+  {
     "address": "700 STEVENSON ST",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 10:40 AM",
@@ -14,14 +22,6 @@
     "due_to": "Fire Investigation",
     "latitude": 30.2338,
     "longitude": -92.18497
-  },
-  {
-    "address": "407 ST CLAIR RD",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 10:32 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.30465,
-    "longitude": -91.97
   },
   {
     "address": "3222 AMBASSADOR CAFFERY PW",
