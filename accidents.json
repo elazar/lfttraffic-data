@@ -1,5 +1,13 @@
 [
   {
+    "address": "W WILLOW ST & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 1:19 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.24448,
+    "longitude": -92.03275
+  },
+  {
     "address": "150 GLYNNWOOD AV",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 12:49 PM",
