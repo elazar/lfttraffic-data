@@ -1,5 +1,13 @@
 [
   {
+    "address": "110 STATESMAN DR",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 03:56 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.20835,
+    "longitude": -92.06694
+  },
+  {
     "address": "100 EDIE ANN DR",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 03:54 AM",
