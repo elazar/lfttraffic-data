@@ -1,5 +1,13 @@
 [
   {
+    "address": "W CONGRESS ST & ALYENE DR",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 07:50 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19777,
+    "longitude": -92.07116
+  },
+  {
     "address": "103 BEGNAUD DR",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 07:47 AM",
@@ -78,14 +86,6 @@
     "due_to": "Wire Hazard",
     "latitude": 30.2107724,
     "longitude": -92.060118
-  },
-  {
-    "address": "AMY ST & PORTLOCK ST",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 07:24 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.2366,
-    "longitude": -92.02824
   },
   {
     "address": "F ST & THIRD ST",
