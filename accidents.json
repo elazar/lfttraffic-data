@@ -1,5 +1,13 @@
 [
   {
+    "address": "CARMEL DR & OVEY ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 12:28 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.23328,
+    "longitude": -91.99175
+  },
+  {
     "address": "423 JEFFERSON ST",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 12:12 AM",
