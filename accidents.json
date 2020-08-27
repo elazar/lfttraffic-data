@@ -1,5 +1,13 @@
 [
   {
+    "address": "S COLLEGE RD & GIRARD PARK DR",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 5:05 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.19998,
+    "longitude": -92.02317
+  },
+  {
     "address": "3726 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 5:02 PM",
