@@ -1,5 +1,21 @@
 [
   {
+    "address": "CARMEL DR & LOUISIANA AV",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 06:08 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.23457,
+    "longitude": -92.00231
+  },
+  {
+    "address": "ST THOMAS ST & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 06:08 AM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.22253,
+    "longitude": -92.03485
+  },
+  {
     "address": "700 HEART D FARM RD",
     "city": "BROUSSARD",
     "time": "08/27/2020 - 06:07 AM",
