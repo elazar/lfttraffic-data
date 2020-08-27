@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMELLIA DR & MOUNT VERNON DR",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 08:22 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.18558,
+    "longitude": -92.05388
+  },
+  {
     "address": "5004 CAMERON ST",
     "city": "SCOTT",
     "time": "08/27/2020 - 08:18 AM",
