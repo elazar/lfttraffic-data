@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 GENDARME RD",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 1:49 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.35978,
+    "longitude": -92.05518
+  },
+  {
     "address": "MERMENTAU RD & SAVOY RD",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 1:46 PM",
