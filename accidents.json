@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 PREJEAN RD",
+    "city": "CARENCRO",
+    "time": "08/27/2020 - 06:56 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.3095949,
+    "longitude": -92.0533756
+  },
+  {
     "address": "LAKEVIEW RD & LA 182 HW",
     "city": "BROUSSARD",
     "time": "08/27/2020 - 06:53 AM",
@@ -78,14 +86,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.1914031,
     "longitude": -92.0117821
-  },
-  {
-    "address": "457 CHEMIN METAIRIE",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 05:45 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.13173,
-    "longitude": -92.01554
   },
   {
     "address": "100 CREST CL",
