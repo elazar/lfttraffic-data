@@ -1,5 +1,13 @@
 [
   {
+    "address": "N MICHOT RD & YVETTE MARIE DR",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 11:25 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.15406,
+    "longitude": -92.01763
+  },
+  {
     "address": "612 GORDON ST",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 11:17 AM",
