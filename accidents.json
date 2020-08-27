@@ -1,5 +1,13 @@
 [
   {
+    "address": "4500 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "08/26/2020 - 11:22 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.0871173,
+    "longitude": -92.0325949
+  },
+  {
     "address": "1801 GOLDEN GRAIN RD",
     "city": "LAFAYETTE",
     "time": "08/26/2020 - 11:16 PM",
