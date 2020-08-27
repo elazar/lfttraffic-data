@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 DENVER CL",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 03:15 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2419,
+    "longitude": -91.99274
+  },
+  {
     "address": "600 NW EVANGELINE TW",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 03:14 AM",
@@ -94,14 +102,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.1546036,
     "longitude": -92.0503988
-  },
-  {
-    "address": "GUILBEAU RD & W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 03:07 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.19826,
-    "longitude": -92.07007
   },
   {
     "address": "3500 AMBASSADOR CAFFERY PW",
