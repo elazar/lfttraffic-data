@@ -1,5 +1,13 @@
 [
   {
+    "address": "228 ODESSA RD",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 6:20 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.13112,
+    "longitude": -92.15082
+  },
+  {
     "address": "1105 E PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 6:16 PM",
