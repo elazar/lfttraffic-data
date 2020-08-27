@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 ST THOMAS ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 03:34 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.2154682,
+    "longitude": -92.0286848
+  },
+  {
     "address": "2812 VEROT SCHOOL RD",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 03:25 AM",
