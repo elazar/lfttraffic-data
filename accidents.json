@@ -1,5 +1,13 @@
 [
   {
+    "address": "S RICHFIELD RD & CAMERON ST",
+    "city": "DUSON",
+    "time": "08/27/2020 - 08:50 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.23496,
+    "longitude": -92.17607
+  },
+  {
     "address": "600 E GLORIA SWITCH RD",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 08:49 AM",
