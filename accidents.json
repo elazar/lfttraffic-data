@@ -32,14 +32,6 @@
     "longitude": -92.01545
   },
   {
-    "address": "500 S BUCHANAN ST",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 10:52 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2260825,
-    "longitude": -92.0191114
-  },
-  {
     "address": "KALISTE SALOOM RD & AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 10:52 AM",
@@ -54,14 +46,6 @@
     "due_to": "Wire Hazard",
     "latitude": 30.21361,
     "longitude": -92.01252
-  },
-  {
-    "address": "JOHNSTON ST & E BROUSSARD RD",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 10:15 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.15059,
-    "longitude": -92.09379
   },
   {
     "address": "124 VENUS DR",
