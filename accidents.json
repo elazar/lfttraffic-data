@@ -1,5 +1,13 @@
 [
   {
+    "address": "2812 VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 3:07 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.14448,
+    "longitude": -92.03297
+  },
+  {
     "address": "606 S DEARBORNE RD",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 3:02 PM",
@@ -48,11 +56,11 @@
     "longitude": -92.1000723
   },
   {
-    "address": "324 COUNTRY RUN DR",
+    "address": "320 COUNTRY RUN DR",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 11:45 AM",
     "due_to": "Residential Fire",
-    "latitude": 30.10758,
-    "longitude": -91.95799
+    "latitude": 30.10735,
+    "longitude": -91.95803
   }
 ]
