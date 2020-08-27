@@ -1,19 +1,19 @@
 [
   {
+    "address": "200 TRAPPEY RD",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 07:32 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.3607537,
+    "longitude": -92.017558
+  },
+  {
     "address": "BONAIRE DR & ALYENE DR",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 07:30 AM",
     "due_to": "Road Hazard",
     "latitude": 30.19159,
     "longitude": -92.07089
-  },
-  {
-    "address": "400 WALTER DR",
-    "city": "CARENCRO",
-    "time": "08/27/2020 - 07:30 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.3068945,
-    "longitude": -92.0411428
   },
   {
     "address": "107 LAZY CREEK DR",
