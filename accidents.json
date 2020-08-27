@@ -1,5 +1,13 @@
 [
   {
+    "address": "150 GLYNNWOOD AV",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 12:49 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.20684,
+    "longitude": -92.04784
+  },
+  {
     "address": "50 HECTOR CONNOLY RD",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 12:46 PM",
