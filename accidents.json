@@ -2,6 +2,22 @@
   {
     "address": "5700 JOHNSTON ST",
     "city": "LAFAYETTE",
+    "time": "08/27/2020 - 03:02 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1755,
+    "longitude": -92.07745
+  },
+  {
+    "address": "404 E MONROE ST",
+    "city": "BROUSSARD",
+    "time": "08/27/2020 - 03:01 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.14527,
+    "longitude": -91.96145
+  },
+  {
+    "address": "5700 JOHNSTON ST",
+    "city": "LAFAYETTE",
     "time": "08/27/2020 - 03:01 AM",
     "due_to": "Road Hazard",
     "latitude": 30.1755,
@@ -14,14 +30,6 @@
     "due_to": "Fire Investigation",
     "latitude": 30.25101,
     "longitude": -92.02827
-  },
-  {
-    "address": "105 BLAKELAND DR",
-    "city": "SCOTT",
-    "time": "08/27/2020 - 02:49 AM",
-    "due_to": "Hazard",
-    "latitude": 30.24192,
-    "longitude": -92.10547
   },
   {
     "address": "S LARRIVIERE RD & INVESTMENT DR",
