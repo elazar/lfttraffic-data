@@ -1,5 +1,21 @@
 [
   {
+    "address": "400 LANTIER RD",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 06:33 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.35989,
+    "longitude": -91.9865
+  },
+  {
+    "address": "2863 AMBASSADOR CAFFERY PW",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 06:33 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.19816,
+    "longitude": -92.07417
+  },
+  {
     "address": "306 W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 06:31 AM",
@@ -30,14 +46,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.1483685,
     "longitude": -91.948972
-  },
-  {
-    "address": "251 WOODRICH LN",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 06:21 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.26967,
-    "longitude": -92.05331
   },
   {
     "address": "AMBASSADOR CAFFERY PW & DULLES DR",
