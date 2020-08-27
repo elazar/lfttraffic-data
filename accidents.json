@@ -1,5 +1,13 @@
 [
   {
+    "address": "1800 E WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 09:06 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.2432832,
+    "longitude": -91.9843495
+  },
+  {
     "address": "106 MARGARET ST",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 09:05 AM",
@@ -32,28 +40,12 @@
     "longitude": -92.19301
   },
   {
-    "address": "W WILLOW ST & PATTERSON ST",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 08:57 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.24518,
-    "longitude": -92.01841
-  },
-  {
     "address": "217 LA RUE FRANCE",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 08:55 AM",
     "due_to": "Fire Alarm-Commercial",
     "latitude": 30.19484,
     "longitude": -92.0115
-  },
-  {
-    "address": "706 PICARD RD",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 08:54 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.11445,
-    "longitude": -92.07428
   },
   {
     "address": "DULLES DR & RUE DU BELIER",
@@ -70,14 +62,6 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.23496,
     "longitude": -92.17607
-  },
-  {
-    "address": "600 E GLORIA SWITCH RD",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 08:49 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.29439,
-    "longitude": -92.0091
   },
   {
     "address": "400 POST RD",
