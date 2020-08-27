@@ -1,5 +1,13 @@
 [
   {
+    "address": "W WILLOW ST & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 1:45 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.24448,
+    "longitude": -92.03275
+  },
+  {
     "address": "2100 YOUNGSVILLE HW",
     "city": "YOUNGSVILLE",
     "time": "08/27/2020 - 12:10 PM",
