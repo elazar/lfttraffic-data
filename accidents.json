@@ -1,11 +1,19 @@
 [
   {
-    "address": "W UNIVERSITY AV & W CONGRESS ST",
+    "address": "COUNTRY RUN DR & YOUNG ST",
     "city": "LAFAYETTE",
-    "time": "08/27/2020 - 11:43 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.2261,
-    "longitude": -92.02828
+    "time": "08/27/2020 - 11:45 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.10185,
+    "longitude": -91.95793
+  },
+  {
+    "address": "E GLORIA SWITCH RD & S WILDERNESS TL",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 11:45 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.29367,
+    "longitude": -91.98256
   },
   {
     "address": "206 FINSBURY LN",
