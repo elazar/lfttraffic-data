@@ -48,14 +48,6 @@
     "longitude": -92.03744
   },
   {
-    "address": "315 BENMAN RD",
-    "city": "SCOTT",
-    "time": "08/27/2020 - 09:59 AM",
-    "due_to": "Vehicle Fire",
-    "latitude": 32.7625166,
-    "longitude": -91.907104
-  },
-  {
     "address": "124 VENUS DR",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 09:46 AM",
@@ -78,13 +70,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.11986,
     "longitude": -91.99737
-  },
-  {
-    "address": "400 POST RD",
-    "city": "CARENCRO",
-    "time": "08/27/2020 - 08:47 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.3263,
-    "longitude": -92.05263
   }
 ]
