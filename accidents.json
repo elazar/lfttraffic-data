@@ -1,5 +1,21 @@
 [
   {
+    "address": "N UNIVERSITY AV & W PONT DES MOUTON RD",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 3:26 PM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.27587,
+    "longitude": -92.04949
+  },
+  {
+    "address": "2225 NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 3:26 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.25431,
+    "longitude": -92.01545
+  },
+  {
     "address": "123 FARMERS MARKET DR",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 3:21 PM",
