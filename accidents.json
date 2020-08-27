@@ -1,5 +1,13 @@
 [
   {
+    "address": "1624 GENDARME RD",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 10:55 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.34226,
+    "longitude": -92.08416
+  },
+  {
     "address": "500 S BUCHANAN ST",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 10:52 AM",
