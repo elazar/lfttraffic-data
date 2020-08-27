@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 S GIROUARD RD",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 06:22 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1483685,
+    "longitude": -91.948972
+  },
+  {
     "address": "251 WOODRICH LN",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 06:21 AM",
@@ -102,14 +110,6 @@
     "due_to": "Wire Hazard",
     "latitude": 30.24084,
     "longitude": -91.96607
-  },
-  {
-    "address": "121 LEGEND CREEK DR",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 04:14 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.10781,
-    "longitude": -92.05562
   },
   {
     "address": "110 CHURCHILL DR",
