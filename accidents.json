@@ -8,14 +8,6 @@
     "longitude": -92.03042
   },
   {
-    "address": "100 TEURLINGS DR",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 11:54 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.2422188,
-    "longitude": -91.9891758
-  },
-  {
     "address": "917 W BROUSSARD RD",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 11:53 AM",
@@ -62,13 +54,5 @@
     "due_to": "Fire Alarm-Commercial",
     "latitude": 30.25431,
     "longitude": -92.01545
-  },
-  {
-    "address": "700 STEVENSON ST",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 10:40 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.21361,
-    "longitude": -92.01252
   }
 ]
