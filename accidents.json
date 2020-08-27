@@ -1,5 +1,13 @@
 [
   {
+    "address": "606 S DEARBORNE RD",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 3:02 PM",
+    "due_to": "Grass Fire",
+    "latitude": 30.1485,
+    "longitude": -92.19788
+  },
+  {
     "address": "315 AMESBURY DR",
     "city": "CARENCRO",
     "time": "08/27/2020 - 2:40 PM",
