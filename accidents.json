@@ -1,5 +1,13 @@
 [
   {
+    "address": "LAFAYETTE ST & COPPER MEADOWS BL",
+    "city": "YOUNGSVILLE",
+    "time": "08/27/2020 - 6:43 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.10543,
+    "longitude": -91.99057
+  },
+  {
     "address": "107 CARMEL DR",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 6:31 PM",
@@ -16,14 +24,6 @@
     "longitude": -92.08111
   },
   {
-    "address": "2330 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 6:22 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.2098572,
-    "longitude": -92.0319878
-  },
-  {
     "address": "228 ODESSA RD",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 6:20 PM",
@@ -38,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.27399,
     "longitude": -91.99825
-  },
-  {
-    "address": "100 E KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 6:03 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18852,
-    "longitude": -92.01347
   },
   {
     "address": "1212 N WILDERNESS TL",
