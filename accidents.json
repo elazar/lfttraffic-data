@@ -1,5 +1,13 @@
 [
   {
+    "address": "DELPHINE ST & PANDORA ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 4:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20715,
+    "longitude": -92.0613
+  },
+  {
     "address": "MOSS ST & HALIFAX DR",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 4:03 PM",
