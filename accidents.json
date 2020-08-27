@@ -1,5 +1,13 @@
 [
   {
+    "address": "2225 NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 3:39 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.25431,
+    "longitude": -92.01545
+  },
+  {
     "address": "1627 RENAUD DR",
     "city": "SCOTT",
     "time": "08/27/2020 - 3:38 PM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.23069,
     "longitude": -92.00911
-  },
-  {
-    "address": "204 WOODVALE AV",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 2:33 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19927,
-    "longitude": -92.04887
   },
   {
     "address": "VEROT SCHOOL RD & E MILTON AV",
