@@ -1,5 +1,13 @@
 [
   {
+    "address": "MONTE RD & LAGNEAUX RD",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 06:14 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.15221,
+    "longitude": -92.1291
+  },
+  {
     "address": "CARMEL DR & LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 06:08 AM",
