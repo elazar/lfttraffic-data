@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 CHAMPAGNE ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 2:10 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.22596,
+    "longitude": -91.99493
+  },
+  {
     "address": "100 BAROLO DR",
     "city": "BROUSSARD",
     "time": "08/27/2020 - 2:06 PM",
