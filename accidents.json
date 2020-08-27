@@ -32,28 +32,12 @@
     "longitude": -91.99309
   },
   {
-    "address": "50 BNSF RAILROAD CG",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 09:05 AM",
-    "due_to": "Road Hazard",
-    "latitude": 40.50211,
-    "longitude": -86.95026
-  },
-  {
     "address": "300 S LARRIVIERE RD",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 08:59 AM",
     "due_to": "Road Hazard",
     "latitude": 30.0977227,
     "longitude": -91.9737849
-  },
-  {
-    "address": "217 LA RUE FRANCE",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 08:55 AM",
-    "due_to": "Fire Alarm-Commercial",
-    "latitude": 30.19484,
-    "longitude": -92.0115
   },
   {
     "address": "DULLES DR & RUE DU BELIER",
