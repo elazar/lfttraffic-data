@@ -2,14 +2,6 @@
   {
     "address": "103 BEGNAUD DR",
     "city": "LAFAYETTE",
-    "time": "08/27/2020 - 07:48 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.24536,
-    "longitude": -91.99588
-  },
-  {
-    "address": "103 BEGNAUD DR",
-    "city": "LAFAYETTE",
     "time": "08/27/2020 - 07:47 AM",
     "due_to": "Fire Investigation",
     "latitude": 30.24536,
@@ -56,14 +48,6 @@
     "longitude": -92.19307
   },
   {
-    "address": "315 MARILYN DR",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 07:37 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.1933,
-    "longitude": -92.04856
-  },
-  {
     "address": "200 TRAPPEY RD",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 07:32 AM",
@@ -102,14 +86,6 @@
     "due_to": "Wire Hazard",
     "latitude": 30.2366,
     "longitude": -92.02824
-  },
-  {
-    "address": "PEARL ST & HELLEN ST",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 07:23 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.236,
-    "longitude": -92.02615
   },
   {
     "address": "F ST & THIRD ST",
