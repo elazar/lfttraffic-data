@@ -1,5 +1,13 @@
 [
   {
+    "address": "1801 E SIMCOE ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 08:34 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.22751,
+    "longitude": -91.9966
+  },
+  {
     "address": "400 POST RD",
     "city": "CARENCRO",
     "time": "08/27/2020 - 08:31 AM",
