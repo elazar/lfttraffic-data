@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMILCAR BL & MARGARET ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 5:48 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.24275,
+    "longitude": -91.99287
+  },
+  {
     "address": "102 SUNNY OAK TL",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 5:44 PM",
@@ -46,14 +54,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.14328,
     "longitude": -92.07154
-  },
-  {
-    "address": "404 E MONROE ST",
-    "city": "BROUSSARD",
-    "time": "08/27/2020 - 3:57 PM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.14527,
-    "longitude": -91.96145
   },
   {
     "address": "110 MCNARY ST",
