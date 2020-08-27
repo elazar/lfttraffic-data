@@ -1,5 +1,13 @@
 [
   {
+    "address": "MERMENTAU RD & SAVOY RD",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 1:46 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.09465,
+    "longitude": -92.04504
+  },
+  {
     "address": "W WILLOW ST & N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 1:45 PM",
