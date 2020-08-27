@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 S LARRIVIERE RD",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 08:59 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.0977227,
+    "longitude": -91.9737849
+  },
+  {
     "address": "CAMERON ST & AUSTRIA RD",
     "city": "DUSON",
     "time": "08/27/2020 - 08:58 AM",
@@ -38,14 +46,6 @@
     "due_to": "Wire Hazard",
     "latitude": 30.11445,
     "longitude": -92.07428
-  },
-  {
-    "address": "100 HIGH MEADOWS BL",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 08:54 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.2734903,
-    "longitude": -92.0157742
   },
   {
     "address": "DULLES DR & RUE DU BELIER",
