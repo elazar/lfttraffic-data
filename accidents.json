@@ -1,5 +1,13 @@
 [
   {
+    "address": "124 VENUS DR",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 09:46 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.2461,
+    "longitude": -91.99634
+  },
+  {
     "address": "N LARRIVIERE RD & GRIFFIN DR",
     "city": "YOUNGSVILLE",
     "time": "08/27/2020 - 09:43 AM",
