@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 PILGRIMAGE DR",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 04:16 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.19414,
+    "longitude": -92.08862
+  },
+  {
     "address": "KNOLLWOOD DR & STRASBOURG DR",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 04:15 AM",
@@ -14,14 +22,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.10781,
     "longitude": -92.05562
-  },
-  {
-    "address": "1324 DULLES DR",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 03:59 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2111,
-    "longitude": -92.07361
   },
   {
     "address": "100 EDIE ANN DR",
@@ -62,14 +62,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.2419,
     "longitude": -91.99274
-  },
-  {
-    "address": "3500 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 03:06 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.1774019,
-    "longitude": -92.0739576
   },
   {
     "address": "N UNIVERSITY AV & RAILROAD UNDERPASS",
