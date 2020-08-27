@@ -1,5 +1,13 @@
 [
   {
+    "address": "700 RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 08:37 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1817,
+    "longitude": -92.10413
+  },
+  {
     "address": "GENEVIEVE DR & CRESTWOOD DR",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 08:30 AM",
@@ -46,14 +54,6 @@
     "due_to": "Road Hazard",
     "latitude": 30.10781,
     "longitude": -92.05562
-  },
-  {
-    "address": "104 ALVA RD",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 08:09 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.09349,
-    "longitude": -91.95737
   },
   {
     "address": "2414 BONIN RD",
@@ -110,14 +110,6 @@
     "due_to": "Traffic Control",
     "latitude": 30.21054,
     "longitude": -92.07569
-  },
-  {
-    "address": "146 E KALISTE SALOOM RD",
-    "city": "LAFAYETTE",
-    "time": "08/27/2020 - 05:49 AM",
-    "due_to": "Road Hazard",
-    "latitude": 30.1914031,
-    "longitude": -92.0117821
   },
   {
     "address": "100 CREST CL",
