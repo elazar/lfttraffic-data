@@ -1,11 +1,19 @@
 [
   {
-    "address": "102 DUNLIETH DR",
+    "address": "100 MERMENTAU RD",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 08:28 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1090478,
+    "longitude": -92.0459166
+  },
+  {
+    "address": "103 LINDEN DR",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 08:25 AM",
-    "due_to": "Incoming Call",
-    "latitude": 30.20684,
-    "longitude": -92.05171
+    "due_to": "Grass Fire",
+    "latitude": 30.20653,
+    "longitude": -92.05144
   },
   {
     "address": "W UNIVERSITY AV & W CONGRESS ST",
