@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.22987,
     "longitude": -92.01213
-  },
-  {
-    "address": "W UNIVERSITY AV & W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "08/28/2020 - 09:55 AM",
-    "due_to": "Traffic Signal Malfunction",
-    "latitude": 30.2261,
-    "longitude": -92.02828
   }
 ]
