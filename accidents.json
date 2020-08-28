@@ -1,5 +1,13 @@
 [
   {
+    "address": "1700 CAMERON ST",
+    "city": "LAFAYETTE",
+    "time": "08/28/2020 - 12:50 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.2325348,
+    "longitude": -92.0336828
+  },
+  {
     "address": "132 MILDRED ST",
     "city": "LAFAYETTE",
     "time": "08/28/2020 - 12:49 PM",
@@ -30,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1888,
     "longitude": -92.07638
-  },
-  {
-    "address": "100 WESTMARK BL",
-    "city": "LAFAYETTE",
-    "time": "08/28/2020 - 12:20 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.18292,
-    "longitude": -92.07045
   }
 ]
