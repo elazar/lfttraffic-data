@@ -1,5 +1,13 @@
 [
   {
+    "address": "300 IRA ST",
+    "city": "CARENCRO",
+    "time": "08/28/2020 - 10:14 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.32221,
+    "longitude": -92.0571
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & I10 HW",
     "city": "LAFAYETTE",
     "time": "08/28/2020 - 10:07 AM",
@@ -38,13 +46,5 @@
     "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.20134,
     "longitude": -92.07346
-  },
-  {
-    "address": "KALISTE SALOOM RD & CAMELLIA BL",
-    "city": "LAFAYETTE",
-    "time": "08/28/2020 - 09:14 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.16717,
-    "longitude": -92.03642
   }
 ]
