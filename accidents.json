@@ -1,19 +1,19 @@
 [
   {
+    "address": "VEROT SCHOOL RD & VINCENT RD",
+    "city": "LAFAYETTE",
+    "time": "08/28/2020 - 10:24 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.13809,
+    "longitude": -92.03254
+  },
+  {
     "address": "200 E WILLOW ST",
     "city": "LAFAYETTE",
     "time": "08/28/2020 - 10:16 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.24388,
     "longitude": -92.00992
-  },
-  {
-    "address": "300 IRA ST",
-    "city": "CARENCRO",
-    "time": "08/28/2020 - 10:14 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.32221,
-    "longitude": -92.0571
   },
   {
     "address": "AMBASSADOR CAFFERY PW & I10 HW",
