@@ -1,5 +1,13 @@
 [
   {
+    "address": "FERNWAY LN & STUTES RD",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 8:44 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.18841,
+    "longitude": -92.13447
+  },
+  {
     "address": "400 E MONROE ST",
     "city": "BROUSSARD",
     "time": "08/27/2020 - 8:32 PM",
