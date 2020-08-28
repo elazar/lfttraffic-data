@@ -1,11 +1,19 @@
 [
   {
-    "address": "3226 AMBASSADOR CAFFERY PW",
+    "address": "539 JEFFERSON ST",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 11:59 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.22464,
+    "longitude": -92.01853
+  },
+  {
+    "address": "3302 AMBASSADOR CAFFERY PW",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 11:35 PM",
     "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.18386,
-    "longitude": -92.07546
+    "latitude": 30.1811516,
+    "longitude": -92.0751349
   },
   {
     "address": "1900 SAVOY RD",
