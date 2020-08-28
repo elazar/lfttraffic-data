@@ -1,5 +1,13 @@
 [
   {
+    "address": "CAMERON ST & CAJUNDOME BL",
+    "city": "LAFAYETTE",
+    "time": "08/28/2020 - 08:36 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23244,
+    "longitude": -92.04675
+  },
+  {
     "address": "100 BENOIT FALGOUT DR",
     "city": "LAFAYETTE",
     "time": "08/28/2020 - 08:32 AM",
