@@ -1,5 +1,13 @@
 [
   {
+    "address": "102 TALON RD",
+    "city": "LAFAYETTE",
+    "time": "08/28/2020 - 2:25 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.05255,
+    "longitude": -92.00619
+  },
+  {
     "address": "JEFFERSON ST & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/28/2020 - 2:20 PM",
