@@ -46,13 +46,5 @@
     "due_to": "Hazardous Material",
     "latitude": 30.16803,
     "longitude": -91.99476
-  },
-  {
-    "address": "SW EVANGELINE TW & E PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "08/28/2020 - 4:10 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21749,
-    "longitude": -92.00495
   }
 ]
