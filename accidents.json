@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 MIMOSA PL",
+    "city": "LAFAYETTE",
+    "time": "08/28/2020 - 11:21 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.1974495,
+    "longitude": -92.0565447
+  },
+  {
     "address": "305 ALICE DR",
     "city": "LAFAYETTE",
     "time": "08/28/2020 - 11:11 AM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.244338,
     "longitude": -92.1068496
-  },
-  {
-    "address": "105 I10 WESTBOUND MM105 HW",
-    "city": "LAFAYETTE",
-    "time": "08/28/2020 - 10:42 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.26255,
-    "longitude": -92.00867
   }
 ]
