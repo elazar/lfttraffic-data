@@ -16,14 +16,6 @@
     "longitude": -92.00495
   },
   {
-    "address": "E BAYOU PW & SAXON DR",
-    "city": "LAFAYETTE",
-    "time": "08/28/2020 - 3:33 PM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.18144,
-    "longitude": -92.03074
-  },
-  {
     "address": "DULLES DR & J B RD",
     "city": "SCOTT",
     "time": "08/28/2020 - 3:30 PM",
@@ -62,14 +54,6 @@
     "due_to": "Hazard",
     "latitude": 30.20919,
     "longitude": -92.0338
-  },
-  {
-    "address": "400 N COLLEGE RD",
-    "city": "LAFAYETTE",
-    "time": "08/28/2020 - 2:54 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2116713,
-    "longitude": -92.0436342
   },
   {
     "address": "2000 NE EVANGELINE TW",
