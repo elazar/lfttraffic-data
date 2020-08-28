@@ -1,5 +1,13 @@
 [
   {
+    "address": "513 W MAIN ST",
+    "city": "BROUSSARD",
+    "time": "08/28/2020 - 07:08 AM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.14847,
+    "longitude": -91.9694
+  },
+  {
     "address": "E BROUSSARD RD & JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/28/2020 - 07:00 AM",
