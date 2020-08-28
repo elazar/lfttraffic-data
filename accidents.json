@@ -1,19 +1,19 @@
 [
   {
+    "address": "W CONGRESS ST & JASMINE ST",
+    "city": "LAFAYETTE",
+    "time": "08/28/2020 - 4:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22514,
+    "longitude": -92.0302
+  },
+  {
     "address": "103 RIDONA ST",
     "city": "LAFAYETTE",
     "time": "08/28/2020 - 4:23 PM",
     "due_to": "Fire Investigation",
     "latitude": 30.16803,
     "longitude": -91.99476
-  },
-  {
-    "address": "4504 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "08/28/2020 - 4:15 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.15558,
-    "longitude": -92.04793
   },
   {
     "address": "SW EVANGELINE TW & E PINHOOK RD",
