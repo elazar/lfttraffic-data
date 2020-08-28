@@ -1,5 +1,13 @@
 [
   {
+    "address": "W UNIVERSITY AV & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "08/28/2020 - 09:55 AM",
+    "due_to": "Traffic Signal Malfunction",
+    "latitude": 30.2261,
+    "longitude": -92.02828
+  },
+  {
     "address": "620 GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "08/28/2020 - 09:34 AM",
@@ -14,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.16717,
     "longitude": -92.03642
-  },
-  {
-    "address": "CAMERON ST & CAJUNDOME BL",
-    "city": "LAFAYETTE",
-    "time": "08/28/2020 - 08:36 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.23244,
-    "longitude": -92.04675
   }
 ]
