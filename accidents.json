@@ -3,7 +3,7 @@
     "address": "2801 SE EVANGELINE TW",
     "city": "BROUSSARD",
     "time": "08/28/2020 - 1:16 PM",
-    "due_to": "Incoming Call",
+    "due_to": "Commercial Fire",
     "latitude": 30.18063,
     "longitude": -91.98715
   },
@@ -30,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21504,
     "longitude": -92.07579
-  },
-  {
-    "address": "223 MARNE ST",
-    "city": "LAFAYETTE",
-    "time": "08/28/2020 - 12:56 PM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.23153,
-    "longitude": -92.00083
   },
   {
     "address": "132 MILDRED ST",
