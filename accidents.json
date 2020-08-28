@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "ST MARY ST & HAROLD GAUTHE DR",
+    "city": "SCOTT",
+    "time": "08/28/2020 - 06:59 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.24423,
+    "longitude": -92.10463
+  }
+]
