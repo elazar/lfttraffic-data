@@ -1,5 +1,13 @@
 [
   {
+    "address": "406 E MADISON ST",
+    "city": "BROUSSARD",
+    "time": "08/27/2020 - 8:32 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.14581,
+    "longitude": -91.96076
+  },
+  {
     "address": "151 SCHOEFFLER RD",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 8:11 PM",
