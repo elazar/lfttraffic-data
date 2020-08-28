@@ -1,5 +1,13 @@
 [
   {
+    "address": "1904 ST MARY ST",
+    "city": "SCOTT",
+    "time": "08/28/2020 - 11:08 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.244338,
+    "longitude": -92.1068496
+  },
+  {
     "address": "105 I10 WESTBOUND MM105 HW",
     "city": "LAFAYETTE",
     "time": "08/28/2020 - 10:42 AM",
