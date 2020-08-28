@@ -1,5 +1,13 @@
 [
   {
+    "address": "VEROT SCHOOL RD & FAILLA RD",
+    "city": "LAFAYETTE",
+    "time": "08/28/2020 - 5:52 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15578,
+    "longitude": -92.0248
+  },
+  {
     "address": "6136 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/28/2020 - 5:50 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21504,
     "longitude": -92.07579
-  },
-  {
-    "address": "N UNIVERSITY AV & ARCENEAUX RD",
-    "city": "CARENCRO",
-    "time": "08/28/2020 - 5:26 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.30943,
-    "longitude": -92.04946
   },
   {
     "address": "AMBASSADOR CAFFERY PW & OLD CAMP RD",
