@@ -1,5 +1,13 @@
 [
   {
+    "address": "132 MILDRED ST",
+    "city": "LAFAYETTE",
+    "time": "08/28/2020 - 12:49 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.21473,
+    "longitude": -92.02394
+  },
+  {
     "address": "1500 BONIN RD",
     "city": "YOUNGSVILLE",
     "time": "08/28/2020 - 12:48 PM",
