@@ -38,13 +38,5 @@
     "due_to": "Traffic Signal Malfunction",
     "latitude": 30.2261,
     "longitude": -92.02828
-  },
-  {
-    "address": "500 GUILBEAU RD",
-    "city": "LAFAYETTE",
-    "time": "08/28/2020 - 09:34 AM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.1984388,
-    "longitude": -92.0701636
   }
 ]
