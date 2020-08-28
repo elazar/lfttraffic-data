@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.1824,
     "longitude": -92.07019
-  },
-  {
-    "address": "100 MIMOSA PL",
-    "city": "LAFAYETTE",
-    "time": "08/28/2020 - 11:21 AM",
-    "due_to": "Wire Hazard",
-    "latitude": 30.1974495,
-    "longitude": -92.0565447
   }
 ]
