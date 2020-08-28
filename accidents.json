@@ -1,11 +1,11 @@
 [
   {
-    "address": "FERNWAY LN & STUTES RD",
+    "address": "319 STUTES RD",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 8:44 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.18841,
-    "longitude": -92.13447
+    "due_to": "Wire Hazard",
+    "latitude": 30.18792,
+    "longitude": -92.13367
   },
   {
     "address": "400 E MONROE ST",
