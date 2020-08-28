@@ -1,5 +1,13 @@
 [
   {
+    "address": "223 MARNE ST",
+    "city": "LAFAYETTE",
+    "time": "08/28/2020 - 12:56 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.23153,
+    "longitude": -92.00083
+  },
+  {
     "address": "1700 CAMERON ST",
     "city": "LAFAYETTE",
     "time": "08/28/2020 - 12:50 PM",
