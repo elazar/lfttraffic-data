@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "835 VATICAN RD",
+    "city": "LAFAYETTE",
+    "time": "08/28/2020 - 03:34 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.30909,
+    "longitude": -92.11505
+  }
+]
