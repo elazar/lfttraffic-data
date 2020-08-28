@@ -1,5 +1,13 @@
 [
   {
+    "address": "JEFFERSON ST & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/28/2020 - 2:20 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2201,
+    "longitude": -92.0172
+  },
+  {
     "address": "NW EVANGELINE TW & CASTILLE AV",
     "city": "LAFAYETTE",
     "time": "08/28/2020 - 2:13 PM",
