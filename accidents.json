@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 LEON DR",
+    "city": "LAFAYETTE",
+    "time": "08/28/2020 - 09:57 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.19715,
+    "longitude": -92.0436
+  },
+  {
     "address": "W UNIVERSITY AV & W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "08/28/2020 - 09:55 AM",
