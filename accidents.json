@@ -1,5 +1,21 @@
 [
   {
+    "address": "NE EVANGELINE TW & MUDD AV",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 10:40 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.23296,
+    "longitude": -92.01278
+  },
+  {
+    "address": "W PINHOOK RD & KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "08/27/2020 - 10:40 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.1886,
+    "longitude": -92.0141
+  },
+  {
     "address": "W PINHOOK RD & E KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "08/27/2020 - 10:38 PM",
