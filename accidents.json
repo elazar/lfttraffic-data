@@ -1,5 +1,13 @@
 [
   {
+    "address": "E BAYOU PW & SAXON DR",
+    "city": "LAFAYETTE",
+    "time": "08/28/2020 - 3:33 PM",
+    "due_to": "Wire Hazard",
+    "latitude": 30.18144,
+    "longitude": -92.03074
+  },
+  {
     "address": "DULLES DR & J B RD",
     "city": "SCOTT",
     "time": "08/28/2020 - 3:30 PM",
