@@ -1,5 +1,13 @@
 [
   {
+    "address": "200 E WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "08/29/2020 - 2:04 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24388,
+    "longitude": -92.00992
+  },
+  {
     "address": "W BAYOU PW & ROSELAWN BL",
     "city": "LAFAYETTE",
     "time": "08/29/2020 - 2:01 PM",
