@@ -1,5 +1,13 @@
 [
   {
+    "address": "E CONVENT ST & JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/29/2020 - 1:47 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22055,
+    "longitude": -92.01691
+  },
+  {
     "address": "1001 S COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "08/29/2020 - 1:46 PM",
