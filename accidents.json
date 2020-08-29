@@ -1,5 +1,13 @@
 [
   {
+    "address": "120 RUBRIA ST",
+    "city": "LAFAYETTE",
+    "time": "08/29/2020 - 11:45 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24403,
+    "longitude": -92.02789
+  },
+  {
     "address": "112 EGRET RD",
     "city": "LAFAYETTE",
     "time": "08/29/2020 - 11:28 AM",
