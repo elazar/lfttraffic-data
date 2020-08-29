@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "211 LIBERTY AV",
+    "city": "LAFAYETTE",
+    "time": "08/29/2020 - 02:40 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.15928,
+    "longitude": -92.03934
+  }
+]
