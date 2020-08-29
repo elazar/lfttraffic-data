@@ -1,5 +1,13 @@
 [
   {
+    "address": "113 LLOYD ST",
+    "city": "SCOTT",
+    "time": "08/29/2020 - 10:16 AM",
+    "due_to": "Trash Fire",
+    "latitude": 30.2119,
+    "longitude": -92.09648
+  },
+  {
     "address": "W WILLOW ST & N ST ANTOINE ST",
     "city": "LAFAYETTE",
     "time": "08/29/2020 - 09:49 AM",
