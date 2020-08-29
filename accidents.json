@@ -38,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24403,
     "longitude": -92.02789
-  },
-  {
-    "address": "112 EGRET RD",
-    "city": "LAFAYETTE",
-    "time": "08/29/2020 - 11:28 AM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.0721588,
-    "longitude": -91.9673049
   }
 ]
