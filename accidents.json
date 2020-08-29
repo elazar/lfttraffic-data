@@ -1,13 +1,5 @@
 [
   {
-    "address": "3806 AMBASSADOR CAFFERY PW",
-    "city": "LAFAYETTE",
-    "time": "08/29/2020 - 2:40 PM",
-    "due_to": "Traffic Control",
-    "latitude": 30.17072,
-    "longitude": -92.06613
-  },
-  {
     "address": "141 LA RUE BIARRITZ",
     "city": "LAFAYETTE",
     "time": "08/29/2020 - 2:16 PM",
@@ -30,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24388,
     "longitude": -92.00992
-  },
-  {
-    "address": "113 W WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "08/29/2020 - 1:30 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24454,
-    "longitude": -92.01508
   }
 ]
