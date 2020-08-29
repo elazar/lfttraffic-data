@@ -1,5 +1,13 @@
 [
   {
+    "address": "2600 KALISTE SALOOM RD",
+    "city": "LAFAYETTE",
+    "time": "08/28/2020 - 8:57 PM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1560911,
+    "longitude": -92.0489548
+  },
+  {
     "address": "1 I49 SOUTHBOUND MM1 HW",
     "city": "LAFAYETTE",
     "time": "08/28/2020 - 8:46 PM",
