@@ -1,5 +1,13 @@
 [
   {
+    "address": "ST PATRICK ST & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "08/29/2020 - 12:32 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22307,
+    "longitude": -92.03395
+  },
+  {
     "address": "508 CAMBRIDGE DR",
     "city": "LAFAYETTE",
     "time": "08/29/2020 - 12:12 PM",
