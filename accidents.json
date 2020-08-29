@@ -1,5 +1,13 @@
 [
   {
+    "address": "301 E THIRD ST",
+    "city": "LAFAYETTE",
+    "time": "08/29/2020 - 10:31 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22997,
+    "longitude": -92.01233
+  },
+  {
     "address": "CAMERON ST & JENKINS RD",
     "city": "SCOTT",
     "time": "08/29/2020 - 10:28 AM",
