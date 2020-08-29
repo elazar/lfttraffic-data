@@ -1,21 +1,5 @@
 [
   {
-    "address": "AMBASSADOR CAFFERY PW & RIDGE RD",
-    "city": "LAFAYETTE",
-    "time": "08/29/2020 - 11:09 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21504,
-    "longitude": -92.07579
-  },
-  {
-    "address": "NE EVANGELINE TW & E THIRD ST",
-    "city": "LAFAYETTE",
-    "time": "08/29/2020 - 10:50 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.22987,
-    "longitude": -92.01213
-  },
-  {
     "address": "ERASTE LANDRY RD & WESTGATE RD",
     "city": "SCOTT",
     "time": "08/29/2020 - 10:32 AM",
