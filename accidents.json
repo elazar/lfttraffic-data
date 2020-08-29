@@ -1,5 +1,13 @@
 [
   {
+    "address": "103 I10 EASTBOUND MM103A HW",
+    "city": "LAFAYETTE",
+    "time": "08/29/2020 - 03:42 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "211 LIBERTY AV",
     "city": "LAFAYETTE",
     "time": "08/29/2020 - 02:40 AM",
