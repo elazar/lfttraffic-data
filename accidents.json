@@ -1,5 +1,13 @@
 [
   {
+    "address": "1001 S COLLEGE RD",
+    "city": "LAFAYETTE",
+    "time": "08/29/2020 - 1:46 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.20082,
+    "longitude": -92.02854
+  },
+  {
     "address": "308 ORGERON DR",
     "city": "LAFAYETTE",
     "time": "08/29/2020 - 1:41 PM",
