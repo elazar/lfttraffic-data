@@ -1,13 +1,5 @@
 [
   {
-    "address": "2645 S FIELDSPAN RD",
-    "city": "LAFAYETTE",
-    "time": "08/29/2020 - 3:23 PM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.16823,
-    "longitude": -92.14148
-  },
-  {
     "address": "106 GABRIEL ST",
     "city": "LAFAYETTE",
     "time": "08/29/2020 - 3:14 PM",
@@ -46,13 +38,5 @@
     "due_to": "Fire Investigation",
     "latitude": 30.14527,
     "longitude": -92.03182
-  },
-  {
-    "address": "200 E WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "08/29/2020 - 2:04 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24388,
-    "longitude": -92.00992
   }
 ]
