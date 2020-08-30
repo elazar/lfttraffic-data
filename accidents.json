@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "address": "138 OCHO RIOS LN",
+    "city": "LAFAYETTE",
+    "time": "08/30/2020 - 12:18 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.22201,
+    "longitude": -92.12602
+  },
+  {
+    "address": "1314 NE EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "08/30/2020 - 12:18 PM",
+    "due_to": "Hazardous Situation",
+    "latitude": 30.24082,
+    "longitude": -92.01166
+  }
+]
