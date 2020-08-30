@@ -1,5 +1,13 @@
 [
   {
+    "address": "6000 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/30/2020 - 5:37 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.16752,
+    "longitude": -92.08336
+  },
+  {
     "address": "105 RIVER BIRCH DR",
     "city": "LAFAYETTE",
     "time": "08/30/2020 - 5:32 PM",
