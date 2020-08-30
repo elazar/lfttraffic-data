@@ -1,4 +1,18 @@
 [
-  null,
-  null
+  {
+    "address": "W WILLOW ST & NW EVANGELINE TW",
+    "city": "LAFAYETTE",
+    "time": "08/30/2020 - 05:44 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24466,
+    "longitude": -92.01336
+  },
+  {
+    "address": "209 E VEROT SCHOOL RD",
+    "city": "LAFAYETTE",
+    "time": "08/30/2020 - 04:22 AM",
+    "due_to": "Residential Fire",
+    "latitude": 30.17818,
+    "longitude": -92.00081
+  }
 ]
