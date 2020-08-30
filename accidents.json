@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "201 W BUTCHER SWITCH RD",
+    "city": "LAFAYETTE",
+    "time": "08/30/2020 - 2:05 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.28752,
+    "longitude": -92.02598
+  }
+]
