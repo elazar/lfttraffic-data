@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & GUILBEAU RD",
+    "city": "LAFAYETTE",
+    "time": "08/30/2020 - 6:22 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19375,
+    "longitude": -92.0586
+  },
+  {
     "address": "107 BON AMI DR",
     "city": "LAFAYETTE",
     "time": "08/30/2020 - 6:15 PM",
