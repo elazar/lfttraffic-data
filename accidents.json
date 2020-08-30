@@ -1,5 +1,13 @@
 [
   {
+    "address": "EDISON ST & N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "08/29/2020 - 8:50 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2396,
+    "longitude": -92.03243
+  },
+  {
     "address": "NW EVANGELINE TW & W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "08/29/2020 - 8:48 PM",
