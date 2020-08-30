@@ -1,5 +1,13 @@
 [
   {
+    "address": "US 90 EAST HW & PRECISION DR",
+    "city": "BROUSSARD",
+    "time": "08/30/2020 - 10:57 AM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.15643,
+    "longitude": -91.96618
+  },
+  {
     "address": "5800 CAMERON ST",
     "city": "SCOTT",
     "time": "08/30/2020 - 10:52 AM",
