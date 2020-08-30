@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "S COLLEGE RD & COULEE SHORE DR",
+    "city": "LAFAYETTE",
+    "time": "08/30/2020 - 6:10 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20097,
+    "longitude": -92.02921
+  }
+]
