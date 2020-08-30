@@ -1,5 +1,13 @@
 [
   {
+    "address": "JOHNSTON ST & W UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "08/29/2020 - 8:53 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.21729,
+    "longitude": -92.01902
+  },
+  {
     "address": "EDISON ST & N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "08/29/2020 - 8:50 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.24481,
     "longitude": -92.01456
-  },
-  {
-    "address": "400 W MILTON AV",
-    "city": "LAFAYETTE",
-    "time": "08/29/2020 - 8:22 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.10441,
-    "longitude": -92.07831
   },
   {
     "address": "3323 AMBASSADOR CAFFERY PW",
