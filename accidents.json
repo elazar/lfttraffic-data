@@ -1,5 +1,13 @@
 [
   {
+    "address": "319 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "08/30/2020 - 5:28 PM",
+    "due_to": "Fire Investigation",
+    "latitude": 30.23336,
+    "longitude": -92.00903
+  },
+  {
     "address": "1700 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "08/30/2020 - 5:03 PM",
