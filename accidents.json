@@ -1,5 +1,13 @@
 [
   {
+    "address": "5620 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/29/2020 - 9:08 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1779,
+    "longitude": -92.07559
+  },
+  {
     "address": "EDISON ST & N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "08/29/2020 - 8:50 PM",
