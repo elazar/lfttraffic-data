@@ -1,5 +1,13 @@
 [
   {
+    "address": "313 KAISER DR",
+    "city": "BROUSSARD",
+    "time": "08/30/2020 - 5:18 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.14154,
+    "longitude": -92.01015
+  },
+  {
     "address": "1700 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "08/30/2020 - 5:03 PM",
