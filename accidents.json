@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 ROSELAWN BL",
+    "city": "LAFAYETTE",
+    "time": "08/30/2020 - 09:27 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.19147,
+    "longitude": -92.0422
+  },
+  {
     "address": "3810 NE EVANGELINE TW",
     "city": "CARENCRO",
     "time": "08/30/2020 - 09:06 AM",
