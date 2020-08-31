@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "BERTRAND DR & ACOSTA DR",
+    "city": "LAFAYETTE",
+    "time": "08/31/2020 - 4:08 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21078,
+    "longitude": -92.04419
+  }
+]
