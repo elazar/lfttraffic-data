@@ -1,19 +1,19 @@
 [
   {
+    "address": "451 E FOURTH ST",
+    "city": "BROUSSARD",
+    "time": "08/31/2020 - 4:43 PM",
+    "due_to": "Trash Fire",
+    "latitude": 30.1502824,
+    "longitude": -91.9576483
+  },
+  {
     "address": "102 I10 EASTBOUND MM102 HW",
     "city": "LAFAYETTE",
     "time": "08/31/2020 - 4:39 PM",
     "due_to": "Stalled Vehicle",
     "latitude": 30.26255,
     "longitude": -92.00867
-  },
-  {
-    "address": "506 AVENUE C",
-    "city": "BROUSSARD",
-    "time": "08/31/2020 - 4:33 PM",
-    "due_to": "Incoming Call",
-    "latitude": 30.15143,
-    "longitude": -91.95811
   },
   {
     "address": "300 GIRARD PARK DR",
