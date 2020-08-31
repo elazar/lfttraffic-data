@@ -1,5 +1,13 @@
 [
   {
+    "address": "220 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "08/31/2020 - 6:22 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.24651,
+    "longitude": -92.01593
+  },
+  {
     "address": "ST LOUIS ST & SOUVENIR GATE",
     "city": "LAFAYETTE",
     "time": "08/31/2020 - 6:20 PM",
