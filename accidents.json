@@ -24,27 +24,11 @@
     "longitude": -91.98101
   },
   {
-    "address": "402 E FOURTH ST",
-    "city": "BROUSSARD",
-    "time": "08/31/2020 - 4:43 PM",
-    "due_to": "Trash Fire",
-    "latitude": 30.1503,
-    "longitude": -91.9582
-  },
-  {
     "address": "300 GIRARD PARK DR",
     "city": "LAFAYETTE",
     "time": "08/31/2020 - 4:28 PM",
     "due_to": "Vehicle Accident",
     "latitude": 30.2078138,
     "longitude": -92.0182924
-  },
-  {
-    "address": "BERTRAND DR & ACOSTA DR",
-    "city": "LAFAYETTE",
-    "time": "08/31/2020 - 4:08 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.21078,
-    "longitude": -92.04419
   }
 ]
