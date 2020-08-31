@@ -1,5 +1,13 @@
 [
   {
+    "address": "AMBASSADOR CAFFERY PW & BERTRAND DR",
+    "city": "LAFAYETTE",
+    "time": "08/31/2020 - 1:33 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.22941,
+    "longitude": -92.06262
+  },
+  {
     "address": "4010 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "08/31/2020 - 1:29 PM",
@@ -30,14 +38,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.13792,
     "longitude": -92.06754
-  },
-  {
-    "address": "TRAVAILLEUR RD & FRANKLIN LN",
-    "city": "LAFAYETTE",
-    "time": "08/31/2020 - 1:21 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.19509,
-    "longitude": -92.10008
   },
   {
     "address": "3513 W PINHOOK RD",
