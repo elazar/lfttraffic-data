@@ -1,5 +1,13 @@
 [
   {
+    "address": "5627 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/31/2020 - 5:17 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.17587,
+    "longitude": -92.07468
+  },
+  {
     "address": "2121 KALISTE SALOOM RD",
     "city": "LAFAYETTE",
     "time": "08/31/2020 - 5:10 PM",
