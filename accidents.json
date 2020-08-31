@@ -1,5 +1,13 @@
 [
   {
+    "address": "W ST MARY BL & W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "08/31/2020 - 12:27 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22445,
+    "longitude": -92.03174
+  },
+  {
     "address": "1100 KIDDER RD",
     "city": "LAFAYETTE",
     "time": "08/31/2020 - 12:25 PM",
