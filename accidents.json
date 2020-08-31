@@ -1,19 +1,19 @@
 [
   {
+    "address": "KALISTE SALOOM RD & E BROUSSARD RD",
+    "city": "LAFAYETTE",
+    "time": "08/31/2020 - 1:25 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13792,
+    "longitude": -92.06754
+  },
+  {
     "address": "TRAVAILLEUR RD & FRANKLIN LN",
     "city": "LAFAYETTE",
     "time": "08/31/2020 - 1:21 PM",
     "due_to": "Fire Investigation",
     "latitude": 30.19509,
     "longitude": -92.10008
-  },
-  {
-    "address": "E PONT DES MOUTON RD & NE FRONTAGE RD",
-    "city": "LAFAYETTE",
-    "time": "08/31/2020 - 1:15 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.27334,
-    "longitude": -92.01718
   },
   {
     "address": "3513 W PINHOOK RD",
