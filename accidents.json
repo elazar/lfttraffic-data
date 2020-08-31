@@ -1,11 +1,11 @@
 [
   {
-    "address": "AMBASSADOR CAFFERY PW & BERTRAND DR",
+    "address": "2426 W CONGRESS ST",
     "city": "LAFAYETTE",
-    "time": "08/31/2020 - 1:33 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.22941,
-    "longitude": -92.06262
+    "time": "08/31/2020 - 1:41 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21379,
+    "longitude": -92.04917
   },
   {
     "address": "4010 W CONGRESS ST",
@@ -16,51 +16,11 @@
     "longitude": -92.0715
   },
   {
-    "address": "RENA DR & JOHNSTON DR",
+    "address": "100 RENA DR",
     "city": "LAFAYETTE",
     "time": "08/31/2020 - 1:28 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.19435,
-    "longitude": -92.05813
-  },
-  {
-    "address": "3360 NE EVANGELINE TW",
-    "city": "CARENCRO",
-    "time": "08/31/2020 - 1:27 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.29988,
-    "longitude": -92.02402
-  },
-  {
-    "address": "KALISTE SALOOM RD & E BROUSSARD RD",
-    "city": "LAFAYETTE",
-    "time": "08/31/2020 - 1:25 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.13792,
-    "longitude": -92.06754
-  },
-  {
-    "address": "3513 W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "08/31/2020 - 12:57 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.1619858,
-    "longitude": -91.9926288
-  },
-  {
-    "address": "900 JOHNSTON ST",
-    "city": "LAFAYETTE",
-    "time": "08/31/2020 - 12:39 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2205056,
-    "longitude": -92.0171085
-  },
-  {
-    "address": "JOHNSTON ST & GUILBEAU RD",
-    "city": "LAFAYETTE",
-    "time": "08/31/2020 - 12:34 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19375,
-    "longitude": -92.0586
+    "latitude": 30.194098,
+    "longitude": -92.0578696
   }
 ]
