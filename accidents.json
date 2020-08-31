@@ -16,20 +16,12 @@
     "longitude": -92.01718
   },
   {
-    "address": "3439 W PINHOOK RD",
+    "address": "3513 W PINHOOK RD",
     "city": "LAFAYETTE",
     "time": "08/31/2020 - 12:57 PM",
     "due_to": "Vehicle Accident",
-    "latitude": 30.16257,
-    "longitude": -91.99275
-  },
-  {
-    "address": "509 LAFAYETTE ST",
-    "city": "YOUNGSVILLE",
-    "time": "08/31/2020 - 12:41 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.10459,
-    "longitude": -91.99102
+    "latitude": 30.1619858,
+    "longitude": -91.9926288
   },
   {
     "address": "900 JOHNSTON ST",
@@ -46,13 +38,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.19375,
     "longitude": -92.0586
-  },
-  {
-    "address": "SETTLERS TRACE BL & CAMELLIA BL",
-    "city": "LAFAYETTE",
-    "time": "08/31/2020 - 12:08 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.16963,
-    "longitude": -92.039
   }
 ]
