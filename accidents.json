@@ -1,5 +1,13 @@
 [
   {
+    "address": "JENKINS RD & TABB RD",
+    "city": "LAFAYETTE",
+    "time": "08/31/2020 - 2:49 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2253,
+    "longitude": -92.12079
+  },
+  {
     "address": "1800 CHEMIN METAIRIE PW",
     "city": "YOUNGSVILLE",
     "time": "08/31/2020 - 2:43 PM",
