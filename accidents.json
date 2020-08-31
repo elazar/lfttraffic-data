@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "100 LANCASTER DR",
+    "city": "LAFAYETTE",
+    "time": "08/31/2020 - 04:58 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.1372151,
+    "longitude": -92.1239402
+  }
+]
