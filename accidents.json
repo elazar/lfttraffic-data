@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 I10 EASTBOUND MM100 HW",
+    "city": "LAFAYETTE",
+    "time": "08/31/2020 - 4:35 PM",
+    "due_to": "Stalled Vehicle",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "506 AVENUE C",
     "city": "BROUSSARD",
     "time": "08/31/2020 - 4:33 PM",
