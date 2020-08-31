@@ -1,5 +1,13 @@
 [
   {
+    "address": "BERTRAND DR & DULLES DR",
+    "city": "LAFAYETTE",
+    "time": "08/31/2020 - 08:23 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.22233,
+    "longitude": -92.05213
+  },
+  {
     "address": "802 ST CHARLES ST",
     "city": "LAFAYETTE",
     "time": "08/31/2020 - 08:12 AM",
