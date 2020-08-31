@@ -1,5 +1,21 @@
 [
   {
+    "address": "300 GIRARD PARK DR",
+    "city": "LAFAYETTE",
+    "time": "08/31/2020 - 4:28 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2078138,
+    "longitude": -92.0182924
+  },
+  {
+    "address": "830 MALAPART RD",
+    "city": "LAFAYETTE",
+    "time": "08/31/2020 - 4:28 PM",
+    "due_to": "Grass Fire",
+    "latitude": 30.2906849,
+    "longitude": -92.0820733
+  },
+  {
     "address": "BERTRAND DR & ACOSTA DR",
     "city": "LAFAYETTE",
     "time": "08/31/2020 - 4:08 PM",
