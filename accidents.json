@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "address": "1400 S ORANGE ST",
+    "city": "LAFAYETTE",
+    "time": "08/30/2020 - 7:41 PM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.21891,
+    "longitude": -91.99809
+  },
+  {
+    "address": "3601 MOSS ST",
+    "city": "LAFAYETTE",
+    "time": "08/30/2020 - 7:41 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.26998,
+    "longitude": -92.00847
+  }
+]
