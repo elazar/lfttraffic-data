@@ -1,5 +1,13 @@
 [
   {
+    "address": "E UNIVERSITY AV & W PINHOOK RD",
+    "city": "LAFAYETTE",
+    "time": "08/31/2020 - 2:31 PM",
+    "due_to": "Vehicle Accident w/ Injuries",
+    "latitude": 30.21056,
+    "longitude": -92.00978
+  },
+  {
     "address": "2315 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/31/2020 - 2:12 PM",
@@ -14,14 +22,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.21379,
     "longitude": -92.04917
-  },
-  {
-    "address": "4010 W CONGRESS ST",
-    "city": "LAFAYETTE",
-    "time": "08/31/2020 - 1:29 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.19813,
-    "longitude": -92.0715
   },
   {
     "address": "100 RENA DR",
