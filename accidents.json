@@ -1,37 +1,5 @@
 [
   {
-    "address": "913 KIM DR",
-    "city": "LAFAYETTE",
-    "time": "08/31/2020 - 3:21 PM",
-    "due_to": "Fire Alarm-Residential",
-    "latitude": 30.1901,
-    "longitude": -92.04335
-  },
-  {
-    "address": "I49 NORTHBOUND MM3 HW & E GLORIA SWITCH RD",
-    "city": "CARENCRO",
-    "time": "08/31/2020 - 3:18 PM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.29523,
-    "longitude": -92.01609
-  },
-  {
-    "address": "JENKINS RD & TABB RD",
-    "city": "LAFAYETTE",
-    "time": "08/31/2020 - 2:49 PM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2253,
-    "longitude": -92.12079
-  },
-  {
-    "address": "E UNIVERSITY AV & W PINHOOK RD",
-    "city": "LAFAYETTE",
-    "time": "08/31/2020 - 2:31 PM",
-    "due_to": "Vehicle Accident w/ Injuries",
-    "latitude": 30.21056,
-    "longitude": -92.00978
-  },
-  {
     "address": "2315 JOHNSTON ST",
     "city": "LAFAYETTE",
     "time": "08/31/2020 - 2:12 PM",
