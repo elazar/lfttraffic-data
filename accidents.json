@@ -1,5 +1,13 @@
 [
   {
+    "address": "TRAVAILLEUR RD & FRANKLIN LN",
+    "city": "LAFAYETTE",
+    "time": "08/31/2020 - 1:21 PM",
+    "due_to": "Incoming Call",
+    "latitude": 30.19509,
+    "longitude": -92.10008
+  },
+  {
     "address": "E PONT DES MOUTON RD & NE FRONTAGE RD",
     "city": "LAFAYETTE",
     "time": "08/31/2020 - 1:15 PM",
