@@ -1,5 +1,13 @@
 [
   {
+    "address": "619 GREENBRIAR RD",
+    "city": "LAFAYETTE",
+    "time": "08/31/2020 - 10:24 AM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.19535,
+    "longitude": -92.04262
+  },
+  {
     "address": "111 TEXAS ST",
     "city": "LAFAYETTE",
     "time": "08/31/2020 - 10:14 AM",
