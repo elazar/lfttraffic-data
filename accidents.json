@@ -1,5 +1,13 @@
 [
   {
+    "address": "ANDOVER RD & RIDGE RD",
+    "city": "LAFAYETTE",
+    "time": "08/31/2020 - 09:45 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.181,
+    "longitude": -92.163
+  },
+  {
     "address": "NE EVANGELINE TW & E SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "08/31/2020 - 09:08 AM",
