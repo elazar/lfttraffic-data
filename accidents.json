@@ -1,5 +1,13 @@
 [
   {
+    "address": "6829 AMBASSADOR CAFFERY PW",
+    "city": "BROUSSARD",
+    "time": "08/31/2020 - 4:45 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.13482,
+    "longitude": -91.98101
+  },
+  {
     "address": "451 E FOURTH ST",
     "city": "BROUSSARD",
     "time": "08/31/2020 - 4:43 PM",
@@ -22,14 +30,6 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.2078138,
     "longitude": -92.0182924
-  },
-  {
-    "address": "830 MALAPART RD",
-    "city": "LAFAYETTE",
-    "time": "08/31/2020 - 4:28 PM",
-    "due_to": "Grass Fire",
-    "latitude": 30.2906849,
-    "longitude": -92.0820733
   },
   {
     "address": "BERTRAND DR & ACOSTA DR",
