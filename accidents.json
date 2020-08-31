@@ -1,5 +1,13 @@
 [
   {
+    "address": "108 LIMOGES ST",
+    "city": "LAFAYETTE",
+    "time": "08/31/2020 - 5:57 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.19116,
+    "longitude": -92.11266
+  },
+  {
     "address": "JOHNSTON ST & DUHON RD",
     "city": "LAFAYETTE",
     "time": "08/31/2020 - 5:47 PM",
