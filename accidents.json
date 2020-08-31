@@ -1,5 +1,21 @@
 [
   {
+    "address": "2426 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "08/31/2020 - 12:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.21379,
+    "longitude": -92.04917
+  },
+  {
+    "address": "900 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "08/31/2020 - 12:39 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2205056,
+    "longitude": -92.0171085
+  },
+  {
     "address": "JOHNSTON ST & GUILBEAU RD",
     "city": "LAFAYETTE",
     "time": "08/31/2020 - 12:34 PM",
