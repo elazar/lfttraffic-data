@@ -1,5 +1,13 @@
 [
   {
+    "address": "3800 W CONGRESS ST",
+    "city": "LAFAYETTE",
+    "time": "08/31/2020 - 09:50 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2021179,
+    "longitude": -92.0645847
+  },
+  {
     "address": "ANDOVER RD & RIDGE RD",
     "city": "LAFAYETTE",
     "time": "08/31/2020 - 09:45 AM",
