@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 THEO ST",
+    "city": "LAFAYETTE",
+    "time": "08/31/2020 - 08:51 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.1962,
+    "longitude": -92.00305
+  },
+  {
     "address": "BERTRAND DR & DULLES DR",
     "city": "LAFAYETTE",
     "time": "08/31/2020 - 08:23 AM",
