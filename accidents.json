@@ -8,27 +8,11 @@
     "longitude": -92.04262
   },
   {
-    "address": "111 TEXAS ST",
-    "city": "LAFAYETTE",
-    "time": "08/31/2020 - 10:14 AM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.2264,
-    "longitude": -91.9976
-  },
-  {
     "address": "3800 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "08/31/2020 - 09:50 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.2021179,
     "longitude": -92.0645847
-  },
-  {
-    "address": "ANDOVER RD & RIDGE RD",
-    "city": "LAFAYETTE",
-    "time": "08/31/2020 - 09:45 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.181,
-    "longitude": -92.163
   }
 ]
