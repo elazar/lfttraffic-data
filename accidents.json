@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "110 STILL WATERS RD",
+    "city": "BROUSSARD",
+    "time": "08/30/2020 - 10:12 PM",
+    "due_to": "Fire Alarm-Residential",
+    "latitude": 30.11342,
+    "longitude": -91.9654
+  }
+]
