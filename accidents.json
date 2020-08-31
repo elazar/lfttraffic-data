@@ -11,7 +11,7 @@
     "address": "SETTLERS TRACE BL & CAMELLIA BL",
     "city": "LAFAYETTE",
     "time": "08/31/2020 - 12:08 PM",
-    "due_to": "Vehicle Accident",
+    "due_to": "Vehicle Accident w/ Injuries",
     "latitude": 30.16963,
     "longitude": -92.039
   },
@@ -22,13 +22,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.15808,
     "longitude": -92.04919
-  },
-  {
-    "address": "2700 NE EVANGELINE TW",
-    "city": "LAFAYETTE",
-    "time": "08/31/2020 - 11:15 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.2661,
-    "longitude": -92.0166
   }
 ]
