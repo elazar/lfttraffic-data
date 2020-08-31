@@ -1,5 +1,13 @@
 [
   {
+    "address": "509 LAFAYETTE ST",
+    "city": "YOUNGSVILLE",
+    "time": "08/31/2020 - 12:41 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.10459,
+    "longitude": -91.99102
+  },
+  {
     "address": "2426 W CONGRESS ST",
     "city": "LAFAYETTE",
     "time": "08/31/2020 - 12:39 PM",
