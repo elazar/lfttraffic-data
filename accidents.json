@@ -6,13 +6,5 @@
     "due_to": "Vehicle Accident",
     "latitude": 30.23496,
     "longitude": -92.17607
-  },
-  {
-    "address": "655 MARIE ANTOINETTE ST",
-    "city": "LAFAYETTE",
-    "time": "08/31/2020 - 9:10 PM",
-    "due_to": "Fire Investigation",
-    "latitude": 30.20969,
-    "longitude": -92.06417
   }
 ]
