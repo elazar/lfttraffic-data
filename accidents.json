@@ -1,5 +1,13 @@
 [
   {
+    "address": "2315 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "09/01/2020 - 07:21 AM",
+    "due_to": "Traffic Control",
+    "latitude": 30.20898,
+    "longitude": -92.0305
+  },
+  {
     "address": "1522 CARMEL DR",
     "city": "LAFAYETTE",
     "time": "09/01/2020 - 07:18 AM",
