@@ -1,18 +1,3 @@
 [
-  {
-    "address": "MADELINE AV & HELLEN ST",
-    "city": "LAFAYETTE",
-    "time": "09/01/2020 - 06:06 AM",
-    "due_to": "Stalled Vehicle",
-    "latitude": 30.23831,
-    "longitude": -92.02614
-  },
-  {
-    "address": "103 I10 EASTBOUND MM103A HW",
-    "city": "LAFAYETTE",
-    "time": "09/01/2020 - 05:12 AM",
-    "due_to": "Traffic Control",
-    "latitude": 30.26255,
-    "longitude": -92.00867
-  }
+  null
 ]
