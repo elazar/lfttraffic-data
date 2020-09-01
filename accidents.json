@@ -1,5 +1,13 @@
 [
   {
+    "address": "600 ROSELAWN BL",
+    "city": "LAFAYETTE",
+    "time": "09/01/2020 - 01:57 AM",
+    "due_to": "Fire Alarm-Commercial",
+    "latitude": 30.19147,
+    "longitude": -92.0422
+  },
+  {
     "address": "N UNIVERSITY AV & W PONT DES MOUTON RD",
     "city": "LAFAYETTE",
     "time": "09/01/2020 - 01:18 AM",
