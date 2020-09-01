@@ -1,5 +1,13 @@
 [
   {
+    "address": "ST MARY ST & AVENUE A ST",
+    "city": "SCOTT",
+    "time": "09/01/2020 - 12:17 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.23699,
+    "longitude": -92.09501
+  },
+  {
     "address": "908 CARMEL DR",
     "city": "LAFAYETTE",
     "time": "09/01/2020 - 12:10 PM",
