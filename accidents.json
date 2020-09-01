@@ -1,5 +1,13 @@
 [
   {
+    "address": "800 RIDGE RD",
+    "city": "SCOTT",
+    "time": "09/01/2020 - 05:00 AM",
+    "due_to": "Road Hazard",
+    "latitude": 30.18187,
+    "longitude": -92.10849
+  },
+  {
     "address": "I10 WESTBOUND MM105 HW & LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "09/01/2020 - 02:57 AM",
