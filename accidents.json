@@ -1,5 +1,13 @@
 [
   {
+    "address": "2509 JOHNSTON ST",
+    "city": "LAFAYETTE",
+    "time": "09/01/2020 - 07:57 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.20855,
+    "longitude": -92.03488
+  },
+  {
     "address": "8800 CAMERON ST",
     "city": "DUSON",
     "time": "09/01/2020 - 07:54 AM",
