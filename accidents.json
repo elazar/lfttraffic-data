@@ -1,5 +1,13 @@
 [
   {
+    "address": "106 I10 WESTBOUND MM106 HW",
+    "city": "LAFAYETTE",
+    "time": "08/31/2020 - 7:17 PM",
+    "due_to": "Vehicle Fire",
+    "latitude": 30.26255,
+    "longitude": -92.00867
+  },
+  {
     "address": "AMBASSADOR CAFFERY PW & DULLES DR",
     "city": "LAFAYETTE",
     "time": "08/31/2020 - 7:12 PM",
