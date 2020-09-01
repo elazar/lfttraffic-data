@@ -1,5 +1,13 @@
 [
   {
+    "address": "1701 N UNIVERSITY AV",
+    "city": "LAFAYETTE",
+    "time": "09/01/2020 - 10:40 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.25216,
+    "longitude": -92.03842
+  },
+  {
     "address": "215 W WILLOW ST",
     "city": "LAFAYETTE",
     "time": "09/01/2020 - 10:30 AM",
