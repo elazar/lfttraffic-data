@@ -1,5 +1,13 @@
 [
   {
+    "address": "100 KENTWOOD DR",
+    "city": "CARENCRO",
+    "time": "09/01/2020 - 1:24 PM",
+    "due_to": "Traffic Control",
+    "latitude": 30.30259,
+    "longitude": -92.04897
+  },
+  {
     "address": "200 N COLLEGE RD",
     "city": "LAFAYETTE",
     "time": "09/01/2020 - 1:18 PM",
