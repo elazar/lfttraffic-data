@@ -1,5 +1,13 @@
 [
   {
+    "address": "700 I10 SOUTH FRONTAGE RD",
+    "city": "SCOTT",
+    "time": "09/01/2020 - 12:33 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24443,
+    "longitude": -92.10608
+  },
+  {
     "address": "SE EVANGELINE TW & LOUISIANA AV",
     "city": "LAFAYETTE",
     "time": "09/01/2020 - 12:26 PM",
