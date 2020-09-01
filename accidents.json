@@ -1,19 +1,19 @@
 [
   {
+    "address": "S RICHFIELD RD & FENSTER RD",
+    "city": "LAFAYETTE",
+    "time": "09/01/2020 - 11:09 AM",
+    "due_to": "Incoming Call",
+    "latitude": 30.18308,
+    "longitude": -92.17572
+  },
+  {
     "address": "1701 N UNIVERSITY AV",
     "city": "LAFAYETTE",
     "time": "09/01/2020 - 10:40 AM",
     "due_to": "Vehicle Accident",
     "latitude": 30.25216,
     "longitude": -92.03842
-  },
-  {
-    "address": "215 W WILLOW ST",
-    "city": "LAFAYETTE",
-    "time": "09/01/2020 - 10:30 AM",
-    "due_to": "Vehicle Accident",
-    "latitude": 30.24469,
-    "longitude": -92.01605
   },
   {
     "address": "NW EVANGELINE TW & I10 HW",
