@@ -1,11 +1,11 @@
 [
   {
-    "address": "S RICHFIELD RD & FENSTER RD",
+    "address": "2313 S RICHFIELD RD",
     "city": "LAFAYETTE",
     "time": "09/01/2020 - 11:09 AM",
-    "due_to": "Incoming Call",
-    "latitude": 30.18308,
-    "longitude": -92.17572
+    "due_to": "Fire Investigation",
+    "latitude": 30.18219,
+    "longitude": -92.17521
   },
   {
     "address": "1701 N UNIVERSITY AV",
