@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "address": "1111 MUDD AV",
+    "city": "LAFAYETTE",
+    "time": "09/01/2020 - 12:01 PM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.2320523,
+    "longitude": -92.0042088
+  }
+]
