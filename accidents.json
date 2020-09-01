@@ -1,5 +1,13 @@
 [
   {
+    "address": "215 W WILLOW ST",
+    "city": "LAFAYETTE",
+    "time": "09/01/2020 - 10:30 AM",
+    "due_to": "Vehicle Accident",
+    "latitude": 30.24469,
+    "longitude": -92.01605
+  },
+  {
     "address": "720 W SIMCOE ST",
     "city": "LAFAYETTE",
     "time": "09/01/2020 - 10:18 AM",
